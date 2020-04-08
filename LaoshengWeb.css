@@ -1,0 +1,18 @@
+   Body 	{background: #EEEECC ; margin-left:4%; }
+  p.you  {text-align: right; }
+div.you  {text-align: right; }
+div#top 	{margin-bottom:-3%; }	/* div#tuli */
+div#top2 	{margin-top: -8%; font-size: smaller; text-align: center; } /*margin-top: 2%;*/
+div.kuai  	{
+	float: left; margin:1%; 
+	width:  452px ; 				/*480px 25% width: auto; min-width: 360px;*/
+	height: auto;
+	/*margin-top: -0.5%;*/
+	}
+
+/* h2#sou      {margin-top: 1.5%; }*/
+/* h2	 	{margin-top: -1%; }*/
+br 		{line-height: 1.8;  }	/*br  	{margin: 0.5% auto; }*/
+
+/* 
+*/
