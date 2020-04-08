@@ -3,10 +3,10 @@
 
 段落预览
 =======
-+ [3-浏览之器](sample/3-浏览之器.mht)
-+ [8-财务自求](sample/8-财务自求.mht)
-+ [老生常谈，纯手工打造的导航网页](sample/老生常谈，纯手工打造的导航网页.mht)
 
++ [样张预览 （在线）](https://diamonwoo.github.io/Laosheng2019/)
++ [3-浏览之器 （下载测试）](https://diamonwoo.github.io/sample/3-浏览之器.mht)
++ [3-浏览之器 （下载测试2）](./sample/3-浏览之器.mht)
 
 网页效果
 =======
