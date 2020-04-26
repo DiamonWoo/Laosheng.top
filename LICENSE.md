@@ -1,10 +1,11 @@
 Creative Commons License
+
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) 
 
 知识共享许可证
-署名-非商业性使用-禁止演绎 4.0 国际
 
-=======================================================================
+署名-非商业性使用-禁止演绎 4.0 国际
+---------------------------------------------------------------------------
 
 您可以自由地：
 +    共享 — 在任何媒介以任何形式复制、发行本作品 
@@ -15,6 +16,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 +    禁止演绎 — 如果您 再混合、转换、或者基于该作品创作，您不可以分发修改作品。
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-Hans
+
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed
 
 You are free to:
