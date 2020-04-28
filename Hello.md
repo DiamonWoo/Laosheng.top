@@ -1,4 +1,4 @@
-Hello.md
+Hello
 ==========
 2020 0428
 
@@ -11,8 +11,10 @@ Hello.md
 	Laosheng.top
 
 
-网址二维码
 
-![网址二维码图片载入中](./hello2index.gif)
 
-<small>https://Laosheng.top</small>
+本页面二维码
+
+![网址二维码图片载入中](./helloQR.gif)
+
+https://Laosheng.top/Hello
