@@ -12,10 +12,10 @@ Todo 2020
 
 LaoShengHistory-2.txt.md
 -------------------------
-
+<pre>
 20200509☆	首页的更新直接引用GitHub的历史页，本页今后只记录首页之外的更新。
-
-		https://github.com/DiamonWoo/Laosheng2019/commits/master/index.html
+</pre>
+https://github.com/DiamonWoo/Laosheng2019/commits/master/index.html
 
 <pre>
 20200426★	作者致辞增加微信群，为1.0准备。
