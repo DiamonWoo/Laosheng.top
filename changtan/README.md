@@ -11,7 +11,7 @@
 
 * [有什么可信赖的健康资讯？](./介绍几个权威的医疗健康类报纸.txt.md)
 
+- [备用网址](https://github.com/DiamonWoo/Laosheng2019/blob/master/changtan/介绍几个权威的医疗健康类报纸.txt.md)
 
 
-
-* https://laosheng.top/changtan
+https://laosheng.top/changtan
