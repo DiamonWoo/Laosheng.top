@@ -13,7 +13,7 @@ https://laosheng.top
 导游词
 --------
 
-+ [为什么证监会不要App？](changtan/证券市场法定信息披露媒体.txt.md)
++ [证监会为什么不要App？](changtan/证券市场法定信息披露媒体.txt.md)
 + [App与浏览器到底有什么区别？](changtan/App和浏览器的三个区别.txt.md)
 + [有什么可信赖的健康资讯？](changtan/介绍几个权威的医疗健康类报纸.txt.md)
 
