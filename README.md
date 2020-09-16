@@ -26,9 +26,6 @@ https://laosheng.top/changtan
 在大屏幕上的页面显示效果：
 ![大屏幕上的页面效果](sample/ALLView-720p-PC.png)
 
-在手机小屏幕上的效果：
-+ ![](./sample/TailView-360p-phone.png)
-
 
 鸣谢
 ------
