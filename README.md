@@ -1,7 +1,7 @@
 老生常谈
 ========
 
-	这里是<a title="老生常谈排行榜" href="https://laosheng.top">上一代互联网</a>，请“在浏览器打开”。
+	这里是上一代互联网，请“在浏览器打开”。
 
 https://laosheng.top
 
