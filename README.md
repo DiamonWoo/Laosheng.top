@@ -24,10 +24,10 @@ https://laosheng.top/changtan
 --------
 
 在微信内建议点开页面菜单，选‘在浏览器打开’：  
-+ ![](Help-WeChat.png)
+ ![](Help-WeChat.png)
 
-在大屏幕上的页面显示效果：  
-![大屏幕上的页面效果](sample/ALLView-720p-PC.png)
+在电脑浏览器上可显示指针提示：  
+ ![](Help-Mouse.png)
 
 
 鸣谢
