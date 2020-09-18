@@ -5,11 +5,11 @@
 
 https://laosheng.top
 
-* 🌏 [老生常谈排行榜](index2.html)，纯手工打造的的上一代互联网导航 🚩
+* 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站")，纯手工打造的的上一代互联网导航 🚩
 
-* 📰 [大萌阅报栏](yuebaolan.html)，全国三百余份地区报纸线上阅读。
+* 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国三百余份地区报纸线上阅读。
 
-[为什么做这个网站？](author/speech.txt)，网站新开通，欢迎[报告问题](author/contact.txt)。
+[为什么做这个网站？](author/speech.txt "作者致辞")，网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
 
 
 导游词
