@@ -9,7 +9,7 @@ https://laosheng.top
 
 * 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国三百余份地区报纸线上阅读。
 
-[为什么做这个网站？](author/speech.txt "作者致辞")，网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
+[为什么做这个网站？](author/speech.txt "作者致辞") 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
 
 
 导游词
