@@ -17,7 +17,7 @@ https://laosheng.top
 + [App与浏览器到底有什么区别？](changtan/App和浏览器的三个区别.txt.md)
 + [有什么可信赖的健康资讯？](changtan/介绍几个权威的医疗健康类报纸.txt.md)
 
-https://laosheng.top/changtan
+网站新开通，欢迎报告问题
 
 
 浏览方法
