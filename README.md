@@ -15,7 +15,7 @@ https://laosheng.top
 导游词
 --------
 
-+ [证监会为什么不要App？](changtan/证券市场法定信息披露媒体.txt.md)
++ [证监会为什么不要App？](changtan/证监会为什么不要App？.txt.md)
 + [App与浏览器到底有什么区别？](changtan/App和浏览器的三个区别.txt.md)
 + [有什么可信赖的健康资讯？](changtan/介绍几个权威的医疗健康类报纸.txt.md)
 
@@ -33,6 +33,8 @@ https://laosheng.top
 鸣谢
 ------
 
+　　感谢为Github为老生常谈提供网站托管，感谢开发了火狐浏览器的谋智开发者网络提供web技术文档。点击此处可了解老生常谈是如何[全手工打造的网站](author/pagework.txt)。
+  
 ![感谢Github支持本站](https://tosdr.org/logo/github.png)
-
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
+![MDN](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
