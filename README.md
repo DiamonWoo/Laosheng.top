@@ -3,13 +3,15 @@
 
 	这里是上一代互联网，请“在浏览器打开”。
 
-https://laosheng.top
+[欢迎辞](author/speech.txt "初心与历程")
 
 * 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站")，纯手工打造的的上一代互联网导航 🚩
 
 * 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国三百余份地区报纸线上阅读。
 
-[为什么做这个网站？](author/speech.txt "作者致辞") 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
+*最近更新：增加湖南《星沙时报》、西藏《昌都报》*
+
+ 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。  https://laosheng.top
 
 
 导游词
