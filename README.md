@@ -9,9 +9,7 @@
 
 * 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国三百余份地区报纸线上阅读。
 
-https://laosheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。 
-
-*最近更新：增加湖南《星沙时报》、西藏《昌都报》*
+https://laosheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。 *最近更新：增加湖南《星沙时报》、西藏《昌都报》*
 
 
 导游词
