@@ -1,7 +1,7 @@
 /* Laosheng.top 老生常谈排行榜 */
 
 	body 	{background: #EEEECC ; margin-left:4%; line-height: 1.75; }
-	div h2 	{width: 36%; line-height: 1.2; }		/* {margin-top: -1%; }*/
+	h2 	{line-height: 1.2; }		/* width: 36%; {margin-top: -1%; }*/
 	/*br	{margin: 0.5% auto; }*/  
 
 div.kuai	{float: left; margin:1%; 
