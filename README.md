@@ -33,7 +33,7 @@
 鸣谢
 ------
 
-　　感谢 Github 为老生常谈提供网站托管，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。您也可以了解老生常谈是如何成为[全手工打造的网站](author/pagework.txt "稍后推出")。
+　　感谢 Github 为老生常谈提供网站托管，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。您也可以了解老生常谈是如何成为**全手工打造的网站**(author/pagework.txt "稍后推出")。
   
 ![感谢Github支持本站](https://tosdr.org/logo/github.png)
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
