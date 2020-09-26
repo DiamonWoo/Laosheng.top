@@ -9,7 +9,7 @@
 
 * 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国三百余份地区报纸线上阅读。
 
-最近更新：完成甘肃内蒙古地区报纸。https://laosheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
+最近更新：完成甘肃、内蒙古地级报纸。https://laosheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
 
 
 导游词
