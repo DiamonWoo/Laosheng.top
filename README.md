@@ -41,6 +41,6 @@
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 
-
+<html>
 <script language="javascript" src="http://www.alicount.com/1683">
-</script>
+</script></html>
