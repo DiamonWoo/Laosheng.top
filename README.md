@@ -27,7 +27,7 @@
  ![](Help-WeChat.png)
 
 在电脑浏览器上可显示批注(指针提示)：  
- ![](Help-Mouse.png)
+ ![](Help-Mouse.png)  
 在各手机浏览器中只发现火狐能支持批注(长按链接弹出)。
 
 
