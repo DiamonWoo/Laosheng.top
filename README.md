@@ -40,3 +40,7 @@
 ![谋智开发者网络](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
+
+<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=laosheng.top/index2.html&digit=style/plain/12/&reloads=1" alt="reliablecounter.com" title="网站计数器" border="0"></a>
+<br />
+<a href="http://https://www.reliablecounter.com/blog" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter.com</a>
