@@ -44,5 +44,5 @@
 
 <html>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
-<a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=laosheng.top&digit=style/black-and-white/5/&reloads=1" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://https://www.reliablecounter.com/blog" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter.com</a>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=laosheng.top/&digit=style/black-and-white/5/&reloads=1" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://relia" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter blog</a>
 </html>
