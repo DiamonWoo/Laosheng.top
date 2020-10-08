@@ -43,6 +43,14 @@
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 
 <html>
-<script language="javascript" src="http://www.alicount.com/1683"></script>
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
+<script language="javascript" src="http://www.alicount.com/1683"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-179794713-1');
+</script>
 </html>
