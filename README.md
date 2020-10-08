@@ -34,7 +34,7 @@
 鸣谢
 ------
 
-　　感谢 Github 为老生常谈提供网站托管，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。您也可以了解老生常谈是如何成为**全手工打造的网站**(author/pagework.txt "稍后推出")。
+　　感谢 Github 为老生常谈提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。您也可以了解老生常谈是如何成为**全手工打造的网站**(author/pagework.txt "稍后推出")。
   
 ![感谢Github支持本站](https://tosdr.org/logo/github.png)
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
@@ -42,7 +42,6 @@
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 
-<html>
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -53,4 +52,3 @@
   gtag('js', new Date());
   gtag('config', 'UA-179794713-1');
 </script>
-</html>
