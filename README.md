@@ -3,13 +3,13 @@
 
 	这里是上一代互联网，请“在浏览器打开”。
 
-[欢迎辞](author/speech.txt "初心与历程")
+[欢迎辞](author/speech.txt "初心与历程")🙂
 
 * 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站")，纯手工打造的的上一代互联网导航 🚩
 
-* 📰 [大萌阅报栏](yuebaolan.html "全国报讯，正在汇集")，全国三百余份地区报纸线上阅读。
+* 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国四百余份地区报纸线上阅读。
 
-最近更新：完成新疆、甘肃地级报纸。https://laosheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
+最近更新：辽沈战役结束，地方报进入终局阶段。可以在[小日志](broad/blog.txt)看看网站有什么变化。
 
 
 导游词
@@ -34,7 +34,7 @@
 鸣谢
 ------
 
-　　感谢 Github 为老生常谈提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。您也可以了解老生常谈是如何成为**全手工打造的网站**(author/pagework.txt "稍后推出")。
+　　感谢 Github 为老生常谈提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。LaoSheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
   
 ![感谢Github支持本站](https://tosdr.org/logo/github.png)
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
