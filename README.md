@@ -16,9 +16,10 @@
 --------
 
 + [证监会为什么不要App？](changtan/证监会公布的七家信息披露媒体.txt.md)
-+ [App与浏览器到底有什么区别？](changtan/App和浏览器的三个区别.txt.md) （202009更新）
++ [App与浏览器到底有什么区别？](changtan/App和浏览器的三个区别.txt.md)（202009更新）
 + [有什么可信赖的健康资讯？](changtan/介绍几个权威的医疗健康类报纸.txt.md)
 + 中国报纸的数字化技术为什么全球领先？
+
 
 浏览方法
 --------
@@ -30,11 +31,10 @@
  ![](Help-Mouse.png)  
 在各手机浏览器中只发现火狐能支持批注(长按链接弹出)。
 
-
 鸣谢
 ------
 
-　　感谢 Github 为老生常谈提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。LaoSheng.top 网站新开通，欢迎[报告问题](author/contact.txt "联系作者")。
+　　感谢 Github 为老生常谈© 提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/contact.txt "联系作者")报告问题。
   
 ![感谢Github支持本站](https://tosdr.org/logo/github.png)
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
