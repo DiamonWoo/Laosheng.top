@@ -9,7 +9,7 @@
 
 * 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国四百余份地区报纸线上阅读。
 
-今天来到一个家里有矿的省份，在[小笔记](broad/blog.txt "建站小笔记")看看网站有什么变化。
+海南岛、吐鲁番和少林寺，哦，这个，我们来到了人口过亿那个省份，在[小笔记](broad/blog.txt "建站小笔记")看看网站有什么变化。
 
 
 导游词
@@ -46,9 +46,7 @@
 <script language="javascript" src="http://www.alicount.com/1683"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
+<script>  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-179794713-1');
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
