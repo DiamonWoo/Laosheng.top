@@ -1,0 +1,43 @@
+/* Laosheng.top 老生常谈排行榜 */
+
+	body 	{background: #EEEECC  ; 			/* Cornsilk #FFF8DC	 */
+		margin-left:4%; line-height: 1.75; }
+	h2 	{line-height: 1.2; }			/* {width: 36%; margin-top: -1%; }*/
+	/*br	{margin: 0.5% auto; }*/  
+
+div.kuai	{float: left; margin:1%; 
+		width:  452px ; 		/*480px 25% width: auto; min-width: 360px;*/
+		height: auto;	}	/*margin-top: -0.5%;*/
+div#bao 	{height: 475px; 	line-height: 1.8; 	/* 此处行高仅对Fx有效 */
+		background-image: url('LaoshengMap.png'); background-position: -270px -90px; }	/*, no-repeat, */
+
+div.you 	{text-align: right; }
+div#top 	{margin-bottom:-3%; }	/* div#tuli */
+div#top2	{margin-top: -8%; text-align: left; font-size: smaller; } /*margin-top: 2%;中文搜索的质量*/
+div#top5	{width: 50%;         float: right;  font-size: smaller; } 
+  p.you 	{text-align: right; }
+
+table#bangwai
+			{ background-color: PaleGreen;}		/*rgb(200,255,200) gold*/
+table#bangwai td
+			{ width: 20%; text-align: center; }	/* text-align: center; */
+/* 
+色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
+Body 	{text-size-adjust:none; }	
+有效！	解决移动端chrome部分字号变小问题；但是，页面缩放就没有了。
+P   	{max-width:  99999px ; }
+Body 	{max-height: 100% ;  font-size: .28 rem; }
+实测无效  
+Form	{font-size: inherit; }　暂时不用Form。
+
+选择器的各种语法
+	HTML中： <p id="red">这个段落是红色。</p>
+CSS中用#指向ID：#Hong {color:red;}
+	HTML中： <h1 class="center">   This heading will be center-aligned   </h1>
+CSS中用.指向类：.center {text-align: center} 
+
+id和类均可派生联用
+用逗号分组：	h1,h2,h3,h4,h5,h6 {  color: green;  }
+用空格派生：	？
+<li><strong> 位于li元素内的strong做斜体 </strong></li> { font-style: italic; }
+*/
