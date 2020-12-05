@@ -1,4 +1,5 @@
-﻿老生常谈排行榜  
+老生常谈排行榜
+
 提名网站与落榜记录
 ===================
 大萌 © 202012
@@ -34,6 +35,11 @@
 4、电视节目单
 -------------
 
+网媒  
+	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
+	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
+	　<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>
+
 7、科研学习
 ------------
 
@@ -56,21 +62,21 @@
 落榜记录
 =========
 
-2020/11/21
+2020/11/21  
 	搜狗百科的“中国十大图书馆”条目，因没有给出各馆网址且数据更新不及时，即将落榜，网址存档：https://baike.sogou.com/v143179817.htm 。
 
-2020/11/11
+2020/11/11  
 	腾讯地图、搜狗地图落榜，这两家都没有外国地图。https://ditu.qq.com https://map.sogou.com/?IPLOC=CN" ，取而代之的是 天地图和地球在线。  
 	微软翻译下榜，微软自己也不怎么推荐这个页面。https://cn.bing.com/translator 被词霸翻译取代。
 
-2020/9/5
+2020/9/5  
 	中华万年历兼容性不好 http://yun.rili.cn/wnl/index.html ，在安卓上会跳转到 http://yun.rili.cn/wnl/m/index.html ，Fx和via浏览器上主体空白，微信和X浏览器可显示。用日历网取代之 https://m.rili.com.cn/ 
 
 
-2020/7/22 
+2020/7/22  
 	Mezw搜索服务停止 so.mezw.com，删除。
 
-2020/6/22 
+2020/6/22  
 	西祠胡同 手机端网页强制下载apk（疑似秘制浏览器），去除链接 xici.net。（后删除）
 
 
