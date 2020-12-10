@@ -53,4 +53,3 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🗄️📃📑☸️♎⚖️☀️📕📘📗📖🖨️
