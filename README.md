@@ -9,6 +9,10 @@
 
 * 📰 [大萌阅报栏](yuebaolan.html "全球报讯，正在汇集")，全国各省456份地级城市报纸线上阅读。
 
+* 📞 [市民服务热线](youguanbumen.html "12345等电话服务热线")，草稿，有关部门帮助您
+
+* 💎 [大萌法律读本](./falv "法治中国进行时")，暂未上线，适于阅读和打印的主要法律文本。🖨️
+
 更新欢迎辞，新建帮助页，在[小笔记](broad/blog.txt "建站小笔记")看看网站有什么变化。
 
 
@@ -17,7 +21,7 @@
 
 + [证监会为什么不要App？](changtan/8-证券信息披露的法定媒体.txt.md)
 + [App与浏览器到底有什么区别？](changtan/App和浏览器的三个区别.txt.md)（202009 第二稿）
-+ [有什么不骗人的保健资讯？](changtan/6-权威的医疗保健类报纸.txt.md)（202012 第二稿）
++ [有什么不骗人的保健知识？](changtan/6-权威的医疗保健类报纸.txt)（202012 第二稿）
 + 中国报纸的数字化技术为什么全球领先？
 
 
@@ -33,7 +37,7 @@
 鸣谢
 ------
 
-　　感谢 Github 为“老生常谈”提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "联系作者")报告问题，谢谢！
+　　感谢 Github 为“老生常谈”提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "帮助作者")报告问题，谢谢！
   
 ![感谢Github支持本站](https://tosdr.org/logo/github.png)
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
@@ -49,3 +53,4 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
+🗄️📃📑☸️♎⚖️☀️📕📘📗📖🖨️
