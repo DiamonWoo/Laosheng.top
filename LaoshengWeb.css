@@ -1,14 +1,14 @@
 /* Laosheng.top 老生常谈排行榜 */
 
 	body 	{background: #EEEECC ; margin-left:4%; line-height: 1.75; }
-	h2 	{line-height: 1.2; }		/* width: 36%; {margin-top: -1%; }*/
+	h2 	{margin-top:1%; line-height: 1.2; }		/* width: 36%; {margin-top: -1%; }*/
 	/*br	{margin: 0.5% auto; }*/  
 
 div.kuai	{float: left; margin:1%; 
 		width:  452px ; 		/*480px 25% width: auto; min-width: 360px;*/
 		height: auto;	}	/*margin-top: -0.5%;*/
 div#bao 	{height: 475px; 	line-height: 1.8; 	/* 此处行高仅对Fx有效 */
-		background-image: url('LaoshengMap.png'); background-position: -270px -90px; }	/*, no-repeat, */
+		background-image: url('LaoshengMap.png'); background-position: -270px -108px; }	/*, no-repeat, */
 
 div.you 	{text-align: right; }
 div#top 	{margin-bottom:-3%; }	/* div#tuli */
