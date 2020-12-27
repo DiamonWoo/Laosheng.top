@@ -39,9 +39,9 @@
 
 　　《中华人民共和国监察法》全文 [markdown格式]( "根本大法，依宪治国")（[下载]()）、[ePub格式]( "")
 
-　　引用来源：[中国人大网](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-03/21/content_2052362.htm)
-　　对照来源：[中央纪委国家监委网](http://www.ccdi.gov.cn/fgk/law_display/6340)
-　　立法背景：[十三届全国人民代表大会第一次会议](http://www.npc.gov.cn/zgrdw/npc/lfzt/rlyw/node_33561.htm)
+　　引用来源：[中国人大网](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-03/21/content_2052362.htm)  
+　　对照来源：[中央纪委国家监委网](http://www.ccdi.gov.cn/fgk/law_display/6340)  
+　　立法背景：[十三届全国人民代表大会第一次会议](http://www.npc.gov.cn/zgrdw/npc/lfzt/rlyw/node_33561.htm)  
 　　制定根据：《宪法》  
 　　公布日期：	　生效日期：  
 　　文本字数：	　校对人：大萌  
@@ -61,6 +61,4 @@
 
 　　延申法律：
 
-···
-　　法律文本属于公有领域版权，任何人可以直接转载/引用。
-···
+	法律文本属于公有领域版权，任何人可以直接转载/引用。
