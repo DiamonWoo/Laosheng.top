@@ -1,8 +1,8 @@
 老生常谈排行榜
 
 提名网站与落榜记录
-===================
-大萌 © 202012
+====================
+大萌 © 202012~202101
 
 	请“在浏览器打开”本页。
 
@@ -12,11 +12,6 @@
 1、搜罗天下
 -----------
 
-	美国宾州	https://duckduckgo.com/ 	也作；duck.com
-	荷兰(谷歌API)	https://startpage.com
-	韩国LookSmart	https://looksmart.com
-	轻量简洁的LookAo	https://lookao.com
-
 	人民日报阐述改革和开放 
 		http://data.people.com.cn/rmrb/19850611/1 
 		http://data.people.com.cn/rmrb/19840815/1
@@ -24,13 +19,24 @@
 		http://data.people.com.cn/rmrb/19830701/1
 		http://data.people.com.cn/rmrb/20010629/5
 
+	美国宾州	https://duckduckgo.com/ 	也作；duck.com
+	荷兰(谷歌API)	https://startpage.com
+	韩国LookSmart	https://looksmart.com
+
+	维基百科拷贝	https://zh.wikiredia.com/
+	维基百科拷贝2	https://kfd.me/
+	谷歌学术镜像 	https://ac.scmor.com/
+
 2、大报速览
 -----------
 
+
 3、浏览之器
 -----------
+
 	小红书% 	https://www.xiaohongshu.com/explore
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
+
 
 4、电视节目单
 -------------
@@ -38,13 +44,19 @@
 网媒  
 	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
 	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
-	　<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>
+	<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>　
 
 7、科研学习
 ------------
 
-	孔夫子旧书网	https://www.kongfz.com	
-
+	当当书店 	http://book.dangdang.com  曾经第一的网上书店，创始人家庭不和，无心发展，至今不提供默认安全连接。
+	中国图书网	http://www.bookschina.com  2折买尾货
+	蔚蓝书店 	https://www.wl.cn
+	亚马逊书店	2019年下半年亚马逊停止国内实体书销售
+	京东书店 	
+	浙江博库 	
+	北京北新网	
+	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
 
 8、财务自求
 ------------
@@ -61,6 +73,9 @@
 
 落榜记录
 =========
+
+2020/12/06
+	Lookao.com 因搜索结果与Bing过于接近，有侵权嫌疑而落榜。
 
 2020/11/21  
 	搜狗百科的“中国十大图书馆”条目，因没有给出各馆网址且数据更新不及时，即将落榜，网址存档：https://baike.sogou.com/v143179817.htm 。
@@ -80,7 +95,7 @@
 	西祠胡同 手机端网页强制下载apk（疑似秘制浏览器），去除链接 xici.net。（后删除）
 
 
-	老生常谈排行榜 © 作者大萌 2020年12月
+	老生常谈排行榜 © 作者大萌 2020~2021
 	知识共享 署名-非演绎 4.0
 
 回到首页
