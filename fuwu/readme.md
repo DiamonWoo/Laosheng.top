@@ -24,9 +24,9 @@
 * （+ 加挂牌子）
 * A +→ B  A加挂B牌子，由某B承担职责
 * A／B  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
-* 📞 地方政府的服务便民热线 12345及其并行号码
-* 📠 12345之外的部门服务热线
-* ☎️ 总机号码 []()
+* ☎️ 国家机关服务号码
+* 📞 地方政府12345的并行号码或分中心号码
+* 📠 国有企业服务号码，比如国家电网/国有商业银行服务电话
 
 -------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@
 
  * 最高人民法院	[Court.gov.cn](http://www.court.gov.cn )
 	- [《人民法院报》](http://rmfyb.chinacourt.org)
-	- 📠 12368 诉讼综合服务的电话热线和短信平台  	[中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww/)
+	- ☎️ 12368 诉讼综合服务的电话热线和短信平台  	[中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww/)
  * 最高人民检察院	[SPP.gov.cn](https://www.spp.gov.cn )
 	- [《检察日报》](http://newspaper.jcrb.com)
 	- ☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn)
@@ -52,7 +52,7 @@
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	<!-- 扶贫开发领导小组办公室http://www.cpad.gov.cn --> 
 * 国务院办公厅
-	- ☎️ 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
+	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 
 国务院26个部委（及所属国家局）
@@ -170,9 +170,9 @@
 	第十一条　国务院可以根据工作需要和精简的原则，设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人。
 
 * 中华人民共和国海关总署　	 []()
-	- 12360 全国统一海关公益服务电话 设分中心 
+	- 📞 12360 全国统一海关公益服务电话 设分中心 
 * 国家市场监督管理总局　	 []()（&国家认证认可监督管理委员会、&国家标准化管理委员会）
-	- 12315 市场监管投诉举报热线 双号并行
+	- 📞 12315 市场监管投诉举报热线 双号并行
 	[《中国质量报》](http://epaper.cqn.com.cn)
 	- 国家药品监督管理局
 	[《医药经济报》](http://news.yyjjb.com.cn)
@@ -353,8 +353,14 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
-	20210123	v0.1.7 Alpha
+	20210126	v0.1.8 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 🚨🚓🚑🚒🚌
