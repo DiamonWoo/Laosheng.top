@@ -106,8 +106,8 @@ m📙 [民事民生类]
 		第一千二百六十条　本法自2021年1月1日起施行。《中华人民共和国婚姻法》、《中华人民共和国继承法》、《中华人民共和国民法通则》、《中华人民共和国收养法》、《中华人民共和国担保法》、《中华人民共和国合同法》、《中华人民共和国物权法》、《中华人民共和国侵权责任法》、《中华人民共和国民法总则》同时废止。
 
 　　授权播发：[新华社2020两会专题](http://www.xinhuanet.com/politics/2020lh/2020-06/01/c_1126059885.htm )  
-　　法律来源：[中国人大网 民法典全文](http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml )  
-　　引用来源：[共产党员网 民法典学习专栏](http://www.12371.cn/special/mfd/ )  
+　　引用全文：中国人大网 [民法典全文](http://www.npc.gov.cn/npc/c30834/202006/75ba6483b8344591abd07917e1d25cc8.shtml )  
+　　对照依据：[共产党员网 民法典学习专栏](http://www.12371.cn/special/mfd/ )  
 　　编校人：大萌 （20201230 一校）
 
 + 　《中华人民共和国民法典》 [章节目录](2020-minfadian-0-mulu.txt )
@@ -319,10 +319,10 @@ x📘 [刑事检察类]
 
 * 《刑事诉讼法》共5编、380条、约3.8万字。
 
-　　引用全文：[人大网 权威发布 法律文件](http://www.npc.gov.cn/npc/c12435/201811/59b0fd9941804636b9e403d17d6e3ebf.shtml )  
-　　对照全文：[最高检 法律法规库](https://www.spp.gov.cn/spp/fl/201810/t20181027_396823.shtml )  
+　　引用全文：人大网 [权威发布 法律文件](http://www.npc.gov.cn/npc/c12435/201811/59b0fd9941804636b9e403d17d6e3ebf.shtml )  
+　　对照全文：最高检 [法律法规库](https://www.spp.gov.cn/spp/fl/201810/t20181027_396823.shtml )  
 　　公布文件：[主席令第十三届第10号](http://www.gov.cn/xinwen/2018-10/26/content_5334846.htm )  
-　　修改内容：[人大网 权威发布 法律文件](http://www.npc.gov.cn/npc/c12435/201810/b4cb5416eaf843b3ae876c74a643b10e.shtml )  
+　　修改条款：人大网 [权威发布 法律文件](http://www.npc.gov.cn/npc/c12435/201810/b4cb5416eaf843b3ae876c74a643b10e.shtml )  
 　　编校人：大萌 （20210107 一校）
 	
 	第一编　总则
@@ -393,8 +393,8 @@ z🌅 [依宪治国类]
 
 * 2018-监察法
 
-　　引用来源：[中国人大网](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-03/21/content_2052362.htm)  
-　　对照来源：[中央纪委国家监委网](http://www.ccdi.gov.cn/fgk/law_display/6340)  
+　　引用全文：[中国人大网](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-03/21/content_2052362.htm)  
+　　对照依据：[中央纪委国家监委网](http://www.ccdi.gov.cn/fgk/law_display/6340)  
 　　立法背景：[十三届全国人民代表大会第一次会议](http://www.npc.gov.cn/zgrdw/npc/lfzt/rlyw/node_33561.htm)  
 
 	第一章　总则
