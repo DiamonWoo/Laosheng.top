@@ -25,8 +25,8 @@
 * ☎️ 国家机关服务号码
 * 📞 地方政府12345及其并行号码、分中心号码
 * 📠 其他服务电话号码，包括国企/事业单位等。
-* & 【保留牌子】
-* + 【加挂牌子】
+* &【保留牌子】
+* +【加挂牌子】
 * A +⋙【B】  A加挂B牌子，由某B承担职责
 * A／【B】  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
 
@@ -169,51 +169,53 @@
 	[《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
 	- 国家粮食和物资储备局
 
- * 中国人民银行　	 []()（+国家外汇管理局）
+ * 中国人民银行　	 [PBC.gov.cn](http://www.pbc.gov.cn )
+ 	- +【国家外汇管理局】
  	- [信用中国](https://www.creditchina.gov.cn )
 
- * 财政部　	 [](http://www.mof.gov.cn )
+ * 财政部　	 [MOF.gov.cn](http://www.mof.gov.cn )
  	[《中国财经报》](http://www.cfen.com.cn/dzb)
 
- * 审计署　	 [](http://www.audit.gov.cn  )
+ * 审计署　	 [AUDIT.gov.cn](http://www.audit.gov.cn  )
 
  * 商务部　	 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )
 
- * 交通运输部　	 [](http://www.mot.gov.cn )
+ * 交通运输部　	 [MOT.gov.cn](http://www.mot.gov.cn )
 	- 📞 12328 全国交通运输服务监督电话 双号并行
-	- （+中国民用航空局）
-	✈️[《中国民航报》](http://epaper.caacmedia.cn:81/)
-	- （+国家铁路局）
-	🚉[《人民铁道报》](http://szb.peoplerail.com)
+	- ✈️（+中国民用航空局）
+	  - [《中国民航报》](http://epaper.caacmedia.cn:81/)
+	- 🚉（+国家铁路局）
+	  - [《人民铁道报》](http://szb.peoplerail.com)
 	- （+国家邮政局）
-	- 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
+	  - [《中国邮政报》](http://www.chinapostnews.com.cn )
+	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
 
- * 工业和信息化部　	 [](http://www.miit.gov.cn/)（&国家航天局、&国家原子能机构）
+ * 工业和信息化部　	 [MIIT.gov.cn](http://www.miit.gov.cn/)（&国家航天局、&国家原子能机构）
 	- 国家烟草专卖局
 	- 📞 12313 全国烟草专卖品市场监管举报电话 设分中心
 	- 国家国防科技工业局 
 
- * 农业农村部　	 [](http://www.moa.gov.cn/)	[《农民日报》](http://szb.farmer.com.cn)  
+ * 农业农村部　	 [MOA.gov.cn](http://www.moa.gov.cn/)	[《农民日报》](http://szb.farmer.com.cn)  
 	- 📞 12316 全国农业系统公益服务电话 双号并行  
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行 （国家乡村振兴局？）http://www.moa.gov.cn/ztzl/xczx/
 
- * 水利部　	 [](http://www.mwr.gov.cn/)
+ * 水利部　	 [MWR.gov.cn](http://www.mwr.gov.cn/)
 
- * 自然资源部　	 [](http://www.mnr.gov.cn/)（&国家海洋局）
+ * 自然资源部　	 [MNR.gov.cn](http://www.mnr.gov.cn/)（&国家海洋局）
 	[《中国绿色时报》](http://www.greentimes.com/greentimepaper/paperindex.htm) 
 	- 国家林业和草原局（+国家公园管理局）
 
- * 生态环境部　	 [](http://www.mee.gov.cn/)
+ * 生态环境部　	 [MEE.gov.cn](http://www.mee.gov.cn/)
 	[《中国环境报》](http://epaper.cenews.com.cn)
 	- 📞 12369 环境保护投诉举报电话 双号并行
 	- （&国家核安全局） 
 
- * 科学技术部　	 [](http://www.most.gov.cn/)
+ * 科学技术部　	 [MoST.gov.cn](http://www.most.gov.cn/)
 	[《科技日报》](http://digitalpaper.stdaily.com)	
 	- （&国家外国专家局）
 
- * 文化和旅游部　	 [](http://www.mct.gov.cn/)
+ * 文化和旅游部　	 [MCT.gov.cn](http://www.mct.gov.cn/)
 	[《中国旅游报》](http://www.ctnews.com.cn/paper)
 	- 📞 12318 全国文化市场举报电话 双号并行
 	- （+国家文物局）
