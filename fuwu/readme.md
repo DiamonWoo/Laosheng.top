@@ -13,8 +13,7 @@
 * 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
 * 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
 * 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
-* 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )
-  [7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
+* 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面
 * 中国政协网[机构组成](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/ )页面
@@ -30,6 +29,15 @@
 * A／【B】  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
 
 -------------------------------------------------------------------------------
+
+全国人民代表大会
+===============
+
+* 中国人大网 [NPC.gov.cn](http://www.npc.gov.cn )
+  - [法律草案征求意见](http://www.npc.gov.cn/flcaw/ )
+  - 会议与记者会 [网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
+* [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 全国人大常委会办公厅主办
+
 
 两高
 ====
@@ -53,10 +61,10 @@
 
 * 🏢 中国政府网　[Gov.cn](https://www.gov.cn )
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
-	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 你有真知灼见，我们天天在线
+	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
 	<!-- 扶贫开发领导小组办公室http://www.cpad.gov.cn []()--> 
 * 国务院办公厅
-	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  [《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)20210201起施行
+	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
 * 各地政府网站(省级)　
@@ -90,7 +98,7 @@
 	<a href="http://www.gansu.gov.cn/" rel="nofollow" target="_blank">甘肃</a>　
 	<a href="http://www.qh.gov.cn/" rel="nofollow" target="_blank">青海</a>　
 	<a href="http://www.nx.gov.cn/" rel="nofollow" target="_blank">宁夏</a>　
-	<a href="http://www.xinjiang.gov.cn/" rel="nofollow" target="_blank">新疆</a>　
+	<a href="http://www.xinjiang.gov.cn/" rel="nofollow" target="_blank">新疆</a>
 	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>　
 	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>　
 	<a class="nohover" rel="nofollow">台湾</a>　
@@ -345,6 +353,7 @@
  * 中共中央全面依法治国委员会　	 []() 	办公室设在司法部
  * 中共中央办公厅　	 []()
  * 中共中央组织部（+国家公务员局）　	 []()
+ 	- [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官、
  * 中共中央宣传部（+国务院新闻办公室、+国家新闻出版署、+国家版权局、+国家电影局）
 	- [中国文明网](http://www.wenming.cn)
  * 中共中央统一战线工作部（+国家宗教事务局、国务院侨务办公室）
@@ -449,8 +458,8 @@
  * 中华职教社　	 []()
 
 
-服务公众的国有企业
-==================
+部分国有企业
+============
 
 * 国家电网　	[SGCC.com.cn](http://www.sgcc.com.cn )
 	[《国家电网报》](http://211.160.252.154 )
@@ -469,8 +478,8 @@
 -------------------
 
 * 中国工商银行　📠 95588 	[ICBC.com.cn](https://www.icbc.com.cn )　爱存不存
-* 中国建设银行　📠 95533 	[CCB.com](http://www.ccb.com )　	存存吧！
-* 中国农业银行　📠 95599 	[ABChina.com](http://www.abchina.com )　啊，不存！
+* 中国建设银行　📠 95533 	[CCB.com](http://www.ccb.com )　	存存吧
+* 中国农业银行　📠 95599 	[ABChina.com](http://www.abchina.com )　啊，不存
 * 中国银行　📠 95566	[BOC.cn](https://www.boc.cn )
 * 交通银行　📠 95559	[BankComm.com](https://www.bankcomm.com )
 * 中国邮政储蓄银行　📠 95580	[PSBC](http://www.psbc.com )
@@ -485,7 +494,7 @@
 * 民政部[中国社会组织公共服务平台](http://www.chinanpo.gov.cn)
 * 维基百科【机关报】条目、【人民团体】条目
 
-　　本页面的早期版本可访问 老生常谈网站的[有关部门报纸](../youguanbumen.html )页面，关于全国人大发布的现行有效法律文件可参见老生常谈网站的[大萌法律读本](../falv )。由于编者的水平有限，页面中难免有错误和不足，恳请读者批评指正。
+　　关于全国人大发布的现行有效法律文件可参见老生常谈网站的[大萌法律读本](../falv )。由于编者的水平有限，页面中难免有错误和不足，恳请读者批评指正。
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
