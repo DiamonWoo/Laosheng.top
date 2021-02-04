@@ -13,8 +13,8 @@
 * 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
 * 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
 * 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
-* 国发〔2018〕6号文件 [国务院关于机构设置的通知](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )
-* 国发〔2018〕7号文件 [国务院关于部委管理的国家局设置的通知](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )
+* 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )
+  [7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面
 * 中国政协网[机构组成](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/ )页面
@@ -25,8 +25,7 @@
 * ☎️ 国家机关服务号码
 * 📞 地方政府12345及其并行号码、分中心号码
 * 📠 其他服务电话号码，包括国企/事业单位等。
-* &【保留牌子】
-* +【加挂牌子】
+* +【加挂牌子】  &【保留牌子】
 * A +⋙【B】  A加挂B牌子，由某B承担职责
 * A／【B】  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
 
@@ -54,10 +53,48 @@
 
 * 🏢 中国政府网　[Gov.cn](https://www.gov.cn )
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
-	<!-- 扶贫开发领导小组办公室http://www.cpad.gov.cn --> 
+	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 你有真知灼见，我们天天在线
+	<!-- 扶贫开发领导小组办公室http://www.cpad.gov.cn []()--> 
 * 国务院办公厅
-	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
+	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  [《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)20210201起施行
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
+	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
+* 各地政府网站(省级)　
+	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>　
+	<a href="http://www.tj.gov.cn/" rel="nofollow" target="_blank">天津</a>　
+	<a href="http://www.hebei.gov.cn/" rel="nofollow" target="_blank">河北</a>　
+	<a href="http://www.shanxi.gov.cn/" rel="nofollow" target="_blank">山西</a>　
+	<a href="http://www.nmg.gov.cn/" rel="nofollow" target="_blank">内蒙古</a>　
+	<a href="http://www.ln.gov.cn" rel="nofollow" target="_blank">辽宁</a>　
+	<a href="http://www.jl.gov.cn" rel="nofollow" target="_blank">吉林</a>　
+	<a href="http://www.hlj.gov.cn" rel="nofollow" target="_blank">黑龙江</a>　
+	<a href="http://www.shanghai.gov.cn/" rel="nofollow" target="_blank">上海</a>　
+	<a href="http://www.jiangsu.gov.cn/" rel="nofollow" target="_blank">江苏</a>　
+	<a href="http://www.zj.gov.cn/" rel="nofollow" target="_blank">浙江</a>　
+	<a href="http://www.ah.gov.cn/" rel="nofollow" target="_blank">安徽</a>　
+	<a href="http://www.fujian.gov.cn" rel="nofollow" target="_blank">福建</a>　
+	<a href="http://www.jiangxi.gov.cn" rel="nofollow" target="_blank">江西</a>　
+	<a href="http://www.shandong.gov.cn/" rel="nofollow" target="_blank">山东</a>　
+	<a href="http://www.henan.gov.cn/" rel="nofollow" target="_blank">河南</a>　
+	<a href="http://www.hubei.gov.cn/" rel="nofollow" target="_blank">湖北</a>　
+	<a href="http://www.hunan.gov.cn/" rel="nofollow" target="_blank">湖南</a>　
+	<a href="http://www.gd.gov.cn/" rel="nofollow" target="_blank">广东</a>　
+	<a href="http://www.gxzf.gov.cn/" rel="nofollow" target="_blank">广西</a>　
+	<a href="http://www.hainan.gov.cn/" rel="nofollow" target="_blank">海南</a>　
+	<a href="http://www.cq.gov.cn/" rel="nofollow" target="_blank">重庆</a>　
+	<a href="http://www.sc.gov.cn" rel="nofollow" target="_blank">四川</a>　
+	<a href="http://www.guizhou.gov.cn/" rel="nofollow" target="_blank">贵州</a>　
+	<a href="http://www.yn.gov.cn/" rel="nofollow" target="_blank">云南</a>　
+	<a href="http://www.xizang.gov.cn/" rel="nofollow" target="_blank">西藏</a>　
+	<a href="http://www.shaanxi.gov.cn/" rel="nofollow" target="_blank">陕西</a>　
+	<a href="http://www.gansu.gov.cn/" rel="nofollow" target="_blank">甘肃</a>　
+	<a href="http://www.qh.gov.cn/" rel="nofollow" target="_blank">青海</a>　
+	<a href="http://www.nx.gov.cn/" rel="nofollow" target="_blank">宁夏</a>　
+	<a href="http://www.xinjiang.gov.cn/" rel="nofollow" target="_blank">新疆</a>　
+	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>　
+	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>　
+	<a class="nohover" rel="nofollow">台湾</a>　
+	<a href="http://www.xjbt.gov.cn/" rel="nofollow" target="_blank">新疆生产建设兵团</a>
 
 国务院26个部委（及所属国家局）
 ---------------------------
@@ -223,7 +260,7 @@
 
 国务院特设机构
 -------------
-* 国务院国有资产监督管理委员会　	 [](http://www.sasac.gov.cn/)
+* 国务院国有资产监督管理委员会　	 [SASAC.gov.cn](http://www.sasac.gov.cn/)
 * 中华全国供销合作总社　	 COOP[中国供销合作网](http://www.chinacoop.gov.cn)
 	[《中华合作时报》](http://szb.zh-hz.com )
 
@@ -255,8 +292,8 @@
 	- 📞 12393 医疗保障服务热线 双号并行
 * 国家机关事务管理局　	 []()
 * 国家广播电视总局　	 []()
-* 国家新闻出版署（国家版权局）+→中央宣传部　	 []()
-* 国家宗教事务局 		+→中央统战部　	 []()
+* 国家新闻出版署（国家版权局）+⋙【中央宣传部】　	 []()
+* 国家宗教事务局 		+⋙【中央统战部】　	 []()
 
  
 国务院直属事业单位
@@ -283,10 +320,10 @@
 * 国务院研究室
 * 国务院港澳事务办公室
 * 国务院台湾事务办公室／中共中央台湾工作办公室　	 []()
-* 国务院侨务办公室 +→ 中央统战部　	 []()
-* 国务院新闻办公室 +→ 中央宣传部　	 []()
+* 国务院侨务办公室 +⋙ 中央统战部　	 []()
+* 国务院新闻办公室 +⋙ 中央宣传部　	 []()
 * 国家互联网信息办公室／中央网络安全和信息化委员会办公室　	 []()
-* 国家公务员局 +→ 中央组织部　	 []()
+* 国家公务员局 +⋙ 中央组织部　	 []()
 * 国家档案局／中央档案馆　	 []()
 * 国家保密局／中央保密委员会办公室　	 []()
 * 国家密码管理局／中央密码工作领导小组办公室　	 []()
@@ -296,7 +333,8 @@
 中国共产党
 ============
 
-设立在《人民日报》网站的[中国共产党新闻网](http://cpc.people.com.cn )
+* 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn )
+* 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年！
 
 中共中央各部门
 -------------
@@ -308,11 +346,11 @@
  * 中共中央办公厅　	 []()
  * 中共中央组织部（+国家公务员局）　	 []()
  * 中共中央宣传部（+国务院新闻办公室、+国家新闻出版署、+国家版权局、+国家电影局）
-	-[中国文明网](http://www.wenming.cn)
+	- [中国文明网](http://www.wenming.cn)
  * 中共中央统一战线工作部（+国家宗教事务局、国务院侨务办公室）
  * 中共中央对外联络部　	 []()
  * 中共中央政法委员会　	 []()
-	[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
+	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
  * 中共中央政策研究室／中央全面深化改革委员会办公室
  * 中央国家安全委员会办公室　	 []()
  * 中央网络安全和信息化委员会办公室／国家互联网信息办公室	http://www.cac.gov.cn
@@ -451,7 +489,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
-	20210203	v0.1.11 Alpha
+	20210205	v0.1.12 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
