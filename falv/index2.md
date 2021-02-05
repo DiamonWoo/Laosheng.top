@@ -110,8 +110,8 @@ m📙 [民事民生类]
 　　对照依据：[共产党员网 民法典学习专栏](http://www.12371.cn/special/mfd/ )  
 　　编校人：大萌 （20201230 一校）
 
-+ 　《中华人民共和国民法典》 [章节目录](2020-minfadian-0-mulu.txt )
-+ 👪《中华民人民共和国民法典》[markdown格式全文](2020-minfadian-1-12371.txt ) （网址后加.md即可下载）
++ 　《中华人民共和国民法典》 [章节目录](minshi/2020-minfadian-0-mulu.txt )
++ 👪《中华民人民共和国民法典》[markdown格式全文](minshi/2020-minfadian-1-12371.txt ) （网址后加.md即可下载）
 
 
 s📗 [行政生产类]
