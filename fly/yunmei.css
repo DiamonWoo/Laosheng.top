@@ -6,29 +6,13 @@
 	h3	{margin-bottom: 0%}
 /*  p.you 	{text-align: right; }*/
 
-div.you 	{text-align: right; }
-div#top 	{margin-bottom:-3%; }		/* div#tuli */
+	div.you	{text-align: right; }
+	div#top	{margin-bottom:-3%; }		/* div#tuli */
 
-
+	td#dongbei 	{border-color: red;	border-width: 0 0 0 3px;}
+	td#zhong	{border-color: red;	border-width: 3px;}
+	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
 
 /* 
 色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
-Body 	{text-size-adjust:none; }	
-有效！	解决移动端chrome部分字号变小问题；但是，页面缩放就没有了。
-P   	{max-width:  99999px ; }
-Body 	{max-height: 100% ;  font-size: .28 rem; }
-实测无效  
-Form	{font-size: inherit; }　暂时不用Form。
-
-选择器的各种语法
-	HTML中： <p id="red">这个段落是红色。</p>
-CSS中用#指向ID：#Hong {color:red;}
-	HTML中： <h1 class="center">   This heading will be center-aligned   </h1>
-CSS中用.指向类：.center {text-align: center} 
-
-id和类均可派生联用
-用逗号分组：	h1,h2,h3,h4,h5,h6 {  color: green;  }
-用空格派生：	？
-<li><strong> 位于li元素内的strong做斜体 </strong></li> { font-style: italic; }
-
 */
