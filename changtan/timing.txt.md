@@ -19,16 +19,26 @@
 		http://data.people.com.cn/rmrb/19830701/1
 		http://data.people.com.cn/rmrb/20010629/5
 
-	美国宾州	https://duckduckgo.com/ 	也作；duck.com
-	荷兰(谷歌API)	https://startpage.com
-	韩国LookSmart	https://looksmart.com
+	#美国宾州	https://duckduckgo.com/ 	也作；duck.com
+	#荷兰(谷歌API)	https://startpage.com
+	非洲ECosia	https://www.ecosia.org/ 	微软API
+	韩国LookSmart	https://looksmart.com   	需要境外的人机验证
 
 	维基百科拷贝	https://zh.wikiredia.com/
 	维基百科拷贝2	https://kfd.me/
 	谷歌学术镜像 	https://ac.scmor.com/
 
-2、大报速览
+<a href="https://mijisou.com" title="密迹搜索">密迹</a>
+<a href="https://Mengso.com" title="为小众而搜">萌搜</a>
+	夸克神马搜索	https://quark.sm.cn/		阿里和UC浏览器合作的移动端搜索
+	盘搜搜  	https://www.pansoso.com/
+	盘搜     	http://www.pansou.com/
+
+
+2、云媒速览
 -----------
+
+	2021/3/7日起 内蒙古电视台网站故障 http://www.nmtv.cn/folder84/folder86/folder137
 
 
 3、浏览之器
@@ -74,7 +84,7 @@
 落榜记录
 =========
 
-2020/12/06
+2020/12/06	#搜罗天下  
 	Lookao.com 因搜索结果与Bing过于接近，有侵权嫌疑而落榜。
 
 2020/11/21  
@@ -88,7 +98,7 @@
 	中华万年历兼容性不好 http://yun.rili.cn/wnl/index.html ，在安卓上会跳转到 http://yun.rili.cn/wnl/m/index.html ，Fx和via浏览器上主体空白，微信和X浏览器可显示。用日历网取代之 https://m.rili.com.cn/ 
 
 
-2020/7/22  
+2020/7/22	#搜罗天下  
 	Mezw搜索服务停止 so.mezw.com，删除。
 
 2020/6/22  
