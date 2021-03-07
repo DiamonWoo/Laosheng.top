@@ -5,7 +5,8 @@
 <title>老生常谈排行榜</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="老生常谈排行榜，打开真正互联的网！本榜致力于收集健康、免费、可浏览器直接访问的网站">
-<meta name="keywords" content="搜索引擎, 报纸, 电视节目, 浏览器, 论坛, 寻医问药, 电子书, 股票, 开源软件, 上网导航">
+<meta name="keywords" content="搜索引擎, 大萌阅报栏, 看电视, 浏览器, 论坛, 寻医问药, 电子书, 股票, 开源软件, 上网导航">
+<meta http-equiv="X-Frame-Options" content="sameorigin">
 <base target="_blank">
 <link rel="stylesheet" href="./LaoshengWeb.css">
 <link rel="icon" href="https://www.mozilla.org/media/img/favicons/firefox/favicon.4e526382d5a6.ico">
@@ -17,7 +18,7 @@
 　<a href="#tuli" title="本页图标含义" target="_self">图例</a>❓　
 </div>
 
-<h2 id="sou">搜罗天下</h2>
+<h2 id="sou">搜罗天下 🌏</h2>
 <div id="top">
 <pre>　　这里是<a title="老生常谈 欢迎辞" href="https://laosheng.top">上一代互联网</a>，请“在浏览器打开”。</pre>
 </div>
@@ -52,32 +53,41 @@
 <br>
 
 <h3>国内搜</h3>
- <input name="souwen" size="31%" type="text" value="老生常谈排行榜" ><!-- autofocus="" -->
- <button name="SoName" id="SoID" type="button" value="SoSoSo" title="暂未开通" disabled="">搜不了</button>
-<small>　
-　<a href="https://gobaidugle.com/search2?one=bing&two=baidu&keyword=谷歌镜像" title="分栏搜">双搜</a>
-</small>
-<br>
-<input name="sou" value="Baid" type="Radio"><a href="https://baidu.com/" title="2001年上线，2005纳斯达克上市">百度</a>
+<small>　<a href="https://gobaidugle.com/search2?one=bing&two=baidu&keyword=谷歌镜像" 
+	title="双栏同搜">双搜</a>　</small>
+<input type="search" size="31%" 
+	name="s0" value="老生常谈排行榜" maxlength="72" required=""
+	id="souwen" 
+	onmouseover="this.focus()"		
+	onfocus="this.select()"  		
+	onkeydown="if(event.keyCode==13)souyixia();"
+>
+<input type="submit" name="s1" value="搜一下" title="用所选网站搜索"
+	onclick="souyixia();" 			
+>
+<br>　
+<input type="Radio" name="sou" value="0">
+	<a href="https://baidu.com/" title="2001年上线，2005纳斯达克上市">百度</a>
 <small>(<a href="https://pan.baidu.com/mall/home" title="部分服务收费">网盘</a>)</small>
-<input name="sou" value="Bing" type="Radio"><a href="https://cn.Bing.com" title="2009年上线，微软旗下">Bing</a>
-<small>(<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软Edge浏览器">下载</a>)</small>
-<input name="sou" value="Socn" type="Radio"><a href="https://SO.com/" title="2012年上线，奇虎360旗下">360搜</a>
-<small>(<a href="https://sd.360.cn" title="">杀毒</a>)</small>
-<input name="sou" value="Sogo" type="Radio"><a href="https://Sogou.com" title="2004年上线，搜狐旗下，2017纽交所上市">搜狗</a>
-<small>(<a href="https://www.sogou.com/docs/more.htm" title="">大全</a>)</small>
+<input type="Radio" name="sou" value="1">
+	<a href="https://SO.com/" title="2012年上线，奇虎360旗下">360搜</a>
+	<small>(<a href="https://sd.360.cn" title="">杀毒</a>)</small>
+<input type="Radio" name="sou" value="2">
+	<a href="https://Sogou.com" title="2004年上线，搜狐旗下，2017纽交所上市">搜狗</a>
+	<small>(<a href="https://www.sogou.com/docs/more.htm" title="">大全</a>)</small>
 <br>
 <small>
-　<input name="sou" value="Meng" type="Radio">
-<a href="https://Mengso.com" title="为小众而搜">萌搜</a>
-　<input name="sou" value="Miji" type="Radio">
-<a href="https://Magi.com" title="AI结构化信息">Magi</a>
-　<input name="sou" value="Magi" checked type="Radio">
-<a href="https://mijisou.com" title="密迹搜索">密迹</a>
-　<input name="sou" value="Doge" checked type="Radio">
-<a href="https://dogedoge.com" title="多吉搜索">DogeDoge</a>
+<input type="Radio" name="sou" value="3">
+	<a href="https://Yandex.com" title="俄罗斯 新时代全面战略协作伙伴">俄 Yandex</a>　
+<input type="Radio" name="sou" value="4">
+	<a href="https://cn.Bing.com" title="2009年上线，微软旗下">Bing</a><small>
+	(<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软Edge浏览器">下载</a>)　</small>
+<input type="Radio" name="sou" value="5">
+	<a href="https://Magi.com" title="魔力搜索 AI结构化结果">Magi</a>　
+<input type="Radio" name="sou" value="6" checked>
+	<a href="https://dogedoge.com" title="多吉搜索 国产新星">DogeDoge</a>
 <br>
-人类命运共同体　　　☆ <a title="author/中文搜索的质量为什么在下滑？.txt">搜不到的好网站</a>　　
+　人类命运共同体　　☆ <a title="author/中文搜索的质量为什么在下滑？.txt">搜不到的好网站</a>　
 　💢 $<a href="http://data.people.com.cn/rmrb/19830701/1" title="解放思想，实事求是，团结一致向前看">解放思想</a>
 </small>
 
@@ -98,9 +108,10 @@
 　<a href="https://search.essclick.com"  title="爱思搜索，低调">镜像</a>
 </small>
 <br>
-  <a href="https://Yandex.com" title="俄罗斯">俄 Yandex</a>
-　<a href="https://www.qwant.com/" title="法国">法 QWant</a>
-　<a href="https://teoma.com" title="美国Ask旗下">美 Teoma</a><small>
+<a href="https://www.qwant.com/" title="法国">法 QWant</a>
+　<a href="https://teoma.com" title="美国Ask旗下">美 Teoma</a>
+　<a href="https://stackoverflow.com/" title="美国StackOverFlow问答社区">Stack</a>
+<small>
 　<a href="https://www.naver.com" title="韩文搜索Naver">韩 Naver</a></small>
 </div>
 
@@ -190,9 +201,9 @@
 </div>
 
 <div class="kuai">
-<h2>3 电视节目单 TV☁️</h2>
-　<a href="https://tv.cctv.com/epg/" title="央视EPG电子节目单">CCTV</a>
-　<a href="https://TVmao.com/program/playing/cctv/" title="央视各频道正在播出节目">电视猫</a>
+<h2>3 电视节目单 TV📜</h2>
+　<a href="https://tv.cctv.com/epg/" title="央视EPG电子节目单">CCTV</a> EPG
+  <a href="https://TVmao.com/program/playing/cctv/" title="央视各频道正在播出节目">电视猫</a>
 　<a href="https://TVsou.com/epg/weishi/" title="地方卫视列表">搜视网</a>　
 <small>☆ 
 <a title="地面波国家免费电视频道">DTMB免费频道</a> 📺</small>
@@ -510,7 +521,7 @@ $<a href="http://hao123.com/shequ/" title="百度的导航站">社区</a>/
 
 
 <div class="kuai">
-<h2>上一代名站导航</h2>
+<h2>10 上一代名站导航</h2>
 　搜狐Sohu　新浪Sina　网易163　腾讯QQ　凤凰网ifeng
 <br>
   <a href="https://huaerqiao.com" title="名站导航">花儿俏</a>
@@ -558,14 +569,33 @@ $<a href="http://hao123.com/shequ/" title="百度的导航站">社区</a>/
 老生常谈排行榜 2019-2021 Copyright by <a title="Contact me" href="author/helpme.txt" target="_self">大萌</a>
 CC-BY-NC-ND-4.0 	知识共享 署名-非演绎 4.0
 版式设计/汇编：大萌	批注：大萌<a title="commits history" href="https://github.com/DiamonWoo/Laosheng2019/commits/master">
-提交记录</a>：20210306	v1.9.7
+提交记录</a>：20210308★	v1.9.8
 
 <a title="返回老生常谈首页" href="." target="_self">&lt;&lt;返回上一级</a>
 <a title="返回老生常谈首页" href="https://Laosheng.top" ><img src="indexQR-Blue.png"></a>
 点击二维码，“在浏览器打开” <a href="https://Laosheng.top" title="老生常谈排行榜">https://Laosheng.top</a>
 </pre>
 </small>
-
+<script language="JavaScript" type="text/JavaScript">
+  function souyixia() {
+	var wen = document.getElementById("souwen").value;		//获得souwen框输入的值
+	var go = document.getElementsByName("sou");			//获得sou表单选择项的值
+	if (go[0].checked)
+		window.open("https://www.baidu.com/s?wd=" + wen);
+	if (go[1].checked)
+		window.open("https://www.so.com/s?q=" + wen);
+	if (go[2].checked)
+		window.open("https://www.sogou.com/web?query=" + wen);
+	if (go[3].checked)
+		window.open("https://yandex.com/search/?text=" + wen);
+	if (go[4].checked)
+		window.open("https://cn.bing.com/search?q=" + wen );	//+"&mkt=zh-CN"
+	if (go[5].checked)
+		window.open("https://magi.com/search?q=" + wen ); 	//魔力搜索AI学习
+	if (go[6].checked)
+		window.open("https://www.dogedoge.com/results?q=" + wen);
+    }
+</script>
 🐁🐂🐅🐇🐉🐍🐎🐐🐒🐓🐕🐖
 <span style="display: none;">administraor@yahoo.com.cn</span>
 <!-- https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" -->
