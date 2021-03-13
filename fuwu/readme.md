@@ -226,15 +226,17 @@
  * 商务部　	 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )
 
- * 交通运输部　	 [MOT.gov.cn](http://www.mot.gov.cn )
+* 交通运输部　	 [MOT.gov.cn](http://www.mot.gov.cn )
 	- 📞 12328 全国交通运输服务监督电话 双号并行
 	- ✈️（+中国民用航空局）
 	  - [《中国民航报》](http://epaper.caacmedia.cn:81/)
-	- 🚉（+国家铁路局）
-	  - [《人民铁道报》](http://szb.peoplerail.com)
 	- （+国家邮政局）
 	  - [《中国邮政报》](http://www.chinapostnews.com.cn )
 	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
+	- 🚉（+国家铁路局）
+	  - [《人民铁道报》](http://szb.peoplerail.com)
+	  - 📠 12306 [铁路客运服务热线](https://kyfw.12306.cn/otn/leftTicket/init) 买高铁车票
+	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
 
  * 工业和信息化部　	 [MIIT.gov.cn](http://www.miit.gov.cn/)（&国家航天局、&国家原子能机构）
 	- 国家烟草专卖局
