@@ -11,9 +11,9 @@
 --------
 
 * 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
-* 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
-* 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
+* 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
+* 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面
 * 中国政协网[机构组成](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/ )页面
@@ -34,6 +34,7 @@
 ===============
 
 * 中国人大网 [NPC.gov.cn](http://www.npc.gov.cn )
+  - [国家法律法规数据库](https://flk.npc.gov.cn/ ) 全国人大常委会办公厅提供的现行有效法律的电子文本，提供.docx (WPS格式)全文下载
   - [法律草案征求意见](http://www.npc.gov.cn/flcaw/ )
   - 会议与记者会 [网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
 * [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 全国人大常委会办公厅主办
