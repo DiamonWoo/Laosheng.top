@@ -45,11 +45,11 @@ https://laosheng.top/
 鸣谢
 ------
 
-　　感谢 Github 为“老生常谈”提供网站托管 与markdown文档渲染，感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "帮助作者")报告问题，谢谢！
-  
-![感谢Github支持本站](https://tosdr.org/logo/github.png)
+　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档渲染。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "帮助作者")报告问题，谢谢！
+
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
 ![谋智开发者网络](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
+![感谢Github支持本站](github-90.png)<!-- https://tosdr.org/logo/github.png -->
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 
