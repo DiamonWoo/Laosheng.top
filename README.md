@@ -39,7 +39,7 @@ https://laosheng.top/
 
 在微信内点击本站网址会弹出‘非微信官方网页…’，请点请点‘<font color="green"><b>继续访问</b></font>’。通过‘扫一扫’本站网址的二维码，可直接访问本站，避免出现该提示。  
  ![](./indexQR-Blue.png) 
-
+Laosheng.top
 
 鸣谢
 ------
