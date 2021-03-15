@@ -13,14 +13,13 @@ https://laosheng.top/
 
 + ☎ 有关部门在哪里？老生常谈理一理。[服务便民热线](fuwu/ "12345等电话服务热线")，政府就在身边。（制作中）📞
 
-+ ☸️[大萌法海导航](falv/ "法治中国进行时")，学习法律不慌。帮助法律初学者面对茫茫法海，呈现全局性的目录与纲要。（准备中）💎
++ ☸️[大萌法海导航](falv/ "法治中国进行时")，学习法律不慌。帮助初学者面对茫茫法海，呈现全局性的法律目录与纲要。💎（准备中）
   + 中国现行有效法律的高质量文本，适合电子墨水屏幕格式。[大萌法律读本](falv/index2 "有备无患")📖，懂法走得更稳。（未完待续）🖨️
 + 📦  BuyIT (筹) <!-- （败点啥）Oh My God Goods! 我买的好货  -->
 
 无意苦争春，只把春来报，在[小笔记](broad/blog.txt "建站小笔记")看看网站有什么变化。
 
-注*：随着国家推动媒体融合发展，报纸与电视的数量将会发生小幅变化。
-
+	注*：随着国家推动媒体融合发展，报纸与电视的数量将会发生小幅变化。
 
 导游词
 --------
@@ -50,6 +49,7 @@ https://laosheng.top/
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
 ![谋智开发者网络](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
 ![感谢Github支持本站](github-90.png)<!-- https://tosdr.org/logo/github.png -->
+<!-- https://github.githubassets.com/images/modules/logos_page/Octocat.png -->
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 
