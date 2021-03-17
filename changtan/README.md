@@ -2,11 +2,11 @@
 ==============
 202008~202103
 
-	请“在浏览器打开”本页。
+	老生常谈，节约您的搜索时间
 
 * [手机App和浏览器到底有什么区别？](App和浏览器的三个区别.txt)
 
-* 安装包只有1MB的安卓浏览器[]()
+* 安装包只有1MB的安卓浏览器[]()（Via浏览器、X浏览器、神器浏览器、H5浏览器……
 
 	-----
 
@@ -16,4 +16,8 @@
 	[备用网址](https://github.com/DiamonWoo/Laosheng2019/blob/master/changtan/6-权威的医疗保健类报纸.txt.md)
 
 
-https://laosheng.top/changtan
+回到首页
+<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+点击二维码，“在浏览器打开” https://Laosheng.top
+
+	上一代互联网，人类的互联网
