@@ -21,7 +21,7 @@
 * 一页阅尽全国报纸，节约您的搜索时间
 　laosheng.top/yuebaolan.html（已停止更新）
 
-* ![](江花江水阅报栏.jpg 大萌阅报栏海报)
+* ![ 大萌阅报栏海报](江花江水阅报栏.jpg)
 * <img src="离离原上草.jpg" height="300px" alt="大萌阅报栏海报" />
 * <img src="数字报全球领先之一锅栗子.jpg" height="320px" alt="大萌阅报栏海报" />
 
