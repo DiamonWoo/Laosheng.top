@@ -103,13 +103,12 @@ App与浏览器的转化
 参考文献
 --------
 
-1 201802 人民网 [201802--App瞄上麦克风监听，越界获取过度惹来祸患](http://media.people.com.cn/n1/2018/0203/c40606-29803601.html "")
+1 201802 人民网 [201802--App瞄上麦克风监听，越界获取过度惹来祸患](http://media.people.com.cn/n1/2018/0203/c40606-29803601.html "")  
 2 201806 品玩 [vivo的升降摄像头：流氓软件检测器](https://www.pingwest.com/a/172690 "")
-3 201903 新华网 [大数据“杀熟”调查：网购平台、在线旅游和网约车成重灾区](http://www.xinhuanet.com/legal/2019-03/27/c_1124291049.htm "")
-防公关备份：201807 澎湃新闻 [Vivo手机又测出百度手机输入法后台录音](https://www.thepaper.cn/newsDetail_forward_2234532 "")
+3 201903 新华网 [大数据“杀熟”调查：网购平台、在线旅游和网约车成重灾区](http://www.xinhuanet.com/legal/2019-03/27/c_1124291049.htm "")  
+防公关备份：201807 澎湃新闻 [Vivo手机又测出百度手机输入法后台录音](https://www.thepaper.cn/newsDetail_forward_2234532 "")  
 
 * 201808 钛媒体 [中国为什么没有国产浏览器内核](https://www.tmtpost.com/3427552.html)
-https://zhuanlan.zhihu.com/p/145382726
 * 202006 柚子的code [为什么国内没有自主研发的浏览器内核？](https://zhuanlan.zhihu.com/p/145382726)
 * 202009 大萌 [手机App和浏览器的三个区别 第二稿](4/App和浏览器的三个区别-v2-1.txt)
 * 维基百科[浏览器引擎]条目
