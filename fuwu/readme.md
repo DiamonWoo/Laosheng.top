@@ -157,39 +157,46 @@
 国务院直属事业单位
 -----------------
 
-* 新华通讯社　	 []()
-* 中央广播电视总台　	 []()
-* 中国社会科学院　	 []()
-* 中国气象局　	 []()
-* 中国科学院　	 []()
-	[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)
-* 中国工程院　	 []()
-
-* 中国银行保险监督管理委员会　	 []()
-* 中国证券监督管理委员会　	 []()
-* 国务院发展研究中心　	 []()
-	[《中国经济时报》](http://jjsb.cet.com.cn)
-* 国家行政学院／中央党校　	 []()
-
-
-国务院办事机构（及中共中央承担职责机构）
----------------------------------------
-
-* 国务院研究室
-* 国务院港澳事务办公室
-* 国务院台湾事务办公室／中共中央台湾工作办公室　	 []()
-* 国务院侨务办公室 +⋙ 中央统战部　	 []()
-* 国务院新闻办公室 +⋙ 中央宣传部　	 []()
-* 国家互联网信息办公室／中央网络安全和信息化委员会办公室　	 []()
-* 国家公务员局 +⋙ 中央组织部　	 []()
-* 国家档案局／中央档案馆　	 []()
-* 国家保密局／中央保密委员会办公室　	 []()
-* 国家密码管理局／中央密码工作领导小组办公室　	 []()
+* 新华通讯社　	 [新华社](http://www.xinhuanet.com/)
+	- 《参考消息》、《中国证券报》等，参见[老生常谈云媒体](https://laosheng.top/fly/)
+* 中央广播电视总台　	CMG 暂无官网
+	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见[老生常谈云媒体](https://laosheng.top/fly/)
+* 中国气象局　	 [CMA.gov.cn](http://www.cma.gov.cn/)
+	- 国家气象中心 [中央气象台](http://www.nmc.cn/)
+	- [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
+* 中国社会科学院　	 [社科院](http://cass.cssn.cn/)
+	- 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
+	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
+* 中国科学院　	 [cas.AC.cn](http://www.cas.ac.cn/) 　全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)
+	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
+	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉
+	- 计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
+	- 中国科学技术大学 [中科大](https://www.ustc.edu.cn/) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
+	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)
+	- [明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊接受
+* 中国工程院　	 [CAE.cn](http://www.cae.cn/) 　九个学部（机、电、化、能、建、环、农、医、管）
+	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
+	- 中国工程[科技知识中心](http://www.ckcest.cn/)
+	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
+	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
+* 中国银行保险监督管理委员会　	 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 全国36个派出机构
+	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
+	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
+* 中国证券监督管理委员会　	 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
+	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
+	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
+	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，**[证监会为什么不要App]()**
+* 国务院发展研究中心　	 [DRC.gov.cn](https://www.drc.gov.cn/) [《中国经济时报》](http://jjsb.cet.com.cn)
+	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
+	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
+	- 国研网 [统计数据库](http://data.drcnet.com.cn/)
+* 国家行政学院／【中央党校】　	 [CCPS.gov.cn](https://www.ccps.gov.cn/)
+	- [网上党校](https://wsdx.ccps.gov.cn/)
 
 
 国务院26个部委（及所属国家局）
 ---------------------------
-
+[]()
 	1982年《国务院组织法》
 	第八条　国务院各部、各委员会的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。
 
@@ -328,7 +335,7 @@
 
 * 自然资源部　	 [MNR.gov.cn](http://www.mnr.gov.cn/)（&国家海洋局）
 	[《中国绿色时报》](http://www.greentimes.com/greentimepaper/paperindex.htm) 
-	- 国家林业和草原局（+国家公园管理局）
+	- 国家林业和草原局（+国家公园管理局）林科院
 
 * 生态环境部　	 [MEE.gov.cn](http://www.mee.gov.cn/)
 	[《中国环境报》](http://epaper.cenews.com.cn)
@@ -343,6 +350,22 @@
 	[《中国旅游报》](http://www.ctnews.com.cn/paper)
 	- 📞 12318 全国文化市场举报电话 双号并行
 	- （+国家文物局）
+
+
+国务院办事机构（及中共中央承担职责机构）
+---------------------------------------
+
+* 国务院研究室
+* 国务院港澳事务办公室
+* 国务院台湾事务办公室／中共中央台湾工作办公室　	 []()
+* 国务院侨务办公室 +⋙ 中央统战部　	 []()
+* 国务院新闻办公室 +⋙ 中央宣传部　	 []()
+* 国家互联网信息办公室／中央网络安全和信息化委员会办公室　	 []()
+* 国家公务员局 +⋙ 中央组织部　	 []()
+* 国家档案局／中央档案馆　	 []()
+* 国家保密局／中央保密委员会办公室　	 []()
+* 国家密码管理局／中央密码工作领导小组办公室　	 []()
+
 
 
 中国共产党
@@ -367,7 +390,7 @@
 * 中共中央对外联络部　	 []()
 * 中共中央政法委员会　	 []()
 	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
-	- 微信公众号：长安剑
+	- 微信公众号：中央政法委 长安剑
 * 中共中央政策研究室／中央全面深化改革委员会办公室
 * 中央国家安全委员会办公室　	 []()
 * 中央网络安全和信息化委员会办公室／国家互联网信息办公室	http://www.cac.gov.cn
@@ -508,7 +531,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
-	20210318	v0.1.15 Alpha
+	20210320	v0.2.0 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
