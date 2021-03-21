@@ -5,13 +5,13 @@
 大萌 © 202101-03（编制中……）
 
 　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞、主管报纸📰……有关部门涉及：党中央、全国人大、国务院、两高、政协、各种团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
-　　疫情防控常态化以来，人群避免聚集，各部门查验手续增加，这些无需面对面的联系群众渠道将发挥更大作用。  
+　　疫情防控常态化以来，避免人群聚集，各部门查验手续增加，这些无需近距离接触的联系群众渠道将发挥更大作用。  
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
 
 最新变动
 --------
-	* 2021/2/25，国家乡村振兴局挂牌。
+	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
 	* 2021/1/2， 增补大型国企服务电话
 
 编制依据
@@ -29,9 +29,9 @@
 * ☎️ 国家机关服务号码
 * 📞 地方政府12345及其并行号码、分中心号码
 * 📠 其他服务电话号码，包括国企/事业单位等。
-* +【加挂牌子】 &【保留牌子】
-* A +⋙【B】  A加挂B牌子，由某B承担职责
-* A／【B】  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
+* A ＋【加挂B牌子】， B &【保留A牌子】
+* A ＋⋙【B】  A加挂B牌子，由某B承担职责
+* A ／【B】  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
 
 -------------------------------------------------------------------------------
 
@@ -51,11 +51,11 @@
  * 最高人民法院	[Court.gov.cn](http://www.court.gov.cn )
 	- [《人民法院报》](http://rmfyb.chinacourt.org)
 	- ☎️ 12368 诉讼综合服务的电话热线和短信平台　	 [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww/)
-	民诉、刑诉、行政诉讼
+	民诉、刑诉、行政诉讼、调解
  * 最高人民检察院	[SPP.gov.cn](https://www.spp.gov.cn )
 	- [《检察日报》](http://newspaper.jcrb.com)
 	- ☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn)
-	申诉、抗诉、检举、控告、公益诉讼
+	申诉、抗诉、检举、控告、行政监督、公益诉讼
 
 
 国务院
@@ -73,42 +73,46 @@
 	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
-* 各地政府网站(省级)　
-	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>　
-	<a href="http://www.tj.gov.cn/" rel="nofollow" target="_blank">天津</a>　
-	<a href="http://www.hebei.gov.cn/" rel="nofollow" target="_blank">河北</a>　
-	<a href="http://www.shanxi.gov.cn/" rel="nofollow" target="_blank">山西</a>　
-	<a href="http://www.nmg.gov.cn/" rel="nofollow" target="_blank">内蒙古</a>　
-	<a href="http://www.ln.gov.cn" rel="nofollow" target="_blank">辽宁</a>　
-	<a href="http://www.jl.gov.cn" rel="nofollow" target="_blank">吉林</a>　
-	<a href="http://www.hlj.gov.cn" rel="nofollow" target="_blank">黑龙江</a>　
-	<a href="http://www.shanghai.gov.cn/" rel="nofollow" target="_blank">上海</a>　
-	<a href="http://www.jiangsu.gov.cn/" rel="nofollow" target="_blank">江苏</a>　
-	<a href="http://www.zj.gov.cn/" rel="nofollow" target="_blank">浙江</a>　
-	<a href="http://www.ah.gov.cn/" rel="nofollow" target="_blank">安徽</a>　
-	<a href="http://www.fujian.gov.cn" rel="nofollow" target="_blank">福建</a>　
-	<a href="http://www.jiangxi.gov.cn" rel="nofollow" target="_blank">江西</a>　
-	<a href="http://www.shandong.gov.cn/" rel="nofollow" target="_blank">山东</a>　
-	<a href="http://www.henan.gov.cn/" rel="nofollow" target="_blank">河南</a>　
-	<a href="http://www.hubei.gov.cn/" rel="nofollow" target="_blank">湖北</a>　
-	<a href="http://www.hunan.gov.cn/" rel="nofollow" target="_blank">湖南</a>　
-	<a href="http://www.gd.gov.cn/" rel="nofollow" target="_blank">广东</a>　
-	<a href="http://www.gxzf.gov.cn/" rel="nofollow" target="_blank">广西</a>　
-	<a href="http://www.hainan.gov.cn/" rel="nofollow" target="_blank">海南</a>　
-	<a href="http://www.cq.gov.cn/" rel="nofollow" target="_blank">重庆</a>　
-	<a href="http://www.sc.gov.cn" rel="nofollow" target="_blank">四川</a>　
-	<a href="http://www.guizhou.gov.cn/" rel="nofollow" target="_blank">贵州</a>　
-	<a href="http://www.yn.gov.cn/" rel="nofollow" target="_blank">云南</a>　
-	<a href="http://www.xizang.gov.cn/" rel="nofollow" target="_blank">西藏</a>　
-	<a href="http://www.shaanxi.gov.cn/" rel="nofollow" target="_blank">陕西</a>　
-	<a href="http://www.gansu.gov.cn/" rel="nofollow" target="_blank">甘肃</a>　
-	<a href="http://www.qh.gov.cn/" rel="nofollow" target="_blank">青海</a>　
-	<a href="http://www.nx.gov.cn/" rel="nofollow" target="_blank">宁夏</a>　
-	<a href="http://www.xinjiang.gov.cn/" rel="nofollow" target="_blank">新疆</a>
-	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>　
-	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>　
-	<a class="nohover" rel="nofollow">台湾</a>　
-	<a href="http://www.xjbt.gov.cn/" rel="nofollow" target="_blank">新疆生产建设兵团</a>
+* 各地政府网站(省级，按身份证号顺序)：　
+	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>11　
+	<a href="http://www.tj.gov.cn/" target="_blank">天津</a>12　
+	<a href="http://www.hebei.gov.cn/" target="_blank">河北</a>13　
+	<a href="http://www.shanxi.gov.cn/" target="_blank">山西</a>14　
+	<a href="http://www.nmg.gov.cn/" target="_blank">内蒙古</a>15　　
+	<a href="http://www.ln.gov.cn" target="_blank">辽宁</a>21　
+	<a href="http://www.jl.gov.cn" target="_blank">吉林</a>22　
+	<a href="http://www.hlj.gov.cn" target="_blank">黑龙江</a>23
+<br>　
+	<a href="http://www.shanghai.gov.cn/" target="_blank">上海</a>31　
+	<a href="http://www.jiangsu.gov.cn/" target="_blank">江苏</a>32　
+	<a href="http://www.zj.gov.cn/" target="_blank">浙江</a>33　
+	<a href="http://www.ah.gov.cn/" target="_blank">安徽</a>34　
+	<a href="http://www.fujian.gov.cn" target="_blank">福建</a>35　
+	<a href="http://www.jiangxi.gov.cn" target="_blank">江西</a>36　
+	<a href="http://www.shandong.gov.cn/" target="_blank">山东</a>37　
+	<a href="http://www.henan.gov.cn/" target="_blank">河南</a>41　
+	<a href="http://www.hubei.gov.cn/" target="_blank">湖北</a>42　
+	<a href="http://www.hunan.gov.cn/" target="_blank">湖南</a>43　
+	<a href="http://www.gd.gov.cn/" target="_blank">广东</a>44　
+	<a href="http://www.gxzf.gov.cn/" target="_blank">广西</a>45　
+	<a href="http://www.hainan.gov.cn/" target="_blank">海南</a>46
+<br>　
+	<a href="http://www.cq.gov.cn/" target="_blank">重庆</a>50　
+	<a href="http://www.sc.gov.cn" target="_blank">四川</a>51　
+	<a href="http://www.guizhou.gov.cn/" target="_blank">贵州</a>52　
+	<a href="http://www.yn.gov.cn/" target="_blank">云南</a>53　
+	<a href="http://www.xizang.gov.cn/" target="_blank">西藏</a>54　
+	<a href="http://www.shaanxi.gov.cn/" target="_blank">陕西</a>61　
+	<a href="http://www.gansu.gov.cn/" target="_blank">甘肃</a>62　
+	<a href="http://www.qh.gov.cn/" target="_blank">青海</a>63　
+	<a href="http://www.nx.gov.cn/" target="_blank">宁夏</a>64　
+	<a href="http://www.xinjiang.gov.cn/" target="_blank">新疆</a>65　
+	<a href="http://www.xjbt.gov.cn/" target="_blank">新疆生产建设兵团</a>
+<br>　
+	<a class="nohover" rel="nofollow">台湾</a>71　
+	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>81　
+	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>82　
+	国外入籍身份证号：91
 
 
 国务院特设机构
@@ -147,7 +151,7 @@
 * 国家广播电视总局　	 []()
 * 国家新闻出版署（国家版权局）+⋙【中央宣传部】　	 []()
 * 国家宗教事务局 		+⋙【中央统战部】　	 []()
-* 国家乡村振兴局　	 [CPad.gov.cn](http://www.cpad.gov.cn) 农业农村部代管国务院直属机构，原国务院扶贫办整体改组。
+* 国家乡村振兴局　	 [CPad.gov.cn](http://www.cpad.gov.cn) 原国务院扶贫办整体改组，农业农村部代管。
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行
  
 国务院直属事业单位
@@ -234,12 +238,8 @@
 	- [《民族画报》](http://www.mzhb.com )
 	- [民族自治州/区/县(旗)查询](http://www.neac.gov.cn/seac/ztzl/mzzzdf/index.shtml )
 	- 直属高校（6所）：
-	　[中央民族大学](https://www.muc.edu.cn/xdyx.htm )（北京）
-	　中南民族大学（武汉）
-	　西南民族大学（成都）
-	　西北民族大学（兰州）
-	　北方民族大学（银川）
-	　大连民族大学
+	　[中央民族大学](https://www.muc.edu.cn/xdyx.htm )（北京）、
+	　中南民族大学（武汉）、　西南民族大学（成都）、　西北民族大学（兰州）、	　北方民族大学（银川）、　大连民族大学
 
 * 教育部　	 [MOE.gov.cn](http://www.moe.gov.cn )
  	- [教育部直属高等学校](http://www.moe.gov.cn/jyb_zzjg/moe_347 ) 75所高校
@@ -250,10 +250,7 @@
 	- 《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 	
 	- （ &[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language )）
 	- [校外培训机构查询](http://xwpx.emis.edu.cn ) 
-	- 中国教育出版传媒集团
-	  - 人民教育出版社
-	  - 高等教育出版社
-	  - 语文出版社
+	- 中国教育出版传媒集团（人民教育出版社、高等教育出版社、语文出版社）
 
 * 住房和城乡建设部　	 [MoHURD.gov.cn](http://www.mohurd.gov.cn ) 
 	- 📞 12319 城建/城管 双号并行
@@ -370,6 +367,7 @@
 * 中共中央对外联络部　	 []()
 * 中共中央政法委员会　	 []()
 	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
+	- 微信公众号：长安剑
 * 中共中央政策研究室／中央全面深化改革委员会办公室
 * 中央国家安全委员会办公室　	 []()
 * 中央网络安全和信息化委员会办公室／国家互联网信息办公室	http://www.cac.gov.cn
@@ -388,6 +386,7 @@
 	[《学习时报》](http://paper.cntheory.com )
 * 中央党史和文献研究院　	 []()
 * 人民日报社　	 []()
+  - 海外版评论　	 [侠客岛](http://opinion.haiwainet.cn/456317/)
 * 求是杂志社　	 []()
 * 光明日报社　	 []()
 * 中国浦东干部学院　	 []()
