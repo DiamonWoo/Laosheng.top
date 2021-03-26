@@ -6,6 +6,7 @@
 
 　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞、主管报纸📰……有关部门涉及：党中央、全国人大、国务院、两高、政协、各种团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
 　　疫情防控常态化以来，避免人群聚集，各部门查验手续增加，这些无需近距离接触的联系群众渠道将发挥更大作用。  
+
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
 
@@ -13,12 +14,13 @@
 --------
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
 	* 2021/1/2， 增补大型国企服务电话
+	* 建议在新窗口打开本页面的网址（右键或按Ctrl键）
 
 编制依据
 --------
 
 * 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
-* 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
+* 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm ){:target="_blank"}
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面
@@ -26,12 +28,11 @@
 图例
 ----
 
-* ☎️ 国家机关服务号码
-* 📞 地方政府12345及其并行号码、分中心号码
-* 📠 其他服务电话号码，包括国企/事业单位等。
-* A ＋【加挂B牌子】， B &【保留A牌子】
-* A ＋⋙【B】  A加挂B牌子，由某B承担职责
-* A ／【B】  一块机构两块牌子 <!-- ＋→→⇢⇨⋙ -->
+* ☎️ 国家机关电话号码
+* 📞 地方政府12345电话热线及并行号码、分中心号码
+* 📠 其他单位服务电话，包括国企/事业单位等。
+*  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
+*  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->
 
 -------------------------------------------------------------------------------
 
@@ -118,10 +119,11 @@
 
 国务院特设机构
 -------------
-* 国务院国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/)
+* 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/)
+	- 中国钢铁新闻网 [中国冶金报](http://epaper.csteelnews.com)
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn)
 	[《中华合作时报》](http://szb.zh-hz.com )
-
+[]()
 
 国务院直属机构
 --------------
@@ -134,13 +136,12 @@
 	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
-* 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
+* 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/) 《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。
 	- 📠 400-807-6000 全国组织机构统一社会信用代码数据服务中心
+	- [国家企业信用](http://www.gsxt.gov.cn/index.html)信息公示系统
 	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】、 &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
 	- [国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/) 强制性国标超两千项，推荐性GB三万多项
-	- 《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
-	- [国家企业信用](http://www.gsxt.gov.cn/index.html)信息公示系统
 	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
 	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
 	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
@@ -273,7 +274,7 @@
 	- 《中国建设报》  [中国建设新闻网](http://www.chinajsb.cn )
 	  - 旗下微信公众号：《中国物业》《大城管》《中国房地产》《智慧城市》《高质量发展》《建筑半月谈》
 * 民政部	　 [MCA.gov.cn](http://www.mca.gov.cn ) 
-	- 全国行政区划信息[查询平台i](http://xzqh.mca.gov.cn/map )　	 [国家地名信息库](https://dmfw.mca.gov.cn )
+	- 全国行政区划信息[查询平台i](http://xzqh.mca.gov.cn/map )、[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)、[省市统计](http://xzqh.mca.gov.cn/statistics/) 全国34个省级区划（含港澳台）、国家地名信息库[中国地名大会](https://dmfw.mca.gov.cn/meeting.html )
 	- 社会组织管理局 [中国社会组织公共服务平台](http://www.chinanpo.gov.cn )
 	- 社会救助司 📠 [各地社会救助服务热线](http://hotline.treeyee.com )
 	- 慈善事业促进和社会工作司 慈善中国 📠 010-58123127 
@@ -308,7 +309,7 @@
 	- ✈️（+中国民用航空局）	  [《中国民航报》](http://epaper.caacmedia.cn:81/)
 	- （+国家邮政局）	  [《中国邮政报》](http://www.chinapostnews.com.cn )
 	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
-	- 🚉（+国家铁路局）	  [《人民铁道报》](http://szb.peoplerail.com)
+	- 🚉（+国家铁路局）	  [《人民铁道》报](http://szb.peoplerail.com)
 	  - 📠 12306 [铁路客运服务热线](https://kyfw.12306.cn/otn/leftTicket/init) 买高铁车票
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
 * 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/)
@@ -322,6 +323,8 @@
 * 自然资源部	　 [MNR.gov.cn](http://www.mnr.gov.cn/)（&国家海洋局）
 	[《中国绿色时报》](http://www.greentimes.com/greentimepaper/paperindex.htm) 
 	- 国家林业和草原局（+国家公园管理局）林科院
+	- 国家基础地理信息中心 [NGCC](http://www.ngcc.cn/) 山川河流、遥感测绘、
+	[天地图](https://map.tianditu.gov.cn/)
 * 生态环境部	　 [MEE.gov.cn](http://www.mee.gov.cn/)
 	[《中国环境报》](http://epaper.cenews.com.cn)
 	- 📞 12369 环境保护投诉举报电话 双号并行
@@ -511,7 +514,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210320	v0.2.1 Alpha
+	20210326	v0.2.2 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
