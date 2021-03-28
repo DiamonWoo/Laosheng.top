@@ -63,7 +63,7 @@
 　　全国性法律由全国人大及其常委会制定，由国家主席签发，通常会授权新华网公布，各级官方网站及很多民间站点均会转载。**大萌法律读本**主要引用法律制定方（全国人大）及国家司法机关的官方网站（比如“公检法”）。下面列举提供中国法律文件在线浏览的官方网站；
 
 * 全国人民代表大会　	[中国人大网 权威发布](http://www.npc.gov.cn/npc/c12435/list.shtml) 栏目，建议配合站内搜索功能使用。
-* 全国人大常委会办公厅	[国家法律法规库](http://www.npc.gov.cn/flk ) 
+* 全国人大常委会办公厅	[国家法律法规库](https://flk.npc.gov.cn ) 
 * 中央纪委国家监委　	[党纪法规库](http://www.ccdi.gov.cn/fgk/index ) 栏目，中央纪律检查委员会与国家监察委员会提供。
 * [最高人民法院](http://www.court.gov.cn )　中国法院报社承办　	[中国法院网 法律文库查询](https://www.chinacourt.org/law.shtml) 栏目
 * [最高人民检察院](https://www.spp.gov.cn )　检察日报社承办　	[检察法律法规库](https://www.spp.gov.cn/spp/flfgk )  
