@@ -18,11 +18,10 @@
 
 编制依据
 --------
-
 * 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
 * 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm ){:target="_blank"}
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
-* 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
+* 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm){:target="_blank"}
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面
 
 图例
@@ -67,7 +66,7 @@
 	第七条　国务院秘书长在总理领导下，负责处理国务院的日常工作。	国务院设副秘书长若干人，协助秘书长工作。
 	国务院设立办公厅，由秘书长领导。
 
-* 🏢 中国政府网	　[Gov.cn](https://www.gov.cn )
+* 🏢 中央人民政府	 　[中国政府网](https://www.gov.cn)	<https://www.Gov.cn>
 	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
@@ -358,50 +357,55 @@
 ============
 
 * 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn )
-* 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年！
+	- 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年！
 
 中共中央各部门
 -------------
 
-* 中共中央纪律检查委员会/国家监察委员会机关	　 []()
+* 中共中央纪律检查委员会/国家监察委员会机关	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中纪委
 	- 12388 　	 [网上举报](http://www.12388.gov.cn )
 	- [《中国纪检监察报》](http://www.jjjcb.cn )
-* 中共中央全面依法治国委员会	　 []() 	办公室设在司法部
 * 中共中央办公厅	　 []()
-* 中共中央组织部（+国家公务员局）	　 []()
-	- [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官、
-* 中共中央宣传部（+国务院新闻办公室、+国家新闻出版署、+国家版权局、+国家电影局）
-	- [中国文明网](http://www.wenming.cn)
-* 中共中央统一战线工作部（+国家宗教事务局、国务院侨务办公室）
-* 中共中央对外联络部	　 []()
-* 中共中央政法委员会	　 []()
+* 中共中央组织部	　 []()
+	- [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
+	- （+国家公务员局）
+* 中共中央宣传部	　 []()中宣部
+	- 中央文明办	　 [中国文明网](http://www.wenming.cn)
+	- （+国务院新闻办公室、+国家新闻出版署、+国家版权局、+国家电影局）
+* 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn)
+	- +国家宗教事务局、国务院侨务办公室
+* 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn)中联部
+* 中共中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/)中国长安网
 	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
 	- 微信公众号：中央政法委 长安剑
+	- 中共中央全面依法治国委员会	　 []() 	办公室设在司法部
 * 中共中央政策研究室／中央全面深化改革委员会办公室
 * 中央国家安全委员会办公室	　 []()
-* 中央网络安全和信息化委员会办公室／国家互联网信息办公室	http://www.cac.gov.cn
+* 中央网络安全和信息化委员会办公室／国家互联网信息办公室	　 [CAC.gov.cn](http://www.cac.gov.cn)网信办
 * 中央军民融合发展委员会办公室	　 []()
-* 中共中央台湾工作办公室／国务院台湾事务办公室
+* 中共中央台湾工作办公室／国务院台湾事务办公室	　 [GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
 * 中央财经委员会办公室	　 []()
 * 中央外事工作委员会办公室	　 []()
-* 中央机构编制委员会办公室	[中国机构编制网](http://www.scopsr.gov.cn )
-* 中央和国家机关工作委员会	　 []()
+* 中央机构编制委员会办公室	　 [SCOPSR.gov.cn](http://www.scopsr.gov.cn )中编办 中国机构编制网
+* 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn)旗帜网
 
 
 中共中央直属事业单位
 -------------------
 
-* 中央党校／国家行政学院	　 []()
-	[《学习时报》](http://paper.cntheory.com )
-* 中央党史和文献研究院	　 []()
-* 人民日报社	　 []()
+* 中共中央党校／国家行政学院	　 [CCPS.gov.cn](https://www.ccps.gov.cn)
+	- [《学习时报》](http://paper.cntheory.com )
+	- 理论网
+* 中共中央党史和文献研究院		　 [党史文献研究院](http://www.dswxyjy.org.cn)
+* 人民日报社	　 [人民网](http://www.people.com.cn )
   - 海外版评论	　 [侠客岛](http://opinion.haiwainet.cn/456317/)
-* 求是杂志社	　 []()
-* 光明日报社	　 []()
-* 中国浦东干部学院	　 []()
-* 中国井冈山干部学院	　 []()
-* 中国延安干部学院	　 []()
+* 求是杂志社	　 [求是理论](http://www.qstheory.cn )
+* 光明日报社	　 [光明网](http://www.gmw.cn )
+* 中国浦东干部学院	　 [CelaP.Org.cn](http://www.celap.org.cn/)
+* 中国井冈山干部学院	　 [CelaJ.Gov.cn](http://www.celaj.gov.cn/)
+* 中国延安干部学院	　 [CelaY.Org.cn](http://www.celay.org.cn/)
 * 中央社会主义学院	　 []()
+<!-- * 中共中央直属机关工委	　 []() -->
 
 
 
@@ -514,7 +518,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210326	v0.2.2 Alpha
+	20210330	v0.2.3 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
