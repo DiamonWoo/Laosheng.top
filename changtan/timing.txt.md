@@ -12,39 +12,39 @@
 1、搜罗天下
 -----------
 
-	人民日报阐述改革和开放 
-		http://data.people.com.cn/rmrb/19850611/1 
-		http://data.people.com.cn/rmrb/19840815/1
-	解放思想
-		http://data.people.com.cn/rmrb/19830701/1
-		http://data.people.com.cn/rmrb/20010629/5
+*	人民日报阐述改革和开放 
+	-	<http://data.people.com.cn/rmrb/19850611/1 >
+	-	<http://data.people.com.cn/rmrb/19840815/1 >
+*	解放思想
+	-	<http://data.people.com.cn/rmrb/19830701/1>
+	-	<http://data.people.com.cn/rmrb/20010629/5>
 
-	#美国宾州	https://duckduckgo.com/ 	也作；duck.com
-	#荷兰(谷歌API)	https://startpage.com
-	非洲ECosia	https://www.ecosia.org/ 	微软API
-	韩国LookSmart	https://looksmart.com   	需要境外的人机验证
+*	#美国宾州	<https://duckduckgo.com > 	也作；duck.com
+*	#荷兰(谷歌API)	<https://startpage.com >
+*	非洲ECosia	<https://www.ecosia.org >	微软API
+*	韩国LookSmart	<https://looksmart.com >  	需要境外的人机验证
 
-	维基百科拷贝	https://zh.wikiredia.com/
-	维基百科拷贝2	https://kfd.me/
-	谷歌学术镜像 	https://ac.scmor.com/
+*	维基百科拷贝	<https://zh.wikiredia.com >
+*	维基百科拷贝2	<https://kfd.me >
+*	谷歌学术镜像 	<https://ac.scmor.com >
 
 <a href="https://mijisou.com" title="密迹搜索">密迹</a>
 <a href="https://Mengso.com" title="为小众而搜">萌搜</a>
-	夸克神马搜索	https://quark.sm.cn/		阿里和UC浏览器合作的移动端搜索
-	盘搜搜  	https://www.pansoso.com/
-	盘搜     	http://www.pansou.com/
+*	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
+*	盘搜搜   	<https://www.pansoso.com >
+*	盘搜     	<http://www.pansou.com >
 
 
 2、云媒速览
 -----------
 
-	2021/3/7日起 内蒙古电视台网站故障 http://www.nmtv.cn/folder84/folder86/folder137
+	2021/3/7~9日 内蒙古电视台网站故障 http://www.nmtv.cn/folder84/folder86/folder137
 
 
 3、浏览之器
 -----------
 
-	小红书% 	https://www.xiaohongshu.com/explore
+*	小红书%  	<https://www.xiaohongshu.com/explore>
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 
 
@@ -59,19 +59,22 @@
 7、科研学习
 ------------
 
-	当当书店 	http://book.dangdang.com  曾经第一的网上书店，创始人家庭不和，无心发展，至今不提供默认安全连接。
-	中国图书网	http://www.bookschina.com  2折买尾货
-	蔚蓝书店 	https://www.wl.cn
-	亚马逊书店	2019年下半年亚马逊停止国内实体书销售
-	京东书店 	
-	浙江博库 	
-	北京北新网	
-	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
+*	当当书店 	<http://book.dangdang.com > 曾经第一的网上书店，创始人家庭不和，无心发展，至今不提供默认安全连接。
+*	中国图书网	<http://www.bookschina.com>  2折买尾货
+*	蔚蓝书店 	<https://www.wl.cn>
+*	亚马逊书店	2019年下半年亚马逊停止国内实体书销售
+*	京东书店 	
+*	浙江博库 	
+*	北京北新网	
+*	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
 
 8、财务自求
 ------------
 
-	财联社、财经网、第一财经
+*	第一财经 <https://www.yicai.com >	上海文广影视集团(SMG)
+	 - 第一财经电视 <https://www.yicai.com/tv> 东方财经-浦东 
+*	财经网 <https://www.caijing.com.cn>	北京《财经》杂志网站
+*	财新网 <https://m.caixin.com/m/ >	原创财经新媒体/很多文章收费
 
 
 10、上一代互联网导航
