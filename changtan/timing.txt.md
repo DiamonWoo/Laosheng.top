@@ -76,6 +76,11 @@
 *	财经网 <https://www.caijing.com.cn>	北京《财经》杂志网站
 *	财新网 <https://m.caixin.com/m/ >	原创财经新媒体/很多文章收费
 
+9、IT洁癖
+---------
+
+*	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
+*	<https://www.ipip.net/ip.html>
 
 10、上一代互联网导航
 ---------------------
