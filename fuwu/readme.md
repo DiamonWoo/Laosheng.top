@@ -38,8 +38,8 @@
 全国人民代表大会
 ===============
 
-* 中国人大网	[NPC.gov.cn](http://www.npc.gov.cn )
-  - 全国人大常委会办公厅维护⭐[【国家法律法规数据库】](https://flk.npc.gov.cn/ )网站，提供现行有效法律的电子文本，提供.docx (WPS格式)全文下载。
+* 🟥 中国人大网	[NPC.gov.cn](http://www.npc.gov.cn )
+  - 全国人大常委会办公厅维护[【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的电子文本，提供.docx (WPS格式)全文下载。
   *如何快速学习法律可参见[大萌法海导航](../falv )*
   - [法律草案征求意见](http://www.npc.gov.cn/flcaw/ )
   - 会议与记者会	[网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
@@ -49,28 +49,28 @@
 两高
 ====
 
- * 最高人民法院	[Court.gov.cn](http://www.court.gov.cn )	　 民诉、刑诉、行政诉讼、调解
+ * ⚖️ 最高人民法院	 　[Court.gov.cn](http://www.court.gov.cn )	　 民诉、刑诉、行政诉讼、调解
 	- [《人民法院报》](http://rmfyb.chinacourt.org)，[法律文库](https://www.chinacourt.org/law.shtml)查询
 	- ☎️ 12368 诉讼综合服务的电话热线和短信平台　	 [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww/)
 	- [中国裁判文书网](https://wenshu.court.gov.cn/)	%需登录
-	- 中国庭审公开网 [庭审回顾](http://tingshen.court.gov.cn/court/review/2?courtLevel=2) 直播
+	- 中国庭审公开网 [庭审回顾](http://tingshen.court.gov.cn/court/review/2?courtLevel=2) 直播 🌩
 	- 六个[巡回法庭](http://www.court.gov.cn/xunhui3/xiangqing-78772.html)：深圳、沈阳、南京、郑州、重庆、西安。
- * 最高人民检察院	[SPP.gov.cn](https://www.spp.gov.cn )
+ * ⚔️ 最高人民检察院		 　[SPP.gov.cn](https://www.spp.gov.cn )
  	- 十大[检察业务](https://www.spp.gov.cn/spp/jcyw/index.shtml)：(普/重/职/经)犯罪检察、刑事执行检察、民事检察、行政检察、公益诉讼检察、未成年人检察、控告申诉检察
 	- [《检察日报》](http://newspaper.jcrb.com)正义网，[法律法规库](https://www.spp.gov.cn/spp/flfgk)
 	- ☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn)
-	- 中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view)
+	- 中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view) ☁️
 	- [国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
 
 
-国务院
-======
-[]()
+国务院（中央人民政府）[]()
+===================
+
 	1982年《国务院组织法》
 	第七条　国务院秘书长在总理领导下，负责处理国务院的日常工作。	国务院设副秘书长若干人，协助秘书长工作。
 	国务院设立办公厅，由秘书长领导。
 
-* 🏢 中央人民政府	 　[中国政府网](https://www.gov.cn)	<https://www.Gov.cn>
+* 🏢 中国政府网	 　[Gov.CN](https://www.gov.cn)
 	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
@@ -172,7 +172,7 @@
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行
 
 
-国务院直属事业单位
+国务院直属事业单位[]()
 -----------------
 
 * 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
@@ -203,7 +203,7 @@
 * 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
 	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
 	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
-	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，**[证监会为什么不要App]()**
+	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，**[证监会为什么不要App](https://laosheng.top/changtan/8-证券信息披露的法定媒体.txt)**
 * 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) [《中国经济时报》](http://jjsb.cet.com.cn)
 	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
 	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
@@ -212,9 +212,9 @@
 	- [网上党校](https://wsdx.ccps.gov.cn/)
 
 
-国务院26个部委（及所属国家局）
+国务院26个部委（及所属国家局）[]()
 ---------------------------
-[]()
+
 	1982年《国务院组织法》
 	第八条　国务院各部、各委员会的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。
 
@@ -343,7 +343,7 @@
 
 
 国务院办事机构（及中共中央承担职责机构）
----------------------------------------
+------------------------------------
 
 * 国务院研究室
 * 国务院港澳事务办公室
@@ -358,8 +358,8 @@
 
 
 
-中国共产党
-============
+中国共产党[]()
+=============
 
 * 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn )
 	- 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年！
@@ -414,7 +414,7 @@
 
 
 
-中国人民政治协商会议
+中国人民政治协商会议[]()
 ===================
 
 　　本段内容依据 政协全国委员会网站[中国政协网](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/)，以其公布为准。
@@ -486,7 +486,7 @@
 * 中华职教社	　 []()
 
 
-部分国有企业
+部分国有企业[]()
 ============
 
 * 国家电网　	[SGCC.com.cn](http://www.sgcc.com.cn )
