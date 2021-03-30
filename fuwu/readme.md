@@ -9,7 +9,6 @@
 
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
-
 最新变动
 --------
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
@@ -119,16 +118,14 @@
 	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>82　
 	国外入籍身份证号：91
 
-
 国务院特设机构
 -------------
 * 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/)
 	- 中国钢铁新闻网 [中国冶金报](http://epaper.csteelnews.com)
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn)
 	- [《中华合作时报》](http://szb.zh-hz.com )
-[]()
 
-国务院直属机构
+国务院直属机构[]()
 --------------
 
 	1982年《国务院组织法》
@@ -139,7 +136,7 @@
 	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
-* 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
+* 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。
 	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
 	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心 %要求登录
@@ -171,7 +168,6 @@
 * 国家乡村振兴局	　 [CPad.gov.cn](http://www.cpad.gov.cn) 原国务院扶贫办整体改组，农业农村部代管。
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行
 
-
 国务院直属事业单位[]()
 -----------------
 
@@ -179,20 +175,20 @@
 	- 《参考消息》、《中国证券报》等，参见[老生常谈云媒体](https://laosheng.top/fly/)
 * 中央广播电视总台	　CMG 暂无官网
 	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见[老生常谈云媒体](https://laosheng.top/fly/)
-* 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)
+* 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)
 	- 国家气象中心 [中央气象台](http://www.nmc.cn/)
 	- [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
-* 中国社会科学院 🪑	　 [社科院](http://cass.cssn.cn/)
+* 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)
 	- 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
 	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
-* 中国科学院 🧪	　 [cas.AC.cn](http://www.cas.ac.cn/) 　全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)
+* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/) 　全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)
 	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
 	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉
 	- 计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
 	- 中国科学技术大学 [中科大](https://www.ustc.edu.cn/) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
 	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)
 	- [明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊接受
-* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/) 　九个学部（机、电、化、能、建、环、农、医、管）
+* ⚙️ 中国工程院	　 [CAE.cn](http://www.cae.cn/) 　九个学部（机、电、化、能、建、环、农、医、管）
 	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
 	- 中国工程[科技知识中心](http://www.ckcest.cn/)
 	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
@@ -211,7 +207,6 @@
 * 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
 	- [网上党校](https://wsdx.ccps.gov.cn/)
 
-
 国务院26个部委（及所属国家局）[]()
 ---------------------------
 
@@ -229,13 +224,13 @@
 	  [《中国国防报》](http://www.81.cn/gfbmap/paperindex.htm)
 	  [《中国民兵》](http://www.81.cn/zgmb/) （画报）
 	- 🌩️央视国防军事频道[CCTV-7](https://tv.cctv.com/live/cctv7/) 	[中国军视网](http://www.js7tv.cn)
-* 退役军人事务部	　 [MVA.gov.cn](http://www.mva.gov.cn)
+* 🎖️ 退役军人事务部	　 [MVA.gov.cn](http://www.mva.gov.cn)
 	- 军队转业干部安置服务信息系统  	退役军人网上信访服务
 	- [中华英烈网](http://www.chinamartyrs.gov.cn)
 * 国家安全部
 	- ☎️ 12339 发现间谍/抓特务
 	[国家安全机关举报受理平台](https://www.12339.gov.cn) 
-* 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )
+* 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )
 	- 🚨 110 公安报警电话，受理治安/刑事报警，紧急危难求助。
 	- 🚓 122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
 	- [公安部政务服务平台](https://zwfw.mps.gov.cn/)
@@ -289,7 +284,7 @@
 	- 📞 12333 全国人力资源和社会保障服务电话 双号并行
 	[各地社保局办事大厅地址](http://si.12333.gov.cn/147439.jhtml)
 * 🏥 国家卫生健康委员会	　 [NHC.gov.cn](http://www.nhc.gov.cn )
- 	- 📞 12320 全国统一公共卫生公益服务电话 双号并行
+	- 📞 12320 全国统一公共卫生公益服务电话 双号并行
 	- 国家中医药管理局　[]()
 * 🚒 应急管理部	　 [MEM.gov.cn](http://www.mem.gov.cn )	　 [《中国应急管理报》](http://paper.aqsc.cn)
 	- 📞 12350 全国统一安全生产举报投诉电话 双号并行
@@ -301,10 +296,10 @@
 	- 国家能源局[]()	　 [《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
 	- 国家粮食和物资储备局
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
- 	- +【国家外汇管理局】[]()
- 	- [信用中国](https://www.creditchina.gov.cn )💳
+	- ＋【国家外汇管理局】[]()
+	- [信用中国](https://www.creditchina.gov.cn )💳
 * 💰 财政部	　 [MOF.gov.cn](http://www.mof.gov.cn )
- 	[《中国财经报》](http://www.cfen.com.cn/dzb)
+	[《中国财经报》](http://www.cfen.com.cn/dzb)
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  )
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )
@@ -316,22 +311,22 @@
 	- 🚉（+国家铁路局）	  [《人民铁道》报](http://szb.peoplerail.com)
 	  - 📠 12306 [铁路客运服务热线](https://kyfw.12306.cn/otn/leftTicket/init) 买高铁车票
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
-*  🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/)
+* 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/)
 	- （&国家航天局、&国家原子能机构）
 	- 国家烟草专卖局	📞 12313 全国烟草专卖品市场监管举报电话 设分中心
 	- 国家国防科技工业局 🏭
-* 农业农村部	　 [MOA.gov.cn](http://www.moa.gov.cn/)	[《农民日报》](http://szb.farmer.com.cn)  
+* 🌻 农业农村部	　 [MOA.gov.cn](http://www.moa.gov.cn/)	[《农民日报》](http://szb.farmer.com.cn)  
 	- 📞 12316 全国农业系统公益服务电话 双号并行  
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行 [乡村振兴专栏](http://www.moa.gov.cn/ztzl/xczx/)已组建国家乡村振兴局
-* 水利部	　 [MWR.gov.cn](http://www.mwr.gov.cn/)
-* 自然资源部	　 [MNR.gov.cn](http://www.mnr.gov.cn/)（&国家海洋局）
+* 🌊 水利部	　 [MWR.gov.cn](http://www.mwr.gov.cn/)
+* 🌲 自然资源部	　 [MNR.gov.cn](http://www.mnr.gov.cn/)（&国家海洋局）
 	[《中国绿色时报》](http://www.greentimes.com/greentimepaper/paperindex.htm) 
 	- 国家林业和草原局（+国家公园管理局）林科院
 	- 国家基础地理信息中心 [NGCC](http://www.ngcc.cn/) 山川河流、遥感测绘、
 	[天地图](https://map.tianditu.gov.cn/)
-* 生态环境部	　 [MEE.gov.cn](http://www.mee.gov.cn/)
+* 🐟 生态环境部	　 [MEE.gov.cn](http://www.mee.gov.cn/)
 	[《中国环境报》](http://epaper.cenews.com.cn)
-	- 📞 12369 环境保护投诉举报电话 双号并行
+	- 📞 12369 环境保护投诉举报电话 双号并行🐿️
 	- （&国家核安全局） 
 * 科学技术部	　 [MoST.gov.cn](http://www.most.gov.cn/)
 	[《科技日报》](http://digitalpaper.stdaily.com)	
@@ -340,7 +335,6 @@
 	[《中国旅游报》](http://www.ctnews.com.cn/paper)
 	- 📞 12318 全国文化市场举报电话 双号并行
 	- （+国家文物局）
-
 
 国务院办事机构（及中共中央承担职责机构）
 ------------------------------------
@@ -355,7 +349,6 @@
 * 国家档案局／【中央档案馆】	　 []()
 * 国家保密局／【中央保密委员会办公室】	　 []()
 * 国家密码管理局／【中央密码工作领导小组办公室】	　 []()
-
 
 
 中国共产党[]()
@@ -411,7 +404,6 @@
 * 中国延安干部学院	　 [CelaY.Org.cn](http://www.celay.org.cn/)
 * 中央社会主义学院	　 []()
 <!-- * 中共中央直属机关工委	　 []() -->
-
 
 
 中国人民政治协商会议[]()
@@ -498,7 +490,6 @@
 
 *水务/广电/公交 各地服务电话号码不统一*
 
-
 国有商业银行（六家）
 -------------------
 
@@ -523,7 +514,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210331	v0.2.4 Alpha
+	20210331	v0.2.5 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
