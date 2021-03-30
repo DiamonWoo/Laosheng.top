@@ -32,14 +32,14 @@
 * 📠 其他单位服务电话，包括国企/事业单位等。
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->
-
+[]()
 -------------------------------------------------------------------------------
 
 全国人民代表大会
 ===============
 
 * 中国人大网	[NPC.gov.cn](http://www.npc.gov.cn )
-  - 全国人大常委会办公厅维护[【国家法律法规数据库】](https://flk.npc.gov.cn/ )网站，提供现行有效法律的电子文本，提供.docx (WPS格式)全文下载。
+  - 全国人大常委会办公厅维护⭐[【国家法律法规数据库】](https://flk.npc.gov.cn/ )网站，提供现行有效法律的电子文本，提供.docx (WPS格式)全文下载。
   *如何快速学习法律可参见[大萌法海导航](../falv )*
   - [法律草案征求意见](http://www.npc.gov.cn/flcaw/ )
   - 会议与记者会	[网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
@@ -49,19 +49,23 @@
 两高
 ====
 
- * 最高人民法院	[Court.gov.cn](http://www.court.gov.cn )
-	- [《人民法院报》](http://rmfyb.chinacourt.org)
+ * 最高人民法院	[Court.gov.cn](http://www.court.gov.cn )	　 民诉、刑诉、行政诉讼、调解
+	- [《人民法院报》](http://rmfyb.chinacourt.org)，[法律文库](https://www.chinacourt.org/law.shtml)查询
 	- ☎️ 12368 诉讼综合服务的电话热线和短信平台　	 [中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww/)
-	民诉、刑诉、行政诉讼、调解
+	- [中国裁判文书网](https://wenshu.court.gov.cn/)	%需登录
+	- 中国庭审公开网 [庭审回顾](http://tingshen.court.gov.cn/court/review/2?courtLevel=2) 直播
+	- 六个[巡回法庭](http://www.court.gov.cn/xunhui3/xiangqing-78772.html)：深圳、沈阳、南京、郑州、重庆、西安。
  * 最高人民检察院	[SPP.gov.cn](https://www.spp.gov.cn )
-	- [《检察日报》](http://newspaper.jcrb.com)
+ 	- 十大[检察业务](https://www.spp.gov.cn/spp/jcyw/index.shtml)：(普/重/职/经)犯罪检察、刑事执行检察、民事检察、行政检察、公益诉讼检察、未成年人检察、控告申诉检察
+	- [《检察日报》](http://newspaper.jcrb.com)正义网，[法律法规库](https://www.spp.gov.cn/spp/flfgk)
 	- ☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn)
-	申诉、抗诉、检举、控告、行政监督、公益诉讼
+	- 中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view)
+	- [国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
 
 
 国务院
 ======
-
+[]()
 	1982年《国务院组织法》
 	第七条　国务院秘书长在总理领导下，负责处理国务院的日常工作。	国务院设副秘书长若干人，协助秘书长工作。
 	国务院设立办公厅，由秘书长领导。
@@ -121,7 +125,7 @@
 * 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/)
 	- 中国钢铁新闻网 [中国冶金报](http://epaper.csteelnews.com)
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn)
-	[《中华合作时报》](http://szb.zh-hz.com )
+	- [《中华合作时报》](http://szb.zh-hz.com )
 []()
 
 国务院直属机构
@@ -138,14 +142,14 @@
 * 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。
 	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
-	- 📠 400-807-6000 全国组织机构统一社会信用代码[数据服务中心](https://www.cods.org.cn) %要求登录
-	- [我要查](http://www.samr.gov.cn/fw/wyc)企业，企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
+	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心 %要求登录
+	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
 	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】、 &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
 	- [国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/) 强制性国标超两千项，推荐性GB三万多项
 	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
 	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
 	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
-	  - 国家知识产权[公共服务网](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) 专利申请、商标注册、地理标志检索……
+	  - 国家知识产权[公共服务网](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) 专利检索、商标查询、注册申请、地理标志……
 	- 国家市场监督管理总局[行政学院](http://www.sasamr.org.cn/) 深圳市
 * 国家体育总局	　 [Sport.gov.cn](http://www.sport.gov.cn/)
 * 国家国际发展合作署　	 [CIDCA.gov.cn](http://www.cidca.gov.cn/)
@@ -519,7 +523,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210330	v0.2.3 Alpha
+	20210331	v0.2.4 Alpha
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
