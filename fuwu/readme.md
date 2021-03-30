@@ -135,10 +135,11 @@
 	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
-* 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/) 《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
+* 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。
-	- 📠 400-807-6000 全国组织机构统一社会信用代码数据服务中心
-	- [国家企业信用](http://www.gsxt.gov.cn/index.html)信息公示系统
+	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
+	- 📠 400-807-6000 全国组织机构统一社会信用代码[数据服务中心](https://www.cods.org.cn) %要求登录
+	- [我要查](http://www.samr.gov.cn/fw/wyc)企业，企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
 	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】、 &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
 	- [国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/) 强制性国标超两千项，推荐性GB三万多项
 	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
