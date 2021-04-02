@@ -14,9 +14,9 @@
 　　我准备了一些宣传语和宣传图，方便在微信中转发，图片中包含了网址的二维码，省去了输入网址的麻烦。
 
  * 老生常谈云媒体[宣传图](../broad "报纸电视，一页通览")
- * 老生常谈排行榜，打开真正的互联网	<laosheng.top/index2.html>
- * 市民服务热线，有关部门帮助您	<laosheng.top/fuwu>
- * 大萌法律读本，懂法走得更稳（筹）	<http://laosheng.top/falv>
+ * 老生常谈排行榜，打开真正的互联网	<https://laosheng.top/index2.html>
+ * 市民服务热线，有关部门帮助您	<https://laosheng.top/fuwu>
+ * 大萌法律读本，懂法走得更稳（筹）	<https://laosheng.top/falv>
 
 	注意，在微信内部发送网址可能需要较长的时间等待审查，可复制网址在浏览器打开，体验更好。
 
