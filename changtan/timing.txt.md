@@ -1,8 +1,8 @@
 老生常谈排行榜
 
 提名网站与落榜记录
-====================
-大萌 © 202012~202101
+==================
+大萌 © 2020~2021
 
 	请“在浏览器打开”本页。
 
@@ -12,21 +12,14 @@
 1、搜罗天下
 -----------
 
-*	人民日报阐述改革和开放 
-	-	<http://data.people.com.cn/rmrb/19850611/1 >
-	-	<http://data.people.com.cn/rmrb/19840815/1 >
-*	解放思想
-	-	<http://data.people.com.cn/rmrb/19830701/1>
-	-	<http://data.people.com.cn/rmrb/20010629/5>
+*	维基百科拷贝	<https://zh.wikiredia.com >
+*	维基百科拷贝2	<https://kfd.me >
+*	谷歌学术镜像 	<https://ac.scmor.com >
 
 *	#美国宾州	<https://duckduckgo.com > 	也作；duck.com
 *	#荷兰(谷歌API)	<https://startpage.com >
 *	非洲ECosia	<https://www.ecosia.org >	微软API
 *	韩国LookSmart	<https://looksmart.com >  	需要境外的人机验证
-
-*	维基百科拷贝	<https://zh.wikiredia.com >
-*	维基百科拷贝2	<https://kfd.me >
-*	谷歌学术镜像 	<https://ac.scmor.com >
 
 <a href="https://mijisou.com" title="密迹搜索">密迹</a>
 <a href="https://Mengso.com" title="为小众而搜">萌搜</a>
@@ -38,7 +31,16 @@
 2、云媒速览
 -----------
 
-	2021/3/7~9日 内蒙古电视台网站故障 http://www.nmtv.cn/folder84/folder86/folder137
+*	人民日报阐述改革和开放 
+	-	<http://data.people.com.cn/rmrb/19850611/1 >
+	-	<http://data.people.com.cn/rmrb/19840815/1 >
+*	解放思想
+	-	<http://data.people.com.cn/rmrb/19830701/1>
+	-	<http://data.people.com.cn/rmrb/20010629/5>
+*	内蒙古卫视经常网站故障 <http://www.nmtv.cn/folder84/folder86/folder137>
+
+　<a href="http://paper.chinaso.com/quanbubaokan.html" title="全国性报纸搜索">国搜报刊</a>
+　<a href="http://press.nppa.gov.cn/reporter/channels/247.shtml" title="中国记者网">媒体与记者证查询</a>
 
 
 3、浏览之器
@@ -52,9 +54,11 @@
 -------------
 
 网媒  
-	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
-	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
-	<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>　
+*	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
+*	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
+*	<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>
+*	凤凰卫视 <https://v.ifeng.com/shanklist/v/27-95095->
+
 
 7、科研学习
 ------------
@@ -85,7 +89,7 @@
 10、上一代互联网导航
 ---------------------
 
-　<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>
+　<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>😎
 
 
 
