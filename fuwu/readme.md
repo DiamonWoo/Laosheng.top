@@ -23,7 +23,7 @@
 * 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm ){:target="_blank"}
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm){:target="_blank"}
-* 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)
+* 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)、共产党员网[党中央部门机构](http://news.12371.cn/dzybmbdj/)页面
 
 图例
 ----
@@ -144,13 +144,10 @@
 	- 国家能源局[]()	　 [《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
 	- 国家粮食和物资储备局
 * 📐 教育部	　 [MOE.gov.cn](http://www.moe.gov.cn )
+	- [《中国教育报》](http://paper.jyb.cn)、[中国教育电视台](http://www.centv.cn ) ：☁️  [CETV-1~4](http://www.centv.cn/cetv1)、国家开放大学（原中央广播电视大学）
  	- [教育部直属高等学校](http://www.moe.gov.cn/jyb_zzjg/moe_347 ) 75所高校
 	- 教育部大学生就业网 [新职业](https://www.ncss.cn ) 
-	- [《中国教育报》](http://paper.jyb.cn)
-	- [中国教育电视台](http://www.centv.cn ) ：☁️  [CETV-1~4](http://www.centv.cn/cetv1)  
-	- 国家开放大学（原中央广播电视大学）
-	- 《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 	
-	- （ &[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language )）
+	- （ &[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language )）《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 
 	- [校外培训机构查询](http://xwpx.emis.edu.cn ) 
 	- 中国教育出版传媒集团（人民教育出版社、高等教育出版社、语文出版社）
 * 科学技术部	　 [MoST.gov.cn](http://www.most.gov.cn/)
@@ -161,22 +158,19 @@
 	- 国家烟草专卖局	📞 12313 全国烟草专卖品市场监管举报电话 设分中心
 	- 国家国防科技工业局 🚀
 * 国家民族事务委员会	　 [NEAC.gov.cn](http://www.neac.gov.cn )
-	- [《中国民族报》](http://www.mzb.com.cn/html/folder/96173-1.htm)
-	- [《民族画报》](http://www.mzhb.com )
+	- [《中国民族报》](http://www.mzb.com.cn/html/folder/96173-1.htm)、[《民族画报》](http://www.mzhb.com )
 	- [民族自治州/区/县(旗)查询](http://www.neac.gov.cn/seac/ztzl/mzzzdf/index.shtml )
 	- 直属高校（6所）：
 	　[中央民族大学](https://www.muc.edu.cn/xdyx.htm )（北京）、
 	　中南民族大学（武汉）、　西南民族大学（成都）、　西北民族大学（兰州）、	　北方民族大学（银川）、　大连民族大学
-* 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )
+* 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )，[《人民公安报》](http://epaper.cpd.com.cn )
 	- 🚨 110 公安报警电话，受理治安/刑事报警，紧急危难求助。
 	- 🚓 122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
 	- [公安部政务服务平台](https://zwfw.mps.gov.cn/)
 	  网络违法犯罪举报网站
-	- [《人民公安报》](http://epaper.cpd.com.cn )
 	- ☎️ 12389　	 [公安部举报中心](https://www.12389.gov.cn ) 公安机关及民警违法违纪举报中心
-	- 国家移民管理局	[NIA.gov.cn](https://www.nia.gov.cn)（+中华人民共和国出入境管理局）
+	- 国家移民管理局	[NIA.gov.cn](https://www.nia.gov.cn)+【中华人民共和国出入境管理局】，《中国移民管理报》等[专题专栏](https://www.nia.gov.cn/n741435/n907688/)
 	  - 📞 12367 移民咨询服务热线 设分中心　	 [国家移民管理局政务服务平台](https://s.nia.gov.cn)
-	  - [《中国移民管理报》](https://www.nia.gov.cn/n741435/n907688/n932715/n1201706/index.html)
 * 国家安全部
 	- ☎️ 12339 发现间谍/抓特务
 	[国家安全机关举报受理平台](https://www.12339.gov.cn) 
@@ -185,15 +179,13 @@
 	- 全国行政区划信息[查询平台i](http://xzqh.mca.gov.cn/map )、[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)、[省市统计](http://xzqh.mca.gov.cn/statistics/) 全国34个省级区划（含港澳台）、国家地名信息库[中国地名大会](https://dmfw.mca.gov.cn/meeting.html )
 	- 社会组织管理局 [中国社会组织公共服务平台](http://www.chinanpo.gov.cn )
 	- 社会救助司 📠 [各地社会救助服务热线](http://hotline.treeyee.com )
-	- 慈善事业促进和社会工作司 慈善中国 📠 010-58123127 
-	  - [募捐信息平台](http://cishan.chinanpo.gov.cn/biz/ma/csmh/h/csmhhindex.html ) 
-	- [《中国社会报》](http://www.shehuiwang.cn/site/index.jsp )　	 《中国老年报》 []() 
+	- 慈善事业促进和社会工作司
+	  📠 010-58123127 慈善中国[募捐信息平台](http://cishan.chinanpo.gov.cn/biz/ma/csmh/h/csmhhindex.html ) 
+	- [《中国社会报》](http://www.shehuiwang.cn/site/index.jsp )　	 《中国老年报》 []()
 	- [中国志愿服务网](https://www.chinavolunteer.cn )
-* 司法部	　 [MOJ.gov.cn](http://www.moj.gov.cn )
-	【中共中央全面依法治国委员会】办公室设在司法部
-	- 📞 12348 全国公共法律服务专用电话 双号并行
-	- [中国法律服务网](http://12348.moj.gov.cn "12348中国法网") 法律咨询、找调解仲裁、司法考试、可以查全国律师事务所
-	- [法律法规数据库](http://search.chinalaw.gov.cn ) 中国普法网
+* 司法部	　 [MOJ.gov.cn](http://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
+	- 📞 12348 全国公共法律服务专用电话 双号并行 [中国法律服务网](http://12348.moj.gov.cn "12348中国法网") 法律咨询、找调解仲裁、司法考试、可以查全国律师事务所
+	- [法律法规数据库](http://search.chinalaw.gov.cn )、中国普法网[]()
 	- [中国律师网](http://www.acla.org.cn ) 中华全国律师协会 （面向律师而不是面向当事人）
 	- [中国公证网](http://www.chinanotary.org.cn ) 有个在线公正平台是外部链接
 * 💰 财政部	　 [MOF.gov.cn](http://www.mof.gov.cn )
@@ -211,19 +203,18 @@
 	- 📞 12369 环境保护投诉举报电话 双号并行🐿️
 	- （&国家核安全局） 
 * 🏗️ 住房和城乡建设部	　 [MoHURD.gov.cn](http://www.mohurd.gov.cn ) 
-	- 📞 12319 住建/城管 双号并行
+	- 📞 12319 住建/城管 双号并行 违法建筑、绿化修剪、小区改造、车位占用
 	- 📞 12329 全国统一住房公积金热线服务电话 双号并行
-	- 全国[建筑市场监管](http://jzsc.mohurd.gov.cn/home )公共服务平台
-	- 全国[建筑工人](http://jzgr.mohurd.gov.cn ) 管理服务信息平台
+	- 全国[建筑市场监管](http://jzsc.mohurd.gov.cn/home )公共服务平台、全国[建筑工人](http://jzgr.mohurd.gov.cn ) 管理服务信息平台
 	- [国家工程建设标准化信息网](http://www.ccsn.org.cn ) 
 	- 《中国建设报》  [中国建设新闻网](http://www.chinajsb.cn )
 	  - 旗下微信公众号：《中国物业》《大城管》《中国房地产》《智慧城市》《高质量发展》《建筑半月谈》
 * 交通运输部	　 [MOT.gov.cn](http://www.mot.gov.cn )
 	- 📞 12328 全国交通运输服务监督电话 双号并行，出租车服务投诉电话
-	- ✈️（+中国民用航空局）	  [《中国民航报》](http://epaper.caacmedia.cn:81/)
-	- （+国家邮政局）	  [《中国邮政报》](http://www.chinapostnews.com.cn )
+	- +【中国民用航空局】✈️ 	  [《中国民航报》](http://epaper.caacmedia.cn:81/)
+	- +【国家邮政局】	  [《中国邮政报》](http://www.chinapostnews.com.cn )
 	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
-	- 🚉（+国家铁路局）	  [《人民铁道》报](http://szb.peoplerail.com)
+	- +【国家铁路局】🚉 	  [《人民铁道》报](http://szb.peoplerail.com)
 	  - 📠 12306 [铁路客运服务热线](https://kyfw.12306.cn/otn/leftTicket/init) 买高铁车票
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
 * 🌊 水利部	　 [MWR.gov.cn](http://www.mwr.gov.cn/)
@@ -261,7 +252,7 @@
 -----------------
 * 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/)
 	- 中国钢铁新闻网 [《中国冶金报》](http://epaper.csteelnews.com)
-* 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn)
+* 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
 	- [《中华合作时报》](http://szb.zh-hz.com )
 
 国务院直属机构[]()
@@ -325,19 +316,20 @@
 -----------------
 
 * 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
-	- 《参考消息》、《中国证券报》等，参见[老生常谈云媒体](https://laosheng.top/fly/)
+	- 《参考消息》、《中国证券报》等，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
 * 中央广播电视总台	　CMG 暂无官网
-	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见[老生常谈云媒体](https://laosheng.top/fly/)
+	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
 * 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
 	- 国家气象中心 [中央气象台](http://www.nmc.cn/)
 * 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
 	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
-* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，[约800名院士](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/)，全国12个分院。
-	- [《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)
+* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
+	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
 	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
 	- 中国科学技术大学 [中科大](https://www.ustc.edu.cn/) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
 	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
-* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，[约900名院士](http://www.cae.cn/cae/html/main/col48/column_48_1.html) ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)，九个学部（机、电、化、能、建、环、农、医、管）。
+* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
+	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
 	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
 	- 中国工程[科技知识中心](http://www.ckcest.cn/)
 	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
@@ -533,7 +525,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210414	v0.4.1 Beta
+	20210414	v0.4.2 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
