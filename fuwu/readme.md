@@ -4,19 +4,18 @@
 ===========================
 大萌 © 202101-04（编制中……）
 
-	精兵简政——李鼎铭，1941年于陕甘宁边区
-	<!-- 理论联系实际、密切联系群众、批评与自我批评 -->
+	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
 　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞、主管报纸📰……有关部门涉及：党中央、全国人大、国务院、两高、政协、各种团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
 　　疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些非近距离接触的联系群众渠道将发挥更大作用。  
-
+<!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
 最新变动
 --------
+	* 2021/4/14，国务院部委段落严格按照官网排序
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
-	* 2021/1/2， 增补大型国企服务电话
-	* 建议在新窗口打开本页面的网址（右键或按Ctrl键）
+	* 建议在新窗口打开本页面的网址（右键或按Ctrl键点击鼠标）
 
 编制依据
 --------
@@ -24,7 +23,7 @@
 * 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm ){:target="_blank"}
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm){:target="_blank"}
-* 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面
+* 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)
 
 图例
 ----
@@ -348,7 +347,7 @@
 * 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
 	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
 	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
-	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，**[证监会为什么不要App](https://laosheng.top/changtan/8-证券信息披露的法定媒体.txt)**
+	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/changtan/8-证券信息披露的法定媒体.txt)*
 * 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) [《中国经济时报》](http://jjsb.cet.com.cn)
 	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
 	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
@@ -360,8 +359,11 @@
 中国共产党 ![](CPC-64.png)
 =============
 
-* 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn )
-	- 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年！
+	理论联系实际、密切联系群众、批评与自我批评——党的‘三大作风’
+
+* 中共中央机关报[《人民日报》](http://paper.people.com.cn/rmrb)
+	- 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn )
+	- 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年
 
 中共中央各部门
 -------------
@@ -370,40 +372,47 @@
 	- ☎️ 12388 　	 [网上举报](http://www.12388.gov.cn )
 	- [《中国纪检监察报》](http://www.jjjcb.cn )
 * 中共中央办公厅	　 []()
-* 中共中央组织部	　 []()
+	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
+	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
+	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
+	- 中共中央直属机关管理局[]()	　 中直管理局
+* 中共中央组织部	　 [中组部](http://news.12371.cn/dzybmbdj/zzb/)
+	- [共产党员网](http://www.12371.cn) 全国党建网站联盟，组工网站
+	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
+	- 12371[网址导航](http://fuwu.12371.cn/daohang/)，[党中央部门机构](http://news.12371.cn/dzybmbdj/)
+	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
-	- +【国家公务员局】
 * 中共中央宣传部	　 []()中宣部
-	- 中央文明办	　 [中国文明网](http://www.wenming.cn)
-	- +【国务院新闻办公室】
-	- +【国家新闻出版署】
-	- +【国家版权局】
-	- +【国家电影局】
-* 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn)
-	- +【国家宗教事务局】
-	- +【国务院侨务办公室】
-* 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn)中联部
+	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
+	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】
+	- +[【国家版权局](http://www.ncac.gov.cn/)】
+	- +[【国家电影局](http://www.chinafilm.gov.cn/)】
+	- 中央文明办（中宣部代管）	　 [中国文明网](http://www.wenming.cn)
+* 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
+	- +【[国家宗教事务局](http://www.sara.gov.cn)】
+	- +【国务院侨务办公室】[国侨办](http://www.gqb.gov.cn/)
+* 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn) 中联部
 * 中共中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/)中国长安网
 	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
 	- 微信公众号：中央政法委 长安剑
-	- 中共中央全面依法治国委员会	　 []() 	办公室设在司法部
-* 中共中央政策研究室／【中央全面深化改革委员会办公室】
+	- 中共中央全面依法治国委员会，办公室设在[司法部]()
+* 中共中央政策研究室／【中央全面深化改革委员会办公室】	　 中央改革办
 * 中央国家安全委员会办公室	　 []()
-* 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】	　 [CAC.gov.cn](http://www.cac.gov.cn)网信办
-	- 微信公众号“网信中国”
+* 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】[CAC.gov.cn](http://www.cac.gov.cn)网信办
+	- 微信公众号“网信中国”	　 
 * 中央军民融合发展委员会办公室	　 []()
-* 中共中央台湾工作办公室／【国务院台湾事务办公室】	　 [GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
+* 中共中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
 * 中央财经委员会办公室	　 []()
 * 中央外事工作委员会办公室	　 []()
 * 中央机构编制委员会办公室	　 [SCOPSR.gov.cn](http://www.scopsr.gov.cn )中编办 中国机构编制网
+	- ☎️ 12310 对机构编制违规违纪问题的[举报](http://www.scopsr.gov.cn/cxgl/jdjc/12310jbdh/)
 * 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn)旗帜网
 
 中共中央直属事业单位
 -------------------
 
 * 中共中央党校／【国家行政学院】	　 [CCPS.gov.cn](https://www.ccps.gov.cn)
-	- [《学习时报》](http://paper.cntheory.com )
-	- 理论网
+	- [《学习时报》](http://paper.cntheory.com ) / [理论网](http://www.cntheory.com/)
 * 中共中央党史和文献研究院		　 [党史文献研究院](http://www.dswxyjy.org.cn)
 * 人民日报社	　 [人民网](http://www.people.com.cn )
   - 海外版评论	　 [侠客岛](http://opinion.haiwainet.cn/456317/)
@@ -524,7 +533,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210412	v0.4.0 Beta
+	20210414	v0.4.1 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
