@@ -145,11 +145,10 @@
 	- 国家粮食和物资储备局
 * 📐 教育部	　 [MOE.gov.cn](http://www.moe.gov.cn )
 	- [《中国教育报》](http://paper.jyb.cn)、[中国教育电视台](http://www.centv.cn ) ：☁️  [CETV-1~4](http://www.centv.cn/cetv1)、国家开放大学（原中央广播电视大学）
- 	- [教育部直属高等学校](http://www.moe.gov.cn/jyb_zzjg/moe_347 ) 75所高校
-	- 教育部大学生就业网 [新职业](https://www.ncss.cn ) 
-	- （ &[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language )）《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 
-	- [校外培训机构查询](http://xwpx.emis.edu.cn ) 
+ 	- 教育部75所[直属高等学校](http://www.moe.gov.cn/jyb_zzjg/moe_347)，大学生就业网[新职业](https://www.ncss.cn ) 
+	- &【[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language)】 《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 
 	- 中国教育出版传媒集团（人民教育出版社、高等教育出版社、语文出版社）
+	- [校外培训机构查询](http://xwpx.emis.edu.cn ) 
 * 科学技术部	　 [MoST.gov.cn](http://www.most.gov.cn/)
 	[《科技日报》](http://digitalpaper.stdaily.com)	
 	- （&国家外国专家局）
@@ -369,17 +368,15 @@
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
 	- 中共中央直属机关管理局[]()	　 中直管理局
 * 中共中央组织部	　 [中组部](http://news.12371.cn/dzybmbdj/zzb/)
-	- [共产党员网](http://www.12371.cn) 全国党建网站联盟，组工网站
+	- [共产党员网](http://www.12371.cn) 全国党建网站联盟，组工网站，12371[网址导航](http://fuwu.12371.cn/daohang/)
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
-	- 12371[网址导航](http://fuwu.12371.cn/daohang/)，[党中央部门机构](http://news.12371.cn/dzybmbdj/)
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
-* 中共中央宣传部	　 []()中宣部
+* 中共中央宣传部	　 []()中宣部，代管 中央文明办[中国文明网](http://www.wenming.cn)
 	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
 	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】
 	- +[【国家版权局](http://www.ncac.gov.cn/)】
-	- +[【国家电影局](http://www.chinafilm.gov.cn/)】
-	- 中央文明办（中宣部代管）	　 [中国文明网](http://www.wenming.cn)
+	- +[【国家电影局](http://www.chinafilm.gov.cn/)】　
 * 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
 	- +【[国家宗教事务局](http://www.sara.gov.cn)】
 	- +【国务院侨务办公室】[国侨办](http://www.gqb.gov.cn/)
