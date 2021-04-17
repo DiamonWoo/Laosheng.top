@@ -80,6 +80,8 @@
 *	财经网 <https://www.caijing.com.cn>	北京《财经》杂志网站
 *	财新网 <https://m.caixin.com/m/ >	原创财经新媒体/很多文章收费
 
+*	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体
+
 9、IT洁癖
 ---------
 
@@ -89,7 +91,7 @@
 10、上一代互联网导航
 ---------------------
 
-　<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>😎
+　<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>????
 
 
 
