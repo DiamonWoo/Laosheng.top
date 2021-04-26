@@ -13,7 +13,7 @@ https://laosheng.top/
 + ☸️[大萌法海导航](falv/ "法治中国进行时")，学习法律不慌。帮助初学者面对茫茫法海，呈现全局性的法律目录与纲要。💎（准备中）
   + 中国现行有效法律的高质量文本，适合电子墨水屏幕格式。[大萌法律读本](falv/index2 "有备无患")📖，懂法走得更稳。（未完待续）🖨️
 + 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站")，打开真正互联的网；纯手工打造的的上一代互联网导航！🚩 本榜致力于收集健康/免费/可浏览器直接访问的网站。
-
+  + 提名网站和落榜记
 + 📦  BuyIT (筹) <!-- （败点啥）Oh My God Goods! 我买的好货  -->
 
 十四五开局之年，老生常谈发布2.0版！在[小笔记](broad/blog.txt "建站小笔记")看看网站有什么变化。
@@ -31,7 +31,7 @@ https://laosheng.top/
 + “法律面前人人平等”这句话有法律依据吗？
 + 为什么官网找不到《刑法》全文？
 + 中国知识产权有关法律
-+ 排行榜的 *[提名网站和落榜者](changtan/timing.txt)*
++ 排行榜的 *[提名网站和落榜记](changtan/timing.txt)*
 
 
 浏览方法
@@ -39,9 +39,10 @@ https://laosheng.top/
 
 在浏览器内访问本站 ，体验更佳，网址：[Laosheng.top](https://laosheng.top '老生常谈')。“排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](author/helpweb.txt "老生常谈站点的浏览帮助")  
 
-在微信内点击本站网址会弹出‘非微信官方网页…’，请点请点‘<font color="green"><b>继续访问</b></font>’。通过‘扫一扫’本站网址的二维码，可直接访问本站，避免出现该提示。  
+在微信内点击本站网址会弹出‘非微信官方网页…’，请点‘<font color="green"><b>继续访问</b></font>’。通过‘扫一扫’本站网址的二维码，可直接访问本站，避免出现该提示。  
  ![](./indexQR-Blue.png) 
-Laosheng.top
+https://Laosheng.top/
+
 
 鸣谢
 ------
@@ -50,8 +51,7 @@ Laosheng.top
 
 ![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
 ![谋智开发者网络](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
-![感谢Github支持本站](github-90.png)<!-- https://tosdr.org/logo/github.png -->
-<!-- https://github.githubassets.com/images/modules/logos_page/Octocat.png -->
+![感谢Github支持本站](github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 
