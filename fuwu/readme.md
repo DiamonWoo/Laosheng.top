@@ -13,9 +13,9 @@
 
 最新变动
 --------
+	* 2021/4/26，补全民主党派和人民团体网址
 	* 2021/4/14，国务院部委段落严格按照官网排序
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
-	* 建议在新窗口打开本页面的网址（右键或按Ctrl键点击鼠标）
 
 编制依据
 --------
@@ -33,6 +33,8 @@
 * 📠 其他单位服务电话，包括国企/事业单位等。
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->[]()
+
+*建议在新窗口打开本页面的网址（右键或按Ctrl键点击鼠标）*
 
 ----------------------------------------------------------------
 
@@ -313,6 +315,8 @@
 * 国家保密局／【中央保密委员会办公室】	　 []()
 * 国家密码管理局／【中央密码工作领导小组办公室】	　 []()
 
+	*中共中央各部门 请参见下方段落*
+
 3.5 国务院直属事业单位[]()
 ---------------------
 
@@ -356,12 +360,13 @@
 
 * 中共中央机关报[《人民日报》](http://paper.people.com.cn/rmrb)
 	- 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn )
+	- [中国政要](http://cpc.people.com.cn/GB/64162/394696) 中央政治局 中央书记处
 	- 人民网的[《领导留言板》](https://liuyan.people.com.cn ) 创办十五周年
 
 4.1 中共中央各部门
 -----------------
 
-* 中共中央纪律检查委员会/【国家监察委员会机关】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中纪委
+* 中共中央纪律检查委员会/【国家监察委员会机关】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中纪委/国家监委
 	- ☎️ 12388 　	 [网上举报](http://www.12388.gov.cn )
 	- [《中国纪检监察报》](http://www.jjjcb.cn )
 * 中共中央办公厅	　 []()
@@ -384,13 +389,16 @@
 	- +【国务院侨务办公室】[国侨办](http://www.gqb.gov.cn/)
 * 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn) 中联部
 * 中共中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/)中国长安网
+	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
+	- ☎️ [12337](http://www.12337.gov.cn/) 政法干警违纪违法举报平台 政法队伍教育整顿/扫黑除恶专项斗争
+	- 微信公众号：中央政法委长安剑
 	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
-	- 微信公众号：中央政法委 长安剑
-	- 中共中央全面依法治国委员会，办公室设在[司法部]()
 * 中共中央政策研究室／【中央全面深化改革委员会办公室】	　 中央改革办
 * 中央国家安全委员会办公室	　 []()
 * 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】[CAC.gov.cn](http://www.cac.gov.cn)网信办
+	- ☎️ [12377.cn](https://www.12377.cn/)违法和不良信息举报中心	　 举报网上有害信息：谣言/诈骗/低俗/侵权……
 	- 微信公众号“网信中国”	　 
+	- 中国互联网[联合辟谣平台](https://www.piyao.org.cn/)
 * 中央军民融合发展委员会办公室	　 []()
 * 中共中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
 * 中央财经委员会办公室	　 []()
@@ -412,83 +420,94 @@
 * 中国浦东干部学院	　 [CelaP.Org.cn](http://www.celap.org.cn/)
 * 中国井冈山干部学院	　 [CelaJ.Gov.cn](http://www.celaj.gov.cn/)
 * 中国延安干部学院	　 [CelaY.Org.cn](http://www.celay.org.cn/)
-* 中央社会主义学院	　 []()
+* 中央社会主义学院	　 [ZYSY.org.cn](https://www.zysy.org.cn/) 八大民主党派和无党派人士的“中央党校”
 <!-- * 中共中央直属机关工委	　 []() -->
 
 
 中国人民政治协商会议 ![](CPPCC-64-16.png)
 ===================
 
-　　本段内容依据 政协全国委员会网站[中国政协网](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/)，以其公布为准。
-　　[《人民政协报》](http://dzb.rmzxb.com)
+*	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
+*	中国政协网[CPPCC.gov.cn](http://www.cppcc.gov.cn)
+*	[《人民政协报》](http://dzb.rmzxb.com)
 
 5.1 政协八个民主党派
 -------------------
 
-* 中国国民党革命委员会	　 []()
-	[《团结报》](http://paper.tuanjiewang.cn/tjb)
-* 中国民主同盟	　 []()
+* [民革](http://www.minge.gov.cn/)	　 中国国民党革命委员会 Minge.gov.cn
+  -	[《团结报》](http://paper.tuanjiewang.cn/tjb)
+  -	团结网
+  -	《团结》杂志
+* [民盟](https://www.mmzy.org.cn/)	　 中国民主同盟
 	[《群言》](http://www.mmzy.org.cn/qunyan/shouye/default.aspx)
-* 中国民主建国会	　 []()
+* [民建](https://www.cndca.org.cn/)	　 中国民主建国会
 	《经济界》	　 []()
-* 中国民主促进会	　 []()
+* [民进](https://www.mj.org.cn/)	　 中国民主促进会
 	[《民主》](https://www.mj.org.cn/zsjg/mzzzs)
-* 中国农工民主党 	　 []()
+* [农工党](http://www.ngd.org.cn/) 	　 中国农工民主党
 	[《前进论坛》](http://www.ngd.org.cn/qmtc/qjlt1/index.htm)
-* 中国致公党	　 []()
+* [致公党](http://www.zg.org.cn/)	　 中国致公党
 	《中国致公》	　 []()
-* 九三学社	　 []()
+* [九三学社](http://www.93.gov.cn/)	　 九三学社 93.Gov.cn
 	《九三中央社讯》	　 []()
-* 台湾民主自治同盟	　 []()
+* [台盟](https://www.taimeng.org.cn/)	　 台湾民主自治同盟
 	《台盟》	　 []()
 
 5.2 政协八个人民团体
 -------------------
 
-* 中华全国总工会	　 [ACFTU.org](http://www.acftu.org/) 中工网[]()
-	[《工人日报》](http://media.workercn.cn)
-* 中国共产主义青年团　	 [共青团](http://www.gqt.org.cn/)
-	[《中国青年报》](http://zqb.cyol.com)
-* 中华全国妇女联合会	　 [妇联](http://www.women.org.cn/)
-	* [《中国妇女报》](http://paper.cnwomen.com.cn)
-	* [中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
-* 中国科学技术协会	　 [CAST.org.cn](https://cast.org.cn )
+* [总工会](http://www.acftu.org/)	　 中华全国总工会
+	- 中国工会[普法网](https://ghpf.acftu.org/)
+	- [中工网](http://www.workercn.cn/) [《工人日报》](http://media.workercn.cn)
+* [共青团](http://www.gqt.org.cn/)　	 中国共产主义青年团
+	- [《中国青年报》](http://zqb.cyol.com)
+	- 少年先锋队 全国学联
+* [全国妇联](http://www.women.org.cn/)	　 中华全国妇女联合会
+	- [《中国妇女报》](http://paper.cnwomen.com.cn)
+	- [中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
+* [中国科协](https://cast.org.cn )	　 中国科学技术协会 CAST.org.cn
 	- [科普中国](https://www.kepuchina.cn )
 	- [科技志愿服务](http://www.stvs.org.cn )
-* 中华全国归国华侨联合会	　 []()
-* 中华全国台湾同胞联谊会	　 	[]()
-* 中华全国青年联合会	　 []()（共青团中央统战部）
-* 中华全国工商业联合会	　 []()
- 	[《中华工商时报》](http://epaper.cbt.com.cn/epaper/uniflows/html)
+* [中国侨联](http://www.chinaQL.org/)	　 中华全国归国华侨联合会
+* [全国台联](http://www.taiLian.org.cn/)	　 中华全国台湾同胞联谊会
+* [全国青联]()	　 中华全国青年联合会（共青团中央统战部）
+* [全国工商联](http://www.acfic.org.cn/)	　 中华全国工商业联合会
+ 	[《中華工商時報》](http://epaper.cbt.com.cn/epaper/uniflows/html) 中华工商时报
 
 
 6 其他社会团体 🏙[]()
 =================
 
-　　在政协之外的免于在民政部登记的人民团体、群众团体。
+	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待查）
 
-* 中国作协	　 []()中国作家协会 [文艺报](http://wyb.chinawriter.com.cn/)
-	- 中国作家出版集团	　 [中国作家网](http://www.chinawriter.com.cn/)
+* [中国作协](http://www.chinawriter.com.cn/)	　 中国作家协会
+	- 中国作家网[作协机构](http://www.chinawriter.com.cn/zxjg/) 主管社团：
+	中国国际报告文学研究会、中国茅盾研究会、中国散文学会、中国寓言文学研究会、中国少数民族作家学会、中国小说学会、中华诗词学会、中国纪实文学研究会、中国丁玲研究会、中国赵树理研究会、中国微型小说学会、中国报告文学学会、中国武侠文学学会、中国诗歌学会、中国萧军研究会、中国笔会中心
 	- 鲁迅文学院 等[所属单位](http://www.chinawriter.com.cn/403936/403959/)
-	- 主管社团：中国国际报告文学研究会、中国茅盾研究会、中国散文学会、中国寓言文学研究会、中国少数民族作家学会、中国小说学会、中华诗词学会、中国纪实文学研究会、中国丁玲研究会、中国赵树理研究会、中国微型小说学会、中国报告文学学会、中国武侠文学学会、中国诗歌学会、中国萧军研究会、中国笔会中心
-* 中国文联	　 [CFLac.org.cn](http://www.cflac.org.cn/) 中国文学艺术界联合会 中国文艺网
+	- [文艺报](http://wyb.chinawriter.com.cn/)
+* [中国文联](http://www.cflac.org.cn/)	　 中国文学艺术界联合会 CFLac.org.cn 中国文艺网
 	- 中国戏剧家协会   - 中国电影家协会   - 中国摄影家协会   - 中国音乐家协会   - 中国美术家协会   - 中国舞蹈家协会   - 中国曲艺家协会   - 中国民间文艺家协会   - 中国书法家协会   - 中国杂技家协会   - 中国电视艺术家协会
-* 中国记协	　 [ZGJX.cn](http://www.zgjx.cn/)
-* 中国对外友协	　 []()
-* 外交学会	　 []()
-* 贸促会 	　 []()
-* 全国残联	　 []()♿
-	📞 12385 全国残疾人维权服务电话 双号并行
-	[《华夏时报》](http://www.cdpf.org.cn)
+* [中国记协](http://www.zgjx.cn/)	　 中华全国新闻工作者协会，源于1937年 ZGJX.cn
+* [对外友协](https://cpaffc.org.cn/)	　 中国人民对外友好协会
+* [外交学会](http://www.cpifa.org/)	　 中国人民外交学会，1949年成立
+	- [《外交》](http://www.cpifa.org/class/4)季刊，1985年创办的英文刊物
+* [贸促会](http://www.ccpit.org/)	　 中国国际贸易促进委员会，1952年成立
+	- 中国国际商会 / 中国仲裁法学研究会
+	- [《中国贸易报》](http://www.chinatradenews.com.cn/epaper/)
+	- 《中国对外贸易》杂志 [China's Foreign Trade](http://www.ccpitcft.com/zz) 中英文双语
+* [中国残联](http://2021old.cdpf.org.cn/)	　 ♿ 中国残疾人联合会
+	- 📞 12385 全国残疾人维权服务电话 双号并行
+	- [《华夏时报》](http://www.cdpf.org.cn)
+	- 中国狮子联会 / 中国听力语言服务网 / 中国特奥会
 * 中国宋庆龄基金会	　 []()
-* 中国法学会	　 []()
-	[《民主与法制时报》](http://e.mzyfz.com)
-* 中国红十字总会	　 []()
-	[《中国红十字报》](http://news.redcrossol.com)
-* 中国政研会	　 []()
-* 欧美同学会	　 []()
-* 黄埔同学会	　 []()
-* 中华职教社	　 []()
+* [中国法学会](https://www.chinaLaw.org.cn/)	　 
+	- [《民主与法制时报》](http://e.mzyfz.com)
+* [红十字会](http://www.RedCrossOL.com/)	　 中国红十字会总会 中红在线 RedCrossOL.com
+	- [《中国红十字报》](http://news.redcrossol.com)
+* [中国政研会](http://www.wenming.cn/zyh/)	　 中国思想政治工作研究会，1983年成立
+* [欧美同学会](http://www.wrsa.net/)	　 中国留学人员联谊会
+* [黄埔同学会](http://www.huangpu.org.cn/)	　 黄浦军校同学会
+* [中华职教社](http://www.zhzjs.org.cn/)	　 中华职业教育社 1917年创立 [《社讯》](http://www.zhzjs.org.cn/shexun1/)
 
 
 7 部分国有企业 🏭
@@ -527,7 +546,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210417	v0.4.4 Beta
+	20210426	v0.5 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
