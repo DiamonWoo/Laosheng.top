@@ -1,12 +1,12 @@
 老生常谈 > [大萌望海楼](./ "返回上一级")
 
-大萌法律读本
-============
-大萌 © 2021
+中国法律简目（草稿）
+==================
+大萌 © 2021 
 
 	奉法者强则国强，奉法者弱则国弱。——《韩非子·有度》
 
-　　本页面收录中国现行有效法律，分为四大类，部分法律会跨越多个类别，可通过页面查找来寻找相关法律。
+　　本页面收录中国现行有效法律（截至2021年1月），分为四大类，部分法律会跨越多个类别，可通过页面查找来寻找相关法律。
 
 m📙 [民事民生类]
 ----------------
@@ -110,8 +110,8 @@ m📙 [民事民生类]
 　　对照依据：[共产党员网 民法典学习专栏](http://www.12371.cn/special/mfd/ )  
 　　编校人：大萌 （20201230 一校）
 
-+ 　《中华人民共和国民法典》 [章节目录](minshi/2020-minfadian-0-mulu.txt )
-+ 👪《中华民人民共和国民法典》[markdown格式全文](minshi/2020-minfadian-1-12371.txt ) （网址后加.md即可下载）
++ 　《中华人民共和国民法典》 [章节目录](2020-minfadian-0-mulu.txt )
++ 👪《中华民人民共和国民法典》[markdown格式全文](2020-minfadian-1-12371.txt ) （网址后加.md即可下载）
 
 
 s📗 [行政生产类]
@@ -421,3 +421,17 @@ z🌅 [依宪治国类]
 * 七、2020-刑法（2部+11修正案）  
 * 八、诉讼与非诉讼程序法（11部）  
   合计286部
+
+```
+	老生常谈之中国法律简目 © 2021年5月 作者大萌
+	CC-BY-NC-ND-4.0 可转载-原署名-非演绎 4.0
+	20210506	v0.1 Alpha
+```
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
