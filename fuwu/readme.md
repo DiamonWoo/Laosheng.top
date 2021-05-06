@@ -2,7 +2,7 @@
 
 有关部门在这里
 ===========================
-大萌 © 202101-04（编制中……）
+大萌 © 202101-05（编制中……）
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -42,11 +42,15 @@
 ===============
 
 * 🟥 中国人大网	[NPC.gov.cn](http://www.npc.gov.cn )
-  - 全国人大常委会办公厅维护[【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的电子文本，提供.docx (WPS格式)全文下载。
-  *如何快速学习法律可参见[大萌法海导航](../falv )*
+  - 《宪法》
   - [法律草案征求意见](http://www.npc.gov.cn/flcaw/ )
   - 会议与记者会	[网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
-* [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 全国人大常委会办公厅主办
+  - 全国人大常委会办公厅
+  	- [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 
+  	- [【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的目录与电子文本。
+  	*快速学习法律可见[大萌望海楼](../falv )*
+
+*国家监委/中央纪委 请见中国共产党段落*
 
 
 2 最高法和最高检
@@ -76,7 +80,8 @@
 	国务院设立办公厅，由秘书长领导。
 
 * 🏢 中国政府网	 　[Gov.CN](https://www.gov.cn)
-	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 
+	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面
+	- [行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
 * 国务院办公厅
@@ -188,7 +193,8 @@
 	- [中国志愿服务网](https://www.chinavolunteer.cn )
 * 司法部	　 [MOJ.gov.cn](http://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
 	- 📞 12348 全国公共法律服务专用电话 双号并行 [中国法律服务网](http://12348.moj.gov.cn "12348中国法网") 法律咨询、找调解仲裁、司法考试、可以查全国律师事务所
-	- [法律法规数据库](http://search.chinalaw.gov.cn )、中国普法网[]()
+	- [法律法规规章](http://www.moj.gov.cn/Department/node_592.html)栏目，[检索](http://search.chinalaw.gov.cn)页
+	- [智慧普法平台](http://legalinfo.moj.gov.cn/pub/sfbzhfx/ "中国普法网") 谁执法谁普法
 	- [中国律师网](http://www.acla.org.cn ) 中华全国律师协会 （面向律师而不是面向当事人）
 	- [中国公证网](http://www.chinanotary.org.cn ) 有个在线公正平台是外部链接
 * 💰 财政部	　 [MOF.gov.cn](http://www.mof.gov.cn )
@@ -276,6 +282,7 @@
 	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
 	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】、 &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
 	- [国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/) 强制性国标超两千项，推荐性GB三万多项
+	- 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
 	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
 	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
 	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
@@ -357,7 +364,7 @@
 ==============
 
 	理论联系实际、密切联系群众、批评与自我批评——党的‘三大作风’
-
+* 2017年版[《党章》](http://www.12371.cn/special/zggcdzc/zggcdzcqw/) 
 * [中国政要](http://cpc.people.com.cn/GB/64162/394696) 中央政治局 中央书记处
 * 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn)
 * 中共中央机关报[《人民日报》](http://paper.people.com.cn/rmrb)
@@ -366,8 +373,8 @@
 4.1 中共中央各部门
 -----------------
 
-* 中共中央纪律检查委员会/【国家监察委员会机关】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中纪委/国家监委
-	- ☎️ 12388 　	 [网上举报](http://www.12388.gov.cn )
+* 中共中央纪律检查委员会/【国家监察委员会机关】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中央纪委/国家监委
+	- ☎️ 12388 　	 [网上举报](http://www.12388.gov.cn ) 反四风/违反八项规定
 	- [《中国纪检监察报》](http://www.jjjcb.cn )
 * 中共中央办公厅	　 []()
 	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
@@ -379,11 +386,13 @@
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
-* 中共中央宣传部	　 []()中宣部，代管 中央文明办[中国文明网](http://www.wenming.cn)
+* 中共中央宣传部	　 中宣部，[*18家直属中央媒体*](../fly)
+	- +学习强国 App和[网站](https://www.xuexi.cn/)
 	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
 	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】
 	- +[【国家版权局](http://www.ncac.gov.cn/)】
-	- +[【国家电影局](http://www.chinafilm.gov.cn/)】　
+	- +[【国家电影局](http://www.chinafilm.gov.cn/)】
+	- +代管 中央文明办[中国文明网](http://www.wenming.cn)
 * 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
 	- +【[国家宗教事务局](http://www.sara.gov.cn)】
 	- +【国务院侨务办公室】[国侨办](http://www.gqb.gov.cn/)
@@ -392,7 +401,7 @@
 	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
 	- ☎️ [12337](http://www.12337.gov.cn/) 政法干警违纪违法举报平台 政法队伍教育整顿/扫黑除恶专项斗争
 	- 微信公众号：中央政法委长安剑
-	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm )
+	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
 * 中共中央政策研究室／【中央全面深化改革委员会办公室】	　 中央改革办
 * 中央国家安全委员会办公室	　 []()
 * 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】[CAC.gov.cn](http://www.cac.gov.cn)网信办
@@ -477,7 +486,7 @@
 6 其他社会团体 🏙
 =================
 
-	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待查）
+	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待考）
 
 * [中国作协](http://www.chinawriter.com.cn/)	　 中国作家协会[]()
 	- 中国作家网[作协机构](http://www.chinawriter.com.cn/zxjg/) 主管社团：
@@ -545,7 +554,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210427	v0.5.1 Beta
+	20210505	v0.5.2 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
