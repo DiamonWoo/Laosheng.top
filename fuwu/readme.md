@@ -42,8 +42,8 @@
 ===============
 
 * 🟥 中国人大网	[NPC.gov.cn](http://www.npc.gov.cn )
-  - 《宪法》
-  - [法律草案征求意见](http://www.npc.gov.cn/flcaw/ )
+  - 《宪法》 1982年通过，[2018年修正](http://www.npc.gov.cn/npc/c505/201803/e87e5cd7c1ce46ef866f4ec8e2d709ea.shtml)
+  - [法律草案](http://www.npc.gov.cn/flcaw/ )征求意见
   - 会议与记者会	[网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
   - 全国人大常委会办公厅
   	- [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 
@@ -87,7 +87,9 @@
 * 国务院办公厅
 	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
-	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。
+	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。  
+	（以下电话号码整体并入12345：12396-科技公益服务、12300-电信用户申诉渠道、12349-民政服务、12336-自然资源违法举报、12312-商务领域举报投诉咨询服务、12301-旅游资讯服务电话、12356-计划生育法律法规咨询及举报、96119-火灾隐患举报投诉电话、12330-知识产权维权援助公益服务、12331-食品药品监督举报服务、12358-价格投诉举报、12365-质量技术监督系统和出入境检验检疫、12322-防震减灾公益服务）
+
 * 各地政府网站(省级，按身份证号顺序)：　
 	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>11　
 	<a href="http://www.tj.gov.cn/" target="_blank">天津</a>12　
@@ -276,7 +278,7 @@
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
 * 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
-	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。
+	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：原质检12365、原食药12331、原价监12358、原知识产权12330热线）
 	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
 	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心 %要求登录
 	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
@@ -555,7 +557,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210505	v0.5.2 Beta
+	20210516	v0.5.3 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
