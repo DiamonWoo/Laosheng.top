@@ -35,11 +35,11 @@ DB Browser for SQLite - .zip (no installer) for 32-bit Windows
 *	下载：[中国省地县地名数据库.sqlite](中国省地县地名数据库.sqlite)  
 该数据库文件体积只有 96 KB。
 
-![](DBB-关于本库视图.png)
+在DBB中打开这个数据库后，在内建视图中，选中一行右键菜单‘浏览表’，即可查看数据；也可以自己写SQL语句做各种查询统计，可以从内建视图的语句中开始学习SQL语法。
 
 查询语句示例
 
-	select * from 关于本库视图;
+	select * from 全国县区级重名统计图;
 	select * from 省级地级图 where 副省级=TRUE;
 
 
