@@ -54,7 +54,7 @@ SQL语句示例：
 
 全国县区级重名统计
 -------------------
-
+```sql
 	SELECT 单位名称, count(*) AS 个数,
 	GROUP_CONCAT(
 	(SELECT 省名 FROM 省级行政区划代码表 WHERE 省码 = substr(Ta.区划代码, 1, 2) )
@@ -63,7 +63,7 @@ SQL语句示例：
 	FROM 县以上行政区划代码表 AS Ta 
 	GROUP BY 单位名称 HAVING 个数 > 1 
 	ORDER BY 个数 DESC
-
+```
 　　这是本库视图<全国县区级重名统计图>的select语句，对比我下面给出的更复杂的查询结果，尝试自己写出这个select语句。
 <pre>
 单位名称	个数	所在省	所在地市	区划代码
@@ -121,7 +121,7 @@ SQL语句示例：
 ```
 	老生常谈之地名数据库 © 2021年5月
 	GPL 3.0	可复制-可修改-原授权
-	20210524	v0.9.1	大萌编制
+	20210524	v0.9.2	大萌编制
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
