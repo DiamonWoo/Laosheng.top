@@ -2,7 +2,7 @@
 
 提名网站与落榜记
 ================
-大萌 © 2020~2021
+ 大萌 © 2020~2021
 
 	待到山花烂漫时，她在丛中笑
 
@@ -49,6 +49,8 @@
 　<a href="http://paper.chinaso.com/quanbubaokan.html" title="全国性报纸搜索">国搜报刊</a>
 　<a href="http://press.nppa.gov.cn/reporter/channels/247.shtml" title="中国记者网">媒体与记者证查询</a>
 
+*	台风实时路径	<http://typhoon.zjwater.gov.cn/default.aspx>	浙江省水利厅
+
 
 3、浏览之器
 -----------
@@ -70,6 +72,7 @@
 7、科研学习
 ------------
 
+网络书店：
 *	当当书店 	<http://book.dangdang.com > 曾经第一的网上书店，创始人家庭不和，无心发展，至今不提供默认安全连接。
 *	中国图书网	<http://www.bookschina.com>  2折买尾货
 *	蔚蓝书店 	<https://www.wl.cn>
@@ -78,6 +81,9 @@
 *	浙江博库 	
 *	北京北新网	
 *	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
+
+维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
+
 
 8、财务自求
 ------------
@@ -92,6 +98,7 @@
 9、IT洁癖
 ---------
 
+*	<a href="https://www.chuyu.me/" title="初雨团队的Win10神器">Dism++</a>
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
 *	<https://www.ipip.net/ip.html>
 
@@ -107,8 +114,8 @@
 
 2021/04/12	#财务自求  
 	财新网因收费文章过多，没达到本榜的免费要求而退居提名页。
-	
----------
+
+--------
 2020/12/06	#搜罗天下  
 	Lookao.com 因搜索结果与Bing过于接近，有侵权嫌疑而落榜。
 
