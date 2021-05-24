@@ -87,7 +87,7 @@
 * 国务院办公厅
 	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
-	- 📞 12345 政务服务便民热线 （全国通用，接通本地） 一二三四五，有事找政府。  
+	- 📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
 	（以下服务号码关闭：~~科技公益服务-12396、知识产权维权援助公益服务-12330、电信用户申诉渠道-12300、自然资源违法举报-12336、旅游资讯服务电话-12301、价格投诉举报-12358、商务领域举报投诉咨询-12312、民政服务-12349、计划生育法律法规咨询及举报-12356、食品药品监督举报服务-12331、质量技术监督系统和出入境检验检疫-12365、防震减灾公益服务-12322、火灾隐患举报投诉-96119~~，整体并入12345。）
 
 * 各地政府网站(省级，按身份证号顺序)：　
@@ -130,6 +130,8 @@
 	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>81　
 	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>82　
 	国外入籍身份证号：91[]()
+	
+	 *大萌为您提供SQLite格式的[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
 
 3.1 国务院26个部委（及部委管理的国家局）
 ------------------------------------
@@ -147,7 +149,7 @@
 	  [《解放军画报》](http://www.plapic.com.cn/pub/node_90247.htm)
 	  [《中国国防报》](http://www.81.cn/gfbmap/paperindex.htm)
 	  [《中国民兵》](http://www.81.cn/zgmb/) （画报）
-	- 🌩️央视国防军事频道[CCTV-7](https://tv.cctv.com/live/cctv7/) 	[中国军视网](http://www.js7tv.cn)
+	- 🌩️[CCTV-7](https://tv.cctv.com/live/cctv7/)央视国防军事频道、[中国军视网](http://www.js7tv.cn)
 * 国家发展和改革委员会	　 [NDRC.gov.cn](https://www.ndrc.gov.cn ) 
 	- [《中国改革报》](http://www.cfgw.net.cn/epaper)、[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
 	- 国家信息中心[]()	　 一带一路官网[]()
@@ -186,7 +188,7 @@
 	[国家安全机关举报受理平台](https://www.12339.gov.cn) 
 
 * 民政部	　 [MCA.gov.cn](http://www.mca.gov.cn ) 
-	- 全国行政区划信息[查询平台i](http://xzqh.mca.gov.cn/map )、[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)、[省市统计](http://xzqh.mca.gov.cn/statistics/) 全国34个省级区划（含港澳台）、国家地名信息库[中国地名大会](https://dmfw.mca.gov.cn/meeting.html )
+	- 全国行政区划信息[查询平台] xzqh.mca.gov.cn/map 系统维护中、[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)、[省市统计](http://xzqh.mca.gov.cn/statistics/) 全国34个省级区划（含港澳台）、国家地名信息库[中国地名大会](https://dmfw.mca.gov.cn/meeting.html )
 	- 社会组织管理局 [中国社会组织公共服务平台](http://www.chinanpo.gov.cn )
 	- 社会救助司 📠 [各地社会救助服务热线](http://hotline.treeyee.com )
 	- 慈善事业促进和社会工作司
@@ -452,17 +454,17 @@
 * [民盟](https://www.mmzy.org.cn/)	　 中国民主同盟
 	[《群言》](http://www.mmzy.org.cn/qunyan/shouye/default.aspx)
 * [民建](https://www.cndca.org.cn/)	　 中国民主建国会
-	《经济界》	　 []()
+	《经济界》[]()
 * [民进](https://www.mj.org.cn/)	　 中国民主促进会
 	[《民主》](https://www.mj.org.cn/zsjg/mzzzs)
 * [农工党](http://www.ngd.org.cn/) 	　 中国农工民主党
 	[《前进论坛》](http://www.ngd.org.cn/qmtc/qjlt1/index.htm)
 * [致公党](http://www.zg.org.cn/)	　 中国致公党
-	《中国致公》	　 []()
-* [九三学社](http://www.93.gov.cn/)	　 九三学社 93.Gov.cn
-	《九三中央社讯》	　 []()
+	《中国致公》[]()
+* 九三学社	　 [93.Gov.cn](http://www.93.gov.cn/) 
+	《九三中央社讯》
 * [台盟](https://www.taimeng.org.cn/)	　 台湾民主自治同盟
-	《台盟》	　 []()
+	《台盟》[]()
 
 5.2 政协八个人民团体
 -------------------
@@ -557,7 +559,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210516	v0.5.3 Beta
+	20210525	v0.5.4 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
