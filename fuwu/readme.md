@@ -195,9 +195,9 @@
 	  📠 010-58123127 慈善中国[募捐信息平台](http://cishan.chinanpo.gov.cn/biz/ma/csmh/h/csmhhindex.html ) 
 	- [《中国社会报》](http://www.shehuiwang.cn/site/index.jsp )　	 《中国老年报》 []()
 	- [中国志愿服务网](https://www.chinavolunteer.cn )
-* 司法部	　 [MOJ.gov.cn](http://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
+* 司法部	　 [MOJ.gov.cn](https://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
 	- 📞 12348 全国公共法律服务专用电话 双号并行 [中国法律服务网](http://12348.moj.gov.cn "12348中国法网") 法律咨询、找调解仲裁、司法考试、可以查全国律师事务所
-	- [法律法规规章](http://www.moj.gov.cn/Department/node_592.html)栏目，[检索](http://search.chinalaw.gov.cn)页
+	- [法律法规规章](https://www.moj.gov.cn/Department/node_592.html)栏目，[检索](http://search.chinalaw.gov.cn)页
 	- [智慧普法平台](http://legalinfo.moj.gov.cn/pub/sfbzhfx/ "中国普法网") 谁执法谁普法
 	- [中国律师网](http://www.acla.org.cn ) 中华全国律师协会 （面向律师而不是面向当事人）
 	- [中国公证网](http://www.chinanotary.org.cn ) 有个在线公正平台是外部链接
