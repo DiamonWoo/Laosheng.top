@@ -66,8 +66,12 @@
 *	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
 *	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
 *	<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>
-*	凤凰卫视 <https://v.ifeng.com/shanklist/v/27-95095->
+*	凤凰卫视 <https://v.ifeng.com/shanklist/v/27-95095->	
 
+　<a title="还能评论吗" href="https://news.qq.com">腾讯新闻</a>
+　%<a title="今日头条的web网站" href="https://toutiao.com">今日头条</a>
+　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
+　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 
 7、科研学习
 ------------
