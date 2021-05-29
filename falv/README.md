@@ -37,6 +37,44 @@
 	- 新华通讯社 　 	[新华网2020全国两会专题](http://www.xinhuanet.com/politics/2020lh )
 	- 吉林省法学会 　 	[我国现行法律目录](http://www.jlfxhw.com/flml/index.jhtml )
 
+* 各地人大网站（省级，按行政区划代码排序，不含港澳台）
+
+　<a href="http://www.bjrd.gov.cn/" target="_blank">北京人大</a>
+　<a href="http://www.tjrd.gov.cn/" target="_blank">天津人大</a>
+　<a href="http://www.hbrd.net/" target="_blank">河北人大</a>
+　<a href="http://www.sxpc.gov.cn/" target="_blank">山西人大</a>
+　<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古人大</a>
+　<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
+　<a href="http://www.jlrd.gov.cn/" target="_blank">吉林人大</a>
+　<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江人大</a>
+<br>
+　<a href="http://www.spcsc.sh.cn/" target="_blank">上海人大</a>
+　<a href="http://www.jsrd.gov.cn/" target="_blank">江苏人大</a>
+　<a href="http://www.zjrd.gov.cn/" target="_blank">浙江人大</a>
+　<a href="http://www.ahrd.gov.cn/" target="_blank">安徽人大</a>
+　<a href="http://www.fjrd.gov.cn/" target="_blank">福建人大</a>
+　<a href="http://www.fjrd.gov.cn/" target="_blank">江西人大</a>
+　<a href="http://www.sdrd.gov.cn/" target="_blank">山东人大</a>
+<br>
+　<a href="http://www.henanrd.gov.cn/" target="_blank">河南人大</a>
+　<a href="http://www.hppc.gov.cn/" target="_blank">湖北人大</a>
+　<a href="http://www.hnrd.gov.cn/" target="_blank">湖南人大</a>
+　<a href="http://www.rd.gd.cn/" target="_blank">广东人大</a>
+　<a href="http://www.gxrd.gov.cn/" target="_blank">广西人大</a>
+　<a href="http://www.hainanpc.net/" target="_blank">海南人大</a>
+<br>
+　<a href="http://www.ccpc.cq.cn/" target="_blank">重庆人大</a>
+　<a href="http://www.scspc.gov.cn/" target="_blank">四川人大</a>
+　<a href="http://www.gzrd.gov.cn/" target="_blank">贵州人大</a>
+　<a href="http://www.srd.yn.gov.cn/" target="_blank">云南人大</a>
+　<a href="http://www.xizangrd.gov.cn/" target="_blank">西藏人大</a>
+ <br>
+　<a href="http://www.sxrd.gov.cn/" target="_blank">陕西人大</a>
+　<a href="http://www.gsrdw.gov.cn/" target="_blank">甘肃人大</a>
+　<a href="http://www.qhrd.gov.cn/" target="_blank">青海人大</a>
+　<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
+　<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
+
 
 3、法律文本的来源
 ----------------
@@ -61,7 +99,7 @@
 
 * 免费提供部分法律法规的网站：
 
-	- 最高检 检察日报社承办　	[检察法律法规库](https://www.spp.gov.cn/spp/flfgk ) 仅提供检察业务有关法律法规
+	- 最高检 《检察日报》社承办　[检察法律法规库](https://www.spp.gov.cn/spp/flfgk ) 仅提供检察业务有关法律法规
 	- 国务院 [政策](http://www.gov.cn/zhengce/)栏目
 	  - [行政法规库](http://www.gov.cn/zhengce/xzfgk/) 超过600件行政法规。
 	  - [政策文件库](http://www.gov.cn/zhengce/zhengcewenjianku) 检索页
@@ -73,7 +111,7 @@
 
 * 部分收费，结合了裁判文书的网站：
 
-	- 北大法宝 [法律法规](https://www.pkulaw.com/law)栏目⭐，1985年诞生于北京大学法律系。
+	- 北大法宝⭐ [法律法规](https://www.pkulaw.com/law)栏目，1985年诞生于北京大学法律系。
 	- 人民法院出版社 [法信网](https://www.faxin.cn/)，2013年建立。
 	- 北京[无讼案例](https://www.itslaw.com/home)，2014年孵化于天同律师事务所。
 	- 上海开放法律联盟 [OpenLaw裁判文书检索](https://openlaw.cn/)，2014年成立，只有文书，不提供法规。
@@ -163,7 +201,7 @@
 ```
 	老生常谈之大萌望海楼 © 2021年5月 作者大萌
 	CC-BY-NC-ND-4.0 可转载-原署名-非演绎 4.0
-	20210515	v0.3.4 Beta
+	20210529	v0.3.5 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
