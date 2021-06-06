@@ -1,13 +1,13 @@
 老生常谈
 
 有关部门在这里
-===========================
-大萌 © 202101-05（编制中……）
+==========================
+大萌 © 202101-06（审校中……）
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
-　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞、主管报纸📰……有关部门是指：党中央、全国人大、国务院、两高、政协、社会团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
-　　疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些非近距离接触的联系群众渠道将发挥更大作用。  
+　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰……有关部门是指：党中央、全国人大、两高、国务院、政协、社会团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
+　　疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些无需面对面接触的联系群众渠道将发挥更大作用。  
 <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
@@ -50,7 +50,45 @@
   	- [【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的目录与电子文本。
   - 国家监委/【中央纪委】 请见中国共产党段落
 
- *各省级人大网站、快速找法网站可见[大萌望海楼](../falv )*
+* 各省人大网站（按行政区划代码排序，不含港澳台）
+
+　11<a href="http://www.bjrd.gov.cn/" target="_blank">北京人大</a>
+　12<a href="http://www.tjrd.gov.cn/" target="_blank">天津</a>
+　13<a href="http://www.hbrd.net/" target="_blank">河北</a>
+　14<a href="http://www.sxpc.gov.cn/" target="_blank">山西</a>
+　15<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古</a>　
+　21<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
+　22<a href="http://www.jlrd.gov.cn/" target="_blank">吉林</a>
+　23<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江</a>
+<br>
+　31<a href="http://www.spcsc.sh.cn/" target="_blank">上海人大</a>
+　32<a href="http://www.jsrd.gov.cn/" target="_blank">江苏人大</a>
+　33<a href="http://www.zjrd.gov.cn/" target="_blank">浙江人大</a>
+　34<a href="http://www.ahrd.gov.cn/" target="_blank">安徽人大</a>
+　35<a href="http://www.fjrd.gov.cn/" target="_blank">福建人大</a>
+　36<a href="http://www.fjrd.gov.cn/" target="_blank">江西人大</a>
+　37<a href="http://www.sdrd.gov.cn/" target="_blank">山东人大</a>
+<br>
+　41<a href="http://www.henanrd.gov.cn/" target="_blank">河南人大</a>
+　42<a href="http://www.hppc.gov.cn/" target="_blank">湖北人大</a>
+　43<a href="http://www.hnrd.gov.cn/" target="_blank">湖南人大</a>
+　44<a href="http://www.rd.gd.cn/" target="_blank">广东人大</a>
+　45<a href="http://www.gxrd.gov.cn/" target="_blank">广西人大</a>
+　46<a href="http://www.hainanpc.net/" target="_blank">海南人大</a>
+<br>
+　50<a href="http://www.ccpc.cq.cn/" target="_blank">重庆人大</a>
+　51<a href="http://www.scspc.gov.cn/" target="_blank">四川人大</a>
+　52<a href="http://www.gzrd.gov.cn/" target="_blank">贵州人大</a>
+　53<a href="http://www.srd.yn.gov.cn/" target="_blank">云南人大</a>
+　54<a href="http://www.xizangrd.gov.cn/" target="_blank">西藏人大</a>
+<br>
+　61<a href="http://www.sxrd.gov.cn/" target="_blank">陕西人大</a>
+　62<a href="http://www.gsrdw.gov.cn/" target="_blank">甘肃人大</a>
+　63<a href="http://www.qhrd.gov.cn/" target="_blank">青海人大</a>
+　64<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
+　65<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
+
+ *快速找法可见[大萌望海楼](../falv )*
 
 
 2 最高法和最高检
@@ -90,7 +128,7 @@
 	- 📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
 	（以下服务号码关闭：~~科技公益服务-12396、知识产权维权援助公益服务-12330、电信用户申诉渠道-12300、自然资源违法举报-12336、旅游资讯服务电话-12301、价格投诉举报-12358、商务领域举报投诉咨询-12312、民政服务-12349、计划生育法律法规咨询及举报-12356、食品药品监督举报服务-12331、质量技术监督系统和出入境检验检疫-12365、防震减灾公益服务-12322、火灾隐患举报投诉-96119~~，整体并入12345。）
 
-* 各地政府网站(省级，按身份证号顺序)：　
+* 各省级政府网站(按政区码/身份证号顺序)：　
 	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>11　
 	<a href="http://www.tj.gov.cn/" target="_blank">天津</a>12　
 	<a href="http://www.hebei.gov.cn/" target="_blank">河北</a>13　
@@ -387,7 +425,8 @@
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
 	- 中共中央直属机关管理局[]()	　 中直管理局
 * 中共中央组织部	　 [中组部](http://news.12371.cn/dzybmbdj/zzb/)
-	- [共产党员网](http://www.12371.cn) 全国党建网站联盟，组工网站，12371[网址导航](http://fuwu.12371.cn/daohang/)
+	- [共产党员网](http://www.12371.cn) 组工网站 12371[网址导航](http://fuwu.12371.cn/daohang/)
+	- 全国党建网站联盟 [各省党建网群](http://dwlm.12371.cn/)
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
@@ -441,9 +480,48 @@
 中国人民政治协商会议 ![](CPPCC-64-16.png)
 =======================
 
-*	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
 *	中国政协网[CPPCC.gov.cn](http://www.cppcc.gov.cn)
+*	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
 *	[《人民政协报》](http://dzb.rmzxb.com)
+
+*	各省政协（按政区码排序，不含台港澳）
+
+　<a href="http://www.bjzx.gov.cn" target="_blank">北京政协</a>
+　<a href="http://www.tjszx.gov.cn/" target="_blank">天津</a>
+　<a href="http://www.hebzx.gov.cn/" target="_blank">河北</a>
+　<a href="http://www.shanxizx.gov.cn/" target="_blank">山西</a>
+　<a href="http://www.nmgzx.gov.cn/" target="_blank">内蒙古</a>
+　<a href="http://www.lnzx.gov.cn/" target="_blank">辽宁政协</a>
+　<a href="http://www.jlzx.gov.cn/" target="_blank">吉林</a>
+　<a href="http://www.hljzx.gov.cn/" target="_blank">黑龙江政协</a>
+<br>
+　<a href="http://shszx.eastday.com/" target="_blank">上海政协</a>
+　<a href="http://www.jszx.gov.cn/" target="_blank">江苏</a>
+　<a href="http://www.zjzx.gov.cn/" target="_blank">浙江</a>
+　<a href="http://www.ahzx.gov.cn" target="_blank">安徽</a>
+　<a href="http://www.fjzx.gov.cn/" target="_blank">福建</a>
+　<a href="http://jxzx.jxnews.com.cn/" target="_blank">江西</a>
+　<a href="http://www.sdzx.gov.cn/" target="_blank">山东政协</a>
+<br>
+　<a href="http://www.hnzx.gov.cn/" target="_blank">河南政协</a>
+　<a href="http://www.hbzx.gov.cn/" target="_blank">湖北</a>
+　<a href="http://www.hunanzx.gov.cn/" target="_blank">湖南</a>
+　<a href="http://www.gdzxb.gov.cn/" target="_blank">广东</a>
+　<a href="http://www.gxzx.gov.cn/" target="_blank">广西</a>
+　<a href="http://www.hainanzx.gov.cn/" target="_blank">海南政协</a>
+<br>
+　<a href="http://www.cqzx.gov.cn/" target="_blank">重庆政协</a>
+　<a href="http://www.sczx.gov.cn/" target="_blank">四川</a>
+　<a href="http://www.gzszx.gov.cn/" target="_blank">贵州</a>
+　<a href="http://www.ynzx.gov.cn/" target="_blank">云南</a>
+　<a href="http://www.xizangzx.gov.cn/" target="_blank">西藏政协</a>
+<br>
+　<a href="http://www.sxzx.gov.cn/" target="_blank">陕西政协</a>
+　<a href="http://www.gszx.gov.cn/w/Default.htm" target="_blank">甘肃</a>
+　<a href="http://www.qhszx.gov.cn/" target="_blank">青海</a>
+　<a href="http://www.nxzx.gov.cn/" target="_blank">宁夏</a>
+　<a href="http://www.xjzx.gov.cn/" target="_blank">新疆政协</a>
+
 
 5.1 政协八个民主党派
 -------------------
@@ -559,7 +637,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210529	v0.5.5 Beta
+	20210607	v0.6.0
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
