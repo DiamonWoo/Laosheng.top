@@ -39,42 +39,43 @@
 
 * 各地人大网站（省级，按行政区划代码排序，不含港澳台）
 
-　<a href="http://www.bjrd.gov.cn/" target="_blank">北京人大</a>
-　<a href="http://www.tjrd.gov.cn/" target="_blank">天津人大</a>
-　<a href="http://www.hbrd.net/" target="_blank">河北人大</a>
-　<a href="http://www.sxpc.gov.cn/" target="_blank">山西人大</a>
-　<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古人大</a>
-　<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
-　<a href="http://www.jlrd.gov.cn/" target="_blank">吉林人大</a>
-　<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江人大</a>
+　11<a href="http://www.bjrd.gov.cn/" target="_blank">北京人大</a>
+　12<a href="http://www.tjrd.gov.cn/" target="_blank">天津</a>
+　13<a href="http://www.hbrd.net/" target="_blank">河北</a>
+　14<a href="http://www.sxpc.gov.cn/" target="_blank">山西</a>
+　15<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古</a>　
+　21<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
+　22<a href="http://www.jlrd.gov.cn/" target="_blank">吉林</a>
+　23<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江</a>
 <br>
-　<a href="http://www.spcsc.sh.cn/" target="_blank">上海人大</a>
-　<a href="http://www.jsrd.gov.cn/" target="_blank">江苏人大</a>
-　<a href="http://www.zjrd.gov.cn/" target="_blank">浙江人大</a>
-　<a href="http://www.ahrd.gov.cn/" target="_blank">安徽人大</a>
-　<a href="http://www.fjrd.gov.cn/" target="_blank">福建人大</a>
-　<a href="http://www.fjrd.gov.cn/" target="_blank">江西人大</a>
-　<a href="http://www.sdrd.gov.cn/" target="_blank">山东人大</a>
+　31<a href="http://www.spcsc.sh.cn/" target="_blank">上海人大</a>
+　32<a href="http://www.jsrd.gov.cn/" target="_blank">江苏人大</a>
+　33<a href="http://www.zjrd.gov.cn/" target="_blank">浙江人大</a>
+　34<a href="http://www.ahrd.gov.cn/" target="_blank">安徽人大</a>
+　35<a href="http://www.fjrd.gov.cn/" target="_blank">福建人大</a>
+　36<a href="http://www.fjrd.gov.cn/" target="_blank">江西人大</a>
+　37<a href="http://www.sdrd.gov.cn/" target="_blank">山东人大</a>
 <br>
-　<a href="http://www.henanrd.gov.cn/" target="_blank">河南人大</a>
-　<a href="http://www.hppc.gov.cn/" target="_blank">湖北人大</a>
-　<a href="http://www.hnrd.gov.cn/" target="_blank">湖南人大</a>
-　<a href="http://www.rd.gd.cn/" target="_blank">广东人大</a>
-　<a href="http://www.gxrd.gov.cn/" target="_blank">广西人大</a>
-　<a href="http://www.hainanpc.net/" target="_blank">海南人大</a>
+　41<a href="http://www.henanrd.gov.cn/" target="_blank">河南人大</a>
+　42<a href="http://www.hppc.gov.cn/" target="_blank">湖北人大</a>
+　43<a href="http://www.hnrd.gov.cn/" target="_blank">湖南人大</a>
+　44<a href="http://www.rd.gd.cn/" target="_blank">广东人大</a>
+　45<a href="http://www.gxrd.gov.cn/" target="_blank">广西人大</a>
+　46<a href="http://www.hainanpc.net/" target="_blank">海南人大</a>
 <br>
-　<a href="http://www.ccpc.cq.cn/" target="_blank">重庆人大</a>
-　<a href="http://www.scspc.gov.cn/" target="_blank">四川人大</a>
-　<a href="http://www.gzrd.gov.cn/" target="_blank">贵州人大</a>
-　<a href="http://www.srd.yn.gov.cn/" target="_blank">云南人大</a>
-　<a href="http://www.xizangrd.gov.cn/" target="_blank">西藏人大</a>
- <br>
-　<a href="http://www.sxrd.gov.cn/" target="_blank">陕西人大</a>
-　<a href="http://www.gsrdw.gov.cn/" target="_blank">甘肃人大</a>
-　<a href="http://www.qhrd.gov.cn/" target="_blank">青海人大</a>
-　<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
-　<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
+　50<a href="http://www.ccpc.cq.cn/" target="_blank">重庆人大</a>
+　51<a href="http://www.scspc.gov.cn/" target="_blank">四川人大</a>
+　52<a href="http://www.gzrd.gov.cn/" target="_blank">贵州人大</a>
+　53<a href="http://www.srd.yn.gov.cn/" target="_blank">云南人大</a>
+　54<a href="http://www.xizangrd.gov.cn/" target="_blank">西藏人大</a>
+<br>
+　61<a href="http://www.sxrd.gov.cn/" target="_blank">陕西人大</a>
+　62<a href="http://www.gsrdw.gov.cn/" target="_blank">甘肃人大</a>
+　63<a href="http://www.qhrd.gov.cn/" target="_blank">青海人大</a>
+　64<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
+　65<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
 
+*各省级地方政府部门网站请见[《有关部门》](../fuwu/)页面*
 
 3、法律文本的来源
 ----------------
@@ -201,7 +202,7 @@
 ```
 	老生常谈之大萌望海楼 © 2021年5月 作者大萌
 	CC-BY-NC-ND-4.0 可转载-原署名-非演绎 4.0
-	20210529	v0.3.5 Beta
+	20210606	v0.3.6 Beta
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
