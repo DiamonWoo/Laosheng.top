@@ -88,8 +88,6 @@
 　64<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
 　65<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
 
- *快速找法可见[大萌望海楼](../falv )*
-
 
 2 最高法和最高检
 ===============
@@ -108,6 +106,8 @@
 	- ☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn)
 	- 中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view) ☁️
 	- [国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
+
+ 　*快速找法可见[大萌望海楼](../falv )*
 
 
 3 国务院（中央人民政府）
@@ -417,8 +417,12 @@
 -----------------
 
 * 中共中央纪律检查委员会/【国家监察委员会机关】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中央纪委/国家监委
-	- ☎️ 12388 　	 [网上举报](http://www.12388.gov.cn ) 反四风/违反八项规定
-	- [《中国纪检监察报》](http://www.jjjcb.cn )
+	- ☎️ 12388 [网上举报](http://www.12388.gov.cn ) 反四风/违反八项规定
+	- [党纪法规库](https://www.ccdi.gov.cn/fgk/index )
+	- [《中国纪检监察报》](http://www.jjjcb.cn ) 
+	- [《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
+	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
+
 * 中共中央办公厅	　 []()
 	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
 	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
@@ -637,7 +641,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210607	v0.6.0
+	20210609	v0.6.1
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
