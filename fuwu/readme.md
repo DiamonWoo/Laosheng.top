@@ -428,19 +428,23 @@
 	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
 	- 中共中央直属机关管理局[]()	　 中直管理局
-* 中共中央组织部	　 [中组部](http://news.12371.cn/dzybmbdj/zzb/)
-	- [共产党员网](http://www.12371.cn) 组工网站 12371[网址导航](http://fuwu.12371.cn/daohang/)
-	- 全国党建网站联盟 [各省党建网群](http://dwlm.12371.cn/)
+
+* 中共中央组织部	　 [共产党员网](http://www.12371.cn) 12371组工网站
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
+	- [组工文件](http://www.12371.cn/special/zgwjk/)：党章党规/宪法法律/文件汇编……
+	- [中组部](http://news.12371.cn/dzybmbdj/zzb/)介绍
+	- 全国党建网站联盟 [各省党建网群](http://dwlm.12371.cn/) / 12371[网址导航](http://fuwu.12371.cn/daohang/)
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
+
 * 中共中央宣传部	　 中宣部，[*18家直属中央媒体*](../fly)
 	- +学习强国 App和[网站](https://www.xuexi.cn/)
 	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
 	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】
-	- +[【国家版权局](http://www.ncac.gov.cn/)】
-	- +[【国家电影局](http://www.chinafilm.gov.cn/)】
+	- +【[国家版权局](http://www.ncac.gov.cn/)】
+	- +【[国家电影局](http://www.chinafilm.gov.cn/)】
 	- +代管 中央文明办[中国文明网](http://www.wenming.cn)
+
 * 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
 	- +【[国家宗教事务局](http://www.sara.gov.cn)】
 	- +【国务院侨务办公室】[国侨办](http://www.gqb.gov.cn/)
