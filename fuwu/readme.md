@@ -13,6 +13,7 @@
 
 最新变动
 --------
+	* 2021/6/12，云南人大更换新网址
 	* 2021/4/26，新增12337政法干警违纪违法举报平台
 	* 2021/4/14，国务院部委段落严格按照官网排序
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
@@ -79,7 +80,7 @@
 　50<a href="http://www.ccpc.cq.cn/" target="_blank">重庆人大</a>
 　51<a href="http://www.scspc.gov.cn/" target="_blank">四川人大</a>
 　52<a href="http://www.gzrd.gov.cn/" target="_blank">贵州人大</a>
-　53<a href="http://www.srd.yn.gov.cn/" target="_blank">云南人大</a>
+　53<a href="http://www.ynrd.gov.cn/" target="_blank">云南人大</a>
 　54<a href="http://www.xizangrd.gov.cn/" target="_blank">西藏人大</a>
 <br>
 　61<a href="http://www.sxrd.gov.cn/" target="_blank">陕西人大</a>
@@ -645,7 +646,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210609	v0.6.1
+	20210612	v0.6.2
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
