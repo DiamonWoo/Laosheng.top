@@ -13,10 +13,11 @@
 
 最新变动
 --------
-	* 2021/6/12，云南人大更换新网址
+	* 2021/6/19，国家疾病预防控制局5月正式挂牌 (网址待公布)
+	* 2021/6/12，云南人大2021年更换新网址
 	* 2021/4/26，新增12337政法干警违纪违法举报平台
 	* 2021/4/14，国务院部委段落严格按照官网排序
-	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌。
+	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌 (已补充网址)
 
 编制依据
 --------
@@ -111,7 +112,7 @@
  　*快速找法可见[大萌望海楼](../falv )*
 
 
-3 国务院（中央人民政府）
+3 中央人民政府（国务院）
 ======================
 
 	1982年《国务院组织法》
@@ -271,18 +272,28 @@
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
 * 🌊 水利部	　 [MWR.gov.cn](http://www.mwr.gov.cn/)
 * 🌻 农业农村部	　 [MOA.gov.cn](http://www.moa.gov.cn/)	[《农民日报》](http://szb.farmer.com.cn)  
-	- 📞 12316 全国农业系统公益服务电话 双号并行  
-	- 📞 12317 全国扶贫监督举报平台电话 双号并行 [乡村振兴专栏](http://www.moa.gov.cn/ztzl/xczx/)已组建国家乡村振兴局
+	- 📞 12316 全国农业系统公益服务电话 双号并行 
+	- 真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
+	- 全国农业数据，[农产品价格指数](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)等
+	- 📞 12317 全国扶贫监督举报平台电话 双号并行 <!-- [乡村振兴专栏](http://www.moa.gov.cn/ztzl/xczx/) -->
+	- 代管【国家乡村振兴局】[CPAD.gov.cn](http://www.cpad.gov.cn/)	　 [乡村振兴促进法](http://www.moa.gov.cn/gk/zcfg/fl/202105/t20210507_6367254.htm)自2021年6月1日起施行。
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )
 * 文化和旅游部	　 [MCT.gov.cn](http://www.mct.gov.cn/)
 	[《中国旅游报》](http://www.ctnews.com.cn/paper)
 	- 📞 12318 全国文化市场举报电话 双号并行
 	- （+国家文物局）
-* 🏥 国家卫生健康委员会	　 [NHC.gov.cn](http://www.nhc.gov.cn )
-	- 📞 12320 全国统一公共卫生公益服务电话 双号并行
-	- 国家中医药管理局	　 []()
+* 🏥 国家卫生健康委员会	　 [NHC.gov.cn](http://www.nhc.gov.cn ) 卫健委 [《健康报》](http://szb.jkb.com.cn/jkbpaper)
 	- 🚨 120 医疗专用急救电话	　 🚑
+	- [‘服务’栏目](http://www.nhc.gov.cn/wjw/fuw/fuwu.shtml)：基本药物目录，医生执业资格查询，食品安全国家标准 等
+	- 近三百种[主管报刊](http://www.nhc.gov.cn/wjw/zgbkqk/201612/93a6cd0ea6944c87867ce78821443ea3.shtml)，《中国医学科学》杂志、《抗癌之窗》、《医学参考报》等
+	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 3.3段 医保局*
+	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
+	- 疾病预防控制局　 [卫健委疾控局](http://www.nhc.gov.cn/jkj/) 
+	- 代管【国家疾病预防控制局】	　 [网址待公布]() 2021年5月挂牌
+	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
+	- 国家中医药管理局	　 [SATCM](http://www.satcm.gov.cn/) ，[便民就医导航](http://www.satcm.gov.cn/banshifuwu/)
+	  - [中国中医科学院](https://www.cacms.ac.cn/) 
 * 🎖️ 退役军人事务部	　 [MVA.gov.cn](http://www.mva.gov.cn)
 	- 军队转业干部安置服务信息系统  	退役军人网上信访服务
 	- [中华英烈网](http://www.chinamartyrs.gov.cn)
@@ -307,8 +318,8 @@
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
 	- [《中华合作时报》](http://szb.zh-hz.com ) []()
 
-3.3 国务院直属机构
------------------
+3.3 国务院直属机构 （总局总署）
+----------------------------
 
 	1982年《国务院组织法》
 	第十一条　国务院可以根据工作需要和精简的原则，设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人。
@@ -338,7 +349,7 @@
 	- 📞 12366 [全纳税服务平台](https://12366.chinatax.gov.cn/) 设分中心
 * 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
 	[《中国信息报》](http://www.zgxxb.com.cn/epaper)
-* 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/)
+* 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
 	- 📞 12393 [医疗保障服务平台](https://fuwu.nhsa.gov.cn/nationalHallSt/#/home) 双号并行 贵州省首家开通
 * 国家机关事务管理局	　 [GGJ.gov.cn](http://www.ggj.gov.cn/)
 	- 中央机构采购网
@@ -348,8 +359,11 @@
 	- （国家版权局）
 * 国家宗教事务局 +⋙【中央统战部】　	 [SARA.gov.cn](http://www.sara.gov.cn/)
 	- 宗教基础信息查询 场所/院校
-* 国家乡村振兴局	　 [CPad.gov.cn](http://www.cpad.gov.cn) 原国务院扶贫办整体改组，农业农村部代管。
+* 国家乡村振兴局	　 [CPad.gov.cn](http://www.cpad.gov.cn) 2021年2月挂牌，原国务院扶贫办整体改组，农业农村部代管。
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行
+* 国家疾病预防控制局	　 [网站待公布]() 2021年5月挂牌，卫健委代管。
+	- 。。。
+
 
 3.4 国务院办事机构（及中共中央承担职责机构）
 ----------------------------------------
@@ -646,7 +660,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210612	v0.6.2
+	20210619	v0.6.3
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
