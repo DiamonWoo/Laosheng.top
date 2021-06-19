@@ -14,7 +14,7 @@
 *	日历网		<https://m.rili.com.cn/>		缺少公休日	
 *	中华万年历 	<http://yun.rili.cn/wnl/index.html>	不兼容Fx浏览器
 *	紫薇黄历 	<https://www.ibazi.cn/article/36361>	黄历/皇历/通书 的来历
-
+*	真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
 
 1、搜罗天下
 -----------
