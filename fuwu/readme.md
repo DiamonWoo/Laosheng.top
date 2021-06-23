@@ -13,10 +13,10 @@
 
 最新变动
 --------
-	* 2021/6/19，国家疾病预防控制局5月正式挂牌 (网址待公布)
+	* 2021/6/19，国家疾病预防控制局5月正式挂牌 (网址待确认)
 	* 2021/6/12，云南人大2021年更换新网址
 	* 2021/4/26，新增12337政法干警违纪违法举报平台
-	* 2021/4/14，国务院部委段落严格按照官网排序
+	* 2021/4/14，国务院部委段落(3.1)严格按照官网排序
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌 (已补充网址)
 
 编制依据
@@ -120,15 +120,16 @@
 	国务院设立办公厅，由秘书长领导。
 
 * 🏢 中国政府网	 　[Gov.CN](https://www.gov.cn)
+	- 全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/)
 	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面
 	- [行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
 	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
 * 国务院办公厅
-	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/ )  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行
-	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 	- 📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
 	（以下服务号码关闭：~~科技公益服务-12396、知识产权维权援助公益服务-12330、电信用户申诉渠道-12300、自然资源违法举报-12336、旅游资讯服务电话-12301、价格投诉举报-12358、商务领域举报投诉咨询-12312、民政服务-12349、计划生育法律法规咨询及举报-12356、食品药品监督举报服务-12331、质量技术监督系统和出入境检验检疫-12365、防震减灾公益服务-12322、火灾隐患举报投诉-96119~~，整体并入12345。）
+	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/)平台  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行	
+	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 
 * 各省级政府网站(按政区码/身份证号顺序)：　
 	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>11　
@@ -171,7 +172,7 @@
 	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>82　
 	国外入籍身份证号：91[]()
 	
-	 *大萌为您提供SQLite格式的[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
+	 *大萌为您提供SQLite格式的中国[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
 
 3.1 国务院26个部委（及部委管理的国家局）
 ------------------------------------
@@ -184,6 +185,8 @@
 * 外交部	　 [FMPRC.gov.cn](https://www.fmprc.gov.cn)
 	- ☎️ 12308 全球领事保护与应急热线 （境外打回北京需加拨国际区号：+86-10-12308）
 	- [中国领事服务网](http://cs.mfa.gov.cn) 
+	- 外交部[驻港公署](http://www.fmcoprc.gov.hk/) 外交部驻香港特别行政区特派员公署
+	- 外交部[驻澳公署](http://www.fmcoprc.gov.mo/) 外交部驻澳门特别行政区特派员公署
 * 国防部	　 [MOD.gov.cn](http://www.mod.gov.cn)
 	- [《解放军报》](http://www.81.cn/jfjbmap/paperindex.htm)
 	  [《解放军画报》](http://www.plapic.com.cn/pub/node_90247.htm)
@@ -236,6 +239,7 @@
 	- [《中国社会报》](http://www.shehuiwang.cn/site/index.jsp )　	 《中国老年报》 []()
 	- [中国志愿服务网](https://www.chinavolunteer.cn )
 * 司法部	　 [MOJ.gov.cn](https://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
+	（*大萌批注：司法部并不是司法机关，其主管公证、鉴定、律师、监狱等司法服务工作，称为‘司法服务部’也许更准确*）
 	- 📞 12348 全国公共法律服务专用电话 双号并行 [中国法律服务网](http://12348.moj.gov.cn "12348中国法网") 法律咨询、找调解仲裁、司法考试、可以查全国律师事务所
 	- [法律法规规章](https://www.moj.gov.cn/Department/node_592.html)栏目，[检索](http://search.chinalaw.gov.cn)页
 	- [智慧普法平台](http://legalinfo.moj.gov.cn/pub/sfbzhfx/ "中国普法网") 谁执法谁普法
@@ -290,7 +294,7 @@
 	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 3.3段 医保局*
 	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
 	- 疾病预防控制局　 [卫健委疾控局](http://www.nhc.gov.cn/jkj/) 
-	- 代管【国家疾病预防控制局】	　 [网址待公布]() 2021年5月挂牌
+	- 代管【国家疾病预防控制局】	　 [网址待确认]() 2021年5月挂牌
 	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
 	- 国家中医药管理局	　 [SATCM](http://www.satcm.gov.cn/) ，[便民就医导航](http://www.satcm.gov.cn/banshifuwu/)
 	  - [中国中医科学院](https://www.cacms.ac.cn/) 
@@ -308,8 +312,9 @@
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- ＋【国家外汇管理局】[]()
 	- [信用中国](https://www.creditchina.gov.cn )💳
-* 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  )
-
+* 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
+	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
+	- 审计专业技术资格考试
 
 3.2 国务院直属特设机构
 ---------------------
@@ -368,10 +373,10 @@
 3.4 国务院办事机构（及中共中央承担职责机构）
 ----------------------------------------
 
-* 国务院港澳事务办公室
 * 国务院研究室
-* 国务院台湾事务办公室／【中共中央台湾工作办公室】
 * 国务院侨务办公室 +⋙ 中央统战部	　 []()
+* 国务院港澳事务办公室 +⋙ 中央统战部	　 []()
+* 国务院台湾事务办公室／【中共中央台湾工作办公室】
 * 国务院新闻办公室 +⋙ 中央宣传部	　 []()
 * 国家互联网信息办公室／中央网络安全和信息化委员会办公室
 * 国家公务员局 +⋙ 中央组织部	　 []()
@@ -386,6 +391,7 @@
 
 * 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
 	- 《参考消息》、《中国证券报》等，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
+	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
 * 中央广播电视总台	　CMG 暂无官网
 	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
 * 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
@@ -460,25 +466,31 @@
 	- +【[国家电影局](http://www.chinafilm.gov.cn/)】
 	- +代管 中央文明办[中国文明网](http://www.wenming.cn)
 
-* 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
-	- +【[国家宗教事务局](http://www.sara.gov.cn)】
-	- +【国务院侨务办公室】[国侨办](http://www.gqb.gov.cn/)
+* 中央外事工作委员会办公室	　 []()
 * 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn) 中联部
+
+* 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
+	- 多党合作、少数民族、宗教事务、非公经济、侨务工作、[新的社会阶层人士](http://www.zytzb.gov.cn/xdxw/index.jhtml)、党外知识分子、港澳台、涉藏工作、涉疆工作
+	- +【[国家宗教事务局](http://www.sara.gov.cn/)】
+	- +【国务院侨务办公室】[国侨办](https://www.gqb.gov.cn)
+	- +【国务院港澳事务办公室】[港澳办](https://www.hmo.gov.cn)
+* 中共中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
+
 * 中共中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/)中国长安网
 	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
 	- ☎️ [12337](http://www.12337.gov.cn/) 政法干警违纪违法举报平台 政法队伍教育整顿/扫黑除恶专项斗争
 	- 微信公众号：中央政法委长安剑
 	- [《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
+
 * 中共中央政策研究室／【中央全面深化改革委员会办公室】	　 中央改革办
 * 中央国家安全委员会办公室	　 []()
 * 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】[CAC.gov.cn](http://www.cac.gov.cn)网信办
 	- ☎️ [12377.cn](https://www.12377.cn/)违法和不良信息举报中心	　 举报网上有害信息：谣言/诈骗/低俗/侵权……
 	- 微信公众号“网信中国”	　 
 	- 中国互联网[联合辟谣平台](https://www.piyao.org.cn/)
+
 * 中央军民融合发展委员会办公室	　 []()
-* 中共中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
 * 中央财经委员会办公室	　 []()
-* 中央外事工作委员会办公室	　 []()
 * 中央机构编制委员会办公室	　 [SCOPSR.gov.cn](http://www.scopsr.gov.cn )中编办 中国机构编制网
 	- ☎️ 12310 对机构编制违规违纪问题的[举报](http://www.scopsr.gov.cn/cxgl/jdjc/12310jbdh/)
 * 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn)旗帜网
@@ -660,7 +672,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210619	v0.6.3
+	20210624	v0.6.4
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
