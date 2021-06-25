@@ -6,8 +6,8 @@
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
-　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰……有关部门是指：党中央、全国人大、两高、国务院、政协、社会团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
-　　疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些无需面对面接触的联系群众渠道将发挥更大作用。  
+　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰、直属高校🙋……有关部门是指：党中央、全国人大、两高、国务院、政协、社会团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
+　　疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些非面对面接触的联系群众渠道将发挥更大作用。  
 <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
@@ -61,7 +61,7 @@
 　15<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古</a>　
 　21<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
 　22<a href="http://www.jlrd.gov.cn/" target="_blank">吉林</a>
-　23<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江</a>
+　23<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江人大</a>
 <br>
 　31<a href="http://www.spcsc.sh.cn/" target="_blank">上海人大</a>
 　32<a href="http://www.jsrd.gov.cn/" target="_blank">江苏人大</a>
@@ -104,7 +104,7 @@
  * ⚔️ 最高人民检察院		 　[SPP.gov.cn](https://www.spp.gov.cn )
 	- 最高检出台的[司法解释](https://www.spp.gov.cn/spp/flfg/)与规范文件
 	- 十大[检察业务](https://www.spp.gov.cn/spp/jcyw/index.shtml)：(普/重/职/经)犯罪检察、刑事执行检察、民事检察、行政检察、公益诉讼检察、未成年人检察、控告申诉检察
-	- [《检察日报》](http://newspaper.jcrb.com)正义网，[法律法规库](https://www.spp.gov.cn/spp/flfgk)
+	- [《检察日报》](http://newspaper.jcrb.com)正义网，检察业务[法律法规库](https://www.spp.gov.cn/spp/flfgk)
 	- ☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn)
 	- 中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view) ☁️
 	- [国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
@@ -187,7 +187,7 @@
 	- [中国领事服务网](http://cs.mfa.gov.cn) 
 	- 外交部[驻港公署](http://www.fmcoprc.gov.hk/) 外交部驻香港特别行政区特派员公署
 	- 外交部[驻澳公署](http://www.fmcoprc.gov.mo/) 外交部驻澳门特别行政区特派员公署
-	- 直属高校（1所）：[外交学院](http://cfau.edu.cn)（北京）
+	- 🙋直属高校（1所）：[外交学院](http://cfau.edu.cn)（北京）
 * 国防部	　 [MOD.gov.cn](http://www.mod.gov.cn)	　 *参见第4段落 中央军委*
 	- [《解放军报》](http://www.81.cn/jfjbmap/paperindex.htm)
 	  [《解放军画报》](http://www.plapic.com.cn/pub/node_90247.htm)
@@ -214,13 +214,13 @@
 	- &【国家航天局】、&【国家原子能机构】
 	- 国家烟草专卖局	📞 12313 全国烟草专卖品市场监管举报电话 设分中心
 	- 国家国防科技工业局 🚀
-	- 直属高校（7所）：[北航](http://www.buaa.edu.cn)、[北理](http://www.bit.edu.cn)、[哈工大](http://www.hit.edu.cn)、[哈工程](http://www.hrbeu.edu.cn)、[西北工大](http://www.nwpu.edu.cn)、[南航](http://www.nuaa.edu.cn)、[南理](http://www.njust.edu.cn)。
+	- 🙋直属高校（7所）：[北航](http://www.buaa.edu.cn)、[北理](http://www.bit.edu.cn)、[哈工大](http://www.hit.edu.cn)、[哈工程](http://www.hrbeu.edu.cn)、[西北工大](http://www.nwpu.edu.cn)、[南航](http://www.nuaa.edu.cn)、[南理](http://www.njust.edu.cn)。
 * 国家民族事务委员会	　 [NEAC.gov.cn](http://www.neac.gov.cn )
 	- [《中国民族报》](http://www.mzb.com.cn/html/folder/96173-1.htm)、[《民族画报》](http://www.mzhb.com )
 	- [民族自治州/区/县(旗)查询](http://www.neac.gov.cn/seac/ztzl/mzzzdf/index.shtml )
-	- 直属高校（6所）：
+	- 🙋直属高校（6所）：
 	　[中央民族大学](https://www.muc.edu.cn/xdyx.htm )（北京）、
-	　中南民族大学（武汉）、　西南民族大学（成都）、　西北民族大学（兰州）、	　北方民族大学（银川）、　大连民族大学
+	　中南民族大学（武汉）、西南民族大学（成都）、西北民族大学（兰州）、北方民族大学（银川）、大连民族大学
 * 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )，[《人民公安报》](http://epaper.cpd.com.cn )
 	- 🚨 110 公安报警电话，受理治安/刑事报警，紧急危难求助。
 	- 🚓 122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
@@ -229,7 +229,7 @@
 	- ☎️ 12389　	 [公安部举报中心](https://www.12389.gov.cn ) 公安机关及民警违法违纪举报中心
 	- 国家移民管理局	[NIA.gov.cn](https://www.nia.gov.cn)+【中华人民共和国出入境管理局】，《中国移民管理报》等[专题专栏](https://www.nia.gov.cn/n741435/n907688/)
 	  - 📞 12367 移民咨询服务热线 设分中心　	 [国家移民管理局政务服务平台](https://s.nia.gov.cn)
-	- 直属高校（5所）：中国人民公安大学（北京）、中国人民警察大学（河北廊坊）、中国刑事警察学院（辽宁沈阳）、南京森林警察学院（江苏南京）、铁道警察学院（河南郑州）。 *原 武警学院 和 海警学院 已转为军事院校，不再公开网站*
+	- 🙋直属高校（5所）：中国人民公安大学（北京）、中国人民警察大学（河北廊坊）、中国刑事警察学院（辽宁沈阳）、南京森林警察学院（江苏南京）、铁道警察学院（河南郑州）。 *原 武警学院 和 海警学院 已转为军事院校，不再公开网站*
 * 国家安全部
 	- ☎️ 12339 发现间谍/抓特务	[国家安全机关举报受理平台](https://www.12339.gov.cn) 
 	- *除举报网站和电话，不提供公开网站*
@@ -249,7 +249,7 @@
 	- [智慧普法平台](http://legalinfo.moj.gov.cn/pub/sfbzhfx/ "中国普法网") 谁执法谁普法
 	- [中国律师网](http://www.acla.org.cn ) 中华全国律师协会 （面向律师而不是面向当事人）
 	- [中国公证网](http://www.chinanotary.org.cn ) 有个在线公正平台是外部链接
-	- 直属高校（1所）：[中央司法警官学院](http://www.cicp.edu.cn) （河北保定）
+	- 🙋直属高校（1所）：[中央司法警官学院](http://www.cicp.edu.cn) （河北保定）
 * 💰 财政部	　 [MOF.gov.cn](http://www.mof.gov.cn )	[《中国财经报》](http://www.cfen.com.cn/dzb)
 	- 
 	- 
@@ -306,7 +306,7 @@
 	- 疾病预防控制局　 [卫健委疾控局](http://www.nhc.gov.cn/jkj/) 
 	- 代管【国家疾病预防控制局】	　 [网址待确认]() 2021年5月挂牌
 	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
-	- 直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
+	- 🙋直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
 	- 国家中医药管理局	　 [SATCM](http://www.satcm.gov.cn/) ，[便民就医导航](http://www.satcm.gov.cn/banshifuwu/)
 	  - [中国中医科学院](https://www.cacms.ac.cn/) 
 * 🎖️ 退役军人事务部	　 [MVA.gov.cn](http://www.mva.gov.cn)
@@ -320,7 +320,7 @@
 	  - 🚨 119 火警电话	　 被困救援、摘马蜂窝 🚒 全国17个消防救援总队，4个消防研究所（津沪沈川）
 	  - [社会消防技术服务](https://shhxf.119.gov.cn)信息系统，注册消防工程师考试。	　 
 	- 国家安全生产应急救援中心 📞 12350 安全生产举报投诉电话 双号并行
-	- 直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
+	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- ＋【国家外汇管理局】[]()
 	- [信用中国](https://www.creditchina.gov.cn )💳
@@ -346,7 +346,7 @@
 	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
-	- 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
+	- 🙋直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
 * 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
 	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
@@ -360,7 +360,7 @@
 	  - 国家知识产权[公共服务网](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) 专利检索、商标查询、注册申请、地理标志……
 	- 国家市场监督管理总局[行政学院](http://www.sasamr.org.cn/) 深圳市
 * 🏆 国家体育总局	　 [Sport.gov.cn](http://www.sport.gov.cn/)⚽
-	- 直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
+	- 🙋直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
 * 国家国际发展合作署　	 [CIDCA.gov.cn](http://www.cidca.gov.cn/)
 * 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
 * 国家税务总局	　 [ChinaTax.gov.cn](http://www.chinatax.gov.cn/)
@@ -411,11 +411,11 @@
 	- 国家气象中心 [中央气象台](http://www.nmc.cn/)
 * 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
 	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
-	- 直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
+	- 🙋直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
 * 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
 	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
 	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
-	- 直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
+	- 🙋直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
 	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
 * 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
 	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
@@ -448,15 +448,14 @@
 	- 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn)
 	- [中国政要](http://cpc.people.com.cn/GB/64162/394696) 中央政治局 中央书记处
 
-* 中央纪律检查委员会/【国家监察委员会】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn)中央纪委/国家监委
+* 中央纪律检查委员会/【国家监察委员会】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn) 中央纪委/国家监委
 	- ☎️ 12388 [网上举报](http://www.12388.gov.cn ) 反四风/违反八项规定
 	- [党纪法规库](https://www.ccdi.gov.cn/fgk/index )
-	- [《中国纪检监察报》](http://www.jjjcb.cn ) 
-	- [《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
+	- [《中国纪检监察报》](http://www.jjjcb.cn ) 、[《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
 	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
 * 中央军事委员会	　 [Gov.cn](http://www.gov.cn/guoqing/dhgjjg/824571306.htm) 中央军委
 	- 陆军、海军、空军、火箭军、战略支援部队、武装警察部队
-	- 直属高校（3所）：中国人民解放军[国防大学]()（起源于1927年毛泽东在井冈山创建的红军教导队，2017年重组，校区分布于北京、西安、南京、上海等地）、中国人民解放军[国防科技大学](https://www.nudt.edu.cn/)（湖南长沙，前身为抗美援朝时期 哈军工）
+	- 🙋直属高校（3所）：中国人民解放军[国防大学]()（起源于1927年毛泽东在井冈山创建的红军教导队，2017年重组，校区分布于北京、西安、南京、上海等地）、中国人民解放军[国防科技大学](https://www.nudt.edu.cn/)（湖南长沙，前身为抗美援朝时期 哈军工）  
 	*非军委直属军事院校暂未收录，大部分军事院校不公开网站*
 * 中央委员会	　 []() 中共中央
 	- [第十九届中央委员会委员名单](http://www.xinhuanet.com/politics/19cpcnc/2017-10/24/c_1121848878.htm) （204名，2017年10月）中国共产党全国代表大会产生的中国共产党最高权力机关
@@ -469,7 +468,7 @@
 	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
 	- 中共中央直属机关管理局[]()	　 中直管理局
-	- 直属高校（1所）：[北京电子科技学院](https://www.besti.edu.cn/) （北京丰台，培养保密与信息安全人才）
+	- 🙋直属高校（1所）：[北京电子科技学院](https://www.besti.edu.cn/) （北京丰台，培养保密与信息安全人才）
 
 * 中共中央组织部	　 [共产党员网](http://www.12371.cn) 12371组工网站
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
@@ -492,7 +491,7 @@
 	- +【[国家宗教事务局](http://www.sara.gov.cn/)】
 	- +【国务院侨务办公室】[国侨办](https://www.gqb.gov.cn)
 	- +【国务院港澳事务办公室】[港澳办](https://www.hmo.gov.cn)
-	- 直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
+	- 🙋直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
 
 * 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn) 中联部
 	- 
@@ -612,15 +611,15 @@
 * [总工会](http://www.acftu.org/)	　 中华全国总工会
 	- 中国工会[普法网](https://ghpf.acftu.org/)
 	- [中工网](http://www.workercn.cn/) [《工人日报》](http://media.workercn.cn)
-	- 直属高校（1所）：[中国劳动关系学院](https://www.culr.edu.cn)，前身为前身是1946年晋察冀边区行政干部学校
+	- 🙋直属高校（1所）：[中国劳动关系学院](https://www.culr.edu.cn)，前身为前身是1946年晋察冀边区行政干部学校
 * [共青团](http://www.gqt.org.cn/)　	 中国共产主义青年团
 	- [《中国青年报》](http://zqb.cyol.com)
 	- 少年先锋队 全国学联
-	- 直属高校（1所）：[中央团校](https://www.zytx.org.cn) &【中国青年政治学院】，前身为1932年在江西瑞金创办的列宁团校
+	- 🙋直属高校（1所）：[中央团校](https://www.zytx.org.cn) &【中国青年政治学院】，前身为1932年在江西瑞金创办的列宁团校
 	  - 党性教育基地：大别山干部学院、红旗渠干部学院、焦裕禄干部学院、浙江红船干部学院、浙江大陈岛干部学院、延安干部培训学院、沂蒙干部学院、遵义师范学院、小平干部学院。
 * [全国妇联](http://www.women.org.cn/)	　 中华全国妇女联合会
 	- [《中国妇女报》](http://paper.cnwomen.com.cn)
-	- 直属高校（1所）：[中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
+	- 🙋直属高校（1所）：[中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
 * [中国科协](https://cast.org.cn )	　 中国科学技术协会 CAST.org.cn
 	- [科普中国](https://www.kepuchina.cn )
 	- [科技志愿服务](http://www.stvs.org.cn )
