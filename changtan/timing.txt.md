@@ -9,7 +9,7 @@
 提名网站
 ========
 
-　　日历网页是一个看似普通却对技术要求非常全面的一种web网页，暂时没有发现完美的产品。一个常见问题是，号称‘万年历’但其实只能查一百年，人民英雄纪念碑上提到的1840年查不到。经过几次更换，灵匣日历目前胜出。
+　　网页日历是一个看似普通却对技术要求非常全面的一种web程序，暂时没有发现完美的产品。一个常见问题是，号称‘万年历’但其实只能查一百年，人民英雄纪念碑上提到的1840年查不到。经过几次更换，灵匣日历目前胜出。
 
 *	日历网		<https://m.rili.com.cn/>		缺少公休日	
 *	中华万年历 	<http://yun.rili.cn/wnl/index.html>	不兼容Fx浏览器
@@ -57,6 +57,7 @@
 
 *	小红书%  	<https://www.xiaohongshu.com/explore>
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
+*	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
 
 
 4、电视节目单
@@ -72,6 +73,20 @@
 　%<a title="今日头条的web网站" href="https://toutiao.com">今日头条</a>
 　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
 　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
+
+
+6、医疗保健
+------------
+
+*	健客药店	https://www.jianke.com	买正品药上健客
+*	1药网 	https://www.111.com.cn	合法网上药店
+*	丁香人才	<https://www.jobmd.cn>	医学人才求职平台
+*	百度灵医	https://01.baidu.com/	医疗咨询App
+*	平安好医生	也是个App
+*	成都医联	https://www.medlinker.com	慢病管理平台
+
+*	家庭医生 <a href="https://www.familydoctor.com.cn" title="">杂志</a>、
+ $<a href="http://jyb.ncrbw.cn" title="南昌日报社旗下">报纸</a>📰
 
 
 7、科研学习
