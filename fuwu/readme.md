@@ -1,21 +1,21 @@
 老生常谈
 
-有关部门在这里
+有关部门服务电话大全
 ==========================
 大萌 © 202101-07（审校中……）
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
-　　本页面依据有关文件，汇编了党和政府及社会各[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰、直属高校🙋……有关部门是指：党中央、全国人大、两高、国务院、政协、社会团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
+　　本页面依据有关文件，汇编了党和政府[有关部门](https://laosheng.top/fuwu/)的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰、直属高校🙋……有关部门是指：党中央、全国人大、两高、国务院、政协、社会团体、大型国企……地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。  
 　　疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些非面对面接触的联系群众渠道将发挥更大作用。  
 <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
 
-最新变动
---------
+最新部门变动
+------------
 	* 2021/6/19，国家疾病预防控制局5月正式挂牌 (网址待确认)
 	* 2021/6/12，云南人大2021年更换新网址
-	* 2021/4/26，新增12337政法干警违纪违法举报平台
+	* 2021/4/26，新增政法委12337政法干警违纪违法举报平台（4.1段落）
 	* 2021/4/14，国务院部委段落(3.1)严格按照官网排序
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌 (已补充网址)
 
@@ -120,10 +120,9 @@
 	国务院设立办公厅，由秘书长领导。
 
 * 🏢 中国政府网	 　[Gov.CN](https://www.gov.cn)
-	- 全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/)
-	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面
+	- 全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/) / 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
+	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 / [部门服务](http://www.gov.cn/fuwu/bm)大厅
 	- [行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
-	- 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
 * 国务院办公厅
 	- 📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
@@ -194,11 +193,12 @@
 	  [《中国国防报》](http://www.81.cn/gfbmap/paperindex.htm)
 	  [《中国民兵》](http://www.81.cn/zgmb/) （画报）
 	- 🌩️[CCTV-7](https://tv.cctv.com/live/cctv7/)央视国防军事频道、[中国军视网](http://www.js7tv.cn)
-* 国家发展和改革委员会	　 [NDRC.gov.cn](https://www.ndrc.gov.cn ) 
+* 国家发展和改革委员会	　 [NDRC.gov.cn](https://www.ndrc.gov.cn ) 发改委
 	- [《中国改革报》](http://www.cfgw.net.cn/epaper)、[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
-	- 国家信息中心[]()	　 一带一路官网[]()
+	- 国家信息中心[]()	　 [一带一路](http://www.zgydyl.org)官网
 	- 国家公用信息中心[]()	　 信用中国网[信用服务](https://www.creditchina.gov.cn/xinyongfuwu/)
-	- 国家能源局[]()	　 [《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
+	- [国家能源局](http://www.nea.gov.cn)	　 [《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
+	  - ☎️ 12398 [电力监管投诉举报](http://www.nea.gov.cn/n_home/n_gzfw/rx12398)热线电话：乱收电费/偷电/违反《电力监管条例》
 	- 国家粮食和物资储备局
 * 📐 教育部	　 [MOE.gov.cn](http://www.moe.gov.cn )　 [《中国教育报》](http://paper.jyb.cn)
 	- [中国教育电视台](http://www.centv.cn )：☁️[CETV-1~4](http://www.centv.cn/cetv1)、国家开放大学（原中央广播电视大学）
@@ -210,11 +210,16 @@
 * 科学技术部	　 [MoST.gov.cn](http://www.most.gov.cn/)　 [《科技日报》](http://digitalpaper.stdaily.com)	
 	- （&国家外国专家局）
 	- 
-* 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/)
-	- &【国家航天局】、&【国家原子能机构】
-	- 国家烟草专卖局	📞 12313 全国烟草专卖品市场监管举报电话 设分中心
-	- 国家国防科技工业局 🚀
+* 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/) 工信部
+	- ☎️ 12381 [公共服务](https://www.miit.gov.cn/gzcy/cydh/ )电话平台 *管电信的，号码资源丰富*
+	- ☎️ 12321 垃圾信息[举报受理中心](https://12321.cn)	　 投诉垃圾短信、诈骗电话、骚扰电话、不良App
+	- [《人民邮电》报社](http://paper.cnii.com.cn/) 
+	- [电信用户申诉](https://yhssglxt.miit.gov.cn/web)受理中心，话费错误/宽带限速/业务捆绑…投诉电信/移动/联通
+	- 📠 010-66411166 网站备案全国咨询电话🌏	　 IP地址/域名信息[备案管理系统](https://beian.miit.gov.cn/)
+	- &【[国家航天局](http://www.cnsa.gov.cn)】🚀、&【[国家原子能机构](http://www.caea.gov.cn)】、[国家国防科技工业局](http://www.sastind.gov.cn) 
+	- [软件和信息技术服务业](https://rjjs-service.miit.gov.cn/)信息平台
 	- 🙋直属高校（7所）：[北航](http://www.buaa.edu.cn)、[北理](http://www.bit.edu.cn)、[哈工大](http://www.hit.edu.cn)、[哈工程](http://www.hrbeu.edu.cn)、[西北工大](http://www.nwpu.edu.cn)、[南航](http://www.nuaa.edu.cn)、[南理](http://www.njust.edu.cn)。
+	- 📞 12313 [国家烟草专卖局](http://www.tobacco.gov.cn/)	烟草市场监管服务热线 设分中心
 * 国家民族事务委员会	　 [NEAC.gov.cn](http://www.neac.gov.cn )
 	- [《中国民族报》](http://www.mzb.com.cn/html/folder/96173-1.htm)、[《民族画报》](http://www.mzhb.com )
 	- [民族自治州/区/县(旗)查询](http://www.neac.gov.cn/seac/ztzl/mzzzdf/index.shtml )
@@ -222,8 +227,10 @@
 	　[中央民族大学](https://www.muc.edu.cn/xdyx.htm )（北京）、
 	　中南民族大学（武汉）、西南民族大学（成都）、西北民族大学（兰州）、北方民族大学（银川）、大连民族大学
 * 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )，[《人民公安报》](http://epaper.cpd.com.cn )
-	- 🚨 110 公安报警电话，受理治安/刑事报警，紧急危难求助。
-	- 🚓 122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
+	- 🚨  110 公安报警电话，受理治安/刑事报警，紧急危难求助。
+	　 96110 全国反诈中心统一预警专号
+	　 *95110 受理海上走私及刑事案件，参见 党中央>中央军委>中国海警局*
+	- 🚓  122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
 	- [公安部政务服务平台](https://zwfw.mps.gov.cn/)
 	  网络违法犯罪举报网站
 	- ☎️ 12389　	 [公安部举报中心](https://www.12389.gov.cn ) 公安机关及民警违法违纪举报中心
@@ -239,7 +246,7 @@
 	- 社会组织管理局 [中国社会组织公共服务平台](http://www.chinanpo.gov.cn )
 	- 社会救助司 📠 [各地社会救助服务热线](http://hotline.treeyee.com )
 	- 慈善事业促进和社会工作司
-	  📠 010-58123127 慈善中国[募捐信息平台](http://cishan.chinanpo.gov.cn/biz/ma/csmh/h/csmhhindex.html ) 
+	  📠 010-58123127 慈善中国[募捐信息平台](http://cishan.chinanpo.gov.cn/biz/ma/csmh/h/csmhhindex.html)
 	- [《中国社会报》](http://www.shehuiwang.cn/site/index.jsp )　	 《中国老年报》 []()
 	- [中国志愿服务网](https://www.chinavolunteer.cn )
 * 司法部	　 [MOJ.gov.cn](https://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
@@ -251,8 +258,9 @@
 	- [中国公证网](http://www.chinanotary.org.cn ) 有个在线公正平台是外部链接
 	- 🙋直属高校（1所）：[中央司法警官学院](http://www.cicp.edu.cn) （河北保定）
 * 💰 财政部	　 [MOF.gov.cn](http://www.mof.gov.cn )	[《中国财经报》](http://www.cfen.com.cn/dzb)
-	
-	
+	- [中央预决算](http://www.mof.gov.cn/zyyjsgkpt)公开平台 / 国债收益曲线
+	- 全国[会计事务所](http://acc.mof.gov.cn)查询
+	- 全国行政收费清单
 * 人力资源和社会保障部	　 [MoHRSS.gov.cn](http://www.mohrss.gov.cn ) 
 	- 📞 12333 全国人力资源和社会保障服务电话 双号并行	[各地社保局办事大厅地址](http://si.12333.gov.cn/147439.jhtml)
 	- 
@@ -282,8 +290,9 @@
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
 	- 部属院校（）：大连海事大学（辽宁）、中国民航大学（天津）、中国民用航空飞行学院（四川广汉）、广州民航职业技术学院、上海民航职业技术学院。
 * 🌊 水利部	　 [MWR.gov.cn](http://www.mwr.gov.cn/)
-	 
-	 
+	- [水知识](http://www.mwr.gov.cn/szs) 与 水情播报
+	- 📞 12314 全国涉水问题[监督举报](http://supe.mwr.gov.cn/) 水资源、、水利工程、水土保持、水库移民
+	- 
 * 🌻 农业农村部	　 [MOA.gov.cn](http://www.moa.gov.cn/)	[《农民日报》](http://szb.farmer.com.cn)  
 	- 📞 12316 全国农业系统公益服务电话 双号并行 
 	- 真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
@@ -455,6 +464,7 @@
 	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
 * 中央军事委员会	　 [Gov.cn](http://www.gov.cn/guoqing/dhgjjg/824571306.htm) 中央军委
 	- 陆军、海军、空军、火箭军、战略支援部队、武装警察部队
+	  - 🚨 95110 武警部队[中国海警局](http://www.ccg.gov.cn/95110)海上报警电话：走私/污染/海上刑案/涉渔纠纷
 	- 🙋直属高校（3所）：中国人民解放军[国防大学]()（起源于1927年毛泽东在井冈山创建的红军教导队，2017年重组，校区分布于北京、西安、南京、上海等地）、中国人民解放军[国防科技大学](https://www.nudt.edu.cn/)（湖南长沙，前身为抗美援朝时期 哈军工）  
 	*非军委直属军事院校暂未收录，大部分军事院校不公开网站*
 * 中央委员会	　 [-]() （中共中央）
@@ -475,8 +485,8 @@
 	- [组工文件](http://www.12371.cn/special/zgwjk/)：党章党规/宪法法律/文件汇编……
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
 	- 全国党委网站/党建网站，
-	  - 地图版： 全国[党网联盟](http://dwlm.12371.cn/) 
-	  - 文字版： 全国[党建网群](http://fuwu.12371.cn/daohang/djwq/)
+	  - 地图版： 全国[党网联盟](http://dwlm.12371.cn/) *版式直观，但内容陈旧*
+	  - 文字版： 全国[党建网群](http://fuwu.12371.cn/daohang/djwq/) *部分地区空缺*
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
 
@@ -496,7 +506,7 @@
 	- 🙋直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
 
 * 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn) 中联部
-	
+	- 。。。
 * 中共中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/)中国长安网
 	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
 	- ☎️ [12337](http://www.12337.gov.cn/) 政法干警违纪违法举报平台 政法队伍教育整顿/扫黑除恶专项斗争
@@ -511,13 +521,13 @@
 * 中央国家安全委员会办公室	　 []()
 * 中央军民融合发展委员会办公室	　 []()
 * 中共中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn)国台办
-	
+	- 。。。
 * 中央财经委员会办公室	　 []()
 * 中共中央外事工作委员会办公室	　 []()
 * 中央机构编制委员会办公室	　 [SCOPSR.gov.cn](http://www.scopsr.gov.cn )中编办 中国机构编制网
 	- ☎️ 12310 对机构编制违规违纪问题的[举报](http://www.scopsr.gov.cn/cxgl/jdjc/12310jbdh/)
 * 中央空中交通管理委员会办公室	　 []()
-
+	- 。。。
 * 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn)旗帜网
 <!-- * 中共中央直属机关工委	　 []() -->
 
@@ -700,7 +710,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210701	v0.7.0
+	20210707	v0.7.1
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
