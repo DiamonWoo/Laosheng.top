@@ -118,7 +118,7 @@
 		第三百零八条　军队保卫部门对军队内部发生的刑事案件行使侦查权。中国海警局履行海上维权执法职责，对海上发生的刑事案件行使侦查权。对罪犯在监狱内犯罪的案件由监狱进行侦查。军队保卫部门、中国海警局、监狱办理刑事案件，适用本法的有关规定。
 
 +	md格式阅读：[2018-刑事诉讼法](duben/2018-xingshisusongfa.txt)
-+	epub格式下载[]()
++	epub格式下载：[2018-刑事诉讼法-epub](duben/2018-xingshisusongfa.epub) （41 KB）
 
 
 2020-民法典 👪
@@ -141,14 +141,14 @@
 		第一千二百六十条　本法自2021年1月1日起施行。《中华人民共和国婚姻法》、《中华人民共和国继承法》、《中华人民共和国民法通则》、《中华人民共和国收养法》、《中华人民共和国担保法》、《中华人民共和国合同法》、《中华人民共和国物权法》、《中华人民共和国侵权责任法》、《中华人民共和国民法总则》同时废止。
 
 +	md格式阅读：[2020-民法典](duben/2020-minfadian.txt) 
-+	epub格式下载：[]() 
++	epub格式下载：[2020-民法典-epub](duben/2020-minfadian.epub) （104 KB）
 
 
 
 参考资料
 --------
 * [中国人大网 资料库](http://www.npc.gov.cn/npc/zlk/list.shtml) 学习法律的参考书。
-* [现行法律目录](http://www.jlfxhw.com/flml/2475.jhtml)（[带时间版](http://jlfxhw.com/flmlnew/index.jhtml)） 由 吉林省法学会网站提供，其网站由[长春易申康永](http://www.jlssp.com.cn/qyzy/enterprise/55.html)科技有限公司提供技术支持。
+* 吉林省法学会 提供的[法律大全](http://www.jlfxhw.com/fldqmenu.jhtml) ，其网站由[长春易申康永](http://www.jlssp.com.cn/qyzy/enterprise/55.html)科技有限公司提供技术支持。
 
 
 ```
