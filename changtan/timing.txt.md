@@ -55,6 +55,7 @@
 3、浏览之器
 -----------
 
++	☆<a  title="author/安装包不到1MB的极小安卓浏览器.txt">1MB浏览器</a>
 *	小红书%  	<https://www.xiaohongshu.com/explore>
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 *	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
@@ -84,9 +85,11 @@
 *	百度灵医	https://01.baidu.com/	医疗咨询App
 *	平安好医生	也是个App
 *	成都医联	https://www.medlinker.com	慢病管理平台
+*	医脉通 最新进展 <https://news.medlive.cn/>	
 
 *	家庭医生 <a href="https://www.familydoctor.com.cn" title="">杂志</a>、
  $<a href="http://jyb.ncrbw.cn" title="南昌日报社旗下">报纸</a>📰
++	<a href="./changtan/6-权威的医疗保健类报纸.txt" title="权威的医疗健康类报纸">权威保健资讯</a>
 
 
 7、科研学习
@@ -124,11 +127,13 @@
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
 *	<https://www.ipip.net/ip.html>
 
-10、上一代互联网导航
----------------------
 
-　<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>????
+10、名站导航
+-------------
 
+　<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>
+
+*	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
 
 
 落榜记录
