@@ -2,7 +2,7 @@
 
 有关部门服务电话大全
 ==========================
-大萌 © 202101-07（审校中……）
+大萌 © 202101-07（成功封顶…）
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -30,9 +30,9 @@
 图例
 ----
 
-* ☎️ 国家机关电话号码
-* 📞 地方政府12345电话热线及并行号码、分中心号码
-* 📠 其他单位服务电话，包括国企/事业单位等。
+* ☎️ 国家机关电话号码	 　*暂计16个*
+* 📞 地方政府12345电话热线及并行号码、分中心号码	 　*暂计22个
+* 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计16个*
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->[]()
 
@@ -213,8 +213,7 @@
 * 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/) 工信部
 	- ☎️ 12381 [公共服务](https://www.miit.gov.cn/gzcy/cydh/ )电话平台 *管电信的，号码资源丰富*
 	- ☎️ 12321 垃圾信息[举报受理中心](https://12321.cn)	　 投诉垃圾短信、诈骗电话、骚扰电话、不良App
-	- [《人民邮电》报社](http://paper.cnii.com.cn/) 
-	- [电信用户申诉](https://yhssglxt.miit.gov.cn/web)受理中心，话费错误/宽带限速/业务捆绑…投诉电信/移动/联通
+	- [《人民邮电》](http://paper.cnii.com.cn/)报社	　 [电信用户申诉](https://yhssglxt.miit.gov.cn/web)受理中心，话费错误/宽带限速/业务捆绑…投诉电信/移动/联通
 	- 📠 010-66411166 网站备案全国咨询电话🌏	　 IP地址/域名信息[备案管理系统](https://beian.miit.gov.cn/)
 	- &【[国家航天局](http://www.cnsa.gov.cn)】🚀、&【[国家原子能机构](http://www.caea.gov.cn)】、[国家国防科技工业局](http://www.sastind.gov.cn) 
 	- [软件和信息技术服务业](https://rjjs-service.miit.gov.cn/)信息平台
@@ -322,13 +321,15 @@
 	- 军队转业干部安置服务信息系统  	退役军人网上信访服务
 	- [中华英烈网](http://www.chinamartyrs.gov.cn)
 * 🚒 应急管理部	　 [MEM.gov.cn](http://www.mem.gov.cn )	　 [《中国应急管理报》](http://paper.aqsc.cn)
+	- 📞 12350 事故举报电话 双号并行
 	- 国家防汛抗旱总指挥部……
 	- 中国地震局	　 [中国地震台网中心](https://www.cenc.ac.cn/)最新地震信息
 	- [国家矿山安全监察局](https://www.chinacoal-safety.gov.cn/)	　 [《中国煤炭报》](http://paper.ccoalnews.com)
 	- 消防救援局	　 [119.Gov.cn](https://www.119.gov.cn/)	　 [《中国消防》](http://www.china-fire.com/photo/list-zgxf.html)杂志
 	  - 🚨 119 火警电话	　 被困救援、摘马蜂窝 🚒 全国17个消防救援总队，4个消防研究所（津沪沈川）
 	  - [社会消防技术服务](https://shhxf.119.gov.cn)信息系统，注册消防工程师考试。	　 
-	- 国家安全生产应急救援中心 📞 12350 安全生产举报投诉电话 双号并行
+	- [中国应急信息网](https://www.emerinfo.cn)灾情快报、救援现场 / 全球灾害数据平台	　 
+	*国家应急广播 请参见 3.5段落 广电总台部分*
 	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- ＋【国家外汇管理局】[]()
@@ -339,7 +340,8 @@
 
 3.2 国务院直属特设机构
 ---------------------
-* 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/)
+* 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国资委
+	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
 	- 中国钢铁新闻网 [《中国冶金报》](http://epaper.csteelnews.com)
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
 	- [《中华合作时报》](http://szb.zh-hz.com ) []()
@@ -416,6 +418,7 @@
 	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
 * 中央广播电视总台	　CMG 暂无官网
 	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
+	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
 * 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
 	- 国家气象中心 [中央气象台](http://www.nmc.cn/)
 * 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
@@ -485,8 +488,8 @@
 	- [组工文件](http://www.12371.cn/special/zgwjk/)：党章党规/宪法法律/文件汇编……
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
 	- 全国党委网站/党建网站，
-	  - 地图版： 全国[党网联盟](http://dwlm.12371.cn/) *版式直观，但内容陈旧*
-	  - 文字版： 全国[党建网群](http://fuwu.12371.cn/daohang/djwq/) *部分地区空缺*
+	  - 地图版： 全国[党网联盟](http://dwlm.12371.cn/)	 　*版式直观，但内容陈旧*
+	  - 文字版： 全国[党建网群](http://fuwu.12371.cn/daohang/djwq/)	 　*部分地区空缺*
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
 
