@@ -19,6 +19,11 @@
 1、搜罗天下
 -----------
 
+<small>1833~1949%</small>
+<a title="近代全国报刊索引，上海图书馆提供" href="https://www.cnbksy.com/portal/footCategory?id=21">近代报刊</a>📰%
+<a title="人民日报七十年余全库搜索，2021年起限制访问" href="http://data.people.com.cn/rmrb">人民日报</a>
+<small>$1946~2020</small>
+
 *	维基百科拷贝	<https://zh.wikiredia.com >
 *	维基百科拷贝2	<https://kfd.me >
 *	谷歌学术镜像 	<https://ac.scmor.com >
@@ -37,6 +42,9 @@
 
 2、云媒速览
 -----------
+
+<small>
+<a title="央视新闻频道⛅直播" href="https://tv.cctv.com/live/cctv13/">CCTV-13 新闻频道</a></small>
 
 *	人民日报阐述改革和开放 
 	-	<http://data.people.com.cn/rmrb/19850611/1 >
