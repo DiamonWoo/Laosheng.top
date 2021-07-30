@@ -63,10 +63,17 @@
 3、浏览之器
 -----------
 
-+	☆<a  title="author/安装包不到1MB的极小安卓浏览器.txt">1MB浏览器</a>
++	☆<a  title="author/安装包不到1MB的极小安卓浏览器.txt">1MB浏览器</a>：Via、X-beta……
++	谷歌火狐浏览器扩展：暴力猴 <https://github.com/violentmonkey/violentmonkey>
++	暴力猴脚本搜索： <https://greasyfork.org/zh-CN/>
++	暴力猴脚本举例：知乎去弹窗 <https://greasyfork.org/zh-CN/scripts/419081-知乎增强>
+
+　　要登录要下载？网站上的弹窗很烦人，用上面的浏览器+浏览器扩展某某猴子+某个去弹窗脚本 = 世界终于安静了。
+
 *	小红书%  	<https://www.xiaohongshu.com/explore>
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 *	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
+
 
 
 4、电视节目单
