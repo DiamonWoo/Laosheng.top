@@ -102,14 +102,16 @@
 6、医疗保健
 ------------
 
-*	健客药店	https://www.jianke.com	买正品药上健客
-*	1药网 	https://www.111.com.cn	合法网上药店
+*	健客药店	<https://www.jianke.com>	买正品药上健客
+*	1药网 	<https://www.111.com.cn>	合法网上药店
+
 *	丁香人才	<https://www.jobmd.cn>	医学人才求职平台
 *	百度灵医	https://01.baidu.com/	医疗咨询App
 *	平安好医生	也是个App
-*	成都医联	https://www.medlinker.com	慢病管理平台
-*	医脉通 最新进展 <https://news.medlive.cn/>	
+*	成都医联	<https://www.medlinker.com>	慢病管理平台
+*	重庆名医在线	<http://www.myzx.cn>	名医直播科普平台
 
+*	医脉通 最新进展 <https://news.medlive.cn/>	
 *	家庭医生 <a href="https://www.familydoctor.com.cn" title="">杂志</a>、
  $<a href="http://jyb.ncrbw.cn" title="南昌日报社旗下">报纸</a>📰
 +	<a href="./changtan/6-权威的医疗保健类报纸.txt" title="权威的医疗健康类报纸">权威保健资讯</a>
