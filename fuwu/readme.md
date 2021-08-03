@@ -1,3 +1,4 @@
+<base target="_blank">
 老生常谈
 
 有关部门服务电话大全
@@ -52,13 +53,14 @@
   	- [【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的目录与电子文本。
   - 国家监委/【中央纪委】 请见中国共产党段落
 
-* 各省人大网站（按行政区划代码排序，不含港澳台）
+* 各省人大网站（按身份证号码排序，不含港澳台）
 
 　11<a href="http://www.bjrd.gov.cn/" target="_blank">北京人大</a>
 　12<a href="http://www.tjrd.gov.cn/" target="_blank">天津</a>
 　13<a href="http://www.hbrd.net/" target="_blank">河北</a>
 　14<a href="http://www.sxpc.gov.cn/" target="_blank">山西</a>
 　15<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古</a>　
+<br>
 　21<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
 　22<a href="http://www.jlrd.gov.cn/" target="_blank">吉林</a>
 　23<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江人大</a>
@@ -89,6 +91,8 @@
 　63<a href="http://www.qhrd.gov.cn/" target="_blank">青海人大</a>
 　64<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
 　65<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
+<br>
+　71台湾　 81香港　 82澳门　 91：国外入籍身份证号
 
 
 2 最高法和最高检
@@ -130,46 +134,50 @@
 	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/)平台  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行	
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 
-* 各省级政府网站(按政区码/身份证号顺序)：　
-	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>11　
-	<a href="http://www.tj.gov.cn/" target="_blank">天津</a>12　
-	<a href="http://www.hebei.gov.cn/" target="_blank">河北</a>13　
-	<a href="http://www.shanxi.gov.cn/" target="_blank">山西</a>14　
-	<a href="http://www.nmg.gov.cn/" target="_blank">内蒙古</a>15　　
-	<a href="http://www.ln.gov.cn" target="_blank">辽宁</a>21　
-	<a href="http://www.jl.gov.cn" target="_blank">吉林</a>22　
-	<a href="http://www.hlj.gov.cn" target="_blank">黑龙江</a>23
+* 各省级政府网站(按身份证号顺序，括号内是省会及电话区号)：
 <br>　
-	<a href="http://www.shanghai.gov.cn/" target="_blank">上海</a>31　
-	<a href="http://www.jiangsu.gov.cn/" target="_blank">江苏</a>32　
-	<a href="http://www.zj.gov.cn/" target="_blank">浙江</a>33　
-	<a href="http://www.ah.gov.cn/" target="_blank">安徽</a>34　
-	<a href="http://www.fujian.gov.cn" target="_blank">福建</a>35　
-	<a href="http://www.jiangxi.gov.cn" target="_blank">江西</a>36　
-	<a href="http://www.shandong.gov.cn/" target="_blank">山东</a>37　
-	<a href="http://www.henan.gov.cn/" target="_blank">河南</a>41　
-	<a href="http://www.hubei.gov.cn/" target="_blank">湖北</a>42　
-	<a href="http://www.hunan.gov.cn/" target="_blank">湖南</a>43　
-	<a href="http://www.gd.gov.cn/" target="_blank">广东</a>44　
-	<a href="http://www.gxzf.gov.cn/" target="_blank">广西</a>45　
-	<a href="http://www.hainan.gov.cn/" target="_blank">海南</a>46
+	11<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>(010)　
+	12<a href="http://www.tj.gov.cn/" target="_blank">天津</a>(022)　
+	13<a href="http://www.hebei.gov.cn/" target="_blank">河北</a>(0311 石家庄)　
+	14<a href="http://www.shanxi.gov.cn/" target="_blank">山西</a>(0351 太原)　
+	15<a href="http://www.nmg.gov.cn/" target="_blank">内蒙古</a>(0471 呼和浩特)　
 <br>　
-	<a href="http://www.cq.gov.cn/" target="_blank">重庆</a>50　
-	<a href="http://www.sc.gov.cn" target="_blank">四川</a>51　
-	<a href="http://www.guizhou.gov.cn/" target="_blank">贵州</a>52　
-	<a href="http://www.yn.gov.cn/" target="_blank">云南</a>53　
-	<a href="http://www.xizang.gov.cn/" target="_blank">西藏</a>54　
-	<a href="http://www.shaanxi.gov.cn/" target="_blank">陕西</a>61　
-	<a href="http://www.gansu.gov.cn/" target="_blank">甘肃</a>62　
-	<a href="http://www.qh.gov.cn/" target="_blank">青海</a>63　
-	<a href="http://www.nx.gov.cn/" target="_blank">宁夏</a>64　
-	<a href="http://www.xinjiang.gov.cn/" target="_blank">新疆</a>65　
-	<a href="http://www.xjbt.gov.cn/" target="_blank">新疆生产建设兵团</a>
+	21<a href="http://www.ln.gov.cn" target="_blank">辽宁</a>(024 沈阳)　
+	22<a href="http://www.jl.gov.cn" target="_blank">吉林</a>(0431 长春)　
+	23<a href="http://www.hlj.gov.cn" target="_blank">黑龙江</a>(0451 哈尔滨)　
 <br>　
-	<a class="nohover" rel="nofollow">台湾</a>71　
-	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>81　
-	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>82　
-	国外入籍身份证号：91[]()
+	31<a href="http://www.shanghai.gov.cn/" target="_blank">上海</a>(020)　
+	32<a href="http://www.jiangsu.gov.cn/" target="_blank">江苏</a>(025 南京)　
+	33<a href="http://www.zj.gov.cn/" target="_blank">浙江</a>(0571 杭州)　
+	34<a href="http://www.ah.gov.cn/" target="_blank">安徽</a>(0551 合肥)　
+	35<a href="http://www.fujian.gov.cn" target="_blank">福建</a>(0591 福州)　
+	36<a href="http://www.jiangxi.gov.cn" target="_blank">江西</a>(0791 南昌)　
+	37<a href="http://www.shandong.gov.cn/" target="_blank">山东</a>(0531 济南)　
+<br>　
+	41<a href="http://www.henan.gov.cn/" target="_blank">河南</a>(0731 郑州)　
+	42<a href="http://www.hubei.gov.cn/" target="_blank">湖北</a>(027 武汉)　
+	43<a href="http://www.hunan.gov.cn/" target="_blank">湖南</a>(0731 长沙)　
+	44<a href="http://www.gd.gov.cn/" target="_blank">广东</a>(020 广州)　
+	45<a href="http://www.gxzf.gov.cn/" target="_blank">广西</a>(0771 南宁)　
+	46<a href="http://www.hainan.gov.cn/" target="_blank">海南</a>(0898 海口)　
+<br>　
+	50<a href="http://www.cq.gov.cn/" target="_blank">重庆</a>(023)　
+	51<a href="http://www.sc.gov.cn" target="_blank">四川</a>(028 成都)　
+	52<a href="http://www.guizhou.gov.cn/" target="_blank">贵州</a>(0851 贵阳)　
+	53<a href="http://www.yn.gov.cn/" target="_blank">云南</a>(0871 昆明)　
+	54<a href="http://www.xizang.gov.cn/" target="_blank">西藏</a>(0891 拉萨)　
+<br>　
+	61<a href="http://www.shaanxi.gov.cn/" target="_blank">陕西</a>(029 西安)　
+	62<a href="http://www.gansu.gov.cn/" target="_blank">甘肃</a>(0931 兰州)　
+	63<a href="http://www.qh.gov.cn/" target="_blank">青海</a>(0971 西宁)　
+	64<a href="http://www.nx.gov.cn/" target="_blank">宁夏</a>(0951 银川)　
+	65<a href="http://www.xinjiang.gov.cn/" target="_blank">新疆</a>(0991 乌鲁木齐)
+	66<a href="http://www.xjbt.gov.cn/" target="_blank">新疆生产建设兵团</a>
+<br>　
+	71<a class="nohover" rel="nofollow">台湾</a>(+886)　
+	81<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>(+852)　
+	82<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>(+853)　
+	91：国外入籍身份证号[]()
 	
 	 *大萌为您提供SQLite格式的中国[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
 
@@ -557,13 +565,14 @@
 *	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
 *	[《人民政协报》](http://dzb.rmzxb.com)
 
-*	各省政协（按政区码排序，不含台港澳）
+*	各省政协（按 行政区划代码/身份证号 顺序）
 
 　<a href="http://www.bjzx.gov.cn" target="_blank">北京政协</a>
 　<a href="http://www.tjszx.gov.cn/" target="_blank">天津</a>
 　<a href="http://www.hebzx.gov.cn/" target="_blank">河北</a>
 　<a href="http://www.shanxizx.gov.cn/" target="_blank">山西</a>
 　<a href="http://www.nmgzx.gov.cn/" target="_blank">内蒙古</a>
+<br>
 　<a href="http://www.lnzx.gov.cn/" target="_blank">辽宁政协</a>
 　<a href="http://www.jlzx.gov.cn/" target="_blank">吉林</a>
 　<a href="http://www.hljzx.gov.cn/" target="_blank">黑龙江政协</a>
@@ -713,7 +722,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210707	v0.7.1
+	20210803	v0.7.2
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
