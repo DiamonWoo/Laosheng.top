@@ -2,7 +2,7 @@
 
 有关部门服务电话大全
 ==========================
-大萌 © 202101-07（成功封顶…）
+大萌 © 202101-08（成功封顶…）
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -54,42 +54,42 @@
 
 * 各省人大网站（按身份证号码排序，不含港澳台）
 
-　11<a href="http://www.bjrd.gov.cn/" target="_blank">北京人大</a>
-　12<a href="http://www.tjrd.gov.cn/" target="_blank">天津</a>
-　13<a href="http://www.hbrd.net/" target="_blank">河北</a>
-　14<a href="http://www.sxpc.gov.cn/" target="_blank">山西</a>
-　15<a href="http://www.nmgrd.gov.cn/" target="_blank">内蒙古</a>　
+　11<a href="http://www.bjrd.gov.cn/">北京人大</a>
+　12<a href="http://www.tjrd.gov.cn/">天津</a>
+　13<a href="http://www.hbrd.net/">河北</a>
+　14<a href="http://www.sxpc.gov.cn/">山西</a>
+　15<a href="http://www.nmgrd.gov.cn/">内蒙古</a>　
 <br>
-　21<a href="http://www.lnrd.gov.cn/" target="_blank">辽宁人大</a>
-　22<a href="http://www.jlrd.gov.cn/" target="_blank">吉林人大</a>
-　23<a href="http://www.hljrd.gov.cn/" target="_blank">黑龙江人大</a>
+　21<a href="http://www.lnrd.gov.cn/">辽宁人大</a>
+　22<a href="http://www.jlrd.gov.cn/">吉林人大</a>
+　23<a href="http://www.hljrd.gov.cn/">黑龙江人大</a>
 <br>
-　31<a href="http://www.spcsc.sh.cn/" target="_blank">上海人大</a>
-　32<a href="http://www.jsrd.gov.cn/" target="_blank">江苏人大</a>
-　33<a href="http://www.zjrd.gov.cn/" target="_blank">浙江人大</a>
-　34<a href="http://www.ahrd.gov.cn/" target="_blank">安徽人大</a>
-　35<a href="http://www.fjrd.gov.cn/" target="_blank">福建人大</a>
-　36<a href="http://www.fjrd.gov.cn/" target="_blank">江西人大</a>
-　37<a href="http://www.sdrd.gov.cn/" target="_blank">山东人大</a>
+　31<a href="http://www.spcsc.sh.cn/">上海人大</a>
+　32<a href="http://www.jsrd.gov.cn/">江苏人大</a>
+　33<a href="http://www.zjrd.gov.cn/">浙江人大</a>
+　34<a href="http://www.ahrd.gov.cn/">安徽人大</a>
+　35<a href="http://www.fjrd.gov.cn/">福建人大</a>
+　36<a href="http://www.fjrd.gov.cn/">江西人大</a>
+　37<a href="http://www.sdrd.gov.cn/">山东人大</a>
 <br>
-　41<a href="http://www.henanrd.gov.cn/" target="_blank">河南人大</a>
-　42<a href="http://www.hppc.gov.cn/" target="_blank">湖北人大</a>
-　43<a href="http://www.hnrd.gov.cn/" target="_blank">湖南人大</a>
-　44<a href="http://www.rd.gd.cn/" target="_blank">广东人大</a>
-　45<a href="http://www.gxrd.gov.cn/" target="_blank">广西人大</a>
-　46<a href="http://www.hainanpc.net/" target="_blank">海南人大</a>
+　41<a href="http://www.henanrd.gov.cn/">河南人大</a>
+　42<a href="http://www.hppc.gov.cn/">湖北人大</a>
+　43<a href="http://www.hnrd.gov.cn/">湖南人大</a>
+　44<a href="http://www.rd.gd.cn/">广东人大</a>
+　45<a href="http://www.gxrd.gov.cn/">广西人大</a>
+　46<a href="http://www.hainanpc.net/">海南人大</a>
 <br>
-　50<a href="http://www.ccpc.cq.cn/" target="_blank">重庆人大</a>
-　51<a href="http://www.scspc.gov.cn/" target="_blank">四川人大</a>
-　52<a href="http://www.gzrd.gov.cn/" target="_blank">贵州人大</a>
-　53<a href="http://www.ynrd.gov.cn/" target="_blank">云南人大</a>
-　54<a href="http://www.xizangrd.gov.cn/" target="_blank">西藏人大</a>
+　50<a href="http://www.ccpc.cq.cn/">重庆人大</a>
+　51<a href="http://www.scspc.gov.cn/">四川人大</a>
+　52<a href="http://www.gzrd.gov.cn/">贵州人大</a>
+　53<a href="http://www.ynrd.gov.cn/">云南人大</a>
+　54<a href="http://www.xizangrd.gov.cn/">西藏人大</a>
 <br>
-　61<a href="http://www.sxrd.gov.cn/" target="_blank">陕西人大</a>
-　62<a href="http://www.gsrdw.gov.cn/" target="_blank">甘肃人大</a>
-　63<a href="http://www.qhrd.gov.cn/" target="_blank">青海人大</a>
-　64<a href="http://www.nxrd.gov.cn/" target="_blank">宁夏人大</a>
-　65<a href="http://www.xjpcsc.gov.cn/" target="_blank">新疆人大</a>
+　61<a href="http://www.sxrd.gov.cn/">陕西人大</a>
+　62<a href="http://www.gsrdw.gov.cn/">甘肃人大</a>
+　63<a href="http://www.qhrd.gov.cn/">青海人大</a>
+　64<a href="http://www.nxrd.gov.cn/">宁夏人大</a>
+　65<a href="http://www.xjpcsc.gov.cn/">新疆人大</a>
 <br>
 　71台湾　 81香港　 82澳门　 91：国外入籍身份证号
 
@@ -135,47 +135,47 @@
 
 * 各省级政府网站(按身份证号顺序，括号内是省的电话区号)：
 <br>　
-	<a href="http://www.beijing.gov.cn/" rel="nofollow" target="_blank">北京</a>(010)　
-	<a href="http://www.tj.gov.cn/" target="_blank">天津</a>(022)　
-	<a href="http://www.hebei.gov.cn/" target="_blank">河北</a>(0311 石家庄)　
-	<a href="http://www.shanxi.gov.cn/" target="_blank">山西</a>(0351 太原)　
-	<a href="http://www.nmg.gov.cn/" target="_blank">内蒙古</a>(0471 呼和浩特)　
+	<a href="http://www.beijing.gov.cn/" rel="nofollow">北京</a>(010)　
+	<a href="http://www.tj.gov.cn/">天津</a>(022)　
+	<a href="http://www.hebei.gov.cn/">河北</a>(0311 石家庄)　
+	<a href="http://www.shanxi.gov.cn/">山西</a>(0351 太原)　
+	<a href="http://www.nmg.gov.cn/">内蒙古</a>(0471 呼和浩特)　
 <br>　
-	<a href="http://www.ln.gov.cn" target="_blank">辽宁</a>(024 沈阳)　
-	<a href="http://www.jl.gov.cn" target="_blank">吉林</a>(0431 长春)　
-	<a href="http://www.hlj.gov.cn" target="_blank">黑龙江</a>(0451 哈尔滨)　
+	<a href="http://www.ln.gov.cn">辽宁</a>(024 沈阳)　　　　
+	<a href="http://www.jl.gov.cn">吉林</a>(0431 长春)　
+	<a href="http://www.hlj.gov.cn">黑龙江</a>(0451 哈尔滨)　
 <br>　
-	<a href="http://www.shanghai.gov.cn/" target="_blank">上海</a>(020)　
-	<a href="http://www.jiangsu.gov.cn/" target="_blank">江苏</a>(025 南京)　
-	<a href="http://www.zj.gov.cn/" target="_blank">浙江</a>(0571 杭州)　
-	<a href="http://www.ah.gov.cn/" target="_blank">安徽</a>(0551 合肥)　
-	<a href="http://www.fujian.gov.cn" target="_blank">福建</a>(0591 福州)　
-	<a href="http://www.jiangxi.gov.cn" target="_blank">江西</a>(0791 南昌)　
-	<a href="http://www.shandong.gov.cn/" target="_blank">山东</a>(0531 济南)　
+	<a href="http://www.shanghai.gov.cn/">上海</a>(020)　
+	<a href="http://www.jiangsu.gov.cn/">江苏</a>(025 南京)　
+	<a href="http://www.zj.gov.cn/">浙江</a>(0571 杭州)　
+	<a href="http://www.ah.gov.cn/">安徽</a>(0551 合肥)　
+	<a href="http://www.fujian.gov.cn">福建</a>(0591 福州)　
+	<a href="http://www.jiangxi.gov.cn">江西</a>(0791 南昌)　
+	<a href="http://www.shandong.gov.cn/">山东</a>(0531 济南)　
 <br>　
-	<a href="http://www.henan.gov.cn/" target="_blank">河南</a>(0731 郑州)　
-	<a href="http://www.hubei.gov.cn/" target="_blank">湖北</a>(027 武汉)　
-	<a href="http://www.hunan.gov.cn/" target="_blank">湖南</a>(0731 长沙)　
-	<a href="http://www.gd.gov.cn/" target="_blank">广东</a>(020 广州)　
-	<a href="http://www.gxzf.gov.cn/" target="_blank">广西</a>(0771 南宁)　
-	<a href="http://www.hainan.gov.cn/" target="_blank">海南</a>(0898 海口)　
+	<a href="http://www.henan.gov.cn/">河南</a>(0731 郑州)　
+	<a href="http://www.hubei.gov.cn/">湖北</a>(027 武汉)　
+	<a href="http://www.hunan.gov.cn/">湖南</a>(0731 长沙)　
+	<a href="http://www.gd.gov.cn/">广东</a>(020 广州)　
+	<a href="http://www.gxzf.gov.cn/">广西</a>(0771 南宁)　
+	<a href="http://www.hainan.gov.cn/">海南</a>(0898 海口)　
 <br>　
-	<a href="http://www.cq.gov.cn/" target="_blank">重庆</a>(023)　
-	<a href="http://www.sc.gov.cn" target="_blank">四川</a>(028 成都)　
-	<a href="http://www.guizhou.gov.cn/" target="_blank">贵州</a>(0851 贵阳)　
-	<a href="http://www.yn.gov.cn/" target="_blank">云南</a>(0871 昆明)　
-	<a href="http://www.xizang.gov.cn/" target="_blank">西藏</a>(0891 拉萨)　
+	<a href="http://www.cq.gov.cn/">重庆</a>(023)　
+	<a href="http://www.sc.gov.cn">四川</a>(028 成都)　　　　
+	<a href="http://www.guizhou.gov.cn/">贵州</a>(0851 贵阳)　
+	<a href="http://www.yn.gov.cn/">云南</a>(0871 昆明)　
+	<a href="http://www.xizang.gov.cn/">西藏</a>(0891 拉萨)　
 <br>　
-	<a href="http://www.shaanxi.gov.cn/" target="_blank">陕西</a>(029 西安)　
-	<a href="http://www.gansu.gov.cn/" target="_blank">甘肃</a>(0931 兰州)　
-	<a href="http://www.qh.gov.cn/" target="_blank">青海</a>(0971 西宁)　
-	<a href="http://www.nx.gov.cn/" target="_blank">宁夏</a>(0951 银川)　
-	<a href="http://www.xinjiang.gov.cn/" target="_blank">新疆</a>(0991 乌鲁木齐)
-	<a href="http://www.xjbt.gov.cn/" target="_blank">新疆生产建设兵团</a>
+	<a href="http://www.shaanxi.gov.cn/">陕西</a>(029 西安)　
+	<a href="http://www.gansu.gov.cn/">甘肃</a>(0931 兰州)　
+	<a href="http://www.qh.gov.cn/">青海</a>(0971 西宁)　
+	<a href="http://www.nx.gov.cn/">宁夏</a>(0951 银川)　
+	<a href="http://www.xinjiang.gov.cn/">新疆</a>(0991 乌鲁木齐)
+	<a href="http://www.xjbt.gov.cn/">新疆生产建设兵团</a>
 <br>　
 	<a class="nohover" rel="nofollow">台湾</a>(+886)　
-	<a href="http://www.gov.hk/" rel="nofollow" target="_blank">香港</a>(+852)　
-	<a href="http://www.gov.mo/" rel="nofollow" target="_blank">澳门</a>(+853)　
+	<a href="http://www.gov.hk/" rel="nofollow">香港</a>(+852)　
+	<a href="http://www.gov.mo/" rel="nofollow">澳门</a>(+853)　
 
 　　*大萌为您提供SQLite格式的中国[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
 
@@ -565,42 +565,42 @@
 
 *	各省政协（按 行政区划代码/身份证号 顺序）
 
-　<a href="http://www.bjzx.gov.cn" target="_blank">北京政协</a>
-　<a href="http://www.tjszx.gov.cn/" target="_blank">天津</a>
-　<a href="http://www.hebzx.gov.cn/" target="_blank">河北</a>
-　<a href="http://www.shanxizx.gov.cn/" target="_blank">山西</a>
-　<a href="http://www.nmgzx.gov.cn/" target="_blank">内蒙古</a>
+　<a href="http://www.bjzx.gov.cn">北京政协</a>
+　<a href="http://www.tjszx.gov.cn/">天津</a>
+　<a href="http://www.hebzx.gov.cn/">河北</a>
+　<a href="http://www.shanxizx.gov.cn/">山西</a>
+　<a href="http://www.nmgzx.gov.cn/">内蒙古</a>
 <br>
-　<a href="http://www.lnzx.gov.cn/" target="_blank">辽宁政协</a>
-　<a href="http://www.jlzx.gov.cn/" target="_blank">吉林</a>
-　<a href="http://www.hljzx.gov.cn/" target="_blank">黑龙江政协</a>
+　<a href="http://www.lnzx.gov.cn/">辽宁政协</a>
+　<a href="http://www.jlzx.gov.cn/">吉林</a>
+　<a href="http://www.hljzx.gov.cn/">黑龙江政协</a>
 <br>
-　<a href="http://shszx.eastday.com/" target="_blank">上海政协</a>
-　<a href="http://www.jszx.gov.cn/" target="_blank">江苏</a>
-　<a href="http://www.zjzx.gov.cn/" target="_blank">浙江</a>
-　<a href="http://www.ahzx.gov.cn" target="_blank">安徽</a>
-　<a href="http://www.fjzx.gov.cn/" target="_blank">福建</a>
-　<a href="http://jxzx.jxnews.com.cn/" target="_blank">江西</a>
-　<a href="http://www.sdzx.gov.cn/" target="_blank">山东政协</a>
+　<a href="http://shszx.eastday.com/">上海政协</a>
+　<a href="http://www.jszx.gov.cn/">江苏</a>
+　<a href="http://www.zjzx.gov.cn/">浙江</a>
+　<a href="http://www.ahzx.gov.cn">安徽</a>
+　<a href="http://www.fjzx.gov.cn/">福建</a>
+　<a href="http://jxzx.jxnews.com.cn/">江西</a>
+　<a href="http://www.sdzx.gov.cn/">山东政协</a>
 <br>
-　<a href="http://www.hnzx.gov.cn/" target="_blank">河南政协</a>
-　<a href="http://www.hbzx.gov.cn/" target="_blank">湖北</a>
-　<a href="http://www.hunanzx.gov.cn/" target="_blank">湖南</a>
-　<a href="http://www.gdzxb.gov.cn/" target="_blank">广东</a>
-　<a href="http://www.gxzx.gov.cn/" target="_blank">广西</a>
-　<a href="http://www.hainanzx.gov.cn/" target="_blank">海南政协</a>
+　<a href="http://www.hnzx.gov.cn/">河南政协</a>
+　<a href="http://www.hbzx.gov.cn/">湖北</a>
+　<a href="http://www.hunanzx.gov.cn/">湖南</a>
+　<a href="http://www.gdzxb.gov.cn/">广东</a>
+　<a href="http://www.gxzx.gov.cn/">广西</a>
+　<a href="http://www.hainanzx.gov.cn/">海南政协</a>
 <br>
-　<a href="http://www.cqzx.gov.cn/" target="_blank">重庆政协</a>
-　<a href="http://www.sczx.gov.cn/" target="_blank">四川</a>
-　<a href="http://www.gzszx.gov.cn/" target="_blank">贵州</a>
-　<a href="http://www.ynzx.gov.cn/" target="_blank">云南</a>
-　<a href="http://www.xizangzx.gov.cn/" target="_blank">西藏政协</a>
+　<a href="http://www.cqzx.gov.cn/">重庆政协</a>
+　<a href="http://www.sczx.gov.cn/">四川</a>
+　<a href="http://www.gzszx.gov.cn/">贵州</a>
+　<a href="http://www.ynzx.gov.cn/">云南</a>
+　<a href="http://www.xizangzx.gov.cn/">西藏政协</a>
 <br>
-　<a href="http://www.sxzx.gov.cn/" target="_blank">陕西政协</a>
-　<a href="http://www.gszx.gov.cn/w/Default.htm" target="_blank">甘肃</a>
-　<a href="http://www.qhszx.gov.cn/" target="_blank">青海</a>
-　<a href="http://www.nxzx.gov.cn/" target="_blank">宁夏</a>
-　<a href="http://www.xjzx.gov.cn/" target="_blank">新疆政协</a>
+　<a href="http://www.sxzx.gov.cn/">陕西政协</a>
+　<a href="http://www.gszx.gov.cn/w/Default.htm">甘肃</a>
+　<a href="http://www.qhszx.gov.cn/">青海</a>
+　<a href="http://www.nxzx.gov.cn/">宁夏</a>
+　<a href="http://www.xjzx.gov.cn/">新疆政协</a>
 
 
 5.1 政协八个民主党派
@@ -720,7 +720,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210803	v0.7.2
+	20210803	v0.8.1
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
