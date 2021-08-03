@@ -36,8 +36,6 @@
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->[]()
 
-*建议在新窗口打开本页面的网址（右键或按Ctrl键点击鼠标）*
-
 ----------------------------------------------------------------
 
 全国人民代表大会
@@ -133,15 +131,15 @@
 	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/)平台  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行	
 	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 
-* 各省级政府网站(按身份证号顺序，括号内是省的电话区号)：
+* 各省级政府网站(按身份证号顺序，后面数字是电话区号及省会城市)：
 <br>　
 	<a href="http://www.beijing.gov.cn/" rel="nofollow">北京</a>(010)　
-	<a href="http://www.tj.gov.cn/">天津</a>(022)　
+	<a href="http://www.tj.gov.cn/">天津</a>(022)　　　
 	<a href="http://www.hebei.gov.cn/">河北</a>(0311 石家庄)　
 	<a href="http://www.shanxi.gov.cn/">山西</a>(0351 太原)　
 	<a href="http://www.nmg.gov.cn/">内蒙古</a>(0471 呼和浩特)　
 <br>　
-	<a href="http://www.ln.gov.cn">辽宁</a>(024 沈阳)　　　　
+	<a href="http://www.ln.gov.cn">辽宁</a>(024 沈阳)　　　　　　
 	<a href="http://www.jl.gov.cn">吉林</a>(0431 长春)　
 	<a href="http://www.hlj.gov.cn">黑龙江</a>(0451 哈尔滨)　
 <br>　
@@ -156,7 +154,7 @@
 	<a href="http://www.henan.gov.cn/">河南</a>(0731 郑州)　
 	<a href="http://www.hubei.gov.cn/">湖北</a>(027 武汉)　
 	<a href="http://www.hunan.gov.cn/">湖南</a>(0731 长沙)　
-	<a href="http://www.gd.gov.cn/">广东</a>(020 广州)　
+	<a href="http://www.gd.gov.cn/">广东</a>(020 广州)　　
 	<a href="http://www.gxzf.gov.cn/">广西</a>(0771 南宁)　
 	<a href="http://www.hainan.gov.cn/">海南</a>(0898 海口)　
 <br>　
@@ -173,9 +171,9 @@
 	<a href="http://www.xinjiang.gov.cn/">新疆</a>(0991 乌鲁木齐)
 	<a href="http://www.xjbt.gov.cn/">新疆生产建设兵团</a>
 <br>　
-	<a class="nohover" rel="nofollow">台湾</a>(+886)　
-	<a href="http://www.gov.hk/" rel="nofollow">香港</a>(+852)　
-	<a href="http://www.gov.mo/" rel="nofollow">澳门</a>(+853)　
+	(+886)<a class="nohover" rel="nofollow">台湾</a>　　　
+	(+852)<a href="http://www.gov.hk/" rel="nofollow">香港</a>　
+	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>　
 
 　　*大萌为您提供SQLite格式的中国[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
 
