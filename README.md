@@ -3,7 +3,7 @@
 
 	老生常谈，节约我的搜索时间 ⚡
 
-[欢迎欢迎](author/speech.txt "初心与历程")🙂  
+[欢迎欢迎](author/speech.txt "初心与历程"){:target="_self"}🙂  
 https://laosheng.top/	<base target="_blank">
 
 + ☁ [老生常谈云媒体](fly "权威资讯，正在汇集")，用浏览器观看全国333个地级城市的报纸📰和电视频道📺。浮云游子意，落日故乡情。
