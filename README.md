@@ -6,10 +6,10 @@
 [欢迎欢迎](author/speech.txt "初心与历程"){:target="_self"}🙂  
 https://laosheng.top/	<base target="_blank">
 
-+ ☁ [老生常谈云媒体](fly "权威资讯，正在汇集")，用浏览器观看全国333个地级城市的报纸📰和电视频道📺。浮云游子意，落日故乡情。
++ ☁ 浮云游子意，落日故乡情。[老生常谈云媒体](fly "权威资讯，正在汇集")，用浏览器观看全国333个地级城市的报纸📰和电视频道📺。
   + 一带一路云媒体 🚅🚃☁🚃☁[……](fly/yidaiyilu.html)
 
-+ ☎ 一二三四五，有事找政府。[有关部门服务电话大全](fuwu "找到有关部门")📞（新上线） 
++ ☎ [有关部门服务电话大全](fuwu "找到有关部门")（新上线）一二三四五，有事找政府。📞
   + 全国2844个县/区/旗，SQLite格式的中国[《千县地名数据库》](fuwu/dimingku)
 
 + ☸️[大萌望海楼](falv "法治中国进行时")，找法不用愁。帮助初学者在茫茫法海找到有用的法律法规，用法律解决问题。💎
@@ -58,6 +58,7 @@ https://Laosheng.top/
 ![感谢Github支持本站](github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
+	老生常谈 © 大萌	202108	v2.3
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
