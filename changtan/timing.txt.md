@@ -60,6 +60,8 @@
 　<a href="http://press.nppa.gov.cn/reporter/channels/247.shtml" title="中国记者网">媒体与记者证查询</a>
 
 *	台风实时路径	<http://typhoon.zjwater.gov.cn/default.aspx>	浙江省水利厅
+*	长途区号查询	<https://www.123cha.com/postal/>	
+*	查号吧   	<https://www.chahaoba.com/Chahaoba:关于>
 
 
 3、浏览之器
