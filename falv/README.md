@@ -58,8 +58,9 @@
 	  - [法律文库查询](https://www.chinacourt.org/law.shtml) 栏目，包括地方法规。
 	  - 搜索页　	 *搜索功能较弱，很难搜索法律的最新版本*
 	- 中国政府法制信息网　	 国务院辖【司法部】主办，简称‘**政法库**’
+	  - [行政法规库](http://xzfg.moj.gov.cn/search2.html) 新上线
 	  - [~~数据库检索~~](http://search.chinalaw.gov.cn/search2.html)子网站。*检索功能并不强，全文分页显示，有水印。*
-	  - ~~[法律法规规章](https://www.moj.gov.cn/Department/node_592.html)~~ 栏目，内容很全，网页搜索功能可用。*建议按相关程度排序*	  原网址已停止服务
+	  - ~~[法律法规规章](https://www.moj.gov.cn/Department/node_592.html)~~ 栏目，内容很全，网页搜索功能可用。*已停止服务！*
 
 * 免费提供部分法律法规的网站：
 
