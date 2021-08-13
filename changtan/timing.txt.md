@@ -135,6 +135,7 @@
 
 *	维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App
+*	可可诗词 	<https://www.kekeshici.com>
 
 
 8、财务自求
@@ -144,7 +145,7 @@
 	 - 第一财经电视 <https://www.yicai.com/tv> 东方财经-浦东 
 *	财经网 <https://www.caijing.com.cn>	北京《财经》杂志网站
 *	财新网 <https://m.caixin.com/m/ >	原创财经新媒体/很多文章收费
-
+*	<a href="https://zhihe.com/main/information/1" title="法律新媒体">智合</a>
 *	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体
 *	<a href="https://www.gelonghui.com/live" title="深圳格隆汇快讯">格隆汇</a>
 
