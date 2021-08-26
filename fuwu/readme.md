@@ -1,12 +1,12 @@
 老生常谈<base target="_blank">
 
-有关部门服务电话大全
-==========================
-大萌 © 202101-08（成功封顶…）
+有关部门服务大全
+==================
+大萌 © 2021	0827
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
-　　本网页依据有关文件，汇编了党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_self"}的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰、直属高校🙋……本页有关部门顺序：1 人大，2 两高，3 国务院(部委/局署/事业)，4 党中央，5 人民政协，6 社会团体，7 大型国企。
+　　本网页依据有关文件，汇编了党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_self"}的：官方网站🌏、服务电话📞与网络服务平台、主管报纸📰、直属高校🙋……本页有关部门顺序：1 人大，2 两高，3 国务院 (部委/局署/事业)，4 党中央，5 人民政协，6 社会团体，7 大型国企。
 
 　　地方人民政府与国务院的机构设置基本对应，但并不完全一致，请以各地政府网站为准。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些非面对面接触的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 
@@ -200,8 +200,8 @@
 	- 🌩️[CCTV-7](https://tv.cctv.com/live/cctv7/)央视国防军事频道、[中国军视网](http://www.js7tv.cn)
 * 国家发展和改革委员会	　 [NDRC.gov.cn](https://www.ndrc.gov.cn ) 发改委
 	- [《中国改革报》](http://www.cfgw.net.cn/epaper)、[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
-	- 国家信息中心[]()	　 [一带一路](http://www.zgydyl.org)官网
-	- 国家公用信息中心[]()	　 信用中国网[信用服务](https://www.creditchina.gov.cn/xinyongfuwu/)
+	- 国家信息中心[]()	　 [中国经济信息网](https://www.cei.cn)（中经网）、[一带一路网](http://www.zgydyl.org)
+	- 国家公用信息中心[]()	　 [信用中国网](https://www.creditchina.gov.cn/xinyongfuwu/)（与人民银行共同指导）
 	- [国家能源局](http://www.nea.gov.cn)	　 [《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
 	  - ☎️ 12398 [电力监管投诉举报](http://www.nea.gov.cn/n_home/n_gzfw/rx12398)热线电话：乱收电费/偷电/违反《电力监管条例》
 	- 国家粮食和物资储备局
@@ -246,7 +246,7 @@
 	- *除举报网站和电话，不提供公开网站*
 
 * 民政部	　 [MCA.gov.cn](http://www.mca.gov.cn ) 
-	- 全国行政区划信息[查询平台] xzqh.mca.gov.cn/map 系统维护中、[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)、[省市统计](http://xzqh.mca.gov.cn/statistics/) 全国34个省级区划（含港澳台）、国家地名信息库[中国地名大会](https://dmfw.mca.gov.cn/meeting.html )
+	- 全国行政区划信息~~[查询平台](http://xzqh.mca.gov.cn/map)~~ [官宣](http://lyzx.mca.gov.cn:8280/consult/showQuestion.jsp?MZ=2526129621)维护中、[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)、[省市统计](http://xzqh.mca.gov.cn/statistics/) 全国34个省级区划（含港澳台）、国家地名信息库[中国地名大会](https://dmfw.mca.gov.cn/meeting.html )
 	- 社会组织管理局 [中国社会组织公共服务平台](http://www.chinanpo.gov.cn )
 	- 社会救助司 📠 [各地社会救助服务热线](http://hotline.treeyee.com )
 	- 慈善事业促进和社会工作司
@@ -332,13 +332,14 @@
 	- [国家矿山安全监察局](https://www.chinacoal-safety.gov.cn/)	　 [《中国煤炭报》](http://paper.ccoalnews.com)
 	- 消防救援局	　 [119.Gov.cn](https://www.119.gov.cn/)	　 [《中国消防》](http://www.china-fire.com/photo/list-zgxf.html)杂志
 	  - 🚨 119 火警电话	　 被困救援、摘马蜂窝 🚒 全国17个消防救援总队，4个消防研究所（津沪沈川）
+	  - [消防员招录](http://xfyzl.119.gov.cn/)
 	  - [社会消防技术服务](https://shhxf.119.gov.cn)信息系统，注册消防工程师考试。	　 
 	- [中国应急信息网](https://www.emerinfo.cn)灾情快报、救援现场 / 全球灾害数据平台	　 
 	*国家应急广播 请参见 3.5段落 广电总台部分*
 	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- ＋【国家外汇管理局】[]()
-	- [信用中国](https://www.creditchina.gov.cn )💳
+	- [信用中国网](https://www.creditchina.gov.cn )💳 （与发改委共同指导）
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
 	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
 	- 审计专业技术资格考试
@@ -367,7 +368,7 @@
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
 	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
 	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
-	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心 %要求登录
+	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心
 	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】、 &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
 	- [国家标准全文公开系统](http://openstd.samr.gov.cn/bzgk/gb/) 强制性国标超两千项，推荐性GB三万多项； 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
 	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
@@ -491,6 +492,7 @@
 * 中共中央组织部	　 [共产党员网](http://www.12371.cn) 12371组工网站
 	- [中组部](http://news.12371.cn/dzybmbdj/zzb/)介绍 / 12371[网址导航](http://fuwu.12371.cn/daohang/)
 	- [组工文件](http://www.12371.cn/special/zgwjk/)：党章党规/宪法法律/文件汇编……
+	- 《习近平谈治国理政》三卷本 外文出版社
 	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
 	- 全国党委网站/党建网站，
 	  - 地图版： 全国[党网联盟](http://dwlm.12371.cn/)	 　*版式直观，但内容陈旧*
@@ -719,7 +721,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	20210803	v0.8.1
+	v0.8.2
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
