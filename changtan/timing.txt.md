@@ -118,6 +118,9 @@
  $<a href="http://jyb.ncrbw.cn" title="南昌日报社旗下">报纸</a>📰
 +	<a href="./changtan/6-权威的医疗保健类报纸.txt" title="权威的医疗健康类报纸">权威保健资讯</a>
 
+*	<a href="https://house086.com" title="只有病友最懂你">淋巴瘤之家</a>
+*	<a href="https://www.mijian360.com/help" title="病友互助社交">觅健</a>
+
 
 7、科研学习
 ------------
