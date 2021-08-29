@@ -190,7 +190,7 @@
 9、读者调查
 ------------
 
-　　对老生常谈<大萌望海楼>[发表意见](https://xoyondo.com/mb/JyVSHzf5y4nuVRi )。
+　　对老生常谈“大萌望海楼” [发表意见](https://xoyondo.com/mb/JyVSHzf5y4nuVRi )。
 
 　　本页面内容正在创作，可以在[小笔记](/broad/blog.txt "建站小笔记")看看网站有什么变化。  
 
