@@ -59,7 +59,7 @@ https://Laosheng.top/
 ![感谢Github支持本站](github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
-	老生常谈 © 大萌	202108	v2.4
+	老生常谈 © 大萌	2019 ~ 2021
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
