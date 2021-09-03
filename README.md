@@ -58,8 +58,8 @@ https://Laosheng.top/
 ![谋智开发者网络](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
 ![感谢Github支持本站](github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
-	CC-BY-NC-ND-4.0 知识共享 署名-非演绎 4.0
 	老生常谈 © 大萌	2019 ~ 2021
+	CC-BY-NC-ND-4.0 可转载-原署名-非演绎
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
