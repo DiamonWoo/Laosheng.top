@@ -103,7 +103,7 @@
 2020-刑法
 -----------
 
-　　公布网址：中国人大网 [国法库](http://flk.npc.gov.cn/ )  
+　　公布网址：中国人大网 [国法库](https://flk.npc.gov.cn/detail2.html?ZmY4MDgxODE3OTZhNjM2YTAxNzk4MjJhMTk2NDBjOTI%3D )  
 　　对照网址：最高检 [检察法律法规库](https://www.spp.gov.cn/spp/fl/index.shtml )  
 　　最初版本：19790701
 　　最近版本：20201226 　　变更次数：13
