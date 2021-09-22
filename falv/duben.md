@@ -2,7 +2,7 @@
 
 大萌法律读本
 ===================
-大萌 © 2021（制作中）<base target="_blank">
+大萌 © 2021 0922 	<base target="_blank">
 
 　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见[大萌望海楼](./)介绍。  
 　　目前收录法律 8 件：《立法法》、《监察法》、《行政处罚法》、行诉法、刑诉法、《刑法》、民诉法、《民法典》。
@@ -24,7 +24,7 @@
 	第六章　附则
 		第一百零五条 本法自2000年7月1日起施行。
 
-+	md格式阅读：[2015-立法法](duben/2015-lifafa)
++	md格式阅读：[2015-立法法](duben/2015-lifafa.txt)
 +	epub格式下载[]()
 
 2018-监察法
@@ -49,6 +49,8 @@
 
 +	md格式阅读：[2018-监察法](duben/2018-jianchafa.txt)
 +	epub格式下载：[]() 
++	党内规则：[2020-纪检监察机关处理检举控告工作规则](https://www.ccdi.gov.cn/fgk/law_display/7085) 
++	延申法规：[2021-监察法实施条例](https://www.ccdi.gov.cn/toutiao/202109/t20210919_250954.html)
 
 2021-行政处罚法
 --------------
@@ -69,7 +71,7 @@
 	第八章　附则
 		第八十六条　本法自2021年7月15日起施行。
 
-+	md格式阅读：[2021-行政处罚法](duben/2021-xingzhengchufafa)
++	md格式阅读：[2021-行政处罚法](duben/2021-xingzhengchufafa.txt)
 +	epub格式下载：[]() 
 
 
@@ -94,7 +96,7 @@
 	第十章 附则
 		第一百零三条 本法自1990年10月1日起施行。
 
-+	md格式阅读：[2017-行政诉讼法](duben/2017-xingzhengsusongfa)
++	md格式阅读：[2017-行政诉讼法](duben/2017-xingzhengsusongfa.txt)
 +	epub格式下载：[]() 
 
 
@@ -131,7 +133,7 @@
 		附件二
 		8．关于惩治虚开、伪造和非法出售增值税专用发票犯罪的决定
 
-+	md格式阅读：[2020-刑法](duben/2020-xingfa)
++	md格式阅读：[2020-刑法](duben/2020-xingfa.txt)
 +	epub格式下载：[2020-刑法-epub](duben/2020-xingfa.epub) （66 KB）
 +	pdf格式下载：[2020-刑法-pdf](duben/2020-xingfa.pdf) （575 KB）
 
@@ -158,6 +160,8 @@
 
 +	md格式阅读：[2018-刑事诉讼法](duben/2018-xingshisusongfa.txt)
 +	epub格式下载：[2018-刑事诉讼法-epub](duben/2018-xingshisusongfa.epub) （41 KB）
++	部门规章：[2019-人民检察院刑事诉讼规则](https://www.spp.gov.cn/spp/xwfbh/wsfbh/201912/t20191230_451490.shtml)
++	部门规章：[2020-公安机关办理刑事案件程序规定](http://www.gov.cn/zhengce/zhengceku/2020-08/16/content_5535125.htm)
 
 
 2017-民事诉讼法
@@ -178,7 +182,7 @@
 		第二百八十四条 本法自公布之日起施行，《中华人民共和国民事诉讼法（试行）》同时废止。
 
 
-+	md格式阅读：[2017-民事诉讼法](duben/2017-minshisusongfa)
++	md格式阅读：[2017-民事诉讼法](duben/2017-minshisusongfa.txt)
 +	epub格式下载：[]() 
 
 
@@ -213,7 +217,7 @@
 
 
 ```
-	老生常谈 © 编者大萌 2021年7月~8月
+	老生常谈 © 编者大萌 2021年	v0.5.2
 	CC-BY-NC-ND-4.0 可转载-原署名-非演绎 4.0
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
