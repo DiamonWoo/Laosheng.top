@@ -1,8 +1,8 @@
 老生常谈<base target="_blank">
 
 有关部门服务大全
-==================
-大萌 © 2021	0829
+====================
+大萌 © 2021	0927
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -217,7 +217,7 @@
 	- 
 * 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/) 工信部
 	- ☎️ 12381 [公共服务](https://www.miit.gov.cn/gzcy/cydh/ )电话平台 *管电信的，号码资源丰富*
-	- ☎️ 12321 垃圾信息[举报受理中心](https://12321.cn)	　 投诉垃圾短信、诈骗电话、骚扰电话、不良App
+	- ☎️ 12321 垃圾信息[举报受理中心](https://12321.cn)	　 投诉垃圾短信、诈骗电话、[短信/电话轰炸](https://www.12321.cn/bomber)、不良App，可微信关注‘12321受理中心’。
 	- [《人民邮电》](http://paper.cnii.com.cn/)报社	　 [电信用户申诉](https://yhssglxt.miit.gov.cn/web)受理中心，话费错误/宽带限速/业务捆绑…投诉电信/移动/联通
 	- 📠 010-66411166 网站备案全国咨询电话🌏	　 IP地址/域名信息[备案管理系统](https://beian.miit.gov.cn/)
 	- &【[国家航天局](http://www.cnsa.gov.cn)】🚀、&【[国家原子能机构](http://www.caea.gov.cn)】、[国家国防科技工业局](http://www.sastind.gov.cn) 
@@ -271,6 +271,7 @@
 * 🌲 自然资源部	　 [MNR.gov.cn](http://www.mnr.gov.cn/)（&国家海洋局）
 	[《中国绿色时报》](http://www.greentimes.com/greentimepaper/paperindex.htm) 
 	- 国家林业和草原局（+国家公园管理局）林科院
+	  - 与农业农村部共同发布 2021年版《[国家重点保护野生动物名录](http://www.forestry.gov.cn/main/5461/20210205/122418860831352.html)》
 	- 国家基础地理信息中心 [NGCC](http://www.ngcc.cn/) 山川河流、遥感测绘、
 	[天地图](https://map.tianditu.gov.cn/)
 * 🐟 生态环境部	　 [MEE.gov.cn](http://www.mee.gov.cn/)
@@ -303,6 +304,7 @@
 	- 全国农业数据，[农产品价格指数](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)等
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行 <!-- [乡村振兴专栏](http://www.moa.gov.cn/ztzl/xczx/) -->
 	- 代管【国家乡村振兴局】[CPAD.gov.cn](http://www.cpad.gov.cn/)	　 [乡村振兴促进法](http://www.moa.gov.cn/gk/zcfg/fl/202105/t20210507_6367254.htm)自2021年6月1日起施行。
+	- 与 国家林业和草原局 共同发布 《国家重点保护野生动物名录》。
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )
 	- 
@@ -316,8 +318,7 @@
 	- 近三百种[主管报刊](http://www.nhc.gov.cn/wjw/zgbkqk/201612/93a6cd0ea6944c87867ce78821443ea3.shtml)，《中国医学科学》杂志、《抗癌之窗》、《医学参考报》等
 	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 3.3段 医保局*
 	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
-	- 疾病预防控制局　 [卫健委疾控局](http://www.nhc.gov.cn/jkj/) 
-	- 代管【国家疾病预防控制局】	　 [网址待确认]() 2021年5月挂牌
+	- [【国家疾病预防控制局】](http://www.nhc.gov.cn/jkj/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
 	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
 	- 🙋直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
 	- 国家中医药管理局	　 [SATCM](http://www.satcm.gov.cn/) ，[便民就医导航](http://www.satcm.gov.cn/banshifuwu/)
@@ -719,7 +720,7 @@
 
 　　由于编者的水平有限，页面中难免有错误和不足，恳请读者批评指正。
 
-　　对老生常谈“有关部门服务大全”[发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
+　　对老生常谈“有关部门服务大全” [发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
 
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
