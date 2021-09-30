@@ -306,7 +306,7 @@
 	- 代管【国家乡村振兴局】[CPAD.gov.cn](http://www.cpad.gov.cn/)	　 [乡村振兴促进法](http://www.moa.gov.cn/gk/zcfg/fl/202105/t20210507_6367254.htm)自2021年6月1日起施行。
 	- 与 国家林业和草原局 共同发布 《国家重点保护野生动物名录》。
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
-	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )
+	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )	　 涉外贸易
 	- 
 * 文化和旅游部	　 [MCT.gov.cn](http://www.mct.gov.cn/)
 	[《中国旅游报》](http://www.ctnews.com.cn/paper)
@@ -360,7 +360,7 @@
 	第十一条　国务院可以根据工作需要和精简的原则，设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人。
 
 * 🛃 中华人民共和国海关总署	　 [Customs.gov.cn](http://www.customs.gov.cn/) 进出口统计月报
-	- [互联网+海关](http://online.customs.gov.cn/) 卫生检疫、货物通关、加工贸易保税、知识产权……
+	- [互联网+海关](http://online.customs.gov.cn/) 动植物检疫、货物通关、舱单信息、行政审批、加工贸易保税……
 	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
@@ -375,7 +375,8 @@
 	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
 	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
 	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
-	  - 国家知识产权[公共服务网](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) 专利检索、商标查询、注册申请、地理标志……
+	  - [政务服务](https://www.cnipa.gov.cn/col/col1510/) 专利公告、商标查询、地理标志、集成电路……
+	  - [公共服务](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) %专利检索与分析、代理查询、文献服务……
 	- 国家市场监督管理总局[行政学院](http://www.sasamr.org.cn/) 深圳市
 * 🏆 国家体育总局	　 [Sport.gov.cn](http://www.sport.gov.cn/)⚽
 	- 🙋直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
