@@ -35,11 +35,13 @@
 *	非洲ECosia	<https://www.ecosia.org >	微软API
 *	韩国LookSmart	<https://looksmart.com >  	需要境外的人机验证
 
-<a href="https://mijisou.com" title="密迹搜索">密迹</a>
-<a href="https://Mengso.com" title="为小众而搜">萌搜</a>
+<a href="https://mijisou.com" title="密迹搜索">密迹</a>、
+<a href="https://Mengso.com" title="为小众而搜">萌搜</a>、
+<a href="https://dogedoge.com" title="多吉搜索 国产新星 202103停止服务">DogeDoge</a>
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
 *	盘搜搜   	<https://www.pansoso.com >
 *	盘搜     	<http://www.pansou.com >
+*	超能搜		<https://www.chaonengsou.com>
 
 
 2、云媒速览
