@@ -2,7 +2,7 @@
 
 有关部门服务大全
 ====================
-大萌 © 2021	1006
+大萌 © 2021	1009
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -475,8 +475,8 @@
 	- 设立在《人民网》的[中国共产党新闻网](http://cpc.people.com.cn)
 	- [中国政要](http://cpc.people.com.cn/GB/64162/394696) 中央政治局 中央书记处
 
-* 中央纪律检查委员会/【国家监察委员会】	　 [CCDI.gov.cn](http://www.ccdi.gov.cn) 中央纪委/国家监委
-	- ☎️ 12388 [网上举报](http://www.12388.gov.cn ) 反四风/违反八项规定
+* 中央纪律检查委员会/【国家监察委员会】	　 [CCDI.gov.cn](https://www.ccdi.gov.cn) 中央纪委/国家监委
+	- ☎️ 12388 [网上举报](https://www.12388.gov.cn ) 反四风/违反八项规定
 	- [党纪法规库](https://www.ccdi.gov.cn/fgk/index )
 	- [《中国纪检监察报》](http://www.jjjcb.cn ) 、[《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
 	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
