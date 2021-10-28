@@ -349,9 +349,10 @@
 	*国家应急广播 请参见 3.5段落 广电总台部分*
 	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
+	- [机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)：内设部门、上海总部、直属机构、分支机构。	　 拒收人民币/现金？依据[《中国人民银行公告〔2020〕第18号》](http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4153528/index.html)，请向就近的分支机构（全国36个分行/中心支行）电话举报。
 	- ＋【国家外汇管理局】[]()
 	- [信用中国网](https://www.creditchina.gov.cn )💳 （与发改委共同指导）
-	- [机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)：内设部门、上海总部、直属机构、分支机构。	　 拒收人民币/现金？依据[《中国人民银行公告〔2020〕第18号》](http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4153528/index.html)，请向就近的分支机构（全国36个分行/中心支行）电话举报。
+
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
 	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
 	- 审计专业技术资格考试
@@ -398,6 +399,7 @@
 	- 📠 010-61986755 [税收违法行为检举](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)，同时接受书信、传真等形式检举：涉嫌偷税，逃避追缴欠税，骗税，虚开、伪造、非法提供、非法取得发票。
 * 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
 	[《中国信息报》](http://www.zgxxb.com.cn/epaper)
+	- 📠 010-68512113 统计违法行为的举报，接受电子邮件和[网页举报](http://www.stats.gov.cn/tjfw/tsjb/)。	　 [统计督察情况](http://www.stats.gov.cn/ztjc/tjfzjs/tjdc/)
 * 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
 	- 📞 12393 [医疗保障服务平台](https://fuwu.nhsa.gov.cn/nationalHallSt/#/home) 双号并行 贵州省首家开通
 	- 📠 010-89061396，89061397 （工作时间）[打击欺诈骗保](http://www.nhsa.gov.cn/col/col73/)举报电话，网络举报通道请见【置顶】文章，微信平台已开通。
