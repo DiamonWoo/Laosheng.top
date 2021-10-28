@@ -2,7 +2,7 @@
 
 有关部门服务大全
 ====================
-大萌 © 2021	1009
+大萌 © 2021	1028
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -11,6 +11,8 @@
 　　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些非接触的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
+
+　　欢迎大家[补充信息和发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
 
 最新部门变动
 ------------
@@ -235,10 +237,11 @@
 	- 🙋直属高校（6所）：
 	　[中央民族大学](https://www.muc.edu.cn/xdyx.htm )（北京）、
 	　中南民族大学（武汉）、西南民族大学（成都）、西北民族大学（兰州）、北方民族大学（银川）、大连民族大学
-* 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )，[《人民公安报》](http://epaper.cpd.com.cn )
+* 🛂 公安部	　 [MPS.gov.cn](https://www.mps.gov.cn )%
 	- 🚨  110 公安报警电话，受理治安/刑事报警，紧急危难求助。
 	  - 95110 受理海上走私及刑事案件，参见 党中央>中央军委>中国海警局
 	  - 96110 全国反诈中心统一预警专号
+	- [《人民公安报》](http://epaper.cpd.com.cn ) 主办：[中国警察网](http://www.cpd.com.cn)
 	- 公安部[政务服务平台](https://zwfw.mps.gov.cn/) 户口与居住证、机动车驾驶证、养犬证、网络安全……
 	  - [网络违法举报](http://cyberpolice.mps.gov.cn/wfjb/)
 	- 🚓  122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
@@ -348,6 +351,7 @@
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- ＋【国家外汇管理局】[]()
 	- [信用中国网](https://www.creditchina.gov.cn )💳 （与发改委共同指导）
+	- [机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)：内设部门、上海总部、直属机构、分支机构。	　 拒收人民币/现金？依据[《中国人民银行公告〔2020〕第18号》](http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4153528/index.html)，请向就近的分支机构（全国36个分行/中心支行）电话举报。
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
 	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
 	- 审计专业技术资格考试
@@ -391,10 +395,12 @@
 * 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
 * 国家税务总局	　 [ChinaTax.gov.cn](http://www.chinatax.gov.cn/)
 	- 📞 12366 [全纳税服务平台](https://12366.chinatax.gov.cn/) 设分中心
+	- 📠 010-61986755 [税收违法行为检举](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)，同时接受书信、传真等形式检举：涉嫌偷税，逃避追缴欠税，骗税，虚开、伪造、非法提供、非法取得发票。
 * 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
 	[《中国信息报》](http://www.zgxxb.com.cn/epaper)
 * 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
 	- 📞 12393 [医疗保障服务平台](https://fuwu.nhsa.gov.cn/nationalHallSt/#/home) 双号并行 贵州省首家开通
+	- 📠 010-89061396，89061397 （工作时间）[打击欺诈骗保](http://www.nhsa.gov.cn/col/col73/)举报电话，网络举报通道请见【置顶】文章，微信平台已开通。
 * 国家机关事务管理局	　 [GGJ.gov.cn](http://www.ggj.gov.cn/)
 	- 中央机构采购网
 * 📡 国家广播电视总局	　 [NRTA.gov.cn](http://www.nrta.gov.cn/)
@@ -733,7 +739,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	v0.8.5
+	v0.8.6
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
