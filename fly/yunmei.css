@@ -16,6 +16,8 @@
 	td#dongbei 	{border-color: red;	border-width: 0 0 0 3px;}
 	td#zhong	{border-color: red;	border-width: 3px;}
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
+	table#tuli
+		{height: 10px; background-color: white;}
 /* 
 色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
 */
