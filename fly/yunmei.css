@@ -2,7 +2,7 @@
 	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk);
 		/* background: hsl(215, 90%, 95%);LightCyan 	WhiteSmoke; v2.0 #FAFAD2 ;#f2f9ff*/	
 /* v1.9.8 rgb(255,255,200)	Cornsilk #FFF8DC	#EEEECC 	LightYellow #FFFFE0	LightGoldenRodYellow #FAFAD2 */
-		margin-left:4%; line-height: 1.75; }
+		margin-left:2%; line-height: 1.75; }
 
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
 	h3	{margin-bottom: 0%}
