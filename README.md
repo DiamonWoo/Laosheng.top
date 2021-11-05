@@ -55,9 +55,10 @@ https://Laosheng.top/
 
 　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档渲染。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "帮助作者")报告问题，谢谢！
 
-![更安全的火狐浏览器](https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png)
-![谋智开发者网络](https://developer.mozilla.org/static/img/favicon72.cc65d1d762a0.png)
-![感谢Github支持本站](github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
+<!-- (https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png) -->
+![更安全的火狐浏览器](thanks4firefox-64.png)
+![谋智开发者网络](thanks-MDN-64.png)
+![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 	老生常谈 © 大萌	2019 ~ 2021
 	CC-BY-NC-ND-4.0 可转载-原署名-非演绎
