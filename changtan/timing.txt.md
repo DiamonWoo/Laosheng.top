@@ -79,6 +79,7 @@
 *	小红书%  	<https://www.xiaohongshu.com/explore>
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 *	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
+*	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
 
 
 4、电视节目单
