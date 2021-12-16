@@ -10,6 +10,13 @@
 	div.you	{text-align: right; }
 	div#top	{margin-bottom:-3%; }		/* div#tuli */
 
+	table.AZ{font-size: 0.75em; 
+		table-layout: fixed;}		/* fixed后td才能不换行 */
+	table.AZ td
+		{white-space:nowrap; 		/* word-break:keep-all;	不换行 */
+    		overflow:hidden;	text-overflow:ellipsis;	}
+    		/* 内容超出宽度时隐藏超出部分，并且显示省略标记... */
+
 	table.zhong
 		{width: 1000px; height: 270px;	/*1200px*/
 		background-color: white; }	/* border-color: orange;	whitesmoke*/
