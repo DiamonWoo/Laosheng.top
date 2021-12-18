@@ -35,9 +35,14 @@
 *	非洲ECosia	<https://www.ecosia.org >	微软API
 *	韩国LookSmart	<https://looksmart.com >  	需要境外的人机验证
 
+<a href="https://dogedoge.com" title="多吉搜索">DogeDoge</a>国产新星 202103停止服务、
+<a href="https://Magi.com" title="魔力搜索 AI结构化结果">Magi</a>%　202112升级后对Fx传统版本兼容性下降。
+
 <a href="https://mijisou.com" title="密迹搜索">密迹</a>、
 <a href="https://Mengso.com" title="为小众而搜">萌搜</a>、
-<a href="https://dogedoge.com" title="多吉搜索 国产新星 202103停止服务">DogeDoge</a>
+<a href="https://gobaidugle.com/search2?one=bing&two=sogou&keyword=谷歌镜像" 
+	title="双栏同搜，谷百度歌">双搜</a>。　	<!-- 百度似乎拒绝了 -->
+*	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，浏览器兼容性不佳
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
 *	盘搜搜   	<https://www.pansoso.com >
 *	盘搜     	<http://www.pansou.com >
