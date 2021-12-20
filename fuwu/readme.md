@@ -1,8 +1,8 @@
 老生常谈<base target="_blank">
 
 有关部门服务大全
-====================
-大萌 © 2021	1214
+===============
+大萌 © 2021
 
 	精兵简政“是一个极其重要的政策”——20180312 《学习时报》
 
@@ -132,7 +132,7 @@
 	- 全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/) / 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 / [部门服务](http://www.gov.cn/fuwu/bm)大厅
 	- [行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
-	  - [2019-政府信息公开条例](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)、[解读](http://china.qianlong.com/2019/0416/3221678.shtml)
+	  - 《[2019-政府信息公开条例](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)》，[解读](http://china.qianlong.com/2019/0416/3221678.shtml)
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
 * 国务院办公厅
 	- 📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
@@ -229,13 +229,14 @@
 * 科学技术部	　 [MoST.gov.cn](http://www.most.gov.cn/)　 [《科技日报》](http://digitalpaper.stdaily.com)	
 	- （&国家外国专家局）
 	- 
-* 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/) 工信部
-	- ☎️ 12381 [公共服务](https://www.miit.gov.cn/gzcy/cydh/ )电话平台 *管电信的，号码资源丰富*
+* 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/) 工信部	　 *管电信的，号码资源丰富*
+	- ☎️ 12381 [公共服务](https://www.miit.gov.cn/gzcy/cydh/ )政府信息公开
+	- [《人民邮电》](http://paper.cnii.com.cn/)报社
+	- 📞 ~~12300并入12345~~ [电信用户申诉](https://yhssglxt.miit.gov.cn/web)受理中心，话费错误/宽带限速/业务捆绑…投诉电信/移动/联通 *谁知道广电宽带质量问题向哪里反映？*
 	- ☎️ 12321 垃圾信息[举报受理中心](https://12321.cn)	　 投诉垃圾短信、诈骗电话、[短信/电话轰炸](https://www.12321.cn/bomber)、不良App，可微信关注‘12321受理中心’。
-	- [《人民邮电》](http://paper.cnii.com.cn/)报社	　 [电信用户申诉](https://yhssglxt.miit.gov.cn/web)受理中心，话费错误/宽带限速/业务捆绑…投诉电信/移动/联通
+	- [软件和信息技术服务业](https://rjjs-service.miit.gov.cn/)信息平台
 	- 📠 010-66411166 网站备案全国咨询电话🌏	　 IP地址/域名信息/ICP[备案管理系统](https://beian.miit.gov.cn/)
 	- &【[国家航天局](http://www.cnsa.gov.cn)】🚀、&【[国家原子能机构](http://www.caea.gov.cn)】、[国家国防科技工业局](http://www.sastind.gov.cn) 
-	- [软件和信息技术服务业](https://rjjs-service.miit.gov.cn/)信息平台
 	- 🙋 直属高校（7所，原‘国防七校’）：[北航](http://www.buaa.edu.cn)、[北理](http://www.bit.edu.cn)、[哈工大](http://www.hit.edu.cn)、[哈工程](http://www.hrbeu.edu.cn)、[西北工大](http://www.nwpu.edu.cn)、[南航](http://www.nuaa.edu.cn)、[南理](http://www.njust.edu.cn)。
 	- 📞 12313 [国家烟草专卖局](http://www.tobacco.gov.cn/)	烟草市场监管服务热线 设分中心
 
@@ -253,7 +254,7 @@
 	- [《人民公安报》](http://epaper.cpd.com.cn ) 主办：[中国警察网](http://www.cpd.com.cn)
 	- 公安部[政务服务平台](https://zwfw.mps.gov.cn/) 户口与居住证、机动车驾驶证、养犬证、网络安全……
 	  - [网络违法举报](http://cyberpolice.mps.gov.cn/wfjb/)
-	- 🚓  122 车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
+	- 🚓  122（部分城市开通12123）车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
 	- ☎️ 12389 公安机关及民警违法违纪举报中心 [12389.gov.cn](https://www.12389.gov.cn)
 	- 国家移民管理局	[NIA.gov.cn](https://www.nia.gov.cn)+【中华人民共和国出入境管理局】，《中国移民管理报》等[专题专栏](https://www.nia.gov.cn/n741435/n907688/)
 	  - 📞 12367 移民咨询服务热线 设分中心　	 [国家移民管理局政务服务平台](https://s.nia.gov.cn)
@@ -428,7 +429,7 @@
 	- 📠 010-89061396，89061397 （工作时间）[打击欺诈骗保](http://www.nhsa.gov.cn/col/col73/)举报电话，网络举报通道请见【置顶】文章，微信平台已开通。
 * 国家机关事务管理局	　 [GGJ.gov.cn](http://www.ggj.gov.cn/)
 	- 中央机构采购网
-* 📡 国家广播电视总局	　 [NRTA.gov.cn](http://www.nrta.gov.cn/)
+* 📡 国家广播电视总局	　 [NRTA.gov.cn](http://www.nrta.gov.cn/) 广电总局
 	- [政务服务平台](https://zw.nrta.gov.cn/) 电视剧审查、动画片审查、卫星地面接收 *2018年，电影管理职责划转中宣部*
 	- 广播电视播出机构名录： 2021年9月版、[2020年12月版](http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html)、2019年12月版。
 * 国家新闻出版署+⋙【中央宣传部】　	 [NPPA.gov.cn](http://www.nppa.gov.cn/)
@@ -507,7 +508,7 @@
 * 2014~2020年 外文出版社 [《习近平谈治国理政》三卷本](https://www.12371.cn/special/sxll/)
 - [关于若干历史问题的决议](https://www.12371.cn/2021/11/09/ARTI1636455732201149.shtml) （1945年4月20日中国共产党第六届中央委员会扩大的第七次全体会议通过）约2.75万字
 - [关于建国以来党的若干历史问题的决议](https://www.12371.cn/2021/11/09/ARTI1636454249781129.shtml)（1981年6月27日中国共产党第十一届中央委员会第六次全体会议一致通过）约3.4万字
-- [中共中央关于党的百年奋斗重大成就和历史经验的决议](https://www.12371.cn/2021/11/16/ARTI1637053281483114.shtml)（2021年11月11日中国共产党第十九届中央委员会第六次全体会议通过）约3.6万字
+- [中共中央关于党的百年奋斗重大成就和历史经验的决议](https://www.12371.cn/2021/11/16/ARTI1637053281483114.shtml)（2021年11月11日中共第十九届中央委员会第六次全体会议通过）约3.6万字
 
 * 中央委员会	　 [-]() （中共中央/党中央）
 	- [第十九届中央委员会委员名单](http://www.xinhuanet.com/politics/19cpcnc/2017-10/24/c_1121848878.htm) （204名，2017年10月）中国共产党全国代表大会产生的中国共产党最高权力机关
@@ -712,13 +713,15 @@
 
 	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待考）
 
+* [中国文联](http://www.cflac.org.cn/)	　 中国文学艺术界联合会 CFLac.org.cn 中国文艺网
+	- 中国戏剧家协会   - 中国电影家协会   - 中国摄影家协会   - 中国音乐家协会   - 中国美术家协会   - 中国舞蹈家协会   - 中国曲艺家协会   - 中国民间文艺家协会   - 中国书法家协会   - 中国杂技家协会   - 中国电视艺术家协会
+
 * [中国作协](http://www.chinawriter.com.cn/)	　 中国作家协会[]()
 	- 中国作家网[作协机构](http://www.chinawriter.com.cn/zxjg/) 主管社团：
 	中国国际报告文学研究会、中国茅盾研究会、中国散文学会、中国寓言文学研究会、中国少数民族作家学会、中国小说学会、中华诗词学会、中国纪实文学研究会、中国丁玲研究会、中国赵树理研究会、中国微型小说学会、中国报告文学学会、中国武侠文学学会、中国诗歌学会、中国萧军研究会、中国笔会中心
 	- 鲁迅文学院 等[所属单位](http://www.chinawriter.com.cn/403936/403959/)
 	- [文艺报](http://wyb.chinawriter.com.cn/)
-* [中国文联](http://www.cflac.org.cn/)	　 中国文学艺术界联合会 CFLac.org.cn 中国文艺网
-	- 中国戏剧家协会   - 中国电影家协会   - 中国摄影家协会   - 中国音乐家协会   - 中国美术家协会   - 中国舞蹈家协会   - 中国曲艺家协会   - 中国民间文艺家协会   - 中国书法家协会   - 中国杂技家协会   - 中国电视艺术家协会
+
 * [中国记协](http://www.zgjx.cn/)	　 中华全国新闻工作者协会，源于1937年 ZGJX.cn
 * [对外友协](https://cpaffc.org.cn/)	　 中国人民对外友好协会
 * [外交学会](http://www.cpifa.org/)	　 中国人民外交学会，1949年成立
@@ -781,7 +784,7 @@
 ```
 	有关部门服务热线及报纸目录 © 大萌 2021
 	CC-BY-NC-ND-4.0 可转载-需署名-非演绎 4.0
-	v0.9.0
+	v0.9.1
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
