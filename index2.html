@@ -63,9 +63,11 @@
 	onfocus="this.select()"  		
 	onkeydown="if(event.keyCode==13)souyixia();"	//部分浏览器会拦截
 >
-<input type="submit" name="s1" value="搜一下" title="用所选网站搜索" onclick="souyixia();" >
+<!-- 	<input type="submit" name="s1" title="用所选网站搜索" onclick="souyixia();"  value="搜一下"> -->
+	<button type="submit" name="s1" title="用所选网站搜索" onclick="souyixia();"
+	 style="background-color: rgb(165,206,252) ;">搜一下</button>	<!--  skyblue -->
 <br>　
-<input type="Radio" name="sou" value="0">
+<input type="Radio" name="sou" value="0" ><!-- style="background-color: blue;" -->
 	<a href="https://baidu.com/" title="2001年上线，2005纳斯达克上市">百度</a><!-- pan.baidu.com/mall/home -->
 	<small>(<a href="https://graph.baidu.com/pcpage/index?tpl_from=pc" title="搜图，不用下载App">识图</a>)</small>
 <input type="Radio" name="sou" value="1">
@@ -251,9 +253,11 @@ $<a title="俄罗斯卫星通讯社-中国站" href="http://sputniknews.cn">俄�
   <input type="Radio" name="sou" value="9">
 	<a href="https://acz.youku.com/wow/ykpage/act/top_hot" title="优酷 热搜榜">优酷</a>
 	<small>(<a href="https://list.youku.com/category/show/" title="电视剧片库">追剧</a>)</small> &#160
-<input type="submit" name="s2" value="再搜一下" title="在视频网站再搜" onclick="souyixia();" >
+<!-- 	<input type="submit" name="s2" title="在视频网站再搜" onclick="souyixia();"  value="再搜一下"> -->
+	<button type="submit" name="s2" title="在视频网站再搜" onclick="souyixia();" 
+	 style="background-color: rgb(165,206,252) " ;><b>再</b> 搜一下</button>
 <br>
-<input type="Radio" name="sou" value="10" title="选我选我">
+<input type="Radio" name="sou" value="10" title="选我选我" >
 	<a href="https://search.bilibili.com/" title="B站弹幕视频搜索">Bili站</a>
 	<small>(<a href="https://www.bilibili.com/v/channel" title="哔哩哔哩 发现频道">发现</a>) &#160
 <input type="Radio" name="sou" value="11">
