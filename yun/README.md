@@ -389,34 +389,18 @@ Z8 图书报刊目录、文摘、索引
  $　非安全连接，http少个s 😳<br>
  #　井中站，需要科学上网 😏<br> -->
 
-<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p> 
+<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+
 　　您对本页面 <a title="到新窗口撰写留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">有什么想说的吗</a>？
 
-<table class="AZ" border="1" align="center" width="400">  	<!-- width="80%"  cellspacing="2" cellpadding="2" -->
-<tbody>
-<tr>	<td>A 马列主义 </td><td>B 哲学、宗教 </td><td>C 社会科学总论</td><td>D 政治、法律</td>
-			<td>E 军事</td><td>F 经济</td><td>G 文化科学教育体育</td>		</tr>
-<tr>	<td>H 语言、文字</td><td>I 文学</td><td>J 艺术</td><td>K 历史、地理</td>
-			<td>L</td><td>M</td> <td>N 自然科学总论</td>			</tr>
-<tr>	<td>O 数理科学和化学</td><td></td><td>Q 生物科学</td><td></td>
-			<td>R 医药、卫生</td> <td>S 农业科学</td><td>T 工业科学</td>	</tr>
-<tr>	<td></td> <td>TN 电子、通信技术</td><td>TP 自动化、计算机技术</td><td>TQ 化学工业</td>
-			<td>TU 建筑科学</td><td>TV 水利工程</td> <td></td>		</tr>
-<tr>	<td>U 交通运输</td><td>V 航空、航天</td><td>W</td><td></td>
-			<td>X 环境科学、安全科学</td> <td>Y</td> <td>Z 综合性图书</td>	</tr>
-</tbody>
-</table>
-
-	老生云图网站库© 2021-2022 Copyright by <a title="Contact me" href="author/helpme.txt">大萌</a>
-	CC-BY-NC-ND-4.0 	可转发-原署名-非演绎-非商用
-	汇编/批注：大萌 　	Beta 　v0.1.5
+	© 老生云图 2019-2022 Copyright by 大萌
+	CC-BY-NC-ND-4.0 	可转发-原署名-非演绎-非商用  
+	汇编/批注：大萌 　	网站库 Beta v0.1.5
 <!-- https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" -->
 
-<table align="right">	<!-- border="1" cellpadding="4" -->
-<tbody><tr><td align="right"><pre>
-<a title="返回老生常谈首页" href="." target="_self">&lt;&lt;返回上一级</a>
-点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" ><img src="../indexQR-Blue.png"></a>
-“在浏览器打开” <a href="https://Laosheng.top" title="老生常谈排行榜">https://Laosheng.top</a></pre>
-</td></tr></tbody>
-</table>
+
+<a title="返回老生常谈首页" href="." target="_self">&lt;&lt;返回上一级</a>  
+点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" ><img src="../indexQR-Blue.png"></a>  
+“在浏览器打开” <a href="https://Laosheng.top" title="老生常谈排行榜">https://Laosheng.top</a>
+
 🐁🐂🐅🐇🐉🐍🐎🐐🐒🐓🐕🐖
