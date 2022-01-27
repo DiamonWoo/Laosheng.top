@@ -1,14 +1,17 @@
-/* Laosheng.top 老生常谈排行榜 */
+/* Laosheng.top 老生常谈云媒体 */
+
 	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk);
 		/* background: hsl(215, 90%, 95%);LightCyan 	WhiteSmoke; v2.0 #FAFAD2 ;#f2f9ff*/	
 /* v1.9.8 rgb(255,255,200)	Cornsilk #FFF8DC	#EEEECC 	LightYellow #FFFFE0	LightGoldenRodYellow #FAFAD2 */
-		margin-left:3%; line-height: 1.75; margin-right: 2%;}
+		margin-left:3%; line-height: 1.75; margin-right: 2%;}	/* 大表格右侧仍未完整 */
 
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
 	h3	{margin-bottom: 0%}
 
 	div.you	{text-align: right; }
 	div#top	{margin-bottom:-3%; }		/* div#tuli */
+
+	span.lv	{background-color: lightgreen;}	/*Arab*/
 
 	table.AZ{font-size: 0.75em; 
 		table-layout: fixed;}		/* fixed后td才能不换行 */
@@ -18,7 +21,8 @@
     		/* 内容超出宽度时隐藏超出部分，并且显示省略标记... */
 
 	table.zhong
-		{width: 1000px; height: 270px;	/*1200px*/
+		{width: 1000px; height: 270px;	/* 1200px v2.1 解决Edge兼容性跟进*/
+		/*margin:auto -5px; 尝试居中偏左，尚未成功 */
 		background-color: white; }	/* border-color: orange;	whitesmoke*/
 	td#dongbei 	{border-color: red;	border-width: 0 0 0 3px;}
 	td#zhong	{border-color: red;	border-width: 3px;}
