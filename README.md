@@ -1,26 +1,26 @@
 老生常谈
 ========
 
-	老生常谈，节约我的搜索时间 ⚡
+	老生常谈，节约您的搜寻时间 ⚡
 
 [欢迎欢迎](author/speech.txt "初心与历程")🙂  https://laosheng.top/  
 <!-- <base target="_blank">{:target="_self"} -->
 
 + ☁ [**老生常谈云媒体**](fly "权威资讯，正在汇集"){:target="_blank"}，收录全国333个地级城市的报纸📰和电视直播网址📺，均可浏览器云上观看。
-  + 🚅🚃☁🚃☁……[一带一路云媒体](fly/yidaiyilu.html){:target="_blank"} 地图+翻译
+  + 🚅🚃☁🚃☁……[一带一路云媒体](fly/yidaiyilu.html){:target="_blank"} ，学习外语新技能。超140个签约国的报纸、电视、通讯社，正在紧张施工……
 
-+ ☎ [有关部门服务大全](fuwu "找到有关部门") 新上线！ 一二三四五，有事找政府。有关部门的网站、电话、报纸、部属院校……等。📞
++ ☎ [有关部门服务大全](fuwu "找到有关部门") ，政府政协人大两院。五套班子的电话/报纸/留言板，联系群众新渠道。📞
   + 全国2844个县/区/旗，SQLite格式的中国[《千县地名数据库》](fuwu/dimingku)
 
 + ☸️[大萌望海楼](falv "法治中国进行时")，找法不用愁。帮助初学者在茫茫法海找到有用的法律法规，用法律解决问题。💎
-  + 对重点法律提供高质量文本，请看🖨[大萌法律读本](falv/duben)，适合电子墨水设备。现行有效的[中国法律简目](falv/index2.html)正在准备。
+  + 对重点法律提供高质量文本，请看🖨[大萌法律读本](falv/duben)，适合电子墨水设备。现行有效的《中国法律简目》正在准备。
 
 + 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，致力于收集健康/免费/可浏览器直接访问的网站。千锤百炼排行榜，打开真正互联网！🚩
   + 提名网站和落榜记 [>>>>](changtan/timing.txt)
 
 + 📦  BuyIT (筹) <!-- （败点啥）Oh My God Goods! 我买的好货  -->
 
-冬奥会要来好多老外，学几句外语跟他们套磁吧^^。在[小笔记](broad/blog.txt "建站心得")看看网站有什么变化。
+老外来咱冬奥会，一带一路看老外。在[小笔记](broad/blog.txt "建站心得")看看网站有什么变化。
 
 	本站会在严格遵守知识产权法律方面做出表率。
 
@@ -58,8 +58,8 @@ https://Laosheng.top/
 ![谋智开发者网络](thanks-MDN-64.png)
 ![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
-	老生常谈 © 大萌	2019 ~ 2021
-	CC-BY-NC-ND-4.0 可转载-原署名-非演绎
+	老生常谈 © 大萌	2019 ~ 2022
+	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
