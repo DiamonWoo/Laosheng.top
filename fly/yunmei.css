@@ -29,6 +29,18 @@
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
 	table#tuli
 		{height: 10px; background-color: white;}
+
+	table.主要国家
+	{	width: 1280px; height: 720px;				/*width: 1280px; height: 720px;*/
+ 		background-image: url('yidaiyilu-main-v-0.4.png'); 	/*background-repeat: no-repeat;*/
+ 		background-position: center;  background-size: contain;	/*background-position: -150px -40px;*/
+	}
+	table.其他国家
+	{	width: 720px; height: 960px; 				/* height: 1280px; */
+ 		background-image: url('yidaiyilu-other-1440h.gif'); 
+ 		background-position: center;  background-size: contain;
+	}
+
 /* 
 色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
 */
