@@ -11,8 +11,6 @@
 	div.you	{text-align: right; }
 	div#top	{margin-bottom:-3%; }		/* div#tuli */
 
-	span.lv	{background-color: lightgreen;}	/*Arab*/
-
 	table.AZ{font-size: 0.75em; 
 		table-layout: fixed;}		/* fixed后td才能不换行 */
 	table.AZ td
@@ -32,13 +30,17 @@
 
 	table.主要国家
 	{	width: 1280px; height: 720px;				/*width: 1280px; height: 720px;*/
- 		background-image: url('yidaiyilu-main-v-0.4.6.gif'); 	/*background-repeat: no-repeat;*/
+ 		background-image: url('yidaiyilu-main-v-0.4.7.gif'); 	/*background-repeat: no-repeat;*/
  		background-position: center;  background-size: contain;	/*background-position: -150px -40px;*/
 	}
 	table.其他国家
 	{	width: 720px; height: 960px; 				/* height: 1280px; */
  		background-image: url('yidaiyilu-other-v-0.4.6.gif'); 
  		background-position: center;  background-size: contain;
+	}
+
+	span.lv	{background-color: lightgreen;}	/*Arab*/
+	span.zi	{background-color: Violet;}	/*波斯语 Plum fuchsia */
 	}
 /* 
 色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
