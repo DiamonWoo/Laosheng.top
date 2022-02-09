@@ -30,12 +30,12 @@
 
 	table.主要国家
 	{	width: 1280px; height: 720px;				/*width: 1280px; height: 720px;*/
- 		background-image: url('yidaiyilu-main-v-0.4.7.gif'); 	/*background-repeat: no-repeat;*/
+ 		background-image: url('yidaiyilu-main-v-0.4.8.png'); 	/*background-repeat: no-repeat;*/
  		background-position: center;  background-size: contain;	/*background-position: -150px -40px;*/
 	}
 	table.其他国家
 	{	width: 720px; height: 960px; 				/* height: 1280px; */
- 		background-image: url('yidaiyilu-other-v-0.4.6.gif'); 
+ 		background-image: url('yidaiyilu-other-v-0.4.8.gif'); 
  		background-position: center;  background-size: contain;
 	}
 
