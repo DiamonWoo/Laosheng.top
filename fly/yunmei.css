@@ -39,9 +39,9 @@
  		background-position: center;  background-size: contain;
 	}
 
-	span.lv	{background-color: lightgreen;}	/*Arab*/
-	span.zi	{background-color: Violet;}	/*波斯语 Plum fuchsia */
-	span.tu	{background-color: LightCoral;}	/*西班牙语 PaleVioletRed Chocolate */
+	span.lv	{background-color: lightgreen;}	/*Arab 绿色*/
+	span.zi	{background-color: Violet;}	/*波斯语 紫色 Plum fuchsia */
+	span.xi	{background-color: LightCoral;}	/*西班牙语 西语土红色 PaleVioletRed Chocolate */
 /* 
 色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
 */
