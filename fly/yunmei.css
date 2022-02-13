@@ -1,4 +1,5 @@
-/* Laosheng.top 老生常谈云媒体 */
+/* Laosheng.top 老生常谈 */
+/* 云媒体系列页面使用 */
 
 	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk);
 		/* background: hsl(215, 90%, 95%);LightCyan 	WhiteSmoke; v2.0 #FAFAD2 ;#f2f9ff*/	
@@ -11,13 +12,10 @@
 	div.you	{text-align: right; }
 	div#top	{margin-bottom:-3%; }		/* div#tuli */
 
-	table.AZ{font-size: 0.75em; 
-		table-layout: fixed;}		/* fixed后td才能不换行 */
-	table.AZ td
-		{white-space:nowrap; 		/* word-break:keep-all;	不换行 */
-    		overflow:hidden;	text-overflow:ellipsis;	}
-    		/* 内容超出宽度时隐藏超出部分，并且显示省略标记... */
+	table#tuli
+		{height: 10px; background-color: white;}
 
+/* 云媒体国字表格 */
 	table.zhong
 		{width: 1000px; height: 270px;	/* 1200px v2.1 解决Edge兼容性跟进*/
 		/*margin:auto -5px; 尝试居中偏左，尚未成功 */
@@ -25,9 +23,8 @@
 	td#dongbei 	{border-color: red;	border-width: 0 0 0 3px;}
 	td#zhong	{border-color: red;	border-width: 3px;}
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
-	table#tuli
-		{height: 10px; background-color: white;}
 
+/* 一带一路两个表格 */
 	table.主要国家
 	{	width: 1280px; height: 720px;				/*width: 1280px; height: 720px;*/
  		background-image: url('yidaiyilu-main-v-0.4.8.png'); 	/*background-repeat: no-repeat;*/
@@ -38,10 +35,19 @@
  		background-image: url('yidaiyilu-other-v-0.4.8.gif'); 
  		background-position: center;  background-size: contain;
 	}
-
-	span.lv	{background-color: lightgreen;}	/*Arab 绿色*/
-	span.zi	{background-color: Violet;}	/*波斯语 紫色 Plum fuchsia */
+/* 地区语言颜色 */
+	span.ar	{background-color: lightgreen;}	/*Arab 绿色*/
+	span.bo	{background-color: Violet;}	/*波斯语 紫色 Plum fuchsia */
 	span.xi	{background-color: LightCoral;}	/*西班牙语 西语土红色 PaleVioletRed Chocolate */
+
+/* 中图法表格测试 */
+	table.AZ{font-size: 0.75em; 
+		table-layout: fixed;}		/* fixed后td才能不换行 */
+	table.AZ td
+		{white-space:nowrap; 		/* word-break:keep-all;	不换行 */
+    		overflow:hidden;	text-overflow:ellipsis;	}
+    		/* 内容超出宽度时隐藏超出部分，并且显示省略标记... */
+
 /* 
 色彩名：	https://www.w3school.com.cn/cssref/css_colornames.asp
 */
