@@ -27,7 +27,7 @@
 /* 一带一路两个表格 */
 	table.主要国家
 	{	width: 1280px; height: 720px;				/*width: 1280px; height: 720px;*/
- 		background-image: url('yidaiyilu-main-v-0.4.8.png'); 	/*background-repeat: no-repeat;*/
+ 		background-image: url('yidaiyilu-main-v-0.4.9.png'); 	/*background-repeat: no-repeat;*/
  		background-position: center;  background-size: contain;	/*background-position: -150px -40px;*/
 	}
 	table.其他国家
