@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <title>老生常谈排行榜，不忘初心的互联网</title>
-<meta name="viewport" content="width=480, initial-scale=1">
-<!-- width=device-width, 460解决了图例小表格不靠右边的问题。 用480？ -->
+<meta name="viewport" content="width=460, initial-scale=1">
+<!-- width=device-width, 460解决了图例小表格不靠右边的问题。 用480反而会折行 -->
 <meta name="description" content="老生常谈排行榜，致力于收集健康、免费、可浏览器直接访问的网站">
 <meta name="keywords" content="搜索引擎 数字报 免费看电视 浏览器 BBS 寻医问药 电子书 股票 开源软件 上网导航">
 <meta http-equiv="X-Frame-Options" content="sameorigin"><!-- 避免页面被iframe嵌套 -->
@@ -21,7 +21,7 @@
 
 <h2 id="sou">搜罗天下</h2>
 <div id="top">
-<pre>　　　千锤百炼<a title="老生常谈排行榜" href="https://laosheng.top/index2.html">排行榜</a>，打开真正互联网　2022-02</pre>
+<pre>　　　千锤百炼<a title="老生常谈排行榜" href="https://laosheng.top/index2.html">排行榜</a>，打开真正互联网　2022-03</pre>
 </div>
 
 <div class="kuai">
@@ -64,11 +64,12 @@
 	id="souwen" title="输入框，请输入搜索关键词。下拉有预设值 ⇩" 
 	onmouseover="this.focus()"		
 	onfocus="this.select()"  		
-	onkeydown="if(event.keyCode==13)souyixia();"	//部分浏览器会拦截
-	list="tools" autocomplete="on" 	
-	/>　
+	onkeydown="if(event.keyCode==13)souyixia();"
+	list="tools"	
+	>　<!-- autocomplete="on" -->
+	<!-- 在本地onkeydown时，部分浏览器会拦截弹出窗口； -->
 <!-- 	<input type="submit" name="s1" title="用所选网站搜索" onclick="souyixia();"  value="搜一下"> -->
-	<button type="submit" name="s1" title="输入一次，搜索18次" onclick="souyixia();"
+<button type="submit" name="s1" title="输入一次，搜索18次" onclick="souyixia();"
 	 style="background-color: rgb(165,206,252) ;">搜一下</button>	<!--  skyblue -->
 <br>　
 <input type="Radio" name="sou" value="0" ><!-- style="background-color: blue;" -->
@@ -79,16 +80,22 @@
 	<small>(d<a href="https://www.douyin.com/discover" title="抖音的发现页，请以桌面方式访问%">抖音</a>)</small>
 <input type="Radio" name="sou" value="2" checked>
 	<a href="https://cn.Bing.com" title="Bing搜索，微软2009年上线">必应</a>
-	<small>(<a href="https://cn.bing.com/visualsearch" title="必应视觉搜寻 Visual Search">视觉</a>)</small>
-<br><small>
+	<small>(<a href="https://cn.bing.com/visualsearch" title="必应视觉搜寻 Visual Search">视觉</a>)
 <input type="Radio" name="sou" value="3" title="单选一个搜索引擎，再点击按钮">
 	<a href="https://Sogou.com/docs/more.htm" title="2004年上线，2017纽交所上市。不兼容Fx">搜狗</a>大全%　
+	</small>
+<br><small>
 <input type="Radio" name="sou" value="4">
 	<a href="https://SO.com/zt/so_products.html" title="2012年上线，奇虎360旗下。图片搜索停服%">360搜</a>So　
 <input type="Radio" name="sou" value="5">
 	<a href="https://s.weibo.com/" title="微博搜索，新浪旗下">Weibo</a>　<!-- hot话题榜 -->
-<input type="Radio" name="sou" value="6">	<!-- disabled="" -->
-	法 <a href="https://qwant.com/" title="法国搜索 支持中文分词">Qwant</a></small>
+<input type="Radio" name="sou" value="6"><!--  disabled="disabled" -->
+	俄<a href="https://Yandex.com" title="洋得斯搜索 新时代全面战略协作伙伴：俄罗斯">Yandex</a>
+<input type="Radio" name="sou" value="7">
+	德<a href="https://www.nona.de" title="德国搜索，支持中文分析">Nona</a>
+<input type="Radio" name="sou" value="8">	<!-- disabled="" -->
+	法 <a href="https://qwant.com/" title="法国搜索 支持中文分词">Qwant</a>
+</small>
 <br>
 <small>
 　　人类命运共同体<!-- http://data.people.com.cn/rmrb/19830701/1 -->
@@ -99,7 +106,7 @@
 <h3>全球搜 🌏</h3>
 #<a href="https://google.com" title="谷歌，世界著名搜索引擎">Google</a> / 
  <a href="https://www.google.com/ncr" title="无国别指向">ncr</a> / 
- <a href="https://GMail.com" title="谷歌邮箱GMail">💌</a><small>
+ <a href="https://GMail.com" title="谷歌邮箱GMail">Gmail 💌</a><small>
 #<a href="https://china.googleblog.com"  title="谷歌依然在">黑板报</a>　
 #<a href="https://scholar.google.com" title="论文与书籍检索">谷歌学术</a> -
  <a href="https://search.essclick.com"  title="爱思搜索，低调">镜像</a>　
@@ -109,19 +116,19 @@
 <br><small>　
  <a href="https://google.cn/chrome/?standalone=1"  title="谷歌浏览器的完整安装包">Chrome</a>浏览器 /
 <!-- <a href="https://chrome-dl.com" title="可解压安装包">Z</a> -->
- <a href="https://developer.android.google.cn"  title="AndroidStudio">安卓开发</a>　</small>
- <a href="https://translate.google.cn"  title="国内站">谷歌翻译</a>　
- <a title="可自定义的主页" href="https://start.me/cn">Start.me</a>
+ <a href="https://blog.google/products/chrome/" title="Chrome Official Blog">blog</a> /
+ <a href="https://developer.android.google.cn" title="AndroidStudio">安卓开发</a>　</small>
+ <a href="https://translate.google.cn" title="在线翻译，国内站">谷歌翻译</a> /<small>
+ <a href="https://google.cn/inputtools/try/" title="在线输入法，国内站">输入？</a> /
+#<a href="https://www.google.com/intl/zh-CN/ime/pinyin/" title="国内站">IME</a></small>
+
 <br><small>
-华为%<a href="https://petalsearch.com" title="华为花瓣搜索，🚫限海外访问">Petal</a>　
-美%<a href="https://Yahoo.com"  title="美国雅虎，🚫2021-11停止中国大陆使用">Yahoo!</a>
-<input type="Radio" name="sou" value="7">
-	韩<a href="https://www.naver.com" title="韩文搜索Naver">Naver</a>
-<input type="Radio" name="sou" value="8"><!--  disabled="disabled" -->
-	俄<a href="https://Yandex.com" title="洋得斯搜索 新时代全面战略协作伙伴：俄罗斯">Yandex</a>?
-<input type="Radio" name="sou" value="9">
-	德<a href="https://www.nona.de" title="德国搜索，支持中文分析">Nona</a> 1 2 3 4
+华为%<a href="https://petalsearch.com" title="华为花瓣搜索，🚫限海外访问">Petal</a>
+　美%<a href="https://Yahoo.com"  title="美国雅虎，🚫2021-11停止中国大陆使用">Yahoo!</a>
+<!-- <input type="Radio" name="sou" value="7"> -->
+　	韩<a href="https://www.naver.com" title="韩文搜索Naver">Naver</a>
 </small>
+　	<a title="可自定义的主页" href="https://start.me/cn">Start.me</a> 1 2 3 4 5
 </div>
 
 <div class="kuai" id="bao" >
@@ -306,7 +313,7 @@ m<a href="https://movie.douban.com/" title="豆瓣影视剧">影评</a>
 <input type="Radio" name="sou" value="16">
 	<a href="https://www.kuaishou.com/brilliant" title="手机短视频热榜">快手</a>
 <input type="Radio" name="sou" value="17">
-	<a href="http://top.le.com/" title="乐视排行榜">乐视</a>$</small> &#160
+	<a href="http://top.le.com/" title="乐视排行榜">乐视</a>$ </small>
 <input type="Radio" name="sou" value="18">
 	<a href="https://v.qq.com/biu/ranks/?t=hotsearch" title="腾讯视频 全网影视排行榜">腾讯</a>
 </div>
@@ -591,7 +598,7 @@ $<a href="http://www.moe.gov.cn/jyb_zzjg/moe_347/" title="75所部属高校">教
 　<a href="https://ruanyifeng.com/blog/" title="科技爱好者">阮一峰</a><small>
 　<a href="https://wanqu.co/issues/" title="湾区日报，旧金山IT圈">WanQu</a>
 　WordPress　</small>
-<a href="https://stackoverflow.com/" title="StackOverFlow 美国IT问答网站">Stack</a> 1 2 3 4 5
+<a href="https://stackoverflow.com/" title="StackOverFlow 美国IT问答网站">Stack</a> 1 2 3 4 5 6
 <!-- "https://weibo.com/u/1669879400" title="90后小花迪丽热巴"-->
 </div>
 
@@ -652,7 +659,9 @@ d☁️ 手机上需模拟桌面模式</pre></td></tr></tbody>
 	<option value="疫情" />
 	<option value="上证指数" />
 	<option value="汇率" />
-	<option value="--搜索框的预设值，有7条--" />
+	<option value="--搜索框的预设值，有9条--" />
+	<option value="东方卫视直播" />
+	<option value="维基百科拷贝" />
 	<option value="难搜到的好网站" />
 	<option value="一带一路云媒体" />
 </datalist>
@@ -660,7 +669,7 @@ d☁️ 手机上需模拟桌面模式</pre></td></tr></tbody>
 <pre>老生常谈 © 2019-2022 Copyright by <a title="Contact me" href="author/helpme.txt">大萌</a>
 CC-BY-NC-ND-3.0 	可转发-原署名-非演绎
 汇编/批注：大萌 　	版式设计：大萌
-排行榜　v2.3.0 　	老生常谈<a title="commits history" href="https://github.com/DiamonWoo/Laosheng2019/commits/master">提交记录</a></pre>
+排行榜　v2.3.1 　	老生常谈<a title="commits history" href="https://github.com/DiamonWoo/Laosheng2019/commits/master">提交记录</a></pre>
 <!-- https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" -->
 
 <span style="display: none;">administraor@yahoo.com.cn</span>
@@ -679,22 +688,22 @@ CC-BY-NC-ND-3.0 	可转发-原署名-非演绎
 					// window.open("https://yandex.com/search/?text=" + wen);
 	if (go[5].checked)	window.open("https://s.weibo.com/weibo?q=" + wen ); //微博换下魔力
 					//m.douban.com/search/query=	豆瓣知乎都有外链防御
-	if (go[6].checked)	window.open("https://www.qwant.com/?q=" + wen).focus();	//法
+	if (go[6].checked)	window.open("https://yandex.com/search/?text=" + wen);	//俄
+	if (go[7].checked)	window.open("https://www.nona.de/?q=" + wen);		//德
+	if (go[8].checked)	window.open("https://www.qwant.com/?q=" + wen).focus();	//法
 					// ("https://www.dogedoge.com/results?q=" + wen)
-	if (go[7].checked)	window.open("https://search.naver.com/search.naver?query=" + wen);
-	if (go[8].checked)	window.open("https://yandex.com/search/?text=" + wen);
-	if (go[9].checked)	window.open("https://www.nona.de/?q=" + wen);
+	// if (go[7].checked)	window.open("https://search.naver.com/search.naver?query=" + wen); //韩
+	// 9 空缺行吗？不行。
+	if (go[9].checked)	window.open("https://search.cctv.com/search.php?qtext=" + wen);
+	if (go[10].checked)	window.open("https://so.iqiyi.com/so/q_" + wen);
+	if (go[11].checked)	window.open("https://so.youku.com/search_video/q_" + wen);
 	//
-	if (go[10].checked)	window.open("https://search.cctv.com/search.php?qtext=" + wen);
-	if (go[11].checked)	window.open("https://so.iqiyi.com/so/q_" + wen);
-	if (go[12].checked)	window.open("https://so.youku.com/search_video/q_" + wen);
-	//
-	if (go[13].checked)	window.open("https://search.bilibili.com/all?keyword=" + wen);
-	if (go[14].checked)	window.open("https://www.acfun.cn/search?keyword=" + wen);
-	if (go[15].checked)	window.open("https://www.douyin.com/search/" + wen);
-	if (go[16].checked)	window.open("https://www.kuaishou.com/search/video?searchKey=" + wen);
-	if (go[17].checked)	window.open("http://so.le.com/s?wd=" + wen);
-	if (go[18].checked)	window.open("https://v.qq.com/x/search/?q=" + wen);
+	if (go[12].checked)	window.open("https://search.bilibili.com/all?keyword=" + wen);
+	if (go[13].checked)	window.open("https://www.acfun.cn/search?keyword=" + wen);
+	if (go[14].checked)	window.open("https://www.douyin.com/search/" + wen);
+	if (go[15].checked)	window.open("https://www.kuaishou.com/search/video?searchKey=" + wen);
+	if (go[16].checked)	window.open("http://so.le.com/s?wd=" + wen);
+	if (go[17].checked)	window.open("https://v.qq.com/x/search/?q=" + wen);
 	//ben.focus();		//尝试焦点返回原窗口
 	//Window.opener.focus();
     }
