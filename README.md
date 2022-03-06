@@ -9,7 +9,7 @@
 + 看新闻只用浏览器，[**老生常谈云媒体**](fly "权威资讯，正在汇集"){:target="_blank"} ☁，收录全国333个地级城市的报纸📰和电视直播网址📺
   + [云媒体第二页](fly/index2.html) 🗺️：中国外文云媒体、教育台与科技报、县区级报纸与电视、图例与帮助。
   + 🚅🚃☁🚃☁……[一带一路云媒体](fly/yidaiyilu.html){:target="_blank"}🌞 ，学习外语新技能，五大洲的报纸、电视、通讯社。  
-  收录习主席发表署名文章的海外报纸与媒体55家，全球77家中英文通讯社。
+  收录习主席发表署名文章的海外报纸与媒体55家，全球中英文通讯社77家。
 + ☎ [有关部门服务大全](fuwu "找到有关部门") ，政府政协人大两院。　五套班子的电话/报纸/留言板，联系群众新渠道。📞
   + «服务网站查缺查重»，项目评估中……
   + 全国2844个县/区/旗，SQLite格式的中国[《千县地名数据库》](fuwu/dimingku)
@@ -57,7 +57,7 @@ https://Laosheng.top/
 鸣谢
 ------
 
-　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档渲染。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "帮助作者")报告问题，谢谢！
+　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档编译。LaoSheng.top 网站新开通，欢迎向[作者大萌](author/helpme.txt "帮助作者")报告问题，谢谢！  
 <!-- (https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png) -->
 ![更安全的火狐浏览器](thanks4firefox-64.png)
 ![谋智开发者网络](thanks-MDN-64.png)
