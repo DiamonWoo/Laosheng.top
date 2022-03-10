@@ -2,10 +2,13 @@
 /* 云媒体系列页面使用 */
 
 	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk);
-		/* background: hsl(215, 90%, 95%);LightCyan 	WhiteSmoke; v2.0 #FAFAD2 ;#f2f9ff*/	
-/* v1.9.8 rgb(255,255,200)	Cornsilk #FFF8DC	#EEEECC 	LightYellow #FFFFE0	LightGoldenRodYellow #FAFAD2 */
-		margin-left:3%; line-height: 1.75; margin-right: 2%;}	/* 大表格右侧仍未完整 */
-
+/* background: hsl(215, 90%, 95%); LightCyan  WhiteSmoke;	v2.0 #FAFAD2 ;#f2f9ff */
+/* v1.9.8 rgb(255,255,200) #EEEECC LightYellow #FFFFE0  Cornsilk #FFF8DC LightGoldenRodYellow #FAFAD2 */
+		margin-left:1em; 		/* rem反而更小，奇怪。	margin-left:3%;*/
+		/* margin-right: 2%;大表格右侧仍未完整 */
+		line-height: 1.75; 
+		word-spacing:0;
+		}
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
 	h3	{margin-bottom: 0%}
 
@@ -17,23 +20,31 @@
 
 /* 云媒体国字表格 */
 	table.zhong
-		{width: 1000px; height: 270px;	/* 1200px v2.1 解决Edge兼容性跟进*/
-		/*margin:auto -5px; 尝试居中偏左，尚未成功 */
-		background-color: white; }	/* border-color: orange;	whitesmoke*/
+		{width: 1008px; height: 270px;	/* 1200px v2.1 解决Edge兼容性跟进*/
+		/* margin:auto -5px; 尝试居中偏左，尚未成功 	*/
+		
+		/* padding: "8"; 网页中写cellpadding="8";*/
+		background-color: white; 	/* border-color: orange;	whitesmoke*/
+		}	
 	td#dongbei 	{border-color: red;	border-width: 0 0 0 3px;}
 	td#zhong	{border-color: red;	border-width: 3px;}
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
 
 /* 一带一路两个表格 */
 	table.主要国家
-	{	width: 1280px; height: 720px;				/*width: 1280px; height: 720px;*/
- 		background-image: url('yidaiyilu-main-v-0.7.0.png'); 	/*background-repeat: no-repeat;*/
- 		background-position: center;  background-size: contain;	/*background-position: -150px -40px;*/
+	{	width: 1280px; height: 720px;
+/* width: 1280px; height: 720px; */
+	background-image: url(yidaiyilu-main-v-0.7.0.png);
+/* 	图片名的'单引号'是多余的，"双引号"效果一样。 */
+/* 	background-repeat: no-repeat;  */
+ 	background-size: contain;
+/* background-position: center; background-position: -150px -40px; */
 	}
+
 	table.其他国家
-	{	width: 720px; height: 960px; 				/* height: 1280px; */
- 		background-image: url('yidaiyilu-other-v-0.6.5.gif'); 
+	{	width: 720px; height: 960px; 		/* height: 1280px; */
  		background-position: center;  background-size: contain;
+ 		background-image: url('yidaiyilu-other-v-0.6.5.gif'); 
 	}
 /* 地区语言颜色 */
 	span.ar	{background-color: lightgreen;}	/*Arab 绿色*/
