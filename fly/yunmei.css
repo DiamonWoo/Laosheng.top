@@ -16,7 +16,7 @@
 	div#top	{margin-bottom:-3%; }		/* div#tuli */
 
 	table#tuli
-		{height: 10px; background-color: white;}
+		{background-color: white;}	/*height: 10px; */
 
 /* 云媒体国字表格 */
 	table.zhong
@@ -34,7 +34,7 @@
 	table.主要国家
 	{	width: 1280px; height: 720px;
 /* width: 1280px; height: 720px; */
-	background-image: url(yidaiyilu-main-v-0.7.0.png);
+	background-image: url(yidaiyilu-main-v-0.7.1.png);
 /* 	图片名的'单引号'是多余的，"双引号"效果一样。 */
 /* 	background-repeat: no-repeat;  */
  	background-size: contain;
@@ -44,12 +44,13 @@
 	table.其他国家
 	{	width: 720px; height: 960px; 		/* height: 1280px; */
  		background-position: center;  background-size: contain;
- 		background-image: url('yidaiyilu-other-v-0.6.5.gif'); 
+ 		background-image: url('yidaiyilu-other-v-0.7.1.gif'); 
 	}
 /* 地区语言颜色 */
-	span.ar	{background-color: lightgreen;}	/*Arab 绿色*/
-	span.bo	{background-color: Violet;}	/*波斯语 紫色 Plum fuchsia */
-	span.xi	{background-color: LightCoral;}	/*西班牙语 西语土红色 PaleVioletRed Chocolate */
+	span.ar	{background-color: lightgreen;}	/* Arab 绿色*/
+	span.bo	{background-color: Violet;}	/* 波斯语 紫色 Plum fuchsia */
+	span.fa {background-color: LightSteelBlue; } /* 法语 铁青色 SteelBlue */
+	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
 
 /* 中图法表格测试 */
 	table.AZ{font-size: 0.75em; 
