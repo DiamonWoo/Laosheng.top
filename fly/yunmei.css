@@ -7,7 +7,7 @@
 		margin-left:1em; 		/* rem反而更小，奇怪。	margin-left:3%;*/
 		/* margin-right: 2%;大表格右侧仍未完整 */
 		line-height: 1.75; 
-		word-spacing:0;
+		/*word-spacing:0;	letter-space:0;*/
 		}
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
 	h3	{margin-bottom: 0%}
@@ -30,8 +30,12 @@
 	td#zhong	{border-color: red;	border-width: 3px;}
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
 
+
+/* 一带一路外文云表格 */
+	table#外文云 td {text-align: center;}
+
 /* 一带一路两个表格 */
-	table.主要国家
+	table#主要国家
 	{	width: 1280px; height: 720px;
 /* width: 1280px; height: 720px; */
 	background-image: url(yidaiyilu-main-v-0.7.1.png);
@@ -41,7 +45,7 @@
 /* background-position: center; background-position: -150px -40px; */
 	}
 
-	table.其他国家
+	table#其他国家
 	{	width: 720px; height: 960px; 		/* height: 1280px; */
  		background-position: center;  background-size: contain;
  		background-image: url('yidaiyilu-other-v-0.7.1.gif'); 
