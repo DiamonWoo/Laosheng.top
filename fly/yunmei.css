@@ -32,13 +32,13 @@
 
 
 /* 一带一路外文云表格 */
-	table#外文云 td {text-align: center;}
+	table.外文云 td {text-align: center;}
 
 /* 一带一路两个表格 */
 	table#主要国家
 	{	width: 1280px; height: 720px;
 /* width: 1280px; height: 720px; */
-	background-image: url(yidaiyilu-main-v-0.7.1.png);
+	background-image: url(yidaiyilu-main-v-0.7.7.png);
 /* 	图片名的'单引号'是多余的，"双引号"效果一样。 */
 /* 	background-repeat: no-repeat;  */
  	background-size: contain;
@@ -48,7 +48,7 @@
 	table#其他国家
 	{	width: 720px; height: 960px; 		/* height: 1280px; */
  		background-position: center;  background-size: contain;
- 		background-image: url('yidaiyilu-other-v-0.7.1.gif'); 
+ 		background-image: url('yidaiyilu-other-v-0.7.7.gif'); 
 	}
 /* 地区语言颜色 */
 	span.ar	{background-color: lightgreen;}	/* Arab 绿色*/
