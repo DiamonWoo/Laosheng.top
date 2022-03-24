@@ -16,7 +16,8 @@
 	div#top	{margin-bottom:-3%; }		/* div#tuli */
 
 	table#tuli
-		{background-color: white;}	/*height: 10px; */
+		{background-color: white;	/*height: 10px; */
+		margin-left: 1em;}
 
 /* 云媒体国字表格 */
 	table.zhong
@@ -30,9 +31,8 @@
 	td#zhong	{border-color: red;	border-width: 3px;}
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
 
-
 /* 一带一路外文云表格 */
-	table.外文云 td {text-align: center;}
+	table.外文云 td {text-align: center;	}
 
 /* 一带一路两个表格 */
 	table#主要国家
@@ -55,6 +55,12 @@
 	span.bo	{background-color: Violet;}	/* 波斯语 紫色 Plum fuchsia */
 	span.fa {background-color: LightSteelBlue; } /* 法语 铁青色 SteelBlue */
 	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
+
+
+/* 联合国有关部门 */
+	table.国际云 {	margin-right: 2em;	margin-left: 1em;}
+	table.国际云 td {text-align: center;	}
+	h3.国际范 { 	margin-top: -1em; }
 
 /* 中图法表格测试 */
 	table.AZ{font-size: 0.75em; 
