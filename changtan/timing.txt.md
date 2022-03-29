@@ -2,7 +2,7 @@
 
 提名网站与落榜记
 -----------------
- 大萌 © 2020~2021
+ 大萌 © 2020~2022
 
 	逆水行舟，不进则退
 
@@ -10,10 +10,12 @@
 提名网站
 ========
 
-　　网页日历是一个看似普通却对技术要求非常全面的一种web程序，暂时没有发现完美的产品。一个常见问题是，号称‘万年历’但其实只能查一百年，人民英雄纪念碑上提到的1840年查不到。经过几次更换，灵匣日历目前胜出。
+　　网页日历是一个看似普通却对技术要求非常全面的一种web程序，暂时没有发现完美的产品。一个常见问题是，号称‘万年历’但其实只能查前一百年，人民英雄纪念碑上提到的1840年查不到。
 
+*	ip138万年历	<https://qq.ip138.com/day/>		只有200年，带时区
+*	灵匣日历 	<https://www.lnka.cn/huangli.aspx>	缺少公休日
 *	日历网		<https://m.rili.com.cn/>		缺少公休日	
-*	中华万年历 	<http://yun.rili.cn/wnl/index.html>	不兼容Fx浏览器
+*	中华万年历 	<http://yun.rili.cn/wnl/index.html>	只有150年，不兼容手机Fx
 *	紫薇黄历 	<https://www.ibazi.cn/article/36361>	黄历/皇历/通书 的来历
 *	真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
 
@@ -26,14 +28,20 @@
 <a title="人民日报七十年余全库搜索，2021年起限制访问" href="http://data.people.com.cn/rmrb">人民日报</a>
 <small>$1946~2020</small>
 
++	[《解放思想，实事求是，团结一致向前看》](https://fuwu.12371.cn/2012/06/11/ARTI1339401591746288.shtml)	邓小平1978年讲话 后于1983年七一发表于人民日报
++	#老资料网	<https://www.laoziliao.net/rmrb/1983-07-01>	2021年底后访问困难
+
 *	维基百科拷贝	<https://zh.wikipedia.wikimirror.org >
 *	维基百科拷贝2	<https://kfd.me >
 *	谷歌学术镜像 	<https://ac.scmor.com >
 
-*	#美国宾州	<https://duckduckgo.com > 	也作；duck.com
+*	#美国宾州	<https://DuckDuckGo.com > 	也作；Duck.com 🦆，2008年出自麻省理工
+*	美<a href="https://teoma.com" title="美国Ask旗下">Teoma</a>	2021年底无法访问
 *	#荷兰(谷歌API)	<https://startpage.com >
-*	非洲ECosia	<https://www.ecosia.org >	微软API
-*	韩国LookSmart	<https://looksmart.com >  	需要境外的人机验证
+*	非洲 ECosia	<https://www.ecosia.org >	微软API
+*	韩国 LookSmart	<https://looksmart.com >  	需要境外的人机验证
+*	#德国 Fireball	<https://fireball.de >  	？
+*	英国 mojeek	<https://www.mojeek.com >  	仍不支持中文
 
 <a href="https://dogedoge.com" title="多吉搜索">DogeDoge</a>国产新星 202103停止服务、
 <a href="https://Magi.com" title="魔力搜索 AI结构化结果">Magi</a>%　202112升级后对Fx传统版本兼容性下降。
@@ -42,7 +50,7 @@
 <a href="https://Mengso.com" title="为小众而搜">萌搜</a>、
 <a href="https://gobaidugle.com/search2?one=bing&two=sogou&keyword=谷歌镜像" 
 	title="双栏同搜，谷百度歌">双搜</a>。　	<!-- 百度似乎拒绝了 -->
-*	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，浏览器兼容性不佳
+*	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，不兼容古典浏览器
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
 *	盘搜搜   	<https://www.pansoso.com >
 *	盘搜     	<http://www.pansou.com >
@@ -113,8 +121,11 @@
 6、医疗保健
 ------------
 
-*	健客药店	<https://www.jianke.com>	买正品药上健客
-*	1药网 	<https://www.111.com.cn>	合法网上药店
+
+*	健客药店	<https://www.jianke.com/help/about.html>	买正品药上健客
+*	1药网 	<https://www.111.com.cn/cmsPage/2015012602/>	合法网上药店
+*	药智数据库 <https://db.yaozh.com >	药品的生产与管理信息
+% 39<a href="http://ypk.39.net/AllCategory" title="国内最早的互联网医药健康网站">药品通</a>
 
 *	丁香人才	<https://www.jobmd.cn>	医学人才求职平台
 *	百度灵医	https://01.baidu.com/	医疗咨询App
@@ -176,6 +187,8 @@
 10、名站导航
 -------------
 
+　<a href="https://weibo.com/yaochen" title="联合国难民署中国亲善大使">姚晨</a>
+
 *	<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>
 *	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
 
@@ -185,6 +198,9 @@
 
 落榜记录
 =========
+
+2022/03/29	#第六段  
+	39药品通下榜，对手机端不友好，夹广告，长期不升级安全连接。http://ypk.39.net/AllCategory
 
 2021/11/14  　	#搜罗天下  
 	万维百科因近年长期停止服务下榜，<a title="万维百科，过滤词条的维基百科拷贝网站" href="https://www.wanweibaike.com/">万维</a>；另外失效的维基百科拷贝网站还有：<https://zh.wikiredia.com >。
