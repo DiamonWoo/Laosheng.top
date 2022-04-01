@@ -9,7 +9,7 @@ body	 {	background: 	#F5F5DC ; 	/* v1.9.9 #EEEECC ; Cornsilk #FFF8DC OldLace #FD
 		margin-left:1em;  		/* 2%; 稳定值:4%; 与div的width 联动 */
 		margin-right: 1em;
 	}	
-
+img	{ vertical-align: middle;  }		/* 解决图像偏高的问题 bottom*/
 div.kuai {	float: left; 
 		margin:1em; 		/* 上一个值 1% */
 		width:  462px ; 		/* 稳定值 452px */	/*480px 25% width: auto; min-width: 360px;*/
