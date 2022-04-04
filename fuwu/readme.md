@@ -8,31 +8,33 @@
 
 　　本网页依据有关文件，汇编了党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_self"}的：官方网站🌏、服务与投诉电话📞、网络检索与互动平台、主管报纸📰、直属院校🙋……　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 
-　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
-　　在12345之外，还有一些国家机关使用123xx形式的热线号码，比如原铁道部的客票服务电话 12306。
-
-　　欢迎大家[补充信息和发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
-
 　　【目录】
- [图例](#图例){:target="_self"}
+ [图例]
  1 [人大](#1-全国人民代表大会){:target="_self"}
  2 [两高](#2-最高法和最高检){:target="_self"}
  3 [人民政协](#3-中国人民政治协商会议){:target="_self"}
  3.1 [民主党派](#31-政协八个民主党派){:target="_self"}
  3.2 [人民团体](#32-政协八个人民团体){:target="_self"}
- 3.3 [其他社会团体](#33-其他社会团体){:target="_self"}
+ 3.3 其他社会团体
  4 [中共中央](#中国共产党){:target="_self"}
  4.1 [职能部门 5个](#41-中共中央职能部门-5个){:target="_self"}
  4.2 [办事机构 8个](#42-中共中央办事机构-8个){:target="_self"}
- 4.3 派出机关
- 4.4 [事业单位](#44-中共中央直属事业单位-9个){:target="_self"}
+ 4.3 [事业单位](#44-中共中央直属事业单位-9个){:target="_self"}
+ 4.4 派出机关
  5 [国务院](#中央人民政府国务院){:target="_self"}
- 5.1 [26个部委](#51-国务院26个部委及部委管理的国家局){:target="_self"}
- 5.2 直属特设
+ 5.1 [办事机构](#51-国务院办事机构及中共中央承担职责机构){:target="_self"}
+ 5.2 [事业单位](#52-国务院直属事业单位){:target="_self"}
  5.3 [总局总署](#53-国务院直属机构总局总署){:target="_self"}
- 5.4 [办事机构](#54-国务院办事机构及中共中央承担职责机构){:target="_self"}
- 5.5 [事业单位](#55-国务院直属事业单位){:target="_self"}
+ 5.4 [26个部委](#54-国务院26个部委及部委管理的国家局){:target="_self"}
+ 5.5 直属特设机构
  6 [大型国企](#6-部分国有企业){:target="_self"}
+
+　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。
+
+　　在12345之外，还有一些国家机关使用123xx形式的热线号码，比如 检察服务热线12309、原铁道部的客票服务电话 12306。
+
+　　欢迎大家[补充信息和发表意见](https://xoyondo.com/mb/1pCcfaaGsziZ5el )。
+
 
 最新部门变动
 ------------
@@ -379,15 +381,7 @@
 * 中央空中交通管理委员会办公室	　 []()
 	- 。。。
 
-4.3 中共中央派出机关
--------------------
-
-* 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn) 旗帜网 （机关工委）
-	- *2018年组建，原~~中直党建网、紫光阁网、中直机关党校门户网、干部学习网~~整合为旗帜网*
-* 中央香港工作委员会/【中联办】
-* 中央澳门工作委员会/【中联办】
-
-4.4 中共中央直属事业单位 9个
+4.3 中共中央直属事业单位 9个
 ---------------------------
 
 * 中央党校／【国家行政学院】	　 [CCPS.gov.cn](https://www.ccps.gov.cn)
@@ -402,6 +396,13 @@
 * 中国延安干部学院	　 [CelaY.Org.cn](http://www.celay.org.cn/)
 * 中央社会主义学院	　 [ZYSY.org.cn](https://www.zysy.org.cn/) 八大民主党派和无党派人士的“中央党校”
 
+4.4 中共中央派出机关
+-------------------
+
+* 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn) 旗帜网 （机关工委）
+	- *2018年组建，原~~中直党建网、紫光阁网、中直机关党校门户网、干部学习网~~整合为旗帜网*
+* 中央香港工作委员会/【中联办】
+* 中央澳门工作委员会/【中联办】
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
 
@@ -471,7 +472,128 @@
 
 　　*大萌为您提供SQLite格式的中国[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
 
-5.1 国务院26个部委（及部委管理的国家局）
+
+5.1 国务院办事机构（及中共中央承担职责机构）
+------------------------------------------
+
+* 国务院研究室
+* 国务院侨务办公室 +⋙ 中央统战部	　 []()
+* 国务院港澳事务办公室 +⋙ 中央统战部	　 []()
+* 国务院台湾事务办公室／【中共中央台湾工作办公室】
+* 国务院新闻办公室 +⋙ 中央宣传部	　 []()
+* 国家互联网信息办公室／中央网络安全和信息化委员会办公室
+* 国家公务员局 +⋙ 中央组织部	　 []()
+* 国家档案局／【中央档案馆】	　 []()
+* 国家保密局／【中央保密委员会办公室】
+* 国家密码管理局／【中央密码工作领导小组办公室】
+
+	*中共中央各部门 请参见上方段落*[]()
+
+5.2 国务院直属事业单位
+----------------------
+
+* 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
+	- 《参考消息》、《中国证券报》等，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
+	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
+* 中央广播电视总台	　CMG 暂无官网
+	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
+	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
+* 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
+	- [中国天气网](http://www.weather.com.cn) 预报预警、雷达云图、天气新闻、气象科普……
+	  - 📠 400-6000-121 气象服务热线，咨询、建议、合作与投诉
+	  - 📠 12121 天气预报查询 
+	- 国家气象中心（[中央气象台](http://www.nmc.cn/)）降水预报、天气实况、城市预报、台风海洋……
+	- 华风气象传媒集团 ☁[中国气象频道](http://www.weathertv.cn/) 能直播吗？（央视《新闻联播》后的天气预报栏目）
+* 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
+	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
+	- 🙋直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
+* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
+	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
+	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
+	- 🙋直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
+	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
+* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
+	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
+	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
+	- 中国工程[科技知识中心](http://www.ckcest.cn/)
+	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
+* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 全国36个派出机构
+	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
+	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
+* 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
+	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
+	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
+	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/changtan/8-证券信息披露的法定媒体.txt)*
+* 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) [《中国经济时报》](http://jjsb.cet.com.cn)
+	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
+	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
+	- 国研网 [统计数据库](http://data.drcnet.com.cn/) 宏观经济、区域经济、重点行业、世界经济
+* 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
+	- [网上党校](https://wsdx.ccps.gov.cn/)
+
+
+5.3 国务院直属机构（总局总署）
+-----------------------------
+
+	1982年《国务院组织法》第十一条
+	　国务院可以根据工作需要和精简的原则，设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人。
+
+* 🛃 中华人民共和国海关总署	　 [Customs.gov.cn](http://www.customs.gov.cn/) 进出口统计月报
+	- [互联网+海关](http://online.customs.gov.cn/) 动植物检疫、货物通关、舱单信息、行政审批、加工贸易保税……
+	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
+	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
+	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
+	- 🙋 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
+* 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
+	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
+	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
+	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
+	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心
+	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】
+	- &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
+	  - 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
+	  - 国务院[国家标准信息查询](http://www.gov.cn/fuwu/bzxxcx/bzh.htm)，可查国标、行标、地方标准。
+	  - [国家标准](http://openstd.samr.gov.cn/bzgk/gb/)全文公开系统 强制性国标超两千项，推荐性GB三万多项； 
+	  - [行业标准](http://hbba.sacinfo.org.cn/)信息服务平台 行业标准大约七万件，工信部独占四万七千件以上。
+	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
+	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
+	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
+	  - [政务服务](https://www.cnipa.gov.cn/col/col1510/) 专利公告、商标查询、地理标志、集成电路……
+	  - [公共服务](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) %专利检索与分析、代理查询、文献服务……
+	- 🙋 直属院校（1所）国家市场监督管理总局[行政学院](http://www.sasamr.org.cn/) 深圳市
+
+* 🏆 国家体育总局	　 [Sport.gov.cn](http://www.sport.gov.cn/)⚽
+	- 🙋 直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
+	- 
+* 国家国际发展合作署　	 [CIDCA.gov.cn](http://www.cidca.gov.cn/)
+* 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
+* 国家税务总局	　 [ChinaTax.gov.cn](http://www.chinatax.gov.cn/)
+	- 📞 12366 [全纳税服务平台](https://12366.chinatax.gov.cn/) 设分中心
+	- 📠 010-61986755 [税收违法行为检举](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)，同时接受书信、传真等形式检举：涉嫌偷税，逃避追缴欠税，骗税，虚开、伪造、非法提供、非法取得发票。
+* 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
+	[《中国信息报》](http://www.zgxxb.com.cn/epaper)
+	- 📠 010-68512113 统计违法行为的举报，接受电子邮件和[网页举报](http://www.stats.gov.cn/tjfw/tsjb/)。	　 [统计督察情况](http://www.stats.gov.cn/ztjc/tjfzjs/tjdc/)
+* 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
+	- 📞 12393 [医疗保障服务平台](https://fuwu.nhsa.gov.cn/nationalHallSt/#/home) 双号并行 贵州省首家开通
+	- 📠 010-89061396，89061397 （工作时间）[打击欺诈骗保](http://www.nhsa.gov.cn/col/col73/)举报电话，网络举报通道请见【置顶】文章，微信平台已开通。
+* 国家机关事务管理局	　 [GGJ.gov.cn](http://www.ggj.gov.cn/)
+	- 中央机构采购网
+* 📡 国家广播电视总局	　 [NRTA.gov.cn](http://www.nrta.gov.cn/) 广电总局
+	- [政务服务平台](https://zw.nrta.gov.cn/) 电视剧审查、动画片审查、卫星地面接收 *2018年，电影管理职责划转中宣部*
+	- 广播电视播出机构名录： 2021年9月版、[2020年12月版](http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html)、2019年12月版。
+* 国家新闻出版署+⋙【中央宣传部】　	 [NPPA.gov.cn](http://www.nppa.gov.cn/)
+	- （国家版权局）
+* 国家宗教事务局 +⋙【中央统战部】　	 [SARA.gov.cn](http://www.sara.gov.cn/)
+	- 宗教基础信息查询 场所/院校
+* 国家乡村振兴局	　 [CPad.gov.cn](http://www.cpad.gov.cn) 2021年2月挂牌，原国务院扶贫办整体改组，农业农村部代管。
+	- 📞 12317 全国扶贫监督举报平台电话 双号并行
+* 国家疾病预防控制局	　 [网站待公布]() 2021年5月挂牌，卫健委代管。
+	- 。。。
+* 国家反垄断局	　 [网站待公布]() 2021年11月亮相，承办国务院反垄断委员会日常工作。
+	- 。。。
+
+
+5.4 国务院26个部委（及部委管理的国家局）
 --------------------------------------
 
 	1982年《国务院组织法》
@@ -665,7 +787,7 @@
 	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
 	- 审计专业技术资格考试
 
-5.2 国务院直属特设机构
+5.5 国务院直属特设机构
 ---------------------
 * 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国资委
 	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
@@ -673,127 +795,8 @@
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
 	- [《中华合作时报》](http://szb.zh-hz.com ) []()
 
-5.3 国务院直属机构（总局总署）
------------------------------
+<div align="right"><a href="#" target="_self">↑Top</a></div>
 
-	1982年《国务院组织法》第十一条
-	　国务院可以根据工作需要和精简的原则，设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人。
-
-* 🛃 中华人民共和国海关总署	　 [Customs.gov.cn](http://www.customs.gov.cn/) 进出口统计月报
-	- [互联网+海关](http://online.customs.gov.cn/) 动植物检疫、货物通关、舱单信息、行政审批、加工贸易保税……
-	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
-	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
-	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
-	- 🙋 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
-* 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
-	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
-	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
-	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
-	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心
-	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】
-	- &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
-	  - 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
-	  - 国务院[国家标准信息查询](http://www.gov.cn/fuwu/bzxxcx/bzh.htm)，可查国标、行标、地方标准。
-	  - [国家标准](http://openstd.samr.gov.cn/bzgk/gb/)全文公开系统 强制性国标超两千项，推荐性GB三万多项； 
-	  - [行业标准](http://hbba.sacinfo.org.cn/)信息服务平台 行业标准大约七万件，工信部独占四万七千件以上。
-	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
-	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
-	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
-	  - [政务服务](https://www.cnipa.gov.cn/col/col1510/) 专利公告、商标查询、地理标志、集成电路……
-	  - [公共服务](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) %专利检索与分析、代理查询、文献服务……
-	- 🙋 直属院校（1所）国家市场监督管理总局[行政学院](http://www.sasamr.org.cn/) 深圳市
-
-* 🏆 国家体育总局	　 [Sport.gov.cn](http://www.sport.gov.cn/)⚽
-	- 🙋 直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
-	- 
-* 国家国际发展合作署　	 [CIDCA.gov.cn](http://www.cidca.gov.cn/)
-* 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
-* 国家税务总局	　 [ChinaTax.gov.cn](http://www.chinatax.gov.cn/)
-	- 📞 12366 [全纳税服务平台](https://12366.chinatax.gov.cn/) 设分中心
-	- 📠 010-61986755 [税收违法行为检举](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)，同时接受书信、传真等形式检举：涉嫌偷税，逃避追缴欠税，骗税，虚开、伪造、非法提供、非法取得发票。
-* 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
-	[《中国信息报》](http://www.zgxxb.com.cn/epaper)
-	- 📠 010-68512113 统计违法行为的举报，接受电子邮件和[网页举报](http://www.stats.gov.cn/tjfw/tsjb/)。	　 [统计督察情况](http://www.stats.gov.cn/ztjc/tjfzjs/tjdc/)
-* 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
-	- 📞 12393 [医疗保障服务平台](https://fuwu.nhsa.gov.cn/nationalHallSt/#/home) 双号并行 贵州省首家开通
-	- 📠 010-89061396，89061397 （工作时间）[打击欺诈骗保](http://www.nhsa.gov.cn/col/col73/)举报电话，网络举报通道请见【置顶】文章，微信平台已开通。
-* 国家机关事务管理局	　 [GGJ.gov.cn](http://www.ggj.gov.cn/)
-	- 中央机构采购网
-* 📡 国家广播电视总局	　 [NRTA.gov.cn](http://www.nrta.gov.cn/) 广电总局
-	- [政务服务平台](https://zw.nrta.gov.cn/) 电视剧审查、动画片审查、卫星地面接收 *2018年，电影管理职责划转中宣部*
-	- 广播电视播出机构名录： 2021年9月版、[2020年12月版](http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html)、2019年12月版。
-* 国家新闻出版署+⋙【中央宣传部】　	 [NPPA.gov.cn](http://www.nppa.gov.cn/)
-	- （国家版权局）
-* 国家宗教事务局 +⋙【中央统战部】　	 [SARA.gov.cn](http://www.sara.gov.cn/)
-	- 宗教基础信息查询 场所/院校
-* 国家乡村振兴局	　 [CPad.gov.cn](http://www.cpad.gov.cn) 2021年2月挂牌，原国务院扶贫办整体改组，农业农村部代管。
-	- 📞 12317 全国扶贫监督举报平台电话 双号并行
-* 国家疾病预防控制局	　 [网站待公布]() 2021年5月挂牌，卫健委代管。
-	- 。。。
-* 国家反垄断局	　 [网站待公布]() 2021年11月亮相，承办国务院反垄断委员会日常工作。
-	- 。。。
-
-
-5.4 国务院办事机构（及中共中央承担职责机构）
-------------------------------------------
-
-* 国务院研究室
-* 国务院侨务办公室 +⋙ 中央统战部	　 []()
-* 国务院港澳事务办公室 +⋙ 中央统战部	　 []()
-* 国务院台湾事务办公室／【中共中央台湾工作办公室】
-* 国务院新闻办公室 +⋙ 中央宣传部	　 []()
-* 国家互联网信息办公室／中央网络安全和信息化委员会办公室
-* 国家公务员局 +⋙ 中央组织部	　 []()
-* 国家档案局／【中央档案馆】	　 []()
-* 国家保密局／【中央保密委员会办公室】
-* 国家密码管理局／【中央密码工作领导小组办公室】
-
-	*中共中央各部门 请参见下方段落*[]()
-
-5.5 国务院直属事业单位
-----------------------
-
-* 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
-	- 《参考消息》、《中国证券报》等，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
-	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
-* 中央广播电视总台	　CMG 暂无官网
-	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[老生常谈云媒体](https://laosheng.top/fly/)*
-	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
-* 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 [《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
-	- [中国天气网](http://www.weather.com.cn) 预报预警、雷达云图、天气新闻、气象科普……
-	  - 📠 400-6000-121 气象服务热线，咨询、建议、合作与投诉
-	  - 📠 12121 天气预报查询 
-	- 国家气象中心（[中央气象台](http://www.nmc.cn/)）降水预报、天气实况、城市预报、台风海洋……
-	- 华风气象传媒集团 ☁[中国气象频道](http://www.weathertv.cn/) 能直播吗？（央视《新闻联播》后的天气预报栏目）
-* 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
-	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
-	- 🙋直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
-* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
-	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
-	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
-	- 🙋直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
-	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
-* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
-	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
-	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
-	- 中国工程[科技知识中心](http://www.ckcest.cn/)
-	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
-* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 全国36个派出机构
-	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
-	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
-* 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
-	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
-	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
-	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/changtan/8-证券信息披露的法定媒体.txt)*
-* 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) [《中国经济时报》](http://jjsb.cet.com.cn)
-	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
-	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
-	- 国研网 [统计数据库](http://data.drcnet.com.cn/) 宏观经济、区域经济、重点行业、世界经济
-* 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
-	- [网上党校](https://wsdx.ccps.gov.cn/)
-
-
-<div align="right"><a href="#">↑Top</a></div>
 
 6 部分国有企业 🏭
 =================
