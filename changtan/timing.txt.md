@@ -50,11 +50,13 @@
 <a href="https://Mengso.com" title="为小众而搜">萌搜</a>、
 <a href="https://gobaidugle.com/search2?one=bing&two=sogou&keyword=谷歌镜像" 
 	title="双栏同搜，谷百度歌">双搜</a>。　	<!-- 百度似乎拒绝了 -->
+
 *	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，不兼容古典浏览器
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
 *	盘搜搜   	<https://www.pansoso.com >
 *	盘搜     	<http://www.pansou.com >
 *	超能搜		<https://www.chaonengsou.com>
+*	Quora		#国外问答社区，比知乎更早
 
 
 2、云媒速览
@@ -78,8 +80,21 @@
 *	长途区号查询	<https://www.123cha.com/postal/>	
 *	查号吧   	<https://www.chahaoba.com/Chahaoba:关于>
 
+*	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
+*	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
 
-3、浏览之器
+　<a title="还能评论吗" href="https://news.qq.com">腾讯新闻</a>
+　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
+
+
+3、电视节目单
+-------------
+
+*　<a href="https://TVsou.com/epg/weishi/" title="地方卫视节目表，搜视网提供">搜视</a>
+*　《<a href="https://tv.cctv.com/lm/kjl/" title="中国青年电视公开课，央视名牌栏目">开讲了</a>》
+
+
+4、浏览之器
 -----------
 
 +	☆<a  title="author/安装包不到1MB的极小安卓浏览器.txt">1MB浏览器</a>：Via、X-beta……
@@ -93,21 +108,6 @@
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 *	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
-
-
-4、电视节目单
--------------
-
-网媒  
-*	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
-*	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
-*	<a title="新闻时评" href="http://news.sina.com.cn/ruijian">新浪锐见</a>
-*	凤凰卫视 <https://v.ifeng.com/shanklist/v/27-95095->
-
-　<a title="还能评论吗" href="https://news.qq.com">腾讯新闻</a>
-　%<a title="今日头条的web网站" href="https://toutiao.com">今日头条</a>
-　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
-　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 
 
 5、老生常谈
@@ -172,6 +172,7 @@
 *	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体
 *	<a href="https://www.gelonghui.com/live" title="深圳格隆汇快讯">格隆汇</a>
 *	<a href="https://www.itslaw.com/" title="法律案例检索平台">无讼</a> 	2021年春停止服务，页面显示‘数据库升级中’。
+　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 
 
 9、IT洁癖
