@@ -17,9 +17,10 @@ div.kuai {	float: left;
 
 div#bao {	height: 468px; 	
 		line-height: 1.8; 	/* 此处行高仅对Fx有效 */
-		background-image: url('LaoshengMap.png'); background-position: -270px -108px; }	
+		background-image: url('LaoshengMap.png'); background-position: -270px -108px; 
 		/*, no-repeat, -90*/
-
+		margin-left:0.5em; margin-right: 1em;
+	}
 div.you {	text-align: right; }
 div#top {	margin-bottom:-3%; }		/* div#tuli */
 
