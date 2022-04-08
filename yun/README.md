@@ -1,28 +1,31 @@
-老生云图，云上公共图书馆
+老生云图，收录网址的云上公共图书馆。　本图提供以下服务，均用浏览器查阅，无需下载App。 收录持续进行，欢迎提出意见：
 
-网站库 🌐
++	[中文阅览室](../fly) 	　提供全国地级市的党报、晚报、电视频道直播、点播网址，在线收看。
++	[外文阅览室](../fly/yidaiyilu.html) 	　提供世界各国的主要媒体网址。
++	[法律检索室](../falv) 	　提供中国现行有效法律的简目与读本。
++	[政策咨询室](../fuwu) 	　提供党政四套班子的网络交流平台与咨询投诉电话。
++	[网址库](https://Laosheng.top/yun)(本页) 	　老生云图的网址总库，按中图法编目并增补LMWY四类内容。
+
+网址库 🌐
 =========
 
 <h2 align="center">云云大观，收网入库</h2>
-<center>　　本库参照中图法分类，收录利于学习的公益性网站。　包括：文献网站、博物馆、软件网站、论坛，以及少量电子书和影视剧。</center>
-<h3 align="center">中图法 22类简目</h3>
+<center>　　本库参照中图法分类，收录利于学习的网站网址。　收录网址以公益性网站为主，包括：电子文献、博物馆、软件、论坛，以及少量电子书和影视剧。</center>
+<h3 align="center">中图法 22类简目 + 4 </h3>
 <table class="AZ" align="center" width="360" border="1" >	<!-- cellpadding="2" width="800" -->
 <tbody>
-<tr>	<td>A 马列主义</td><td>B 哲学、宗教</td><td>C 社会科学总论</td><td>D 政治、法律</td> 	</tr>
-<tr>	<td></td>	<td>E 军事</td>	<td>F 经济</td>	<td>G 文化科学教育体育</td>		</tr>
-<tr>	<td>H 语言、文字</td>	<td>I 文学</td>	<td>J 艺术</td>	<td>K 历史、地理</td>		</tr>
-<tr>	<td></td>	<td>L 老生云图</td>	<td>M -</td>	<td>N 自然科学总论</td>			</tr>
+<tr>	<td>A 马列主义</td><td>B 哲学、宗教</td><td>C 社会科学总论</td><td>D 政治、法律</td> </tr>
+<tr>	<td></td>	<td>E 军事</td>	<td>F 经济</td>	<td>G 文化科学教育体育</td>	</tr>
+<tr>	<td>H 语言、文字</td>	<td>I 文学</td>	<td>J 艺术</td>	<td>K 历史、地理</td>	</tr>
+<tr>	<td></td><td>L-老生云图</td>	<td>M-萌动天地 </td>	<td>N 自然科学总论</td>	</tr>
 <tr>	<td>O 数理化科学</td><td>P 天文学地球科学　</td>	<td>Q 生物科学</td><td></td>	</tr>
 <tr>	<td></td>	<td>R 医药、卫生</td><td>S 农业科学</td>	<td>T 工业科学</td>	</tr>
-<tr>	<td>U 交通运输</td>	<td>V 航空、航天</td>	<td>W -</td>	<td></td>	</tr>
-<tr>	<td></td>	<td>X 环境、安全科学</td><td>Y -</td>	<td>Z 综合性图书</td> 	</tr>
+<tr>	<td>U 交通运输</td>	<td>V 航空、航天</td>	<td>W-万维之家</td>	<td></td></tr>
+<tr>	<td></td>	<td>X 环境、安全科学</td><td>Y-云上漫步</td>	<td>Z 综合性图书</td></tr>
 </tbody>
 </table>
-<table class="AZ" align="center" width="400" >
-<tbody>
-<tr>	<td>注：字母LMYW为中图法预留</td>		</tr>
-</tbody>
-</table>
+
+	注：字母LMYW为中图法预留，本图启用。
 
 
 <h3>A 马克思主义、列宁主义</h3>
@@ -37,6 +40,7 @@ A7 马恩列宁斯毛邓 生平和传记
 A8 马列主义、毛思想、邓理论的学习和研究
 </small>
 <br>
+
 
 <h3>B 哲学、宗教</h3>
 <small>
@@ -56,6 +60,7 @@ B84 心理学
 B9 宗教
 </small>
 <br>
+
 
 <h3>C 社会科学总论</h3>
 <small>
@@ -79,6 +84,7 @@ C97 劳动科学
 </small>
 <br>
 
+
 <h3>D 政治、法律</h3>
 <small>
 D0 政治学、政治理论
@@ -95,8 +101,8 @@ DF 法律
 </small>
 <br>
 
-<h3>E 军事</h3>
 
+<h3>E 军事</h3>
 E0 军事理论
 E1 世界军事
 E2 中国军事
@@ -104,7 +110,6 @@ E3/7 各国军事
 E8 战略学、战役学、战术学
 E9 军事技术
 E99 军事地形学、军事地理学
-
 <br>
 
 <h3>F 经济</h3>
@@ -124,8 +129,8 @@ F8 财政、金融
 </small>
 <br>
 
-<h3>G 文化.科学.教育.体育</h3>
 
+<h3>G 文化.科学.教育.体育</h3>
 G0 文化理论
 G1 世界各国文化与文化事业
 G2 信息与知识传播
@@ -156,16 +161,20 @@ H81 非洲诸语言
 H83 美洲诸语言
 H84 大洋州诸语言
 H9 国际辅助语
-</small>
-<br>
+</small><br>
+
++	乡音苑 <https://phonemica.net>，两个美国人建立中国方言地图网站
++	[粤语谐音网](https://www.xieyinge.com) 粤语/闽南语的歌词普通话注音
++	谐音网 <https://www.ciding.top>
+
 
 <h3>I 文学</h3>
-
 I0 文学理论
 I1 世界文学
 I2 中国文学
 I3/7 各国文学
 <br>
+
 
 <h3>J 艺术</h3>
 <small>
@@ -204,7 +213,11 @@ K9 地理
 
 <h3>L （预留）</h3>
 
+<br>
+
 <h3>M （预留）</h3>
+
+<br>
 
 <h3>N 自然科学总论</h3>
 <small>
@@ -227,7 +240,6 @@ N94 系统科学
 
 
 <h3>O 数理科学和化学</h3>
-
 O1 数学
 O3 力学
 O4 物理学
@@ -236,7 +248,6 @@ O7 晶体学
 <br>
 
 <h3>P 天文学、地球科学</h3>
-
 P1 天文学
 P2 测绘学
 P3 地球物理学
@@ -244,7 +255,6 @@ P4 大气科学（气象学）
 P5 地质学
 P7 海洋学
 P9 自然地理学
-
 <br>
 
 <h3>Q 生物科学</h3>
@@ -290,7 +300,6 @@ R9 药学
 <br>
 
 <h3>S 农业科学</h3>
-
 S1 农业基础科学
 S2 农业工程
 S3 农学（农艺学）
@@ -300,7 +309,6 @@ S6 园艺
 S7 林业
 S8 畜牧、 动物医学、狩猎、蚕、蜂
 S9 水产、渔业
-
 <br>
 
 <h3>T 工业技术</h3>
@@ -327,25 +335,23 @@ TV 水利工程
 
 
 <h3>U 交通运输</h3>
-
 U1 综合运输
 U2 铁路运输
 U4 公路运输
 U6 水路运输
 [U8] 航空运输
-
 <br>
 
 <h3>V 航空、航天</h3>
-
 V1 航空、航天技术的研究与探索
 V2 航空
 V4 航天（宇宙航行）
 [V7] 航空、航天医学
-
 <br>
 
 <h3>W （预留）</h3>
+
+<br>
 
 <h3>X 环境科学、安全科学</h3>
 <small>
@@ -361,9 +367,9 @@ X9 安全科学
 <br>
 
 <h3>Y （预留）</h3>
+<br>
 
 <h3>Z 综合性图书</h3>
-
 Z1 丛书
 Z2 百科全书、类书
 Z3 辞典
@@ -371,12 +377,16 @@ Z4 论文集、全集、选集、杂著
 Z5 年鉴、年刊
 Z6 期刊、连续性出版物
 Z8 图书报刊目录、文摘、索引
-
 <br>
+<br>
+
+<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+　　您对本页面 <a title="到新窗口撰写留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">有什么想说的吗</a>？
 
 <table id="tuli" align="right" border="1" cellpadding="4">
 <tbody><tr><td><pre>
 	 【<b>图例</b>】
+电子文献、软件、博物馆、影视片
  %　有浏览障碍
  %m 不让手机浏览器看
  #　限制地区访问
@@ -384,23 +394,16 @@ Z8 图书报刊目录、文摘、索引
  ☁️ 电视直播云媒体
  ☁️d 手机上需模拟桌面模式</pre></td></tr></tbody>
 </table>
-<!--  %w 微信不让看  ⛅ 7x24全天候播出 
- %　有浏览障碍，或需要付费 😕<br>
- $　非安全连接，http少个s 😳<br>
- #　井中站，需要科学上网 😏<br> -->
-
-<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
-
-　　您对本页面 <a title="到新窗口撰写留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">有什么想说的吗</a>？
-
-	© 老生云图 2019-2022 Copyright by 大萌
-	CC-BY-NC-ND-4.0 	可转发-原署名-非演绎-非商用  
-	汇编/批注：大萌 　	网站库 Beta v0.1.5
-<!-- https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh" -->
 
 
-<a title="返回老生常谈首页" href="." target="_self">&lt;&lt;返回上一级</a>  
-点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" ><img src="../indexQR-Blue.png"></a>  
+
+	老生云图© 2019-2022	Copyright by 大萌
+	CC-BY-NC-ND-3.0	可转发-原署名-非演绎-非营利  
+	网站库 Beta v0.2.0	汇编/批注：大萌
+
+<a title="返回老生常谈首页" href=".." target="_self">&lt;&lt;返回上一级</a>  
+点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" >  
+<img src="../indexQR-Blue.png"></a>  
 “在浏览器打开” <a href="https://Laosheng.top" title="老生常谈排行榜">https://Laosheng.top</a>
 
 🐁🐂🐅🐇🐉🐍🐎🐐🐒🐓🐕🐖
