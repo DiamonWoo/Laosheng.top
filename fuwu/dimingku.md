@@ -17,7 +17,9 @@
 省级行政区划
 -----------
 
-*	[diming省级34+1.tsv](diming省级34+1.tsv)
+diming省级34+1.tsv[下载](diming省级34+1.tsv)、
+[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming省级34+1.tsv)
+
 
 县级行政区划
 -----------
