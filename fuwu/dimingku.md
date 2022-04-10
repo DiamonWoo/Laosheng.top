@@ -30,7 +30,7 @@
 -----------
 
 ```tsv
-区划代码	行政区划全称	简称	区划类别	省名	首府驻地		首府级别	批注
+	区划代码	行政区划全称	简称	区划类别	省名	首府驻地		首府级别	批注
 	110000	北京市		京	直辖市	北京	通州区		县区	首都
 	120000	天津市		津	直辖市	天津	河西区		县区	
 	130000	河北省		冀	省	河北	石家庄市		地市级	
@@ -72,17 +72,19 @@
 省地县三级行政区划数据
 --------------------
 
-　　行政区划【省级图】：[下载](diming省级图.tsv)、
-[单独浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming省级图.tsv){:target="_blank"}
++	行政区划<省级图>：[下载](diming省级图.tsv)、
+[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming省级图.tsv){:target="_blank"}
 -
 
-　　行政区划【地级图】：[下载](diming地级图.tsv)、
-[单独浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地级图.tsv){:target="_blank"}
++	行政区划<地级图>：[下载](diming地级图.tsv)、
+[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地级图.tsv){:target="_blank"}
 -
-
-　　行政区划【县级地级省级图】：[下载](diming县级地级省级图.tsv)、
++	行政区划<县级地级省级图>：[下载](diming县级地级省级图.tsv)、
 [在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming县级地级省级图.tsv){:target="_blank"}
 -
+
+　　【在线浏览】支持筛选功能，比如，浏览<省级图>时，当在上方搜索栏中键入‘北’，下方表格会显示数据各列中包含‘北’字的行。如图。
+![](tsv2github.png)
 
 
 延申阅读
@@ -92,7 +94,7 @@
 
 　　《中国千县地名库》是一个很好的计算机教学示例库，可以改善Database教材中Smaple Table 内容对中文用户不直观的问题。我将此库以GPL 3.0许可协议公布在网站，欢迎各位教师使用。
 
-[从地名库学习SQLite数据库](diming4SQLite)
++	[从地名库学习SQLite数据库](diming4SQLite)
 
 
 ```
