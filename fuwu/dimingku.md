@@ -74,7 +74,7 @@
 
 +	行政区划〖省级图〗：[下载](diming省级图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming省级图.tsv)
 
-+	行政区划〖地级图〗：[下载](diming地级图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地级图.tsv)
++	行政区划〖地市图〗：[下载](diming地市图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地市图.tsv)
 
 +	行政区划〖县级地级省级图〗：[下载](diming县级地级省级图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming县级地级省级图.tsv){:target="_blank"}
 -
