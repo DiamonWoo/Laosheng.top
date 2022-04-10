@@ -29,7 +29,7 @@
 省级行政区划
 -----------
 
-```tsv
+```TSV
 	区划代码	行政区划全称	简称	区划类别	省名	首府驻地		首府级别	批注
 	110000	北京市		京	直辖市	北京	通州区		县区	首都
 	120000	天津市		津	直辖市	天津	河西区		县区	
@@ -73,11 +73,11 @@
 --------------------
 
 +	行政区划<省级图>：[下载](diming省级图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming省级图.tsv){:target="_blank"}
-+
+-
 +	行政区划<地级图>：[下载](diming地级图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming地级图.tsv){:target="_blank"}
-+
+-
 +	行政区划<县级地级省级图>：[下载](diming县级地级省级图.tsv)、[在线浏览](https://github.com/DiamonWoo/Laosheng.top/blob/master/fuwu/diming县级地级省级图.tsv){:target="_blank"}
-+
+-
 
 　　【在线浏览】支持筛选功能，比如，浏览<省级图>时，当在上方搜索栏中键入‘北’，下方表格会显示数据各列中包含‘北’字的行。如图。
 
