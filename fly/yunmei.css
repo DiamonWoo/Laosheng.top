@@ -1,7 +1,8 @@
 /* Laosheng.top 老生常谈 */
 /* 云媒体系列页面使用 */
 
-	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk);
+	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk); 
+		background-repeat: no-repeat;
 /* background: hsl(215, 90%, 95%); LightCyan  WhiteSmoke;	v2.0 #FAFAD2 ;#f2f9ff */
 /* v1.9.8 rgb(255,255,200) #EEEECC LightYellow #FFFFE0  Cornsilk #FFF8DC LightGoldenRodYellow #FAFAD2 */
 		margin-left:1em; 		/* rem反而更小，奇怪。	margin-left:3%;*/
@@ -11,10 +12,10 @@
 		}
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
 	h3	{margin-bottom: 0%}
+/* 	img	{ vertical-align: middle;  }		解决图像偏高的问题 bottom*/
 
 	div.you	{text-align: right; }
-	div#top	{margin-bottom:-3%; }		/* div#tuli */
-
+	div#top	{margin-bottom:-3%; }		/* div#tuli -3em*/
 	table#tuli
 		{background-color: white;	/*height: 10px; */
 		margin-left: 1em;}
@@ -38,7 +39,7 @@
 	table#主要国家
 	{	width: 1280px; height: 720px;
 /* width: 1280px; height: 720px; */
-	background-image: url(yidaiyilu-main-v-0.7.7.png);
+	background-image: url(yidaiyilu-main-v-0.8.0.png);
 /* 	图片名的'单引号'是多余的，"双引号"效果一样。 */
 /* 	background-repeat: no-repeat;  */
  	background-size: contain;
@@ -48,7 +49,7 @@
 	table#其他国家
 	{	width: 720px; height: 960px; 		/* height: 1280px; */
  		background-position: center;  background-size: contain;
- 		background-image: url('yidaiyilu-other-v-0.7.7.gif'); 
+ 		background-image: url('yidaiyilu-other-v-0.8.0.gif'); 
 	}
 /* 地区语言颜色 */
 	span.ar	{background-color: lightgreen;}	/* Arab 绿色*/
@@ -57,8 +58,8 @@
 	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
 
 
-/* 联合国有关部门 */
-	table.国际云 {	margin-right: 2em;	margin-left: 1em;}
+/* 人类命运有关部门 */
+	table.国际云 {	margin-right: 2%;	margin-left: 2%;}
 	table.国际云 td {text-align: center;	}
 	h3.国际范 { 	margin-top: -1em; }
 
