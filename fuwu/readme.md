@@ -1,0 +1,49 @@
+老生常谈<base target="_blank">
+
+有关部门服务大全🕘
+=================
+© 2021-2022 大萌
+
+		为人民服务。	——毛泽东，1944年
+
+　　这里是“有关部门”的民间网站，收录中国党政机关、联合国、国际组织的有关部门官方网址。列表如下：
+
++	[中央有关部门](zhongyang)（人大、两院、政协、党中央、国务院），欢迎改编地方版本。
++	[省级五套班子](shengji)（34+兵团，车牌）
++	[全国333个地级市政府服务网站](dijishi)（政府网站、12345网站、选件公开、认证难度、长途区号……）
++	[中国千县地名库](dimingku)（从地名库学习SQLite）
+-	«服务网站查缺查重»，项目评估中……
+
++	[一带一路有关部门](ydyl)（世界各国概况、驻华使馆、外交部门、行政网站、国别域名）
++	[人类命运共同体](union)（翻译网站、国际组织、联合国机关与系统、竞赛与奖项）
+
+
+数据格式
+--------
+
+*	.tsv格式文本文件
+
+　　TSV 是 Tab-Separated Values 的缩写，意思为‘制表符分隔值’(文件)。 这是DSV（Delimiter-Separated Values）的一种形式，意思是，支持范式的间隔符分隔值文件；另一种常见的形式是 .csv文件，即以半角逗号为 delimiter，这是默认格式。
+
+*	SQLite数据库文件
+
+　　SQLite 是一种版权开放的、单文件形式的轻量级关系数据库，自从美国程序员 Richard Hipp 在2000年春季发布以来，已经成为世界上几乎最广泛部署的数据库。
+
+
+
+　　欢迎大家[补充信息和发表意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn )
+
+```
+	老生常谈© 2019-2022 大萌   知识共享许可
+	CC BY-SA 3.0 可转载-需署名-相同方式共享
+	有关部门服务大全 v0.9.9 欢迎改编地方版本
+```
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
+🚨🚓🚑🚒🚌🧑‍🤝‍🧑
