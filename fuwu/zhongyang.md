@@ -1,11 +1,10 @@
-老生常谈 >> [有关部门](.)🕘
-<base target="_blank">
+老生常谈 >> [有关部门](.)🕘<base target="_blank">
 
-中央有关部门 🕘
-================
-大萌 © 2021-2022
+中央有关部门
+==============
+大萌 2021-2022
 
-		各级党政机关和领导干部要学会通过网络走群众路线——习近平 20160419 网络安全和信息化工作座谈会
+	一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
 
 　　本网页依据有关文件，汇编了党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_self"}的：官方网站🌏、服务与投诉电话📞、网络检索与互动平台、主管报纸📰、直属院校🙋……　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 
@@ -144,7 +143,8 @@
 	- 中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view) ☁️
 	- 🙋[国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
 
- 　*快速找法可见[大萌望海楼](../falv )*
+ 　*快速找法可见[大萌望海楼](../falv )*  
+   各省两院网址请见：[省级五套班子](shengji)
 
 
 <h1 id="3">
@@ -155,44 +155,7 @@
 *	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
 *	[《人民政协报》](http://dzb.rmzxb.com)
 
-*	各省政协（按 行政区划代码/身份证号 顺序）
-
-　<a href="http://www.bjzx.gov.cn">北京政协</a>
-　<a href="http://www.tjszx.gov.cn/">天津</a>
-　<a href="http://www.hebzx.gov.cn/">河北</a>
-　<a href="http://www.shanxizx.gov.cn/">山西</a>
-　<a href="http://www.nmgzx.gov.cn/">内蒙古</a>
-<br>
-　<a href="http://www.lnzx.gov.cn/">辽宁政协</a>
-　<a href="http://www.jlzx.gov.cn/">吉林</a>
-　<a href="http://www.hljzx.gov.cn/">黑龙江政协</a>
-<br>
-　<a href="http://shszx.eastday.com/">上海政协</a>
-　<a href="http://www.jszx.gov.cn/">江苏</a>
-　<a href="http://www.zjzx.gov.cn/">浙江</a>
-　<a href="http://www.ahzx.gov.cn">安徽</a>
-　<a href="http://www.fjzx.gov.cn/">福建</a>
-　<a href="http://jxzx.jxnews.com.cn/">江西</a>
-　<a href="http://www.sdzx.gov.cn/">山东政协</a>
-<br>
-　<a href="http://www.hnzx.gov.cn/">河南政协</a>
-　<a href="http://www.hbzx.gov.cn/">湖北</a>
-　<a href="http://www.hunanzx.gov.cn/">湖南</a>
-　<a href="http://www.gdzxb.gov.cn/">广东</a>
-　<a href="http://www.gxzx.gov.cn/">广西</a>
-　<a href="http://www.hainanzx.gov.cn/">海南政协</a>
-<br>
-　<a href="http://www.cqzx.gov.cn/">重庆政协</a>
-　<a href="http://www.sczx.gov.cn/">四川</a>
-　<a href="http://www.gzszx.gov.cn/">贵州</a>
-　<a href="http://www.ynzx.gov.cn/">云南</a>
-　<a href="http://www.xizangzx.gov.cn/">西藏政协</a>
-<br>
-　<a href="http://www.sxzx.gov.cn/">陕西政协</a>
-　<a href="http://www.gszx.gov.cn/w/Default.htm">甘肃</a>
-　<a href="http://www.qhszx.gov.cn/">青海</a>
-　<a href="http://www.nxzx.gov.cn/">宁夏</a>
-　<a href="http://www.xjzx.gov.cn/">新疆政协</a>
+*	各省政协网址请见：[省级五套班子](shengji)
 
 
 3.1 政协八个民主党派
@@ -314,6 +277,7 @@
 	- [《中国纪检监察报》](http://www.jjjcb.cn ) 、[《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
 	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
 
+   各省纪委监委请见：[省级五套班子](shengji)
 
 4.1 中共中央职能部门 1+5
 -----------------------
@@ -859,7 +823,7 @@
 ```
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-可演绎-相同方式共享
-	中央有关部门 v0.9.9	欢迎创作地方版本
+	中央有关部门 v1.0.0	欢迎创作地方版本
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
