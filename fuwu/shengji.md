@@ -1,10 +1,10 @@
-老生常谈 >> [有关部门](.)🕘
+老生常谈 >> [有关部门](.)🕘<base target="_blank">
 
 省级五套班子网址
-================
-汇编:大萌 202205
+===============
+202205
 
-		为人民服务
+		各级党政机关和领导干部要学会通过网络走群众路线——习近平 20160419 网络安全和信息化工作座谈会
 
 <h2>北京</h2>
 [北京人大](http://www.bjrd.gov.cn)　	代表信息页	地方法规页　	[政协](http://www.bjzx.gov.cn)	提案公开页  
@@ -186,43 +186,42 @@
 [宁夏人大](http://www.nxrd.gov.cn)　	代表信息页	地方法规页　	[政协](http://www.nxzx.gov.cn)	提案公开页  
 [人民政府](http://www.nx.gov.cn)　	[省司法厅](http://sft.nx.gov.cn)  	[宁夏回族自治区公安厅](http://gat.nx.gov.cn)  
 [省高检](http://www.nx.jcy.gov.cn)　	[省高法](http://www.nxfy.gov.cn)  
-[宁夏长安网](http://www.nxzfw.gov.cn)　	[省纪委监委](http://www.qhjc.gov.cn)		
+[宁夏长安网](http://www.nxzfw.gov.cn)　	[省纪委监委](http://www.qhjc.gov.cn)	
 
 <h2>新疆</h2>
 [新疆人大](http://www.xjpcsc.gov.cn)　	代表信息页	地方法规页　	[政协](http://www.xjzx.gov.cn)	提案公开页  
 [人民政府](http://www.xinjiang.gov.cn)　	[省司法厅](http://sft.xinjiang.gov.cn)  	[新疆维吾尔自治区公安厅](http://gat.xinjiang.gov.cn)  
 [省高检](http://www.xj.jcy.gov.cn)　	[省高法](http://xjfy.chinacourt.gov.cn)  
-[新疆平安网](http://www.xjpeace.cn)　	[省纪委监委](http://www.xjjw.gov.cn)		
+[新疆平安网](http://www.xjpeace.cn)　	[省纪委监委](http://www.xjjw.gov.cn)	
 
 <h2>新疆兵团</h2>
-	代表信息页	地方法规页　		提案公开页  
+
 [人民政府](http://www.xjbt.gov.cn)　	[省司法厅](http://sfj.xjbt.gov.cn)  	[新疆生产建设兵团公安局](http://btgaj.xjbt.gov.cn)  
 [省高检](http://jcy.xjbt.gov.cn)　	[省高法](http://xjbtfy.chinacourt.gov.cn)  
-[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　	[省纪委监委](http://btjw.xjbt.gov.cn)		
+[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　	[省纪委监委](http://btjw.xjbt.gov.cn)
 
 <h2>台湾</h2>
-	代表信息页	地方法规页　		提案公开页  
-		[0](0)	
+	
 [省高检](0)　	[省高法](0)  
-			
+		
 
 <h2>香港</h2>
-[香港人大](https://www.legco.gov.hk/)　	代表信息页	地方法规页　		提案公开页  
+[香港立法会](https://www.legco.gov.hk/)　	代表信息页	地方法规页
 [人民政府](https://www.gov.hk/)　		[香港警务处](https://www.police.gov.hk/)  
 [省高检](https://www.doj.gov.hk/)　	[省高法](https://www.judiciary.hk/)  
-			
+
 
 <h2>澳门</h2>
-[澳门人大](https://www.al.gov.mo/)　	代表信息页	地方法规页　		提案公开页  
+[澳门立法会](https://www.al.gov.mo/)　	代表信息页	地方法规页
 [人民政府](https://www.gov.mo/)　		[澳门警察总局](http://www.spu.gov.mo/)  
 [省高检](https://www.mp.gov.mo/)　	[省高法](https://www.court.gov.mo/)  
-			
+
 
 
 ```
 	老生常谈 © 2019-2022	大萌汇编
 	GPL 3.0	可复制-可修改-相同方式授权
-	省级五套班子网址	v0.9.9
+	省级五套班子网址	v1.0.0	202205
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
