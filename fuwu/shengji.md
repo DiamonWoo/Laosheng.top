@@ -17,7 +17,7 @@
 <a href="#14" target="_self">14-山西</a>　
 <a href="#15" target="_self">15-内蒙古</a>　
 <a href="#21" target="_self">21-辽宁</a>　
-<a href="#22" target="_self">22-吉林</a>
+<a href="#22" target="_self">22-吉林</a>　
 <a href="#23" target="_self">23-黑龙江</a>　
 <a href="#31" target="_self">31-上海</a>　
 <a href="#32" target="_self">32-江苏</a>　
@@ -47,13 +47,23 @@
 <a href="#81" target="_self">81-香港</a>　
 <a href="#82" target="_self">82-澳门</a>　91-国外入籍身份证号
 
-　　通常省级机关的网站会在页面底部给出本系统的友情连接：其他省份的同类机关、下辖各地级市的机关；但这种连接有更新不及时的情况。  
+　　  对各省网站的技术标记工作还在进行，目前只完成了华东华南部门省份、部分类别的标记。
 
-图例
-----
-+	🔒 表示网站支持https安全连接；
+技术标记图例
+-----------
++	🔰 表示网站支持https安全连接；
 +	📱 表示网页适配手机浏览器；
 +	💬 表示网站提供网页留言。
+
+<b>10 中央部门示例</b>
+
+[全国人大](http://www.npc.gov.cn)　	[代表信息页](http://www.npc.gov.cn/npc/dbmd13/dbmd.shtml)	[地方法规页](https://flk.npc.gov.cn)🔰  
+[全国政协](http://www.cppcc.gov.cn) 　	提案公开页[]()  
+[人民政府](https://www.beijing.gov.cn)🔰 　	[全国政务服务总门户](http://www.gov.cn/fuwu/)  
+[司法部](https://www.moj.gov.cn)🔰　	[12348法律服务站](http://12348.moj.gov.cn/)  
+[公安部](https://www.mps.gov.cn)🔰 　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)　  
+[最高检](https://www.spp.gov.cn)🔰　[最高法](https://www.court.gov.cn)🔰 	[中央政法委](https://www.chinapeace.gov.cn)🔰 　  
+[中央纪委国家监委](https://www.ccdi.gov.cn)🔰 　	[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)
 
 
 <h2 id="11">11 北京</h2>
@@ -63,7 +73,7 @@
 [人民政府](http://www.beijing.gov.cn) 　	服务品牌  
 [省司法厅](http://sfj.beijing.gov.cn)　	[12348法律服务站](http://bj.12348.gov.cn)  
 [北京市公安局](http://gaj.beijing.gov.cn) 　[警民互动页](http://gaj.beijing.gov.cn)　  
-[省高检](https://www.bjjc.gov.cn) 🔒　[省高法](http://bjgy.chinacourt.gov.cn) 	[北京政法网](http://www.bj148.org) 　  
+[省高检](https://www.bjjc.gov.cn) 🔰　[省高法](http://bjgy.chinacourt.gov.cn) 	[北京政法网](http://www.bj148.org) 　  
 [北京纪委监委](http://www.bjsupervision.gov.cn) 　	[巡视巡察页](http://www.bjsupervision.gov.cn)　[审查调查页](http://www.bjsupervision.gov.cn)
 
 <h2 id="12">12 天津</h2>
@@ -140,38 +150,38 @@
 
 [上海人大](http://www.spcsc.sh.cn)　	[代表信息页](http://odbapp.eastday.com/shrdweb/dbxx.aspx)	[地方法规页](https://law.sfj.sh.gov.cn/)  
 [上海政协](http://www.shszx.gov.cn) 　	[提案公开页](http://www.shszx.gov.cn/node2/node5368/node5376/index.html)  
-[人民政府](https://www.shanghai.gov.cn) 🔒　	上海一网通办  
-[省司法厅](https://sfj.sh.gov.cn)🔒　	[12348法律服务站](http://sh.12348.gov.cn)  
-[上海市公安局](https://gaj.sh.gov.cn) 🔒　[警民互动页](https://gaj.sh.gov.cn/shga/toShgarx)　  
-[省高检](https://www.sh.jcy.gov.cn) 🔒　[省高法](https://www.hshfy.sh.cn/) 🔒	[上海政法综治网](http://www.shzfzz.net) 　  
+[人民政府](https://www.shanghai.gov.cn) 🔰　	上海一网通办  
+[省司法厅](https://sfj.sh.gov.cn)🔰　	[12348法律服务站](http://sh.12348.gov.cn)  
+[上海市公安局](https://gaj.sh.gov.cn) 🔰　[警民互动页](https://gaj.sh.gov.cn/shga/toShgarx)　  
+[省高检](https://www.sh.jcy.gov.cn) 🔰　[省高法](https://www.hshfy.sh.cn/) 🔰	[上海政法综治网](http://www.shzfzz.net) 　  
 [上海纪委监委](http://jcw.sh.gov.cn) 　	[巡视巡察页](http://jcw.sh.gov.cn/zgshsjljcwyhxxgk/xsxc/xsxc.html)　[审查调查页](http://jcw.sh.gov.cn/zgshsjljcwyhxxgk/bs/bs.html)
 
 <h2 id="32">32 江苏</h2>
 
 [江苏人大](http://www.jsrd.gov.cn)　	[代表信息页](http://www.jsrd.gov.cn/rdgl/zzjg/srmdbdh/)	[地方法规页](http://www.jsrd.gov.cn/qwfb/sjfg/)  
 [江苏政协](http://www.jszx.gov.cn) 　	提案公开页  
-[人民政府](https://www.jiangsu.gov.cn) 🔒　	江苏政务服务  
+[人民政府](https://www.jiangsu.gov.cn) 🔰　	江苏政务服务  
 [省司法厅](http://sft.jiangsu.gov.cn)　	[12348法律服务站](http://js.12348.gov.cn)  
 [江苏省公安厅](http://gat.jiangsu.gov.cn) 　[警民互动页](http://gat.jiangsu.gov.cn/col/col6357/)　  
-[省高检](https://www.js.jcy.gov.cn) 🔒　[省高法](http://www.jsfy.gov.cn) 	[江苏长安网](http://www.jszf.org) 　  
+[省高检](https://www.js.jcy.gov.cn) 🔰　[省高法](http://www.jsfy.gov.cn) 	[江苏长安网](http://www.jszf.org) 　  
 [江苏纪委监委](http://www.jssjw.gov.cn) 　	[巡视巡察页](http://www.jssjw.gov.cn/col/col1320/)　[审查调查页](http://www.jssjw.gov.cn/col/col17/)
 
 <h2 id="33">33 浙江</h2>
 
-[浙江人大](https://www.zjrd.gov.cn)🔒　	[代表信息页](http://dblz.zjrd.gov.cn/dbllz/)	[地方法规页](https://www.zjrd.gov.cn/dflf/dffgk/)  
-[浙江政协](https://www.zjzx.gov.cn) 🔒　	提案公开页  
-[人民政府](https://www.zj.gov.cn) 🔒　	浙里办  
-[省司法厅](https://sft.zj.gov.cn)🔒　	[12348法律服务站](https://12348.sft.zj.gov.cn)🔒  
-[浙江省公安厅](https://gat.zj.gov.cn) 🔒　[警民互动页](https://gat.zj.gov.cn/col/col1228995271/)　  
-[省高检](http://www.zjjcy.gov.cn) 　[省高法](https://www.zjcourt.cn) 🔒	[平安浙江网](http://www.pazjw.gov.cn) 　  
-[浙江纪委监委](https://www.zjsjw.gov.cn) 🔒　	[巡视巡察页](https://www.zjsjw.gov.cn/xunshixuncha/)　[审查调查页](https://www.zjsjw.gov.cn/quanweifabu/shenchadiaocha/)
+[浙江人大](https://www.zjrd.gov.cn)🔰　	[代表信息页](http://dblz.zjrd.gov.cn/dbllz/)	[地方法规页](https://www.zjrd.gov.cn/dflf/dffgk/)  
+[浙江政协](https://www.zjzx.gov.cn) 🔰　	提案公开页  
+[人民政府](https://www.zj.gov.cn) 🔰　	浙里办  
+[省司法厅](https://sft.zj.gov.cn)🔰　	[12348法律服务站](https://12348.sft.zj.gov.cn)🔰  
+[浙江省公安厅](https://gat.zj.gov.cn) 🔰　[警民互动页](https://gat.zj.gov.cn/col/col1228995271/)　  
+[省高检](http://www.zjjcy.gov.cn) 　[省高法](https://www.zjcourt.cn) 🔰	[平安浙江网](http://www.pazjw.gov.cn) 　  
+[浙江纪委监委](https://www.zjsjw.gov.cn) 🔰　	[巡视巡察页](https://www.zjsjw.gov.cn/xunshixuncha/)　[审查调查页](https://www.zjsjw.gov.cn/quanweifabu/shenchadiaocha/)
 
 <h2 id="34">34 安徽</h2>
 
 [安徽人大](http://www.ahrd.gov.cn)　	代表信息页	[地方法规页](http://www.ahrd.gov.cn/list.jsp?strColId=96efd7a1c2394841b05eca98d0b98862&)  
 [安徽政协](http://www.ahzx.gov.cn) 　	[提案公开页](http://www.ahzx.gov.cn/duties/list?strId=66129eb34e6b46d990a0f7ccc5a796fb)  
-[人民政府](https://www.ah.gov.cn) 🔒　	皖事通办  
-[省司法厅](https://sft.ah.gov.cn)🔒　	[12348法律服务站](http://ah.12348.gov.cn)  
+[人民政府](https://www.ah.gov.cn) 🔰　	皖事通办  
+[省司法厅](https://sft.ah.gov.cn)🔰　	[12348法律服务站](http://ah.12348.gov.cn)  
 [安徽省公安厅](http://Gat.ah.gov.cn) 　[警民互动页](http://Gat.ah.gov.cn/hdjl/)　  
 [省高检](http://www.ah.jcy.gov.cn) 　[省高法](http://ahfy.chinacourt.gov.cn) 	[安徽长安网](http://www.ahcaw.com) 　  
 [安徽纪委监委](http://www.ahjjjc.gov.cn) 　	[巡视巡察页](http://www.ahjjjc.gov.cn/ahxs)　[审查调查页](http://www.ahjjjc.gov.cn/jdpg)
@@ -180,20 +190,20 @@
 
 [福建人大](http://www.fjrd.gov.cn)　	[代表信息页](http://www.fjrd.gov.cn/admin/dbcx.jsp)	[地方法规页](http://www.fjrd.gov.cn/cn/16)  
 [福建政协](http://www.fjzx.gov.cn) 　	[提案公开页](http://www.fjzx.gov.cn/static/bill/fjzx/fjzx/default.html)  
-[人民政府](https://www.fujian.gov.cn) 🔒　	闽政通  
-[省司法厅](https://sft.fujian.gov.cn)🔒　	[12348法律服务站](http://fj.12348.gov.cn)  
-[福建省公安厅](https://Gat.fujian.gov.cn) 🔒　[警民互动页](https://Gat.fujian.gov.cn/jmhd/)　  
-[省高检](https://www.fj.jcy.gov.cn) 🔒　[省高法](http://fjfy.chinacourt.gov.cn) 	[福建长安网](http://www.pafj.net) 　  
+[人民政府](https://www.fujian.gov.cn) 🔰　	闽政通  
+[省司法厅](https://sft.fujian.gov.cn)🔰　	[12348法律服务站](http://fj.12348.gov.cn)  
+[福建省公安厅](https://Gat.fujian.gov.cn) 🔰　[警民互动页](https://Gat.fujian.gov.cn/jmhd/)　  
+[省高检](https://www.fj.jcy.gov.cn) 🔰　[省高法](http://fjfy.chinacourt.gov.cn) 	[福建长安网](http://www.pafj.net) 　  
 [福建纪委监委](http://www.fjcdi.gov.cn) 　	[巡视巡察页](http://www.fjcdi.gov.cn/html/zfgkxsgz)　[审查调查页](http://www.fjcdi.gov.cn/html/xxgkajcc)
 
 <h2 id="36">36 江西</h2>
 
 [江西人大](http://www.jxrd.gov.cn)　	[代表信息页](https://jxrd.jxnews.com.cn/system/2013/03/01/012308177.shtml)	[地方法规页](https://jxrd.jxnews.com.cn/lfjj/flfg/)  
-[江西政协](https://jxzx.jxnews.com.cn) 🔒　	提案公开页  
-[人民政府](https://www.jiangxi.gov.cn) 🔒　	赣服通  
+[江西政协](https://jxzx.jxnews.com.cn) 🔰　	提案公开页  
+[人民政府](https://www.jiangxi.gov.cn) 🔰　	赣服通  
 [省司法厅](http://www.jxsf.gov.cn)　	[12348法律服务站](http://jx.12348.gov.cn)  
 [江西省公安厅](http://gat.jiangxi.gov.cn) 　[警民互动页](http://gat.jiangxi.gov.cn/col/col40829/)　  
-[省高检](http://www.jx.jcy.gov.cn) 　[省高法](https://jxfy.chinacourt.gov.cn) 🔒	[江西政法网](http://www.jxzfw.gov.cn) 　  
+[省高检](http://www.jx.jcy.gov.cn) 　[省高法](https://jxfy.chinacourt.gov.cn) 🔰	[江西政法网](http://www.jxzfw.gov.cn) 　  
 [江西纪委监委](http://www.jxdi.gov.cn) 　	[巡视巡察页](http://www.jxdi.gov.cn/xsxc/)　[审查调查页](http://www.jxdi.gov.cn/jlsc/)
 
 <h2 id="37">37 山东</h2>
@@ -204,51 +214,51 @@
 [省司法厅](http://sft.shandong.gov.cn)　	[12348法律服务站](http://12348.shandong.gov.cn)  
 [山东省公安厅](http://gat.shandong.gov.cn) 　[警民互动页](http://gat.shandong.gov.cn/msjw//demandsclient/wyzxindex.shtml)　  
 [省高检](http://www.sdjcy.gov.cn) 　[省高法](http://www.sdcourt.gov.cn) 	[山东长安网](http://www.sdpeace.gov.cn) 　  
-[山东纪委监委](https://www.sdjj.gov.cn) 🔒　	[巡视巡察页](https://www.sdjj.gov.cn/gzdt/xsxc/)　[审查调查页](https://www.sdjj.gov.cn/tbbg/)
+[山东纪委监委](https://www.sdjj.gov.cn) 🔰　	[巡视巡察页](https://www.sdjj.gov.cn/gzdt/xsxc/)　[审查调查页](https://www.sdjj.gov.cn/tbbg/)
 
 <h2 id="41">41 河南</h2>
 
-[河南人大](https://www.henanrd.gov.cn)🔒　	[代表信息页](https://www.henanrd.gov.cn/cwhwyxq/)	地方法规页  
+[河南人大](https://www.henanrd.gov.cn)🔰　	[代表信息页](https://www.henanrd.gov.cn/cwhwyxq/)	地方法规页  
 [河南政协](http://www.hnzx.gov.cn) 　	[提案公开页](http://www.hnzx.gov.cn/sitesources/hnzx/page_pc/zxgz/taxx/list1.html)  
-[人民政府](https://www.henan.gov.cn) 🔒　	豫事办  
-[省司法厅](https://sft.henan.gov.cn)🔒　	[12348法律服务站](http://ha.12348.gov.cn)  
-[河南省公安厅](https://hnga.henan.gov.cn) 🔒　[警民互动页](https://hnga.henan.gov.cn/hd/)　  
+[人民政府](https://www.henan.gov.cn) 🔰　	豫事办  
+[省司法厅](https://sft.henan.gov.cn)🔰　	[12348法律服务站](http://ha.12348.gov.cn)  
+[河南省公安厅](https://hnga.henan.gov.cn) 🔰　[警民互动页](https://hnga.henan.gov.cn/hd/)　  
 [省高检](http://www.ha.jcy.gov.cn) 　[省高法](http://www.hncourt.gov.cn) 	[河南长安网](http://www.henanpeace.org.cn) 　  
 [河南纪委监委](http://www.hnsjct.gov.cn) 　	[巡视巡察页](http://www.hnsjct.gov.cn/sitesources/hnsjct/page_pc/hnxsxc/)　[审查调查页](http://www.hnsjct.gov.cn/sitesources/hnsjct/page_pc/qwfbx/scdc/list1.html)
 
 <h2 id="42">42 湖北</h2>
 
 [湖北人大](http://www.hppc.gov.cn)　	代表信息页	[地方法规页](http://119.36.213.154:8088/fgk/index.jsp)  
-[湖北政协](https://www.hbzx.gov.cn) 🔒　	提案公开页  
-[人民政府](https://www.hubei.gov.cn) 🔒　	鄂汇办  
-[省司法厅](https://sft.hubei.gov.cn)🔒　	[12348法律服务站](http://hb.12348.gov.cn)  
-[湖北省公安厅](https://gat.hubei.gov.cn) 🔒　[警民互动页](https://gat.hubei.gov.cn/hdjl/)　  
-[省高检](http://www.hbjc.gov.cn) 　[省高法](https://hubeigy.chinacourt.gov.cn) 🔒	[湖北长安网](http://www.hbcaw.gov.cn) 　  
-[湖北纪委监委](https://www.hbjwjc.gov.cn) 🔒　	[巡视巡察页](https://www.hbjwjc.gov.cn/info/iIndex.jsp?cat_id=11237)　[审查调查页](https://www.hbjwjc.gov.cn/info/iIndex.jsp?cat_id=11447)
+[湖北政协](https://www.hbzx.gov.cn) 🔰　	提案公开页  
+[人民政府](https://www.hubei.gov.cn) 🔰　	鄂汇办  
+[省司法厅](https://sft.hubei.gov.cn)🔰　	[12348法律服务站](http://hb.12348.gov.cn)  
+[湖北省公安厅](https://gat.hubei.gov.cn) 🔰　[警民互动页](https://gat.hubei.gov.cn/hdjl/)　  
+[省高检](http://www.hbjc.gov.cn) 　[省高法](https://hubeigy.chinacourt.gov.cn) 🔰	[湖北长安网](http://www.hbcaw.gov.cn) 　  
+[湖北纪委监委](https://www.hbjwjc.gov.cn) 🔰　	[巡视巡察页](https://www.hbjwjc.gov.cn/info/iIndex.jsp?cat_id=11237)　[审查调查页](https://www.hbjwjc.gov.cn/info/iIndex.jsp?cat_id=11447)
 
 <h2 id="43">43 湖南</h2>
 
 [湖南人大](http://www.hnrd.gov.cn)　	代表信息页	地方法规页  
-[湖南政协](https://www.hunanzx.gov.cn) 🔒　	提案公开页  
-[人民政府](https://www.hunan.gov.cn) 🔒　	一件事一次办  
-[省司法厅](https://sft.hunan.gov.cn)🔒　	[12348法律服务站](http://hn.12348.gov.cn)  
-[湖南省公安厅](https://gat.hunan.gov.cn) 🔒　[警民互动页](https://gat.hunan.gov.cn/jmhd/)　  
-[省高检](https://www.hn.jcy.gov.cn) 🔒　[省高法](https://hunanfy.chinacourt.gov.cn) 🔒	[湖南长安网](https://www.hnzf.gov.cn) 🔒　  
+[湖南政协](https://www.hunanzx.gov.cn) 🔰　	提案公开页  
+[人民政府](https://www.hunan.gov.cn) 🔰　	一件事一次办  
+[省司法厅](https://sft.hunan.gov.cn)🔰　	[12348法律服务站](http://hn.12348.gov.cn)  
+[湖南省公安厅](https://gat.hunan.gov.cn) 🔰　[警民互动页](https://gat.hunan.gov.cn/jmhd/)　  
+[省高检](https://www.hn.jcy.gov.cn) 🔰　[省高法](https://hunanfy.chinacourt.gov.cn) 🔰	[湖南长安网](https://www.hnzf.gov.cn) 🔰　  
 [湖南纪委监委](http://www.sxfj.gov.cn) 　	[巡视巡察页](http://www.sxfj.gov.cn/PageShowNext.aspx?ID=811)　[审查调查页](http://www.sxfj.gov.cn/PageShowNext.aspx?ID=810)
 
 <h2 id="44">44 广东</h2>
 
 [广东人大](http://www.rd.gd.cn)　	[代表信息页](http://www.rd.gd.cn/rdgzxgnr_4349/rddbmd/ljdbmd/)	[地方法规页](https://basc.gdrd.cn/)  
-[广东政协](https://www.gdszx.gov.cn) 🔒　	[提案公开页](https://www.gdszx.gov.cn/tajy/)  
-[人民政府](https://www.gd.gov.cn) 🔒　	粤省事  
-[省司法厅](http://sft.gd.gov.cn)　	[12348法律服务站](https://gd.12348.gov.cn)🔒  
-[广东省公安厅](https://gdga.gd.gov.cn) 🔒　[警民互动页](https://gdga.gd.gov.cn/hdjl/)　  
+[广东政协](https://www.gdszx.gov.cn) 🔰　	[提案公开页](https://www.gdszx.gov.cn/tajy/)  
+[人民政府](https://www.gd.gov.cn) 🔰　	粤省事  
+[省司法厅](http://sft.gd.gov.cn)　	[12348法律服务站](https://gd.12348.gov.cn)🔰  
+[广东省公安厅](https://gdga.gd.gov.cn) 🔰　[警民互动页](https://gdga.gd.gov.cn/hdjl/)　  
 [省高检](http://www.gd.jcy.gov.cn) 　[省高法](http://www.gdcourts.gov.cn) 	[广东政法网](http://www.gdzf.org.cn) 　  
 [广东纪委监委](http://www.gdjct.gd.gov.cn) 　	[巡视巡察页](http://www.gdjct.gd.gov.cn/xunshi/)　[审查调查页](http://www.gdjct.gd.gov.cn/ffkb/)
 
 <h2 id="45">45 广西</h2>
 
-[广西人大](https://www.gxrd.gov.cn)🔒　	[代表信息页](https://www.gxrd.gov.cn/html/more1188.html)	[地方法规页](https://www.gxrd.gov.cn/html/more916.html)  
+[广西人大](https://www.gxrd.gov.cn)🔰　	[代表信息页](https://www.gxrd.gov.cn/html/more1188.html)	[地方法规页](https://www.gxrd.gov.cn/html/more916.html)  
 [广西政协](http://www.gxzx.gov.cn) 　	提案公开页  
 [人民政府](http://www.gxzf.gov.cn) 　	广西数字政务  
 [省司法厅](http://sft.gxzf.gov.cn)　	[12348法律服务站](http://gx.12348.gov.cn)  
@@ -278,7 +288,7 @@
 
 <h2 id="51">51 四川</h2>
 
-[四川人大](https://www.scspc.gov.cn)🔒　	代表信息页	地方法规页  
+[四川人大](https://www.scspc.gov.cn)🔰　	代表信息页	地方法规页  
 [四川政协](http://www.sczx.gov.cn) 　	提案公开页  
 [人民政府](http://www.sc.gov.cn) 　	服务品牌  
 [省司法厅](http://sft.sc.gov.cn)　	[12348法律服务站](http://sc.12348.gov.cn)  
@@ -291,7 +301,7 @@
 [贵州人大](http://www.gzrd.gov.cn)　	代表信息页	地方法规页  
 [贵州政协](http://www.gzszx.gov.cn) 　	提案公开页  
 [人民政府](http://www.guizhou.gov.cn) 　	服务品牌  
-[省司法厅](http://sft.guizhou.gov.cn)　	[12348法律服务站](https://12348.guizhou.gov.cn)🔒  
+[省司法厅](http://sft.guizhou.gov.cn)　	[12348法律服务站](https://12348.guizhou.gov.cn)🔰  
 [贵州省公安厅](http://gat.guizhou.gov.cn) 　[警民互动页](http://gat.guizhou.gov.cn)　  
 [省高检](http://www.gz.jcy.gov.cn) 　[省高法](http://www.guizhoucourt.gov.cn) 	[贵州长安网](http://www.gzpeace.gov.cn) 　  
 [贵州纪委监委](http://www.gzdis.gov.cn) 　	[巡视巡察页](http://www.gzdis.gov.cn)　[审查调查页](http://www.gzdis.gov.cn)
@@ -383,24 +393,26 @@
 
 <h2 id="81">81 香港</h2>
 
-[香港立法会](https://www.legco.gov.hk/)🔒　	代表信息页	地方法规页  
-[政府](https://www.gov.hk/)🔒　		[香港警务处](https://www.police.gov.hk/)🔒  
-[律政司](https://www.doj.gov.hk/)🔒　	[香港法院](https://www.judiciary.hk/)🔒  
-[香港廉政公署](https://www.icac.org.hk/)🔒
+[香港立法会](https://www.legco.gov.hk/)🔰　	代表信息页	地方法规页  
+[政府](https://www.gov.hk/)🔰　		[香港警务处](https://www.police.gov.hk/)🔰  
+[律政司](https://www.doj.gov.hk/)🔰　	[香港法院](https://www.judiciary.hk/)🔰  
+[香港廉政公署](https://www.icac.org.hk/)🔰
 
 <h2 id="82">82 澳门</h2>
 
-[澳门立法会](https://www.al.gov.mo/)🔒　	代表信息页	地方法规页  
-[政府](https://www.gov.mo/)🔒　		[澳门警察总局](http://www.spu.gov.mo/)  
-[检察院](https://www.mp.gov.mo/)🔒　	[澳门法院](https://www.court.gov.mo/)🔒  
-[澳门廉政公署](https://www.ccac.org.mo/)🔒
+[澳门立法会](https://www.al.gov.mo/)🔰　	代表信息页	地方法规页  
+[政府](https://www.gov.mo/)🔰　		[澳门警察总局](http://www.spu.gov.mo/)  
+[检察院](https://www.mp.gov.mo/)🔰　	[澳门法院](https://www.court.gov.mo/)🔰  
+[澳门廉政公署](https://www.ccac.org.mo/)🔰
 
 
 ```
 	老生常谈 © 2019-2022	大萌汇编
 	GPL 3.0	可复制-可修改-相同方式授权
-	省级五套班子网址	v1.2.0	202205
+	省级五套班子网址	v1.2.1	202205
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
+
+🔰🆚🔒🔶🔸📱📳
