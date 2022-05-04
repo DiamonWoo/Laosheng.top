@@ -58,10 +58,12 @@
 <b>10 中央部门示例</b>√√
 
 [全国人大](http://www.npc.gov.cn)　[代表信息页](http://www.npc.gov.cn/npc/dbmd13/dbmd.shtml) [地方法规页](https://flk.npc.gov.cn)🔸　 　 [全国政协](http://www.cppcc.gov.cn) 　	提案公开页[]()  
-[人民政府](https://www.beijing.gov.cn)🔸📱 　	[全国政务服务总门户](http://www.gov.cn/fuwu/) 📞12345　 　 [司法部](https://www.moj.gov.cn)🔸　	[12348法律服务站](http://12348.moj.gov.cn/)📱　 　 [公安部](https://www.mps.gov.cn)🔸📱 　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)  
+[人民政府](https://www.beijing.gov.cn)🔸📱 　	[全国政务服务总门户](http://www.gov.cn/fuwu/)　 全国统一政务服务电话📞 12345  
+　 [司法部](https://www.moj.gov.cn)🔸　	[12348法律服务站](http://12348.moj.gov.cn/)📱　 
+　 [公安部](https://www.mps.gov.cn)🔸📱 　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)  
 [最高检](https://www.spp.gov.cn)🔸📱　 　 [最高法](https://www.court.gov.cn)🔸　 　 [中央政法委](https://www.chinapeace.gov.cn)🔸📱  
 [中央纪委国家监委](https://www.ccdi.gov.cn)🔸📱 　	[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)
-  …… 更多部门见**[中央有关部门](zhongyang)**
+  …… 更多部门及全国统一电话号码请见**[中央有关部门](zhongyang)**页面
 
 
 <h2 id='11' >11 北京</h2>
