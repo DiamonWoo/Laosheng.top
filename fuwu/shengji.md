@@ -295,14 +295,14 @@
 
 [省高检](0)　	[省高法](0)  
 
-<h2 id="81">81 香港√</h2>
+<h2 id="81">81 香港</h2>
 
 [香港立法会](https://www.legco.gov.hk/)🔸　	代表信息页	地方法规页  
 [政府](https://www.gov.hk/)🔸　		[香港警务处](https://www.police.gov.hk/)🔸  
 [律政司](https://www.doj.gov.hk/)🔸　	[香港法院](https://www.judiciary.hk/)🔸  
 [香港廉政公署](https://www.icac.org.hk/)🔸
 
-<h2 id="82">82 澳门√</h2>
+<h2 id="82">82 澳门</h2>
 
 [澳门立法会](https://www.al.gov.mo/)🔸　	代表信息页	地方法规页  
 [政府](https://www.gov.mo/)🔸　		[澳门警察总局](http://www.spu.gov.mo/)  
@@ -319,4 +319,4 @@
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
 
-🔒🆚🔰🔶🔸📱📳
+🔒🆚🔰🔶🔸📱📳🔹♦️
