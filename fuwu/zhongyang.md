@@ -78,46 +78,7 @@
   	- [【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的目录与电子文本。
   - 国家监委/【中央纪委】 请见中国共产党段落
 
-* 各省人大网站（按身份证号码排序，不含港澳台）
-
-　11<a href="http://www.bjrd.gov.cn/">北京人大</a>
-　12<a href="http://www.tjrd.gov.cn/">天津</a>
-　13<a href="http://www.hbrd.net/">河北</a>
-　14<a href="http://www.sxpc.gov.cn/">山西</a>
-　15<a href="http://www.nmgrd.gov.cn/">内蒙古</a>　
-<br>
-　21<a href="http://www.lnrd.gov.cn/">辽宁人大</a>
-　22<a href="http://www.jlrd.gov.cn/">吉林人大</a>
-　23<a href="http://www.hljrd.gov.cn/">黑龙江人大</a>
-<br>
-　31<a href="http://www.spcsc.sh.cn/">上海人大</a>
-　32<a href="http://www.jsrd.gov.cn/">江苏人大</a>
-　33<a href="http://www.zjrd.gov.cn/">浙江人大</a>
-　34<a href="http://www.ahrd.gov.cn/">安徽人大</a>
-　35<a href="http://www.fjrd.gov.cn/">福建人大</a>
-　36<a href="http://www.fjrd.gov.cn/">江西人大</a>
-　37<a href="http://www.sdrd.gov.cn/">山东人大</a>
-<br>
-　41<a href="http://www.henanrd.gov.cn/">河南人大</a>
-　42<a href="http://www.hppc.gov.cn/">湖北人大</a>
-　43<a href="http://www.hnrd.gov.cn/">湖南人大</a>
-　44<a href="http://www.rd.gd.cn/">广东人大</a>
-　45<a href="http://www.gxrd.gov.cn/">广西人大</a>
-　46<a href="http://www.hainanpc.net/">海南人大</a>
-<br>
-　50<a href="http://www.ccpc.cq.cn/">重庆人大</a>
-　51<a href="http://www.scspc.gov.cn/">四川人大</a>
-　52<a href="http://www.gzrd.gov.cn/">贵州人大</a>
-　53<a href="http://www.ynrd.gov.cn/">云南人大</a>
-　54<a href="http://www.xizangrd.gov.cn/">西藏人大</a>
-<br>
-　61<a href="http://www.sxrd.gov.cn/">陕西人大</a>
-　62<a href="http://www.gsrdw.gov.cn/">甘肃人大</a>
-　63<a href="http://www.qhrd.gov.cn/">青海人大</a>
-　64<a href="http://www.nxrd.gov.cn/">宁夏人大</a>
-　65<a href="http://www.xjpcsc.gov.cn/">新疆人大</a>
-<br>
-　71台湾　 81香港　 82澳门　 91：国外入籍身份证号
+* 34-3个省级人大网站请见[省级五套班子](shengji)页面，按身份证号码排序，不含港澳台。
 
 
 2 最高法和最高检
@@ -277,7 +238,7 @@
 	- [《中国纪检监察报》](http://www.jjjcb.cn ) 、[《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
 	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
 
-   各省纪委监委请见：[省级五套班子](shengji)
+   35-1个省级廉政监督机关请见：[省级五套班子](shengji)，包含新疆兵团、香港、澳门，不含台湾。
 
 4.1 中共中央职能部门 1+5
 -----------------------
@@ -823,7 +784,7 @@
 ```
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-可演绎-相同方式共享
-	中央有关部门 v1.0.0	欢迎创作地方版本
+	中央有关部门 v1.2.0	欢迎创作地方版本
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
