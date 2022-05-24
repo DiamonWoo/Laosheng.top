@@ -4,9 +4,8 @@
 ==============
 202205
 
-区划代码	地名与政府网站
-
-110000 <b>[北京市](http://www.beijing.gov.cn/renwen/bjgk/)</b>  
+区划代码　	　地名与政府网站
+<h3>110000 [北京市](http://www.beijing.gov.cn/renwen/bjgk/)</h3>
 110101 [东城区](http://www.bjdch.gov.cn)　
 110102 [西城区](http://www.bjxch.gov.cn)　
 110105 [朝阳区](http://www.bjchy.gov.cn)　
@@ -23,8 +22,7 @@
 110117 [平谷区](http://www.bjpg.gov.cn)　
 110118 [密云区](http://www.bjmy.gov.cn)　
 110119 [延庆区](http://www.bjyq.gov.cn)　
-
-120000 <b>[天津市](http://www.tj.gov.cn/sq/)</b>  
+<h3>120000 [天津市](http://www.tj.gov.cn/sq/)</h3>
 120101 [和平区](http://www.tjhp.gov.cn)　
 120102 [河东区](http://www.tjhd.gov.cn)　
 120103 [河西区](http://www.tjhx.gov.cn)　
@@ -38,12 +36,11 @@
 120114 [武清区](http://www.tjwq.gov.cn)　
 120115 [宝坻区](http://www.tjbd.gov.cn)　
 
-120116 <b>[滨海新区](http://www.tjbh.gov.cn/channels/13871.html)</b>  
+120116 <b>[滨海新区](http://www.tjbh.gov.cn/channels/13871.html)</b>F  
 120117 [宁河区](http://www.tjnh.gov.cn)　
 120118 [静海区](http://www.tjjh.gov.cn)　
 120119 [蓟州区](http://www.tjjz.gov.cn)　
-
-130000 <b>[河北省](http://www.hebei.gov.cn/hebei/14462058/14462085/)</b>  
+<h3>130000 [河北省](http://www.hebei.gov.cn/hebei/14462058/14462085/)</h3>
 
 130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/index.html)</b>  
 130102 [长安区](http://www.sjzca.gov.cn)　
@@ -233,8 +230,7 @@
 131127 [景县](http://www.jingxian.gov.cn)　
 131128 [阜城县](http://www.hbfcx.gov.cn)　
 131182 [深州市](http://www.shenzhou.gov.cn)　
-
-140000 <b>[山西省](http://www.shanxi.gov.cn/sq/)</b>  
+<h3>140000 [山西省](http://www.shanxi.gov.cn/sq/)</h3>
 
 140100 <b>[太原市](http://www.taiyuan.gov.cn/zjty/)</b>  
 140105 [小店区](http://www.tyxd.gov.cn)　
@@ -374,8 +370,7 @@
 141130 [交口县](http://www.jiaokou.gov.cn)　
 141181 [孝义市](http://www.xiaoyi.gov.cn)　
 141182 [汾阳市](http://www.fenyang.gov.cn)　
-
-150000 <b>[内蒙古自治区](https://www.nmg.gov.cn)</b>  
+<h3>150000 [内蒙古自治区](https://www.nmg.gov.cn)</h3>
 
 150100 <b>[呼和浩特市](http://www.huhhot.gov.cn/2022_zjqc/)</b>  
 150102 [新城区](http://www.xinchengqu.gov.cn)　
@@ -503,10 +498,9 @@
 152921 [阿拉善左旗](http://www.alszq.gov.cn)　
 152922 [阿拉善右旗](http://www.alsyq.gov.cn)　
 152923 [额济纳旗](http://www.ejnq.gov.cn)　
+<h3>210000 [辽宁省](http://www.ln.gov.cn)</h3>
 
-210000 <b>[辽宁省](http://www.ln.gov.cn)</b>  
-
-210100 <b>[沈阳市](http://www.shenyang.gov.cn)</b>  
+210100 <b>[沈阳市](http://www.shenyang.gov.cn)</b>F  
 210102 [和平区](http://www.syhp.gov.cn)　
 210103 [沈河区](http://www.shenhe.gov.cn)　
 210104 [大东区](http://www.sydd.gov.cn)　
@@ -521,7 +515,7 @@
 210124 [法库县](http://www.faku.gov.cn)　
 210181 [新民市](http://www.xinmin.gov.cn)　
 
-210200 <b>[大连市](http://www.dl.gov.cn)</b>  
+210200 <b>[大连市](http://www.dl.gov.cn)</b>F  
 210202 [中山区](http://www.dlzs.gov.cn)　
 210203 [西岗区](http://www.dlxg.gov.cn)　
 210204 [沙河口区](http://www.dlshk.gov.cn)　
@@ -633,10 +627,9 @@
 211421 [绥中县](http://www.szx.gov.cn)　
 211422 [建昌县](http://www.jianchang.gov.cn)　
 211481 [兴城市](http://www.zg-xc.gov.cn)　
+<h3>220000 [吉林省](http://www.jl.gov.cn)</h3>
 
-220000 <b>[吉林省](http://www.jl.gov.cn)</b>  
-
-220100 <b>[长春市](http://www.changchun.gov.cn)</b>  
+220100 <b>[长春市](http://www.changchun.gov.cn)</b>F  
 220102 [南关区](http://www.nanguan.gov.cn)　
 220103 [宽城区](http://www.jckc.gov.cn)　
 220104 [朝阳区](http://www.ccchaoyang.gov.cn)　
@@ -713,10 +706,9 @@
 222406 [和龙市](http://www.helong.gov.cn)　
 222424 [汪清县](http://www.wangqing.gov.cn)　
 222426 [安图县](http://www.antu.gov.cn)　
+<h3>230000 [黑龙江省](http://www.hlj.gov.cn)</h3>
 
-230000 <b>[黑龙江省](http://www.hlj.gov.cn)</b>  
-
-230100 <b>[哈尔滨市](http://www.harbin.gov.cn)</b>  
+230100 <b>[哈尔滨市](http://www.harbin.gov.cn)</b>F  
 230102 [道里区](http://www.hrbdl.gov.cn)　
 230103 [南岗区](http://www.hrbng.gov.cn)　
 230104 [道外区](http://www.hrbdw.gov.cn)　
@@ -862,8 +854,7 @@
 232701 [漠河市](http://www.mohe.gov.cn)　
 232721 [呼玛县](http://www.huma.gov.cn)　
 232722 [塔河县](http://www.dxalth.gov.cn)　
-
-310000 <b>[上海市](http://www.shanghai.gov.cn/nw2318/)</b>  
+<h3>310000 [上海市](http://www.shanghai.gov.cn/nw2318/)</h3>
 310101 [黄浦区](http://www.shhuangpu.gov.cn)　
 310104 [徐汇区](http://www.xuhui.gov.cn)　
 310105 [长宁区](http://WWW.SHCN.GOV.CN)　
@@ -875,16 +866,15 @@
 310113 [宝山区](http://www.shbsq.gov.cn)　
 310114 [嘉定区](http://www.jiading.gov.cn)　
 
-310115 <b>[浦东新区](https://www.pudong.gov.cn)</b>  
+310115 <b>[浦东新区](https://www.pudong.gov.cn)</b>F  
 310116 [金山区](https://www.jinshan.gov.cn)　
 310117 [松江区](http://www.songjiang.gov.cn)　
 310118 [青浦区](http://www.shqp.gov.cn)　
 310120 [奉贤区](http://www.fengxian.gov.cn)　
 310151 [崇明区](http://www.shcm.gov.cn)　
+<h3>320000 [江苏省](http://www.jiangsu.gov.cn/col/col31358/)</h3>
 
-320000 <b>[江苏省](http://www.jiangsu.gov.cn/col/col31358/)</b>  
-
-320100 <b>[南京市](http://www.nanjing.gov.cn)</b>  
+320100 <b>[南京市](http://www.nanjing.gov.cn)</b>F  
 320102 [玄武区](http://www.xwzf.gov.cn)　
 320104 [秦淮区](http://www.njqh.gov.cn)　
 320105 [建邺区](http://www.njjy.gov.cn)　
@@ -1004,10 +994,9 @@
 321322 [沭阳县](http://www.shuyang.gov.cn)　
 321323 [泗阳县](http://www.siyang.gov.cn)　
 321324 [泗洪县](http://www.sihong.gov.cn)　
+<h3>330000 [浙江省](http://www.zj.gov.cn/col/col1544731/)</h3>
 
-330000 <b>[浙江省](http://www.zj.gov.cn/col/col1544731/)</b>  
-
-330100 <b>[杭州市](http://www.hangzhou.gov.cn/col/col805739/)</b>  
+330100 <b>[杭州市](http://www.hangzhou.gov.cn/col/col805739/)</b>F  
 330102 [上城区](http://www.hzsc.gov.cn)　
 330103 下城区　
 330104 江干区　
@@ -1022,7 +1011,7 @@
 330127 [淳安县](http://www.qdh.gov.cn)　
 330182 [建德市](http://www.jiande.gov.cn)　
 
-330200 <b>[宁波市](http://www.ningbo.gov.cn)</b>  
+330200 <b>[宁波市](http://www.ningbo.gov.cn)</b>F  
 330203 [海曙区](http://www.haishu.gov.cn)　
 330205 [江北区](http://www.nbjb.gov.cn)　
 330206 [北仑区](http://www.bl.gov.cn)　
@@ -1118,8 +1107,7 @@
 331126 [庆元县](http://www.zjqy.gov.cn)　
 331127 [景宁畲族自治县](http://www.jingning.gov.cn)　
 331181 [龙泉市](http://www.longquan.gov.cn)　
-
-340000 <b>[安徽省](https://www.ah.gov.cn/hfwy/)</b>  
+<h3>340000 [安徽省](https://www.ah.gov.cn/hfwy/)</h3>
 
 340100 <b>[合肥市](http://www.hefei.gov.cn)</b>  
 340102 [瑶海区](http://www.hfyaohai.gov.cn)　
@@ -1256,8 +1244,7 @@
 341825 [旌德县](http://www.ahjd.gov.cn)　
 341881 [宁国市](http://www.ningguo.gov.cn)　
 341882 [广德市](http://www.guangde.gov.cn)　
-
-350000 <b>[福建省](https://www.fujian.gov.cn/zjfj/)</b>  
+<h3>350000 [福建省](https://www.fujian.gov.cn/zjfj/)</h3>
 
 350100 <b>[福州市](http://www.fuzhou.gov.cn)</b>  
 350102 [鼓楼区](http://www.gl.gov.cn)　
@@ -1274,7 +1261,7 @@
 350128 [平潭县](http://www.pingtan.gov.cn)　
 350181 [福清市](http://www.fuqing.gov.cn)　
 
-350200 <b>[厦门市](http://www.xm.gov.cn)</b>  
+350200 <b>[厦门市](http://www.xm.gov.cn)</b>F  
 350203 [思明区](http://www.siming.gov.cn)　
 350205 [海沧区](https://www.haicang.gov.cn)　
 350206 [湖里区](http://www.huli.gov.cn)　
@@ -1361,8 +1348,7 @@
 350926 [柘荣县](http://www.zherong.gov.cn)　
 350981 [福安市](http://www.fjfa.gov.cn)　
 350982 [福鼎市](http://www.fuding.gov.cn)　
-
-360000 <b>[江西省](http://www.jiangxi.gov.cn/col/col387/)</b>  
+<h3>360000 [江西省](http://www.jiangxi.gov.cn/col/col387/)</h3>
 
 360100 <b>[南昌市](http://www.nc.gov.cn)</b>  
 360102 东湖区　
@@ -1485,10 +1471,9 @@
 361129 [万年县](http://www.zgwn.gov.cn)　
 361130 [婺源县](http://www.jxwy.gov.cn)　
 361181 [德兴市](http://www.dxs.gov.cn)　
+<h3>370000 [山东省](http://www.shandong.gov.cn/col/col94094/)</h3>
 
-370000 <b>[山东省](http://www.shandong.gov.cn/col/col94094/)</b>  
-
-370100 <b>[济南市](http://www.jinan.gov.cn/col/col28/)</b>  
+370100 <b>[济南市](http://www.jinan.gov.cn/col/col28/)</b>F  
 370102 [历下区](http://www.lixia.gov.cn)　
 370103 [市中区](http://www.shizhong.gov.cn)　
 370104 [槐荫区](http://www.huaiyin.gov.cn)　
@@ -1502,7 +1487,7 @@
 370124 [平阴县](http://www.pingyin.gov.cn)　
 370126 [商河县](http://www.shanghe.gov.cn)　
 
-370200 <b>[青岛市](http://www.qingdao.gov.cn)</b>  
+370200 <b>[青岛市](http://www.qingdao.gov.cn)</b>F  
 370202 [市南区](http://www.qdsn.gov.cnn16)　
 370203 [市北区](http://www.qingdaoshibei.gov.cn)　
 370211 [黄岛区](http://www.xihaian.gov.cn)　
@@ -1655,8 +1640,7 @@
 371725 [郓城县](http://www.cnyc.gov.cn)　
 371726 [鄄城县](http://www.juancheng.gov.cn)　
 371728 [东明县](http://www.dmzf.gov.cn)　
-
-410000 <b>[河南省](http://www.henan.gov.cn)</b>  
+<h3>410000 [河南省](http://www.henan.gov.cn)</h3>
 
 410100 <b>[郑州市](http://www.zhengzhou.gov.cn)</b>  
 410102 [中原区](http://www.zhongyuan.gov.cn)　
@@ -1849,10 +1833,9 @@
 411728 [遂平县](http://www.suiping.gov.cn)　
 411729 [新蔡县](http://www.xincai.gov.cn)　
 419001 [济源市](http://www.jiyuan.gov.cn)　
+<h3>420000 [湖北省](http://www.hubei.gov.cn)</h3>
 
-420000 <b>[湖北省](http://www.hubei.gov.cn)</b>  
-
-420100 <b>[武汉市](http://www.wuhan.gov.cn)</b>  
+420100 <b>[武汉市](http://www.wuhan.gov.cn)</b>F  
 420102 [江岸区](http://www.jiangan.gov.cn)　
 420103 [江汉区](http://www.jianghan.gov.cn)　
 420104 [硚口区](http://www.qiaokou.gov.cn)　
@@ -1980,8 +1963,7 @@
 429005 [潜江市](http://www.hbqj.gov.cn)　
 429006 [天门市](http://www.tianmen.gov.cn)　
 429021 [神农架林区](http://www.snj.gov.cn)　
-
-430000 <b>[湖南省](http://www.hunan.gov.cn)</b>  
+<h3>430000 [湖南省](http://www.hunan.gov.cn)</h3>
 
 430100 <b>[长沙市](http://www.changsha.gov.cn)</b>  
 430102 [芙蓉区](http://www.furong.gov.cn)　
@@ -2132,10 +2114,9 @@
 433126 [古丈县](http://www.guzhang.gov.cn)　
 433127 [永顺县](http://www.ysx.gov.cn)　
 433130 [龙山县](http://www.xxls.gov.cn)　
+<h3>440000 [广东省](http://www.gd.gov.cn/zjgd/)</h3>
 
-440000 <b>[广东省](http://www.gd.gov.cn/zjgd/)</b>  
-
-440100 <b>[广州市](http://www.gz.gov.cn)</b>  
+440100 <b>[广州市](http://www.gz.gov.cn)</b>F  
 440103 [荔湾区](http://www.lw.gov.cn)　
 440104 [越秀区](http://www.yuexiu.gov.cn)　
 440105 [海珠区](http://www.haizhu.gov.cn)　
@@ -2160,7 +2141,7 @@
 440281 [乐昌市](http://www.lechang.gov.cn)　
 440282 [南雄市](http://www.gdnx.gov.cn)　
 
-440300 <b>[深圳市](http://www.sz.gov.cn)</b>  
+440300 <b>[深圳市](http://www.sz.gov.cn)</b>F  
 440303 [罗湖区](http://www.szlh.gov.cn)　
 440304 [福田区](http://www.szft.gov.cn)　
 440305 [南山区](http://www.szns.gov.cn)　
@@ -2298,8 +2279,7 @@
 445321 [新兴县](http://www.xinxing.gov.cn)　
 445322 [郁南县](http://www.gdyunan.gov.cn)　
 445381 [罗定市](http://www.luoding.gov.cn)　
-
-450000 <b>[广西壮族自治区](http://www.gxzf.gov.cn/mlgxi/)</b>  
+<h3>450000 [广西壮族自治区](http://www.gxzf.gov.cn/mlgxi/)</h3>
 
 450100 <b>[南宁市](http://www.nanning.gov.cn)</b>  
 450102 [兴宁区](http://www.nnxn.gov.cn)　
@@ -2439,8 +2419,7 @@
 451424 [大新县](http://www.daxin.gov.cn)　
 451425 [天等县](http://www.tiandeng.gov.cn)　
 451481 [凭祥市](http://www.pxszf.gov.cn)　
-
-460000 <b>[海南省](http://www.hainan.gov.cn)</b>  
+<h3>460000 [海南省](http://www.hainan.gov.cn)</h3>
 
 460100 <b>[海口市](http://www.haikou.gov.cn)</b>  
 460105 秀英区　
@@ -2474,8 +2453,7 @@
 469028 [陵水黎族自治县](http://lingshui.hainan.gov.cn)　
 469029 [保亭黎族苗族自治县](https://baoting.hainan.gov.cn/zjbt/)　
 469030 [琼中黎族苗族自治县](http://qiongzhong.hainan.gov.cn/qzly/)　
-
-500000 <b>[重庆市](http://www.cq.gov.cn/zjcq/)</b>  
+<h3>500000 [重庆市](http://www.cq.gov.cn/zjcq/)</h3>
 500101 [万州区](http://www.wz.gov.cn)　
 500102 [涪陵区](http://www.fl.gov.cn)　
 500103 [渝中区](http://www.cqyz.gov.cn)　
@@ -2514,10 +2492,9 @@
 500241 [秀山土家族苗族自治县](http://www.cqxs.gov.cn/xsxq_207/)　
 500242 [酉阳土家族苗族自治县](http://www.youyang.gov.cn/zjyy/)　
 500243 [彭水苗族土家族自治县](http://www.psx.gov.cn/zjps/)　
+<h3>510000 [四川省](https://www.sc.gov.cn/10462/c106773/zjsc.shtml)</h3>
 
-510000 <b>[四川省](https://www.sc.gov.cn/10462/c106773/zjsc.shtml)</b>  
-
-510100 <b>[成都市](http://www.chengdu.gov.cn/chengdu/rscd/)</b>  
+510100 <b>[成都市](http://www.chengdu.gov.cn/chengdu/rscd/)</b>F  
 510104 [锦江区](http://www.cdjinjiang.gov.cn)　
 510105 [青羊区](http://www.cdqingyang.gov.cn)　
 510106 [金牛区](http://www.jinniu.gov.cn)　
@@ -2741,8 +2718,7 @@
 513435 [甘洛县](http://www.ganluo.gov.cn)　
 513436 [美姑县](http://www.meigu.gov.cn)　
 513437 [雷波县](http://www.lbx.gov.cn)　
-
-520000 <b>[贵州省](https://www.guizhou.gov.cn)</b>  
+<h3>520000 [贵州省](https://www.guizhou.gov.cn)</h3>
 
 520100 <b>[贵阳市](http://www.guiyang.gov.cn)</b>  
 520102 [南明区](http://www.nanming.gov.cn)　
@@ -2849,8 +2825,7 @@
 522730 [龙里县](http://www.longli.gov.cn)　
 522731 [惠水县](http://www.gzhs.gov.cn)　
 522732 [三都水族自治县](http://www.sandu.gov.cn)　
-
-530000 <b>[云南省](http://www.yn.gov.cn)</b>  
+<h3>530000 [云南省](http://www.yn.gov.cn)</h3>
 
 530100 <b>[昆明市](http://www.km.gov.cn)</b>  
 530102 [五华区](http://www.kmwh.gov.cn)　
@@ -3012,8 +2987,7 @@
 533401 [香格里拉市](http://xianggelila.diqing.gov.cn)　
 533422 德钦县　
 533423 [维西傈僳族自治县](http://weixi.diqing.gov.cn/mlwx/wxgk.html)　
-
-540000 <b>[西藏自治区](http://www.xizang.gov.cn)</b>  
+<h3>540000 [西藏自治区](http://www.xizang.gov.cn)</h3>
 
 540100 <b>[拉萨市](http://www.lasa.gov.cn)</b>  
 540102 [城关区](http://www.cgq.gov.cn)　
@@ -3102,10 +3076,9 @@
 542525 革吉县　
 542526 改则县　
 542527 [措勤县](http://cq.al.gov.cn)　
+<h3>610000 [陕西省](http://www.shaanxi.gov.cn/sq/)</h3>
 
-610000 <b>[陕西省](http://www.shaanxi.gov.cn/sq/)</b>  
-
-610100 <b>[西安市](http://www.xa.gov.cn)</b>  
+610100 <b>[西安市](http://www.xa.gov.cn)</b>F  
 610102 [新城区](http://www.xincheng.gov.cn)　
 610103 [碑林区](http://www.beilin.gov.cn)　
 610104 [莲湖区](http://www.lianhu.gov.cn)　
@@ -3231,8 +3204,7 @@
 611024 [山阳县](http://www.shy.gov.cn)　
 611025 [镇安县](http://www.zazf.gov.cn)　
 611026 [柞水县](http://www.snzs.gov.cn)　
-
-620000 <b>[甘肃省](http://www.gansu.gov.cn)</b>  
+<h3>620000 [甘肃省](http://www.gansu.gov.cn)</h3>
 
 620100 <b>[兰州市](http://www.lanzhou.gov.cn)</b>  
 620102 [城关区](http://www.lzcgq.gov.cn)　
@@ -3347,8 +3319,7 @@
 623025 [玛曲县](http://www.maqu.gov.cn)　
 623026 [碌曲县](http://www.luqu.gov.cn)　
 623027 [夏河县](http://www.xiahe.gov.cn)　
-
-630000 <b>[青海省](http://www.qinghai.gov.cn)</b>  
+<h3>630000 [青海省](http://www.qinghai.gov.cn)</h3>
 
 630100 <b>[西宁市](http://www.xining.gov.cn)</b>  
 630102 [城东区](http://www.xncd.gov.cn)　
@@ -3409,8 +3380,7 @@
 632821 [乌兰县](http://www.wulanxian.gov.cn)　
 632822 [都兰县](http://www.dulan.gov.cn)　
 632823 [天峻县](http://www.tianjun.gov.cn)　
-
-640000 <b>[宁夏回族自治区](http://www.nx.gov.cn)</b>  
+<h3>640000 [宁夏回族自治区](http://www.nx.gov.cn)</h3>
 
 640100 <b>[银川市](http://www.yinchuan.gov.cn)</b>  
 640104 [兴庆区](http://www.xqq.gov.cn)　
@@ -3443,8 +3413,7 @@
 640502 [沙坡头区](http://www.spt.gov.cn)　
 640521 [中宁县](http://www.znzf.gov.cn)　
 640522 [海原县](http://www.hy.gov.cn)　
-
-650000 <b>[新疆维吾尔自治区](http://www.xinjiang.gov.cn/xinjiang/dmxj/dmxj.shtml)</b>  
+<h3>650000 [新疆维吾尔自治区](http://www.xinjiang.gov.cn/xinjiang/dmxj/dmxj.shtml)</h3>
 
 650100 <b>[乌鲁木齐市](http://www.urumqi.gov.cn)</b>  
 650102 [天山区](http://www.xjtsq.gov.cn)　
@@ -3580,14 +3549,11 @@
 659009 [昆玉市](http://www.btdsss.gov.cn)　
 659010 [胡杨河市](http://www.nqs.gov.cn)　
 659011 [新星市](http://www.btnsss.gov.cn)　
-
-710000 <b>[台湾省]()</b>  
+<h3>710000 [台湾省]()</h3>
 
 710100 <b>[台北市](https://www.gov.taipei)</b>  
-
-810000 <b>[香港特别行政区](https://www.gov.hk/sc/about/abouthk/facts.htm)</b>  
-
-820000 <b>[澳门特别行政区](https://www.gov.mo/zh-hant/content/city-info/)</b>  
+<h3>810000 [香港特别行政区](https://www.gov.hk/sc/about/abouthk/facts.htm)</h3>
+<h3>820000 [澳门特别行政区](https://www.gov.mo/zh-hant/content/city-info/)</h3>
 
 
 ```
