@@ -1,10 +1,10 @@
-老生常谈 >> [有关部门](.)🕘<base target="_blank">
+老生常谈 >> [有关部门](.)🕘<base target="_top">
 
 中央有关部门
 ==============
 大萌 2021-2022
 
-	一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
+		一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
 
 　　本网页依据有关文件，汇编了党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_self"}的：官方网站🌏、服务与投诉电话📞、网络检索与互动平台、主管报纸📰、直属院校🙋……　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 
@@ -33,10 +33,10 @@
 
 　　欢迎大家[补充信息和发表意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn )，欢迎改编地方版本。
 
-<div align="right">　有关部门系列：
-	<a href="https://Laosheng.top/fuwu" target="_top">首页</a>(本页)、
-	<a href="dimingku" target="_self">中国千县地名库</a>、
-	<a href="union" target="_blank">联合国有关部门</a>
+<div align="right">　有关部门系列页面：
+	<a href="https://Laosheng.top/fuwu" target="_top">首页</a>、
+	<a href="qianxian" target="_self">中国千县地名图</a>、
+	<a href="../ydyl/union.html" target="_blank">联合国有关部门</a>
 </div>
 
 最新部门变动
@@ -784,7 +784,8 @@
 ```
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-可演绎-相同方式共享
-	中央有关部门 v1.2.0	欢迎创作地方版本
+	https://laosheng.top/fuwu/zhongyang
+	中央有关部门 v1.2.1	欢迎创作地方版本
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
