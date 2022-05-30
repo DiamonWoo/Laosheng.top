@@ -9,7 +9,8 @@
 2021年行政区划变更
 ------------------
 　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部更新。  
-　　有4个因撤销而消失的地名：福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
+　　有4个因撤销而消失的地名：  
+	福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
 　　有3个新设立的全新地名：新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
 　　还有4个区调整区划范围，名称不变，其中福建三明市的三元区 350403更新了区划代码。  
 　　此外有13个行政区变更了区划单位，小计如下，变更详情参见[民政部](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)。
@@ -129,7 +130,7 @@
 130202 [路南区](http://lunan.tangshan.gov.cn )　
 130203 [路北区](http://www.tslb.gov.cn )　
 130204 [古冶区](http://guye.tangshan.gov.cn )　
-130205 [开平区]( )　
+130205 开平区　
 130207 [丰南区](http://fengnan.tangshan.gov.cn )　
 130208 [丰润区](http://fengrun.tangshan.gov.cn )　
 130209 [曹妃甸区](http://caofeidian.tangshan.gov.cn )　
@@ -512,7 +513,7 @@
 150785 [根河市](http://www.genhe.gov.cn )　
 
 150800 <b>[巴彦淖尔市](http://www.bynr.gov.cn )</b>  
-150802 [临河区]( )　
+150802 临河区　
 150821 [五原县](http://www.wuyuan.gov.cn )　
 150822 [磴口县](http://www.nmgdk.gov.cn )　
 150823 [乌拉特前旗](http://www.wltqq.gov.cn )　
@@ -537,7 +538,7 @@
 152201 [乌兰浩特市](http://www.wlht.gov.cn )　
 152202 [阿尔山市](http://www.aes.gov.cn )　
 152221 [科尔沁右翼前旗](http://www.kyqq.gov.cn )　
-152222 [科尔沁右翼中旗]( )　
+152222 科尔沁右翼中旗　
 152223 [扎赉特旗](http://www.zltq.gov.cn )　
 152224 [突泉县](http://www.tq.gov.cn )　
 
@@ -583,7 +584,7 @@
 210204 [沙河口区](http://www.dlshk.gov.cn )　
 210211 [甘井子区](http://www.dlgjz.gov.cn )　
 210212 [旅顺口区](http://www.dllsk.gov.cn )　
-210213 [金州区]( )　
+210213 金州区　
 210214 [普兰店区](http://www.dlpld.gov.cn )　
 210224 [长海县](http://www.dlch.gov.cn )　
 210281 [瓦房店市](http://www.dlwfd.gov.cn )　
@@ -609,8 +610,8 @@
 
 210500 <b>[本溪市](http://www.benxi.gov.cn )</b>  
 210502 [平山区](http://www.pingshan.gov.cn )　
-210503 [溪湖区]( )　
-210504 [明山区]( )　
+210503 溪湖区　
+210504 明山区　
 210505 [南芬区](http://www.nanfen.gov.cn )　
 210521 [本溪满族自治县](http://www.bx.gov.cn )　
 210522 [桓仁满族自治县](http://hr.benxi.gov.cn )　
@@ -670,7 +671,7 @@
 211221 [铁岭县](http://www.tielingxian.gov.cn )　
 211223 [西丰县](http://www.lntlxf.gov.cn )　
 211224 [昌图县](http://www.changtu.gov.cn )　
-211281 [调兵山市]( )　
+211281 调兵山市　
 211282 [开原市](http://www.lnky.gov.cn )　
 
 211300 <b>[朝阳市](http://www.chaoyang.gov.cn )</b>  
@@ -740,7 +741,7 @@
 
 220600 <b>[白山市](http://www.cbs.gov.cn )</b>  
 220602 [浑江区](http://www.hunjiang.gov.cn )　
-220605 [江源区]( )　
+220605 江源区　
 220621 [抚松县](http://www.fusong.gov.cn )　
 220622 [靖宇县](http://jyx.cbs.gov.cn )　
 220623 [长白朝鲜族自治县](http://www.changbai.gov.cn/cbgk/ '长白县')　
@@ -812,11 +813,11 @@
 
 230300 <b>[鸡西市](http://www.jixi.gov.cn )</b>  
 230302 [鸡冠区](http://www.jgq.gov.cn )　
-230303 [恒山区]( )　
+230303 恒山区　
 230304 [滴道区](http://www.didaoqu.gov.cn )　
-230305 [梨树区]( )　
+230305 梨树区　
 230306 [城子河区](http://www.czh.gov.cn )　
-230307 [麻山区]( )　
+230307 麻山区　
 230321 [鸡东县](http://www.jidong.gov.cn )　
 230381 [虎林市](http://www.hljhulin.gov.cn )　
 230382 [密山市](http://www.hljms.gov.cn )　
@@ -899,11 +900,11 @@
 231123 [逊克县](http://www.xunke.gov.cn )　
 231124 [孙吴县](http://www.hljsunwu.gov.cn )　
 231181 [北安市](http://www.hljba.gov.cn )　
-231182 [五大连池市]( )　
+231182 五大连池市　
 231183 [嫩江市](http://www.nenjiang.gov.cn )　
 
 231200 <b>[绥化市](http://www.suihua.gov.cn )</b>  
-231202 [北林区]( )　
+231202 北林区　
 231221 [望奎县](http://www.hlwangkui.gov.cn )　
 231222 [兰西县](http://www.hljlanxi.gov.cn )　
 231223 [青冈县](http://www.qgnet.gov.cn )　
@@ -977,7 +978,7 @@
 320400 <b>[常州市](http://www.changzhou.gov.cn )</b>  
 320402 [天宁区](http://www.cztn.gov.cn )　
 320404 [钟楼区](http://www.zhonglou.gov.cn )　
-320411 [新北区]( )　
+320411 新北区　
 320412 [武进区](http://www.wj.gov.cn )　
 320413 [金坛区](http://www.jintan.gov.cn )　
 320481 [溧阳市](http://www.liyang.gov.cn )　
@@ -1048,7 +1049,7 @@
 
 321200 <b>[泰州市](http://www.taizhou.gov.cn )</b>  
 321202 [海陵区](http://www.tzhl.gov.cn )　
-321203 [高港区]( )　
+321203 高港区　
 321204 [姜堰区](http://www.jiangyan.gov.cn )　
 321281 [兴化市](http://www.xinghua.gov.cn )　
 321282 [靖江市](http://www.jingjiang.gov.cn )　
@@ -1367,7 +1368,7 @@
 350524 [安溪县](http://www.fjax.gov.cn )　
 350525 [永春县](http://www.fjyc.gov.cn )　
 350526 [德化县](http://www.dehua.gov.cn )　
-350527 [金门县]( )　
+350527 金门县　
 350581 [石狮市](http://www.shishi.gov.cn )　
 350582 [晋江市](http://www.jinjiang.gov.cn )　
 350583 [南安市](http://www.nanan.gov.cn )　
@@ -1470,7 +1471,7 @@
 360700 <b>[赣州市](http://www.ganzhou.gov.cn )</b>  
 360702 [章贡区](http://www.zgq.gov.cn )　
 360703 [南康区](http://www.nkjx.gov.cn )　
-360704 [赣县区]( )　
+360704 赣县区　
 360722 [信丰县](http://www.jxxf.gov.cn )　
 360723 [大余县](http://www.jxdy.gov.cn )　
 360724 [上犹县](http://www.shangyou.gov.cn )　
@@ -1551,7 +1552,7 @@
 370112 [历城区](http://www.licheng.gov.cn )　
 370113 [长清区](http://www.jncq.gov.cn )　
 370114 [章丘区](http://www.jnzq.gov.cn )　
-370115 [济阳区]( )　
+370115 济阳区　
 370116 [莱芜区](http://www.laiwu.gov.cn )　
 370117 [钢城区](http://www.gangcheng.gov.cn )　
 370124 [平阴县](http://www.pingyin.gov.cn )　
@@ -1599,7 +1600,7 @@
 370611 [福山区](http://www.ytfushan.gov.cn )　
 370612 [牟平区](http://www.muping.gov.cn )　
 370613 [莱山区](http://www.ytlaishan.gov.cn )　
-370614 [蓬莱区]( )　
+370614 蓬莱区　
 370681 [龙口市](http://www.longkou.gov.cn )　
 370682 [莱阳市](http://www.laiyang.gov.cn )　
 370683 [莱州市](http://www.laizhou.gov.cn )　
@@ -1741,7 +1742,7 @@
 410300 <b>[洛阳市](http://www.ly.gov.cn )</b>  
 410302 [老城区](http://www.lylc.gov.cn )　
 410303 [西工区](http://www.xigong.gov.cn )　
-410304 [瀍河回族区]( )　
+410304 瀍河回族区　
 410305 [涧西区](http://www.jxq.gov.cn )　
 410307 [偃师区](http://www.yanshi.gov.cn '2021年市改区')　
 410308 [孟津区](http://www.mengjin.gov.cn/html/1//2/154/index.html '2021年县改区')　
@@ -1762,7 +1763,7 @@
 410421 [宝丰县](http://www.baofeng.gov.cn )　
 410422 [叶县](http://www.yexian.gov.cn )　
 410423 [鲁山县](http://www.hnls.gov.cn )　
-410425 [郏县]( )　
+410425 郏县　
 410481 [舞钢市](http://www.zgwg.gov.cn )　
 410482 [汝州市](http://www.ruzhou.gov.cn )　
 
@@ -1851,7 +1852,7 @@
 411325 [内乡县](http://www.neixiangxian.gov.cn )　
 411326 [淅川县](http://www.xichuan.gov.cn )　
 411327 [社旗县](http://www.sheqi.gov.cn )　
-411328 [唐河县]( )　
+411328 唐河县　
 411329 [新野县](http://www.xinye.gov.cn )　
 411330 [桐柏县](http://www.tongbai.gov.cn )　
 411381 [邓州市](http://www.dengzhou.gov.cn )　
@@ -1915,7 +1916,7 @@
 420107 [青山区](http://www.qingshan.gov.cn '有同名区')　
 420111 [洪山区](http://www.hongshan.gov.cn )　
 420112 [东西湖区](http://www.dxh.gov.cn )　
-420113 [汉南区]( )　
+420113 汉南区　
 420114 [蔡甸区](http://www.caidian.gov.cn )　
 420115 [江夏区](http://www.jiangxia.gov.cn )　
 420116 [黄陂区](http://www.huangpi.gov.cn )　
@@ -1925,14 +1926,14 @@
 420202 [黄石港区](http://www.huangshigang.gov.cn )　
 420203 [西塞山区](http://www.xisaishan.gov.cn )　
 420204 [下陆区](http://www.xialuqu.gov.cn )　
-420205 [铁山区]( )　
+420205 铁山区　
 420222 [阳新县](http://www.yx.gov.cn )　
 420281 [大冶市](http://www.hbdaye.gov.cn )　
 
 420300 <b>[十堰市](http://www.shiyan.gov.cn/zjsy/ )</b>  
 420302 [茅箭区](http://maojian.shiyan.gov.cn )　
 420303 [张湾区](http://www.zhangwan.gov.cn )　
-420304 [郧阳区]( )　
+420304 郧阳区　
 420322 [郧西县](http://www.yunxi.gov.cn )　
 420323 [竹山县](http://www.zhushan.gov.cn )　
 420324 [竹溪县](http://www.zhuxi.gov.cn )　
@@ -1944,7 +1945,7 @@
 420503 [伍家岗区](http://www.ycwjg.gov.cn )　
 420504 [点军区](http://www.dianjun.gov.cn )　
 420505 [猇亭区](http://www.xiaoting.gov.cn )　
-420506 [夷陵区]( )　
+420506 夷陵区　
 420525 [远安县](http://www.yuanan.gov.cn )　
 420526 [兴山县](http://www.xingshan.gov.cn )　
 420527 [秭归县](http://www.hbzg.gov.cn )　
@@ -2149,10 +2150,10 @@
 431122 [东安县](http://www.da.gov.cn )　
 431123 [双牌县](http://www.sp.gov.cn )　
 431124 [道县](http://www.dx.gov.cn )　
-431125 [江永县]( )　
+431125 江永县　
 431126 [宁远县](http://www.nyx.gov.cn )　
 431127 [蓝山县](http://www.lanshan.gov.cn )　
-431128 [新田县]( )　
+431128 新田县　
 431129 [江华瑶族自治县](http://www.jh.gov.cn )　
 431181 [祁阳市](http://www.qy.gov.cn/qy/zjqy/zjqy.shtml '2021年县改市')　
 
@@ -2315,7 +2316,7 @@
 441625 [东源县](http://www.gddongyuan.gov.cn )　
 
 441700 <b>[阳江市](http://www.yangjiang.gov.cn )</b>  
-441702 [江城区]( )　
+441702 江城区　
 441704 [阳东区](http://www.yangdong.gov.cn )　
 441721 [阳西县](http://www.yangxi.gov.cn )　
 441781 [阳春市](http://www.yangchun.gov.cn )　
@@ -2379,13 +2380,13 @@
 450223 [鹿寨县](http://www.luzhai.gov.cn )　
 450224 [融安县](http://www.rongan.gov.cn )　
 450225 [融水苗族自治县](http://www.rongshui.gov.cn )　
-450226 [三江侗族自治县]( )　
+450226 三江侗族自治县　
 
 450300 <b>[桂林市](http://www.guilin.gov.cn )</b>  
 450302 [秀峰区](http://www.glxfq.gov.cn )　
 450303 [叠彩区](http://www.glsdcqzf.gov.cn )　
 450304 [象山区](http://www.glxsqzf.gov.cn )　
-450305 [七星区]( )　
+450305 七星区　
 450311 [雁山区](http://www.glyszf.gov.cn )　
 450312 [临桂区](http://www.lingui.gov.cn )　
 450321 [阳朔县](http://www.yangshuo.gov.cn )　
@@ -2455,7 +2456,7 @@
 451030 [西林县](http://www.gxxl.gov.cn )　
 451031 [隆林各族自治县](http://www.gxll.gov.cn )　
 451081 [靖西市](http://www.jingxi.gov.cn )　
-451082 [平果市]( )　
+451082 平果市　
 
 451100 <b>[贺州市](http://www.gxhz.gov.cn )</b>  
 451102 [八步区](http://www.gxbabu.gov.cn )　
@@ -2503,14 +2504,14 @@
 460108 [美兰区](http://mlqzf.haikou.gov.cn )　
 
 460200 <b>[三亚市](http://www.sanya.gov.cn/sanyasite/shiqing/shiqing.shtml '鹿城')</b>  
-460202 [海棠区]( )　
-460203 [吉阳区]( )　
-460204 [天涯区]( )　
-460205 [崖州区]( )　
+460202 海棠区　
+460203 吉阳区　
+460204 天涯区　
+460205 崖州区　
 
 460300 <b>[三沙市](http://www.sansha.gov.cn/sansha/sszfgk/sq.shtml )</b>  
-460321 [西沙区]( '代码未定，20200418成立')　
-460322 [南沙区]( '有同名区。代码未定，20200418成立')　
+460321 西沙区　
+460322 南沙区　
 
 460400 <b>[儋州市](http://www.danzhou.gov.cn '不设区的市')</b>  
 469001 [五指山市](http://wzs.hainan.gov.cn )　
@@ -2535,10 +2536,10 @@
 500103 [渝中区](http://www.cqyz.gov.cn )　
 500104 [大渡口区](http://www.ddk.gov.cn )　
 500105 [江北区](http://www.cqjb.gov.cn '有同名区')　
-500106 [沙坪坝区]( )　
+500106 沙坪坝区　
 500107 [九龙坡区](http://www.cqjlp.gov.cn )　
 500108 [南岸区](http://www.cqna.gov.cn )　
-500109 [北碚区]( )　
+500109 北碚区　
 500110 [綦江区](http://www.cqqj.gov.cn )　
 500111 [大足区](http://www.dazu.gov.cn )　
 500112 [渝北区](http://www.ybq.gov.cn )　
@@ -2549,7 +2550,7 @@
 500117 [合川区](http://www.hc.gov.cn )　
 500118 [永川区](http://www.cqyc.gov.cn )　
 500119 [南川区](http://www.cqnc.gov.cn )　
-500120 [璧山区]( )　
+500120 璧山区　
 500151 [铜梁区](http://www.cqstl.gov.cn )　
 500152 [潼南区](http://www.cqtn.gov.cn )　
 500153 [荣昌区](http://www.rongchang.gov.cn )　
@@ -2562,7 +2563,7 @@
 500233 [忠县](http://www.zhongxian.gov.cn )　
 500235 [云阳县](http://www.yunyang.gov.cn )　
 500236 [奉节县](http://www.cqfj.gov.cn )　
-500237 [巫山县]( )　
+500237 巫山县　
 500238 [巫溪县](http://www.cqwx.gov.cn )　
 500240 [石柱土家族自治县](http://www.cqszx.gov.cn/zjsz/ '石柱县网站会吃掉www前缀')　
 500241 [秀山土家族苗族自治县](http://www.cqxs.gov.cn/xsxq_207/ '秀山县')　
@@ -2780,7 +2781,7 @@
 513400 <b>[凉山彝族自治州](http://www.lsz.gov.cn '凉山州')</b>  
 513401 [西昌市](http://www.xichang.gov.cn )　
 513402 [会理市](http://www.huili.gov.cn/lyhl/ '2021年县改市')　
-513422 [木里藏族自治县]( )　
+513422 木里藏族自治县　
 513423 [盐源县](http://www.yanyuan.gov.cn )　
 513424 [德昌县](http://www.lsdc.gov.cn )　
 513426 [会东县](http://www.schd.gov.cn )　
@@ -2917,7 +2918,7 @@
 530124 [富民县](http://www.kmfm.gov.cn )　
 530125 [宜良县](http://www.kmyl.gov.cn )　
 530126 [石林彝族自治县](http://www.kmsl.gov.cn )　
-530127 [嵩明县]( )　
+530127 嵩明县　
 530128 [禄劝彝族苗族自治县](http://www.kmlq.gov.cn/zjlq/ '禄劝县')　
 530129 [寻甸回族彝族自治县](http://www.kmxd.gov.cn/zjxd/ '缺少概况内容')　
 530181 [安宁市](http://www.kman.gov.cn )　
@@ -2939,7 +2940,7 @@
 530423 [通海县](http://www.tonghai.gov.cn )　
 530424 [华宁县](http://www.huaning.gov.cn )　
 530425 [易门县](http://www.ym.gov.cn )　
-530426 [峨山彝族自治县]( )　
+530426 峨山彝族自治县　
 530427 [新平彝族傣族自治县](http://www.xinping.gov.cn/xp/xpgk/ '新平县')　
 530428 [元江哈尼族彝族傣族自治县](http://www.yjx.gov.cn/yj/zjyj/ '元江县')　
 530481 [澄江市](http://www.yncj.gov.cn )　
@@ -2975,7 +2976,7 @@
 530802 [思茅区](http://www.smqzf.gov.cn )　
 530821 [宁洱哈尼族彝族自治县](http://www.ne.gov.cn/zjne.htm '宁洱县')　
 530822 [墨江哈尼族自治县](http://www.mojiang.gov.cn/hnmj.htm '墨江县')　
-530823 [景东彝族自治县]( )　
+530823 景东彝族自治县　
 530824 [景谷傣族彝族自治县](http://www.jinggu.gov.cn/qjzg.htm '景谷县')　
 530825 [镇沅彝族哈尼族拉祜族自治县](http://www.pezhenyuan.gov.cn/zygk1/zygk.htm '镇沅县')　
 530826 [江城哈尼族彝族自治县](http://www.jcx.gov.cn/ysjc.htm '江城县')　
@@ -3064,7 +3065,7 @@
 
 533400 <b>[迪庆藏族自治州](http://www.diqing.gov.cn '迪庆州')</b>  
 533401 [香格里拉市](http://xianggelila.diqing.gov.cn )　
-533422 [德钦县]( )　
+533422 德钦县　
 533423 [维西傈僳族自治县](http://weixi.diqing.gov.cn/mlwx/wxgk.html '维西县')　
 
 <h3 id="54">54 <a href="http://www.xizang.gov.cn" title="540000 西藏自治区 ">西藏自治区</a></h3>
@@ -3149,12 +3150,12 @@
 540630 [双湖县](http://www.xzsh.gov.cn )　
 
 542500 <b>[阿里地区](http://www.al.gov.cn )</b>  
-542521 [普兰县]( )　
+542521 普兰县　
 542522 [札达县](http://www.zd.al.gov.cn )　
 542523 [噶尔县](http://www.ge.al.gov.cn )　
-542524 [日土县]( )　
-542525 [革吉县]( )　
-542526 [改则县]( )　
+542524 日土县　
+542525 革吉县　
+542526 改则县　
 542527 [措勤县](http://cq.al.gov.cn )　
 
 <h3 id="61">61 <a href="http://www.shaanxi.gov.cn/sq/" title="610000 陕西省 ">陕西省</a></h3>
@@ -3307,7 +3308,7 @@
 620400 <b>[白银市](http://www.baiyin.gov.cn )</b>  
 620402 [白银区](http://www.baiyinqu.gov.cn )　
 620403 [平川区](http://zwfw.bypc.gov.cn )　
-620421 [靖远县]( )　
+620421 靖远县　
 620422 [会宁县](http://www.huining.gov.cn )　
 620423 [景泰县](http://www.jingtai.gov.cn )　
 
@@ -3324,7 +3325,7 @@
 620602 [凉州区](http://www.gsliangzhou.gov.cn )　
 620621 [民勤县](http://www.minqin.gov.cn )　
 620622 [古浪县](http://www.gulang.gov.cn )　
-620623 [天祝藏族自治县]( )　
+620623 天祝藏族自治县　
 
 620700 <b>[张掖市](http://www.zhangye.gov.cn )</b>  
 620702 [甘州区](http://www.gsgz.gov.cn )　
@@ -3332,7 +3333,7 @@
 620722 [民乐县](http://www.gsml.gov.cn )　
 620723 [临泽县](http://www.gslz.gov.cn )　
 620724 [高台县](http://www.gaotai.gov.cn )　
-620725 [山丹县]( )　
+620725 山丹县　
 
 620800 <b>[平凉市](http://www.pingliang.gov.cn )</b>  
 620802 [崆峒区](http://www.kongtong.gov.cn )　
@@ -3417,7 +3418,7 @@
 630202 [乐都区](http://www.ledu.gov.cn )　
 630203 [平安区](http://www.pinganqu.gov.cn )　
 630222 [民和回族土族自治县](http://www.minhe.gov.cn/html/587/list.html '民和县缺少概况内容')　
-630223 [互助土族自治县]( )　
+630223 互助土族自治县　
 630224 [化隆回族自治县](http://www.hualongxian.gov.cn )　
 630225 [循化撒拉族自治县](http://www.xunhua.gov.cn/html/1998/135171.html '循化县')　
 
@@ -3480,7 +3481,7 @@
 640221 [平罗县](http://www.pingluo.gov.cn )　
 
 640300 <b>[吴忠市](http://www.wuzhong.gov.cn )</b>  
-640302 [利通区]( )　
+640302 利通区　
 640303 [红寺堡区](http://www.hongsibu.gov.cn )　
 640323 [盐池县](http://www.yanchi.gov.cn )　
 640324 [同心县](http://www.tongxin.gov.cn )　
@@ -3503,7 +3504,7 @@
 650100 <b>[乌鲁木齐市](http://www.urumqi.gov.cn )</b>  
 650102 [天山区](http://www.xjtsq.gov.cn )　
 650103 [沙依巴克区](http://www.sayibak.gov.cn )　
-650104 [新市区]( )　
+650104 新市区　
 650105 [水磨沟区](http://www.xjsmgq.gov.cn )　
 650106 [头屯河区](http://www.uetd.gov.cn )　
 650107 [达坂城区](http://www.dabancheng.gov.cn )　
@@ -3547,7 +3548,7 @@
 652823 [尉犁县](http://www.yuli.gov.cn )　
 652824 [若羌县](http://www.loulan.gov.cn )　
 652825 [且末县](http://www.xjqmx.gov.cn )　
-652826 [焉耆回族自治县]( )　
+652826 焉耆回族自治县　
 652827 [和静县](http://www.xjhj.gov.cn )　
 652828 [和硕县](http://www.hoxut.gov.cn )　
 652829 [博湖县](http://www.xjbh.gov.cn )　
@@ -3624,7 +3625,7 @@
 654325 [青河县](http://www.xjqh.gov.cn )　
 654326 [吉木乃县](http://www.jmn.gov.cn )　
 
-<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 新疆生产建设兵团 新疆兵团非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a></h3>
+<h3 id="65">65 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 新疆生产建设兵团 新疆兵团非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a></h3>
 659001 [石河子市](http://www.shz.gov.cn '兵团第八师')　
 659002 [阿拉尔市](http://www.ale.gov.cn '兵团第一师')　
 659003 [图木舒克市](http://www.xjbtnss.gov.cn '兵团第三师')　
@@ -3635,7 +3636,7 @@
 659008 [可克达拉市](http://www.cocodala.gov.cn '兵团第四师')　
 659009 [昆玉市](http://www.btdsss.gov.cn '兵团第十四师')　
 659010 [胡杨河市](http://www.nqs.gov.cn '兵团第七师')　
-659011 [新星市]( '兵团第十三师，2021年设立，btnsss.gov.cn维护中')　
+659011 新星市　
 
 
 <h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a></h3>
