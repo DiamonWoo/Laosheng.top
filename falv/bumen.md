@@ -6,7 +6,9 @@
 
 		到2025年，政府行为全面纳入法治轨道——《法治政府建设实施纲要(2021－2025年)》
 
-　　本页面收录‘法治政府’的有关部门网址，包括：人大(立法)、两院(司法)、公安(执法)、普法，政法委与监察机关。目前，省级部门已基本收录完整，地级部门的收录正在进行。欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
+　　本页面收录‘法治政府’的有关部门网址，包括：立法部门、司法部门、执法部门（即：人大、两院、公安、司法）、普法与法治建设部门、纪检监察部门；还将收录半官方的各地律师协会。
+
+　　目前，省级部门已基本收录完整，地级部门的收录正在进行。欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
 
 35个省级单位索引
 ---------------
@@ -47,17 +49,17 @@
 <a href="#82" target="_self">82-澳门</a>　91-国外入籍身份证号
 
 
-<h3>中央部门 与 全国统一电话</h3>
+<h3>中央部门 与 全国统一服务电话</h3>
 
-[全国人大](http://www.npc.gov.cn)　[代表信息页](http://www.npc.gov.cn/npc/dbmd13/dbmd.shtml) [地方法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　 　 [最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ ☏ 12309　 [最高法](https://www.court.gov.cn)<sup>🔸</sup> ☏ 12368  
-[人民政府](https://www.beijing.gov.cn)<sup>🔸</sup>ⓜ 　	[全国政务服务总门户](http://www.gov.cn/fuwu/)　 全国统一服务电话📞 12345  
+[全国人大](http://www.npc.gov.cn)：[地方法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　[代表信息页](http://www.npc.gov.cn/npc/dbmd13/dbmd.shtml)　 ⚖️ [最高法](https://www.court.gov.cn)<sup>🔸</sup> ☏ 12368　 ⚔️ [最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ ☏ 12309  
+[人民政府](https://www.beijing.gov.cn)<sup>🔸</sup>ⓜ 　 [全国政务服务总门户](http://www.gov.cn/fuwu/)　 📞 12345  
 　 [生态环境部](https://www.mee.gov.cn)<sup>🔸</sup>ⓜ　 [曝光台](https://www.mee.gov.cn/ywdt/bgt/) 📞 12369 
 　 [住房和城乡建设部](https://www.mohurd.gov.cn) 城管举报 📞 12319　 [建设要闻](https://www.mohurd.gov.cn/xinwen/gzdt/)  
 　 [司法部](https://www.moj.gov.cn)<sup>🔸</sup>　	☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　 
 　 [公安部](https://www.mps.gov.cn)<sup>🔸</sup>ⓜ 　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)  ☏ 12389  
 [中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ ☏ 12337 　 [全国政协](http://www.cppcc.gov.cn) 　	提案公开页[]()  
-[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ 　	[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)　 全国统一举报电话☎️ 12388 
-  …… 更多部门及全国统一电话请见**[中央有关部门](zhongyang)**页面
+[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ 　	[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)　 ☎️ 12388 　…… 更多部门及全国统一电话请见**[中央有关部门](../fuwu/zhongyang)**页面
+
 
 <h3 id="11">11 <a titile="北京市人民政府" href="http://www.beijing.gov.cn">北京</a>　京</h3>	
 北京人大：[地方法规](http://www.bjrd.gov.cn/search/fggz) [代表信息](http://www.bjrd.gov.cn/search/represent)　[省政协](http://www.bjzx.gov.cn)　⚖️[高级人民法院](http://bjgy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.bjjc.gov.cn)　[审计厅](http://sjj.beijing.gov.cn)　[法律服务站](http://bj.12348.gov.cn)　[监狱管理局](http://jyj.beijing.gov.cn)　[省药监局](http://yjj.beijing.gov.cn)	  
@@ -74,33 +76,33 @@
 河北人大：[地方法规](http://temp.pkulaw.cn:8101) 代表信息　[省政协](http://www.hebzx.gov.cn)　⚖️[高级人民法院](http://hbfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.he.jcy.gov.cn)　审计厅　[法律服务站](http://he.12348.gov.cn)　[监狱管理局](http://jygl.hebei.gov.cn)　[省药监局](http://yjj.hebei.gov.cn/)	  
 纪委监委：[巡视巡察](http://www.hebcdi.gov.cn/node_146324.htm)　[审查调查](http://www.hebcdi.gov.cn/node_124625.htm)　<small>WX号：河北省纪委监委　　<small>  
 
-130100 <b>[石家庄市](http://www.sjz.gov.cn "石家庄市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.sjz.gov.cn)　司法局　律协  
-130200 <b>[唐山市](http://www.tangshan.gov.cn "唐山市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.tangshan.gov.cn)　司法局　律协  
-130300 <b>[秦皇岛市](http://www.qhd.gov.cn "秦皇岛市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://sgaj.qhd.gov.cn)　司法局　律协  
-130400 <b>[邯郸市](https://www.hd.gov.cn "邯郸市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-130500 <b>[邢台市](http://www.xingtai.gov.cn "邢台市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-130600 <b>[保定市](http://www.baoding.gov.cn "保定市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.baoding.gov.cn)　司法局　律协  
-130700 <b>[张家口市](http://www.zjk.gov.cn "张家口市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.zjk.gov.cn)　司法局　律协  
-130800 <b>[承德市](http://www.chengde.gov.cn "承德市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://ga.chengde.gov.cn)　司法局　律协  
-130900 <b>[沧州市](http://www.cangzhou.gov.cn "沧州市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://police1.cangzhou.gov.cn:81)　司法局　律协  
-131000 <b>[廊坊市](http://www.lf.gov.cn "廊坊市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.lf.gov.cn)　司法局　律协  
-131100 <b>[衡水市](http://www.hengshui.gov.cn "衡水市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.hengshui.gov.cn)　司法局　律协  
+130100 <b>[石家庄市](http://www.sjz.gov.cn "石家庄市人民政府")</b>　	人大　[纪委监委](http://www.zgsjzsjw.gov.cn)　[石家庄长安网](http://www.sjzzfw.gov.cn)	　[公安局](http://gaj.sjz.gov.cn)　[司法局](http://sfj.sjz.gov.cn)　律协  
+130200 <b>[唐山市](http://www.tangshan.gov.cn "唐山市人民政府")</b>　	人大　[纪委监委](https://www.tscdi.gov.cn)　[唐山长安网](http://www.tscaw.gov.cn)	　[公安局](http://gaj.tangshan.gov.cn)　[司法局](http://tssfj.tangshan.gov.cn)　律协  
+130300 <b>[秦皇岛市](http://www.qhd.gov.cn "秦皇岛市人民政府")</b>　	人大　[纪委监委](http://www.qhdjw.gov.cn)　[秦皇岛长安网](https://www.qhdcaw.gov.cn)	　[公安局](http://sgaj.qhd.gov.cn)　[司法局](http://sf.qhd.gov.cn)　律协  
+130400 <b>[邯郸市](https://www.hd.gov.cn "邯郸市人民政府")</b>　	人大　[纪委监委](http://jjw.hd.gov.cn)　[邯郸长安网](http://www.handanpeace.gov.cn)	　[公安局](http://gaj.hd.gov.cn)　[司法局](http://sfj.hd.gov.cn)　律协  
+130500 <b>[邢台市](http://www.xingtai.gov.cn "邢台市人民政府")</b>　	人大　[纪委监委](https://www.xtsjw.gov.cn)　[邢台长安网](http://www.xtpa.gov.cn)	　[公安局](http://gaj.xingtai.gov.cn)　[司法局](http://sfj.xingtai.gov.cn)　律协  
+130600 <b>[保定市](http://www.baoding.gov.cn "保定市人民政府")</b>　	人大　[纪委监委](https://www.bdjj.gov.cn)　[保定长安网](http://www.bdcaw.gov.cn)	　[公安局](http://gaj.baoding.gov.cn)　[司法局](http://sfj.baoding.gov.cn)　律协  
+130700 <b>[张家口市](http://www.zjk.gov.cn "张家口市人民政府")</b>　	人大　[纪委监委](http://www.zjkjw.gov.cn)　[张家口长安网](http://www.zjkpeace.gov.cn)	　[公安局](http://gaj.zjk.gov.cn)　[司法局](http://sfj.zjk.gov.cn)　律协  
+130800 <b>[承德市](http://www.chengde.gov.cn "承德市人民政府")</b>　	人大　[纪委监委](http://www.cdjjjc.gov.cn)　[承德长安网](http://www.cdcaw.gov.cn)	　[公安局](http://ga.chengde.gov.cn)　[司法局](http://sfj.chengde.gov.cn)　律协  
+130900 <b>[沧州市](http://www.cangzhou.gov.cn "沧州市人民政府")</b>　	人大　[纪委监委](http://www.czcdi.gov.cn)　[沧州长安网](http://www.czpingan.gov.cn)	　[公安局](http://police1.cangzhou.gov.cn:81)　[司法局](http://sf.cangzhou.gov.cn)　律协  
+131000 <b>[廊坊市](http://www.lf.gov.cn "廊坊市人民政府")</b>　	人大　[纪委监委](http://www.lfcdi.gov.cn)　[廊坊长安网](http://www.lfcaw.org)	　[公安局](http://gaj.lf.gov.cn)　[司法局](http://sfj.lf.gov.cn)　律协  
+131100 <b>[衡水市](http://www.hengshui.gov.cn "衡水市人民政府")</b>　	人大　[纪委监委](http://www.hbhsjj.gov.cn)　[衡水长安网](http://www.hspeace.gov.cn)	　[公安局](http://gaj.hengshui.gov.cn)　[司法局](http://sfj.hengshui.gov.cn)　律协  
 
 <h3 id="14">14 <a titile="山西省人民政府" href="http://www.shanxi.gov.cn">山西</a>　晋</h3>	
 山西人大：[地方法规](http://218.26.22.67:9090/basc/) 代表信息　[省政协](http://www.shanxizx.gov.cn)　⚖️[高级人民法院](http://shanxify.chinacourt.gov.cn)　⚔️[人民检察院](http://www.sx.jcy.gov.cn)　[审计厅](https://sjt.shanxi.gov.cn)　[法律服务站](http://sx.12348.gov.cn)　[监狱管理局](https://jyj.shanxi.gov.cn)　[省药监局](http://yjj.shanxi.gov.cn)	  
 纪委监委：[巡视巡察](http://www.sxdi.gov.cn/xxgk/xsxc/)　[审查调查](http://www.sxdi.gov.cn/xxgk/scdc/)　<small>WX号：清廉山西　　还有省戒毒局<small>  
 
-140100 <b>[太原市](http://www.taiyuan.gov.cn "太原市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-140200 <b>[大同市](http://www.dt.gov.cn "大同市人民政府")</b>　	[人大](https://dtsrd.gov.cn)　纪委监委　长安网群	　公安局　司法局　律协  
-140300 <b>[阳泉市](http://www.yq.gov.cn "阳泉市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-140400 <b>[长治市](http://www.changzhi.gov.cn "长治市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-140500 <b>[晋城市](http://www.jcgov.gov.cn "晋城市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-140600 <b>[朔州市](http://www.shuozhou.gov.cn "朔州市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-140700 <b>[晋中市](http://www.sxjz.gov.cn "晋中市人民政府")</b>　	[人大](https://renda.sxjz.gov.cn)　纪委监委　长安网群	　公安局　司法局　律协  
-140800 <b>[运城市](https://www.yuncheng.gov.cn "运城市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-140900 <b>[忻州市](https://www.sxxz.gov.cn "忻州市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-141000 <b>[临汾市](http://www.linfen.gov.cn "临汾市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
-141100 <b>[吕梁市](http://www.lvliang.gov.cn "吕梁市人民政府")</b>　	人大　纪委监委　长安网群	　公安局　司法局　律协  
+140100 <b>[太原市](http://www.taiyuan.gov.cn "太原市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.taiyuan.gov.cn)　司法局　律协  
+140200 <b>[大同市](http://www.dt.gov.cn "大同市人民政府")</b>　	[人大](https://dtsrd.gov.cn)　纪委监委　长安网群	　[公安局](http://gaj.dt.gov.cn)　司法局　律协  
+140300 <b>[阳泉市](http://www.yq.gov.cn "阳泉市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.yq.gov.cn)　司法局　律协  
+140400 <b>[长治市](http://www.changzhi.gov.cn "长治市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.changzhi.gov.cn)　司法局　律协  
+140500 <b>[晋城市](http://www.jcgov.gov.cn "晋城市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.jcgov.gov.cn)　司法局　律协  
+140600 <b>[朔州市](http://www.shuozhou.gov.cn "朔州市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.shuozhou.gov.cn)　司法局　律协  
+140700 <b>[晋中市](http://www.sxjz.gov.cn "晋中市人民政府")</b>　	[人大](https://renda.sxjz.gov.cn)　纪委监委　长安网群	　[公安局](http://gaj.sxjz.gov.cn)　司法局　律协  
+140800 <b>[运城市](https://www.yuncheng.gov.cn "运城市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.yuncheng.gov.cn)　司法局　律协  
+140900 <b>[忻州市](https://www.sxxz.gov.cn "忻州市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://gaj.sxxz.gov.cn)　司法局　律协  
+141000 <b>[临汾市](http://www.linfen.gov.cn "临汾市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://linfen.gov.cn/gaj)　司法局　律协  
+141100 <b>[吕梁市](http://www.lvliang.gov.cn "吕梁市人民政府")</b>　	人大　纪委监委　长安网群	　[公安局](http://ga.lvliang.gov.cn)　司法局　律协  
 
 <h3 id="15">15 <a titile="内蒙古自治区人民政府" href="https://www.nmg.gov.cn">内蒙古</a>　蒙</h3>	
 内蒙古人大：[地方法规](http://www.nmgrd.gov.cn/zyfbx/dfxfgx/) [代表信息](http://www.nmgrd.gov.cn/zzqdbdh/)　[省政协](http://www.nmgzx.gov.cn)　⚖️[高级人民法院](http://nmgfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.nm.jcy.gov.cn)　[审计厅](http://audit.nmg.gov.cn)　[法律服务站](http://nm.12348.gov.cn)　[监狱管理局](http://jyj.nmg.gov.cn)　[省药监局](http://mpa.nmg.gov.cn)	  
@@ -584,7 +586,7 @@
 	老生常谈 © 2019-2022	大萌
 	GPL 3.0	可复制-可修改-相同方式授权
 	https://laosheng.top/falv/bumen
-	法治政府有关部门 v0.4.7	202206
+	法治政府有关部门 v0.4.8	202206
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
