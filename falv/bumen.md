@@ -61,18 +61,18 @@
 
 <h3 id="11">11 <a title="北京市人民政府" href="http://www.beijing.gov.cn">北京</a>　京</h3>	
 北京人大：[地方法规](http://www.bjrd.gov.cn/search/fggz)　[代表信息](http://www.bjrd.gov.cn/search/represent)　⚖️[高级人民法院](http://bjgy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.bjjc.gov.cn)　[审计厅](http://sjj.beijing.gov.cn)　[法律服务站](http://bj.12348.gov.cn)　[监狱管理局](http://jyj.beijing.gov.cn)　[省药监局](http://yjj.beijing.gov.cn)	  
-纪委监委：[巡视巡察](http://www.bjsupervision.gov.cn)　[审查调查](http://www.bjsupervision.gov.cn/gzzc/zjsc/)　<small>WX：清风北京</small>　[省政协](http://www.bjzx.gov.cn)　[政法委](北京政法网http://www.bj148.org)　[法学会](http://www.bjfxh.org.cn)　<small>首都</small>  
+纪委监委：[巡视巡察](http://www.bjsupervision.gov.cn)　[审查调查](http://www.bjsupervision.gov.cn/gzzc/zjsc/)　WX：清风北京　[省政协](http://www.bjzx.gov.cn)　[政法委](北京政法网http://www.bj148.org)　[法学会](http://www.bjfxh.org.cn)　<i>首都</i>  
 
 
 <h3 id="12">12 <a title="天津市人民政府" href="http://www.tj.gov.cn">天津</a>　津</h3>	
 天津人大：[地方法规](http://www.tjrd.gov.cn/flfg/sjk/)　[代表信息](http://www.tjrd.gov.cn/rdgl/dbt/)　⚖️[高级人民法院](https://tjfy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.tj.jcy.gov.cn)　[审计厅](http://sj.tj.gov.cn)　[法律服务站](https://tj.12348.gov.cn)　监狱管理局　省药监局	  
-纪委监委：[巡视巡察](https://www.tjjw.gov.cn/xunshixuncha/list2_40012_1.html)　[审查调查](https://www.tjjw.gov.cn/qw_shenchadiaocha.html)　<small>WX：海河清风</small>　[省政协](http://www.tjszx.gov.cn)　[政法委](天津长安网http://www.tjcaw.gov.cn)　[法学会](http://www.tjsfxh.com)　<small></small>  
+纪委监委：[巡视巡察](https://www.tjjw.gov.cn/xunshixuncha/list2_40012_1.html)　[审查调查](https://www.tjjw.gov.cn/qw_shenchadiaocha.html)　WX：海河清风　[省政协](http://www.tjszx.gov.cn)　[政法委](天津长安网http://www.tjcaw.gov.cn)　[法学会](http://www.tjsfxh.com)　<i></i>  
 
 120116 <b>[滨海新区](http://www.tjbh.gov.cn "滨海新区人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 
 <h3 id="13">13 <a title="河北省人民政府" href="http://www.hebei.gov.cn">河北</a>　冀</h3>	
 河北人大：[地方法规](http://temp.pkulaw.cn:8101)　代表信息　⚖️[高级人民法院](http://hbfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.he.jcy.gov.cn)　审计厅　[法律服务站](https://he.12348.gov.cn)　[监狱管理局](http://jygl.hebei.gov.cn)　[省药监局](http://yjj.hebei.gov.cn/)	  
-纪委监委：[巡视巡察](http://www.hebcdi.gov.cn/node_146324.htm)　[审查调查](http://www.hebcdi.gov.cn/node_124625.htm)　<small>WX：河北省纪委监委</small>　[省政协](http://www.hebzx.gov.cn)　[政法委](河北长安网http://www.hebeipingan.org.cn)　[法学会](http://www.hbsfxh.org.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.hebcdi.gov.cn/node_146324.htm)　[审查调查](http://www.hebcdi.gov.cn/node_124625.htm)　WX：河北省纪委监委　[省政协](http://www.hebzx.gov.cn)　[政法委](河北长安网http://www.hebeipingan.org.cn)　[法学会](http://www.hbsfxh.org.cn)　<i></i>  
 
 130100 <b>[石家庄市](http://www.sjz.gov.cn "石家庄市人民政府")</b>　	人大　[纪委监委](http://www.zgsjzsjw.gov.cn)	　[公安局](http://gaj.sjz.gov.cn)　[司法局](http://sfj.sjz.gov.cn)　[律协](https://sjzlawyer.org.cn/)　[石家庄长安网](http://www.sjzzfw.gov.cn)　法学会  
 130200 <b>[唐山市](http://www.tangshan.gov.cn "唐山市人民政府")</b>　	[人大](http://www.tsrd.gov.cn)　[纪委监委](https://www.tscdi.gov.cn)	　[公安局](http://gaj.tangshan.gov.cn)　[司法局](http://tssfj.tangshan.gov.cn)　律协　[唐山长安网](http://www.tscaw.gov.cn)　法学会  
@@ -88,7 +88,7 @@
 
 <h3 id="14">14 <a title="山西省人民政府" href="http://www.shanxi.gov.cn">山西</a>　晋</h3>	
 山西人大：[地方法规](http://218.26.22.67:9090/basc/)　代表信息　⚖️[高级人民法院](http://shanxify.chinacourt.gov.cn)　⚔️[人民检察院](http://www.sx.jcy.gov.cn)　[审计厅](https://sjt.shanxi.gov.cn)　[法律服务站](http://sx.12348.gov.cn)　[监狱管理局](https://jyj.shanxi.gov.cn)　[省药监局](http://yjj.shanxi.gov.cn)	  
-纪委监委：[巡视巡察](http://www.sxdi.gov.cn/xxgk/xsxc/)　[审查调查](http://www.sxdi.gov.cn/xxgk/scdc/)　<small>WX：清廉山西</small>　[省政协](http://www.shanxizx.gov.cn)　[政法委](山西长安网http://www.sxpeace.gov.cn)　[法学会](http://www.shanxilawsociety.org.cn)　<small>还有省戒毒局</small>  
+纪委监委：[巡视巡察](http://www.sxdi.gov.cn/xxgk/xsxc/)　[审查调查](http://www.sxdi.gov.cn/xxgk/scdc/)　WX：清廉山西　[省政协](http://www.shanxizx.gov.cn)　[政法委](山西长安网http://www.sxpeace.gov.cn)　[法学会](http://www.shanxilawsociety.org.cn)　<i>还有省戒毒局</i>  
 
 140100 <b>[太原市](http://www.taiyuan.gov.cn "太原市人民政府")</b>　	人大　纪委监委	　[公安局](http://gaj.taiyuan.gov.cn)　司法局　律协　长安网群　法学会  
 140200 <b>[大同市](http://www.dt.gov.cn "大同市人民政府")</b>　	[人大](https://dtsrd.gov.cn)　纪委监委	　[公安局](http://gaj.dt.gov.cn)　司法局　律协　长安网群　法学会  
@@ -104,7 +104,7 @@
 
 <h3 id="15">15 <a title="内蒙古自治区人民政府" href="https://www.nmg.gov.cn">内蒙古</a>　蒙</h3>	
 内蒙古人大：[地方法规](http://www.nmgrd.gov.cn/zyfbx/dfxfgx/)　[代表信息](http://www.nmgrd.gov.cn/zzqdbdh/)　⚖️[高级人民法院](http://nmgfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.nm.jcy.gov.cn)　[审计厅](http://audit.nmg.gov.cn)　[法律服务站](http://nm.12348.gov.cn)　[监狱管理局](http://jyj.nmg.gov.cn)　[省药监局](http://mpa.nmg.gov.cn)	  
-纪委监委：[巡视巡察](http://www.nmgjjjc.gov.cn/page/xsxcgzzt.html)　[审查调查](http://www.nmgjjjc.gov.cn/category/scdc.html)　<small>WX：内蒙古纪委监委</small>　[省政协](http://www.nmgzx.gov.cn)　[政法委](内蒙古长安网http://www.nmgzf.gov.cn)　[法学会](http://www.nmgfxh.gov.cn)　<small>1947年成立自治区</small>  
+纪委监委：[巡视巡察](http://www.nmgjjjc.gov.cn/page/xsxcgzzt.html)　[审查调查](http://www.nmgjjjc.gov.cn/category/scdc.html)　WX：内蒙古纪委监委　[省政协](http://www.nmgzx.gov.cn)　[政法委](内蒙古长安网http://www.nmgzf.gov.cn)　[法学会](http://www.nmgfxh.gov.cn)　<i>1947年成立自治区</i>  
 
 150100 <b>[呼和浩特市](http://www.huhhot.gov.cn "呼和浩特市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 150200 <b>[包头市](http://www.baotou.gov.cn "包头市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -121,7 +121,7 @@
 
 <h3 id="21">21 <a title="辽宁省人民政府" href="http://www.ln.gov.cn">辽宁</a>　辽</h3>	
 辽宁人大：[地方法规](http://www.lnrd.gov.cn/p1/dfxfg2.html)　代表信息　⚖️[高级人民法院](http://lnfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.ln.jcy.gov.cn)　[审计厅](http://sjt.ln.gov.cn)　[法律服务站](http://ln.12348.gov.cn)　[监狱管理局](http://jyj.ln.gov.cn)　[省药监局](http://ypjg.ln.gov.cn)	  
-纪委监委：[巡视巡察](http://www.lnsjjjc.gov.cn/xsxc/)　[审查调查](http://www.lnsjjjc.gov.cn/jlsc/)　<small>WX：辽宁省纪委监委</small>　[省政协](http://www.lnzx.gov.cn)　[政法委](辽宁长安网http://www.lnfz.cn)　[法学会](http://www.lnfxw.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.lnsjjjc.gov.cn/xsxc/)　[审查调查](http://www.lnsjjjc.gov.cn/jlsc/)　WX：辽宁省纪委监委　[省政协](http://www.lnzx.gov.cn)　[政法委](辽宁长安网http://www.lnfz.cn)　[法学会](http://www.lnfxw.cn)　<i></i>  
 
 210100 <b>[沈阳市](http://www.shenyang.gov.cn "沈阳市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　[法学会](http://www.sysfxh.gov.cn)  
 210200 <b>[大连市](http://www.dl.gov.cn "大连市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　[法学会](http://www.dlfxh.gov.cn)  
@@ -140,7 +140,7 @@
 
 <h3 id="22">22 <a title="吉林省人民政府" href="http://www.jl.gov.cn">吉林</a>　吉</h3>	
 吉林人大：[地方法规](http://www.jlrd.gov.cn/xwzx/dfxfg/)　[代表信息](http://www.jlrd.gov.cn/rdgl/zzjg/srddb/)　⚖️[高级人民法院](http://jlfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.jl.jcy.gov.cn)　[审计厅](http://sjt.jl.gov.cn)　[法律服务站](http://jl.12348.gov.cn)　[监狱管理局](http://jyj.jl.gov.cn)　[省药监局](http://mpa.jl.gov.cn)	  
-纪委监委：[巡视巡察](http://ccdijl.gov.cn/ztjc/xsxc/)　[审查调查](http://ccdijl.gov.cn/scdc/)　<small>WX：廉洁吉林</small>　[省政协](http://www.jlzx.gov.cn)　[政法委](吉林省长安网http://www.jlpeace.gov.cn)　[法学会](http://www.jlfxhw.com)　<small></small>  
+纪委监委：[巡视巡察](http://ccdijl.gov.cn/ztjc/xsxc/)　[审查调查](http://ccdijl.gov.cn/scdc/)　WX：廉洁吉林　[省政协](http://www.jlzx.gov.cn)　[政法委](吉林省长安网http://www.jlpeace.gov.cn)　[法学会](http://www.jlfxhw.com)　<i></i>  
 
 220100 <b>[长春市](http://www.changchun.gov.cn "长春市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　[法学会](http://www.ccsfxh.org.cn)  
 220200 <b>[吉林市](http://www.jlcity.gov.cn "吉林市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -172,13 +172,13 @@
 
 <h3 id="31">31 <a title="上海市人民政府" href="http://www.shanghai.gov.cn">上海</a>　沪</h3>	
 上海人大：[地方法规](https://law.sfj.sh.gov.cn/)　[代表信息](http://odbapp.eastday.com/shrdweb/dbxx.aspx)　⚖️[高级人民法院](https://www.hshfy.sh.cn/shfy/web/sqfy.jsp?type=6)　⚔️[人民检察院](https://www.sh.jcy.gov.cn)　[审计厅](https://sjj.sh.gov.cn)　[法律服务站](http://sh.12348.gov.cn)　[监狱管理局](https://jyj.sh.gov.cn)　[省药监局](http://yjj.sh.gov.cn)	  
-纪委监委：[巡视巡察](https://www.shjjjc.gov.cn/2015jjw/xsxc/xsxc.html)　[审查调查](https://www.shjjjc.gov.cn/2015jjw/scdc/scdc.html)　<small>WX：廉洁上海</small>　[省政协](http://www.shszx.gov.cn)　[政法委](上海政法综治网http://www.shzfzz.net)　[法学会](http://www.sls.org.cn)　<small></small>  
+纪委监委：[巡视巡察](https://www.shjjjc.gov.cn/2015jjw/xsxc/xsxc.html)　[审查调查](https://www.shjjjc.gov.cn/2015jjw/scdc/scdc.html)　WX：廉洁上海　[省政协](http://www.shszx.gov.cn)　[政法委](上海政法综治网http://www.shzfzz.net)　[法学会](http://www.sls.org.cn)　<i></i>  
 
 310115 <b>[浦东新区](https://www.pudong.gov.cn "浦东新区人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 
 <h3 id="32">32 <a title="江苏省人民政府" href="http://www.jiangsu.gov.cn">江苏</a>　苏</h3>	
 江苏人大：[地方法规](http://www.jsrd.gov.cn/qwfb/sjfg/)　[代表信息](http://www.jsrd.gov.cn/rdgl/zzjg/srmdbdh/)　⚖️[高级人民法院](http://www.jsfy.gov.cn)　⚔️[人民检察院](https://www.jsjc.gov.cn)　[审计厅](http://jssjt.jiangsu.gov.cn)　[法律服务站](http://js.12348.gov.cn)　[监狱管理局](http://jssjyglj.jiangsu.gov.cn)　[省药监局](http://da.jiangsu.gov.cn)	  
-纪委监委：[巡视巡察](http://www.jssjw.gov.cn/col/col1320/)　[审查调查](http://www.jssjw.gov.cn/col/col17/)　<small>WX：清廉江苏</small>　[省政协](http://www.jszx.gov.cn)　[政法委](江苏长安网http://www.jszf.org)　[法学会](http://www.jsfxh.org)　<small></small>  
+纪委监委：[巡视巡察](http://www.jssjw.gov.cn/col/col1320/)　[审查调查](http://www.jssjw.gov.cn/col/col17/)　WX：清廉江苏　[省政协](http://www.jszx.gov.cn)　[政法委](江苏长安网http://www.jszf.org)　[法学会](http://www.jsfxh.org)　<i></i>  
 
 320100 <b>[南京市](https://www.nanjing.gov.cn "南京市人民政府")</b>　	[人大](http://www.njrd.gov.cn)　[纪委监委](http://www.njjj.gov.cn)	　[公安局](http://gaj.nanjing.gov.cn)　[司法局](http://sfj.nanjing.gov.cn)　[律协](http://www.njslawyers.org)　[金陵长安网](http://zfw.nanjing.gov.cn)　[法学会](http://fxh.nanjing.gov.cn)  
 320200 <b>[无锡市](http://www.wuxi.gov.cn "无锡市人民政府")</b>　	[人大](http://rd.wuxi.gov.cn)　[纪委监委](http://wuxijw.wuxi.gov.cn)	　[公安局](http://ga.wuxi.gov.cn)　[司法局](https://wxsfj.wuxi.gov.cn)　律协　[无锡长安网](http://www.wxzf.org)　法学会  
@@ -196,7 +196,7 @@
 
 <h3 id="33">33 <a title="浙江省人民政府" href="http://www.zj.gov.cn">浙江</a>　浙</h3>	
 浙江人大：[地方法规](https://www.zjrd.gov.cn/dflf/dffgk/)　[代表信息](http://dblz.zjrd.gov.cn/dbllz/)　⚖️[高级人民法院](https://www.zjcourt.cn)　⚔️[人民检察院](http://www.zjjcy.gov.cn)　[审计厅](http://sjt.zj.gov.cn)　[法律服务站](https://12348.sft.zj.gov.cn)　[监狱管理局](http://jyglj.zj.gov.cn)　[省药监局](http://mpa.zj.gov.cn)	  
-纪委监委：[巡视巡察](https://www.zjsjw.gov.cn/gongzuodongtai/xunshixuncha/)　[审查调查](https://www.zjsjw.gov.cn/quanweifabu/shenchadiaocha/)　<small>WX：清廉浙江</small>　[省政协](https://www.zjzx.gov.cn)　[政法委](平安浙江网http://www.pazjw.gov.cn)　[法学会](http://www.zjfxh.com)　<small></small>  
+纪委监委：[巡视巡察](https://www.zjsjw.gov.cn/gongzuodongtai/xunshixuncha/)　[审查调查](https://www.zjsjw.gov.cn/quanweifabu/shenchadiaocha/)　WX：清廉浙江　[省政协](https://www.zjzx.gov.cn)　[政法委](平安浙江网http://www.pazjw.gov.cn)　[法学会](http://www.zjfxh.com)　<i></i>  
 
 330100 <b>[杭州市](http://www.hangzhou.gov.cn "杭州市人民政府")</b>　	人大　[纪委监委](https://www.hzlz.gov.cn)	　[公安局](http://police.hangzhou.gov.cn)　[司法局](http://sf.hangzhou.gov.cn)　[律协](http://www.hzlawyer.net/)　[平安杭州](http://www.pahz.gov.cn)　[法学会](http://www.hzsfxh.com)  
 330200 <b>[宁波市](http://www.ningbo.gov.cn "宁波市人民政府")</b>　	人大　[纪委监委](http://www.nbjw.gov.cn)	　[公安局](http://gaj.ningbo.gov.cn)　[司法局](http://sfj.ningbo.gov.cn)　[律协](http://www.nblawyer.com/)　[平安宁波](http://www.panb.gov.cn)　法学会  
@@ -212,7 +212,7 @@
 
 <h3 id="34">34 <a title="安徽省人民政府" href="https://www.ah.gov.cn">安徽</a>　皖</h3>	
 安徽人大：[地方法规](http://www.ahrd.gov.cn/list.jsp?strColId=96efd7a1c2394841b05eca98d0b98862&)　代表信息　⚖️[高级人民法院](http://ahfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.ah.jcy.gov.cn)　[审计厅](https://sjt.ah.gov.cn)　[法律服务站](http://ah.12348.gov.cn)　[监狱管理局](http://jyj.ah.gov.cn)　[省药监局](http://mpa.ah.gov.cn)	  
-纪委监委：[巡视巡察](http://www.ahjjjc.gov.cn/ahxs)　[审查调查](http://www.ahjjjc.gov.cn/jdpg)　<small>WX：安徽纪检监察</small>　[省政协](http://www.ahzx.gov.cn)　[政法委](安徽长安网http://www.ahcaw.com)　[法学会](http://www.ahfxh.org.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.ahjjjc.gov.cn/ahxs)　[审查调查](http://www.ahjjjc.gov.cn/jdpg)　WX：安徽纪检监察　[省政协](http://www.ahzx.gov.cn)　[政法委](安徽长安网http://www.ahcaw.com)　[法学会](http://www.ahfxh.org.cn)　<i></i>  
 
 340100 <b>[合肥市](http://www.hefei.gov.cn "合肥市人民政府")</b>　	[人大](http://www.hefeirenda.cn)　纪委监委	　[公安局](http://gaj.hefei.gov.cn)　司法局　[律协](http://www.hfslawyers.org/)　长安网群　法学会  
 340200 <b>[芜湖市](http://www.wuhu.gov.cn "芜湖市人民政府")</b>　	[人大](http://www.wuhurd.gov.cn)　纪委监委	　[公安局](http://gaj.wuhu.gov.cn)　司法局　[律协](http://www.whlawyers.org/)　长安网群　法学会  
@@ -233,7 +233,7 @@
 
 <h3 id="35">35 <a title="福建省人民政府" href="https://www.fujian.gov.cn">福建</a>　闽</h3>	
 福建人大：[地方法规](http://www.fjrd.gov.cn/cn/16)　[代表信息](http://www.fjrd.gov.cn/admin/dbcx.jsp)　⚖️[高级人民法院](https://fjfy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.fj.jcy.gov.cn)　[审计厅](http://sjt.fujian.gov.cn)　[法律服务站](http://fj.12348.gov.cn)　[监狱管理局](http://jyj.sft.fujian.gov.cn)　[省药监局](https://yjj.scjgj.fujian.gov.cn)	  
-纪委监委：[巡视巡察](http://www.fjcdi.gov.cn/html/zfgkxsgz)　[审查调查](http://www.fjcdi.gov.cn/html/xxgkajcc)　<small>WX：福建纪检监察</small>　[省政协](http://www.fjzx.gov.cn)　[政法委](福建长安网http://www.pafj.net)　[法学会](http://www.fjfxh.com.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.fjcdi.gov.cn/html/zfgkxsgz)　[审查调查](http://www.fjcdi.gov.cn/html/xxgkajcc)　WX：福建纪检监察　[省政协](http://www.fjzx.gov.cn)　[政法委](福建长安网http://www.pafj.net)　[法学会](http://www.fjfxh.com.cn)　<i></i>  
 
 350100 <b>[福州市](http://www.fuzhou.gov.cn "福州市人民政府")</b>　	[人大](http://www.fzrd.gov.cn)　[纪委监委](http://jcj.fuzhou.gov.cn)	　[公安局](http://gaj.fuzhou.gov.cn)　[司法局](http://sfj.fuzhou.gov.cn)　[律协](https://www.fzlawyers.net/)　[福州长安网](http://fz.pafj.net)　法学会  
 350200 <b>[厦门市](http://www.xm.gov.cn "厦门市人民政府")</b>　	[人大](http://www.xmrd.gov.cn)　[纪委监委](http://www.xmcdi.gov.cn)	　[公安局](http://ga.xm.gov.cn)　[司法局](http://sf.xm.gov.cn)　[律协](https://www.xmls.cn/)　[厦门长安网](http://www.paxm.xm.gov.cn)　[法学会](http://www.xmsfxh.org)  
@@ -247,7 +247,7 @@
 
 <h3 id="36">36 <a title="江西省人民政府" href="http://www.jiangxi.gov.cn">江西</a>　赣</h3>	
 江西人大：[地方法规](https://jxrd.jxnews.com.cn/lfjj/flfg/)　[代表信息](https://jxrd.jxnews.com.cn/system/2013/03/01/012308177.shtml)　⚖️[高级人民法院](https://jxfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.jx.jcy.gov.cn)　[审计厅](http://audit.jiangxi.gov.cn)　[法律服务站](http://jx.12348.gov.cn)　[监狱管理局](http://www.jxjyglj.gov.cn)　[省药监局](http://mpa.jiangxi.gov.cn)	  
-纪委监委：[巡视巡察](http://www.jxdi.gov.cn/xsxc/)　[审查调查](http://www.jxdi.gov.cn/jlsc/)　<small>WX：廉洁江西</small>　[省政协](https://jxzx.jxnews.com.cn)　[政法委](江西政法网http://www.jxzfw.gov.cn)　[法学会](http://www.jxzfw.gov.cn/jxfxh/)　<small></small>  
+纪委监委：[巡视巡察](http://www.jxdi.gov.cn/xsxc/)　[审查调查](http://www.jxdi.gov.cn/jlsc/)　WX：廉洁江西　[省政协](https://jxzx.jxnews.com.cn)　[政法委](江西政法网http://www.jxzfw.gov.cn)　[法学会](http://www.jxzfw.gov.cn/jxfxh/)　<i></i>  
 
 360100 <b>[南昌市](http://www.nc.gov.cn "南昌市人民政府")</b>　	[人大](http://www.ncsrd.gov.cn)　[纪委监委](http://www.ncdi.gov.cn)	　公安局　司法局　[律协](http://www.nclawyers.cn/)　[南昌政法网](http://nc.jxzfw.gov.cn)　法学会  
 360200 <b>[景德镇市](http://www.jdz.gov.cn "景德镇市人民政府")</b>　	[人大](http://jdzrd.jdz.gov.cn)　[纪委监委](http://www.jdzdi.gov.cn)	　公安局　司法局　律协　[景德镇政法网](http://zfwyh.jdzol.net)　法学会  
@@ -263,7 +263,7 @@
 
 <h3 id="37">37 <a title="山东省人民政府" href="http://www.shandong.gov.cn">山东</a>　鲁</h3>	
 山东人大：[地方法规](http://www.sdrd.gov.cn/channels/ch00177/)　[代表信息](http://www.sdrd.gov.cn/channels/ch05113/)　⚖️[高级人民法院](http://www.sdcourt.gov.cn)　⚔️[人民检察院](http://www.sdjcy.gov.cn)　[审计厅](http://audit.shandong.gov.cn)　[法律服务站](http://12348.shandong.gov.cn)　监狱管理局　[省药监局](http://mpa.shandong.gov.cn)	  
-纪委监委：[巡视巡察](https://www.sdjj.gov.cn/gzdt/xsxc/)　[审查调查](https://www.sdjj.gov.cn/tbbg/)　<small>WX：清廉山东</small>　[省政协](http://www.sdzx.gov.cn)　[政法委](山东长安网http://www.sdpeace.gov.cn)　[法学会](http://www.sdsfxh.org.cn)　<small></small>  
+纪委监委：[巡视巡察](https://www.sdjj.gov.cn/gzdt/xsxc/)　[审查调查](https://www.sdjj.gov.cn/tbbg/)　WX：清廉山东　[省政协](http://www.sdzx.gov.cn)　[政法委](山东长安网http://www.sdpeace.gov.cn)　[法学会](http://www.sdsfxh.org.cn)　<i></i>  
 
 370100 <b>[济南市](http://www.jinan.gov.cn "济南市人民政府")</b>　	人大　[纪委监委](http://www.jnlz.gov.cn)	　公安局　司法局　律协　长安网群　[法学会](http://www.jnsfxh.org.cn)  
 370200 <b>[青岛市](http://www.qingdao.gov.cn "青岛市人民政府")</b>　	人大　[纪委监委](http://www.qdlzw.cn)	　公安局　司法局　律协　长安网群　法学会  
@@ -284,7 +284,7 @@
 
 <h3 id="41">41 <a title="河南省人民政府" href="http://www.henan.gov.cn">河南</a>　豫</h3>	
 河南人大：地方法规 [代表信息](https://www.henanrd.gov.cn/cwhwyxq/)　⚖️[高级人民法院](http://www.hncourt.gov.cn)　⚔️[人民检察院](http://www.ha.jcy.gov.cn)　[审计厅](https://sjt.henan.gov.cn)　[法律服务站](http://ha.12348.gov.cn)　[监狱管理局](http://jyj.henan.gov.cn)　[省药监局](http://yjj.henan.gov.cn)	  
-纪委监委：[巡视巡察](http://www.hnsjct.gov.cn/sitesources/hnsjct/page_pc/hnxsxc/)　[审查调查](http://www.hnsjct.gov.cn/sitesources/hnsjct/page_pc/qwfbx/scdc/list1.html)　<small>WX：清廉河南</small>　[省政协](http://www.hnzx.gov.cn)　[政法委](河南长安网http://www.henanpeace.org.cn)　[法学会](http://www.hafxw.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.hnsjct.gov.cn/sitesources/hnsjct/page_pc/hnxsxc/)　[审查调查](http://www.hnsjct.gov.cn/sitesources/hnsjct/page_pc/qwfbx/scdc/list1.html)　WX：清廉河南　[省政协](http://www.hnzx.gov.cn)　[政法委](河南长安网http://www.henanpeace.org.cn)　[法学会](http://www.hafxw.cn)　<i></i>  
 
 410100 <b>[郑州市](http://www.zhengzhou.gov.cn "郑州市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 410200 <b>[开封市](http://www.kaifeng.gov.cn "开封市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -324,7 +324,7 @@
 
 <h3 id="43">43 <a title="湖南省人民政府" href="http://www.hunan.gov.cn">湖南</a>　湘</h3>	
 湖南人大：地方法规 代表信息　⚖️[高级人民法院](https://hunanfy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.hn.jcy.gov.cn)　[审计厅](https://sjt.hunan.gov.cn)　[法律服务站](http://hn.12348.gov.cn)　[监狱管理局](http://hnjyj.hunan.gov.cn)　[省药监局](http://mpa.hunan.gov.cn)	  
-纪委监委：[巡视巡察](http://www.sxfj.gov.cn/PageShowNext.aspx?ID=811)　[审查调查](http://www.sxfj.gov.cn/PageShowNext.aspx?ID=810)　<small>WX：三湘风纪</small>　[省政协](https://www.hunanzx.gov.cn)　[政法委](湖南长安网https://www.hnzf.gov.cn)　[法学会](https://www.hnzf.gov.cn/channel/24213.html)　<small></small>  
+纪委监委：[巡视巡察](http://www.sxfj.gov.cn/PageShowNext.aspx?ID=811)　[审查调查](http://www.sxfj.gov.cn/PageShowNext.aspx?ID=810)　WX：三湘风纪　[省政协](https://www.hunanzx.gov.cn)　[政法委](湖南长安网https://www.hnzf.gov.cn)　[法学会](https://www.hnzf.gov.cn/channel/24213.html)　<i></i>  
 
 430100 <b>[长沙市](http://www.changsha.gov.cn "长沙市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 430200 <b>[株洲市](http://www.zhuzhou.gov.cn "株洲市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -343,7 +343,7 @@
 
 <h3 id="44">44 <a title="广东省人民政府" href="http://www.gd.gov.cn">广东</a>　粤</h3>	
 广东人大：[地方法规](https://basc.gdrd.cn/)　[代表信息](http://www.rd.gd.cn/rdgzxgnr_4349/rddbmd/ljdbmd/)　⚖️[高级人民法院](http://www.gdcourts.gov.cn)　⚔️[人民检察院](http://www.gd.jcy.gov.cn)　[审计厅](http://gdaudit.gd.gov.cn)　[法律服务站](https://gd.12348.gov.cn)　[监狱管理局](http://gdjyj.gd.gov.cn)　[省药监局](https://mpa.gd.gov.cn)	  
-纪委监委：[巡视巡察](http://www.gdjct.gd.gov.cn/xunshi/)　[审查调查](http://www.gdjct.gd.gov.cn/ffkb/)　<small>WX：南粤清风</small>　[省政协](https://www.gdszx.gov.cn)　[政法委](广东政法网http://www.gdzf.org.cn)　[法学会](http://www.gdfxh.org.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.gdjct.gd.gov.cn/xunshi/)　[审查调查](http://www.gdjct.gd.gov.cn/ffkb/)　WX：南粤清风　[省政协](https://www.gdszx.gov.cn)　[政法委](广东政法网http://www.gdzf.org.cn)　[法学会](http://www.gdfxh.org.cn)　<i></i>  
 
 440100 <b>[广州市](http://www.gz.gov.cn "广州市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　[法学会](http://www.gzfxh.org)  
 440200 <b>[韶关市](http://www.sg.gov.cn "韶关市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -369,7 +369,7 @@
 
 <h3 id="45">45 <a title="广西壮族自治区人民政府" href="http://www.gxzf.gov.cn">广西</a>　桂</h3>	
 广西人大：[地方法规](https://www.gxrd.gov.cn/html/more916.html)　[代表信息](https://www.gxrd.gov.cn/html/more1188.html)　⚖️[高级人民法院](http://gxfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.gx.jcy.gov.cn)　[审计厅](http://sjt.gxzf.gov.cn)　[法律服务站](http://gx.12348.gov.cn)　[监狱管理局](http://jyj.gxzf.gov.cn)　[省药监局](http://yjj.gxzf.gov.cn)	  
-纪委监委：[巡视巡察](http://www.gxjjw.gov.cn/staticmores/906/906-1.shtml)　[审查调查](http://www.gxjjw.gov.cn/staticmores/908/908-1.shtml)　<small>WX：清廉广西</small>　[省政协](http://www.gxzx.gov.cn)　[政法委](平安广西网http://www.pagx.cn)　[法学会](http://www.gxfxw.cn)　<small>1958年成立自治区</small>  
+纪委监委：[巡视巡察](http://www.gxjjw.gov.cn/staticmores/906/906-1.shtml)　[审查调查](http://www.gxjjw.gov.cn/staticmores/908/908-1.shtml)　WX：清廉广西　[省政协](http://www.gxzx.gov.cn)　[政法委](平安广西网http://www.pagx.cn)　[法学会](http://www.gxfxw.cn)　<i>1958年成立自治区</i>  
 
 450100 <b>[南宁市](http://www.nanning.gov.cn "南宁市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 450200 <b>[柳州市](http://www.liuzhou.gov.cn "柳州市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -388,7 +388,7 @@
 
 <h3 id="46">46 <a title="海南省人民政府" href="http://www.hainan.gov.cn">海南</a>　琼</h3>	
 海南人大：[地方法规](https://www.hainanpc.net/hainanpc/dffg/hnsdfxfg/)　[代表信息](https://www.hainanpc.net/hainanpc/rdgk/dbmd/)　⚖️[高级人民法院](http://www.hicourt.gov.cn)　⚔️[人民检察院](http://www.hi.jcy.gov.cn)　[审计厅](http://audit.hainan.gov.cn)　[法律服务站](http://hi.12348.gov.cn)　[监狱管理局](http://justice.hainan.gov.cn/sfxz/jygl)　[省药监局](https://amr.hainan.gov.cn/himpa)	  
-纪委监委：[巡视巡察](https://www.hncdi.gov.cn/web/hnlzw//list.jsp?channelCode=lzw_xsxc_v2)　[审查调查](https://www.hncdi.gov.cn/web/hnlzw/level2List.jsp?&channelCode=lzw_debk_scdc_v2)　<small>WX：清廉海南</small>　[省政协](http://www.hainanzx.gov.cn)　[政法委](海南政法网http://www.hnzhengfa.gov.cn)　[法学会](http://www.hnfxh.com)　<small>1988年建省</small>  
+纪委监委：[巡视巡察](https://www.hncdi.gov.cn/web/hnlzw//list.jsp?channelCode=lzw_xsxc_v2)　[审查调查](https://www.hncdi.gov.cn/web/hnlzw/level2List.jsp?&channelCode=lzw_debk_scdc_v2)　WX：清廉海南　[省政协](http://www.hainanzx.gov.cn)　[政法委](海南政法网http://www.hnzhengfa.gov.cn)　[法学会](http://www.hnfxh.com)　<i>1988年建省</i>  
 
 460100 <b>[海口市](https://www.haikou.gov.cn "海口市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 460200 <b>[三亚市](http://www.sanya.gov.cn "三亚市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -397,12 +397,12 @@
 
 <h3 id="50">50 <a title="重庆市人民政府" href="http://www.cq.gov.cn">重庆</a>　渝</h3>	
 重庆人大：[地方法规](https://lz.cqrd.gov.cn/normativeFile.html)　[代表信息](https://www.ccpc.cq.cn/dbs)　⚖️[高级人民法院](https://cqfy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.cq.jcy.gov.cn)　[审计厅](http://sjj.cq.gov.cn)　[法律服务站](http://cq.12348.gov.cn)　[监狱管理局](http://sfj.cq.gov.cn/cqsjyglj/)　[省药监局](http://yaojianju.cq.gov.cn)	  
-纪委监委：[巡视巡察](http://jjc.cq.gov.cn/html/col293148.html)　[审查调查](http://jjc.cq.gov.cn/html/col282706.htm)　<small>WX：风正巴渝</small>　[省政协](http://www.cqzx.gov.cn)　[政法委](重庆长安网https://pacq.gov.cn)　[法学会](http://www.cqsfxh.org.cn)　<small>1997年设立直辖市</small>  
+纪委监委：[巡视巡察](http://jjc.cq.gov.cn/html/col293148.html)　[审查调查](http://jjc.cq.gov.cn/html/col282706.htm)　WX：风正巴渝　[省政协](http://www.cqzx.gov.cn)　[政法委](重庆长安网https://pacq.gov.cn)　[法学会](http://www.cqsfxh.org.cn)　<i>1997年设立直辖市</i>  
 
 
 <h3 id="51">51 <a title="四川省人民政府" href="https://www.sc.gov.cn">四川</a>　川蜀</h3>	
 四川人大：[地方法规](https://www.scspc.gov.cn/flfgk/scfg/)　[代表信息](https://www.scspc.gov.cn/rdjg/)　⚖️[高级人民法院](http://scfy.chinacourt.gov.cn)　⚔️[人民检察院](https://www.sc.jcy.gov.cn)　[审计厅](http://sjt.sc.gov.cn)　[法律服务站](https://sc.12348.gov.cn)　[监狱管理局](http://jyglj.sc.gov.cn)　[省药监局](http://yjj.sc.gov.cn)	  
-纪委监委：[巡视巡察](https://www.scjc.gov.cn/scjc/xsxc/gzjj.shtml)　[审查调查](https://www.scjc.gov.cn/scjc/scdc/scdc.shtml)　<small>WX：廉洁四川</small>　[省政协](http://www.sczx.gov.cn)　[政法委](四川长安网https://www.sichuanpeace.gov.cn)　[法学会](http://www.scfxw.cn)　<small></small>  
+纪委监委：[巡视巡察](https://www.scjc.gov.cn/scjc/xsxc/gzjj.shtml)　[审查调查](https://www.scjc.gov.cn/scjc/scdc/scdc.shtml)　WX：廉洁四川　[省政协](http://www.sczx.gov.cn)　[政法委](四川长安网https://www.sichuanpeace.gov.cn)　[法学会](http://www.scfxw.cn)　<i></i>  
 
 510100 <b>[成都市](http://www.chengdu.gov.cn "成都市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 510300 <b>[自贡市](http://www.zg.gov.cn "自贡市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -428,7 +428,7 @@
 
 <h3 id="52">52 <a title="贵州省人民政府" href="https://www.guizhou.gov.cn">贵州</a>　贵黔</h3>	
 贵州人大：[地方法规](http://www.gzrd.gov.cn/dffg/gzsdffg/)　代表信息　⚖️[高级人民法院](http://www.guizhoucourt.gov.cn)　⚔️[人民检察院](http://www.gz.jcy.gov.cn)　[审计厅](https://sjt.guizhou.gov.cn)　[法律服务站](https://12348.guizhou.gov.cn)　[监狱管理局](http://jyglj.guizhou.gov.cn)　[省药监局](http://yjj.guizhou.gov.cn)	  
-纪委监委：[巡视巡察](http://www.gzdis.gov.cn/xsxc/sjxs/)　[审查调查](http://www.gzdis.gov.cn/scdc/)　<small>WX：贵州省纪委监委</small>　[省政协](http://www.gzszx.gov.cn)　[政法委](贵州长安网http://www.gzpeace.gov.cn)　[法学会](http://www.gzsfxh.org.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.gzdis.gov.cn/xsxc/sjxs/)　[审查调查](http://www.gzdis.gov.cn/scdc/)　WX：贵州省纪委监委　[省政协](http://www.gzszx.gov.cn)　[政法委](贵州长安网http://www.gzpeace.gov.cn)　[法学会](http://www.gzsfxh.org.cn)　<i></i>  
 
 520100 <b>[贵阳市](http://www.guiyang.gov.cn "贵阳市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 520200 <b>[六盘水市](http://www.gzlps.gov.cn "六盘水市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -442,7 +442,7 @@
 
 <h3 id="53">53 <a title="云南省人民政府" href="http://www.yn.gov.cn">云南</a>　云滇</h3>	
 云南人大：地方法规 [代表信息](https://db.ynrd.gov.cn/db/deputy/srd)　⚖️[高级人民法院](http://ynfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.yn.jcy.gov.cn)　[审计厅](http://audit.yn.gov.cn)　[法律服务站](http://yn.12348.gov.cn)　[监狱管理局](http://ynjy.yn.gov.cn)　[省药监局](http://mpa.yn.gov.cn)	  
-纪委监委：[巡视巡察](http://www.ynjjjc.gov.cn/html/zaixingdong/xunshixuncha/)　[审查调查](http://www.ynjjjc.gov.cn/html/shenchadiaocha/zhijishencha/)　<small>WX：清风云南</small>　[省政协](http://www.ynzx.gov.cn)　[政法委](云南长安网http://www.zfw.yn.gov.cn)　[法学会](http://www.fxh.yn.gov.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.ynjjjc.gov.cn/html/zaixingdong/xunshixuncha/)　[审查调查](http://www.ynjjjc.gov.cn/html/shenchadiaocha/zhijishencha/)　WX：清风云南　[省政协](http://www.ynzx.gov.cn)　[政法委](云南长安网http://www.zfw.yn.gov.cn)　[法学会](http://www.fxh.yn.gov.cn)　<i></i>  
 
 530100 <b>[昆明市](http://www.km.gov.cn "昆明市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 530300 <b>[曲靖市](http://www.qj.gov.cn "曲靖市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -463,7 +463,7 @@
 
 <h3 id="54">54 <a title="西藏自治区人民政府" href="http://www.xizang.gov.cn">西藏</a>　藏</h3>	
 西藏人大：[地方法规](http://www.xizangrd.gov.cn/lfgz)　代表信息　⚖️[高级人民法院](http://xzgy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.xz.jcy.gov.cn)　[审计厅](http://sjt.xizang.gov.cn)　[法律服务站](http://xz.12348.gov.cn)　监狱管理局　[省药监局](http://mpa.xizang.gov.cn)	  
-纪委监委：[巡视巡察](http://www.xzjjw.gov.cn/xsxc.jhtml)　[审查调查](http://www.xzjjw.gov.cn/scdcindex.jhtml)　<small>WX：雪域清风</small>　[省政协](http://www.xizangzx.gov.cn)　[政法委](西藏长安网http://www.xzpeace.gov.cn)　[法学会](http://www.xzpeace.gov.cn)　<small>1965年成立自治区</small>  
+纪委监委：[巡视巡察](http://www.xzjjw.gov.cn/xsxc.jhtml)　[审查调查](http://www.xzjjw.gov.cn/scdcindex.jhtml)　WX：雪域清风　[省政协](http://www.xizangzx.gov.cn)　[政法委](西藏长安网http://www.xzpeace.gov.cn)　[法学会](http://www.xzpeace.gov.cn)　<i>1965年成立自治区</i>  
 
 540100 <b>[拉萨市](http://www.lasa.gov.cn "拉萨市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 540200 <b>[日喀则市](http://www.rikaze.gov.cn "日喀则市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -475,7 +475,7 @@
 
 <h3 id="61">61 <a title="陕西省人民政府" href="http://www.shaanxi.gov.cn">陕西</a>　陕秦</h3>	
 陕西人大：[地方法规](http://dzyw.sxrd.gov.cn:8001/flfg/commonpublic.action?formid=J78b3614b26347cd82401586bfec187a)　[代表信息](http://www.sxrd.gov.cn/shanxi/dbmdzt/index.htm)　⚖️[高级人民法院](http://sxfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.sn.jcy.gov.cn)　[审计厅](http://sjt.shaanxi.gov.cn)　[法律服务站](http://sn.12348.gov.cn)　[监狱管理局](http://jyglj.shaanxi.gov.cn)　[省药监局](http://mpa.shaanxi.gov.cn)	  
-纪委监委：[巡视巡察](https://www.qinfeng.gov.cn/xsxc.htm)　[审查调查](https://www.qinfeng.gov.cn/scdc.htm)　<small>WX：山西纪检监察</small>　[省政协](http://www.sxzx.gov.cn)　[政法委](陕西政法网http://www.sxzf.gov.cn)　[法学会](http://www.sxsfxw.org.cn)　<small></small>  
+纪委监委：[巡视巡察](https://www.qinfeng.gov.cn/xsxc.htm)　[审查调查](https://www.qinfeng.gov.cn/scdc.htm)　WX：山西纪检监察　[省政协](http://www.sxzx.gov.cn)　[政法委](陕西政法网http://www.sxzf.gov.cn)　[法学会](http://www.sxsfxw.org.cn)　<i></i>  
 
 610100 <b>[西安市](http://www.xa.gov.cn "西安市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　[法学会](http://www.xianlaw.org)  
 610200 <b>[铜川市](http://www.tongchuan.gov.cn "铜川市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -490,7 +490,7 @@
 
 <h3 id="62">62 <a title="甘肃省人民政府" href="http://www.gansu.gov.cn">甘肃</a>　甘陇</h3>	
 甘肃人大：[地方法规](http://47.92.204.243:8028/)　[代表信息](http://www.gsrdw.gov.cn/html/gsdb/)　⚖️[高级人民法院](http://www.chinagscourt.gov.cn)　⚔️[人民检察院](http://www.jcy.gansu.gov.cn)　[审计厅](http://sjt.gansu.gov.cn)　[法律服务站](http://gs.12348.gov.cn)　[监狱管理局](http://www.gansu.gov.cn/gsszf/c100095/202003/110879.shtml)　[省药监局](http://yjj.gansu.gov.cn)	  
-纪委监委：[巡视巡察](http://www.gsjw.gov.cn/category/xsxc)　[审查调查](http://www.gsjw.gov.cn/category/jlsc)　<small>WX：啄木鸟</small>　[省政协](http://www.gszx.gov.cn)　[政法委](甘肃政法网http://www.gszfw.gov.cn)　[法学会](https://www.gsfxh.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.gsjw.gov.cn/category/xsxc)　[审查调查](http://www.gsjw.gov.cn/category/jlsc)　WX：啄木鸟　[省政协](http://www.gszx.gov.cn)　[政法委](甘肃政法网http://www.gszfw.gov.cn)　[法学会](https://www.gsfxh.cn)　<i></i>  
 
 620100 <b>[兰州市](http://www.lanzhou.gov.cn "兰州市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 620200 <b>[嘉峪关市]( http://www.jyg.gov.cn "嘉峪关市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -509,7 +509,7 @@
 
 <h3 id="63">63 <a title="青海省人民政府" href="http://www.qinghai.gov.cn">青海</a>　青</h3>	
 青海人大：[地方法规](https://www.qhrd.gov.cn/qhsdfxfg_0/)　[代表信息](https://www.qhrd.gov.cn/srddb/)　⚖️[高级人民法院](http://qhfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.qh.jcy.gov.cn)　[审计厅](http://sjt.qinghai.gov.cn)　[法律服务站](http://qh.12348.gov.cn)　[监狱管理局](http://jyj.qinghai.gov.cn)　[省药监局](http://ypjgj.qinghai.gov.cn)	  
-纪委监委：[巡视巡察](http://www.qhjc.gov.cn/browse_C0137ACD620C7152_FB709C6EEEFAEF44.html)　[审查调查](http://www.qhjc.gov.cn/Browse_D92F7AE9FB59C0D9.html)　<small>WX：青海纪检监察</small>　[省政协](http://www.qhszx.gov.cn)　[政法委](青海长安网http://www.qhchangan.gov.cn)　[法学会](https://www.qhsfxh.cn)　<small></small>  
+纪委监委：[巡视巡察](http://www.qhjc.gov.cn/browse_C0137ACD620C7152_FB709C6EEEFAEF44.html)　[审查调查](http://www.qhjc.gov.cn/Browse_D92F7AE9FB59C0D9.html)　WX：青海纪检监察　[省政协](http://www.qhszx.gov.cn)　[政法委](青海长安网http://www.qhchangan.gov.cn)　[法学会](https://www.qhsfxh.cn)　<i></i>  
 
 630100 <b>[西宁市](http://www.xining.gov.cn "西宁市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 630200 <b>[海东市](http://www.haidong.gov.cn "海东市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -522,7 +522,7 @@
 
 <h3 id="64">64 <a title="宁夏回族自治区人民政府" href="http://www.nx.gov.cn">宁夏</a>　宁</h3>	
 宁夏人大：[地方法规](http://222.75.65.173:7088/basc/fgba/bascPortalManager.do?method=gotoFlfgkIndex&bajgbs=402850815f67339e015f6735bc710035)　代表信息　⚖️[高级人民法院](http://www.nxfy.gov.cn)　⚔️[人民检察院](http://www.nx.jcy.gov.cn)　[审计厅](https://sjt.nx.gov.cn)　[法律服务站](http://nx.12348.gov.cn)　[监狱管理局](http://nxjy.nx.gov.cn)　[省药监局](http://nxyjj.nx.gov.cn)	  
-纪委监委：[巡视巡察](http://www.nxjjjc.gov.cn/xbnxjw/xxgk/xsgz/)　[审查调查](http://www.nxjjjc.gov.cn/xbnxjw/xxgk/jlsc/)　<small>WX：清廉宁夏</small>　[省政协](http://www.nxzx.gov.cn)　[政法委](宁夏长安网http://www.nxzfw.gov.cn)　[法学会](http://www.nxfxh.com.cn)　<small>1958年成立自治区</small>  
+纪委监委：[巡视巡察](http://www.nxjjjc.gov.cn/xbnxjw/xxgk/xsgz/)　[审查调查](http://www.nxjjjc.gov.cn/xbnxjw/xxgk/jlsc/)　WX：清廉宁夏　[省政协](http://www.nxzx.gov.cn)　[政法委](宁夏长安网http://www.nxzfw.gov.cn)　[法学会](http://www.nxfxh.com.cn)　<i>1958年成立自治区</i>  
 
 640100 <b>[银川市](http://www.yinchuan.gov.cn "银川市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 640200 <b>[石嘴山市](http://www.shizuishan.gov.cn "石嘴山市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
@@ -532,7 +532,7 @@
 
 <h3 id="65">65 <a title="新疆维吾尔自治区人民政府" href="http://www.xinjiang.gov.cn">新疆</a>　新</h3>	
 新疆人大：地方法规 代表信息　⚖️[高级人民法院](http://xjfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.xj.jcy.gov.cn)　[审计厅](https://sjt.xinjiang.gov.cn)　[法律服务站](http://xj.12348.gov.cn)　[监狱管理局](http://jyglj.xinjiang.gov.cn)　[省药监局](http://mpa.xinjiang.gov.cn)	  
-纪委监委：[巡视巡察](http://www.xjjw.gov.cn/category/457/1.html)　[审查调查](http://www.xjjw.gov.cn/category/465/1.html)　<small>WX：新疆纪检监察</small>　[省政协](http://www.xjzx.gov.cn)　[政法委](新疆平安网http://www.xjpeace.cn)　法学会　<small>1955年成立自治区</small>  
+纪委监委：[巡视巡察](http://www.xjjw.gov.cn/category/457/1.html)　[审查调查](http://www.xjjw.gov.cn/category/465/1.html)　WX：新疆纪检监察　[省政协](http://www.xjzx.gov.cn)　[政法委](新疆平安网http://www.xjpeace.cn)　法学会　<i>1955年成立自治区</i>  
 
 650100 <b>[乌鲁木齐市](http://www.urumqi.gov.cn "乌鲁木齐市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
 650200 <b>[克拉玛依市](http://www.klmy.gov.cn "克拉玛依市人民政府")</b>　	人大　纪委监委	　公安局　司法局　律协　长安网群　法学会  
