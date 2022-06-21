@@ -59,11 +59,11 @@
 图例
 ----
 
-	地名　地方人民政府网站，省、地、县三级字号依次变小。
-	⚖️　天平图标，中级人民法院（地市级）
-	 Ⓕ　字母F带圆圈，基层人民法院（县区级）
-	⚔️　双剑图标，地市级人民检察院
-	 Ⓙ　字母J带圆圈，基层人民检察院（县区级）
+	地名　　地方人民政府网站，省、地、县三级字号依次变小。
+	⚖中法　中级人民法院（地市级），天平图标
+	⚔检院　地市级人民检察院，双剑图标
+	 Ⓕ　　基层人民法院（县区级），字母F带圆圈
+	 Ⓙ　　基层人民检察院（县区级），字母J带圆圈
 
 *	注1：地名F 表示该城市的行政级别为副省级，但其行政区划仍然是地市级。
 	例如：天津市滨海新区F。
@@ -221,7 +221,7 @@
 130637 [博野县](http://www.boye.gov.cn ) [Ⓕ](http://bdbyfy.chinacourt.gov.cn) [Ⓙ](http://www.heboye.jcy.gov.cn)　
 130638 [雄县](http://www.xiongxian.gov.cn ) [Ⓕ](http://xaxxfy.chinacourt.gov.cn) [Ⓙ](http://www.xiongan.jcy.gov.cn/xxjc/)　
 130681 [涿州市](http://www.zhuozhou.gov.cn ) [Ⓕ](http://bdzzfy.chinacourt.gov.cn) [Ⓙ](http://www.hezhuozhou.jcy.gov.cn)　
-130682 [定州市](http://www.dzs.gov.cn ) [Ⓙ](http://www.hedingzhou.jcy.gov.cn)　
+130682 [定州市](http://www.dzs.gov.cn )　
 130683 [安国市](http://www.anguo.gov.cn ) [Ⓕ](http://bdagfy.chinacourt.gov.cn) [Ⓙ](http://www.heanguo.jcy.gov.cn)　
 130684 [高碑店市](http://www.gaobeidian.gov.cn ) [Ⓕ](http://gbdfy.chinacourt.gov.cn) [Ⓙ](http://www.hegaobeidian.jcy.gov.cn)　
 
@@ -929,23 +929,23 @@
 232722 [塔河县](http://www.dxalth.gov.cn )　
 
 <h3 id="31">31 <a href="http://www.shanghai.gov.cn/nw2318/" title="310000 ">上海市</a>　沪</h3>
-310101 [黄浦区](http://www.shhuangpu.gov.cn ) [Ⓙ](http://www.shhuangpu.jcy.gov.cn)　
-310104 [徐汇区](http://www.xuhui.gov.cn ) [Ⓙ](http://www.shxuhui.jcy.gov.cn/)　
+310101 [黄浦区](http://www.shhuangpu.gov.cn )　
+310104 [徐汇区](http://www.xuhui.gov.cn )　
 310105 [长宁区](http://WWW.SHCN.GOV.CN ) [Ⓕ](https://www.a-court.gov.cn) [Ⓙ](http://www.shchangning.jcy.gov.cn)　
 310106 [静安区](http://www.jingan.gov.cn ) [Ⓕ](http://www.shezfy.com/page/ljfy/index.html?lm=0a) [Ⓙ](http://www.shjingan.jcy.gov.cn)　
-310107 [普陀区](http://www.shpt.gov.cn '上海普陀,舟山市有同名区') [Ⓙ](http://www.shputuo.jcy.gov.cn)　
-310109 [虹口区](http://www.shhk.gov.cn ) [Ⓙ](http://www.shhongkou.jcy.gov.cn)　
-310110 [杨浦区](https://www.shyp.gov.cn ) [Ⓙ](http://www.shyangpu.jcy.gov.cn)　
-310112 [闵行区](http://www.shmh.gov.cn ) [Ⓙ](http://www.shminhang.jcy.gov.cn)　
-310113 [宝山区](http://www.shbsq.gov.cn '有同名区') [Ⓙ](http://www.shbaoshan.jcy.gov.cn)　
-310114 [嘉定区](http://www.jiading.gov.cn ) [Ⓙ](http://www.shjiading.jcy.gov.cn)　
+310107 [普陀区](http://www.shpt.gov.cn '上海普陀,舟山市有同名区')　
+310109 [虹口区](http://www.shhk.gov.cn )　
+310110 [杨浦区](https://www.shyp.gov.cn )　
+310112 [闵行区](http://www.shmh.gov.cn )　
+310113 [宝山区](http://www.shbsq.gov.cn '有同名区')　
+310114 [嘉定区](http://www.jiading.gov.cn )　
 
 310115 <b>[浦东新区](https://www.pudong.gov.cn '国家综合配套改革试验区')</b>F　　[⚖️中法](http://www.pdfy.gov.cn "中级人民法院")　[⚔️检院](http://www.shpudong.jcy.gov.cn/ "人民检察院")  
 310116 [金山区](https://www.jinshan.gov.cn ) [Ⓕ](http://www.js.hshfy.sh.cn/) [Ⓙ](http://www.shjinshan.jcy.gov.cn)　
-310117 [松江区](http://www.songjiang.gov.cn ) [Ⓙ](http://www.shsongjiang.jcy.gov.cn)　
-310118 [青浦区](http://www.shqp.gov.cn ) [Ⓙ](http://www.shqingpu.jcy.gov.cn)　
-310120 [奉贤区](http://www.fengxian.gov.cn ) [Ⓙ](http://www.shfengxian.jcy.gov.cn)　
-310151 [崇明区](http://www.shcm.gov.cn ) [Ⓙ](http://www.shchongming.jcy.gov.cn)　
+310117 [松江区](http://www.songjiang.gov.cn )　
+310118 [青浦区](http://www.shqp.gov.cn )　
+310120 [奉贤区](http://www.fengxian.gov.cn )　
+310151 [崇明区](http://www.shcm.gov.cn )　
 
 <h3 id="32">32 <a href="http://www.jiangsu.gov.cn/col/col31358/" title="320000 ">江苏省</a>　苏</h3>
 
@@ -1197,7 +1197,7 @@
 340124 [庐江县](http://www.lj.gov.cn )　
 340181 [巢湖市](http://www.chaohu.gov.cn )　
 
-340200 <b>[芜湖市](http://www.wuhu.gov.cn )</b>　　[⚔️检院](http://www.wuhu.jcy.gov.cn "人民检察院")  
+340200 <b>[芜湖市](http://www.wuhu.gov.cn )</b>　  
 340202 [镜湖区](http://www.whjhq.gov.cn )　
 340207 [鸠江区](http://www.jjq.gov.cn )　
 340209 [弋江区](http://www.yjq.gov.cn )　
@@ -1238,13 +1238,13 @@
 340604 [烈山区](http://www.lieshan.gov.cn )　
 340621 [濉溪县](http://www.sxx.gov.cn )　
 
-340700 <b>[铜陵市](https://www.tl.gov.cn )</b>　　[⚔️检院](http://www.tongling.jcy.gov.cn "人民检察院")  
+340700 <b>[铜陵市](https://www.tl.gov.cn )</b>　  
 340705 [铜官区](http://www.tltg.gov.cn )　
 340706 [义安区](http://www.ahtlyaq.gov.cn )　
 340711 [郊区](http://www.tljq.gov.cn '有同名区')　
 340722 [枞阳县](http://www.zongyang.gov.cn )　
 
-340800 <b>[安庆市](http://www.anqing.gov.cn )</b>　　[⚔️检院](http://www.anqing.jcy.gov.cn "人民检察院")  
+340800 <b>[安庆市](http://www.anqing.gov.cn )</b>　  
 340802 [迎江区](http://www.ahyingjiang.gov.cn )　
 340803 [大观区](http://www.aqdgq.gov.cn )　
 340811 [宜秀区](http://www.yixiu.gov.cn )　
@@ -1292,7 +1292,7 @@
 341323 [灵璧县](http://www.lingbi.gov.cn )　
 341324 [泗县](http://www.sixian.gov.cn )　
 
-341500 <b>[六安市](https://www.luan.gov.cn )</b>　　[⚔️检院](http://www.luan.jcy.gov.cn "人民检察院")  
+341500 <b>[六安市](https://www.luan.gov.cn )</b>　  
 341502 [金安区](https://www.ja.gov.cn  )　
 341503 [裕安区](https://www.yuan.gov.cn )　
 341504 [叶集区](https://www.ahyeji.gov.cn )　
@@ -1336,7 +1336,7 @@
 350123 [罗源县](http://www.luoyuan.gov.cn ) [Ⓕ](http://fzlyfy.chinacourt.gov.cn) [Ⓙ](http://www.fjluoyuan.jcy.gov.cn/)　
 350124 [闽清县](http://www.fzmq.gov.cn ) [Ⓕ](http://mqxfy.chinacourt.gov.cn) [Ⓙ](http://www.fjminqing.jcy.gov.cn/)　
 350125 [永泰县](http://www.yongtai.gov.cn ) [Ⓕ](http://fzytfy.chinacourt.gov.cn) [Ⓙ](http://www.fjyongtai.jcy.gov.cn/)　
-350128 [平潭县](http://www.pingtan.gov.cn ) [Ⓕ](http://fzptfy.chinacourt.gov.cn/)　
+350128 [平潭县](http://www.pingtan.gov.cn ) [Ⓕ](http://fzptfy.chinacourt.gov.cn) [Ⓙ](http://www.fjpingtan.jcy.gov.cn/)　
 350181 [福清市](http://www.fuqing.gov.cn ) [Ⓕ](http://fzfqfy.chinacourt.gov.cn) [Ⓙ](http://www.fjfuqing.jcy.gov.cn/)　
 
 350200 <b>[厦门市](http://www.xm.gov.cn )</b>F　　[⚖️中法](http://xmcourt.gov.cn "中级人民法院")　[⚔️检院](http://www.xmjc.gov.cn "人民检察院")  
@@ -1355,36 +1355,36 @@
 350322 [仙游县](http://www.xianyou.gov.cn ) [Ⓕ](http://fjxyxfy.chinacourt.gov.cn) [Ⓙ](http://www.fjxianyou.jcy.gov.cn)　
 
 350400 <b>[三明市](http://www.sanming.gov.cn )</b>　　[⚖️中法](http://smzy.chinacourt.gov.cn "中级人民法院")　[⚔️检院](http://www.sanming.jcy.gov.cn "人民检察院")  
-350404 [三元区](http://www.smsy.gov.cn '2021区划范围调整')　
-350405 [沙县区](http://www.fjsx.gov.cn '2021年县改区')　
-350421 [明溪县](http://www.fjmx.gov.cn )　
-350423 [清流县](http://www.fjql.gov.cn )　
-350424 [宁化县](http://www.fjnh.gov.cn )　
-350425 [大田县](http://www.datian.gov.cn )　
-350426 [尤溪县](http://www.fjyx.gov.cn )　
-350428 [将乐县](http://www.jiangle.gov.cn )　
-350429 [泰宁县](http://www.fjtn.gov.cn )　
-350430 [建宁县](http://www.fjjn.gov.cn )　
-350481 [永安市](http://www.ya.gov.cn )　
+350404 [三元区](http://www.smsy.gov.cn '2021区划范围调整') [Ⓕ](http://www.fjsyfy.gov.cn) [Ⓙ](http://www.sanmingsy.jcy.gov.cn)　
+350405 [沙县区](http://www.fjsx.gov.cn '2021年县改区') [Ⓕ](http://smsxfy.chinacourt.gov.cn) [Ⓙ](http://www.fjshaxian.jcy.gov.cn)　
+350421 [明溪县](http://www.fjmx.gov.cn ) [Ⓕ](http://mxxfy.chinacourt.gov.cn) [Ⓙ](http://www.fjmingxi.jcy.gov.cn)　
+350423 [清流县](http://www.fjql.gov.cn ) [Ⓕ](http://www.qlfy.com) [Ⓙ](http://www.fjqingliu.jcy.gov.cn)　
+350424 [宁化县](http://www.fjnh.gov.cn ) [Ⓕ](http://smnhfy.chinacourt.gov.cn) [Ⓙ](http://www.fjninghua.jcy.gov.cn)　
+350425 [大田县](http://www.datian.gov.cn ) [Ⓕ](http://www.dtfy.gov.cn) [Ⓙ](http://www.fjdatian.jcy.gov.cn)　
+350426 [尤溪县](http://www.fjyx.gov.cn ) [Ⓕ](http://yxxrmfy.gov.cn) [Ⓙ](http://www.fjyouxi.jcy.gov.cn)　
+350428 [将乐县](http://www.jiangle.gov.cn ) [Ⓕ](http://www.fjjlfy.gov.cn) [Ⓙ](http://www.fjjiangle.jcy.gov.cn)　
+350429 [泰宁县](http://www.fjtn.gov.cn ) [Ⓕ](http://www.fjtnfy.gov.cn) [Ⓙ](http://www.fjtaining.jcy.gov.cn)　
+350430 [建宁县](http://www.fjjn.gov.cn ) [Ⓕ](http://www.jnfy.gov.cn) [Ⓙ](http://www.fjjianning.jcy.gov.cn)　
+350481 [永安市](http://www.ya.gov.cn ) [Ⓕ](http://yasfy.chinacourt.gov.cn) [Ⓙ](http://www.fjyongan.jcy.gov.cn)　
 
 350500 <b>[泉州市](http://www.quanzhou.gov.cn/zfb/zjqz/ )</b>　　[⚖️中法](http://www.qzcourt.gov.cn "中级人民法院")　[⚔️检院](http://www.quanzhou.jcy.gov.cn "人民检察院")  
-350502 [鲤城区](http://www.qzlc.gov.cn )　
-350503 [丰泽区](http://www.qzfz.gov.cn )　
-350504 [洛江区](http://www.qzlj.gov.cn )　
-350505 [泉港区](http://www.qg.gov.cn )　
-350521 [惠安县](http://www.huian.gov.cn )　
-350524 [安溪县](http://www.fjax.gov.cn )　
-350525 [永春县](http://www.fjyc.gov.cn )　
-350526 [德化县](http://www.dehua.gov.cn )　
+350502 [鲤城区](http://www.qzlc.gov.cn ) [Ⓕ](http://www.qzlcfy.gov.cn) [Ⓙ](http://www.quanzhoulc.jcy.gov.cn/)　
+350503 [丰泽区](http://www.qzfz.gov.cn ) [Ⓕ](http://qzfzfy.chinacourt.gov.cn)　
+350504 [洛江区](http://www.qzlj.gov.cn ) [Ⓕ](http://www.qzljfy.gov.cn) [Ⓙ](http://www.quanzhoulj.jcy.gov.cn)　
+350505 [泉港区](http://www.qg.gov.cn ) [Ⓕ](http://www.qgfy.gov.cn) [Ⓙ](http://www.quanzhouqg.jcy.gov.cn)　
+350521 [惠安县](http://www.huian.gov.cn ) [Ⓕ](http://www.hacourt.gov.cn) [Ⓙ](http://www.fjhuian.jcy.gov.cn)　
+350524 [安溪县](http://www.fjax.gov.cn ) [Ⓕ](http://www.axcourt.gov.cn) [Ⓙ](http://www.fjanxi.jcy.gov.cn)　
+350525 [永春县](http://www.fjyc.gov.cn ) [Ⓕ](http://fjycfy.chinacourt.org) [Ⓙ](http://www.fjyongchun.jcy.gov.cn)　
+350526 [德化县](http://www.dehua.gov.cn ) [Ⓕ](http://qzdhfy.chinacourt.org) [Ⓙ](http://www.fjdehua.jcy.gov.cn/)　
 350527 金门县　　
-350581 [石狮市](http://www.shishi.gov.cn )　
-350582 [晋江市](http://www.jinjiang.gov.cn )　
-350583 [南安市](http://www.nanan.gov.cn )　
+350581 [石狮市](http://www.shishi.gov.cn ) [Ⓕ](http://www.ssfy.gov.cn) [Ⓙ](http://www.fjshishi.jcy.gov.cn)　
+350582 [晋江市](http://www.jinjiang.gov.cn ) [Ⓕ](http://www.fjjjfy.gov.cn) [Ⓙ](http://www.fjnanan.jcy.gov.cn)　
+350583 [南安市](http://www.nanan.gov.cn ) [Ⓕ](http://fjnafy.chinacourt.org) [Ⓙ](http://www.fjnanan.jcy.gov.cn/)　
 
 350600 <b>[漳州市](http://www.zhangzhou.gov.cn )</b>　　[⚖️中法](http://fjzzzy.chinacourt.gov.cn "中级人民法院")　[⚔️检院](http://www.zhangzhou.jcy.gov.cn "人民检察院")  
 350602 [芗城区](http://www.xc.gov.cn ) [Ⓙ](http://www.fjxiangcheng.jcy.gov.cn)　
 350603 [龙文区](http://www.lwq.gov.cn ) [Ⓕ](http://zzlwfy.chinacourt.gov.cn/) [Ⓙ](http://www.zhangzhoulw.jcy.gov.cn)　
-350604 [龙海区](http://www.longhai.gov.cn '2021年市改区') [Ⓙ](http://www.fjlonghai.jcy.gov.cn/)　
+350604 [龙海区](http://www.longhai.gov.cn '2021年市改区') [Ⓙ](http://www.fjlonghai.jcy.gov.cn)　
 350605 [长泰区](http://www.changtai.gov.cn '2021年县改区') [Ⓕ](http://zzctfy.chinacourt.gov.cn) [Ⓙ](http://www.fjchangtai.jcy.gov.cn)　
 350622 [云霄县](http://www.yunxiao.gov.cn ) [Ⓙ](http://www.fjyunxiao.jcy.gov.cn)　
 350623 [漳浦县](http://www.zhangpu.gov.cn ) [Ⓙ](http://www.fjzhangpu.jcy.gov.cn)　
@@ -1392,39 +1392,39 @@
 350626 [东山县](http://www.dongshandao.gov.cn ) [Ⓙ](http://www.fjdongshan.jcy.gov.cn)　
 350627 [南靖县](http://www.fjnj.gov.cn ) [Ⓕ](http://zznjfy.chinacourt.gov.cn) [Ⓙ](http://www.fjnanjing.jcy.gov.cn)　
 350628 [平和县](http://www.pinghe.gov.cn ) [Ⓙ](http://www.fjpinghe.jcy.gov.cn)　
-350629 [华安县](http://www.huaan.gov.cn )　
+350629 [华安县](http://www.huaan.gov.cn ) [Ⓙ](http://www.fjhuaan.jcy.gov.cn)　
 
 350700 <b>[南平市](http://www.np.gov.cn )</b>　　[⚖️中法](https://fjnpzy.chinacourt.gov.cn "中级人民法院")　[⚔️检院](http://www.nanping.jcy.gov.cn "人民检察院")  
-350702 [延平区](http://www.ypzf.gov.cn )　
-350703 [建阳区](http://www.jyszfw.gov.cn )　
-350721 [顺昌县](http://www.fjsc.gov.cn )　
-350722 [浦城县](http://www.pc.gov.cn )　
-350723 [光泽县](http://www.guangze.gov.cn )　
-350724 [松溪县](http://www.songxi.gov.cn )　
-350725 [政和县](http://www.zhenghe.gov.cn )　
-350781 [邵武市](http://www.shaowu.gov.cn )　
-350782 [武夷山市](http://www.wys.gov.cn )　
-350783 [建瓯市](http://www.jo.gov.cn )　
+350702 [延平区](http://www.ypzf.gov.cn ) [Ⓕ](http://npypfy.chinacourt.gov.cn) [Ⓙ](http://www.nanpingyp.jcy.gov.cn)　
+350703 [建阳区](http://www.jyszfw.gov.cn ) [Ⓕ](http://npjyfy.chinacourt.gov.cn) [Ⓙ](http://www.nanpingjy.jcy.gov.cn)　
+350721 [顺昌县](http://www.fjsc.gov.cn ) [Ⓕ](http://swsfy.chinacourt.gov.cn) [Ⓙ](http://www.fjshaowu.jcy.gov.cn)　
+350722 [浦城县](http://www.pc.gov.cn ) [Ⓕ](http://wysfy.chinacourt.gov.cn) [Ⓙ](http://www.fjwuyishan.jcy.gov.cn)　
+350723 [光泽县](http://www.guangze.gov.cn ) [Ⓕ](http://fy.fjsc.gov.cn) [Ⓙ](http://www.fjshunchang.jcy.gov.cn)　
+350724 [松溪县](http://www.songxi.gov.cn ) [Ⓕ](http://fjpcfy.chinacourt.gov.cn) [Ⓙ](http://www.fjpucheng.jcy.gov.cn)　
+350725 [政和县](http://www.zhenghe.gov.cn ) [Ⓕ](http://npgzfy.chinacourt.gov.cn) [Ⓙ](http://www.fjguangze.jcy.gov.cn)　
+350781 [邵武市](http://www.shaowu.gov.cn ) [Ⓕ](http://npsxfy.chinacourt.gov.cn) [Ⓙ](http://www.fjsongxi.jcy.gov.cn)　
+350782 [武夷山市](http://www.wys.gov.cn ) [Ⓕ](http://npzhfy.chinacourt.gov.cn) [Ⓙ](http://www.fjzhenghe.jcy.gov.cn)　
+350783 [建瓯市](http://www.jo.gov.cn ) [Ⓕ](http://npjofy.chinacourt.gov.cn) [Ⓙ](http://www.fjjianou.jcy.gov.cn)　
 
 350800 <b>[龙岩市](http://www.longyan.gov.cn )</b>　　[⚖️中法](http://fjlyzy.chinacourt.gov.cn "中级人民法院")　[⚔️检院](http://www.longyan.jcy.gov.cn "人民检察院")  
 350802 [新罗区](http://www.fjxinluo.gov.cn  ) [Ⓕ](http://lyxlfy.chinacourt.gov.cn/) [Ⓙ](http://www.longyanxl.jcy.gov.cn/)　
-350803 [永定区](http://www.yongding.gov.cn '福建龙岩,张家界市有同名区') [Ⓙ](http://www.longyanyd.jcy.gov.cn/)　
-350821 [长汀县](http://www.changting.gov.cn ) [Ⓙ](http://www.fjchangting.jcy.gov.cn/)　
-350823 [上杭县](http://www.shanghang.gov.cn )　
-350824 [武平县](http://www.wp.gov.cn ) [Ⓙ](http://www.fjwuping.jcy.gov.cn/)　
-350825 [连城县](http://www.fjlylc.gov.cn ) [Ⓙ](http://www.fjliancheng.jcy.gov.cn/)　
-350881 [漳平市](http://www.zp.gov.cn ) [Ⓙ](http://www.fjzhangping.jcy.gov.cn/)　
+350803 [永定区](http://www.yongding.gov.cn '福建龙岩,张家界市有同名区') [Ⓕ](http://lyydfy.chinacourt.gov.cn)　
+350821 [长汀县](http://www.changting.gov.cn ) [Ⓕ](http://lyctfy.chinacourt.gov.cn/)　
+350823 [上杭县](http://www.shanghang.gov.cn ) [Ⓕ](http://lyshfy.chinacourt.gov.cn)　
+350824 [武平县](http://www.wp.gov.cn ) [Ⓕ](http://wpxfy.chinacourt.gov.cn)　
+350825 [连城县](http://www.fjlylc.gov.cn ) [Ⓕ](http://fjlcfy.chinacourt.gov.cn)　
+350881 [漳平市](http://www.zp.gov.cn ) [Ⓕ](http://zpsfy.chinacourt.gov.cn)　
 
 350900 <b>[宁德市](http://www.ningde.gov.cn )</b>　　[⚖️中法](http://ndzy.chinacourt.gov.cn "中级人民法院")　[⚔️检院](http://www.ningde.jcy.gov.cn "人民检察院")  
-350902 [蕉城区](http://www.jiaocheng.gov.cn )　
-350921 [霞浦县](http://www.xiapu.gov.cn )　
-350922 [古田县](http://www.gutian.gov.cn )　
-350923 [屏南县](http://www.pingnan.gov.cn )　
-350924 [寿宁县](http://www.fjsn.gov.cn )　
-350925 [周宁县](http://www.zhouning.gov.cn )　
-350926 [柘荣县](http://www.zherong.gov.cn )　
-350981 [福安市](http://www.fjfa.gov.cn )　
-350982 [福鼎市](http://www.fuding.gov.cn )　
+350902 [蕉城区](http://www.jiaocheng.gov.cn ) [Ⓕ](http://jcqfy.chinacourt.gov.cn)　
+350921 [霞浦县](http://www.xiapu.gov.cn ) [Ⓕ](http://ndxpfy.chinacourt.gov.cn)　
+350922 [古田县](http://www.gutian.gov.cn ) [Ⓕ](http://ndgtfy.chinacourt.gov.cn)　
+350923 [屏南县](http://www.pingnan.gov.cn ) [Ⓕ](http://ndpnfy.chinacourt.gov.cn)　
+350924 [寿宁县](http://www.fjsn.gov.cn ) [Ⓕ](http://ndsnfy.chinacourt.gov.cn)　
+350925 [周宁县](http://www.zhouning.gov.cn ) [Ⓕ](http://znxfy.chinacourt.gov.cn)　
+350926 [柘荣县](http://www.zherong.gov.cn ) [Ⓕ](http://ndzrfy.chinacourt.gov.cn)　
+350981 [福安市](http://www.fjfa.gov.cn ) [Ⓕ](http://fasfy.chinacourt.gov.cn)　
+350982 [福鼎市](http://www.fuding.gov.cn ) [Ⓕ](http://fdsfy.chinacourt.gov.cn)　
 
 <h3 id="36">36 <a href="http://www.jiangxi.gov.cn/col/col387/" title="360000 ">江西省</a>　赣</h3>
 
@@ -1911,7 +1911,7 @@
 411727 [汝南县](https://www.runan.gov.cn )　
 411728 [遂平县](http://www.suiping.gov.cn )　
 411729 [新蔡县](http://www.xincai.gov.cn )　
-419001 [济源市](http://www.jiyuan.gov.cn )　
+419001 [济源市](http://www.jiyuan.gov.cn '省直辖县')　
 
 <h3 id="42">42 <a href="http://www.hubei.gov.cn" title="420000 ">湖北省</a>　鄂/楚</h3>
 
@@ -2039,10 +2039,10 @@
 422826 [咸丰县](http://www.xianfeng.gov.cn )　
 422827 [来凤县](http://www.laifeng.gov.cn )　
 422828 [鹤峰县](http://www.hefeng.gov.cn )　
-429004 [仙桃市](http://www.xiantao.gov.cn )　
-429005 [潜江市](http://www.hbqj.gov.cn )　
-429006 [天门市](http://www.tianmen.gov.cn )　
-429021 [神农架林区](http://www.snj.gov.cn )　
+429004 [仙桃市](http://www.xiantao.gov.cn '省直辖县，车牌：鄂M，区号0728')　
+429005 [潜江市](http://www.hbqj.gov.cn '省直辖县，车牌：鄂N，区号0728')　
+429006 [天门市](http://www.tianmen.gov.cn '省直辖县，车牌：鄂R，区号0728')　
+429021 [神农架林区](http://www.snj.gov.cn '省直辖县，车牌：鄂P，区号0719')　
 
 <h3 id="43">43 <a href="http://www.hunan.gov.cn" title="430000 ">湖南省</a>　湘</h3>
 
@@ -2522,21 +2522,21 @@
 460322 南沙区　　
 
 460400 <b>[儋州市](http://www.danzhou.gov.cn '不设区的市')</b>　  
-469001 [五指山市](http://wzs.hainan.gov.cn )　
-469002 [琼海市](http://qionghai.hainan.gov.cn/zjqh/ )　
-469005 [文昌市](http://wenchang.hainan.gov.cn )　
-469006 [万宁市](http://wanning.hainan.gov.cn )　
-469007 [东方市](http://dongfang.hainan.gov.cn )　
-469021 [定安县](http://dingan.hainan.gov.cn )　
-469022 [屯昌县](http://tunchang.hainan.gov.cn )　
-469023 [澄迈县](http://chengmai.hainan.gov.cn/chengmai/cmxq/2019xq.shtml )　
-469024 [临高县](http://lingao.hainan.gov.cn/zjlg/ )　
-469025 [白沙黎族自治县](http://baisha.hainan.gov.cn )　
-469026 [昌江黎族自治县](http://changjiang.hainan.gov.cn/changjiang/xianqing/zjcj.shtml )　
-469027 [乐东黎族自治县](http://ledong.hainan.gov.cn )　
-469028 [陵水黎族自治县](http://lingshui.hainan.gov.cn )　
-469029 [保亭黎族苗族自治县](https://baoting.hainan.gov.cn/zjbt/ '保亭县')　
-469030 [琼中黎族苗族自治县](http://qiongzhong.hainan.gov.cn/qzly/ '琼中县')　
+469001 [五指山市](http://wzs.hainan.gov.cn '省直辖县')　
+469002 [琼海市](http://qionghai.hainan.gov.cn/zjqh/ '省直辖县')　
+469005 [文昌市](http://wenchang.hainan.gov.cn '省直辖县')　
+469006 [万宁市](http://wanning.hainan.gov.cn '省直辖县')　
+469007 [东方市](http://dongfang.hainan.gov.cn '省直辖县')　
+469021 [定安县](http://dingan.hainan.gov.cn '省直辖县')　
+469022 [屯昌县](http://tunchang.hainan.gov.cn '省直辖县')　
+469023 [澄迈县](http://chengmai.hainan.gov.cn/chengmai/cmxq/2019xq.shtml '省直辖县')　
+469024 [临高县](http://lingao.hainan.gov.cn/zjlg/ '省直辖县')　
+469025 [白沙黎族自治县](http://baisha.hainan.gov.cn '省直辖县')　
+469026 [昌江黎族自治县](http://changjiang.hainan.gov.cn/changjiang/xianqing/zjcj.shtml '省直辖县')　
+469027 [乐东黎族自治县](http://ledong.hainan.gov.cn '省直辖县')　
+469028 [陵水黎族自治县](http://lingshui.hainan.gov.cn '省直辖县')　
+469029 [保亭黎族苗族自治县](https://baoting.hainan.gov.cn/zjbt/ '保亭县省直辖县')　
+469030 [琼中黎族苗族自治县](http://qiongzhong.hainan.gov.cn/qzly/ '琼中县省直辖县')　
 
 <h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 ">重庆市</a>　渝</h3>
 500101 [万州区](http://www.wz.gov.cn )　
@@ -3466,7 +3466,7 @@
 632726 [曲麻莱县](http://www.qumalai.gov.cn )　
 
 632800 <b>[海西蒙古族藏族自治州](http://www.haixi.gov.cn/mlhx.htm '海西州')</b>　  
-632801 [格尔木市](http://www.geermu.gov.cn )　
+632801 [格尔木市](http://www.geermu.gov.cn '副地级市，区号0979独立')　
 632802 [德令哈市](http://www.delingha.gov.cn )　
 632803 [茫崖市](http://www.mangya.gov.cn )　
 632821 [乌兰县](http://www.wulanxian.gov.cn )　
@@ -3520,7 +3520,7 @@
 650121 [乌鲁木齐县](http://www.wlmqx.gov.cn )　
 
 650200 <b>[克拉玛依市](http://www.klmy.gov.cn )</b>　  
-650202 [独山子区](http://www.dsz.gov.cn )　
+650202 [独山子区](http://www.dsz.gov.cn '区号0992不同于上级市')　
 650203 [克拉玛依区](http://www.klmyq.gov.cn )　
 650204 [白碱滩区](http://www.bjtq.gov.cn )　
 650205 [乌尔禾区](http://www.weh.gov.cn )　
@@ -3604,7 +3604,7 @@
 
 654000 <b>[伊犁哈萨克自治州](http://www.xjyl.gov.cn/about.htm '伊犁州事实上的副省级自治州')</b>　  
 654002 [伊宁市](http://www.yining.gov.cn )　
-654003 [奎屯市](http://www.xjkuitun.gov.cn )　
+654003 [奎屯市](http://www.xjkuitun.gov.cn '区号0992')　
 654004 [霍尔果斯市](http://www.xjhegs.gov.cn )　
 654021 [伊宁县](http://www.xjyn.gov.cn )　
 654022 [察布查尔锡伯自治县](http://www.xjcbcr.gov.cn/mljx.htm '察布查尔县西汉时期乌孙国')　
@@ -3617,8 +3617,8 @@
 
 654200 <b>[塔城地区](http://www.xjtc.gov.cn )</b>　  
 654201 [塔城市](http://www.xjtcsh.gov.cn )　
-654202 [乌苏市](http://www.xjws.gov.cn )　
-654203 [沙湾市](http://www.xjswx.gov.cn/xxsw.htm '2021年县改市')　
+654202 [乌苏市](http://www.xjws.gov.cn '区号0992')　
+654203 [沙湾市](http://www.xjswx.gov.cn/xxsw.htm '区号0993，2021年县改市')　
 654221 [额敏县](http://www.xjem.gov.cn )　
 654224 [托里县](http://www.xjtl.gov.cn )　
 654225 [裕民县](http://www.xjym.gov.cn )　
@@ -3635,7 +3635,7 @@
 
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
-<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 新疆生产建设兵团 新疆兵团非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a></h3>
+<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 新疆生产建设兵团 新疆兵团非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团</h3>
 659001 [石河子市](http://www.shz.gov.cn '兵团第八师')　
 659002 [阿拉尔市](http://www.ale.gov.cn '兵团第一师')　
 659003 [图木舒克市](http://www.xjbtnss.gov.cn '兵团第三师')　
@@ -3648,23 +3648,23 @@
 659010 [胡杨河市](http://www.nqs.gov.cn '兵团第七师')　
 659011 新星市　
 
-<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a></h3>
+<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台</h3>
 710100 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
 台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
 6个直辖市：台北市、新北市、桃园市、台中市、台南市、高雄市  
 3个省辖市：基隆市、新竹市、嘉义市  
 11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、澎湖县。  
 
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a></h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港</h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a></h3>
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳</h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
-凼仔：	嘉模堂区	（凼读dàng，也作“氹”）  
+氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
 路环：	圣方济各堂区  
 
 
@@ -3672,9 +3672,9 @@
 
 ```
 	老生常谈 © 2019-2022 大萌   GPL 3.0
-	知识共享 可复制-可修改-相同方式授权
+	知识共享 可转载-可衍生-相同方式授权
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.3.7	202206
+	中国千县地名图	v0.3.8	202206
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
