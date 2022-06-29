@@ -70,7 +70,7 @@
 天津人大：[地方法规](http://www.tjrd.gov.cn/flfg/sjk/)　[代表名单](http://www.tjrd.gov.cn/rdgl/dbt/)　⚖️[高级人民法院](https://tjfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.tj.jcy.gov.cn)　 👥[省政协](http://www.tjszx.gov.cn)　[天津长安网](http://www.tjcaw.gov.cn)　[法学会](http://www.tjsfxh.com)　	  
 纪委监委：[巡视巡察](https://www.tjjw.gov.cn/xunshixuncha/list2_40012_1.html)　[审查调查](https://www.tjjw.gov.cn/qw_shenchadiaocha.html)　<sub>wx：海河清风</sub>　 　[审计厅](http://sj.tj.gov.cn)　[法律服务站](https://tj.12348.gov.cn)　[公安厅](http://ga.tj.gov.cn) <sub>[weibo](https://weibo.com/tjpolice110#平安天津)</sub>　监狱管理局　省药监局  
 
-120116 <b>[滨海新区](http://www.tjbh.gov.cn "滨海新区人民政府")</b> <b>022</b>	　人大　司法局  - -　[公安局](http://gaj.tjbh.gov.cn) [weibo](https://weibo.com/tjbhga#平安天津滨海) 津　	[纪委监委](https://binhai.tjjw.gov.cn) <sub>[审查调查](https://binhai.tjjw.gov.cn/scdc/list2_41668_1.html)</sub>　长安网群　  
+120116 <b>[滨海新区](http://www.tjbh.gov.cn "滨海新区人民政府")</b> <b>022</b>	　人大　[司法局](http://sfj.tjbh.gov.cn)  - -　[公安局](http://gaj.tjbh.gov.cn) [weibo](https://weibo.com/tjbhga#平安天津滨海) 津　	[纪委监委](https://binhai.tjjw.gov.cn) <sub>[审查调查](https://binhai.tjjw.gov.cn/scdc/list2_41668_1.html)</sub>　[滨海新区长安网](http://www.tjbhcaw.gov.cn)　  
 
 <h3 id="13">13 <a title="河北省人民政府" href="http://www.hebei.gov.cn">河北</a>　冀　</h3>	
 河北人大：[地方法规](http://temp.pkulaw.cn:8101)　代表名单　⚖️[高级人民法院](http://hbfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.he.jcy.gov.cn)　 👥[省政协](http://www.hebzx.gov.cn)　[河北长安网](http://www.hebeipingan.org.cn)　[法学会](http://www.hbsfxh.org.cn)　<sub>县区政府及两院ⒻⒿ请见[千县图](/fuwu/qianxian#13)</sub>	  
@@ -174,9 +174,9 @@
 
 <h3 id="31">31 <a title="上海市人民政府" href="http://www.shanghai.gov.cn">上海</a>　沪　021</h3>	
 上海人大：[地方法规](https://law.sfj.sh.gov.cn/)　[代表名单](http://odbapp.eastday.com/shrdweb/dbxx.aspx)　⚖️[高级人民法院](https://www.hshfy.sh.cn/shfy/web/sqfy.jsp?type=6)　⚔️[人民检察院](https://www.sh.jcy.gov.cn)　 👥[省政协](http://www.shszx.gov.cn)　[上海政法综治网](http://www.shzfzz.net)　[法学会](http://www.sls.org.cn)　	  
-纪委监委：[巡视巡察](https://www.shjjjc.gov.cn/2015jjw/xsxc/xsxc.html)　[审查调查](https://www.shjjjc.gov.cn/2015jjw/scdc/scdc.html)　<sub>wx：廉洁上海</sub>　 　[审计厅](https://sjj.sh.gov.cn)　[法律服务站](http://sh.12348.gov.cn)　[公安厅](https://gaj.sh.gov.cn) <sub>weibo</sub>　[监狱管理局](https://jyj.sh.gov.cn)　[省药监局](http://yjj.sh.gov.cn)  
+纪委监委：[巡视巡察](https://www.shjjjc.gov.cn/2015jjw/xsxc/xsxc.html)　[审查调查](https://www.shjjjc.gov.cn/2015jjw/scdc/scdc.html)　<sub>wx：廉洁上海</sub>　 　[审计厅](https://sjj.sh.gov.cn)　[法律服务站](http://sh.12348.gov.cn)　[公安厅](https://gaj.sh.gov.cn) <sub>[weibo](https://weibo.com/shanghaipolice#警民直通车-上海)</sub>　[监狱管理局](https://jyj.sh.gov.cn)　[省药监局](http://yjj.sh.gov.cn)  
 
-310115 <b>[浦东新区](https://www.pudong.gov.cn "浦东新区人民政府")</b> <b>021</b>	　人大　司法局  - -　公安局 weibo 沪　	[纪委监委](http://pdlz.pudong.gov.cn)　— —　长安网群　  
+310115 <b>[浦东新区](https://www.pudong.gov.cn "浦东新区人民政府")</b> <b>021</b>	　[人大](https://www.pdrd.gov.cn:887/NewPd)　[司法局](https://www.pudong.gov.cn/sfj/)  - -　[公安局](https://gaj.sh.gov.cn/pdga/zfgkml) [weibo](https://weibo.com/pudongpolice#警民直通车-浦东) 沪　	[纪委监委](http://pdlz.pudong.gov.cn) <sub>[审查调查](http://pdlz.pudong.gov.cn/zgshsjljcwyh/scdcpd/scdcpd.html)</sub>　[浦东新区政法综治网](http://pd.shzfzz.net/)　<sub>[法学会](https://sls.org.cn//moxing/areaLawManagementList.html?id=114)</sub>  
 
 <h3 id="32">32 <a title="江苏省人民政府" href="http://www.jiangsu.gov.cn">江苏</a>　苏　</h3>	
 江苏人大：[地方法规](http://www.jsrd.gov.cn/qwfb/sjfg/)　[代表名单](http://www.jsrd.gov.cn/rdgl/zzjg/srmdbdh/)　⚖️[高级人民法院](http://www.jsfy.gov.cn)　⚔️[人民检察院](https://www.jsjc.gov.cn)　 👥[省政协](http://www.jszx.gov.cn)　[江苏长安网](http://www.jszf.org)　[法学会](http://www.jsfxh.org)　<sub>县区政府及两院ⒻⒿ请见[千县图](/fuwu/qianxian#32)</sub>	  
@@ -554,12 +554,13 @@
 
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
-<h3 id="6590">6590 <a title="新疆生产建设兵团人民政府" href="http://www.xjbt.gov.cn">兵团</a>　　　<sub>1981年12月恢复兵团建制</sub></h3>	
+<h3 id="6590">6590 <a title="新疆生产建设兵团" href="http://www.xjbt.gov.cn">兵团</a>　　　<sub>非行政区划的省级单位，不设人大与政协</sub></h3>	
 兵团　⚖️[高级人民法院](http://xjbtfy.chinacourt.gov.cn)　⚔️[人民检察院](http://jcy.xjbt.gov.cn)　 　[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　[法学会](http://zfw.xjbt.gov.cn)　	  
-纪委监委：[巡视巡察](http://btjw.xjbt.gov.cn/xxgk/xsxc/)　[审查调查](http://btjw.xjbt.gov.cn/xxgk/scdc/)　　　审计厅　[法律服务站](http://bt.12348.gov.cn)　[公安厅](http://btgaj.xjbt.gov.cn) <sub>weibo</sub>　[监狱管理局](http://jygl.xjbt.gov.cn)　省药监局  
+纪委监委：[巡视巡察](http://btjw.xjbt.gov.cn/xxgk/xsxc/)　[审查调查](http://btjw.xjbt.gov.cn/xxgk/scdc/)　　　审计厅　[法律服务站](http://bt.12348.gov.cn)　[公安厅](http://btgaj.xjbt.gov.cn) <sub>weibo</sub>　[监狱管理局](http://jygl.xjbt.gov.cn)　药监局  
 
-659001 石河子市　 659002 阿拉尔市　 659003 图木舒克市　 659004 五家渠市　 659005 北屯市　 659006 铁门关市　 659007 双河市　 659008 可克达拉市　 659009 昆玉市　 659010 胡杨河市　 659011 新星市　
-
+　659001 石河子市（第八师）　659002 阿拉尔市（第一师）　659003 图木舒克市（第三师）　659004 五家渠市（第六师）　659005 北屯市（第十师）
+　659006 铁门关市（第二师）　659007 双河市（第五师）　659008 可克达拉市（第四师）　659009 昆玉市（第十四师）　659010 胡杨河市（第七师）
+　659011 新星市（第十三师）
 
 <h2 id="71" title="710000">71 台湾　+886</h2>
 [台灣法學會](http://www.taiwanlawsociety.org.tw)  
@@ -590,7 +591,7 @@
 	老生常谈 © 2019-2022 大萌 GPL 3.0
 	知识共享 可转发-可衍生-相同方式授权
 	https://laosheng.top/falv/bumen
-	法治政府有关部门 v0.6.3	202206
+	法治政府有关部门 v0.6.4	202206
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
