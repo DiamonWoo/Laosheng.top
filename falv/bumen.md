@@ -90,19 +90,19 @@
 
 <h3 id="14">14 <a title="山西省人民政府" href="http://www.shanxi.gov.cn">山西</a>　晋　</h3>	
 山西人大：[地方法规](http://218.26.22.67:9090/basc/)　代表名单　⚖️[高级人民法院](http://shanxify.chinacourt.gov.cn)　⚔️[人民检察院](http://www.sx.jcy.gov.cn)　 👥[省政协](http://www.shanxizx.gov.cn)　[山西长安网](http://www.sxpeace.gov.cn)　[法学会](http://www.shanxilawsociety.org.cn)　	  
-纪委监委：[巡视巡察](http://www.sxdi.gov.cn/xxgk/xsxc/)　[审查调查](http://www.sxdi.gov.cn/xxgk/scdc/)　<sub>wx：清廉山西</sub>　 　[审计厅](https://sjt.shanxi.gov.cn)　[法律服务站](http://sx.12348.gov.cn)　[公安厅](https://gatgw.shanxi.gov.cn) <sub>weibo</sub>　[监狱管理局](https://jyj.shanxi.gov.cn)　[省药监局](http://yjj.shanxi.gov.cn)  
+纪委监委：[巡视巡察](http://www.sxdi.gov.cn/xxgk/xsxc/)　[审查调查](http://www.sxdi.gov.cn/xxgk/scdc/)　<sub>wx：清廉山西</sub>　 　[审计厅](https://sjt.shanxi.gov.cn)　[法律服务站](http://sx.12348.gov.cn)　[公安厅](https://gatgw.shanxi.gov.cn) <sub>[weibo](https://weibo.com/sxga#山西公安)</sub>　[监狱管理局](https://jyj.shanxi.gov.cn)　[省药监局](http://yjj.shanxi.gov.cn)  
 
-140100 <b>[太原市](http://www.taiyuan.gov.cn "太原市人民政府")</b> 0351	　人大　司法局  - -　[公安局](http://gaj.taiyuan.gov.cn) weibo 晋A　	[纪委监委](http://www.bzlz.gov.cn)　— —　长安网群　  
-140200 <b>[大同市](http://www.dt.gov.cn "大同市人民政府")</b> 0352	　[人大](https://dtsrd.gov.cn)　司法局  - -　[公安局](http://gaj.dt.gov.cn) weibo 晋B　	[纪委监委](http://www.dtsjw.gov.cn)　— —　长安网群　  
-140300 <b>[阳泉市](http://www.yq.gov.cn "阳泉市人民政府")</b> 0353	　人大　司法局  - -　[公安局](http://gaj.yq.gov.cn) weibo 晋C　	[纪委监委](http://www.yqlz.gov.cn)　— —　长安网群　  
-140400 <b>[长治市](http://www.changzhi.gov.cn "长治市人民政府")</b> 0355	　人大　司法局  - -　[公安局](http://gaj.changzhi.gov.cn) weibo 晋D　	[纪委监委](http://www.czdi.gov.cn)　— —　长安网群　  
-140500 <b>[晋城市](http://www.jcgov.gov.cn "晋城市人民政府")</b> 0356	　人大　司法局  - -　[公安局](http://gaj.jcgov.gov.cn) weibo 晋E　	[纪委监委](http://www.jcmj.gov.cn)　— —　长安网群　  
-140600 <b>[朔州市](http://www.shuozhou.gov.cn "朔州市人民政府")</b> 0349	　人大　司法局  - -　[公安局](http://gaj.shuozhou.gov.cn) weibo 晋F　	[纪委监委](http://www.szsjwjcj.gov.cn)　— —　长安网群　  
-140700 <b>[晋中市](http://www.sxjz.gov.cn "晋中市人民政府")</b> 0354	　[人大](https://renda.sxjz.gov.cn)　司法局  - -　[公安局](http://gaj.sxjz.gov.cn) weibo 晋K　	[纪委监委](http://www.jzjjjc.gov.cn)　— —　长安网群　  
-140800 <b>[运城市](https://www.yuncheng.gov.cn "运城市人民政府")</b> 0359	　人大　司法局  - -　[公安局](http://gaj.yuncheng.gov.cn) weibo 晋M　	[纪委监委](http://www.ycsjjw.gov.cn)　— —　长安网群　  
-140900 <b>[忻州市](https://www.sxxz.gov.cn "忻州市人民政府")</b> 0350	　人大　司法局  - -　[公安局](http://gaj.sxxz.gov.cn) weibo 晋H　	[纪委监委](http://www.lfdi.gov.cn)　— —　长安网群　  
-141000 <b>[临汾市](http://www.linfen.gov.cn "临汾市人民政府")</b> 0357	　人大　司法局  - -　[公安局](http://linfen.gov.cn/gaj) weibo 晋L　	[纪委监委](http://www.xzdi.gov.cn)　— —　长安网群　  
-141100 <b>[吕梁市](http://www.lvliang.gov.cn "吕梁市人民政府")</b> 0358	　人大　司法局  - -　[公安局](http://ga.lvliang.gov.cn) weibo 晋J　	[纪委监委](http://www.lldi.gov.cn)　— —　长安网群　  
+140100 <b>[太原市](http://www.taiyuan.gov.cn "太原市人民政府")</b> 0351	　[人大](http://www.tyrd.gov.cn)　[司法局](http://sfj.taiyuan.gov.cn/)  - -　[公安局](http://gaj.taiyuan.gov.cn) [weibo](https://weibo.com/tyga#平安太原) 晋A　	[纪委监委](http://www.bzlz.gov.cn) <sub>[审查调查](http://www.bzlz.gov.cn/scdc/)</sub>　[太原长安网](http://www.taiyuanpeace.gov.cn)　  
+140200 <b>[大同市](http://www.dt.gov.cn "大同市人民政府")</b> 0352	　[人大](https://dtsrd.gov.cn)　[司法局](http://www.dt.gov.cn/dtzww/sfjbmdt/dept_xxgk_list.shtml)  - -　[公安局](http://gaj.dt.gov.cn) [weibo](https://weibo.com/dtga#平安大同) 晋B　	[纪委监委](http://www.dtsjw.gov.cn) <sub>[审查调查](http://www.dtsjw.gov.cn/xxgk/scdc/)</sub>　[大同长安网](http://www.datongpeace.gov.cn)　  
+140300 <b>[阳泉市](http://www.yq.gov.cn "阳泉市人民政府")</b> 0353	　[人大](http://www.yqrd.gov.cn)　[司法局](http://xxgk.yq.gov.cn/sfj/fdzdgknr/gzdt/rcgzdt/)  - -　[公安局](http://gaj.yq.gov.cn) [weibo](https://weibo.com/1194956975#平安阳泉) 晋C　	[纪委监委](http://www.yqlz.gov.cn) <sub>[审查调查](http://www.yqlz.gov.cn/scdc/)</sub>　[阳泉长安网](http://www.yangquanpeace.gov.cn)　  
+140400 <b>[长治市](http://www.changzhi.gov.cn "长治市人民政府")</b> 0355	　[人大](http://www.sxczrd.gov.cn)　[司法局](https://www.changzhi.gov.cn/xxgkml/szfgzbm/ssfj/gzdt_471/gzjb_475/)  - -　[公安局](http://gaj.changzhi.gov.cn) [weibo](https://weibo.com/czs110#平安长治) 晋D　	[纪委监委](http://www.czdi.gov.cn) <sub>[审查调查](http://www.czdi.gov.cn/ffdt/scdc/)</sub>　[长治长安网](http://www.changzhipeace.gov.cn)　  
+140500 <b>[晋城市](http://www.jcgov.gov.cn "晋城市人民政府")</b> 0356	　[人大](http://rd.jcgov.gov.cn)　[司法局](http://sfj.jcgov.gov.cn/)  <sub>[律协](http://www.jcslsxh.ddo.cn/)</sub>　[公安局](http://gaj.jcgov.gov.cn) [weibo](https://weibo.com/2308382171#平安晋城) 晋E　	[纪委监委](http://www.jcmj.gov.cn) <sub>[审查调查](http://www.jcmj.gov.cn/scdc/)</sub>　[晋城长安网](http://www.jinchengpeace.gov.cn)　  
+140600 <b>[朔州市](http://www.shuozhou.gov.cn "朔州市人民政府")</b> 0349	　[人大](http://www.szsrdcwh.gov.cn)　[司法局](http://sfj.shuozhou.gov.cn/)  - -　[公安局](http://gaj.shuozhou.gov.cn) [weibo](https://weibo.com/2884368322#朔州警方) 晋F　	[纪委监委](http://www.szsjwjcj.gov.cn) <sub>[审查调查](http://www.szsjwjcj.gov.cn/scdc/)</sub>　[朔州长安网](http://www.shuozhoupeace.gov.cn)　<sub>[法学会](http://www.szfx.org.cn/)</sub>  
+140700 <b>[晋中市](http://www.sxjz.gov.cn "晋中市人民政府")</b> 0354	　[人大](https://renda.sxjz.gov.cn)　[司法局](http://sfj.sxjz.gov.cn/)  - -　[公安局](http://gaj.sxjz.gov.cn) [weibo](https://weibo.com/sxjzga#晋中公安) 晋K　	[纪委监委](http://www.jzjjjc.gov.cn) <sub>[审查调查](http://www.jzjjjc.gov.cn/gzdt/jlsc/scdc/)</sub>　[晋中长安网](http://www.jinzhongpeace.gov.cn)　  
+140800 <b>[运城市](https://www.yuncheng.gov.cn "运城市人民政府")</b> 0359	　[人大](https://sxycrd.gov.cn)　[司法局](https://www.yuncheng.gov.cn/bmzt/ssfjzl/mhlist.shtml)  <sub>[律协](http://yclawyers.net/)</sub>　[公安局](http://gaj.yuncheng.gov.cn) [weibo](https://weibo.com/yunchenggongan#平安运城) 晋M　	[纪委监委](https://www.ycsjjw.gov.cn) <sub>[审查调查](https://www.ycsjjw.gov.cn/index.php?c=list&cid=125)</sub>　[运城长安网](http://www.ycpeace.gov.cn)　  
+140900 <b>[忻州市](https://www.sxxz.gov.cn "忻州市人民政府")</b> 0350	　[人大](http://www.xzpc.gov.cn)　[司法局](http://sfj.sxxz.gov.cn/)  - -　[公安局](http://gaj.sxxz.gov.cn) [weibo](https://weibo.com/2141911137#忻州市公安局) 晋H　	[纪委监委](http://www.xzdi.gov.cn) <sub>[审查调查](http://www.xzdi.gov.cn/scdc/)</sub>　[忻州长安网](http://www.xinzhoupeace.gov.cn)　  
+141000 <b>[临汾市](http://www.linfen.gov.cn "临汾市人民政府")</b> 0357	　[人大](http://www.sxlfrd.gov.cn)　[司法局](http://sfj.linfen.gov.cn/)  - -　[公安局](http://linfen.gov.cn/gaj) [weibo](https://weibo.com/1993114280#平安临汾) 晋L　	[纪委监委](http://www.lfdi.gov.cn) <sub>[审查调查](http://www.lfdi.gov.cn/scdcpgt/scdc/)</sub>　[临汾长安网](http://www.linfenpeace.gov.cn)　  
+141100 <b>[吕梁市](http://www.lvliang.gov.cn "吕梁市人民政府")</b> 0358	　人大　[司法局](http://www.lvliang.gov.cn/llxxgk/zfxxgk/xxgkml/gbmwj/sfj/fdzdhknr_55479/gzdt_55487/)  - -　[公安局](http://ga.lvliang.gov.cn) weibo 晋J　	[纪委监委](http://www.lldi.gov.cn) <sub>[审查调查](http://www.lldi.gov.cn/scdc/)</sub>　[吕梁长安网](http://www.lvliangpeace.gov.cn)　  
 
 <h3 id="15">15 <a title="内蒙古自治区人民政府" href="https://www.nmg.gov.cn">内蒙古</a>　蒙　　<sub>1947年成立自治区</sub></h3>	
 内蒙古人大：[地方法规](http://www.nmgrd.gov.cn/zyfbx/dfxfgx/)　[代表名单](http://www.nmgrd.gov.cn/zzqdbdh/)　⚖️[高级人民法院](http://nmgfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.nm.jcy.gov.cn)　 👥[省政协](http://www.nmgzx.gov.cn)　[内蒙古长安网](http://www.nmgzf.gov.cn)　[法学会](http://www.nmgfxh.gov.cn)　	  
@@ -558,9 +558,9 @@
 兵团　⚖️[高级人民法院](http://xjbtfy.chinacourt.gov.cn)　⚔️[人民检察院](http://jcy.xjbt.gov.cn)　 　[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　[法学会](http://zfw.xjbt.gov.cn)　	  
 纪委监委：[巡视巡察](http://btjw.xjbt.gov.cn/xxgk/xsxc/)　[审查调查](http://btjw.xjbt.gov.cn/xxgk/scdc/)　　　审计厅　[法律服务站](http://bt.12348.gov.cn)　[公安厅](http://btgaj.xjbt.gov.cn) <sub>weibo</sub>　[监狱管理局](http://jygl.xjbt.gov.cn)　药监局  
 
-　659001 石河子市（第八师）　659002 阿拉尔市（第一师）　659003 图木舒克市（第三师）　659004 五家渠市（第六师）　659005 北屯市（第十师）
-　659006 铁门关市（第二师）　659007 双河市（第五师）　659008 可克达拉市（第四师）　659009 昆玉市（第十四师）　659010 胡杨河市（第七师）
-　659011 新星市（第十三师）
+　659001 石河子市（第八师）　659002 阿拉尔市（第一师）　659003 图木舒克市（第三师）　659004 五家渠市（第六师）  
+　659005 北屯市（第十师）　659006 铁门关市（第二师）　659007 双河市（第五师）　659008 可克达拉市（第四师）  
+　659009 昆玉市（第十四师）　659010 胡杨河市（第七师）　659011 新星市（第十三师） 　第九师、第十一师、第十二师  
 
 <h2 id="71" title="710000">71 台湾　+886</h2>
 [台灣法學會](http://www.taiwanlawsociety.org.tw)  
@@ -591,7 +591,7 @@
 	老生常谈 © 2019-2022 大萌 GPL 3.0
 	知识共享 可转发-可衍生-相同方式授权
 	https://laosheng.top/falv/bumen
-	法治政府有关部门 v0.6.4	202206
+	法治政府有关部门 v0.6.5	202207
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
