@@ -73,7 +73,7 @@
 
 120116 <b>[滨海新区](http://www.tjbh.gov.cn "滨海新区人民政府")</b> <b>022</b>	　人大　[司法局](http://sfj.tjbh.gov.cn)  - -　[公安局](http://gaj.tjbh.gov.cn) [weibo](https://weibo.com/tjbhga#平安天津滨海) 津　	[纪委监委](https://binhai.tjjw.gov.cn) <sub>[审查调查](https://binhai.tjjw.gov.cn/scdc/list2_41668_1.html)</sub>　[滨海新区长安网](http://www.tjbhcaw.gov.cn)  
 
-<h3 id="13">13 <a title="河北省人民政府" href="http://www.hebei.gov.cn">河北</a>　冀</h3>	
+<h3 id="13">13 <a title="河北省人民政府" href="http://www.hebei.gov.cn">河北</a>　冀　<sub>多地开发区设有两院</sub></h3>	
 河北人大：[地方法规](http://temp.pkulaw.cn:8101)　代表名单　⚖️[高级人民法院](http://hbfy.chinacourt.gov.cn)　⚔️[人民检察院](http://www.he.jcy.gov.cn)　 👥[省政协](http://www.hebzx.gov.cn)　[河北长安网](http://www.hebeipingan.org.cn)　[法学会](http://www.hbsfxh.org.cn)　<sub>县区及两院ⒻⒿ请见[千县图](/fuwu/qianxian#13)</sub>	  
 纪委监委：[巡视巡察](http://www.hebcdi.gov.cn/node_146324.htm)　[审查调查](http://www.hebcdi.gov.cn/node_124625.htm)　<sub>wx：河北省纪委监委</sub>　 　[审计厅](http://sjt.hebei.gov.cn)　[法律服务站](https://he.12348.gov.cn)　[公安厅](http://gat.hebei.gov.cn) <sub>[weibo](https://weibo.com/gongan#河北公安网络发言人)</sub>　[监狱管理局](http://jygl.hebei.gov.cn)　[省级药监局](http://yjj.hebei.gov.cn/)  
 
@@ -179,7 +179,7 @@
 
 310115 <b>[浦东新区](https://www.pudong.gov.cn "浦东新区人民政府")</b> <b>021</b>	　[人大](https://www.pdrd.gov.cn:887/NewPd)　[司法局](https://www.pudong.gov.cn/sfj/)  - -　[公安局](https://gaj.sh.gov.cn/pdga/zfgkml) [weibo](https://weibo.com/pudongpolice#警民直通车-浦东) 沪　	[纪委监委](http://pdlz.pudong.gov.cn) <sub>[审查调查](http://pdlz.pudong.gov.cn/zgshsjljcwyh/scdcpd/scdcpd.html)</sub>　[浦东新区政法综治网](http://pd.shzfzz.net/)　<sub>[法学会](https://sls.org.cn//moxing/areaLawManagementList.html?id=114)</sub>　<sub>浦东监委的首页在维护中</sub>  
 
-<h3 id="32">32 <a title="江苏省人民政府" href="http://www.jiangsu.gov.cn">江苏</a>　苏</h3>	
+<h3 id="32">32 <a title="江苏省人民政府" href="http://www.jiangsu.gov.cn">江苏</a>　苏　<sub>各地开发区均设有两院</sub></h3>	
 江苏人大：[地方法规](/qwfb/sjfg/)　[代表名单](/rdgl/zzjg/srmdbdh/)　⚖️[高级人民法院](http://www.jsfy.gov.cn)　⚔️[人民检察院](https://www.jsjc.gov.cn)　 👥[省政协](http://www.jszx.gov.cn)　[江苏长安网](http://www.jszf.org)　[法学会](http://www.jsfxh.org)　<sub>县区及两院ⒻⒿ请见[千县图](/fuwu/qianxian#32)</sub>	  
 纪委监委：[巡视巡察](http://www.jssjw.gov.cn/col/col1320/)　[审查调查](http://www.jssjw.gov.cn/col/col17/)　<sub>wx：清廉江苏</sub>　 　[审计厅](http://jssjt.jiangsu.gov.cn)　[法律服务站](http://js.12348.gov.cn)　[公安厅](http://gat.jiangsu.gov.cn) <sub>[weibo](https://weibo.com/ywy20020413#平安江苏)</sub>　[监狱管理局](http://jssjyglj.jiangsu.gov.cn)　[省级药监局](http://da.jiangsu.gov.cn)  
 
@@ -559,9 +559,9 @@
 ⚖️[兵团人民法院](http://xjbtfy.chinacourt.gov.cn)(高法)　⚔️[兵团检察院](http://jcy.xjbt.gov.cn)　 　[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　[法学会](http://zfw.xjbt.gov.cn)　	  
 纪委监委：[巡视巡察](http://btjw.xjbt.gov.cn/xxgk/xsxc/)　[审查调查](http://btjw.xjbt.gov.cn/xxgk/scdc/)　　　审计厅　[法律服务站](http://bt.12348.gov.cn)　[公安厅](http://btgaj.xjbt.gov.cn) <sub>weibo</sub>　[监狱管理局](http://jygl.xjbt.gov.cn)　药监局  
 
-　659001 石河子市（第八师）　659002 阿拉尔市（第一师）　659003 图木舒克市（第三师）　659004 五家渠市（第六师）  
-　659005 北屯市（第十师）　659006 铁门关市（第二师）　659007 双河市（第五师）　659008 可克达拉市（第四师）  
-　659009 昆玉市（第十四师）　659010 胡杨河市（第七师）　659011 新星市（第十三师）　第九师、第十一师、第十二师  
+　659001 石河子市／第八师　659002 阿拉尔市／第一师　659003 图木舒克市／第三师　659004 五家渠市／第六师  
+　659005 北屯市／第十师　659006 铁门关市／第二师　659007 双河市／第五师　659008 可克达拉市／第四师  
+　659009 昆玉市／第十四师　659010 胡杨河市／第七师　659011 新星市／第十三师　第九师、第十一师、第十二师  
 
 <h2 id="71" title="710000">71 台湾　+886　<sub>革命尚未成功</sub></h2>
 [台灣法學會](http://www.taiwanlawsociety.org.tw)  
