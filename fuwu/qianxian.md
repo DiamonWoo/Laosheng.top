@@ -6,17 +6,12 @@
 
 		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
 
-2021年行政区划变更
-------------------
-　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
-　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
-　　有3个新设立的全新地名：  新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
-　　还有4个区调整区划范围，名称不变，其中福建三明市的三元区 350403更新了区划代码。  
-　　此外有13个行政区变更了区划单位，小计如下，变更详情参见[民政部](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)。
+收录进度
+--------
 
-		县改市	7
-		县改区	4	（开遍全国的沙县小吃发源地沙县，改为沙县区）
-		市改区	2
++	已收录全国333个地级市的公检法网络（公安微博、检察院网址、法院网址）
++	已收录全国3212个县级以上地方政府网址（个别网站未发现）
++	已收录全国3212个县级以上行政区划代码与地名（县、地、省）
 
 35个省级单位索引
 ----------------
@@ -59,11 +54,11 @@
 图例
 ----
 
-	地名　　地方人民政府网站，省、地、县三级字号依次变小。
-	 🛂️　　（地市级）公安政务微博，警察图标
-	 ⚔️　　（地市级）人民检察院，双剑图标
-	 ⚖️　　（地市级）中级人民法院，天平图标
-	 Ⓖ　　 （县区级）公安分局，字母G带圆圈
+	地名　　人民政府网站，省、地、县三级字号依次变小。
+	 🛂️　　公安政务微博，警察图标
+	 ⚔️　　人民检察院，双剑图标
+	 ⚖️　　中级人民法院，天平图标
+	 Ⓖ　　 （县区级）公安局，字母G带圆圈
 	 Ⓕ　　 （县区级）人民法院，字母F带圆圈
 	 Ⓙ　　 （县区级）人民检察院，字母J带圆圈
 
@@ -974,16 +969,16 @@
 320282 [宜兴市](http://www.yixing.gov.cn ' ') [Ⓙ](http://wxyx.jsjc.gov.cn) [Ⓕ](http://yxsfy.chinacourt.gov.cn)⠀
 
 320300 <b>[徐州市](http://www.xz.gov.cn ' ')</b>　🛂[公安weibo](https://weibo.com/pinganxuzhou#平安徐州)⠀⚔️[检察院](http://xz.jsjc.gov.cn)⠀⚖️[中级法院](http://xzzy.chinacourt.org)  
-320302 [鼓楼区](http://www.xzgl.gov.cn ' 有同名区') [Ⓙ](http://xzgl.jsjc.gov.cn) [Ⓕ](http://glqfy.chinacourt.gov.cn)⠀
-320303 [云龙区](http://www.xzyl.gov.cn ' ') [Ⓙ](http://xzyl.jsjc.gov.cn) [Ⓕ](http://xzylqfy.chinacourt.gov.cn)⠀
-320305 [贾汪区](http://www.xzjw.gov.cn ' ') [Ⓙ](http://xzjw.jsjc.gov.cn) [Ⓕ](http://xzjwfy.chinacourt.gov.cn)⠀
-320311 [泉山区](http://www.xzqs.gov.cn ' ') [Ⓙ](http://xzqs.jsjc.gov.cn) [Ⓕ](http://qsqfy.chinacourt.gov.cn)⠀
-320312 [铜山区](http://www.zgts.gov.cn ' ') [Ⓙ](http://xzts.jsjc.gov.cn) [Ⓕ](http://tsxfy.chinacourt.gov.cn)⠀
-320321 [丰县](http://www.chinafx.gov.cn ' ') [Ⓙ](http://xzfx.jsjc.gov.cn) [Ⓕ](http://jsfxfy.chinacourt.gov.cn)⠀
-320322 [沛县](http://www.px.gov.cn ' ') [Ⓙ](http://xzpx.jsjc.gov.cn) [Ⓕ](http://jspxfy.chinacourt.gov.cn)⠀
-320324 [睢宁县](http://www.cnsn.gov.cn ' ') [Ⓙ](http://xzsn.jsjc.gov.cn) [Ⓕ](http://jssnfy.chinacourt.gov.cn)⠀
-320381 [新沂市](http://www.xy.gov.cn ' ') [Ⓙ](http://xzxy.jsjc.gov.cn) [Ⓕ](http://jsxysfy.chinacourt.gov.cn)⠀
-320382 [邳州市](http://www.pz.gov.cn ' ') [Ⓙ](http://xzpz.jsjc.gov.cn) [Ⓕ](http://pzsfy.chinacourt.gov.cn)⠀
+320302 [鼓楼区](http://www.xzgl.gov.cn ' 有同名区') [Ⓖ](https://weibo.com/2138357155#江苏徐州平安鼓楼) [Ⓙ](http://xzgl.jsjc.gov.cn) [Ⓕ](http://glqfy.chinacourt.gov.cn)⠀
+320303 [云龙区](http://www.xzyl.gov.cn ' ') [Ⓖ](https://weibo.com/2129941535#平安云龙) [Ⓙ](http://xzyl.jsjc.gov.cn) [Ⓕ](http://xzylqfy.chinacourt.gov.cn)⠀
+320305 [贾汪区](http://www.xzjw.gov.cn ' ') [Ⓖ](https://weibo.com/pinganjiawang#平安贾汪) [Ⓙ](http://xzjw.jsjc.gov.cn) [Ⓕ](http://xzjwfy.chinacourt.gov.cn)⠀
+320311 [泉山区](http://www.xzqs.gov.cn ' ') [Ⓖ](https://weibo.com/qsga#平安泉山) [Ⓙ](http://xzqs.jsjc.gov.cn) [Ⓕ](http://qsqfy.chinacourt.gov.cn)⠀
+320312 [铜山区](http://www.zgts.gov.cn ' ') [Ⓖ](https://weibo.com/1945020592#平安铜山) [Ⓙ](http://xzts.jsjc.gov.cn) [Ⓕ](http://tsxfy.chinacourt.gov.cn)⠀
+320321 [丰县](http://www.chinafx.gov.cn ' ') [Ⓖ](https://weibo.com/pafx#平安丰县) [Ⓙ](http://xzfx.jsjc.gov.cn) [Ⓕ](http://jsfxfy.chinacourt.gov.cn)⠀
+320322 [沛县](http://www.px.gov.cn ' ') [Ⓖ](https://weibo.com/1990720492#平安沛县) [Ⓙ](http://xzpx.jsjc.gov.cn) [Ⓕ](http://jspxfy.chinacourt.gov.cn)⠀
+320324 [睢宁县](http://www.cnsn.gov.cn ' 睢 suī') [Ⓖ](https://weibo.com/2133096104#平安睢宁) [Ⓙ](http://xzsn.jsjc.gov.cn) [Ⓕ](http://jssnfy.chinacourt.gov.cn)⠀
+320381 [新沂市](http://www.xy.gov.cn ' ') [Ⓖ](https://weibo.com/1988046972#平安新沂) [Ⓙ](http://xzxy.jsjc.gov.cn) [Ⓕ](http://jsxysfy.chinacourt.gov.cn)⠀
+320382 [邳州市](http://www.pz.gov.cn ' 邳 pī') [Ⓖ](https://weibo.com/1879402884#邳州公安) [Ⓙ](http://xzpz.jsjc.gov.cn) [Ⓕ](http://pzsfy.chinacourt.gov.cn)⠀
 
 320400 <b>[常州市](http://www.changzhou.gov.cn ' ')</b>　🛂[公安weibo](https://weibo.com/czga#平安常州)⠀⚔️[检察院](http://cz.jsjc.gov.cn)⠀⚖️[中级法院](http://fy.changzhou.gov.cn)  
 320402 [天宁区](http://www.cztn.gov.cn ' ') [Ⓙ](http://cztn.jsjc.gov.cn) [Ⓕ](http://cztnfy.chinacourt.gov.cn)⠀
@@ -1722,13 +1717,13 @@
 371726 [鄄城县](http://www.juancheng.gov.cn ' ')
 371728 [东明县](http://www.dmzf.gov.cn ' ')
 
-<h3 id="41">41 <a href="http://www.henan.gov.cn" title="410000 河南 ">河南省</a>　河南</h3>
+<h3 id="41">41 <a href="https://www.henan.gov.cn/2018/05-31/2408.html" title="410000 河南 ">河南省</a>　河南</h3>
 
-410100 <b>[郑州市](http://www.zhengzhou.gov.cn ' ')</b>　🛂[公安weibo](https://weibo.com/zzgawb#平安郑州)  
+410100 <b>[郑州市](http://www.zhengzhou.gov.cn/views1.jhtml ' 公安没有辖区微博')</b>　🛂[公安weibo](https://weibo.com/zzgawb#平安郑州)  
 410102 [中原区](http://www.zhongyuan.gov.cn ' ')
 410103 [二七区](http://www.erqi.gov.cn ' ')
 410104 [管城回族区](http://www.guancheng.gov.cn ' ')
-410105 [金水区](http://www.jinshui.gov.cn ' ')
+410105 [金水区](http://www.jinshui.gov.cn/zjjs/index.jhtml ' ')
 410106 [上街区](http://www.zzsj.gov.cn ' ')
 410108 [惠济区](http://www.huiji.gov.cn ' ')
 410122 [中牟县](http://www.zhongmu.gov.cn ' ')
@@ -1830,12 +1825,12 @@
 410928 [濮阳县](http://www.puyangxian.gov.cn ' ')
 
 411000 <b>[许昌市](http://www.xuchang.gov.cn ' ')</b>　🛂[公安weibo](https://weibo.com/xcsgaj#平安许昌)  
-411002 [魏都区](http://www.weidu.gov.cn ' ')
-411003 [建安区](http://www.jianan.gov.cn ' ')
-411024 [鄢陵县](http://www.yanling.gov.cn ' ')
-411025 [襄城县](http://www.xiangchengxian.gov.cn ' ')
-411081 [禹州市](http://www.yuzhou.gov.cn ' ')
-411082 [长葛市](http://www.changge.gov.cn ' ')
+411002 [魏都区](http://www.weidu.gov.cn ' ') [Ⓖ](https://weibo.com/2044988695#魏都公安)
+411003 [建安区](http://www.jianan.gov.cn ' ') [Ⓖ](https://weibo.com/pinganxuchangxian#平安建安)
+411024 [鄢陵县](http://www.yanling.gov.cn ' ') [Ⓖ](https://weibo.com/2043355355#平安鄢陵)
+411025 [襄城县](http://www.xiangchengxian.gov.cn ' ') [Ⓖ](https://weibo.com/2043317585#平安襄城)
+411081 [禹州市](http://www.yuzhou.gov.cn ' ') [Ⓖ](https://weibo.com/234082039#平安禹州)
+411082 [长葛市](http://www.changge.gov.cn ' ') [Ⓖ](https://weibo.com/2043324575#平安和谐长葛)
 
 411100 <b>[漯河市](http://www.luohe.gov.cn ' ')</b>　🛂[公安weibo](https://weibo.com/1359922744#平安漯河)  
 411102 [源汇区](http://www.yuanhui.gov.cn ' ')
@@ -3670,13 +3665,26 @@
 路环：	圣方济各堂区  
 
 
+2021年行政区划变更
+------------------
+　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
+　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
+　　有3个新设立的全新地名：  新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
+　　还有4个区调整区划范围，名称不变，其中福建三明市的三元区，原区划代码350403更新。  
+　　此外有13个行政区变更了区划单位，小计如下，变更详情参见[民政部](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)。
+
+		县改市	7
+		县改区	4	（开遍全国的沙县小吃发源地沙县，改为沙县区）
+		市改区	2
+
 　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+
 
 ```
 	老生常谈 © 2019-2022 大萌   GPL 3.0
 	知识共享 可转载-可衍生-相同方式授权
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.4.2	202207
+	中国千县地名图	v0.4.3	202207
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
