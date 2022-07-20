@@ -21,10 +21,19 @@
 + 《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt)
 + 中国"知识产权"相关法律 
 
+
+类似项目
+--------
+　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
+
+*	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
+*	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
+
+
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	法律系列 v2.9.2	Laosheng.top/falv.txt
+	法律系列 v2.9.3	Laosheng.top/falv.txt
 ```
 
 📑☸️⚖️📕📘📗📙📖
