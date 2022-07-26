@@ -12,10 +12,12 @@
 
   + /fly/index2.html [云媒体第二页](fly/index2.html) 🗺️：教育台与科技报、县区级报纸与电视、图例与帮助。
 
-  + /fuwu/zhongyang [有关部门云媒体](fuwu/zhongyang) 中央部门的某些报刊也是免费提供的，收录在【有关部门系列】
+  + /ydyl/union [中国外宣云媒体](fuwu/zhongyang) 提供外语版本的中国新闻媒体
 
   + [一带一路云媒体](ydyl){:target="_blank"}_🌞　收录在【一带一路系列】  
 　　丝绸之路的有关国家和媒体，报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。
+
+　　此外，【有关部门】系列网页也有少量免费云媒体。
 
 
 什么是云媒体？ Cloud Media
@@ -43,7 +45,13 @@ Ideal Software Form of Cloud Media
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	云媒体 v2.9.2	Laosheng.top/fly.txt
+	云媒体 v2.9.3	Laosheng.top/fly.txt
 ```
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 ☁️🌧️🌤 ⛅ 🌩 ⊙💧
