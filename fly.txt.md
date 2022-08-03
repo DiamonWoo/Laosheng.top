@@ -1,4 +1,4 @@
-老生常谈 > 云媒体☁
+老生常谈 > 云媒体 ☁️
 
 全球免费云媒体
 ===============
@@ -8,16 +8,16 @@
 
 【云媒体系列】网页　找到新闻来源  
 
-  + /fly/index.html　[中国新闻云媒体](fly){:target="_blank"}_☁，看新闻只需浏览器。　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
+  + /fly/index.html　[中国新闻云媒体](fly){:target="_blank"}_ ☁️，看新闻只需浏览器。　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
 
   + /fly/index2.html [云媒体第二页](fly/index2.html) 🗺️：教育台与科技报、县区级报纸与电视、图例与帮助。
 
-  + /ydyl/union [中国外宣云媒体](fuwu/zhongyang) 提供外语版本的中国新闻媒体
+  + /fly/waixuan [中央外宣云媒体](fly/waixuan ) 中国对外宣传的官方媒体。中国人民解放军官方微博、ChinaDaily、环球时报、中央外文局……
 
   + [一带一路云媒体](ydyl){:target="_blank"}_🌞　收录在【一带一路系列】  
 　　丝绸之路的有关国家和媒体，报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。
 
-　　此外，【有关部门】系列网页也有少量免费云媒体。
+　　此外，【服务系列】网页也有少量有关部门云媒体。
 
 
 什么是云媒体？ Cloud Media
@@ -45,7 +45,7 @@ Ideal Software Form of Cloud Media
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	云媒体 v2.9.3	Laosheng.top/fly.txt
+	云媒体 v2.9.4	Laosheng.top/fly.txt
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
