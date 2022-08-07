@@ -4,7 +4,7 @@
 -----------------
  大萌 © 2020~2022
 
-	逆水行舟，不进则退
+		逆水行舟，不进则退
 
 
 提名网站
@@ -56,7 +56,7 @@
 *	盘搜搜   	<https://www.pansoso.com >
 *	盘搜     	<http://www.pansou.com >
 *	超能搜		<https://www.chaonengsou.com>
-*	Quora		#国外问答社区，比知乎更早
+*	Quora		#<https://www.quora.com/about>国外问答社区，比知乎更早
 
 
 2、云媒速览
@@ -76,7 +76,6 @@
 　<a href="http://paper.chinaso.com/quanbubaokan.html" title="全国性报纸搜索">国搜报刊</a>
 　<a href="http://press.nppa.gov.cn/reporter/channels/247.shtml" title="中国记者网">媒体与记者证查询</a>
 
-*	台风实时路径	<http://typhoon.zjwater.gov.cn/default.aspx>	浙江省水利厅
 *	长途区号查询	<https://www.123cha.com/postal/>	
 *	查号吧   	<https://www.chahaoba.com/Chahaoba:关于>
 
@@ -116,6 +115,7 @@
 +	奇趣网站收藏家 <https://fuun.fun/ > 	看看一些新鲜网站
 +	上海篱笆网 <https://www.libaclub.com/>	2002年创立，以装修论坛起家的上海本地生活论坛
 
++	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
 
 
 6、医疗保健
@@ -160,6 +160,7 @@
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App
 *	可可诗词 	<https://www.kekeshici.com>
 
+　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
 
 8、财务自求
 ------------
@@ -169,7 +170,7 @@
 *	财经网 <https://www.caijing.com.cn>	北京《财经》杂志网站
 *	财新网 <https://m.caixin.com/m/ >	原创财经新媒体/很多文章收费
 *	<a href="https://zhihe.com/main/information/1" title="法律新媒体">智合</a>
-*	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体
+*	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体，网页较为笨重。
 *	<a href="https://www.gelonghui.com/live" title="深圳格隆汇快讯">格隆汇</a>
 *	<a href="https://www.itslaw.com/" title="法律案例检索平台">无讼</a> 	2021年春停止服务，页面显示‘数据库升级中’。
 　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
@@ -181,7 +182,6 @@
 *	<a href="https://www.chuyu.me/" title="初雨团队的Win10神器">Dism++</a>
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
 *	<https://www.ipip.net/ip.html>
-*	<a href="https://news.cnblogs.com/" title="开发者的知识分享社区">博客园</a>
 *	CnBtea
 
 
@@ -200,6 +200,10 @@
 落榜记录
 =========
 
+2022/8/7  　	#上一代名站导航  
+	历史价格 连接由 购物党 换下 慢慢买 ，后者今年要求强制登录，予以下榜，网址为：tool.manmanbuy.com 。
+
+
 2022/03/29	#第六段  
 	39药品通下榜，对手机端不友好，夹广告，长期不升级安全连接。http://ypk.39.net/AllCategory
 
@@ -207,7 +211,8 @@
 	万维百科因近年长期停止服务下榜，<a title="万维百科，过滤词条的维基百科拷贝网站" href="https://www.wanweibaike.com/">万维</a>；另外失效的维基百科拷贝网站还有：<https://zh.wikiredia.com >。
 
 2021/8/11  　	#IT洁癖  
-	博客园<https://www.cnblogs.com>这个网站，有大量开发者在写原创的技术博客，但是近年来发展不顺。2020年网络整顿中被关停自查，恢复服务的时候又遭遇技术故障，丢失了大量文章链接，所幸不久之后修复了，但是到了2021年，网站限制了文章访问，访客只能看到摘要。很可惜，降权到提名网站，还是祝他们能过好一点。🙁
+	博客园<https://www.cnblogs.com>这个网站，有大量开发者在写原创的技术博客，但是近年来发展不顺。2020年网络整顿中被关停自查，恢复服务的时候又遭遇技术故障，丢失了大量文章链接，所幸不久之后修复了，但是到了2021年，网站限制了文章访问，访客只能看到摘要。很可惜，降权到提名网站，还是祝他们能过好一点。🙁  
+	（202208补：后来恢复了该站点上榜，选择了网站的‘推荐排行’栏目）
 
 2021/8/4  　	#科研学习  
 	曾经称赞来自重庆“没有火锅气”的古诗文网，终于油腻了，页面增加了大量广告，并强推私立App，下架，暂时保留提名地位。根据《著作权法》，这些年代久远的古诗词早就脱离了版权保护年限，是人类共同的知识财富，以其牟利，当适可而止。
@@ -241,8 +246,8 @@
 	西祠胡同 手机端网页强制下载apk（疑似秘制浏览器），去除链接 xici.net。（后删除）
 
 
-	老生常谈排行榜 © 大萌 2020~2021
-	知识共享 署名-非演绎 4.0
+	老生常谈排行榜 © 大萌 2020~2022
+	知识共享 署名-非演绎 3.0
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
