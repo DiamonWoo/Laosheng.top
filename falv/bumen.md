@@ -15,35 +15,35 @@
 ---------------
 <a href="#11" target="_top">11-北京</a>　
 <a href="#12" target="_top">12-天津</a>　
-<a href="#13" target="_top">13-河北</a>冀　
-<a href="#14" target="_top">14-山西</a>晋　
-<a href="#15" target="_top">15-内蒙古</a>蒙　
+<a href="#13" target="_top">13-河北</a> 冀　
+<a href="#14" target="_top">14-山西</a> 晋　
+<a href="#15" target="_top">15-内蒙古</a> 蒙　
 <a href="#21" target="_top">21-辽宁</a>　
 <a href="#22" target="_top">22-吉林</a>　
 <a href="#23" target="_top">23-黑龙江</a>　
-<a href="#31" target="_top">31-上海</a>沪　
-<a href="#32" target="_top">32-江苏</a>苏　
-<a href="#33" target="_top">33-浙江</a>浙　
-<a href="#34" target="_top">34-安徽</a>皖　
-<a href="#35" target="_top">35-福建</a>闽　
-<a href="#36" target="_top">36-江西</a>赣　
-<a href="#37" target="_top">37-山东</a>鲁　
-<a href="#41" target="_top">41-河南</a>豫　
-<a href="#42" target="_top">42-湖北</a>鄂　
-<a href="#43" target="_top">43-湖南</a>湘　
-<a href="#44" target="_top">44-广东</a>粤　
-<a href="#45" target="_top">45-广西</a>桂　
-<a href="#46" target="_top">46-海南</a>琼　
-<a href="#50" target="_top">50-重庆</a>渝　
-<a href="#51" target="_top">51-四川</a>川　
-<a href="#52" target="_top">52-贵州</a>贵　
-<a href="#53" target="_top">53-云南</a>云　
-<a href="#54" target="_top">54-西藏</a>藏　
-<a href="#61" target="_top">61-陕西</a>陕　
-<a href="#62" target="_top">62-甘肃</a>甘　
-<a href="#63" target="_top">63-青海</a>青　
-<a href="#64" target="_top">64-宁夏</a>宁　
-<a href="#65" target="_top">65-新疆</a>新　
+<a href="#31" target="_top">31-上海</a> 沪　
+<a href="#32" target="_top">32-江苏</a> 苏　
+<a href="#33" target="_top">33-浙江</a> 浙　
+<a href="#34" target="_top">34-安徽</a> 皖　
+<a href="#35" target="_top">35-福建</a> 闽　
+<a href="#36" target="_top">36-江西</a> 赣　
+<a href="#37" target="_top">37-山东</a> 鲁　
+<a href="#41" target="_top">41-河南</a> 豫　
+<a href="#42" target="_top">42-湖北</a> 鄂　
+<a href="#43" target="_top">43-湖南</a> 湘　
+<a href="#44" target="_top">44-广东</a> 粤　
+<a href="#45" target="_top">45-广西</a> 桂　
+<a href="#46" target="_top">46-海南</a> 琼　
+<a href="#50" target="_top">50-重庆</a> 渝　
+<a href="#51" target="_top">51-四川</a>　
+<a href="#52" target="_top">52-贵州</a>　
+<a href="#53" target="_top">53-云南</a>　
+<a href="#54" target="_top">54-西藏</a>　
+<a href="#61" target="_top">61-陕西</a>　
+<a href="#62" target="_top">62-甘肃</a>　
+<a href="#63" target="_top">63-青海</a>　
+<a href="#64" target="_top">64-宁夏</a>　
+<a href="#65" target="_top">65-新疆</a> 新　
 <a href="#6590" target="_top">6590-新疆兵团</a>　
 <a href="#71" target="_top">71-台湾</a>　
 <a href="#81" target="_top">81-香港</a>　
