@@ -27,17 +27,17 @@
   + /ydyl/nation [世界国别代码表]()：国家名称、国际区号、语言代码……待发布
   + ……
 
-+ 其他页面与【衍生项目】
++ 其他页面
   + /index2 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。🚩
   + /c/timing 提名网站和落榜记 [>>>>](c/timing.txt)
+  + [从地名图学习SQLite数据库](fuwu/diming4SQLite)，待更新……
   + «发现软件之海»培训课程，规划中……
+
++ 【衍生项目】
   + /Lab/[LSIP](Lab/LSIP)，大规模集成网页，集成超过1000个超链接的网页。
   + /Lab/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重
-  + /Lab/dimingku 　 待发布……
-    + 中国千县地名库
-    + 世界国别代码表
-    + [从地名图学习SQLite数据库](fuwu/diming4SQLite)，待更新……
-+ 
+  + /Lab/dimingku 　 中国千县地名库、世界国别代码表，待发布……  
+-
 
 		本站会在严格遵守知识产权法律方面做出表率。
 
