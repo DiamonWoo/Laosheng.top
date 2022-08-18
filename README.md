@@ -36,8 +36,8 @@
 + 【衍生项目】
   + /Lab/[LSIP](Lab/LSIP)，大规模集成网页，集成超过1000个超链接的网页。
   + /Lab/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重
-  + /Lab/dimingku 　 中国千县地名库、世界国别代码表，待发布……  
--
+  + /Lab/dimingku 　 中国千县地名库、世界国别代码表，待发布……
+
 
 		本站会在严格遵守知识产权法律方面做出表率。
 
