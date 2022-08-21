@@ -17,7 +17,7 @@
 
 + /fly.txt [【云媒体系列】](fly.txt '云媒体系列') 找到有源新闻
   + /fly/index　[中国新闻云媒体](fly){:target="_blank"} ☁，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
-  + /fly/index2 [云媒体第二页](fly/index2.html) 🗺️：教育台与科技报、县区级报纸与电视、图例与帮助。
+    + /fly/index2 [云媒体第二页](fly/index2.html) 🗺️：教育台与科技报、县区级报纸与电视、图例与帮助。
   + /fly/waixuan [中央外宣云媒体](fly/waixuan )🔥 ：解放军微博阵列、China Daily、环球时报、中国外文局，十大世界语言、明星微博粉丝榜
   + ……
 
