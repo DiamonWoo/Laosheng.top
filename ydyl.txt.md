@@ -11,9 +11,11 @@
   + /ydyl/index.html　[一带一路云媒体](ydyl){:target="_blank"}🌞　收录在【一带一路系列】  
 　　丝绸之路的有关国家和媒体，报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。
 
-  + /ydyl/union.html　[人类命运共同体](ydyl/union)⭕：联合国有关部门、中国外宣云媒体、十大世界语言、翻译网站，国际组织、竞赛与奖项。
+  + /ydyl/union.html　[联合国有关部门](ydyl/union)⭕：主要国际组织，联合国机关与系统、世界竞赛与奖项。
 
-  + ……
+  + /ydyl/nation　世界国别代码表[]()，联合国会员国列表、ISO代码、电信区号、货币符号，筹建中。
+
+  + 人类命运共同体……
 
 
 导游词
@@ -26,7 +28,12 @@
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	一带一路 v2.9.0	Laosheng.top/fly.txt
+	一带一路 v2.9.1	Laosheng.top/fly.txt
 ```
-
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 ☁️🌧️🌤 ⛅ 🌩 ⊙💧
