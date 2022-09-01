@@ -24,7 +24,7 @@
 <a href="#njz" target="_top">7-南极洲</a>　<sub> ……</sub><br>
 <a href="#wbm" target="_top">0-未编码地区　<sub> ……</sub></a>　
 
-超链接图例
+网址图例
 -----------
 +	国别名　国家概况/地区概况
 +	⚜　中国驻外使领馆
@@ -335,79 +335,15 @@ ISO⠀UN⠀[<big>南极洲</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻�
 ISO⠀UN⠀[布韦岛](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
 ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
 
-	　南极洲　	AQ			　⚜	　🏤	　wb	　🛡	　Antarctica　	  
-	　布韦岛　	BV			　⚜	　🏤	　wb	　🛡	　Bouvet Island　	  
-	　法属南部领地　	TF			　⚜	　🏤	　wb	　🛡	　French Southern Territories　	  
-	　赫德岛和麦克唐纳群岛　	HM			　⚜	　🏤	　wb	　🛡	　Heard Island and McDonald Islands　	  
-	　南乔治亚和南桑威奇　	GS			　⚜	　🏤	　wb	　🛡	　South Georgia and the South Sandwich Islands　	  
+　南极洲　	AQ			　⚜	　🏤	　wb	　🛡	　Antarctica　	  
+　布韦岛　	BV			　⚜	　🏤	　wb	　🛡	　Bouvet Island　	  
+　法属南部领地　	TF			　⚜	　🏤	　wb	　🛡	　French Southern Territories　	  
+　赫德岛和麦克唐纳群岛　	HM			　⚜	　🏤	　wb	　🛡	　Heard Island and McDonald Islands　	  
+　南乔治亚和南桑威奇　	GS			　⚜	　🏤	　wb	　🛡	　South Georgia and the South Sandwich Islands　	  
 
 
 
-<h3 id="13">13 <a href="http://www.hebei.gov.cn/hebei/14462058/14462085/" title="130000 ">河北省</a>　冀<sub>　<a href="https://map.baidu.com/search/河北省/@?querytype=s&wd=河北地图">baidu地图搜索</a></sub></h3>
-
-130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/index.html )</b>　  
-130102 [长安区](http://www.sjzca.gov.cn '石家庄长安,西安市有同名区')⠀
-130104 [桥西区](http://www.sjzqx.gov.cn '石家庄桥西,张家口市有同名区')⠀
-130105 [新华区](http://www.xhqsjz.gov.cn '新华区石家庄，有同名区3个')⠀
-130107 [井陉矿区](http://www.sjzkq.gov.cn )⠀
-130108 [裕华区](http://www.yuhuaqu.gov.cn )⠀
-130109 [藁城区](http://www.gc.gov.cn '藁 gǎo，草本植物名')⠀
-130110 [鹿泉区](http://www.sjzlq.gov.cn )⠀
-130111 [栾城区](http://www.luancheng.gov.cn )⠀
-130121 [井陉县](http://www.sjzjx.gov.cn )⠀
-130123 [正定县](http://www.zd.gov.cn )⠀
-130125 [行唐县](http://www.xingtang.gov.cn )⠀
-130126 [灵寿县](http://www.lingshou.gov.cn )⠀
-130127 [高邑县](http://www.gyx.gov.cn )⠀
-130128 [深泽县](http://www.shenze.gov.cn )⠀
-130129 [赞皇县](http://www.zanhuang.gov.cn )⠀
-130130 [无极县](http://www.wuji.gov.cn )⠀
-130131 [平山县](http://www.sjzps.gov.cn )⠀
-130132 [元氏县](http://www.yuanshi.gov.cn )⠀
-130133 [赵县](http://www.zhaoxian.gov.cn )⠀
-130181 [辛集市](https://www.xinji.gov.cn )⠀
-130183 [晋州市](http://www.jzs.gov.cn )⠀
-130184 [新乐市](http://www.xinle.gov.cn )⠀
-
-130200 <b>[唐山市](http://www.tangshan.gov.cn )</b>　  
-130202 [路南区](http://lunan.tangshan.gov.cn )⠀
-130203 [路北区](http://www.tslb.gov.cn )⠀
-130204 [古冶区](http://guye.tangshan.gov.cn )⠀
-130205 [开平区](http://tskaiping.tangshan.gov.cn )⠀
-130207 [丰南区](http://fengnan.tangshan.gov.cn )⠀
-130208 [丰润区](http://fengrun.tangshan.gov.cn )⠀
-130209 [曹妃甸区](http://caofeidian.tangshan.gov.cn )⠀
-130224 [滦南县](http://www.luannan.gov.cn )⠀
-130225 [乐亭县](http://laoting.tangshan.gov.cn )⠀
-130227 [迁西县](http://qianxi.tangshan.gov.cn )⠀
-130229 [玉田县](http://yutian.tangshan.gov.cn )⠀
-130281 [遵化市](http://zunhua.tangshan.gov.cn )⠀
-130283 [迁安市](http://www.qianan.gov.cn )⠀
-130284 [滦州市](http://www.luanxian.gov.cn )⠀
-
-130300 <b>[秦皇岛市](http://www.qhd.gov.cn '开发区设有公安分局')</b>　  
-130302 [海港区](http://www.qhdhgq.gov.cn )⠀
-130303 [山海关区](http://www.shanhaiguan.gov.cn )⠀
-130304 [北戴河区](http://www.beidaihe.gov.cn '北戴河新区设有公安分局')⠀
-130306 [抚宁区](http://www.chinafuning.gov.cn )⠀
-130321 [青龙满族自治县](http://www.chinaqinglong.gov.cn )⠀
-130322 [昌黎县](http://www.clxzf.gov.cn )⠀
-130324 [卢龙县](http://www.lulong.gov.cn )⠀
-
-
-
-<h3 id="65">65 <a href="http://www.xinjiang.gov.cn/xinjiang/dmxj/dmxj.shtml" title="650000 ">新疆维吾尔自治区</a>　新<sub>　<a href="https://xinjiang.tianditu.gov.cn/map/#c=88.7,41.7;l=6;b=2">天地图省map</a></sub></h3>
-
-654300 <b>[阿勒泰地区](http://www.xjalt.gov.cn )</b>　  
-654301 [阿勒泰市](http://www.alt.gov.cn )⠀
-654321 [布尔津县](http://www.brj.gov.cn )⠀
-654322 [富蕴县](http://www.xjfy.gov.cn )⠀
-654323 [福海县](http://www.xjfhx.gov.cn )⠀
-654324 [哈巴河县](http://www.hbh.gov.cn )⠀
-654325 [青河县](http://www.xjqh.gov.cn )⠀
-654326 [吉木乃县](http://www.jmn.gov.cn/013/listPage.html )⠀
-
-<h4 align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></h4>
+<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 <h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub></h3>
 659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html '电信区号0993独立')⠀
@@ -478,7 +414,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使�
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	Beta v0.1.0	202209
+	世界国别代码表	Beta v0.1.1	202209
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
