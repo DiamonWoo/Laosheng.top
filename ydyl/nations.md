@@ -35,13 +35,8 @@
 
 <h2 id="yz">亚洲 Asia</h2>
 
-ISO⠀UN⠀[<b>中国</b>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[阿富汗](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[阿联酋](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
-
 CN　五常　<big>	中国　China	</big>	　- 	　- 	　[wb](http://weibo.com/wjxlt)	　[🛡](Foreian Affairs)	　[北京](https://www.gov.cn)　		  
-AF　+　	[阿富汗](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676207/1206x0_676209/)　Afghan		　[⚜](http://af.china-embassy.gov.cn)	　[🏤](www.beijing.mfa.af)	　wb	　- 	　喀布尔/Kabul　		  
+AF　+　	[阿富汗](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676207/1206x0_676209/)　Afghan		　[⚜️](http://af.china-embassy.gov.cn)	　[🏦](www.beijing.mfa.af)	　wb	　- 	　喀布尔/Kabul　		  
 AE　+　	[阿联酋](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676234/1206x0_676236/)　United		　- 	　- 	　wb	　- 	　阿布扎比/Abu Dhabi　		  
 OM　+　	[阿曼](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676259/)　Oman		　- 	　- 	　wb	　- 	　马斯开特　		  
 AZ　+　	[阿塞拜疆](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676284/)　Azerbaijan		　- 	　- 	　wb	　- 	　巴库　		  
@@ -49,7 +44,7 @@ PK　+　	[巴基斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_67
 BH　+　	[巴林](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676356/)　Bahrain		　- 	　- 	　wb	　- 	　麦纳麦　		  
 BT　+　	[不丹](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676380/1206x0_676382/)　Bhutan		　- 	　- 	　wb	　- 	　廷布（Thimphu）　		  
 KP　+　	[朝鲜](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676404/1206x0_676406/)　North K		　- 	　- 	　wb	　- 	　平壤（Pyongyang）　		  
-KR　+　	[韩国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676524/1206x0_676526/)　South K		　[⚜](http://kr.china-embassy.gov.cn)	　[🏤](https://overseas.mofa.go.kr/cn-zh/index.do)	　wb	　[🛡](Foreian Affairs)	　[首尔（Seoul）](https://www.president.go.kr)　		  
+KR　+　	[韩国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676524/1206x0_676526/)　South K		　[⚜️](http://kr.china-embassy.gov.cn)	　[🏦](https://overseas.mofa.go.kr/cn-zh/index.do)	　[wb](http://weibo.com/embassykr)	　[🛡](Foreian Affairs)	　[首尔（Seoul）](https://www.president.go.kr)　		  
 TL　+　	[东帝汶](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676428/)　Timor-Leste		　- 	　- 	　wb	　- 	　帝力　		  
 PH　+　	[菲律宾](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676452/)　Philippines		　- 	　- 	　wb	　- 	　马尼拉　		  
 GE　+　	[格鲁吉亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676476/)　Georgia		　- 	　- 	　wb	　- 	　第比利斯　		  
@@ -63,13 +58,13 @@ MV　+　	[马尔代夫](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_67
 MY　+　	[马来西亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676716/)　Malaysia		　- 	　- 	　wb	　- 	　[吉隆坡](https://www.malaysia.gov.my/)　		  
 MN　+　	[蒙古](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676740/)　Mongolia		　- 	　- 	　wb	　- 	　乌兰巴托　		  
 BD　+　	[孟加拉国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676764/)　Bangladesh		　- 	　- 	　wb	　- 	　达卡　		  
-MM　+　	[缅甸](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676788/)　Myanmar		　[⚜](http://mm.china-embassy.gov.cn/chn/)	　[🏤](http://www.myanmarembassy.com/Ch_index.html)	　wb	　- 	　内比都　		　<sub>[驻缅大使馆](https://weibo.com/chinaembinmyanmar)</sub>  
+MM　+　	[缅甸](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676788/)　Myanmar		　[⚜️](http://mm.china-embassy.gov.cn/chn/)	　[🏦](http://www.myanmarembassy.com/Ch_index.html)	　wb	　- 	　内比都　		　<sub>[驻缅大使馆](https://weibo.com/chinaembinmyanmar)</sub>  
 NP　+　	[尼泊尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676812/)　Nepal		　- 	　- 	　wb	　- 	　加德满都　		  
 QA　+　	[卡塔尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676596/)　Qatar		　- 	　- 	　wb	　- 	　多哈　		  
-JP　+　	[日本](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676836/)　Japan		　- 	　- 	　wb	　- 	　东京　		  
+JP　+　	[日本](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676836/)　Japan		　- 	　- 	　[wb](http://weibo.com/japanembassy)	　- 	　东京　		  
 SA　+　	[沙特阿拉伯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676860/)　Saudi Arabia		　- 	　- 	　wb	　- 	　利雅得　		  
-LK　+　	[斯里兰卡](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676884/)　Sri Lanka		　- 	　- 	　wb	　- 	　斯里贾亚瓦德纳普拉科特　		  
-TH　+　	[泰国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676932/)　Thailand		　- 	　- 	　wb	　- 	　曼谷　		  
+LK　+　	[斯里兰卡](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676884/)　Sri Lanka		　- 	　- 	　wb	　- 	　科伦坡（Colombo）　		  
+TH　+　	[泰国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676932/)　Thailand		　- 	　- 	　[wb](http://weibo.com/thaiembassybj)	　- 	　曼谷　		  
 TR　+　	[土耳其](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676956/)　Turkey		　- 	　- 	　wb	　- 	　安卡拉　		  
 TJ　+　	[塔吉克斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676908/)　Tajikistan		　- 	　- 	　wb	　- 	　杜尚别　		  
 TM　+　	[土库曼斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676980/)　Turkmenistan		　- 	　- 	　wb	　- 	　阿什哈巴德　		  
@@ -80,47 +75,41 @@ SY　+　	[叙利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_67620
 AM　+　	[亚美尼亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677028/)　Armenia		　- 	　- 	　wb	　- 	　埃里温　		  
 YE　+　	[也门](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677124/)　Yemen		　- 	　- 	　wb	　- 	　萨那　		  
 IQ　+　	[伊拉克](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677148/)　Iraq		　- 	　- 	　wb	　- 	　巴格达　		  
-IR　+　	[伊朗](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677172/)　Iran		　- 	　- 	　wb	　- 	　德黑兰　		  
-IL　+　	[以色列](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677196/)　Israel		　- 	　- 	　wb	　- 	　耶路撒冷　		  
-IN　+　	[印度](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677220/)　India		　- 	　- 	　wb	　- 	　新德里　		  
+IR　+　	[伊朗](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677172/)　Iran		　- 	　- 	　[wb](http://weibo.com/2312751365)	　- 	　德黑兰　		  
+IL　+　	[以色列](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677196/)　Israel		　- 	　- 	　[wb](http://weibo.com/israelembassy)	　- 	　耶路撒冷　		　<sub>微博粉丝过200万</sub>  
+IN　+　	[印度](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677220/)　India		　- 	　- 	　[wb](http://weibo.com/indianembassy)	　- 	　新德里　		  
 ID　+　	[印度尼西亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677244/)　Indonesia		　- 	　- 	　wb	　- 	　雅加达　		  
 JO　+　	[约旦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677268/)　Jordan		　- 	　- 	　wb	　- 	　安曼　		  
 VN　+　	[越南](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677292/)　Vietnam		　- 	　- 	　wb	　- 	　河内　		  
-%PS　　<small>	[巴勒斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676332/)　Palestine	</small>	　- 	　- 	　wb	　- 	　耶路撒冷　		  
+PS　%　<small>	[巴勒斯坦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676332/)　Palestine	</small>	　- 	　- 	　[wb](http://weibo.com/palembassy)	　- 	　耶路撒冷　		  
 CC　　<small>	科科斯群岛　Cocos Islands	</small>	　- 	　- 	　wb	　- 	　西岛　		  
 CX　　<small>	圣诞岛　Christmas Island	</small>	　- 	　- 	　wb	　- 	　飞鱼湾　		  
 TW　　<small>	台湾　Taiwan	</small>	　- 	　- 	　wb	　- 	　台北　		  
-HK　　<small>	香港　Hong Kong	</small>	　- 	　- 	　wb	　- 	　　		  
-MO　　<small>	澳门　Macau	</small>	　- 	　- 	　wb	　- 	　　		  
+HK　　<small>	香港　Hong Kong	</small>	　- 	　- 	　[wb](http://weibo.com/newsgovhk)	　- 	　　		  
+MO　　<small>	澳门　Macau	</small>	　- 	　- 	　[wb](http://weibo.com/6190786689)	　- 	　　		  
 
 
 <h2 id="oz">欧洲 Europe</h2>
 
-ISO⠀UN⠀[<big>俄罗斯</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[<big>法国</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[<big>英国</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[爱尔兰](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[黑山](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
-
-RU　五常　<big>	[俄罗斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679110/1206x0_679112/)　Russia	</big>	　[⚜](http://ru.china-embassy.gov.cn)	　[🏤](http://www.russchinatrade.ru)	　wb	　- 	　[莫斯科（Москва）](http://government.ru)　		  
-FR　五常　<big>	[法国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679134/1206x0_679136/)　France	</big>	　[⚜](http://fr.china-embassy.gov.cn)	　[🏤](https://cn.ambafrance.org/-中文-)	　wb	　- 	　[巴黎（Paris）](https://www.service-public.fr)　		  
-GB　五常　<big>	[英国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679906/1206x0_679908/)　United 	</big>	　[⚜](http://gb.china-embassy.gov.cn)	　[🏤](https://www.gov.uk/world/organisations/british-embassy-beijing.zh)	　[wb](http://weibo.com/britishembassybj)	　- 	　[伦敦（London）](https://www.gov.uk)　		  
+RU　五常　<big>	[俄罗斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679110/1206x0_679112/)　Russia	</big>	　[⚜️](http://ru.china-embassy.gov.cn)	　[🏦](http://www.russchinatrade.ru)	　[wb](http://weibo.com/ezhuhua)	　- 	　[莫斯科（Москва）](http://government.ru)　		  
+FR　五常　<big>	[法国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679134/1206x0_679136/)　France	</big>	　[⚜️](http://fr.china-embassy.gov.cn)	　[🏦](https://cn.ambafrance.org/-中文-)	　[wb](http://weibo.com/ambassadefrance)	　- 	　[巴黎（Paris）](https://www.service-public.fr)　		  
+GB　五常　<big>	[英国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679906/1206x0_679908/)　United 	</big>	　[⚜️](http://gb.china-embassy.gov.cn)	　[🏦](https://www.gov.uk/world/organisations/british-embassy-beijing.zh)	　[wb](http://weibo.com/britishembassybj)	　- 	　[伦敦（London）](https://www.gov.uk)　		  
 AL　+　	[阿尔巴尼亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678772/)　Albania		　- 	　- 	　wb	　- 	　地拉那　		  
-IE　+　	[爱尔兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678796/)　Ireland		　- 	　- 	　wb	　- 	　都柏林　		  
+IE　+　	[爱尔兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678796/)　Ireland		　- 	　- 	　[wb](http://weibo.com/irelandinchina)	　- 	　都柏林　		  
 EE　+　	[爱沙尼亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678820/)　Estonia		　- 	　- 	　wb	　- 	　塔林　		  
 AD　+　	[安道尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678844/)　Andorra		　- 	　- 	　wb	　- 	　安道尔城　		  
-AT　+　	[奥地利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678868/)　Austria		　- 	　- 	　wb	　- 	　维也纳　		  
+AT　+　	[奥地利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678868/)　Austria		　- 	　- 	　[wb](http://weibo.com/aodilidashiguan)	　- 	　维也纳　		  
 BY　+　	[白俄罗斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678892/)　Belarus		　- 	　- 	　wb	　- 	　明斯克　		  
 BG　+　	[保加利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678916/)　Bulgaria		　- 	　- 	　wb	　- 	　索菲亚　		  
 MK　+　	[北马其顿](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679474/)　North Macedonia		　- 	　- 	　wb	　- 	　斯科普里　		  
-BE　+　	[比利时](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678940/)　Belgium		　- 	　- 	　wb	　- 	　布鲁塞尔　		  
+BE　+　	[比利时](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678940/)　Belgium		　- 	　- 	　[wb](http://weibo.com/belgiuminchina)	　- 	　布鲁塞尔　		  
 IS　+　	[冰岛](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678964/)　Iceland		　- 	　- 	　wb	　- 	　雷克雅未克　		  
 BA　+　	[波黑](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678988/)　Bosnia and Herzegovin		　- 	　- 	　wb	　- 	　萨拉热窝　		  
 PL　+　	[波兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679012/)　Poland		　- 	　- 	　wb	　- 	　华沙　		  
-DK　+　	[丹麦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679062/)　Denmark		　- 	　- 	　wb	　- 	　哥本哈根　		  
-DE　+　	[德国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679086/1206x0_679088/)　Germany		　[⚜](http://de.china-embassy.gov.cn/)	　[🏤](https://china.diplo.de/cn-zh)	　wb	　[🛡](Foreian Affairs)	　柏林（Berlin）　		  
+DK　+　	[丹麦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679062/)　Denmark		　- 	　- 	　[wb](http://weibo.com/danishembassy)	　- 	　哥本哈根　		  
+DE　+　	[德国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679086/1206x0_679088/)　Germany		　[⚜️](http://de.china-embassy.gov.cn/)	　[🏦](https://china.diplo.de/cn-zh)	　[wb](http://weibo.com/deguoshiguan)	　[🛡](Foreian Affairs)	　柏林（Berlin）　		  
 FI　+　	[芬兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679210/)　Finland		　- 	　- 	　wb	　- 	　赫尔辛基　		  
-NL　+　	[荷兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679234/)　Netherlands		　- 	　- 	　wb	　- 	　阿姆斯特丹　		  
+NL　+　	[荷兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679234/)　Netherlands		　- 	　- 	　[wb](http://weibo.com/helandashi)	　- 	　阿姆斯特丹　		  
 ME　+　	[黑山](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679258/)　Montenegro		　- 	　- 	　wb	　- 	　波德戈里察　		  
 CZ　+　	[捷克](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679282/)　Czechia		　- 	　- 	　wb	　- 	　布拉格　		  
 HR　+　	[克罗地亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679306/)　Croatia		　- 	　- 	　wb	　- 	　萨格勒布　		  
@@ -134,9 +123,9 @@ MD　+　	[摩尔多瓦](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_67
 MC　+　	[摩纳哥](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679522/)　Monaco		　- 	　- 	　wb	　- 	　摩纳哥　		  
 NO　+　	[挪威](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679546/)　Norway		　- 	　- 	　wb	　- 	　奥斯陆　		  
 PT　+　	[葡萄牙](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679570/)　Portugal		　- 	　- 	　wb	　- 	　里斯本　		  
-SE　+　	[瑞典](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679594/)　Sweden		　- 	　- 	　wb	　- 	　斯德哥尔摩　		  
-CH　+　	[瑞士](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679618/1206x0_679620/)　Switzer		　[⚜](http://ch.china-embassy.gov.cn/)	　[🏤](https://www.eda.admin.ch/countries/china/zh/home/representations/botschaft.html)	　[wb](http://weibo.com/swissembassy)	　- 	　伯尔尼（Bern）　		  
-RS　+　	[塞尔维亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679642/)　Serbia		　- 	　- 	　wb	　- 	　贝尔格莱德　		  
+SE　+　	[瑞典](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679594/)　Sweden		　- 	　- 	　[wb](http://weibo.com/EmbassyofSweden)	　- 	　斯德哥尔摩　		  
+CH　+　	[瑞士](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679618/1206x0_679620/)　Switzer		　[⚜️](http://ch.china-embassy.gov.cn/)	　[🏦](https://www.eda.admin.ch/countries/china/zh/home/representations/botschaft.html)	　[wb](http://weibo.com/swissembassy)	　- 	　伯尔尼（Bern）　		  
+RS　+　	[塞尔维亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679642/)　Serbia		　- 	　- 	　[wb](http://weibo.com/7414294062)	　- 	　贝尔格莱德　		  
 CY　+　	[塞浦路斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679666/)　Cyprus		　- 	　- 	　wb	　- 	　尼科西亚　		  
 SM　+　	[圣马力诺](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679690/)　San Marino		　- 	　- 	　wb	　- 	　圣马力诺　		  
 SK　+　	[斯洛伐克](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679714/)　Slovakia		　- 	　- 	　wb	　- 	　布拉迪斯拉发　		  
@@ -145,8 +134,8 @@ UA　+　	[乌克兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_67877
 GR　+　	[希腊](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679834/)　Greece		　- 	　- 	　wb	　- 	　雅典　		  
 ES　+　	[西班牙](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679810/)　Spain		　- 	　- 	　wb	　- 	　马德里　		  
 HU　+　	[匈牙利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679858/)　Hungary		　- 	　- 	　wb	　- 	　布达佩斯　		  
-IT　+　	[意大利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679882/)　Italy		　- 	　- 	　wb	　- 	　罗马　		  
-%VA　　<small>	[梵蒂冈](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679184/)　Vatican City	</small>	　- 	　- 	　wb	　- 	　梵蒂冈　		  
+IT　+　	[意大利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679882/)　Italy		　- 	　- 	　[wb](http://weibo.com/3045655775)	　- 	　罗马　		  
+VA　%　<small>	[梵蒂冈](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679184/)　Vatican City	</small>	　- 	　- 	　wb	　- 	　梵蒂冈　		  
 FO　　<small>	法罗群岛　Faroe Islands	</small>	　- 	　- 	　wb	　- 	　托尔斯港　		  
 GG　　<small>	根西岛　Guernsey	</small>	　- 	　- 	　wb	　- 	　　		  
 IM　　<small>	马恩岛　Isle of Man	</small>	　- 	　- 	　wb	　- 	　道格拉斯　		  
@@ -158,13 +147,9 @@ AX　　<small>	奥兰群岛　Aland	</small>	　- 	　- 	　wb	　- 	　玛丽�
 
 <h2 id="fz">非洲 Africa</h2>
 
-ISO⠀UN⠀[爱尔兰](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[爱尔兰](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
-
 DZ　+　	[阿尔及利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677318/1206x0_677320/)　Alge		　- 	　- 	　wb	　- 	　阿尔及尔（Algiers）　		  
-EG　+　	[埃及](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/1206x0_677344/)　Egypt		　[⚜](http://eg.china-embassy.gov.cn/)	　- 	　wb	　- 	　开罗（Cairo）　		  
-ET　+　	[埃塞俄比亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677366/1206x0_677368/)　Ethi		　[⚜](http://et.china-embassy.gov.cn/)	　[🏤](https://beijing.mfa.gov.et/)	　[wb](http://weibo.com/5488518947)	　- 	　[亚的斯亚贝巴（Addis Ababa）](https://www.eservices.gov.et/)　		  
+EG　+　	[埃及](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/1206x0_677344/)　Egypt		　[⚜️](http://eg.china-embassy.gov.cn/)	　- 	　[wb](http://weibo.com/etab)	　- 	　开罗（Cairo）　		  
+ET　+　	[埃塞俄比亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677366/1206x0_677368/)　Ethi		　[⚜️](http://et.china-embassy.gov.cn/)	　[🏦](https://beijing.mfa.gov.et/)	　[wb](http://weibo.com/5488518947)	　- 	　[亚的斯亚贝巴（Addis Ababa）](https://www.eservices.gov.et/)　		  
 AO　+　	[安哥拉](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677390/)　Angola		　- 	　- 	　wb	　- 	　罗安达　		  
 BJ　+　	[贝宁](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677414/)　Benin		　- 	　- 	　wb	　- 	　波多诺伏　		  
 BW　+　	[博茨瓦纳](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677438/)　Botswana		　- 	　- 	　wb	　- 	　哈博罗内　		  
@@ -210,10 +195,10 @@ ST　+　	[圣多美和普林西比](https://www.mfa.gov.cn/web/gjhdq_676201/gj_
 SZ　+　	[斯威士兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678502/)　Eswatini 		　- 	　- 	　wb	　- 	　姆巴巴纳　		  
 SD　+　	[苏丹](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678526/)　Sudan		　- 	　- 	　wb	　- 	　喀土穆　		  
 SO　+　	[索马里](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678550/)　Somalia		　- 	　- 	　wb	　- 	　摩加迪沙　		  
-TZ　+　	[坦桑尼亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678574/1206x0_678576/)　Tanza		　[⚜](http://tz.china-embassy.gov.cn/)	　[🏤](https://cn.tzembassy.go.tz)	　wb	　- 	　多多马（Dodoma）　		  
+TZ　+　	[坦桑尼亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678574/1206x0_678576/)　Tanza		　[⚜️](http://tz.china-embassy.gov.cn/)	　[🏦](https://cn.tzembassy.go.tz)	　wb	　- 	　多多马（Dodoma）　		  
 TN　+　	[突尼斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678598/)　Tunisia		　- 	　- 	　wb	　- 	　突尼斯市　		  
 UG　+　	[乌干达](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678622/)　Uganda		　- 	　- 	　wb	　- 	　坎帕拉　		  
-ZM　+　	[赞比亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678698/1206x0_678700/)　Zambia		　[⚜](http://zm.china-embassy.gov.cn/)	　- 	　wb	　- 	　卢萨卡（Lusaka）　		  
+ZM　+　	[赞比亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678698/1206x0_678700/)　Zambia		　[⚜️](http://zm.china-embassy.gov.cn/)	　- 	　wb	　- 	　卢萨卡（Lusaka）　		  
 TD　+　	[乍得](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678722/)　Chad		　- 	　- 	　wb	　- 	　恩贾梅纳　		  
 CF　+　	[中非](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678746/)　Central African Repub		　- 	　- 	　wb	　- 	　班吉　		  
 RE　　<small>	留尼汪　Réunion	</small>	　- 	　- 	　wb	　- 	　圣丹尼　		  
@@ -225,11 +210,7 @@ IO　　<small>	英属印度洋领地　British Indian Ocean Territory	</small>	
 
 <h2 id="dyz">大洋洲 Ocean</h2>
 
-ISO⠀UN⠀[<big>澳大利亚</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[新西兰](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
-
-AU　+　	[澳大利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681242/1206x0_681244/)　Aust		　[⚜](http://au.china-embassy.gov.cn/)	　[🏤](https://china.embassy.gov.au/bjngchinese/home.html)	　[wb](http://weibo.com/imagineaustralia)	　- 	　堪培拉（Canberra）　		　<sub>[驻澳大使馆](https://weibo.com/aozhoufeihong)</sub>  
+AU　+　	[澳大利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681242/1206x0_681244/)　Aust		　[⚜️](http://au.china-embassy.gov.cn/)	　[🏦](https://china.embassy.gov.au/bjngchinese/home.html)	　[wb](http://weibo.com/imagineaustralia)	　- 	　堪培拉（Canberra）　		　<sub>[驻澳大使馆](https://weibo.com/aozhoufeihong)</sub>  
 PG　+　	[巴布亚新几内亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681266/)　Papua New Guine		　- 	　- 	　wb	　- 	　莫尔斯比港　		  
 FJ　+　	[斐济](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681342/)　Fiji		　- 	　- 	　wb	　- 	　苏瓦　		  
 KI　+　	[基里巴斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681418/)　Kiribati		　- 	　- 	　wb	　- 	　南塔拉瓦　		  
@@ -239,10 +220,10 @@ NR　+　	[瑙鲁](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/
 PW　+　	[帕劳](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681666/)　Palau		　- 	　- 	　wb	　- 	　恩吉鲁穆德　		  
 WS　+　	[萨摩亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681716/)　Samoa		　- 	　- 	　wb	　- 	　阿皮亚　		  
 SB　+　	[所罗门群岛](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681766/)　Solomon Islands		　- 	　- 	　wb	　- 	　霍尼亚拉　		  
-TO　+　	[汤加](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681790/1206x0_681792/)　Tonga		　[⚜](http://to.china-embassy.gov.cn/)	　[🏤](http://www.tongaembassycn.gov.to/zh/)	　wb	　- 	　努库阿洛法（Nuku’alofa）　		  
+TO　+　	[汤加](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681790/1206x0_681792/)　Tonga		　[⚜️](http://to.china-embassy.gov.cn/)	　[🏦](http://www.tongaembassycn.gov.to/zh/)	　wb	　- 	　努库阿洛法（Nuku’alofa）　		  
 TV　+　	[图瓦卢](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681814/)　Tuvalu		　- 	　- 	　wb	　- 	　福纳佛提　		  
 VU　+　	[瓦努阿图](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681890/)　Vanuatu		　- 	　- 	　wb	　- 	　维拉港　		  
-NZ　+　	[新西兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681940/1206x0_681942/)　New Z		　[⚜](http://nz.china-embassy.gov.cn/#驻新、纽、库)	　[🏤](https://www.immigration.govt.nz/)	　wb	　- 	　惠灵顿（Wellington）　		  
+NZ　+　	[新西兰](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681940/1206x0_681942/)　New Z		　[⚜️](http://nz.china-embassy.gov.cn/#驻新、纽、库)	　[🏦](https://www.immigration.govt.nz/)	　[wb](http://weibo.com/nzembassy)	　- 	　惠灵顿（Wellington）　		  
 MP　　<small>	北马里亚纳群岛　Northern Mariana Islands	</small>	　- 	　- 	　wb	　- 	　塞班　		  
 PF　　<small>	波利尼西亚　French Polynesia	</small>	　- 	　- 	　wb	　- 	　帕皮提　		  
 GU　　<small>	关岛　Guam	</small>	　- 	　- 	　wb	　- 	　哈加特纳　		  
@@ -259,12 +240,7 @@ NC　　<small>	新喀里多尼亚　New Caledonia	</small>	　- 	　- 	　wb	�
 
 <h2 id="bmz">北美洲</h2>
 
-ISO⠀UN⠀[<big>美国</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[<big>加拿大</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[墨西哥](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
-
-US　五常　<big>	[美国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/1206x0_680530/)　United	</big>	　[⚜](http://us.china-embassy.gov.cn/)	　[🏤](https://china.usembassy-china.org.cn/zh/)	　[wb](http://weibo.com/usembassy)	　- 	　[华盛顿哥伦比亚特区（Washington D. C.）](https://www.usa.gov)　		  
+US　五常　<big>	[美国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680528/1206x0_680530/)　United	</big>	　[⚜️](http://us.china-embassy.gov.cn/)	　[🏦](https://china.usembassy-china.org.cn/zh/)	　[wb](http://weibo.com/usembassy)	　- 	　[华盛顿哥伦比亚特区（Washington D. C.）](https://www.usa.gov)　		  
 AG　+　	[安提瓜和巴布达](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680008/)　安巴		　- 	　- 	　wb	　- 	　圣约翰斯　		  
 BB　+　	[巴巴多斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680032/)　Barbados		　- 	　- 	　wb	　- 	　布里奇敦　		  
 BS　+　	[巴哈马](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680056/)　Bahamas		　- 	　- 	　wb	　- 	　拿骚　		  
@@ -274,10 +250,10 @@ DO　+　	[多米尼加](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_6
 DM　+　	[多米尼克](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680204/)　Dominica		　- 	　- 	　wb	　- 	　罗索　		  
 CR　+　	[哥斯达黎加](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680228/)　Costa Rica		　- 	　- 	　wb	　- 	　圣何塞　		  
 GD　+　	[格林纳达](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680252/)　Grenada		　- 	　- 	　wb	　- 	　圣乔治　		  
-CU　+　	[古巴](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680302/)　Cuba		　- 	　- 	　wb	　- 	　哈瓦那　		  
+CU　+　	[古巴](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680302/)　Cuba		　- 	　- 	　[wb](http://weibo.com/gubadashiguan)	　- 	　哈瓦那　		  
 HT　+　	[海地](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680352/)　Haiti		　- 	　- 	　wb	　- 	　太子港　		  
 HN　+　	[洪都拉斯](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680402/)　Honduras		　- 	　- 	　wb	　- 	　特古西加尔巴　		  
-CA　+　	[加拿大](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680426/1206x0_680428/)　Canad		　[⚜](http://ca.china-embassy.gov.cn/)	　[🏤](https://www.canadainternational.gc.ca/ci-ci/index.aspx?lang=eng)	　[wb](http://weibo.com/canadaweibo)	　- 	　渥太华（Ottawa）　		  
+CA　+　	[加拿大](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680426/1206x0_680428/)　Canad		　[⚜️](http://ca.china-embassy.gov.cn/)	　[🏦](https://www.canadainternational.gc.ca/ci-ci/index.aspx?lang=eng)	　[wb](http://weibo.com/canadaweibo)	　- 	　渥太华（Ottawa）　		  
 MX　+　	[墨西哥](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680604/)　Mexico		　- 	　- 	　wb	　- 	　墨西哥城　		  
 NI　+　	[尼加拉瓜](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680654/)　Nicaragua		　- 	　- 	　wb	　- 	　马那瓜　		  
 SV　+　	[萨尔瓦多](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680678/)　El Salvador		　- 	　- 	　wb	　- 	　圣萨尔瓦多　		  
@@ -309,41 +285,39 @@ VG　　<small>	英属维尔京群岛　Virgin Islands, British	</small>	　- 	�
 
 <h2 id="nmz">南美洲</h2>
 
-ISO⠀UN⠀[<big>巴西</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[阿根廷](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
-
-AR　+　	[阿根廷](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680926/1206x0_680928/)　Argen		　[⚜](http://ar.china-embassy.gov.cn/)	　[🏤](https://echin.cancilleria.gob.ar/zh-hans)	　[wb](http://weibo.com/6333588348)	　- 	　布宜诺斯艾利斯（Buenos Aires）　		  
+AR　+　	[阿根廷](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680926/1206x0_680928/)　Argen		　[⚜️](http://ar.china-embassy.gov.cn/)	　[🏦](https://echin.cancilleria.gob.ar/zh-hans)	　[wb](http://weibo.com/6333588348)	　- 	　布宜诺斯艾利斯（Buenos Aires）　		  
 PY　+　	[巴拉圭](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680950/)　Paraguay		　- 	　- 	　wb	　- 	　亚松森　		  
-BR　+　	[巴西](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680974/)　Brazil		　- 	　- 	　wb	　- 	　巴西利亚　		  
+BR　+　	[巴西](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680974/)　Brazil		　- 	　- 	　[wb](http://weibo.com/brazilianembassy)	　- 	　巴西利亚　		  
 BO　+　	[玻利维亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681022/)　Bolivia		　- 	　- 	　wb	　- 	　苏克雷　		  
 EC　+　	[厄瓜多尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681096/)　Ecuador		　- 	　- 	　wb	　- 	　基多　		  
 CO　+　	[哥伦比亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681072/)　Colombia		　- 	　- 	　wb	　- 	　波哥大　		  
 GY　+　	[圭亚那](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681120/)　Guyana		　- 	　- 	　wb	　- 	　乔治敦　		  
-PE　+　	[秘鲁](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680998/)　Peru		　- 	　- 	　wb	　- 	　利马　		  
+PE　+　	[秘鲁](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_680998/)　Peru		　- 	　- 	　[wb](http://weibo.com/3216802580)	　- 	　利马　		  
 SR　+　	[苏里南](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681144/)　Suriname		　- 	　- 	　wb	　- 	　帕拉马里博　		  
-VE　+　	[委内瑞拉](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681168/)　Venezuela		　- 	　- 	　wb	　- 	　加拉加斯　		  
+VE　+　	[委内瑞拉](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681168/)　Venezuela		　- 	　- 	　[wb](http://weibo.com/3247450215)	　- 	　加拉加斯　		  
 UY　+　	[乌拉圭](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681192/)　Uruguay		　- 	　- 	　wb	　- 	　蒙得维的亚　		  
-CL　+　	[智利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681216/1206x0_681218/)　Chile		　[⚜](http://cl.china-embassy.gov.cn/)	　- 	　wb	　- 	　圣地亚哥(Santiago)　		  
+CL　+　	[智利](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681216/1206x0_681218/)　Chile		　[⚜️](http://cl.china-embassy.gov.cn/)	　- 	　wb	　- 	　圣地亚哥(Santiago)　		  
 GF　　<small>	法属圭亚那　French Guiana	</small>	　- 	　- 	　wb	　- 	　卡宴　		  
 FK　　<small>	福克兰群岛　Falkland Islands (Islas Malvinas)	</small>	　- 	　- 	　wb	　- 	　斯坦利港　		  
 
 
 <h2 id="njz">南极洲 Antarctica</h2>
 
+BV　　<small>	布韦岛　Bouvet Island	</small>	　- 	　- 	　wb	　- 	　　		  
+TF　　<small>	法属南部领地　French Southern Territories	</small>	　- 	　- 	　wb	　- 	　　		  
+HM　　<small>	赫德岛和麦克唐纳群岛　Heard Island and McDonald Islands	</small>	　- 	　- 	　wb	　- 	　　		  
+AQ　　<small>	南极洲　Antarctica	</small>	　- 	　- 	　wb	　- 	　　		  
+GS　　<small>	南乔治亚和南桑威奇　South Georgia and the South Sandwich Islands	</small>	　- 	　- 	　wb	　- 	　　		  
+
+
+<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
+
+测试段落
+---------
 ISO⠀UN⠀[<big>南极洲</big>](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
 ISO⠀UN⠀[布韦岛](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)  
 ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
 
-AQ　　<small>	南极洲　Antarctica	</small>	　- 	　- 	　wb	　- 	　　		  
-BV　　<small>	布韦岛　Bouvet Island	</small>	　- 	　- 	　wb	　- 	　　		  
-TF　　<small>	法属南部领地　French Southern Territories	</small>	　- 	　- 	　wb	　- 	　　		  
-HM　　<small>	赫德岛和麦克唐纳群岛　Heard Island and McDonald Islands	</small>	　- 	　- 	　wb	　- 	　　		  
-GS　　<small>	南乔治亚和南桑威奇　South Georgia and the South Sandwich Islands	</small>	　- 	　- 	　wb	　- 	　　		  
-
-
-
-<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 <h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub></h3>
 659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html '电信区号0993独立')⠀
@@ -383,11 +357,6 @@ GS　　<small>	南乔治亚和南桑威奇　South Georgia and the South Sandwi
 路环：	圣方济各堂区  
 
 
-*	注4：d桌面地图 表示该链接限制在桌面模式下阅读(desktop)。
-	例如：6590　兵团　d天地图分享链。
-*	注5：国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
-	如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>向大萌报告</a>，感谢！❀
-
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 
@@ -414,7 +383,7 @@ GS　　<small>	南乔治亚和南桑威奇　South Georgia and the South Sandwi
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表 Beta 	v0.1.3	202209
+	世界国别代码表 Beta 	v0.1.4	202209
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -425,4 +394,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-⚜️🏦🏤🛡️
+⚜🛡️🏛🏠🏘🏚🏡💒🏢🏦🏨🏩🏬🏪🏥🏤🏣🏫🏰
