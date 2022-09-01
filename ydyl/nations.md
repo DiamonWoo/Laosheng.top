@@ -87,7 +87,7 @@ MN　+　	[蒙古](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1
 BD　+　	[孟加拉国](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676764/)　Bangladesh		　- 	
 　- 	　wb	　- 	　达卡　		  
 MM　+　	[缅甸](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676788/)　Myanmar		　[⚜](http://mm.china-embassy.gov.cn/chn/)	
-　[🏤](http://www.myanmarembassy.com/Ch_index.html)	　wb	　- 	　内比都　		　<sub>[驻缅大使馆](https://weibo.com/chinaembinmyanmar)</sub  
+　[🏤](http://www.myanmarembassy.com/Ch_index.html)	　wb	　- 	　内比都　		　<sub>[驻缅大使馆](https://weibo.com/chinaembinmyanmar)</sub>  
 NP　+　	[尼泊尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676812/)　Nepal		　- 	
 　- 	　wb	　- 	　加德满都　		  
 QA　+　	[卡塔尔](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676596/)　Qatar		　- 	
@@ -282,7 +282,7 @@ ISO⠀UN⠀[新西兰](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)�
 ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
 
 AU　+　	[澳大利亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681242/1206x0_681244/)　Australia		　[⚜](http://au.china-embassy.gov.cn/)	
-　[🏤](https://china.embassy.gov.au/bjngchinese/home.html)	　[wb](http://weibo.com/imagineaustralia)	　- 	　堪培拉（Canberra）　		　<sub>[驻澳大使馆](https://weibo.com/aozhoufeihong)</sub  
+　[🏤](https://china.embassy.gov.au/bjngchinese/home.html)	　[wb](http://weibo.com/imagineaustralia)	　- 	　堪培拉（Canberra）　		　<sub>[驻澳大使馆](https://weibo.com/aozhoufeihong)</sub>  
 PG　+　	[巴布亚新几内亚](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681266/)　Papua New Guinea		　- 	
 　- 	　wb	　- 	　莫尔斯比港　		  
 FJ　+　	[斐济](https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681342/)　Fiji		　- 	
