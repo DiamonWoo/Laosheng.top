@@ -22,7 +22,7 @@
 <a href="#bmz" target="_top">5-北美洲</a>　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
-<a href="#代码说明" target="_top">0-代码说明　<sub> 收录进度…</sub></a>　
+<a href="#代码说明" target="_top">0-代码说明</a>　<sub> 收录进度…</sub>  
 
 网址图例
 -----------
@@ -320,21 +320,6 @@ ISO⠀UN⠀[布韦岛](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)�
 ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使馆)⠀外交部⠀[法定货币](bing)</small>  
 
 
-<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub></h3>
-659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html '电信区号0993独立')⠀
-659002 [阿拉尔市／第一师](http://www.ale.gov.cn )⠀
-659003 [图木舒克市／第三师](http://www.xjbtnss.gov.cn )⠀
-659004 [五家渠市／第六师](http://www.wjq.gov.cn )⠀
-659005 [北屯市／第十师](http://www.bts.gov.cn )⠀
-659006 [铁门关市／第二师](http://www.tmg.gov.cn )⠀
-659007 [双河市／第五师](http://www.xjshs.gov.cn )⠀
-659008 [可克达拉市／第四师](http://www.cocodala.gov.cn )⠀
-659009 [昆玉市／第十四师](http://www.btdsss.gov.cn )⠀
-659010 [胡杨河市／第七师](http://www.nqs.gov.cn )⠀
-659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')⠀
-兵团14个师中尚有3个师(9/11/12)未完成‘师市合一’改革。
-
-
 <h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
 710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
 台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
@@ -363,11 +348,16 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使�
 
 代码说明
 --------
-　　ISO是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为[国家和地区](https://www.iso.org/iso-3166-country-codes.html)制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](untied)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
+　　ISO是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为[国家和地区](https://www.iso.org/iso-3166-country-codes.html)制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
-　　由于ISO的工作语言(en/fr/ru)不包括中文，故ISO 3166中各国家的中文名称需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)不能提供免费的全文下载。
+　　由于ISO的工作语言(en/fr/ru)不包括中文，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)不能提供免费的全文下载。
 
 　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。大萌编纂的此份《世界国别代码表》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
+
+
+鸣谢
+----
+　　本站指向的国家概况页面由中国外交部网站提供；本站提供的各国货币兑换人民币的即时汇率，由微软必应搜索引擎提供。
 
 
 收录进度
@@ -383,7 +373,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使�
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表 Beta 	v0.2.6	202209
+	世界国别代码表 Beta 	v0.2.7	202209
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
