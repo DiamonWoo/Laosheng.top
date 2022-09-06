@@ -347,7 +347,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[⚜️](驻外使�
 --------
 　　ISO是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为[国家和地区](https://www.iso.org/iso-3166-country-codes.html)制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
-　　由于ISO的工作语言(en/fr/ru)不包括中文，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制，������目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)没有提供全文下载。
+　　由于ISO的工作语言(en/fr/ru)不包括中文，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制，����目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)没有提供全文下载。
 
 　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
 
