@@ -28,6 +28,7 @@
 一带一路外交动态 🌞 Diplomatic Dynamics
 ----------------------------------------
 
+	2022-03-23 　中国同马拉维(非洲东南部，ISO代码MW)签订一带一路谅解备忘录，签约国增至149。
 	2022-02-14 　中国同墨西哥建交50周年，互致贺电。
 	2022-02-07 　中国同阿根廷深化全面战略合作伙伴关系，发表联合声明，签约国增至148。
 	2022-02-05 　晚八点在北京鸟巢举行冬奥会开幕式，85个国家和6个地区(合91个)的参赛代表团入场。
@@ -42,7 +43,7 @@
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	一带一路 v2.9.2	Laosheng.top/ydyl.txt
+	一带一路 v2.9.3	Laosheng.top/ydyl.txt
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
