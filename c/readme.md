@@ -11,14 +11,15 @@
 
 * [手机App和浏览器到底有什么区别？](app-browser-diff.txt)	App和浏览器的三个区别
 
-* [证监会为什么不要App？](8-media-in-law.txt) 	8-证券信息披露的法定媒体.txt
+* [证监会为什么不要App？](8-证券信息披露的法定媒体.txt) 	8-证券信息披露的法定媒体
 
-* [有什么不骗人的保健知识？](./6-newspaper-for-health.txt) 　 
+* [有什么不骗人的保健知识？](./6-权威的医疗保健类报纸.txt) 　 
   - [备用网址.md](https://github.com/DiamonWoo/Laosheng2019/blob/master/changtan/6-权威的医疗保健类报纸.txt.md)
 
 * 安装包只有1MB的安卓浏览器[]()： Via浏览器、X浏览器、神奇浏览器、H5浏览器……
 
 * DMTB：中国城市的免费电视
+
 
 	-----
 
