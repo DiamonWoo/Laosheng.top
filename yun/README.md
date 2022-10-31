@@ -6,22 +6,22 @@
 <h3 align="center">中图法 22类简目 + 4 </h3>
 <table class="AZ" align="center" width="360" border="1" >	<!-- cellpadding="2" width="800" -->
 <tbody>
-<tr>	<td><a href='#A'>A 马列主义</a></td>	<td><a href='#B'>B 哲学、宗教</a></td>
-	<td><a href='#C'>C 社会科学总论</a></td>	<td><a href='#D'>D 政治、法律</a></td> </tr>
-<tr>	<td></td>		<td><a href='#E'>E 军事</a></td>
-	<td><a href='#F'>F 经济</a></td>		<td><a href='#G'>G 文化科学教育体育</a></td>	</tr>
-<tr>	<td><a href='#H'>H 语言、文字</a></td>	<td><a href='#I'>I 文学</a></td>
-	<td><a href='#J'>J 艺术</a></td>		<td><a href='#K'>K 历史、地理</a></td>	</tr>
+<tr>	<td>A <a href='#A'>马列主义</a></td>	<td>B <a href='#B'>哲学、宗教</a></td>
+	<td>C <a href='#C'>社会科学总论</a></td>	<td>D <a href='#D'>政治、法律</a></td> </tr>
+<tr>	<td></td>		<td>E <a href='#E'>军事</a></td>
+	<td>F <a href='#F'>经济</a></td>		<td>G <a href='#G'>文化科学教育体育</a></td>	</tr>
+<tr>	<td>H <a href='#H'>语言、文字</a></td>	<td>I <a href='#I'>文学</a></td>
+	<td>J <a href='#J'>艺术</a></td>		<td>K <a href='#K'>历史、地理</a></td>	</tr>
 <tr>	<td></td>		<td><a href='#L'>Library 图书馆</a></td>
-	<td><a href='#M'>Museum 博物馆</a></td>	<td><a href='#N'>N 自然科学总论</a></td>	</tr>
-<tr>	<td><a href='#O'>O 数理化科学</a></td>	<td><a href='#P'>P 天文学地球科学　</a></td>
-	<td><a href='#Q'>Q 生物科学</a></td><td></td>	</tr>
-<tr>	<td></td>		<td><a href='#R'>R 医药、卫生</a></td>
-	<td><a href='#S'>S 农业科学</a></td>	<td><a href='#T'>T 工业科学</a></td>	</tr>
-<tr>	<td><a href='#U'>U 交通运输</a></td>	<td><a href='#V'>V 航空、航天</a></td>
-	<td><a href='#W'>WWW [万维网]</a></td>	<td></td></tr>
-<tr>	<td></td>		<td><a href='#X'>X 环境、安全科学</a></td>
-	<td><a href='#Y'>Y [云中漫步]</a></td>	<td><a href='#Z'>Z 综合性图书</a></td></tr>
+	<td><a href='#M'>Museum 博物馆</a></td>	<td>N <a href='#N'>自然科学总论</a></td>	</tr>
+<tr>	<td>O <a href='#O'>数理化科学</a></td>	<td>P <a href='#P'>天文学地球科学　</a></td>
+	<td>Q <a href='#Q'>生物科学</a></td><td></td>	</tr>
+<tr>	<td></td>		<td>R <a href='#R'>医药、卫生</a></td>
+	<td>S <a href='#S'>农业科学</a></td>	<td>T <a href='#T'>工业科学</a></td>	</tr>
+<tr>	<td>U <a href='#U'>交通运输</a></td>	<td>V <a href='#V'>航空、航天</a></td>
+	<td><a href='#W'>WWW 万维网</a></td>	<td></td></tr>
+<tr>	<td></td>		<td>X <a href='#X'>环境、安全科学</a></td>
+	<td><a href='#Y'>Y 云图</a></td>	<td><a href='#Z'>Z 综合性图书</a></td></tr>
 </tbody>
 </table>
 
@@ -140,6 +140,7 @@ G8 体育⠀
 +	汉程网 <http://minsu.httpcn.com>	中国民俗文化，安徽<br>
 
 
+<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
 <h3 id='H'>H 语言、文字</h3>
 <small>
 H0 语言学⠀
@@ -242,6 +243,7 @@ N94 系统科学⠀
 <br>
 
 
+<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
 <h3 id='O'>O 数理科学和化学</h3>
 O1 数学⠀
 O3 力学⠀
@@ -337,6 +339,7 @@ TV 水利工程⠀
 +	机器之心<https://jiqizhixin.com > 企业人工智能服务/AI，北京
 
 
+<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
 <h3 id='U'>U 交通运输</h3>
 U1 综合运输⠀
 U2 铁路运输⠀
@@ -401,7 +404,7 @@ Z8 图书报刊目录、文摘、索引⠀
 
 	老生云图© 2019-2022	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-原署名-非演绎-非营利  
-	网址库 Beta v0.2.4	20221101
+	网址库 Beta v0.2.5	20221101
 
 <a title="返回老生常谈首页" href=".." target="_self">&lt;&lt;返回上一级</a>  
 点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" >  
