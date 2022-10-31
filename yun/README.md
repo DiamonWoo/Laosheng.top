@@ -1,8 +1,9 @@
+云云大观，收网入库
 [老生云图](../yun.txt)网址库 📚
 =====================
 
-<h2 align="center">云云大观，收网入库</h2>
-<center>　　本库收录有利于学习的经典网址，参照中图法归类编目。</center>
+　　本库收录有利于学习的经典网址，参照中图法归类编目。
+<!-- <center></center> -->
 <h3 align="center">中图法 22类简目 + 4 </h3>
 <table class="AZ" align="center" width="360" border="1" >	<!-- cellpadding="2" width="800" -->
 <tbody>
@@ -21,7 +22,7 @@
 <tr>	<td>U <a href='#U'>交通运输</a></td>	<td>V <a href='#V'>航空、航天</a></td>
 	<td><a href='#W'>WWW 万维网</a></td>	<td></td></tr>
 <tr>	<td></td>		<td>X <a href='#X'>环境、安全科学</a></td>
-	<td><a href='#Y'>Y 云图</a></td>	<td><a href='#Z'>Z 综合性图书</a></td></tr>
+	<td><a href='#Y'>Yun 云图</a></td>	<td>Z <a href='#Z'>综合性图书</a></td></tr>
 </tbody>
 </table>
 
@@ -140,7 +141,8 @@ G8 体育⠀
 +	汉程网 <http://minsu.httpcn.com>	中国民俗文化，安徽<br>
 
 
-<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+<p align="right"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+
 <h3 id='H'>H 语言、文字</h3>
 <small>
 H0 语言学⠀
@@ -211,13 +213,13 @@ K9 地理⠀
 </small>
 <br>
 
-<h3 id='L'>Library 图书馆</h3>
+<h3 id='L'>Library 图书馆（L 预留）</h3>
 
 
 
 <br>
 
-<h3 id='M'>Museum 博物馆</h3>
+<h3 id='M'>Museum 博物馆（M 预留）</h3>
 
 
 
@@ -243,7 +245,7 @@ N94 系统科学⠀
 <br>
 
 
-<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+<p align="right"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
 <h3 id='O'>O 数理科学和化学</h3>
 O1 数学⠀
 O3 力学⠀
@@ -339,7 +341,7 @@ TV 水利工程⠀
 +	机器之心<https://jiqizhixin.com > 企业人工智能服务/AI，北京
 
 
-<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+<p align="right"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
 <h3 id='U'>U 交通运输</h3>
 U1 综合运输⠀
 U2 铁路运输⠀
@@ -355,7 +357,7 @@ V4 航天（宇宙航行）⠀
 [V7] 航空、航天医学⠀
 <br>
 
-<h3 id='W'>WWW 万维网</h3>
+<h3 id='W'>WWW 万维网（W 预留）</h3>
 
 <br>
 
@@ -372,7 +374,7 @@ X9 安全科学⠀
 </small>
 <br>
 
-<h3 id='Y'>Y （预留）</h3>
+<h3 id='Y'>Yun 云图（Y 预留）</h3>
 <br>
 
 <h3 id='Z'>Z 综合性图书</h3>
@@ -386,7 +388,7 @@ Z8 图书报刊目录、文摘、索引⠀
 <br>
 <br>
 
-<p class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
+<p align="right"><a href="#" target="_self" id="tuli" >⏫ Top</a> ⚓</p>
 　　您对本页面 <a title="到新窗口撰写留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">有什么想说的吗</a>？
 
 <table id="tuli" align="right" border="1" cellpadding="4">
@@ -404,7 +406,7 @@ Z8 图书报刊目录、文摘、索引⠀
 
 	老生云图© 2019-2022	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-原署名-非演绎-非营利  
-	网址库 Beta v0.2.5	20221101
+	网址库 v0.3.0	20221101
 
 <a title="返回老生常谈首页" href=".." target="_self">&lt;&lt;返回上一级</a>  
 点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" >  
