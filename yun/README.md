@@ -1,9 +1,10 @@
 云云大观，收网入库
+
 [老生云图](../yun.txt)网址库 📚
 =====================
 
-　　本库收录有利于学习的经典网址，参照中图法归类编目。
-<!-- <center></center> -->
+　　本库收录有利于学习的经典网址，参照中图法归类编目。<!-- <center></center> -->
+
 <h3 align="center">中图法 22类简目 + 4 </h3>
 <table class="AZ" align="center" width="360" border="1" >	<!-- cellpadding="2" width="800" -->
 <tbody>
