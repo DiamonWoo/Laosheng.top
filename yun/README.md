@@ -6,18 +6,26 @@
 <h3 align="center">中图法 22类简目 + 4 </h3>
 <table class="AZ" align="center" width="360" border="1" >	<!-- cellpadding="2" width="800" -->
 <tbody>
-<tr>	<td>[A](#A) 马列主义</td><td>B 哲学、宗教</td><td>C 社会科学总论</td><td>D 政治、法律</td> </tr>
-<tr>	<td></td>	<td>E 军事</td>	<td>F 经济</td>	<td>G 文化科学教育体育</td>	</tr>
-<tr>	<td>H 语言、文字</td>	<td>I 文学</td>	<td>J 艺术</td>	<td>K 历史、地理</td>	</tr>
-<tr>	<td></td><td>[Library 图书馆](#L)</td>	<td>Museum 博物馆</td>	<td>N 自然科学总论</td>	</tr>
-<tr>	<td>O 数理化科学</td><td>P 天文学地球科学　</td>	<td>Q 生物科学</td><td></td>	</tr>
-<tr>	<td></td>	<td>[R 医药、卫生](#R)</td><td>S 农业科学</td>	<td>T 工业科学</td>	</tr>
-<tr>	<td>U 交通运输</td>	<td>V 航空、航天</td>	<td>WWW [万维网]</td>	<td></td></tr>
-<tr>	<td></td>	<td>X 环境、安全科学</td><td>Y [云中漫步]</td>	<td>Z 综合性图书</td></tr>
+<tr>	<td><a href='#A'>A 马列主义</a></td>	<td><a href='#B'>B 哲学、宗教</a></td>
+	<td><a href='#C'>C 社会科学总论</a></td>	<td><a href='#D'>D 政治、法律</a></td> </tr>
+<tr>	<td></td>		<td><a href='#E'>E 军事</a></td>
+	<td><a href='#F'>F 经济</a></td>		<td><a href='#G'>G 文化科学教育体育</a></td>	</tr>
+<tr>	<td><a href='#H'>H 语言、文字</a></td>	<td><a href='#I'>I 文学</a></td>
+	<td><a href='#J'>J 艺术</a></td>		<td><a href='#K'>K 历史、地理</a></td>	</tr>
+<tr>	<td></td>		<td><a href='#L'>Library 图书馆</a></td>
+	<td><a href='#M'>Museum 博物馆</a></td>	<td><a href='#N'>N 自然科学总论</a></td>	</tr>
+<tr>	<td><a href='#O'>O 数理化科学</a></td>	<td><a href='#P'>P 天文学地球科学　</a></td>
+	<td><a href='#Q'>Q 生物科学</a></td><td></td>	</tr>
+<tr>	<td></td>		<td><a href='#R'>R 医药、卫生</a></td>
+	<td><a href='#S'>S 农业科学</a></td>	<td><a href='#T'>T 工业科学</a></td>	</tr>
+<tr>	<td><a href='#U'>U 交通运输</a></td>	<td><a href='#V'>V 航空、航天</a></td>
+	<td><a href='#W'>WWW [万维网]</a></td>	<td></td></tr>
+<tr>	<td></td>		<td><a href='#X'>X 环境、安全科学</a></td>
+	<td><a href='#Y'>Y [云中漫步]</a></td>	<td><a href='#Z'>Z 综合性图书</a></td></tr>
 </tbody>
 </table>
 
-	注：字母LMYW为中图法预留，老生云图启用。
+	注：字母LMWY为中图法预留分类，老生云图启用。
 
 
 <h3 id='A'>A 马克思主义、列宁主义</h3>
@@ -393,7 +401,7 @@ Z8 图书报刊目录、文摘、索引⠀
 
 	老生云图© 2019-2022	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-原署名-非演绎-非营利  
-	网址库 Beta v0.2.3	20221101
+	网址库 Beta v0.2.4	20221101
 
 <a title="返回老生常谈首页" href=".." target="_self">&lt;&lt;返回上一级</a>  
 点击二维码<a title="返回老生常谈首页" href="https://Laosheng.top" >  
