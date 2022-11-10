@@ -1,8 +1,8 @@
-老生常谈 > [一带一路](../ydyl.txt){:target="_top"}_🌞<base target="_blank">
+老生常谈 > [一带一路](./dir){:target="_top"}_🌞<base target="_blank">
 
 世界国别代码表 🗺
-=================
-大萌 202209
+================
+大萌 2022
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
@@ -22,7 +22,7 @@
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
-8 <a href="#8" target="_top">必应地图与代码说明</a>　<sub> 收录进度…</sub><br>
+8 <a href="#8" target="_top">必应地图与代码说明</a>　<sub>世界地图</sub><br>
 9 <a href="#9" target="_top">一带一路官方连接</a>　<sub>发改委、商务部…</sub>  
 
 
@@ -315,7 +315,7 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 
-<h2 id="9" title="世界地图与各种代码的来源">必应地图与代码说明</h2>
+<h2 id="8" title="世界地图与各种代码的来源">必应地图与代码说明</h2>
 
 　　[ISO](https://www.iso.org/popular-standards.html)是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
@@ -337,26 +337,6 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 *	⚜️/🏵/🔱/🛡/🏛/🏞　
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧/🇪🇺/🇺🇸	英国/欧盟/美国
-
-全球地图
---------
-　　天地图
-<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
-<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
-d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
-d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>、
-<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
-#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
-#Waze、
-<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
-
-**代理地图**  
-　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
- 	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
-
-
-<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 
 <h2 id="9" title="中国政府倡导一带一路发展路线图">一带一路官方链接</h2>
@@ -401,7 +381,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.5.5	202209
+	世界国别代码表	v0.5.6	202211
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
