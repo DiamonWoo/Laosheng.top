@@ -87,7 +87,7 @@
 
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	https://Laosheng.top 	v3.4 20221025
+	https://Laosheng.top 	v3.4 202211
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
