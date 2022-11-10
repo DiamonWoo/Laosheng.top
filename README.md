@@ -10,7 +10,7 @@
   + /falv/index2 ……
 
 + /fuwu [【服务系列】](fuwu '有关部门服务网站')　找到有关部门
-  + /fuwu/zhongyang 🕰 [中央有关部门大全](fuwu/zhongyang)，全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
+  + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
   + /fuwu/shengdi 省地市〈城市环境有关部门〉[](fuwu/shengdi)，联系群众新渠道，观察城市新面貌。前期调研中……
   + /fuwu/qianxian〈[中国千县地名图](fuwu/qianxian)〉📑，全国2841个县/区/旗，区划代码与政府网站。2021年最新数据！
   + ……
@@ -27,8 +27,8 @@
   + /ydyl/nation [世界国别代码表](ydyl/nations)🗺：国别指南、ISO代码、政府网址……测试中
   + ……
 
-+ 工具页面
-  + /index2 🌏 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。🚩
++ 【工具页面】
+  + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
   + /c/timing 提名网站和落榜记 [>>>>](c/timing.txt)
   + [从地名图学习SQLite数据库](fuwu/diming4SQLite)，待更新……
   + «发现软件之海»培训课程，规划中……
@@ -37,6 +37,9 @@
   + /Lab/[LSIP](Lab/LSIP)，大规模集成网页，集成超过1000个超链接的网页。
   + /Lab/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重
   + /Lab/dimingku 　 中国千县地名库、世界国别代码表，待发布……
+
+
+		本站会在严格遵守知识产权法律方面做出表率。
 
 
 导游词
@@ -56,22 +59,19 @@
 
 在浏览器内访问本站 ，体验更佳，网址：[Laosheng.top](https://laosheng.top '老生常谈')。<img src="./indexQR-Blue.png" align="left"> 手机用户通过浏览器扫描网址二维码，可直接访问本站。 
 
-在微信内‘扫一扫’可能会弹出‘非微信官方网页…’的提示，请点‘<font color="green"><b>继续访问</b></font>’。
+在微信内“扫一扫”可能会弹出“非微信官方网页…”的提示，请点“<font color="green"><b>继续访问</b></font>”。
 
 另外选取了几个页面制作<a title='解决低版本微信无法转发问题' href='https://diamonwoo.github.io/wx'>镜像页</a>，方便微信读者转发。
 
 “排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](author/helpweb.txt "老生常谈站点的浏览帮助")
 
 
-		本站会在严格遵守知识产权法律方面做出表率。
-
-
 法律支持
 -------
 
-　　**《中华人民共和国宪法》**第四十七条
+　　**《中华人民共和国宪法》**第二章
 
-	中华人民共和国公民有进行科学研究、文学艺术创作和其他文化活动的自由。
+	第四十七条　中华人民共和国公民有进行科学研究、文学艺术创作和其他文化活动的自由。
 	国家对于从事教育、科学、技术、文学、艺术和其他文化事业的公民的有益于人民的创造性工作，给以鼓励和帮助。
 
 
@@ -87,7 +87,7 @@
 
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	https://Laosheng.top v3.3 20221025
+	https://Laosheng.top 	v3.3 20221025
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
