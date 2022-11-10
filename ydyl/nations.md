@@ -22,25 +22,9 @@
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
-<a href="#代码说明" target="_top">8 代码说明</a>　<sub> 收录进度…</sub><br>
-<a href="#鸣谢" target="_top">9 一带一路官方连接</a>　<sub>发改委、商务部…</sub>  
+8 <a href="#8" target="_top">必应地图与代码说明</a>　<sub> 收录进度…</sub><br>
+9 <a href="#9" target="_top">一带一路官方连接</a>　<sub>发改委、商务部…</sub>  
 
-全球地图
---------
-　　天地图
-<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
-<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
-d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
-d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>、
-<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
-#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
-#Waze、
-<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
-
-**代理地图**  
-　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
- 	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 图例
 ----
@@ -327,21 +311,55 @@ HM⠀　⠀	<small>	赫麦群岛 (澳大利亚)⠀HIMI	</small>	⠀-	⠀00672	�
 GS⠀　⠀	<small>	乔桑群岛 (英国)⠀SGSSI	</small>	⠀-	⠀00500	⠀-	  
 TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	⠀-	⠀00262	⠀-	  
 
+
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
-测试段落
----------
-ISO⠀UN⠀[<big>南极洲</big>](概况页)⠀[name](gov)⠀首都[⚜️](# "中国大使馆")⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀[布韦岛](概况页)⠀[name](gov)⠀首都[🔱️]("驻华使馆")⠀外交部⠀[法定货币](bing)  
-ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府")⠀外交部⠀[法定货币](bing)</small>  
+
+<h2 id="9" title="世界地图与各种代码的来源">必应地图与代码说明</h2>
+
+　　[ISO](https://www.iso.org/popular-standards.html)是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
+
+　　由于ISO的工作语言(en/fr/ru)不包括中文😐，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制🤔，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)没有提供全文下载。
+
+　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
+
+<table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
+<caption>
+	微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rwnddjhvkvhn&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
+</caption>	<!-- 查看放大的地图 -->
+<tbody><tr><td >
+	<iframe width="500" height="400" frameborder="0" 
+	src="https://cn.bing.com/maps/embed?h=400&w=500&cp=rwnddjhvkvhn&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+	</iframe><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
+</td></tr></tbody>
+</table>
 
 *	⚜️/🏵/🔱/🛡/🏛/🏞　
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧/🇪🇺/🇺🇸	英国/欧盟/美国
 
+全球地图
+--------
+　　天地图
+<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
+<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
+d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
+<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
+d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>、
+<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
+#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
+#Waze、
+<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
 
-一带一路官方链接
-----------------
+**代理地图**  
+　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
+ 	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
+
+
+<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
+
+
+<h2 id="9" title="中国政府倡导一带一路发展路线图">一带一路官方链接</h2>
 
 　　全球已有 <a title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’，本页已全部收录；
 	亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
@@ -358,15 +376,6 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 海关总署（<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
 <!-- <a title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）-->
 更多<a title="有关部门服务大全" href="../fuwu">有关部门</a>
-
-
-代码说明
---------
-　　[ISO](https://www.iso.org/popular-standards.html)是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
-
-　　由于ISO的工作语言(en/fr/ru)不包括中文😐，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制🤔，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)没有提供全文下载。
-
-　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
 
 
 鸣谢
@@ -392,7 +401,7 @@ ISO⠀UN⠀<small>[文莱](概况页)⠀[name](gov)⠀首都[🏛️](# "政府"
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.5.4	202209
+	世界国别代码表	v0.5.5	202209
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
