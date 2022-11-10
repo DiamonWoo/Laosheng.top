@@ -15,13 +15,13 @@
   + /fuwu/qianxian〈[中国千县地名图](fuwu/qianxian)〉📑，全国2841个县/区/旗，区划代码与政府网站。2021年最新数据！
   + ……
 
-+ /fly.txt [【云媒体系列】](fly.txt '云媒体系列') 找到有源新闻
++ /fly/dir [【云媒体系列】](fly/dir '云媒体系列') 找到有源新闻
   + /fly/index　[中国新闻云媒体](fly){:target="_blank"} ☁，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
     + /fly/index2 [云媒体第二页](fly/index2.html) 📜️：教育台与科技报、县区级报纸与电视、图例与帮助。
   + /fly/waixuan [中央外宣云媒体](fly/waixuan )🔥 ：解放军微博阵列、China Daily、环球时报、中国外文局，十大世界语言、明星微博粉丝榜
   + ……
 
-+ /ydyl.txt　[【一带一路系列】](ydyl.txt '一带一路民间站')　找到全世界　🚄🚃☁🚃☁……
++ /ydyl/dir　[【一带一路系列】](ydyl/dir '一带一路民间站')　找到全世界　🚄🚃☁🚃☁……
   + /ydyl/index [一带一路云媒体](ydyl){:target="_blank"}🌞 与有关国家 ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国概况、驻华使馆、政府官网、国别域名。
   + /ydyl/union [联合国有关部门](ydyl/united )🇺🇳：主要国际组织、世界竞赛与奖项。
   + /ydyl/nation [世界国别代码表](ydyl/nations)🗺：国别指南、ISO代码、政府网址……测试中
@@ -87,7 +87,7 @@
 
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	https://Laosheng.top 	v3.3 20221025
+	https://Laosheng.top 	v3.4 20221025
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
