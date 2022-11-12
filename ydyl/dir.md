@@ -14,7 +14,7 @@
 
   + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞 _　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
 
-  + 人类命运共同体⭕……（规划中）
+  + 人类命运共同体⭕……（规划中）　‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
 
 
 一带一路外交动态 🌞 Diplomatic Dynamics
@@ -32,6 +32,8 @@
 	2022-01-01 　RCEP 生效！
 
 　　2022年北京冬奥会 参赛代表团(NOC) 91个， 其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。
+
+　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
 
 
 一带一路常用英文缩写
@@ -82,17 +84,10 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
  	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
-导游词
-------
-
-+ ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
-+ 北京冬奥会开幕式上入场运动员的准确人数是多少？
-
-
 ```
 	老生常谈 © 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
-	一带一路民间站 v2.9.5	Laosheng.top/ydyl/dir
+	一带一路民间站 v2.9.6	Laosheng.top/ydyl/dir
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
