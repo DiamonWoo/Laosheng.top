@@ -10,9 +10,9 @@
 
   + /ydyl/united　[联合国有关部门](united)🇺🇳：主要国际组织，联合国机关与系统、世界竞赛与奖项。
 
-  + /ydyl/nations　[世界国别代码表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号。测试中
+  + /ydyl/nations　[世界国别代码表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。测试中
 
-  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞 _　丝绸之路的有关国家的：报纸/电视/通讯社；　收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。
+  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞 _　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
 
   + 人类命运共同体⭕……（规划中）
 
@@ -46,6 +46,23 @@
 　　数字报：……
 
 
+免费翻译网站
+------------
+<!-- <h3>4.1 更好的翻译工具 🎧</h3> -->
+
+谷歌翻译
+	#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、<small>
+	<a title="曾经和谷歌联手的金山词霸" href="https://www.iciba.com/fy">爱词霸</a>、
+	<a title="看看效果" href="https://cn.bing.com/translator">微软翻译</a></small>、
+	<a title="网址可确定语言种类" href="https://fanyi.baidu.com">百度翻译</a>、
+	<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、<small>
+	<a title="提供人工付费服务" href="http://fanyi.youdao.com">网易有道</a>、
+	<a title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、
+	<a title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>
+	</small>、
+	<a title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>
+
+
 免费地图网站
 ------------
 
@@ -65,23 +82,6 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
  	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
-免费翻译网站
-------------
-<!-- <h3>4.1 更好的翻译工具 🎧</h3> -->
-
-谷歌翻译
-	#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、<small>
-	<a title="曾经和谷歌联手的金山词霸" href="https://www.iciba.com/fy">爱词霸</a>、
-	<a title="看看效果" href="https://cn.bing.com/translator">微软翻译</a></small>、
-	<a title="网址可确定语言种类" href="https://fanyi.baidu.com">百度翻译</a>、
-	<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、<small>
-	<a title="提供人工付费服务" href="http://fanyi.youdao.com">网易有道</a>、
-	<a title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、
-	<a title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>
-	</small>、
-	<a title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>
-
-
 导游词
 ------
 
@@ -92,7 +92,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 ```
 	老生常谈 © 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
-	一带一路民间站 v2.9.4	Laosheng.top/ydyl/dir
+	一带一路民间站 v2.9.5	Laosheng.top/ydyl/dir
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
