@@ -8,12 +8,11 @@
 
 【一带一路系列】网页　找到全世界  
 
-  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞　收录在【一带一路系列】_  
-　丝绸之路的有关国家和媒体，报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。_
-
   + /ydyl/united　[联合国有关部门](united)🇺🇳：主要国际组织，联合国机关与系统、世界竞赛与奖项。
 
-  + /ydyl/nations　[世界国别代码表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号，筹建中。
+  + /ydyl/nations　[世界国别代码表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号。测试中
+
+  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞 _　丝绸之路的有关国家的：报纸/电视/通讯社；　收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。
 
   + 人类命运共同体⭕……（规划中）
 
@@ -22,7 +21,8 @@
 --------------------------------------
 
 	2022-11-04 　中国进口博览会开幕
-	2022-10/11 　越共书记阮富仲、巴基斯坦总理夏巴兹、德国总理朔尔茨率团来华访问。
+	2022-10/11 　越共书记阮富仲、巴基斯坦总理夏巴兹、德国总理朔尔茨先后率团来华访问。
+	2022-09 　 　习近平主席出访哈萨克斯坦、乌兹别克斯坦，出席上合组织元首理事会。
 	2022-03-23 　中国同马拉维(非洲东南部，ISO代码MW)签订一带一路谅解备忘录，签约国增至149。
 	2022-02-14 　中国同墨西哥建交50周年，互致贺电。
 	2022-02-07 　中国同阿根廷深化全面战略合作伙伴关系，发表联合声明，签约国增至148。
@@ -41,14 +41,13 @@
 　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系<br>
 　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）<br>
 
-**云媒体常用外语词汇**
+**云媒体常用外语词汇**  
 　　电视直播：  
 　　数字报：……
 
 
-翻译网站 与 地图网站
--------------------
-<!-- <h3>4.1 更好的翻译工具 🎧</h3> -->
+免费地图网站
+------------
 
 　　天地图
 <a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
@@ -66,6 +65,23 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
  	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
+免费翻译网站
+------------
+<!-- <h3>4.1 更好的翻译工具 🎧</h3> -->
+
+谷歌翻译
+	#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、<small>
+	<a title="曾经和谷歌联手的金山词霸" href="https://www.iciba.com/fy">爱词霸</a>、
+	<a title="看看效果" href="https://cn.bing.com/translator">微软翻译</a></small>、
+	<a title="网址可确定语言种类" href="https://fanyi.baidu.com">百度翻译</a>、
+	<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、<small>
+	<a title="提供人工付费服务" href="http://fanyi.youdao.com">网易有道</a>、
+	<a title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、
+	<a title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>
+	</small>、
+	<a title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>
+
+
 导游词
 ------
 
@@ -74,9 +90,9 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 
 
 ```
-	老生常谈© 2019~2022 大萌 创作共用3.0
-	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	一带一路 v2.9.3	Laosheng.top/ydyl/dir
+	老生常谈 © 2019~2022 大萌 创作共用3.0
+	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
+	一带一路民间站 v2.9.4	Laosheng.top/ydyl/dir
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
