@@ -14,8 +14,9 @@
 	+ 医疗保障有关部门：卫健委、社保局、中国红十字会……调研中
 +	〈[中国千县地名图](qianxian)〉📑：近三千个县城的区划代码、政府网址，已全部完成。
 -	《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【法律系列】
++	联合国有关部门，收录在本站【[一带一路系列](../ydyl/dir)】。
+
 +	衍生项目 cqcc «[服务网站查缺查错](https://diamonwoo.github.io/cqcc)»，收录各服务网站的缺少和错误
-+	联合国有关部门，收录在本站【[一带一路系列](../ydyl/union.html)】。
 
 
 特别制作
@@ -48,7 +49,7 @@
 ---------------
 　　我国行政区划由民政部编订六位数的区划代码，例如，北京市为110000，深圳市为440300。本站收录其中‘县以上行政区划代码’，具体来源如下：
 
-*	民政部[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/)栏目
+* 民政部[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/)栏目
   *	[民政部2020年12月底数据](http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html)
   *	[民政部2021年的变更数据](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)
 
@@ -75,22 +76,17 @@
 
 *	民政部《[行政区划图](http://xzqh.mca.gov.cn/map){:target="_blank"}》_
 
-*	《中国地名大会》[第一季](http://tv.cctv.com/special/zgdmdh/)、[第二季](https://tv.cctv.com/2021/01/19/VIDAzHOc3JMqJJ7ASz0iU0Ks210119.shtml)
-　　《中国地名大会》是中央电视台原创的‘中国大会’系列节目之一，在CCTV-4中文国际(亚洲)频道首播，已经完成第二季。从2013年《中国汉字听写大会》开始，央视开始了一系列的自主原创大型文化季播节目，陆续推出：《中国谜语大会》《中国成语大会》《中国诗词大会》《中国国宝大会》，都取得了非常好的收视成绩，正在进行的还有《中国考古大会》、《[2022中国诗词大会](https://tv.cctv.com/special/2022zgscdh)》。 
+*	自然资源部 <a title="国家地理信息公共服务平台，另有传统版" href="https://map.tianditu.gov.cn" target="_blank">天地图</a>高清版%
 
-*	<a title="国家地理信息公共服务平台，另有传统版" href="https://map.tianditu.gov.cn" target="_blank">天地图</a>高清版%
-
-*	<a href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>
-*	d<a title="网址定位经纬度？" href="https://map.baidu.com/@12340000,4001000,6z" target="_blank">百度地图</a>+街景
-*	<a title="地球在线，包含谷歌地图的卫星地图" href="https://www.earthol.com" target="_blank">地球在线</a>卫星图
-……
+*	《中国地名大会》[第一季](http://tv.cctv.com/special/zgdmdh/)、[第二季](https://tv.cctv.com/2021/01/19/VIDAzHOc3JMqJJ7ASz0iU0Ks210119.shtml)  
+　　《中国地名大会》是中央电视台原创的‘中国大会’系列节目之一，在CCTV-4中文国际(亚洲)频道首播，已经完成第二季。从2013年《中国汉字听写大会》开始，央视开始了一系列的自主原创大型文化季播节目，陆续推出：《中国谜语大会》《中国成语大会》《中国诗词大会》《中国国宝大会》，都取得了非常好的收视成绩，正在进行的还有《中国考古大会》、《[2022中国诗词大会](https://tv.cctv.com/special/2022zgscdh)》。
 
 　　网站建设中，欢迎大家[提意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn )！
 
 ```
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-需署名-非衍生-非营利
-	有关部门服务大全 v1.3.2	Laosheng.top/fuwu
+	有关部门服务网 v1.3.3	Laosheng.top/fuwu
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
