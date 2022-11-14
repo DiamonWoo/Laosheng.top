@@ -2,17 +2,17 @@
 
 大萌法律读本2<sub>常用法</sub>
 ----------------------------
-大萌 © 2021 0922
+大萌 © 2021-2022
 
 　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见[大萌望海楼](./)介绍。  
-　　第2页收录八大法之外的常用法律：治安管理处罚法……。
+　　第2页收录八大法之外的常用法律：治安管理处罚法、传染病防治法、噪声污染防治法……。
 
 
 2012-治安管理处罚法
 ------------------
 
 　　公布网址： 国务院[2005年主席令](http://www.gov.cn/ziliao/flfg/2005-08/29/content_27130.htm)  
-　　　　　　　[2012年修改内容](http://www.npc.gov.cn/npc/c12488/201210/348751bffb97490fa9a98daddf54fda4.shtml)
+　　　　　　　[2012年修改内容](http://www.npc.gov.cn/npc/c12488/201210/348751bffb97490fa9a98daddf54fda4.shtml)  
 　　最初版本：20050828  
 　　最近版本：20121026	版次：2
 
@@ -35,7 +35,7 @@
 
 　　公布网址： [中国人大网](http://www.npc.gov.cn/npc/c238/202001/099a493d03774811b058f0f0ece38078.shtml)  
 　　　　　　　[国家卫健委](https://zwfw.nhc.gov.cn/kzx/zcfg/qt_247/201306/t20130629_1370.html)  
-　　最初版本：19890221
+　　最初版本：19890221  
 　　最近版本：20130629	版次：3
 
 	第一章　总则
@@ -77,17 +77,14 @@
 +	epub格式下载：[]() 
 
 
-参考资料
---------
-* [中国人大网 资料库](http://www.npc.gov.cn/npc/zlk/list.shtml) 学习法律的参考书。
-* 吉林省法学会 提供的[法律大全](http://www.jlfxhw.com/fldqmenu.jhtml) ，其网站由[长春易申康永](http://www.jlssp.com.cn/qyzy/enterprise/55.html)科技有限公司提供技术支持。
+　　法律读本收录中，欢迎给大萌[提出意见](https://xoyondo.com/mb/JyVSHzf5y4nuVRi)
 
 
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
 	大萌法律读本 2 	202211
-	v0.5.3 　	Laosheng.top/falv/duben2
+	v0.5.4 　	Laosheng.top/falv/duben2
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
