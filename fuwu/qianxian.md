@@ -2,7 +2,7 @@
 
 中国千县地名图 📑
 =================
-大萌	2021~2022
+大萌	2021-2022
 
 		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
 
@@ -38,7 +38,7 @@
 <a href="#51" target="_top">51-四川</a>　
 <a href="#52" target="_top">52-贵州</a>　
 <a href="#53" target="_top">53-云南</a>　
-<a href="#54" target="_top">54-西藏</a>　藏
+<a href="#54" target="_top">54-西藏</a> 藏　
 <a href="#61" target="_top">61-陕西</a>　
 <a href="#62" target="_top">62-甘肃</a>　
 <a href="#63" target="_top">63-青海</a>　
@@ -48,18 +48,22 @@
 <a href="#71" target="_top">71-台湾</a>　
 <a href="#81" target="_top">81-香港</a>　
 <a href="#82" target="_top">82-澳门</a>　
-91-国外入籍身份证号
+91-国外入籍身份证号　
+<a href="#2021" target="_top">2021-行政区划变更</a>
 
 
-*	注1：部分政府网址收录的是其地方介绍页，或者网站地图页。
-	例如：北京市 110111 房山区。
-*	注2：地名F 表示该城市的行政级别为副省级，但其行政区划仍然是地市级。
+图例
+----
+
+*	城市F： 表示该城市的行政级别为副省级，但其行政区划仍然是地市级。
 	例如：天津市滨海新区F。
-*	注3：少数地名有批注，鼠标悬停可见，正在逐步添加。
-	例如：河北省 130109 藁城区 批注‘藁 gǎo，草本植物名’。
+*	d地图： 表示该地图链接限制在桌面模式下阅读(desktop)。
+	例如：6590　兵团　d天地图分享链。
+*	♾ ： 表示该地区固定电话号码为8位数，未标记的地区为7位数。
+	如：津　022 ♾ 表示外地拨打天津市的固定电话号码为 022后接8位数字。
 
 
-<h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　010<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
+<h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　010 ♾<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
 110101 [东城区](http://www.bjdch.gov.cn/n4659/ )⠀
 110102 [西城区](http://www.bjxch.gov.cn/rwxc.html )⠀
 110105 [朝阳区](http://www.bjchy.gov.cn/chaoyang/ '北京朝阳,长春市有同名区')⠀
@@ -77,7 +81,7 @@
 110118 [密云区](http://www.bjmy.gov.cn )⠀
 110119 [延庆区](http://www.bjyq.gov.cn )⠀
 
-<h3 id="12">12 <a href="http://www.tj.gov.cn/sq/" title="120000 设16个区">天津市</a>　津　022<sub>　<a href="https://ghhzrzy.tj.gov.cn/bsfw_143/bzdt/202012/W020201205758547583225.jpg">标准地图</a></sub></h3>
+<h3 id="12">12 <a href="http://www.tj.gov.cn/sq/" title="120000 设16个区">天津市</a>　津　022 ♾<sub>　<a href="https://ghhzrzy.tj.gov.cn/bsfw_143/bzdt/202012/W020201205758547583225.jpg">标准地图</a></sub></h3>
 120101 [和平区](http://www.tjhp.gov.cn '天津和平,沈阳市有同名区')⠀
 120102 [河东区](http://www.tjhd.gov.cn '天津河东,临沂市有同名区')⠀
 120103 [河西区](http://www.tjhx.gov.cn )⠀
@@ -91,14 +95,14 @@
 120114 [武清区](http://www.tjwq.gov.cn )⠀
 120115 [宝坻区](http://www.tjbd.gov.cn )⠀
 
-120116 <b>[滨海新区](http://www.tjbh.gov.cn/channels/13871.html '国家综合配套改革试验区')</b>F⠀津　022　  
+120116 <b>[滨海新区](http://www.tjbh.gov.cn/channels/13871.html '国家综合配套改革试验区')</b>F⠀津　　  
 120117 [宁河区](http://www.tjnh.gov.cn )⠀
 120118 [静海区](http://www.tjjh.gov.cn )⠀
 120119 [蓟州区](http://www.tjjz.gov.cn )⠀
 
-<h3 id="13">13 <a href="http://www.hebei.gov.cn/hebei/14462058/14462085/" title="130000 ">河北省</a>　冀<sub>　<a href="https://map.baidu.com/search/河北省/@?querytype=s&wd=河北地图">baidu地图搜索</a></sub></h3>
+<h3 id="13">13 <a href="http://www.hebei.gov.cn/hebei/14462058/14462085/" title="130000 雄安新区为河北省管辖的国家级新区">河北省</a>　冀<sub>　<a href="https://map.baidu.com/search/河北省/@?querytype=s&wd=河北地图">baidu地图搜索</a></sub></h3>
 
-130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/index.html )</b>　冀A　0311　  
+130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/index.html )</b>　冀A　0311 ♾　  
 130102 [长安区](http://www.sjzca.gov.cn '石家庄长安,西安市有同名区')⠀
 130104 [桥西区](http://www.sjzqx.gov.cn '石家庄桥西,张家口市有同名区')⠀
 130105 [新华区](http://www.xhqsjz.gov.cn '新华区石家庄，有同名区3个')⠀
@@ -187,7 +191,7 @@
 130581 [南宫市](http://www.nangong.gov.cn )⠀
 130582 [沙河市](http://www.shaheshi.gov.cn )⠀
 
-130600 <b>[保定市](http://www.baoding.gov.cn )</b>　冀F　0312　  
+130600 <b>[保定市](http://www.baoding.gov.cn '雄安新区设在保定市')</b>　冀F　0312　  
 130602 [竞秀区](http://www.jingxiu.gov.cn )⠀
 130606 [莲池区](http://www.ilc.gov.cn )⠀
 130607 [满城区](http://www.mancheng.gov.cn )⠀
@@ -198,16 +202,16 @@
 130626 [定兴县](http://www.dingxing.gov.cn )⠀
 130627 [唐县](http://www.tangxian.gov.cn )⠀
 130628 [高阳县](http://www.gaoyang.gov.cn )⠀
-130629 [容城县](https://www.hbrc.gov.cn )⠀
+130629 [容城县](https://www.hbrc.gov.cn '雄安新区')⠀
 130630 [涞源县](http://www.laiyuan.gov.cn )⠀
 130631 [望都县](http://www.wangdu.gov.cn )⠀
-130632 [安新县](http://www.baiyangdian.gov.cn )⠀
+130632 [安新县](http://www.baiyangdian.gov.cn '雄安新区')⠀
 130633 [易县](http://www.bdyixian.gov.cn )⠀
 130634 [曲阳县](http://www.quyang.gov.cn )⠀
 130635 [蠡县](http://www.lixian.gov.cn )⠀
 130636 [顺平县](http://www.shunping.gov.cn )⠀
 130637 [博野县](http://www.boye.gov.cn )⠀
-130638 [雄县](http://www.xiongxian.gov.cn )⠀
+130638 [雄县](http://www.xiongxian.gov.cn '雄安新区')⠀
 130681 [涿州市](http://www.zhuozhou.gov.cn )⠀
 130682 [定州市](http://www.dzs.gov.cn )⠀
 130683 [安国市](http://www.anguo.gov.cn )⠀
@@ -559,7 +563,7 @@
 
 <h3 id="21">21 <a href="http://www.ln.gov.cn" title="210000 ">辽宁省</a>　辽<sub>　<a href="https://map.baidu.com/search/辽宁省/@?querytype=s&wd=辽宁地图">baidu地图搜索</a></sub></h3>
 
-210100 <b>[沈阳市](http://www.shenyang.gov.cn )</b>F⠀辽A　024　  
+210100 <b>[沈阳市](http://www.shenyang.gov.cn )</b>F⠀辽A　024 ♾　  
 210102 [和平区](http://www.syhp.gov.cn '有同名区')⠀
 210103 [沈河区](http://www.shenhe.gov.cn )⠀
 210104 [大东区](http://www.sydd.gov.cn )⠀
@@ -574,7 +578,7 @@
 210124 [法库县](http://www.faku.gov.cn )⠀
 210181 [新民市](http://www.xinmin.gov.cn )⠀
 
-210200 <b>[大连市](http://www.dl.gov.cn )</b>F⠀辽B　0411　  
+210200 <b>[大连市](http://www.dl.gov.cn )</b>F⠀辽B　0411 ♾　  
 210202 [中山区](http://www.dlzs.gov.cn )⠀
 210203 [西岗区](http://www.dlxg.gov.cn )⠀
 210204 [沙河口区](http://www.dlshk.gov.cn )⠀
@@ -595,7 +599,7 @@
 210323 [岫岩满族自治县](http://www.xiuyan.gov.cn '岫 xiù，有穴的山')⠀
 210381 [海城市](http://www.haicheng.gov.cn )⠀
 
-210400 <b>[抚顺市](http://www.fushun.gov.cn )</b>　辽D　024　  
+210400 <b>[抚顺市](http://www.fushun.gov.cn )</b>　辽D　024 ♾　  
 210402 [新抚区](http://www.fsxf.gov.cn )⠀
 210403 [东洲区](http://www.fsdz.gov.cn )⠀
 210404 [望花区](http://www.fswh.gov.cn )⠀
@@ -604,7 +608,7 @@
 210422 [新宾满族自治县](http://www.xinbin.gov.cn )⠀
 210423 [清原满族自治县](http://www.qingyuan.gov.cn )⠀
 
-210500 <b>[本溪市](http://www.benxi.gov.cn/sq )</b>　辽E　024　  
+210500 <b>[本溪市](http://www.benxi.gov.cn/sq )</b>　辽E　024 ♾　  
 210502 [平山区](http://www.pingshan.gov.cn )⠀
 210503 [溪湖区](https://xh.benxi.gov.cn/bnxh '曾经网站速度极慢')⠀
 210504 [明山区](http://www.mingshan.gov.cn/zjms )⠀
@@ -661,7 +665,7 @@
 211104 [大洼区](http://www.dawa.gov.cn )⠀
 211122 [盘山县](http://www.panshan.gov.cn )⠀
 
-211200 <b>[铁岭市](http://www.tieling.gov.cn )</b>　辽M　024　  
+211200 <b>[铁岭市](http://www.tieling.gov.cn )</b>　辽M　024 ♾　  
 211202 [银州区](http://www.tlyz.gov.cn )⠀
 211204 [清河区](http://www.tlqh.gov.cn )⠀
 211221 [铁岭县](http://www.tielingxian.gov.cn )⠀
@@ -689,7 +693,7 @@
 
 <h3 id="22">22 <a href="http://www.jl.gov.cn" title="220000 ">吉林省</a>　吉<sub>　<a href="https://map.baidu.com/search/吉林省/@?querytype=s&wd=吉林地图">baidu地图搜索</a></sub></h3>
 
-220100 <b>[长春市](http://www.changchun.gov.cn )</b>F⠀吉A　0431　  
+220100 <b>[长春市](http://www.changchun.gov.cn )</b>F⠀吉A　0431 ♾　  
 220102 [南关区](http://www.nanguan.gov.cn )⠀
 220103 [宽城区](http://www.jckc.gov.cn )⠀
 220104 [朝阳区](http://www.ccchaoyang.gov.cn '有同名区')⠀
@@ -702,7 +706,7 @@
 220183 [德惠市](http://www.dehui.gov.cn )⠀
 220184 [公主岭市](http://www.gongzhuling.gov.cn )⠀
 
-220200 <b>[吉林市](http://www.jlcity.gov.cn )</b>　吉B　0432　  
+220200 <b>[吉林市](http://www.jlcity.gov.cn )</b>　吉B　0432 ♾　  
 220202 [昌邑区](http://www.jlscy.gov.cn )⠀
 220203 [龙潭区](http://www.longtan.gov.cn )⠀
 220204 [船营区](http://www.jlcy.gov.cn )⠀
@@ -769,7 +773,7 @@
 
 <h3 id="23">23 <a href="http://www.hlj.gov.cn" title="230000 ">黑龙江省</a>　黑<sub>　<a href="https://map.baidu.com/search/黑龙江省/@?querytype=s&wd=黑龙江地图">baidu地图搜索</a></sub></h3>
 
-230100 <b>[哈尔滨市](http://www.harbin.gov.cn )</b>F⠀黑A　0451　  
+230100 <b>[哈尔滨市](http://www.harbin.gov.cn )</b>F⠀黑A　0451 ♾　  
 230102 [道里区](http://www.hrbdl.gov.cn )⠀
 230103 [南岗区](http://www.hrbng.gov.cn )⠀
 230104 [道外区](http://www.hrbdw.gov.cn )⠀
@@ -916,7 +920,7 @@
 232721 [呼玛县](http://www.huma.gov.cn )⠀
 232722 [塔河县](http://www.dxalth.gov.cn )⠀
 
-<h3 id="31">31 <a href="http://www.shanghai.gov.cn/nw2318/" title="310000 设16个区">上海市</a>　沪　021<sub>　<a href="http://shanghai.tianditu.gov.cn/map/data/standardMap/上海市标准地图/5-上海市政区简图（有邻省）.jpg">标准地图</a></sub></h3>
+<h3 id="31">31 <a href="http://www.shanghai.gov.cn/nw2318/" title="310000 设16个区">上海市</a>　沪　021 ♾<sub>　<a href="http://shanghai.tianditu.gov.cn/map/data/standardMap/上海市标准地图/5-上海市政区简图（有邻省）.jpg">标准地图</a></sub></h3>
 310101 [黄浦区](http://www.shhuangpu.gov.cn '上海金融法院所在地')⠀
 310104 [徐汇区](http://www.xuhui.gov.cn )⠀
 310105 [长宁区](http://WWW.SHCN.GOV.CN '第一中级法院所在地')⠀
@@ -928,7 +932,7 @@
 310113 [宝山区](http://www.shbsq.gov.cn '有同名区')⠀
 310114 [嘉定区](http://www.jiading.gov.cn )⠀
 
-310115 <b>[浦东新区](https://www.pudong.gov.cn '国家综合配套改革试验区')</b>F⠀沪　021　  
+310115 <b>[浦东新区](https://www.pudong.gov.cn '国家综合配套改革试验区')</b>F⠀沪　　  
 310116 [金山区](https://www.jinshan.gov.cn )⠀
 310117 [松江区](http://www.songjiang.gov.cn )⠀
 310118 [青浦区](http://www.shqp.gov.cn )⠀
@@ -937,7 +941,7 @@
 
 <h3 id="32">32 <a href="http://www.jiangsu.gov.cn/col/col31358/" title="320000 ">江苏省</a>　苏<sub>　<a href="http://jiangsu.tianditu.gov.cn/map/mapjs/share?shareid=320000276421&level=6">天地图省map分享</a></sub></h3>
 
-320100 <b>[南京市](https://www.nanjing.gov.cn )</b>F⠀苏A　025　  
+320100 <b>[南京市](https://www.nanjing.gov.cn )</b>F⠀苏A　025 ♾　  
 320102 [玄武区](http://www.xwzf.gov.cn )⠀
 320104 [秦淮区](http://www.njqh.gov.cn )⠀
 320105 [建邺区](http://www.njjy.gov.cn )⠀
@@ -950,7 +954,7 @@
 320117 [溧水区](http://www.njls.gov.cn '溧 lì水，也称“陵水”')⠀
 320118 [高淳区](http://www.njgc.gov.cn )⠀
 
-320200 <b>[无锡市](http://www.wuxi.gov.cn )</b>　苏B　0510　  
+320200 <b>[无锡市](http://www.wuxi.gov.cn )</b>　苏B　0510 ♾　  
 320205 [锡山区](http://www.jsxishan.gov.cn )⠀
 320206 [惠山区](http://www.huishan.gov.cn )⠀
 320211 [滨湖区](http://www.wxbh.gov.cn )⠀
@@ -959,7 +963,7 @@
 320281 [江阴市](http://www.jiangyin.gov.cn )⠀
 320282 [宜兴市](http://www.yixing.gov.cn )⠀
 
-320300 <b>[徐州市](http://www.xz.gov.cn )</b>　苏C　0516　  
+320300 <b>[徐州市](http://www.xz.gov.cn )</b>　苏C　0516 ♾　  
 320302 [鼓楼区](http://www.xzgl.gov.cn '有同名区')⠀
 320303 [云龙区](http://www.xzyl.gov.cn )⠀
 320305 [贾汪区](http://www.xzjw.gov.cn )⠀
@@ -971,7 +975,7 @@
 320381 [新沂市](http://www.xy.gov.cn )⠀
 320382 [邳州市](http://www.pz.gov.cn '邳 pī')⠀
 
-320400 <b>[常州市](http://www.changzhou.gov.cn )</b>　苏D　0519　  
+320400 <b>[常州市](http://www.changzhou.gov.cn )</b>　苏D　0519 ♾　  
 320402 [天宁区](http://www.cztn.gov.cn )⠀
 320404 [钟楼区](http://www.zhonglou.gov.cn )⠀
 320411 [新北区](http://www.cznd.gov.cn '常州国家高新区')⠀
@@ -979,7 +983,7 @@
 320413 [金坛区](http://www.jintan.gov.cn )⠀
 320481 [溧阳市](http://www.liyang.gov.cn '溧 lì')⠀
 
-320500 <b>[苏州市](http://www.suzhou.gov.cn )</b>　苏E/U　0512　  
+320500 <b>[苏州市](http://www.suzhou.gov.cn )</b>　苏E/U　0512 ♾　  
 320505 [虎丘区](http://www.snd.gov.cn )⠀
 320506 [吴中区](http://www.szwz.gov.cn )⠀
 320507 [相城区](http://www.szxc.gov.cn )⠀
@@ -990,7 +994,7 @@
 320583 [昆山市](http://www.ks.gov.cn )⠀
 320585 [太仓市](http://www.taicang.gov.cn )⠀
 
-320600 <b>[南通市](http://www.nantong.gov.cn )</b>　苏F　0513　  
+320600 <b>[南通市](http://www.nantong.gov.cn )</b>　苏F　0513 ♾　  
 320612 [通州区](http://www.tongzhou.gov.cn '有同名区')⠀
 320613 [崇川区](http://www.chongchuan.gov.cn )⠀
 320614 [海门区](http://www.haimen.gov.cn )⠀
@@ -999,7 +1003,7 @@
 320682 [如皋市](http://www.rugao.gov.cn )⠀
 320685 [海安市](http://www.haian.gov.cn )⠀
 
-320700 <b>[连云港市](http://www.lyg.gov.cn )</b>　苏G　0518　  
+320700 <b>[连云港市](http://www.lyg.gov.cn )</b>　苏G　0518 ♾　  
 320703 [连云区](http://www.lianyun.gov.cn )⠀
 320706 [海州区](http://www.lyghz.gov.cn '连云港海州,阜新市有同名区')⠀
 320707 [赣榆区](http://www.ganyu.gov.cn )⠀
@@ -1007,7 +1011,7 @@
 320723 [灌云县](http://www.guanyun.gov.cn )⠀
 320724 [灌南县](http://www.guannan.gov.cn )⠀
 
-320800 <b>[淮安市](http://www.huaian.gov.cn )</b>　苏H　0517　  
+320800 <b>[淮安市](http://www.huaian.gov.cn )</b>　苏H　0517 ♾　  
 320803 [淮安区](http://www.zghaq.gov.cn )⠀
 320804 [淮阴区](http://www.zghy.gov.cn )⠀
 320812 [清江浦区](http://www.haqjp.gov.cn )⠀
@@ -1016,7 +1020,7 @@
 320830 [盱眙县](http://www.xuyi.gov.cn )⠀
 320831 [金湖县](http://www.jinhu.gov.cn )⠀
 
-320900 <b>[盐城市](http://www.yancheng.gov.cn )</b>　苏J　0515　  
+320900 <b>[盐城市](http://www.yancheng.gov.cn )</b>　苏J　0515 ♾　  
 320902 [亭湖区](http://www.tinghu.gov.cn )⠀
 320903 [盐都区](http://www.yandu.gov.cn )⠀
 320904 [大丰区](http://www.dafeng.gov.cn )⠀
@@ -1027,7 +1031,7 @@
 320925 [建湖县](http://www.jianhu.gov.cn )⠀
 320981 [东台市](http://www.dongtai.gov.cn )⠀
 
-321000 <b>[扬州市](http://www.yangzhou.gov.cn )</b>　苏K　0514　  
+321000 <b>[扬州市](http://www.yangzhou.gov.cn )</b>　苏K　0514 ♾　  
 321002 [广陵区](http://www.yzglq.gov.cn )⠀
 321003 [邗江区](http://www.hj.gov.cn )⠀
 321012 [江都区](http://www.jiangdu.gov.cn )⠀
@@ -1035,7 +1039,7 @@
 321081 [仪征市](http://www.yizheng.gov.cn )⠀
 321084 [高邮市](http://www.gaoyou.gov.cn )⠀
 
-321100 <b>[镇江市](http://www.zhenjiang.gov.cn/zhenjiang/zjzj/zjzjlist.shtml )</b>　苏L　0511　  
+321100 <b>[镇江市](http://www.zhenjiang.gov.cn/zhenjiang/zjzj/zjzjlist.shtml )</b>　苏L　0511 ♾　  
 321102 [京口区](http://www.jingkou.gov.cn )⠀
 321111 [润州区](http://www.runzhou.gov.cn )⠀
 321112 [丹徒区](http://www.dantu.gov.cn )⠀
@@ -1043,7 +1047,7 @@
 321182 [扬中市](http://www.yz.gov.cn/ )⠀
 321183 [句容市](http://www.jurong.gov.cn )⠀
 
-321200 <b>[泰州市](http://www.taizhou.gov.cn )</b>　苏M　0523　  
+321200 <b>[泰州市](http://www.taizhou.gov.cn )</b>　苏M　0523 ♾　  
 321202 [海陵区](http://www.tzhl.gov.cn )⠀
 321203 [高港区](http://www.cmc.gov.cn '泰州医药高新区')⠀
 321204 [姜堰区](http://www.jiangyan.gov.cn )⠀
@@ -1051,7 +1055,7 @@
 321282 [靖江市](http://www.jingjiang.gov.cn )⠀
 321283 [泰兴市](http://www.taixing.gov.cn )⠀
 
-321300 <b>[宿迁市](http://www.suqian.gov.cn )</b>　苏N　0527　  
+321300 <b>[宿迁市](http://www.suqian.gov.cn )</b>　苏N　0527 ♾　  
 321302 [宿城区](http://www.sqsc.gov.cn )⠀
 321311 [宿豫区](http://www.suyu.gov.cn )⠀
 321322 [沭阳县](http://www.shuyang.gov.cn )⠀
@@ -1060,7 +1064,7 @@
 
 <h3 id="33">33 <a href="http://www.zj.gov.cn/col/col1544731/" title="330000 ">浙江省</a>　浙<sub>　<a href="https://zhejiang.tianditu.gov.cn/map">天地图省map</a></sub></h3>
 
-330100 <b>[杭州市](http://www.hangzhou.gov.cn/col/col805739/ )</b>F⠀浙A　0571　  
+330100 <b>[杭州市](http://www.hangzhou.gov.cn/col/col805739/ )</b>F⠀浙A　0571 ♾　  
 330102 [上城区](http://www.hzsc.gov.cn '2021年区划范围调整')⠀
 330105 [拱墅区](http://www.gongshu.gov.cn '2021年区划范围调整')⠀
 330106 [西湖区](http://www.hzxh.gov.cn '杭州西湖,南昌市有同名区')⠀
@@ -1075,7 +1079,7 @@
 330127 [淳安县](http://www.qdh.gov.cn )⠀
 330182 [建德市](http://www.jiande.gov.cn )⠀
 
-330200 <b>[宁波市](http://www.ningbo.gov.cn )</b>F⠀浙B　0574　  
+330200 <b>[宁波市](http://www.ningbo.gov.cn )</b>F⠀浙B　0574 ♾　  
 330203 [海曙区](http://www.haishu.gov.cn )⠀
 330205 [江北区](http://www.nbjb.gov.cn '宁波江北，重庆市有同名区')⠀
 330206 [北仑区](http://www.bl.gov.cn )⠀
@@ -1087,7 +1091,7 @@
 330281 [余姚市](http://www.yy.gov.cn )⠀
 330282 [慈溪市](http://www.cixi.gov.cn )⠀
 
-330300 <b>[温州市](http://www.wenzhou.gov.cn/col/col1214428/ )</b>　浙C　0577　  
+330300 <b>[温州市](http://www.wenzhou.gov.cn/col/col1214428/ )</b>　浙C　0577 ♾　  
 330302 [鹿城区](http://www.lucheng.gov.cn )⠀
 330303 [龙湾区](http://www.longwan.gov.cn )⠀
 330304 [瓯海区](http://www.ouhai.gov.cn )⠀
@@ -1101,7 +1105,7 @@
 330382 [乐清市](http://www.yueqing.gov.cn )⠀
 330383 [龙港市](http://www.zjlg.gov.cn )⠀
 
-330400 <b>[嘉兴市](http://www.jiaxing.gov.cn )</b>　浙F　0573　  
+330400 <b>[嘉兴市](http://www.jiaxing.gov.cn )</b>　浙F　0573 ♾　  
 330402 [南湖区](http://www.nanhu.gov.cn )⠀
 330411 [秀洲区](http://www.xiuzhou.gov.cn )⠀
 330421 [嘉善县](http://www.jiashan.gov.cn )⠀
@@ -1117,7 +1121,7 @@
 330522 [长兴县](http://www.zjcx.gov.cn )⠀
 330523 [安吉县](http://www.anji.gov.cn '绿水青山就是金山银山')⠀
 
-330600 <b>[绍兴市](http://www.sx.gov.cn )</b>　浙D　0575　  
+330600 <b>[绍兴市](http://www.sx.gov.cn )</b>　浙D　0575 ♾　  
 330602 [越城区](http://www.sxyc.gov.cn )⠀
 330603 [柯桥区](http://www.kq.gov.cn )⠀
 330604 [上虞区](http://www.shangyu.gov.cn )⠀
@@ -1125,7 +1129,7 @@
 330681 [诸暨市](http://www.zhuji.gov.cn )⠀
 330683 [嵊州市](http://www.szzj.gov.cn )⠀
 
-330700 <b>[金华市](http://www.jinhua.gov.cn )</b>　浙G　0579　  
+330700 <b>[金华市](http://www.jinhua.gov.cn )</b>　浙G　0579 ♾　  
 330702 [婺城区](http://www.wuch.gov.cn )⠀
 330703 [金东区](http://www.jindong.gov.cn )⠀
 330723 [武义县](http://www.zjwy.gov.cn )⠀
@@ -1150,7 +1154,7 @@
 330921 [岱山县](http://www.daishan.gov.cn )⠀
 330922 [嵊泗县](http://www.shengsi.gov.cn )⠀
 
-331000 <b>[台州市](http://www.zjtz.gov.cn )</b>　浙J　0576　  
+331000 <b>[台州市](http://www.zjtz.gov.cn )</b>　浙J　0576 ♾　  
 331002 [椒江区](http://www.jj.gov.cn )⠀
 331003 [黄岩区](http://www.zjhy.gov.cn )⠀
 331004 [路桥区](http://www.luqiao.gov.cn )⠀
@@ -1174,7 +1178,7 @@
 
 <h3 id="34">34 <a href="https://www.ah.gov.cn/hfwy/" title="340000 ">安徽省</a>　皖<sub>　<a href="https://anhui.tianditu.gov.cn/map/">天地图省map</a></sub></h3>
 
-340100 <b>[合肥市](http://www.hefei.gov.cn )</b>　皖A　0551　  
+340100 <b>[合肥市](http://www.hefei.gov.cn )</b>　皖A　0551 ♾　  
 340102 [瑶海区](http://www.hfyaohai.gov.cn )⠀
 340103 [庐阳区](http://www.ahhfly.gov.cn )⠀
 340104 [蜀山区](http://www.hfss.gov.cn )⠀
@@ -1312,7 +1316,7 @@
 
 <h3 id="35">35 <a href="https://www.fujian.gov.cn/zjfj/" title="350000 ">福建省</a>　闽<sub>　<a href="https://fujian.tianditu.gov.cn">天地图省节点</a></sub></h3>
 
-350100 <b>[福州市](http://www.fuzhou.gov.cn )</b>　闽A　0591　  
+350100 <b>[福州市](http://www.fuzhou.gov.cn )</b>　闽A　0591 ♾　  
 350102 [鼓楼区](http://www.gl.gov.cn '有同名区')⠀
 350103 [台江区](http://www.taijiang.gov.cn )⠀
 350104 [仓山区](http://www.fzcangshan.gov.cn )⠀
@@ -1355,7 +1359,7 @@
 350430 [建宁县](http://www.fjjn.gov.cn )⠀
 350481 [永安市](http://www.ya.gov.cn )⠀
 
-350500 <b>[泉州市](http://www.quanzhou.gov.cn/zfb/zjqz/ )</b>　闽C　0595　  
+350500 <b>[泉州市](http://www.quanzhou.gov.cn/zfb/zjqz/ )</b>　闽C　0595 ♾　  
 350502 [鲤城区](http://www.qzlc.gov.cn )⠀
 350503 [丰泽区](http://www.qzfz.gov.cn )⠀
 350504 [洛江区](http://www.qzlj.gov.cn )⠀
@@ -1416,7 +1420,7 @@
 
 <h3 id="36">36 <a href="http://www.jiangxi.gov.cn/col/col387/" title="360000 ">江西省</a>　赣<sub>　<a href="https://jiangxi.tianditu.gov.cn/emap/">天地图省map</a></sub></h3>
 
-360100 <b>[南昌市](http://www.nc.gov.cn/ncszf/yxcn/2021_yxc.shtml '英雄城')</b>　赣A/M　0791　  
+360100 <b>[南昌市](http://www.nc.gov.cn/ncszf/yxcn/2021_yxc.shtml '英雄城')</b>　赣A/M　0791 ♾　  
 360102 [东湖区](http://dhq.nc.gov.cn/dhqrmzf/dhjj/list_tt.shtml )⠀
 360103 [西湖区](http://xhq.nc.gov.cn/xhqrmzf/zjxh/zjxh.shtml '有同名区')⠀
 360104 [青云谱区](http://qyp.nc.gov.cn/qypqrmzf/zjqyp/zjqyp.shtml )⠀
@@ -1540,7 +1544,7 @@
 
 <h3 id="37">37 <a href="http://www.shandong.gov.cn/col/col94094/" title="370000 ">山东省</a>　鲁<sub>　<a href="https://shandong.tianditu.gov.cn/map.html">天地图省map</a></sub></h3>
 
-370100 <b>[济南市](http://www.jinan.gov.cn/col/col28/ )</b>F⠀鲁A　0531　  
+370100 <b>[济南市](http://www.jinan.gov.cn/col/col28/ )</b>F⠀鲁A　0531 ♾　  
 370102 [历下区](http://www.lixia.gov.cn )⠀
 370103 [市中区](http://www.shizhong.gov.cn '济南市，有同名区4个')⠀
 370104 [槐荫区](http://www.huaiyin.gov.cn )⠀
@@ -1554,7 +1558,7 @@
 370124 [平阴县](http://www.pingyin.gov.cn )⠀
 370126 [商河县](http://www.shanghe.gov.cn )⠀
 
-370200 <b>[青岛市](http://www.qingdao.gov.cn )</b>F⠀鲁B/U　0532　  
+370200 <b>[青岛市](http://www.qingdao.gov.cn )</b>F⠀鲁B/U　0532 ♾　  
 370202 [市南区](http://www.qdsn.gov.cnn16 )⠀
 370203 [市北区](http://www.qingdaoshibei.gov.cn )⠀
 370211 [黄岛区](http://www.xihaian.gov.cn )⠀
@@ -1710,7 +1714,7 @@
 
 <h3 id="41">41 <a href="https://www.henan.gov.cn/2018/05-31/2408.html" title="410000 ">河南省</a>　豫<sub>　<a href="http://henan.tianditu.gov.cn">天地图省节点</a></sub></h3>
 
-410100 <b>[郑州市](http://www.zhengzhou.gov.cn/views1.jhtml '公安没有辖区微博')</b>　豫A/V　0371　  
+410100 <b>[郑州市](http://www.zhengzhou.gov.cn/views1.jhtml '公安没有辖区微博')</b>　豫A/V　0371 ♾　  
 410102 [中原区](http://www.zhongyuan.gov.cn )⠀
 410103 [二七区](http://www.erqi.gov.cn )⠀
 410104 [管城回族区](http://www.guancheng.gov.cn )⠀
@@ -1724,7 +1728,7 @@
 410184 [新郑市](http://www.xinzheng.gov.cn )⠀
 410185 [登封市](http://www.dengfeng.gov.cn )⠀
 
-410200 <b>[开封市](http://www.kaifeng.gov.cn '概况页路径过长')</b>　豫B　0371　  
+410200 <b>[开封市](http://www.kaifeng.gov.cn '概况页路径过长')</b>　豫B　0371 ♾　  
 410202 [龙亭区](http://www.longting.gov.cn )⠀
 410203 [顺河回族区](http://www.shunhequ.gov.cn )⠀
 410204 [鼓楼区](http://www.gulou.gov.cn '有同名区')⠀
@@ -1735,7 +1739,7 @@
 410223 [尉氏县](http://www.wschina.gov.cn )⠀
 410225 [兰考县](http://www.lankao.gov.cn )⠀
 
-410300 <b>[洛阳市](http://www.ly.gov.cn )</b>　豫C　0379　  
+410300 <b>[洛阳市](http://www.ly.gov.cn )</b>　豫C　0379 ♾　  
 410302 [老城区](http://www.lylc.gov.cn )⠀
 410303 [西工区](http://www.xigong.gov.cn )⠀
 410304 [瀍河回族区](http://www.chanhe.gov.cn/portal/list/index/id/1.html '瀍 chán')⠀
@@ -1838,7 +1842,7 @@
 411281 [义马市](http://www.yima.gov.cn )⠀
 411282 [灵宝市](http://www.lingbao.gov.cn )⠀
 
-411300 <b>[南阳市](http://www.nanyang.gov.cn )</b>　豫R　0377　  
+411300 <b>[南阳市](http://www.nanyang.gov.cn )</b>　豫R　0377 ♾　  
 411302 [宛城区](http://www.wancheng.gov.cn )⠀
 411303 [卧龙区](http://www.wolong.gov.cn )⠀
 411321 [南召县](http://www.nanzhao.gov.cn )⠀
@@ -1903,7 +1907,7 @@
 
 <h3 id="42">42 <a href="http://www.hubei.gov.cn" title="420000 ">湖北省</a>　鄂/楚<sub>　<a href="https://hubei.tianditu.gov.cn/">天地图省节点</a></sub></h3>
 
-420100 <b>[武汉市](http://www.wuhan.gov.cn )</b>F⠀鄂A/W　027　  
+420100 <b>[武汉市](http://www.wuhan.gov.cn )</b>F⠀鄂A/W　027 ♾　  
 420102 [江岸区](http://www.jiangan.gov.cn )⠀
 420103 [江汉区](http://www.jianghan.gov.cn )⠀
 420104 [硚口区](http://www.qiaokou.gov.cn )⠀
@@ -2034,7 +2038,7 @@
 
 <h3 id="43">43 <a href="http://www.hunan.gov.cn" title="430000 ">湖南省</a>　湘<sub>　<a href="https://hunan.tianditu.gov.cn/pic/bzdt/2020/dt/600w1.jpg">标准地图</a></sub></h3>
 
-430100 <b>[长沙市](http://www.changsha.gov.cn )</b>　湘A　0731　  
+430100 <b>[长沙市](http://www.changsha.gov.cn )</b>　湘A　0731 ♾　  
 430102 [芙蓉区](http://www.furong.gov.cn )⠀
 430103 [天心区](http://www.tianxin.gov.cn )⠀
 430104 [岳麓区](http://www.yuelu.gov.cn )⠀
@@ -2045,7 +2049,7 @@
 430181 [浏阳市](http://www.liuyang.gov.cn )⠀
 430182 [宁乡市](http://www.nxcity.gov.cn )⠀
 
-430200 <b>[株洲市](http://www.zhuzhou.gov.cn )</b>　湘B　0731　  
+430200 <b>[株洲市](http://www.zhuzhou.gov.cn )</b>　湘B　0731 ♾　  
 430202 [荷塘区](http://www.hetang.gov.cn )⠀
 430203 [芦淞区](http://www.lusong.gov.cn )⠀
 430204 [石峰区](http://www.shifeng.gov.cn )⠀
@@ -2056,7 +2060,7 @@
 430225 [炎陵县](http://www.hnyanling.gov.cn )⠀
 430281 [醴陵市](http://www.liling.gov.cn )⠀
 
-430300 <b>[湘潭市](http://www.xiangtan.gov.cn )</b>　湘C　0731　  
+430300 <b>[湘潭市](http://www.xiangtan.gov.cn )</b>　湘C　0731 ♾　  
 430302 [雨湖区](http://www.xtyh.gov.cn )⠀
 430304 [岳塘区](http://www.hnxtyt.gov.cn )⠀
 430321 [湘潭县](http://www.xtx.gov.cn )⠀
@@ -2186,7 +2190,7 @@
 
 <h3 id="44">44 <a href="http://www.gd.gov.cn/zjgd/" title="440000 ">广东省</a>　粤<sub>　<a href="http://nr.gd.gov.cn/map/bzdt/map_place.html?img_id=广东省系列标准地图/成果图切片/广东省地图（地势版）132603335209204540/16开广东省地图（地势版）有邻区">标准地图高配</a></sub></h3>
 
-440100 <b>[广州市](http://www.gz.gov.cn )</b>F⠀粤A　020　  
+440100 <b>[广州市](http://www.gz.gov.cn )</b>F⠀粤A　020 ♾　  
 440103 [荔湾区](http://www.lw.gov.cn )⠀
 440104 [越秀区](http://www.yuexiu.gov.cn )⠀
 440105 [海珠区](http://www.haizhu.gov.cn )⠀
@@ -2211,7 +2215,7 @@
 440281 [乐昌市](http://www.lechang.gov.cn )⠀
 440282 [南雄市](http://www.gdnx.gov.cn )⠀
 
-440300 <b>[深圳市](http://www.sz.gov.cn )</b>F⠀粤B　0755　  
+440300 <b>[深圳市](http://www.sz.gov.cn )</b>F⠀粤B　0755 ♾　  
 440303 [罗湖区](http://www.szlh.gov.cn )⠀
 440304 [福田区](http://www.szft.gov.cn )⠀
 440305 [南山区](http://www.szns.gov.cn '有同名区')⠀
@@ -2227,7 +2231,7 @@
 440403 [斗门区](http://www.doumen.gov.cn )⠀
 440404 [金湾区](http://www.jinwan.gov.cn )⠀
 
-440500 <b>[汕头市](http://www.shantou.gov.cn )</b>　粤D　0754　  
+440500 <b>[汕头市](http://www.shantou.gov.cn )</b>　粤D　0754 ♾　  
 440507 [龙湖区](http://www.gdlonghu.gov.cn )⠀
 440511 [金平区](http://www.gdjinping.gov.cn )⠀
 440512 [濠江区](http://www.haojiang.gov.cn )⠀
@@ -2236,7 +2240,7 @@
 440515 [澄海区](http://www.chenghai.gov.cn )⠀
 440523 [南澳县](http://www.nanao.gov.cn )⠀
 
-440600 <b>[佛山市](http://www.foshan.gov.cn )</b>　粤E　0757　  
+440600 <b>[佛山市](http://www.foshan.gov.cn )</b>　粤E　0757 ♾　  
 440604 [禅城区](http://www.chancheng.gov.cn )⠀
 440605 [南海区](http://www.nanhai.gov.cn )⠀
 440606 [顺德区](http://www.shunde.gov.cn )⠀
@@ -2327,9 +2331,9 @@
 441881 [英德市](http://www.yingde.gov.cn )⠀
 441882 [连州市](http://www.lianzhou.gov.cn )⠀
 
-441900 <b>[东莞市](http://www.dg.gov.cn '不设区的市')</b>　粤S　0769　  
+441900 <b>[东莞市](http://www.dg.gov.cn '不设区的市')</b>　粤S　0769 ♾　  
 
-442000 <b>[中山市](http://www.zs.gov.cn/zjzs/ '不设区的市')</b>　粤T　0760　  
+442000 <b>[中山市](http://www.zs.gov.cn/zjzs/ '不设区的市')</b>　粤T　0760 ♾　  
 
 445100 <b>[潮州市](http://www.chaozhou.gov.cn )</b>　粤U　0768　  
 445102 [湘桥区](http://www.xiangqiao.gov.cn )⠀
@@ -2493,23 +2497,23 @@
 
 <h3 id="46">46 <a href="http://www.hainan.gov.cn" title="460000 ">海南省</a>　琼<sub>　<a href="https://hainan.tianditu.gov.cn/">天地图省节点</a></sub></h3>
 
-460100 <b>[海口市](https://www.haikou.gov.cn/sq/ )</b>　琼A　0898　  
+460100 <b>[海口市](https://www.haikou.gov.cn/sq/ )</b>　琼A　0898 ♾　  
 460105 [秀英区](http://xyqzf.haikou.gov.cn/hksxyqzf/qqqq/mlxy.shtml )⠀
 460106 [龙华区](http://lhqzf.haikou.gov.cn '有同名区')⠀
 460107 [琼山区](http://qsqzf.haikou.gov.cn/hksqsqzf/qq/qq.shtml )⠀
 460108 [美兰区](http://mlqzf.haikou.gov.cn )⠀
 
-460200 <b>[三亚市](http://www.sanya.gov.cn/sanyasite/shiqing/shiqing.shtml '鹿城')</b>　琼B　0898　  
+460200 <b>[三亚市](http://www.sanya.gov.cn/sanyasite/shiqing/shiqing.shtml '鹿城')</b>　琼B　　  
 460202 海棠区⠀⠀
 460203 [吉阳区](http://jy.sanya.gov.cn )⠀
 460204 [天涯区](http://ty.sanya.gov.cn )⠀
 460205 [崖州区](http://yz.sanya.gov.cn )⠀
 
-460300 <b>[三沙市](http://www.sansha.gov.cn/sansha/sszfgk/sq.shtml )</b>　琼C　0898　  
+460300 <b>[三沙市](http://www.sansha.gov.cn/sansha/sszfgk/sq.shtml )</b>　琼C　　  
 460321 西沙区⠀⠀
 460322 南沙区⠀⠀
 
-460400 <b>[儋州市](http://www.danzhou.gov.cn '不设区的市')</b>　琼F　0898　  
+460400 <b>[儋州市](http://www.danzhou.gov.cn '不设区的市')</b>　琼F　　  
 469001 [五指山市](http://wzs.hainan.gov.cn '省直辖县')⠀
 469002 [琼海市](http://qionghai.hainan.gov.cn/zjqh/ '省直辖县')⠀
 469005 [文昌市](http://wenchang.hainan.gov.cn '省直辖县')⠀
@@ -2526,7 +2530,7 @@
 469029 [保亭黎族苗族自治县](https://baoting.hainan.gov.cn/zjbt/ '省直辖县')⠀
 469030 [琼中黎族苗族自治县](http://qiongzhong.hainan.gov.cn/qzly/ '省直辖县')⠀
 
-<h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 设26个区12个县，另设两江新区(三北地带)">重庆市</a>　渝　023<sub>　<a href="http://ghzrzyj.cq.gov.cn/dt/index.html?Name=重庆市地图(行政区划1)">标准地图高配</a></sub></h3>
+<h3 id="50">50 <a href="http://www.cq.gov.cn/zjcq/" title="500000 设26个区12个县，另设两江新区(三北地带)">重庆市</a>　渝　023 ♾<sub>　<a href="http://ghzrzyj.cq.gov.cn/dt/index.html?Name=重庆市地图(行政区划1)">标准地图高配</a></sub></h3>
 500101 [万州区](http://www.wz.gov.cn )⠀
 500102 [涪陵区](http://www.fl.gov.cn )⠀
 500103 [渝中区](http://www.cqyz.gov.cn )⠀
@@ -2568,7 +2572,7 @@
 
 <h3 id="51">51 <a href="https://www.sc.gov.cn/10462/c106773/zjsc.shtml" title="510000 ">四川省</a>　川/蜀<sub>　<a href="https://map.baidu.com/search/四川省/@?querytype=s&wd=四川地图">baidu地图搜索</a></sub></h3>
 
-510100 <b>[成都市](http://www.chengdu.gov.cn/chengdu/rscd/ )</b>F⠀川A/G　028　  
+510100 <b>[成都市](http://www.chengdu.gov.cn/chengdu/rscd/ )</b>F⠀川A/G　028 ♾　  
 510104 [锦江区](http://www.cdjinjiang.gov.cn )⠀
 510105 [青羊区](http://www.cdqingyang.gov.cn )⠀
 510106 [金牛区](http://www.jinniu.gov.cn )⠀
@@ -2680,7 +2684,7 @@
 511325 [西充县](http://www.xichong.gov.cn )⠀
 511381 [阆中市](http://www.langzhong.gov.cn )⠀
 
-511400 <b>[眉山市](http://www.ms.gov.cn )</b>　川Z　028　  
+511400 <b>[眉山市](http://www.ms.gov.cn )</b>　川Z　028 ♾　  
 511402 [东坡区](http://www.dp.gov.cn )⠀
 511403 [彭山区](http://www.scps.gov.cn )⠀
 511421 [仁寿县](http://www.rs.gov.cn )⠀
@@ -2734,7 +2738,7 @@
 511922 [南江县](http://www.scnj.gov.cn )⠀
 511923 [平昌县](http://www.scpc.gov.cn )⠀
 
-512000 <b>[资阳市](http://www.ziyang.gov.cn )</b>　川M　028　  
+512000 <b>[资阳市](http://www.ziyang.gov.cn )</b>　川M　028 ♾　  
 512002 [雁江区](http://www.yanjiang.gov.cn )⠀
 512021 [安岳县](http://www.aysc.gov.cn )⠀
 512022 [乐至县](http://www.lezhi.gov.cn )⠀
@@ -2795,7 +2799,7 @@
 
 <h3 id="52">52 <a href="https://www.guizhou.gov.cn" title="520000 ">贵州省</a>　贵/黔<sub>　<a href="https://map.baidu.com/search/贵州省/@?querytype=s&wd=贵州地图">baidu地图搜索</a></sub></h3>
 
-520100 <b>[贵阳市](http://www.guiyang.gov.cn )</b>　贵A　0851　  
+520100 <b>[贵阳市](http://www.guiyang.gov.cn )</b>　贵A　0851 ♾　  
 520102 [南明区](http://www.nanming.gov.cn )⠀
 520103 [云岩区](http://www.yunyan.gov.cn )⠀
 520111 [花溪区](http://www.huaxi.gov.cn )⠀
@@ -2813,7 +2817,7 @@
 520204 [水城区](http://www.shuicheng.gov.cn )⠀
 520281 [盘州市](http://www.panzhou.gov.cn )⠀
 
-520300 <b>[遵义市](http://www.zunyi.gov.cn )</b>　贵C　0851　  
+520300 <b>[遵义市](http://www.zunyi.gov.cn )</b>　贵C　0851 ♾　  
 520302 [红花岗区](http://www.zyhhg.gov.cn )⠀
 520303 [汇川区](http://www.zyhc.gov.cn )⠀
 520304 [播州区](http://www.zybz.gov.cn )⠀
@@ -2829,7 +2833,7 @@
 520381 [赤水市](http://www.gzchishui.gov.cn )⠀
 520382 [仁怀市](http://www.rh.gov.cn )⠀
 
-520400 <b>[安顺市](http://www.anshun.gov.cn )</b>　贵G　0851　  
+520400 <b>[安顺市](http://www.anshun.gov.cn )</b>　贵G　0851 ♾　  
 520402 [西秀区](http://www.xixiu.gov.cn )⠀
 520403 [平坝区](http://www.pingba.gov.cn )⠀
 520422 [普定县](http://www.aspd.gov.cn )⠀
@@ -2903,7 +2907,7 @@
 
 <h3 id="53">53 <a href="http://www.yn.gov.cn" title="530000 ">云南省</a>　云/滇<sub>　<a href="https://map.baidu.com/search/云南省/@?querytype=s&wd=云南地图">baidu地图搜索</a></sub></h3>
 
-530100 <b>[昆明市](http://www.km.gov.cn )</b>　云A　0871　  
+530100 <b>[昆明市](http://www.km.gov.cn )</b>　云A　0871 ♾　  
 530102 [五华区](http://www.kmwh.gov.cn )⠀
 530103 [盘龙区](http://www.kmpl.gov.cn )⠀
 530111 [官渡区](http://www.kmgd.gov.cn )⠀
@@ -3156,7 +3160,7 @@
 
 <h3 id="61">61 <a href="http://www.shaanxi.gov.cn/sq/" title="610000 ">陕西省</a>　陕/秦<sub>　<a href="https://m.amap.com/search/mapview/poiid=B001D0W82S">amap移动分享码</a></sub></h3>
 
-610100 <b>[西安市](http://www.xa.gov.cn )</b>F⠀陕A/U　029　  
+610100 <b>[西安市](http://www.xa.gov.cn )</b>F⠀陕A/U　029 ♾　  
 610102 [新城区](http://www.xincheng.gov.cn '有同名区')⠀
 610103 [碑林区](http://www.beilin.gov.cn )⠀
 610104 [莲湖区](http://www.lianhu.gov.cn )⠀
@@ -3191,7 +3195,7 @@
 610330 [凤县](http://www.sxfx.gov.cn )⠀
 610331 [太白县](http://www.taibai.gov.cn )⠀
 
-610400 <b>[咸阳市](http://www.xianyang.gov.cn/zjxy/ )</b>　陕D　029　  
+610400 <b>[咸阳市](http://www.xianyang.gov.cn/zjxy/ )</b>　陕D　029 ♾　  
 610402 [秦都区](http://www.snqindu.gov.cn )⠀
 610403 [杨陵区](http://www.ylq.gov.cn )⠀
 610404 [渭城区](http://www.weic.gov.cn )⠀
@@ -3624,21 +3628,21 @@
 <h4 align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></h4>
 
 <h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub></h3>
-659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html '电信区号0993独立')⠀
-659002 [阿拉尔市／第一师](http://www.ale.gov.cn )⠀
-659003 [图木舒克市／第三师](http://www.xjbtnss.gov.cn )⠀
-659004 [五家渠市／第六师](http://www.wjq.gov.cn )⠀
-659005 [北屯市／第十师](http://www.bts.gov.cn )⠀
-659006 [铁门关市／第二师](http://www.tmg.gov.cn )⠀
-659007 [双河市／第五师](http://www.xjshs.gov.cn )⠀
-659008 [可克达拉市／第四师](http://www.cocodala.gov.cn )⠀
-659009 [昆玉市／第十四师](http://www.btdsss.gov.cn )⠀
-659010 [胡杨河市／第七师](http://www.nqs.gov.cn )⠀
-659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')⠀
+659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html )0993⠀
+659002 [阿拉尔市／第一师](http://www.ale.gov.cn )0997⠀
+659003 [图木舒克市／第三师](http://www.xjbtnss.gov.cn )0998⠀
+659004 [五家渠市／第六师](http://www.wjq.gov.cn )0994⠀
+659005 [北屯市／第十师](http://www.bts.gov.cn )0906⠀
+659006 [铁门关市／第二师](http://www.tmg.gov.cn )0996⠀
+659007 [双河市／第五师](http://www.xjshs.gov.cn )0909⠀
+659008 [可克达拉市／第四师](http://www.cocodala.gov.cn )0999⠀
+659009 [昆玉市／第十四师](http://www.btdsss.gov.cn )0903⠀
+659010 [胡杨河市／第七师](http://www.nqs.gov.cn )0992⠀
+659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')0902⠀
 兵团14个师中尚有3个师(9/11/12)未完成‘师市合一’改革。
 
 
-<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
+<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
 710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
 台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
 6个直辖市：台北市、新北市、桃园市、
@@ -3648,13 +3652,13 @@
 11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
 	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
 
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">桌面地图</a></sub></h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">桌面地图</a></sub></h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">桌面地图</a></sub></h3>
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　00853<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">桌面地图</a></sub></h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
@@ -3664,8 +3668,7 @@
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
 
-2021年行政区划变更
-------------------
+<h3 id="2021">2021年行政区划变更</h3>
 
 　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
 　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
@@ -3691,11 +3694,14 @@
 *	搜狗地图/腾讯地图
 *	360地图
 
+　　国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
+　如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>向大萌报告</a>，感谢！❀
 
-*	注4：d桌面地图 表示该链接限制在桌面模式下阅读(desktop)。
-	例如：6590　兵团　d天地图分享链。
-*	注5：国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
-	如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>向大萌报告</a>，感谢！❀
+
+*	注1：部分政府网址收录的是其地方介绍页，或者网站地图页。
+	例如：北京市 110111 房山区。
+*	注2：少数地名有批注，鼠标悬停可见，正在逐步添加。
+	例如：河北省 130109 藁城区 批注‘藁 gǎo，草本植物名’。
 
 
 收录进度
@@ -3714,7 +3720,7 @@
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.6.1	202209
+	中国千县地名图	v0.6.3	202211
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -3725,4 +3731,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🚨🚓🚑🚒🚌🧑🤝‍🧑🏢🔢📠🚘
+🚨🚓🚑🚒🚌🧑🤝‍🧑🏢🔢📠🚘♾
