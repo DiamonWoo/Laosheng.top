@@ -116,6 +116,7 @@
 +	上海篱笆网 <https://www.libaclub.com/>	2002年创立，以装修论坛起家的上海本地生活论坛
 
 +	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
+*	<a href="http://Lofter.com/view" title="网易轻博客">Lofter</a>
 
 
 6、医疗保健
@@ -183,6 +184,7 @@
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
 *	<https://www.ipip.net/ip.html>
 *	CnBtea
+*	v2ex.com	202104被限制地区访问
 
 
 10、名站导航
@@ -199,6 +201,13 @@
 
 落榜记录
 =========
+
+2022/11/17	#浏览之器  
+	<a href="https://withpinbox.com/explore" title="PinBox网页收藏">PinBox</a>因免费功能偏少且社群冷清下榜。  
+	<a href="https://cloud.minapp.com/case/" title="爱范儿辅助小程序开发">知晓程序</a>因内容偏少不具备代表性下榜。
+
+2022/10/15	#搜罗天下  
+	Magi公告停止服务，<a href="https://Magi.com" title="魔力搜索 AI结构化结果">Magi</a>%
 
 2022/8/7  　	#上一代名站导航  
 	历史价格 连接由 购物党 换下 慢慢买 ，后者今年要求强制登录，予以下榜，网址为：tool.manmanbuy.com 。
@@ -246,9 +255,11 @@
 	西祠胡同 手机端网页强制下载apk（疑似秘制浏览器），去除链接 xici.net。（后删除）
 
 
-	老生常谈排行榜 © 大萌 2020~2022
-	知识共享 署名-非演绎 3.0
+	老生常谈排行榜 © 大萌	2020~2022
+	知识共享许可3.0	署名-非演绎-非营利
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top
+
+🌍🌏🌎
