@@ -321,7 +321,7 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 </caption>	<!-- 查看放大的地图 -->
 <tbody><tr><td ><!-- 宽度原为500 -->
 	<iframe width="800" height="400" frameborder="0" 
-	src="https://cn.bing.com/maps/embed?h=400&w=500&cp=rwnddjhvkvhn&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rwnddjhvkvhn&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
 </td></tr></tbody>
 </table>
