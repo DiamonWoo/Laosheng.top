@@ -7,13 +7,13 @@
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
 　　**国别表**收录全球国家和地区的代码与网址，包括：ISO国别代码、ISO货币代码、国际电话区号📠、国别顶级域；中英文名称、国别指南与经贸新闻🏵、⚜️中外使馆网址🔱、外交部门网址🛡、中央或联邦政府网址🏛……等。  
-　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码说明见[页面底部](#代码说明){:target="_top"}。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
+　　收录口径为 [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 国别代码249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208），代码来源见页面底部。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。  
 　　**国别表**收录内容按各大洲分段落、按加权因素排序、排版。加权因素包括：联合国席位、国土面积与接壤、丝绸之路行进路线、国别名的拼音字母顺序。  
-　　工作仍在进行，欢迎提交意见，收录进度见页面底部。  
+　　工作仍在进行，欢迎提交意见，收录进度见[页面底部](#9){:target="_top"}。  
 
 
-各大洲索引
------------
+目录
+----
 
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、蒙古、马来西亚、沙特……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、英国、德国……</sub><br>
@@ -22,8 +22,8 @@
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、加拿大、墨西哥、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
-8 <a href="#8" target="_top">必应地图与代码说明</a>　<sub>世界地图</sub><br>
-9 <a href="#9" target="_top">一带一路官方连接</a>　<sub>发改委、商务部…</sub>  
+8 <a href="#8" target="_top">必应地图</a>　<sub>微软提供的世界地图</sub><br>
+9 <a href="#9" target="_top">代码来源</a>
 
 
 图例
@@ -313,21 +313,14 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 
 
 
-<h2 id="8" title="世界地图与各种代码的来源">必应地图与代码说明</h2>
+<h2 id="8" title="微软必应提供的世界地图">必应世界地图</h2>
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
-　　[ISO](https://www.iso.org/popular-standards.html)是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/)》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states)保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
-
-　　由于ISO的工作语言(en/fr/ru)不包括中文😐，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。由于该国标参照了ISO和IEC标准，出于版权限制🤔，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)没有提供全文下载。
-
-　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
-
 <table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
-<caption>
-	微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rwnddjhvkvhn&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
+<caption>微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rwnddjhvkvhn&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
 </caption>	<!-- 查看放大的地图 -->
-<tbody><tr><td >
-	<iframe width="500" height="400" frameborder="0" 
+<tbody><tr><td ><!-- 宽度原为500 -->
+	<iframe width="800" height="400" frameborder="0" 
 	src="https://cn.bing.com/maps/embed?h=400&w=500&cp=rwnddjhvkvhn&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
 </td></tr></tbody>
@@ -338,28 +331,12 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 *	🇬🇧/🇪🇺/🇺🇸 	英国/欧盟/美国
 
 
-<h2 id="9" title="中国政府倡导一带一路发展路线图">一带一路官方链接</h2>
+<h2 id="9" title="各种代码的来源">代码来源</h2>
+　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为**国家和地区**制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/obp/ui/#search/code/) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
-　　全球已有 <a title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’，本页已全部收录；
-	亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
-<br>
-　　<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
-<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
-<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
-<a title="首页>外交动态>领导人活动 " href="https://www.mfa.gov.cn/web/wjdt_674879/">外交部</a>
-（<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
-<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
-<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
-（<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a> /
-<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>）、
-海关总署（<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
-<!-- <a title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）-->
-更多<a title="有关部门服务大全" href="../fuwu">有关部门</a>
+　　由于ISO的工作语言(en/fr/ru)不包括中文😐，故ISO 3166中各国家的中文名需要中国自己译定。中国现在由‘国家标准委’参加该组织活动，与ISO 3166-1对应的国家推荐标准为《GB/T 2659-2000  世界各国和地区名称代码》。　由于该国标参照了ISO和IEC标准，出于版权限制🤔，目前国家标准委的[服务平台](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F) 没有提供全文下载。
 
-
-鸣谢
-----
-　　本站指向的国家概况页由[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)提供；本站指向的国别指南与经贸新闻页由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)提供；本站指向的国别美图🏞由中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
+　　以上两点因素导致中文用户在了解世界的时候，出现了一个模糊的基础。　大萌编纂的此份《[世界国别代码表](https://Laosheng.top/ydyl/nations)》以ISO国家代码为基础，结合了中国国家标准、中国外交部官方表述，并充分考虑了中文语言习惯，为中文用户了解世界的普遍需求提供一份基础网页。
 
 
 收录进度
@@ -369,6 +346,10 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 +	202209　增加商务部《国别指南》，增加国际长途区号，正在补充各国使馆网址
 +	202209　已收录215个国家货币符号，增加查询汇率连接，上线公开测试
 +	202208　收录249个ISO代码及其国家，正在测试版式
+
+鸣谢
+----
+　　本站指向的国家概况页由[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)提供；本站指向的国别指南与经贸新闻页由中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)提供；本站指向的国别美图🏞由中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)提供；本站提供的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
 
 <h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
 
@@ -380,7 +361,7 @@ TF⠀　⠀	<small>	法属南部领地⠀French Southern Territories	</small>	�
 	老生常谈 © 2019-2022 大萌 CC BY-NC-ND
 	知识共享3.0	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	世界国别代码表	v0.5.7	202211
+	世界国别代码表	v0.5.8	202211
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
