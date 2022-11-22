@@ -8,7 +8,7 @@
 
 【云媒体系列】网页　找到新闻来源  
 
-  + /fly/index　☁️ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
+  + /fly/index　☁️ [中国新闻云媒体](fly){:target="_blank"}_，看新闻只需浏览器。　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
     - /fly/index2.html [云媒体第二页](fly/index2.html)📜️：教育台与科技报、县区级报纸与电视、图例与帮助。
 
   + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )，中国对外宣传的官方媒体。中国人民解放军官方微博、ChinaDaily、环球时报、中央外文局……
@@ -37,16 +37,16 @@ Ideal Software Form of Cloud Media
 导游词
 ------
 
-+ [证监会为什么不要App？](../c/8-证券信息披露的法定媒体.txt)
++ [证监会为什么不要App？](c/8-证券信息披露的法定媒体.txt)
 + [有什么不骗人的保健知识？](../c/6-权威的医疗保健类报纸.txt)（202012 第二稿）
 + 中国报纸的数字化技术为什么全球领先？
-+ [App与浏览器到底有什么区别？](../c/app-browser-diff.txt)（202112 第三稿）
+
 
 
 ```
 	老生常谈 © 2019~2022	大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
-	云媒体系列 v2.9.6	Laosheng.top/fly/dir
+	云媒体系列 v2.9.6　	Laosheng.top/fly/dir
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
