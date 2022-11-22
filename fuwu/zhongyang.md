@@ -1,42 +1,50 @@
-老生常谈 >> [有关部门](.)🕘<base target="_blank">
+老生常谈 > [有关部门](.){:target="_self"}_🕘
+<base target="_blank">
+<meta property="og:type" content="website" /><!-- article -->
+<meta property="og:site_name" content="老生常谈">
+<meta property="og:title" content="中央有关部门集，政通全国一盘棋 🕰">
+<meta property="og:description" content="中央有关部门大全，全国统一投诉电话、咨询网站。12345，有事找政府">
+<meta property="og:image" content="https://diamonwoo.github.io/wx/fuwu/CPPCC-64-16.png">
 
-中央有关部门
-==============
+
+中央有关部门集 🕰
+================
 大萌 2021-2022
 
 		一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
 
-　　本网页依据有关文件，汇编了党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_top"}的：官方网站🌏、服务与投诉电话📞、网络检索与互动平台、主管报纸📰、直属院校🙋……　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
+　　本网页依据有关文件，汇编了两会、两高、党中央、国务院[有关部门](https://laosheng.top/fuwu ){:target="_top"}的：官方网站🌏、服务与投诉电话📞、网络检索与互动平台、主管报纸📰、直属院校🙋……　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。疫情防控常态化以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。  <!-- 精兵简政——李鼎铭，1941年于陕甘宁边区 -->
 
 　　【目录】
- [图例]
+　图例　
  1 [人大](#1-全国人民代表大会){:target="_top"}
  2 [两高](#2-最高法和最高检){:target="_top"}
  3 [人民政协](#3){:target="_top"}
  3.1 [民主党派](#31-政协八个民主党派){:target="_top"}
  3.2 [人民团体](#32-政协八个人民团体){:target="_top"}
- 3.3 其他社会团体
+ 3.3 其他社会团体　
  4 [中共中央](#4){:target="_top"}
  4.1 [职能部门 5个](#41-中共中央职能部门-15){:target="_top"}
  4.2 [办事机构 8个](#42-中共中央办事机构-8个){:target="_top"}
  4.3 [事业单位](#44-中共中央直属事业单位-9个){:target="_top"}
- 4.4 派出机关
+ 4.4 派出机关　
  5 [国务院](#5-中央人民政府国务院){:target="_top"}
  5.1 [办事机构](#51-国务院办事机构及中共中央承担职责机构){:target="_top"}
  5.2 [事业单位](#52-国务院直属事业单位){:target="_top"}
  5.3 [总局总署](#53-国务院直属机构总局总署){:target="_top"}
  5.4 [26个部委](#54-国务院26个部委及部委管理的国家局){:target="_top"}
- 5.5 直属特设机构
+ 5.5 直属特设机构　
  6 [大型国企](#6){:target="_top"}
+　[编制依据](#编制依据)
 
 　　12345电话号码是国务院统一要求设立的地方政务服务便民热线，2021年将实现7x24小时全天候、全部门覆盖。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话长途区号、报纸、电视网站可参见[老生常谈云媒体](../fly )。 某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。　在12345之外，还有很多国家机关使用123xx形式的热线号码，比如 12309检察服务热线、原铁道部的客票服务电话 12306。
 
 　　欢迎大家[补充信息和发表意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn )，欢迎改编地方版本。
 
-<div align="right">　有关部门系列页面：
-	<a href="https://Laosheng.top/fuwu" target="_top">首页</a>、
+<div align="right">【有关部门】
+	<a href="https://Laosheng.top/fuwu" target="_top">系列页面</a>：
 	<a href="qianxian" target="_self">中国千县地名图</a>、
-	<a href="../ydyl/union.html" target="_blank">联合国有关部门</a>
+	<a href="https://Laosheng.top/ydyl/united" target="_blank">联合国有关部门</a>
 </div>
 
 最新部门变动
@@ -47,13 +55,6 @@
 	* 2021/4/26，新增政法委12337政法干警违纪违法举报平台（4.1段落）
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌 (已补充网址)
 
-编制依据
---------
-* 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
-* 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
-* 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
-* 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
-* 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)、共产党员网[党中央部门机构](http://news.12371.cn/dzybmbdj/)页面
 
 图例
 ----
@@ -78,7 +79,7 @@
   	- [【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的目录与电子文本。
   - 国家监委/【中央纪委】 请见中国共产党段落
 
-* 34-3个省级人大网站请见[省级五套班子](shengji)页面，按身份证号码排序，不含港澳台。
+* 34-3个省级人大网站请见[法治政府有关部门](../falv/bumen)页面，按身份证号码排序，不含港澳台。
 
 
 2 最高法和最高检
@@ -105,7 +106,6 @@
 	- 🙋[国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
 
  　*快速找法可见[大萌望海楼](../falv )*  
-   各省两院网址请见：[省级五套班子](shengji)
 
 
 <h1 id="3">
@@ -116,7 +116,7 @@
 *	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
 *	[《人民政协报》](http://dzb.rmzxb.com)
 
-*	各省政协网址请见：[省级五套班子](shengji)
+*	各省政协网址请见：[法治政府有关部门](../falv/bumen)
 
 
 3.1 政协八个民主党派
@@ -238,7 +238,7 @@
 	- [《中国纪检监察报》](http://www.jjjcb.cn ) 、[《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
 	- 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)
 
-   35-1个省级廉政监督机关请见：[省级五套班子](shengji)，包含新疆兵团、香港、澳门，不含台湾。
+   35-1个省级廉政监督机关请见：[法治政府有关部门](../falv/bumen)，包含新疆兵团、香港、澳门，不含台湾。
 
 4.1 中共中央职能部门 1+5
 -----------------------
@@ -408,7 +408,7 @@
 	(+852)<a href="http://www.gov.hk/" rel="nofollow">香港</a>　
 	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>　
 
-　　*大萌为您提供SQLite格式的中国[千县地名数据库](dimingku)，可用数据库查询各省/市/县的准确名称和行政区划代码*
+　　*大萌为您提供SQLite格式的[中国千县地名库](dimingku)（待修订）*
 
 
 5.1 国务院办事机构（及中共中央承担职责机构）
@@ -456,9 +456,10 @@
 	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
 	- 中国工程[科技知识中心](http://www.ckcest.cn/)
 	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
-* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 全国36个派出机构
+* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 银监会/保监会2018整合
 	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
 	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
+	- 全国36个派出机构
 * 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
 	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
 	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
@@ -484,19 +485,20 @@
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
 	- 🙋 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
-* 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/)
+* 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/) 市监总局
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
 	-  《中国市场监管报》、[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
 	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
 	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心
 	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】
-	- &【国家标准化管理[委员会](http://www.sac.gov.cn/)】
+	- &【国家标准化管理[委员会](http://www.sac.gov.cn/)】	　 国家标准委
 	  - 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
 	  - 国务院[国家标准信息查询](http://www.gov.cn/fuwu/bzxxcx/bzh.htm)，可查国标、行标、地方标准。
 	  - [国家标准](http://openstd.samr.gov.cn/bzgk/gb/)全文公开系统 强制性国标超两千项，推荐性GB三万多项； 
 	  - [行业标准](http://hbba.sacinfo.org.cn/)信息服务平台 行业标准大约七万件，工信部独占四万七千件以上。
-	- 国家药品监督管理局	 [NMPA.gov.cn](https://www.nmpa.gov.cn/) [《医药经济报》](http://news.yyjjb.com.cn)
-	  - [数据查询](http://app1.nmpa.gov.cn/data_nmpa/face3/dir.html) 药品、医疗器械、化妆品
+	- 国家药品监督管理局	　 [NMPA.gov.cn](https://www.nmpa.gov.cn/) 药监局
+	  - [《医药经济报》](http://news.yyjjb.com.cn)
+	  - 药品、医疗器械、化妆品[数据查询](https://www.nmpa.gov.cn/datasearch/) 网上药店
 	- 国家知识产权局	 [cnIPA.gov.cn](https://www.cnipa.gov.cn/)
 	  - [政务服务](https://www.cnipa.gov.cn/col/col1510/) 专利公告、商标查询、地理标志、集成电路……
 	  - [公共服务](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) %专利检索与分析、代理查询、文献服务……
@@ -664,13 +666,13 @@
 
 * 交通运输部	　 [MOT.gov.cn](http://www.mot.gov.cn )	交通部
 	- 📞 12328 全国交通运输服务监督电话 双号并行，出租车服务投诉电话
-	- +[【中国海事局】](https://www.msa.gov.cn/html/)	　 [《中国海事》]()
+	- +[【中国海事局】](https://www.msa.gov.cn/html/)🛳️ MSA	　 [《中国海事》]()
 	  - [航行警告](https://www.msa.gov.cn/html/hxaq/aqxx/)	　 军事演习等。
-	- +[【国家铁路局】](http://www.nra.gov.cn/)🚉	　 [《人民铁道》报](http://szb.peoplerail.com)
+	- +[【国家铁路局】](http://www.nra.gov.cn/)🚉 NRA	　 [《人民铁道》报](http://szb.peoplerail.com)
 	  - ☎️ 12306 [铁路客运服务热线](https://kyfw.12306.cn/otn/leftTicket/init) 买高铁车票、春运（使用123xx热线号码来源于原铁道部）
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
-	- +[【中国民用航空局】](http://www.caac.gov.cn/)✈️	　 [《中国民航报》](http://epaper.caacmedia.cn:81/)	中国民航局	
-	- +[【国家邮政局】](https://www.spb.gov.cn/ )	　 [《中国邮政报》](http://www.chinapostnews.com.cn )
+	- +[【中国民用航空局】](http://www.caac.gov.cn/)✈️ CAAC	　 [《中国民航报》](http://epaper.caacmedia.cn:81/)	中国民航局	
+	- +[【国家邮政局】](https://www.spb.gov.cn/ ) SPB	　 [《中国邮政报》](http://www.chinapostnews.com.cn )
 	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
 
 	- 🙋 直属院校（5所）：大连海事大学（辽宁）、中国民航大学（天津）、中国民用航空飞行学院（四川广汉）、广州民航职业技术学院、上海民航职业技术学院。
@@ -724,7 +726,8 @@
 	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- [机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)：内设部门、上海总部、直属机构、分支机构。	　 拒收人民币/现金？依据[《中国人民银行公告〔2020〕第18号》](http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4153528/index.html)，请向就近的分支机构（全国36个分行/中心支行）电话举报。
-	- ＋【国家外汇管理局】[]()
+	- ＋【国家外汇管理局】	　 [Safe.gov.cn](https://www.safe.gov.cn)
+	外汇券于1995年1月1日停止使用。
 	- [信用中国网](https://www.creditchina.gov.cn )💳 （与发改委共同指导）
 
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
@@ -769,12 +772,21 @@
 * 交通银行　📠 95559	[BankComm.com](https://www.bankcomm.com ) Bank of CommuniCations
 * 中国邮政储蓄银行　📠 95580	[PSBC.com](http://www.psbc.com ) 怕是不存
 
-*搞错银行网址非同小可，请仔细核对是否官方网站。*
+　　*搞错银行网址非同小可，请仔细核对是否官方网站。*
 
+　　此外还有股份制商业银行12家（招商、兴业……），民营银行17家（网商、微众、苏宁……）、地方银行约4000家、外资银行近百家……
+
+<div align="right"><a href="#" target="_self">↑Top</a></div>
 <hr>
 
-参考资料
+
+编制依据
 --------
+* 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
+* 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
+* 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
+* 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
+* 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)、共产党员网[党中央部门机构](http://news.12371.cn/dzybmbdj/)页面
 
 * 中央编办[全国党政机关事业单位互联网网站标识管理服务平台](http://bszs.conac.cn)
 * 民政部[中国社会组织公共服务平台](http://www.chinanpo.gov.cn)
@@ -788,7 +800,7 @@
 	老生常谈© 2019-2022 大萌   知识共享许可
 	CC BY-SA 3.0 可转载-可演绎-相同方式共享
 	https://laosheng.top/fuwu/zhongyang
-	中央有关部门 v1.2.2	欢迎创作地方版本
+	中央有关部门集	v1.2.4	　202211
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
