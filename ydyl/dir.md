@@ -1,12 +1,12 @@
-老生常谈 > 一带一路民间站 🌞
+老生常谈 > 一带一路 💃
 
 一带一路民间站
-==============
-大萌 2022
+=============
+大萌	2022
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
-【一带一路系列】网页　找到全世界  
+一带一路民间站，山不转啊水来转 💃
 
   + /ydyl/united　[联合国有关部门](united)🇺🇳——合作与发展：主要国际组织，联合国机关与系统。
 
@@ -39,36 +39,25 @@
 
 　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
 
-一带一路官方网址 B&R from China
-------------------------------
+
+一带一路官方网址 B&R from China Web
+----------------------------------
 
 　　<a target="_blank" title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
-	<a target="_blank" title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
-	<a target="_blank" href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
-	<a target="_blank" title="首页>外交动态>领导人活动 " href="https://www.mfa.gov.cn/web/wjdt_674879/">外交部</a>
-	（<a target="_blank" title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
-	<a target="_blank" title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
-	<a target="_blank" title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
-	（<a target="_blank" title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a> /
-	<a target="_blank" title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>）、
-	海关总署（<a target="_blank" title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
+<a target="_blank" title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
+<a target="_blank" href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
+<a target="_blank" title="首页>外交动态>领导人活动 " href="https://www.mfa.gov.cn/web/wjdt_674879/">外交部</a>
+（<a target="_blank" title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
+<a target="_blank" title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
+<a target="_blank" title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
+（<a target="_blank" title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a> /
+<a target="_blank" title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>）、
+海关总署（<a target="_blank" title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
 <!-- <a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）-->
 
 　　全球已有 <a target="_blank" title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’；　亚投行<a target="_blank" title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
 
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
-
-
-一带一路常用英文缩写
-------------------
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
-
-**云媒体常用外语词汇**  
-　　电视直播：  
-　　数字报：……
 
 
 免费翻译网站
@@ -85,13 +74,23 @@
 <a target="_blank" title="看看效果" href="https://cn.bing.com/translator">微软翻译</a>、
 <a target="_blank" title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、<small>
 <a target="_blank" title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>、
-<a target="_blank" title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a></small>
+<a target="_blank" title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a></small>_
 
-**能翻译网页的浏览器**  
+<h4>能翻译网页的浏览器 🎧</h4>
 
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
 * 谷歌 Chrome	曾经是翻译效果最好的浏览器，但202210之后谷歌关闭中国翻译服务，访问困难
 * 腾讯 QQ浏览器	可翻译英、日、韩三种语言。
+
+<h3>一带一路常用英文缩写</h3>
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+
+**云媒体常用外语词汇**  
+　　电视直播：  
+　　数字报：……
 
 
 免费地图网站
@@ -107,7 +106,7 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 <a target="_blank" title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
 #<a target="_blank" title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
 #Waze、
-<a target="_blank" title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景  
+<a target="_blank" title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
 
 **代理地图**  
 　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
@@ -125,4 +124,4 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-☁️🌧️🌤 ⛅ 🌩 ⊙💧
+☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃
