@@ -1,12 +1,12 @@
-老生常谈 > 一带一路 💃
+老生常谈 > 一带一路
 
-一带一路民间站
+一带一路民间站 💃
 =============
 大萌	2022
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
-一带一路民间站，山不转啊水来转 💃
+一带一路民间站，山不转啊水来转 🎵
 
   + /ydyl/united　[联合国有关部门](united)🇺🇳——合作与发展：主要国际组织，联合国机关与系统。
 
@@ -19,8 +19,8 @@
     + ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
 
 
-一带一路外交动态 🌞 Diplomatic Dynamics
---------------------------------------
+一带一路外交动态 Diplomatic Dynamics
+-----------------------------------
 
 	2022-11-17 　习近平抵达泰国曼谷出席 APEC（亚太经合组织）会议。
 	2022-11-14 　习近平抵达印度尼西亚巴厘岛出席G20峰会。
@@ -116,7 +116,8 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 ```
 	老生常谈 © 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
-	一带一路民间站 v2.9.8	Laosheng.top/ydyl/dir
+	https://Laosheng.top/ydyl/dir
+	一带一路民间站 v2.9.8	202212
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
