@@ -4,6 +4,8 @@
 
 		老生常谈，节约您的搜寻时间
 
++ [从世界杯看国别表](../broad/2022/worldcup) 🏆
+
 * 国家《新冠病毒防控方案》第九版-[2022年最新版+书签整理.pdf](6-xinguanfangkong.txt)
 
 * 国家《[新冠肺炎诊疗方案](6-xinguanzhenliao.txt)》的中医预防、治疗与恢复
