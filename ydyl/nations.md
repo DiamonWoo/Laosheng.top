@@ -338,8 +338,8 @@
 
 
 <h2 id="9" title="国别代码速查表">图例</h2>
-　　有一篇帮助文档可参考：《[从世界杯看国别表](../broad/2022/worldcup)🏆》
-<img align="right" src="../broad/2022/up/01-guobie-tuli-qatar.png">
+　　有一篇帮助文档可参考：《[从世界杯看国别表](worldcup)🏆》
+<img align="right" src="up/01-guobie-tuli-qatar.png">
 +	🇨🇳/ CN 　国旗或地区旗帜emoji符号/ISO国别代码2位字母
 +	+/ & 　　🇺🇳联合国的会员国 / 一带一路签约国　（五常 为5个安理会常任理事国，% 为2个观察员国）
 +	国别名/Nations　国家(地区)概况，字号大小根据国土面积分5档 / 国别英文名
@@ -377,7 +377,7 @@
 ----
 　　本页指向的国家概况页从[中国外交部网站](https://www.mfa.gov.cn/web/gjhdq_676201/)获取；本站指向的国别美图🏔️从中国[‘一带一路’官网](https://www.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10038)获取；本站指向的经贸指南页💮从中国商务部[“走出去”公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)各驻外经济商务处获取；本站指向的各国货币兑换人民币的即时汇率，由[微软必应搜索引擎](https://cn.bing.com)提供。
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，　　发现网址错误，请[向大萌报告](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
 
 <div align="right"><a href="#0" target="_top">↑ Top</a></div>
 
