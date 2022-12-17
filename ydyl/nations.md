@@ -41,10 +41,10 @@
 ------------------
 　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
 　　六大国有银行外汇牌价：  
-　　[中国银行](https://www.boc.cn/sourcedb/whpj/)、
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
-**[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)**、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
+　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
+**[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)**、
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
 　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
@@ -334,11 +334,12 @@
 	</span>
 </td></tr></tbody>
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
-
-
 <div align="right"><a href="#0" target="_top">↑ Top</a></div>
-<h2 id="9" title="国别代码速查表">图例</h2>
 
+
+<h2 id="9" title="国别代码速查表">图例</h2>
+　　有一篇帮助文档可参考：《[从世界杯看国别表](../broad/2022/worldcup)🏆》
+<img align="right" src="../broad/2022/up/01-guobie-tuli-qatar.png">
 +	🇨🇳/ CN 　国旗或地区旗帜emoji符号/ISO国别代码2位字母
 +	+/ & 　　🇺🇳联合国的会员国 / 一带一路签约国　（五常 为5个安理会常任理事国，% 为2个观察员国）
 +	国别名/Nations　国家(地区)概况，字号大小根据国土面积分5档 / 国别英文名
@@ -348,17 +349,17 @@
 +	💱货币名　可查询兑换人民币的当前汇率
 +	⚽　　　　入围2022年世界杯的32个国家
 
-　　注1：旗帜图案在Win10默认情况看不见，只能看见两个字母，比如中国🇨🇳只看见CN。  
+　　注1：旗帜图案在Win10默认情况看不见，只能看见两个字母，比如中国🇨🇳只看见CN。想找各国旗帜图案可到[联合国网站](https://www.un.org/zh/about-us/member-states)。  
 　　注2：部分货币符号没有收录，主要是阿拉伯文或者难以辨认的符号。  
 
 *	🏔️/💮/🏪 / 🏛/👥/🏢　
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
-
 <div align="right"><a href="#0" target="_top">↑ Top</a></div>
-<h2 id="10" title="各种代码的来源">收录口径与进度</h2>
 
+
+<h2 id="10" title="各种代码的来源">收录口径与进度</h2>
 　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
 　　**国别表**收录口径为ISO全部国别249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208）。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
@@ -384,7 +385,7 @@
 	老生常谈 © 2019-2022 大萌 知识共享 3.0
 	CC  BY-NC-ND	可转载-需署名-非营利
 	https://laosheng.top/ydyl/nations
-	国别代码速查表	v0.7.1	202212
+	国别代码速查表	v0.7.2	202212
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
