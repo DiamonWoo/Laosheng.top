@@ -8,11 +8,11 @@
 
 一带一路民间站，山不转啊水来转 🎵
 
-  + /ydyl/united　[联合国有关部门](united)🇺🇳——合作与发展：主要国际组织，联合国机关与系统。
+  + /ydyl/united　[联合国有关部门](united)🇺🇳——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。建设中……
 
-  + /ydyl/nations　[世界国别代码表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。测试中
+  + /ydyl/nations　[国别代码速查表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
 
-  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞_　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
+  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞_　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。更新中……
 
   + 人类命运共同体⭕……（规划中）　
     + ydyl/prize　国际大赛与荣誉[](prize)——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
@@ -22,6 +22,7 @@
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
 
+	2022-12-07 　习近平抵达沙特利雅得进行国事访问，并出席首届中国—阿拉伯国家峰会。
 	2022-11-17 　习近平抵达泰国曼谷出席 APEC（亚太经合组织）会议。
 	2022-11-14 　习近平抵达印度尼西亚巴厘岛出席G20峰会。
 	2022-11-04 　中国进口博览会开幕
@@ -68,13 +69,17 @@
 #<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
 <a target="_blank" title="曾经和谷歌联手的金山词霸" href="https://www.iciba.com/fy">爱词霸</a>、
-<a target="_blank" title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、
-<a target="_blank" title="提供人工付费服务" href="http://fanyi.youdao.com">网易有道</a></small>、
+<a target="_blank" title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a></small>、
 <a target="_blank" title="网址可确定语言种类" href="https://fanyi.baidu.com">百度翻译</a>、
 <a target="_blank" title="看看效果" href="https://cn.bing.com/translator">微软翻译</a>、
 <a target="_blank" title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、<small>
 <a target="_blank" title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>、
-<a target="_blank" title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a></small>_
+<a target="_blank" title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>、
+%<a target="_blank" title="不兼容Fx古典浏览器" href="http://fanyi.youdao.com">网易有道</a>、
+%<a target="_blank" title="不兼容Fx古典浏览器，提供浏览器插件" href="https://fanyi.caiyunapp.com/">彩云小译</a>、
+<a target="_blank" title="提供本地软件" href="https://dict.eudic.net">欧陆词典</a>
+</small>
+
 
 <h4>能翻译网页的浏览器 🎧</h4>
 
@@ -117,7 +122,7 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 	老生常谈 © 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v2.9.8	202212
+	一带一路民间站 v2.9.9	202212
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
