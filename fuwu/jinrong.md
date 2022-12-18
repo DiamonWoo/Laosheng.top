@@ -1,13 +1,15 @@
-中国个体金融圈 💱
+个人理财金融圈 🥯
 ================
 大萌	202212	<base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
-<meta property="og:title" content="中国金融交易所，改革开放出成果 💱">
+<meta property="og:title" content="个人理财金融圈，终极策略是安全 🥯">
 <meta property="og:description" content="证券股市交易、黄金期货交易、外汇、保险、信托">
 <meta property="og:image" content="📈">
 
 		防范金融风险还须解决许多重大问题——二十大报告
+
+　　个人理财在面对纷繁复杂的金融大潮时，需要坚守底线，认清全局。本页面将结合‘集成网页’理论，帮助大家认清中国金融生态圈。
 
 　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。
 
@@ -439,3 +441,5 @@ Exchange
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
+
+💱🥯
