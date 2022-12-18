@@ -17,8 +17,8 @@
 　【服务】系列　找到有关部门
   + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
   + /fuwu/fazhi　🏢 [法治政府有关部门](fuwu/fazhi) 　全国省地市的 立法/司法/执法/普法 有关部门。
-  + /fuwu/jinrong　💱 [中国金融交易所](fuwu/jinrong)　全国银行、股市、保险机构名录。
   + /fuwu/qianxian　📑 [中国千县政府网](fuwu/qianxian)，全国所有省/市/县政府网站，2021年数据。
+  + /fuwu/jinrong　🥯 [个人理财金融圈](fuwu/jinrong)　全国银行、股市、保险机构名录。
   + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
   + ……
 
