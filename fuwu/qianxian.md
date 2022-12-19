@@ -1,8 +1,9 @@
-老生常谈 > [有关部门](.){:target="_self"} 🕘<base target="_blank">
-
 中国千县政府网 📑
 ================
-大萌	2021-2022
+大萌	2021-2022	<base target="_blank">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="老生常谈" />
+<meta property="og:url" content="https://Laosheng.top/fuwu/qianxian" />
 
 		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
 
@@ -14,6 +15,9 @@
 
 　　**千县网**收录省级政府网址34+1个，地市级333+3个，县区级2841个，合计政府网址3212个。由于种种原因，目前尚有5个地方未能收录人民政府网址，分别是：福建省泉州市金门县，海南省三亚市海棠区、三沙市西沙区、南沙区，台湾省。 ‘千县网’还给每个省都配了地图链接，大部分允许手机浏览器访问。具体备选地图与收录进度见页面底部。
 
+<div align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/中国千县政府网
+</div>
 
 35个省级单位索引
 ----------------
@@ -3691,7 +3695,7 @@
 *	360地图
 
 　　国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
-　如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>向大萌报告</a>，感谢！❀
+　如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>告知大萌</a>，感谢！❀
 
 <div align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></div>
 
@@ -3727,7 +3731,7 @@
 	老生常谈 © 2019-2022 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.6.4	202212
+	中国千县地名图	v0.6.5	202212
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
