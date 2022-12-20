@@ -6,18 +6,20 @@
 
 一带一路民间站，山不转啊水来转 🎵
 
-  + /ydyl/united　[联合国有关部门](united)🇺🇳——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。建设中……
++  /ydyl/united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。建设中……
 
-  + /ydyl/nations　[国别代码速查表](nations)🗺，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
++  /ydyl/nations　🗺 [国别代码速查表](nations)，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
 
-  + /ydyl/index　[一带一路云媒体](index){:target="_blank"}🌞_　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。更新中……
++  /ydyl/finance　💱 世界金融交易所　（筹备中）
 
-  + 人类命运共同体⭕……（规划中）　
-    + ydyl/prize　国际大赛与荣誉[](prize)——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
-    + ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
++  /ydyl/index　🌞 [一带一路云媒体](index){:target="_blank"}　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。更新中……
+
++  ⭕ 人类命运共同体……（规划中）　
+   + ydyl/prize　国际大赛与荣誉[](prize)——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
+   + ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
 
 <div align="right">
-	🏠 老生常谈
+	⏩ 老生常谈
 /	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
 </div>
 
@@ -63,20 +65,15 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-一带一路常用英文缩写
-------------------
+一带一路常用词汇与网址
+--------------------
 
 　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
 　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
 　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
 　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
 
-**云媒体常用外语词汇**  
-　　电视直播：  
-　　数字报：……
-
 <h3 id="fanyi">免费翻译网站</h3>
-
 　　谷歌翻译
 #<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
@@ -97,6 +94,10 @@
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
 * 谷歌 Chrome	曾经是翻译效果最好的浏览器，但202210之后谷歌关闭中国翻译服务，访问困难
 * 腾讯 QQ浏览器	可翻译英、日、韩三种语言。
+
+*云媒体常用外语词汇*  
+　　电视直播：  
+　　数字报：……
 
 
 <h3 id=ditu>免费地图网站</h3>
@@ -129,4 +130,4 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃
+☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃🏠⏩
