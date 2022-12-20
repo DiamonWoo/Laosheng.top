@@ -1,7 +1,5 @@
-老生常谈 > 一带一路
-
 一带一路民间站 💃
-=============
+===============
 大萌	2022
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
@@ -18,6 +16,10 @@
     + ydyl/prize　国际大赛与荣誉[](prize)——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
     + ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
 
+<div align="right">
+	🏠 老生常谈
+/	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
+</div>
 
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
@@ -61,9 +63,19 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-免费翻译网站
-------------
-<!-- <h3>4.1 更好的翻译工具 🎧</h3> -->
+一带一路常用英文缩写
+------------------
+
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+
+**云媒体常用外语词汇**  
+　　电视直播：  
+　　数字报：……
+
+<h3 id="fanyi">免费翻译网站</h3>
 
 　　谷歌翻译
 #<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
@@ -80,27 +92,14 @@
 <a target="_blank" title="提供本地软件" href="https://dict.eudic.net">欧陆词典</a>
 </small>
 
-
 <h4>能翻译网页的浏览器 🎧</h4>
 
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
 * 谷歌 Chrome	曾经是翻译效果最好的浏览器，但202210之后谷歌关闭中国翻译服务，访问困难
 * 腾讯 QQ浏览器	可翻译英、日、韩三种语言。
 
-<h3>一带一路常用英文缩写</h3>
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
 
-**云媒体常用外语词汇**  
-　　电视直播：  
-　　数字报：……
-
-
-免费地图网站
-------------
-
+<h3 id=ditu>免费地图网站</h3>
 　　天地图
 <a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
@@ -122,7 +121,7 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 	老生常谈 © 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v2.9.9	202212
+	一带一路民间站 v2.9.10	202212
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
