@@ -65,9 +65,7 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-一带一路地图网站{:id="ditu"}
----------------
-<!-- <h2 id=ditu>一带一路地图网站</h2> -->
+<h2 id=ditu>一带一路地图网站</h2>
 　　天地图
 <a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
