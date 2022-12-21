@@ -10,12 +10,12 @@
 
 +  /ydyl/nations　🗺 [国别代码速查表](nations)，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
 
-+  /ydyl/finance　💱 世界金融交易所　（筹备中）
-
 +  /ydyl/index　🌞 [一带一路云媒体](index){:target="_blank"}　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。更新中……
 
++  💱 世界金融交易所　finance（筹备中）
+
 +  ⭕ 人类命运共同体……（规划中）　
-   + ydyl/prize　国际大赛与荣誉[](prize)——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
+   + 国际大赛与荣誉　——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
    + ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
 
 <div align="right">
@@ -65,7 +65,27 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-一带一路常用词汇与网址
+一带一路地图网站{:id="ditu"}
+---------------
+<!-- <h2 id=ditu>一带一路地图网站</h2> -->
+　　天地图
+<a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
+<a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
+d<a target="_blank" title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
+<a target="_blank" title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
+d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
+<a target="_blank" href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
+<a target="_blank" title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
+#<a target="_blank" title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
+#Waze、
+<a target="_blank" title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
+
+**代理地图**  
+　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
+ 	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
+
+
+民间翻译网站与常用词汇
 --------------------
 
 　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
@@ -100,26 +120,8 @@
 　　数字报：……
 
 
-<h3 id=ditu>免费地图网站</h3>
-　　天地图
-<a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
-<a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
-d<a target="_blank" title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-<a target="_blank" title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
-d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
-<a target="_blank" href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
-<a target="_blank" title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
-#<a target="_blank" title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
-#Waze、
-<a target="_blank" title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
-
-**代理地图**  
-　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
- 	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
-
-
 ```
-	老生常谈 © 2019~2022 大萌 创作共用3.0
+	老生常谈 © 2019~2022 大萌 创作共用 3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
 	一带一路民间站 v2.9.10	202212
