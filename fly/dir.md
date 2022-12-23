@@ -46,6 +46,12 @@ Ideal Software Form of Cloud Media
 + 中国报纸的数字化技术为什么全球领先？
 
 
+支持网站
+-------
+
+　　……
+
+
 ```
 	老生常谈 © 2019~2022 大萌  创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
@@ -53,6 +59,8 @@ Ideal Software Form of Cloud Media
 	全球免费云媒体 v2.9.7	202212
 ```
 
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
