@@ -1,23 +1,26 @@
-老生常谈 > 云媒体 ☁️
-
-全球免费云媒体
-===============
+全球免费云媒体 ☁️
+================
 大萌	2019-2022
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="老生常谈" />
+<meta property="og:url" content="https://Laosheng.top/fly/dir" />
 
 		天边飘过 / 故乡的云 / 它不停的 / 向我召唤 ——《故乡的云》小轩
 
 【云媒体】系列网页　找到新闻来源  
 
-  + /fly/index　☁️ [中国新闻云媒体](fly){:target="_blank"}_，看新闻只需浏览器。　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
-    - /fly/index2.html [云媒体第二页](fly/index2.html)📜️：教育台与科技报、县区级报纸与电视、图例与帮助。
+  + /fly/index　☁️ [中国新闻云媒体](.){:target="_blank"}，看新闻只需浏览器。　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
+    - /fly/index2.html　📜️ [云媒体第二页](index2.html)：教育台与科技报、县区级报纸与电视、图例与帮助。
 
-  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )，中国对外宣传的官方媒体。中国人民解放军官方微博、ChinaDaily、环球时报、中央外文局……
+  + /fly/waixuan　🔥 [中央外宣云媒体](waixuan )，中国对外宣传的官方媒体。中国人民解放军官方微博、ChinaDaily、环球时报、中央外文局……
 
   + /ydyl/　🌞 一带一路云媒体，收录在【[一带一路](../ydyl/dir)】系列  
-　　丝绸之路的有关国家和媒体，报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。
-
+　　丝绸之路的有关国家和媒体，报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家；世界各国驻华使馆、政府官网、国别域名。  
 　　此外，【服务】系列网页也有少量政府部门免费云媒体。
 
+<div align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fly" target="_top">【全球免费云媒体】</a>
+</div>
 
 什么是云媒体？ Cloud Media
 -------------------------
@@ -42,11 +45,11 @@ Ideal Software Form of Cloud Media
 + 中国报纸的数字化技术为什么全球领先？
 
 
-
 ```
-	老生常谈 © 2019~2022	大萌 创作共用3.0
+	老生常谈 © 2019~2022 大萌  创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
-	云媒体系列 v2.9.6　	Laosheng.top/fly/dir
+	https://Laosheng.top/fly/dir
+	全球免费云媒体 v2.9.7	202212
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
