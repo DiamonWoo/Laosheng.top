@@ -1,5 +1,5 @@
-/* Laosheng.top 老生常谈 */
-/* 云媒体系列页面使用 */
+/* https://Laosheng.top */
+/* 老生常谈云媒体系列页面 */
 
 	body 	{background-image: linear-gradient( Azure, WhiteSmoke, Cornsilk); 
 		background-repeat: no-repeat;
@@ -21,7 +21,7 @@
 		{background-color: white;	/*height: 10px; */
 		margin-left: 1em;}
 
-/* 云媒体国字表格 */
+/* 新闻云中字表格 */
 	table.zhong
 		{width: 1008px; height: 270px;	/* 1200px v2.1 解决Edge兼容性跟进*/
 		/* margin:auto -5px; 尝试居中偏左，尚未成功 	*/
@@ -33,19 +33,14 @@
 	td#zhong	{border-color: red;	border-width: 3px;}
 	td#西南  	{border-color: red;	border-width: 0 3px 0 0;}
 
-/* 外宣云媒体 */
+/* 外宣云列表 */
 	table.外文云	{ }	/*margin-right: 1%; */
 	table.外文云 td {text-align: center;	}
 
-/* 地区语言颜色 */
-	span.ar	{background-color: lightgreen;}	/* Arab 绿色*/
-	span.bo	{background-color: Violet;}	/* 波斯语 紫色 Plum fuchsia */
-	span.fa {background-color: LightSteelBlue; } /* 法语 铁青色 SteelBlue */
-	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
-/* 一带一路两个表格 */
+/* 一带一路云媒体地图 */
 	table#主要国家
 	{	width: 1280px; height: 720px;	/* width: 1280px; height: 720px; */
-	background-image: url(yidaiyilu-main-v-0.8.0.png);
+	background-image: url(../ydyl/yidaiyilu-map-main.png);
 /* 	图片名的'单引号'是多余的，"双引号"效果一样。 */
 /* 	background-repeat: no-repeat;  */
  	background-size: contain;
@@ -54,26 +49,18 @@
 	table#其他国家
 	{	width: 720px; height: 960px; 		/* height: 1280px; */
  	background-position: center;  background-size: contain;
- 	background-image: url('yidaiyilu-other-v-0.8.0.gif'); 
+ 	background-image: url('../ydyl/yidaiyilu-map-meizhou.gif'); 
 	}
+/* 世界语言色块 */
+	span.ar	{background-color: lightgreen;}	/* Arab 绿色*/
+	span.bo	{background-color: Violet;}	/* 波斯语 紫色 Plum fuchsia */
+	span.fa {background-color: LightSteelBlue; } /* 法语 铁青色 SteelBlue */
+	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
 
-/* 一带一路有关部门 */
+/* 联合国有关部门 */
 	table.国际云 {	margin-right: 2%;	margin-left: 2%;}	/*margin-left: 1em;*/
 	table.国际云 td {text-align: center;	}
 	h3.国际范 { 	margin-top: -1em; }
-	table#u主要国家
-	{	width: 640px; height: 440px;	/* 1920*1080 */
-	background-image: url(yidaiyilu-main-v-0.8.0.png);
- 	/*background-repeat: no-repeat;  */
- 	background-size: 175% ; 	/*cover*/
- 	background-position: -165px -100px; /*background-position: -150px -40px; */
-	}
-	table#u其他国家
-	{	width: 360px; height: 480px; 	/* 1080*1440 */
-	background-image: url('yidaiyilu-other-v-0.8.0.gif'); 
- 	background-size: 175%;
- 	background-position: -180px -280px; 
-	}
 
 /* 中图法表格测试 */
 	table.AZ{font-size: 0.75em; 
