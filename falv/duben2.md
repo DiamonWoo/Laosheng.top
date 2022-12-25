@@ -1,12 +1,13 @@
-老生常谈 之 [大萌望海楼](./)
-
-大萌法律读本2<sub>常用法</sub>
-----------------------------
-大萌 © 2021-2022
+大萌法律读本 2<sub>常用法</sub>
+-------------
+大萌 © 2022
 
 　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见[大萌望海楼](./)介绍。  
 　　第2页收录八大法之外的常用法律：治安管理处罚法、传染病防治法、噪声污染防治法……。
 
+<div align="right">
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>
+</div>
 
 2012-治安管理处罚法
 ------------------
@@ -50,7 +51,7 @@
 	第九章　附则
 		第八十条　本法自2004年12月1日起施行。
 
-+	md格式阅读：[2021-传染病防治法](duben/2013-传染病防治法)
++	md格式阅读：[2013-传染病防治法](duben/2021-传染病防治法)
 +	epub格式下载：[]() 
 
 
@@ -77,14 +78,14 @@
 +	epub格式下载：[]() 
 
 
-　　法律读本收录中，欢迎给大萌[提出意见](https://xoyondo.com/mb/JyVSHzf5y4nuVRi)
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
 
 
 ```
 	老生常谈© 2019~2022 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	大萌法律读本 2 	202211
-	v0.5.4 　	Laosheng.top/falv/duben2
+	https://Laosheng.top/falv/duben2
+	大萌法律读本2 	v0.5.5 　202212
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
@@ -94,5 +95,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-
 🗄️📃📑☸️♎⚖️🌅☀️📕📘📗📙📖🖨️
