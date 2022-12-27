@@ -20,6 +20,7 @@
 </div>
 
 <div id="mulu">目录</div>
+
  1 [人大](#1-全国人民代表大会){:target="_top"}　
  2 [两高](#2-最高法和最高检){:target="_top"}　
  3 [人民政协](#3){:target="_top"}
@@ -31,11 +32,11 @@
  4.2 [办事机构 8个](#42-中共中央办事机构-8个){:target="_top"}
  4.3 [事业单位](#44-中共中央直属事业单位-9个){:target="_top"}
  4.4 派出机关　
- 5 [国务院](#5-中央人民政府国务院){:target="_top"}
- 5.1 [办事机构](#51-国务院办事机构及中共中央承担职责机构){:target="_top"}
- 5.2 [事业单位](#52-国务院直属事业单位){:target="_top"}
- 5.3 [总局总署](#53-国务院直属机构总局总署){:target="_top"}
- 5.4 [26个部委](#54-国务院26个部委及部委管理的国家局){:target="_top"}
+ 5 [国务院](#5-🏢-中央人民政府（国务院）){:target="_top"}
+ 5.1 [办事机构](#gov-banshi){:target="_top"}
+ 5.2 [事业单位](#gov-shiye){:target="_top"}
+ 5.3 [总局总署](#gov-jushu){:target="_top"}
+ 5.4 [26个部委](#gov-buwei){:target="_top"}
  5.5 直属特设机构　
  6 [大型国企](#6){:target="_top"}
 　[编制依据](#编制依据)
@@ -60,10 +61,10 @@
   - 会议与记者会	[网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
   - 全国人大常委会办公厅
   	- [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 
-  	- [【国家法律法规数据库】](https://flk.npc.gov.cn/ )⭐网站，提供现行有效法律的目录与电子文本。
+  	- [国家法律法规数据库](https://flk.npc.gov.cn/ )⭐【国法库】网站，提供现行有效法律的目录与电子文本。
   - 国家监委/【中央纪委】 请见中国共产党段落
 
-* 34-3个省级人大网站请见[法治政府有关部门](../fuwu/fazhi)页面，按身份证号码排序，不含港澳台。
+* 34-3个省级人大网站请见[法治政府有关部门](../fuwu/fazhi)页面。
 
 
 2 最高法和最高检
@@ -199,7 +200,7 @@
 
 * 中央委员会 	　（中共中央/党中央）[]()  
 党的全国代表大会和它所产生的中央委员会是中国共产党的最高领导机关
-  - [第二十次全国代表大会](https://www.12371.cn/special/20da/)　2022年10月16日 [20大报告全文](https://www.12371.cn/2022/10/25/ARTI1666705047474465.shtml) 为全面建设社会主义现代化国家而团结奋斗  
+  - [第二十次全国代表大会](https://www.12371.cn/special/20da/)　2022年10月16日 [20大报告全文](https://www.12371.cn/special/xg20djs/wj/) 为全面建设社会主义现代化国家而团结奋斗  
 	[第二十届中央委员会名单](http://cpc.people.com.cn/GB/64162/394696)（205名）[大幅照片](https://news.cnr.cn/native/gd/sz/20221023/t20221023_526040821.shtml)
   - [第十九次全国代表大会](https://www.12371.cn/special/20da/)　2017年10月18日 [19大报告全文](https://www.12371.cn/2017/10/27/ARTI1509103656574313.shtml) 决胜全面建成小康社会　[第十九届中央委员会名单](http://www.xinhuanet.com/politics/19cpcnc/2017-10/24/c_1121848878.htm)（204名）
   - [第十八次全国代表大会](https://www.12371.cn/special/18cpcnc/)　2012年11月8日 [18大报告全文](https://www.12371.cn/2012/11/17/ARTI1353154601465336.shtml) 为全面建成小康社会而奋斗　
@@ -232,7 +233,7 @@
 	2018年《深化党和国家机构改革方案》
 	　推进职责相近的党政机关合并设立或合署办公，优化部门职责，提高党把方向、谋大局、定政策、促改革的能力和定力，确保党的领导全覆盖
 
-* 中共中央办公厅	　 []()
+* 中共中央办公厅	　 中办[]()
 	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
 	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
@@ -240,40 +241,41 @@
 	- +【中央国家安全委员会办公室】
 	- 🙋直属高校（1所）：[北京电子科技学院](https://www.besti.edu.cn/) （北京丰台，培养保密与信息安全人才）
 
-* 中共中央组织部	　 [共产党员网](http://www.12371.cn) 12371组工网站
-	- [中组部](http://news.12371.cn/dzybmbdj/zzb/)介绍 / 12371[网址导航](http://fuwu.12371.cn/daohang/)
+* 中共中央组织部	　 中组部
+	- [12371 共产党员网](http://www.12371.cn)
+	- 中组部[介绍](http://news.12371.cn/dzybmbdj/zzb/) / [各省](https://news.12371.cn/zzgzdt/)组织工作
+	- 全国[党建网站联盟](http://dwlm.12371.cn/)地图	（中央部委/中管金融/中管企业/中管高校）
 	- [组工文件](http://www.12371.cn/special/zgwjk/)：党章党规/宪法法律/文件汇编……
-	- ☎️ 12371 [党员咨询服务](http://www.12371.cn/12371zixun/)电话
-	- 全国党委网站/党建网站，
-	  - 地图版： 全国[党网联盟](http://dwlm.12371.cn/)	 　*版式直观，但内容陈旧*
-	  - 文字版： 全国[党建网群](http://fuwu.12371.cn/daohang/djwq/)	 　*部分地区空缺*
+	- ☎️ 12371 [党务问答](https://wenda.12371.cn/) 党员咨询服务电话
+	- 党的[思想理论](https://www.12371.cn/special/sxll/) 党和国家领导人著作、马克思恩格斯全集、资本论
+	- 党内[统计公报](https://news.12371.cn/dzybmbdj/zzb/dntjgb/)
+	
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
 
-* 中共中央宣传部	　 中宣部，[*直属中央媒体*](../fly)
+* 中共中央宣传部	　 中宣部　[*直属中央媒体*](../fly)
 	- ☎️ 12361 宣传舆情研究中心 服务电话
 	  - 学习强国[网站](https://www.xuexi.cn/) 和App，值班电话：010-55624303、010-55624311。
 	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
 	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】
-	  - 报纸杂志查询
-	  - 中国记者网 [记者证查询](https://press.nppa.gov.cn/)
+	  - [从业机构查询](https://www.nppa.gov.cn/nppa/channels/296.shtml)：报纸杂志出版社、光盘、游戏
+	  - 中国记者网 [记者证查询](https://press.nppa.gov.cn/) / 单位违规
 	- +【[国家电影局](http://www.chinafilm.gov.cn/)】 *2018年，电影管理职责由国务院广电总局划转中宣部*
-	  - 电影备案立项公示、公映许可证等[公示信息](https://www.chinafilm.gov.cn/chinafilm/channels/167.shtml)
-	  - 中国电影[华表奖](https://www.chinafilm.gov.cn/chinafilm/channels/147.shtml)
+	  - 中国电影[华表奖](https://www.chinafilm.gov.cn/chinafilm/channels/147.shtml) / 电影备案立项公示、公映许可证等[公示信息](https://www.chinafilm.gov.cn/chinafilm/channels/167.shtml)
 	  - [全国点播影院](https://gjdbyy.cn/)、点播设备、点播院线等。
 	  - 中国电影资料馆[概述](https://www.cfa.org.cn/cfa/ljwm/gs/)；电影目录查询（数据库建设中）。
 	- +【[国家版权局](http://www.ncac.gov.cn/)】
 	- +代管 中央文明办[中国文明网](http://www.wenming.cn)
-	- 中国外文出版发行事业局　 [中国外文局](http://www.cipg.org.cn) 中宣部管理的事业单位，对外称：CICG 中国国际传播集团　*参见“🔥[中方外宣云媒体](../fly/waixuan)”*
+	- 中国外文出版发行事业局　 [中国外文局](http://www.cipg.org.cn) 中宣部管理的事业单位，对外称：CICG 中国国际传播集团　*参见“🔥[中央外宣云媒体](../fly/waixuan)”*
 
-* 中共中央统一战线工作部	　 [ZYTZB.gov.cn](http://www.zytzb.gov.cn) 统战部
+* [中央统战部](http://www.zytzb.gov.cn)	　 ZYTZB.gov.cn 中共中央统一战线工作部
 	- 多党合作、少数民族、宗教事务、非公经济、侨务工作、[新的社会阶层人士](http://www.zytzb.gov.cn/xdxw/index.jhtml)、党外知识分子、港澳台、涉藏工作、涉疆工作
 	- +【[国家宗教事务局](http://www.sara.gov.cn/)】
 	- +【国务院侨务办公室】[国侨办](https://www.gqb.gov.cn)
 	- +【国务院港澳事务办公室】[港澳办](https://www.hmo.gov.cn)
 	- 🙋直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
 
-* 中共中央对外联络部	　 [IDCPC.Org.CN](https://www.idcpc.org.cn) 中联部
+* [中联部](https://www.idcpc.org.cn) 	　IDCPC.org.cn 中共中央对外联络部
 	- [联络动态](https://www.idcpc.org.cn/lldt/)	　 中联部[新闻办头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAghix0viBI60n7U2S6QD2G1N8hepls4WVQUUXBfdXNU4)
 	- 中央精神宣介会[会议论坛](https://www.idcpc.org.cn/ztwy/hytl/)
 	- 《[图解中共：中共如何选拔任用党政领导干部？](http://www.idcpc.gov.cn/ljwd/tupianji/202001/t20200102_137380.html)》
@@ -388,14 +390,14 @@
 	<a href="http://www.xinjiang.gov.cn/">新疆</a>(0991 乌鲁木齐)
 	<a href="http://www.xjbt.gov.cn/">新疆生产建设兵团</a>
 <br>　
-	(+886)<a class="nohover" rel="nofollow">台湾</a>　　　
+	(+886)<a class="nohover" rel="nofollow">台湾</a>　　
 	(+852)<a href="http://www.gov.hk/" rel="nofollow">香港</a>　
-	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>　
+	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>　　
 
-　　*大萌为您提供SQLite格式的[中国千县地名库](dimingku)*（待修订）
+   *全国三千多个市、县级政府网站请见：[中国千县政府网](qianxian)*
 
-5.1 国务院办事机构（及中共中央承担职责机构）
-------------------------------------------
+<h2 id="gov-banshi">5.1 国务院办事机构</h2>
+（及中共中央承担职责机构）
 
 * 国务院研究室
 * 国务院侨务办公室 +⋙ 中央统战部	　 []()
@@ -410,8 +412,7 @@
 
 	*中共中央各部门 请参见上方段落*[]()
 
-5.2 国务院直属事业单位
-----------------------
+<h2 id="gov-shiye">5.2 国务院直属事业单位</h2>
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 * 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
@@ -454,8 +455,9 @@
 * 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
 	- [网上党校](https://wsdx.ccps.gov.cn/)
 
-5.3 国务院直属机构（总局总署）
------------------------------
+
+<h2 id="gov-jushu">5.3 国务院直属机构</h2>
+（总局总署）
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 	1982年《国务院组织法》第十一条
@@ -516,9 +518,9 @@
 * 国家反垄断局	　 [网站待公布]() 2021年11月亮相，承办国务院反垄断委员会日常工作。
 	- 。。。
 
-5.4 🏢 国务院26个部委（及部委管理的国家局）
----------------------------------------
-<div align="right"><a href="#目录" target="_self">↑Top</a></div>
+<h2 id="gov-buwei">5.4 🏢 国务院26个部委</h2>
+（及部委管理的国家局）
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 	1982年《国务院组织法》第八条
 	　国务院各部、各委员会的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。
@@ -797,7 +799,7 @@
 	老生常谈© 2019-2022 大萌   知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.2.6	　202212
+	中央有关部门集	v1.2.7	　202212
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
