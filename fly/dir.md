@@ -1,6 +1,6 @@
-全球免费云媒体 ☁️
+全球免费云媒体 ⛅
 ================
-大萌	2019-2022
+大萌	2019-2023
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="老生常谈" />
 <meta property="og:url" content="https://Laosheng.top/fly/dir" />
@@ -14,7 +14,7 @@
 
   + /fly/waixuan　🔥 [中央外宣云媒体](waixuan)，全球吃瓜学外语。 ChinaDaily、中国外文局旗下报刊、环球时报、解放军官方微博、明星微博粉丝榜……
 
-  + /ydyl/　🌞 一带一路云媒体，收录在【[一带一路](../ydyl/dir)】系列  
+  + /ydyl/　🌞 [一带一路云媒体](../ydyl/)，收录在【[一带一路](../ydyl/dir)】系列  
 　　丝绸之路国家的主要媒体：报纸、电视、通讯社；收录习主席发表署名文章的海外报纸56家。
 
 　　此外，【服务】系列网页也有少量政府部门免费云媒体。
@@ -56,7 +56,7 @@ Ideal Software Form of Cloud Media
 	老生常谈 © 2019~2022 大萌  创作共用3.0
 	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
 	https://Laosheng.top/fly/dir
-	全球免费云媒体 v2.9.7	202212
+	全球免费云媒体 v2.9.8	202301
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
