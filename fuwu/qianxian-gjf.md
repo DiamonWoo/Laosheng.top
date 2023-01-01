@@ -1,55 +1,64 @@
-老生常谈 > [有关部门](.){:target="_self"}_🕘<base target="_blank">
-
 中国千县公检法
-==============
-大萌	202205-doing
+===============
+大萌	2022-2023	<base target="_blank">
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="老生常谈" />
+<meta property="og:url" content="https://Laosheng.top/fuwu/qianxian-gjf" />
 
-		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
+		以公开促公正 用公正树公信——201311 全国法院司法公开工作推进会 周强
+
+　　自动十八大推动司法体制改革以来，网络成为法治信息公开的重要渠道。**中国千县公检法**网页作为‘法治政府有关部门’的子项目，用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式，尝试收录全国县以上公检法网址。  
+　　**公检法**收录行政区划与‘千县网’相同，未来将扩充到非行政区划公检法，有望成为‘超大规模集成网页’(VLSIP)。  
+
+<div align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/中国千县公检法
+</div>
 
 收录进度
 --------
 
+<!-- +	增补广东省广州市、深圳市的公检法，江苏省南京市的公安微博 -->
 +	已收录全国333个地级市的Ⓖ公安微博
 +	已收录全国3212个县级以上地方政府网址（个别网站未发现）
 +	已收录全国3212个县级以上行政区划代码与地名（县、地、省）
 
 35个省级单位索引
 ----------------
-<a href="#11" target="_self">11-北京</a>　
-<a href="#12" target="_self">12-天津</a>　
-<a href="#13" target="_self">13-河北</a>　
-<a href="#14" target="_self">14-山西</a>　
-<a href="#15" target="_self">15-内蒙古</a>　
-<a href="#21" target="_self">21-辽宁</a>　
-<a href="#22" target="_self">22-吉林</a>　
-<a href="#23" target="_self">23-黑龙江</a>　
-<a href="#31" target="_self">31-上海</a>　
-<a href="#32" target="_self">32-江苏</a>　
-<a href="#33" target="_self">33-浙江</a>　
-<a href="#34" target="_self">34-安徽</a>　
-<a href="#35" target="_self">35-福建</a>　
-<a href="#36" target="_self">36-江西</a>　
-<a href="#37" target="_self">37-山东</a>　
-<a href="#41" target="_self">41-河南</a>　
-<a href="#42" target="_self">42-湖北</a>　
-<a href="#43" target="_self">43-湖南</a>　
-<a href="#44" target="_self">44-广东</a>　
-<a href="#45" target="_self">45-广西</a>　
-<a href="#46" target="_self">46-海南</a>　
-<a href="#50" target="_self">50-重庆</a>　
-<a href="#51" target="_self">51-四川</a>　
-<a href="#52" target="_self">52-贵州</a>　
-<a href="#53" target="_self">53-云南</a>　
-<a href="#54" target="_self">54-西藏</a>　
-<a href="#61" target="_self">61-陕西</a>　
-<a href="#62" target="_self">62-甘肃</a>　
-<a href="#63" target="_self">63-青海</a>　
-<a href="#64" target="_self">64-宁夏</a>　
-<a href="#65" target="_self">65-新疆</a>　
-<a href="#6590" target="_self">6590-新疆兵团</a>　
-<a href="#71" target="_self">71-台湾</a>　
-<a href="#81" target="_self">81-香港</a>　
-<a href="#82" target="_self">82-澳门</a>
+<a href="#11" target="_top">11-北京</a>　
+<a href="#12" target="_top">12-天津</a>　
+<a href="#13" target="_top">13-河北</a> 冀　
+<a href="#14" target="_top">14-山西</a> 晋　
+<a href="#15" target="_top">15-内蒙古</a> 蒙　
+<a href="#21" target="_top">21-辽宁</a>　
+<a href="#22" target="_top">22-吉林</a>　
+<a href="#23" target="_top">23-黑龙江</a>　
+<a href="#31" target="_top">31-上海</a> 沪　
+<a href="#32" target="_top">32-江苏</a> 苏　
+<a href="#33" target="_top">33-浙江</a> 浙　
+<a href="#34" target="_top">34-安徽</a> 皖　
+<a href="#35" target="_top">35-福建</a> 闽　
+<a href="#36" target="_top">36-江西</a> 赣　
+<a href="#37" target="_top">37-山东</a> 鲁　
+<a href="#41" target="_top">41-河南</a> 豫　
+<a href="#42" target="_top">42-湖北</a> 鄂　
+<a href="#43" target="_top">43-湖南</a> 湘　
+<a href="#44" target="_top">44-广东</a> 粤　
+<a href="#45" target="_top">45-广西</a> 桂　
+<a href="#46" target="_top">46-海南</a> 琼　
+<a href="#50" target="_top">50-重庆</a> 渝　
+<a href="#51" target="_top">51-四川</a>　
+<a href="#52" target="_top">52-贵州</a>　
+<a href="#53" target="_top">53-云南</a>　
+<a href="#54" target="_top">54-西藏</a> 藏　
+<a href="#61" target="_top">61-陕西</a>　
+<a href="#62" target="_top">62-甘肃</a>　
+<a href="#63" target="_top">63-青海</a>　
+<a href="#64" target="_top">64-宁夏</a>　
+<a href="#65" target="_top">65-新疆</a> 新　
+<a href="#6590" target="_top">6590-新疆兵团</a>　
+<a href="#71" target="_top">71-台湾</a>　
+<a href="#81" target="_top">81-香港</a>　
+<a href="#82" target="_top">82-澳门</a>　
 
 图例
 ----
@@ -3665,26 +3674,16 @@
 路环：	圣方济各堂区  
 
 
-2021年行政区划变更
-------------------
-　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
-　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
-　　有3个新设立的全新地名：  新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
-　　还有4个区调整区划范围，名称不变，其中福建三明市的三元区，原区划代码350403更新。  
-　　此外有13个行政区变更了区划单位，小计如下，变更详情参见[民政部](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)。
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-		县改市	7
-		县改区	4	（开遍全国的沙县小吃发源地沙县，改为沙县区）
-		市改区	2
-
-　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 
 ```
-	老生常谈 © 2019-2022 大萌   GPL 3.0
-	知识共享 可转载-可衍生-相同方式授权
-	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.4.6	202207
+	老生常谈 © 2019-2023 大萌 知识共享 3.0
+	CC BY-NC-ND 	可转载-需署名-非营利
+	https://laosheng.top/fuwu/qianxian-gjf
+	中国千县公检法	v0.5.0	202301
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
