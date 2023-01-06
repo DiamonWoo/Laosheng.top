@@ -18,7 +18,7 @@
   + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
   + /fuwu/fazhi　🏢 [法治政府有关部门](fuwu/fazhi) 　全国省地市的 立法/司法/执法/普法 有关部门。
   + /fuwu/qianxian　📑 [中国千县政府网](fuwu/qianxian)，全国所有省/市/县政府网站，2021年数据。
-  + /fuwu/jinrong　🥯 [个人理财金融圈](fuwu/jinrong)　全国银行、股市、保险机构名录。
+  + /fuwu/jinrong　🥯 [个人金融理财圈](fuwu/jinrong)　全国银行、股市、保险机构名录。
   + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
   + ……
 
@@ -57,11 +57,11 @@
 --------
 
 + [欢迎欢迎](author/speech.txt "初心与历程")🙂  
-+ 网站重构中，部分站内连接暂时有误。 在[小笔记](broad/blog.txt "建站心得")看看网站有什么变化。
++ 网站发布3.0，站内连接基本修复。 在[小笔记](broad/blog.txt "建站心得")看看网站有什么变化。
 
++ 新冠居家指引[文件速查](fuwu/jujia)，重点介绍中医药治疗（202301更新）
 + [从世界杯看国别表](broad/2022/worldcup) 🏆
 + [证监会为什么不要App？](c/8-证券信息披露的法定媒体.txt)
-+ 国家《新冠肺炎诊疗方案》的[中医预防、治疗与恢复](c/6-xinguanzhenliao.txt)（202203更新）
 
 + [App与浏览器到底有什么区别？](c/app-browser-diff.txt)（202112 第三稿）
 + [更多……](c/)
@@ -98,9 +98,9 @@
 ![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 
-	老生常谈© 2019~2022 大萌 创作共用3.0
-	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
-	https://Laosheng.top	v3.5 202212
+	老生常谈© 2019~2023 大萌	创作共用 3.0
+	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
+	https://Laosheng.top	v3.6	202301
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
