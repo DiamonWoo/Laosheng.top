@@ -27,14 +27,13 @@
 常用网址
 --------
 
-　　[国务院](https://www.Gov.cn)　　[联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm)
+　　[国务院](https://www.Gov.cn){target="_blank"}　　[联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm){target="_blank"}
 
 
 特别制作
 --------
 
-+ 国家《[新冠病毒防控方案](../c/6-xinguanfangkong.txt)》的目录，核酸检测、隔离与消毒……（202206最新版）  为官方pdf补全书签。
-+ 国家《新冠肺炎诊疗方案》的[中医预防、治疗与恢复](../c/6-xinguanzhenliao.txt)（202203更新）  为官方pdf增加书签。
++	[新冠居家指引](jujia)文件速查，重点介绍中医预防、治疗与恢复，202301更新
 
 
 行政区划介绍
@@ -88,7 +87,7 @@
 *	《中国地名大会》[第一季](http://tv.cctv.com/special/zgdmdh/)、[第二季](https://tv.cctv.com/2021/01/19/VIDAzHOc3JMqJJ7ASz0iU0Ks210119.shtml)  
 　　《中国地名大会》是中央电视台原创的‘中国大会’系列节目之一，在CCTV-4中文国际(亚洲)频道首播，已经完成第二季。从2013年《中国汉字听写大会》开始，央视开始了一系列的自主原创大型文化季播节目，陆续推出：《中国谜语大会》《中国成语大会》《中国诗词大会》《中国国宝大会》，都取得了非常好的收视成绩，正在进行的还有《中国考古大会》、《[2022中国诗词大会](https://tv.cctv.com/special/2022zgscdh)》。
 
-*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788)
+*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788){target="_blank"}
 
 
 　　网站建设中，欢迎大家[提意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn ){:target="_blank"}！
@@ -96,8 +95,8 @@
 ```
 	老生常谈© 2019-2022 大萌	　知识共享许可
 	CC BY-SA 3.0 可转载-需署名-非衍生-非营利
-	https://Laosheng.top/fuwu/dir
-	有关部门服务网 v1.3.7	　202212
+	https://Laosheng.top/fuwu
+	有关部门服务网 v1.3.8	　202301
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
