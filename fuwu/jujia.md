@@ -1,4 +1,4 @@
-新冠居家指引<sub>文件速查</sub> 🥴
+新冠居家指引🤒<sub>文件速查</sub> 
 ==================
 大萌	2023	<base target="_blank">
 <meta property="og:type" content="website" />
@@ -17,7 +17,7 @@
 国务院/联防联控 [机制文件](http://www.gov.cn/zhengce/gwylflkjzwj.htm)、 [权威发布](http://www.gov.cn/xinwen/gwylflkjzqwfb/index.shtml)  
 国务院/[卫健委](http://www.nhc.gov.cn/) / 新冠病毒疫情[防控工作](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)  
 -	医疗应急司：[诊疗方案第十版](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml)
--	中医药管理局：[居家中医药干预指引](http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html) 　	[图片版](https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg)✳️
+-	中医药管理局：[居家中医药干预指引](http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html)　[图版](https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg)<big>👨‍⚕️</big>
 -	中国健康教育中心：[居家指引（第一版）](https://www.nihe.org.cn/portal/jkzs/jbyf/news/fkzs/news/webinfo/2023/01/1674531702519756.htm)
 
 
@@ -39,7 +39,7 @@
 <http://www.gov.cn/xinwen/2022-12/30/content_5734187.htm>  附  
 治疗新冠病毒感染中药协定方范例(.doc)
 
-2022-12-11 　	一图读懂｜新冠病毒感染者居家中医药干预指引 ✳️　	国家中医药管理局/官方微信“中国中医”  
+2022-12-11 　	<big>👨‍⚕️</big>一图读懂｜新冠病毒感染者居家中医药干预指引 　	国家中医药管理局/官方微信“中国中医”  
 <https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg>  
 
 2022-12-10 　	新冠病毒感染者居家中医药干预指引 　	国家中医药管理局/中医疫病防治专家委员会  
@@ -95,5 +95,5 @@
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-点击二维码，“在浏览器打开” https://Laosheng.top
+点击二维码，“在浏览器打开” https://Laosheng.top  
 😷🤒🤧🥴🎴⭐🌟✨🔯✴️✳️⚕️💉🩺👨‍⚕️🏥
