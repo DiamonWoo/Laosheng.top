@@ -523,7 +523,7 @@
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 <h2 id="gov-buwei">5.4 国务院26个部委 🏢</h2>
-及〖部委管理的国家局〗
+及〖部委管理的国家局〗17个
 
 	1982年《国务院组织法》第八条
 	　国务院各部、各委员会的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。
@@ -660,13 +660,13 @@
 
 * 交通运输部	　 [MOT.gov.cn](http://www.mot.gov.cn )	交通部
 	- 📞 12328 全国交通运输服务监督电话 双号并行，出租车服务投诉电话
-	- +[【中国海事局】](https://www.msa.gov.cn/html/)🛳️ MSA	　 [《中国海事》]()
+	- [中国海事局](https://www.msa.gov.cn/html/)🛳️ MSA *不是国家局*	　 [《中国海事》]()
 	  - [航行警告](https://www.msa.gov.cn/html/hxaq/aqxx/)	　 军事演习等。
-	- +[【国家铁路局】](http://www.nra.gov.cn/)🚉 NRA	　 📰[《人民铁道》报](http://szb.peoplerail.com)
+	- +【[国家铁路局](http://www.nra.gov.cn/)】🚉 NRA	　 📰[《人民铁道》报](http://szb.peoplerail.com)
 	  - ☎️ 12306 [铁路客运服务热线](https://kyfw.12306.cn/otn/leftTicket/init) 买高铁车票、春运（使用123xx热线号码来源于原铁道部）
 	  - 📠 95306 [中国铁路货运网上营业厅](http://hyfw.95306.cn/Hywsyyt/home) 国铁商城 铁路招商
-	- +[【中国民用航空局】](http://www.caac.gov.cn/)✈️ CAAC	　 📰[《中国民航报》](http://epaper.caacmedia.cn:81/)	中国民航局	
-	- +[【国家邮政局】](https://www.spb.gov.cn/ ) SPB	　 📰[《中国邮政报》](http://www.chinapostnews.com.cn )
+	- +【[中国民用航空局](http://www.caac.gov.cn/)】✈️ CAAC	　 📰[《中国民航报》](http://epaper.caacmedia.cn:81/)	中国民航局	
+	- +【[国家邮政局](https://www.spb.gov.cn/ )】 SPB	　 📰[《中国邮政报》](http://www.chinapostnews.com.cn )
 	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
 
 	- 🙋 直属院校（5所）：大连海事大学（辽宁）、中国民航大学（天津）、中国民用航空飞行学院（四川广汉）、广州民航职业技术学院、上海民航职业技术学院。
@@ -696,13 +696,18 @@
 	- 近三百种[主管报刊](http://www.nhc.gov.cn/wjw/zgbkqk/201612/93a6cd0ea6944c87867ce78821443ea3.shtml)，《中国医学科学》杂志、《抗癌之窗》、《医学参考报》等
 	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 3.3段 医保局*
 	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
-	  - [《新冠肺炎诊疗方案》](http://www.nhc.gov.cn/yzygj/s7653p/202104/7de0b3837c8b4606a0594aeb0105232b.shtml)
-	  *大萌为官方pdf文件[增加了书签](../c/6-xinguanzhenliao.txt)，便于阅读检索* 
+	  - [《新冠肺炎诊疗方案》](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml) 2023年1月第十版，加强中医药干预。
+	  *大萌为官方pdf文件[增加了书签](jujia)，便于阅读检索* 
 	- [【国家疾病预防控制局】](http://www.nhc.gov.cn/jkj/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
 	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
 	- 🙋直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
-	- 国家中医药管理局	　 [SATCM](http://www.satcm.gov.cn/) ，[便民就医导航](http://www.satcm.gov.cn/banshifuwu/)
-	  - [中国中医科学院](https://www.cacms.ac.cn/) 
+	- 〖[国家中医药管理局](http://www.natcm.gov.cn)〗 NaTCM	　 [便民就医导航](http://www.satcm.gov.cn/banshifuwu/) / [镜像站](http://www.cntcm.com.cn/page-jydh.html)
+	  - [中国中医科学院](https://www.cacms.ac.cn) / [广安门医院](https://gamhospital.ac.cn)
+	  - [中华中医药学会](https://www.cacm.org.cn) / [期刊集群](http://zyyqkw.cacm.org.cn/homeNav?lang=zh)
+	  - 📰《[中国中医药报](http://paper.cntcm.com.cn/)》	　 中国中医药网 《中医健康养生》杂志
+	    - [中西医发展史比较](http://www.cntcm.com.cn/zhuanti/node_1580.htm)、[中医优势病种](http://www.cntcm.com.cn/column.html?cid=2262)：感冒、中风……
+	    - [全国三甲中医院](http://www.cntcm.com.cn/column.html?cid=2190)、中医药名校、药材图谱……
+
 * 🎖️ 退役军人事务部	　 [MVA.gov.cn](http://www.mva.gov.cn)
 	- 军队转业干部安置服务信息系统  	退役军人网上信访服务
 	- [中华英烈网](http://www.chinamartyrs.gov.cn)
@@ -710,10 +715,10 @@
 	- 📞 12350 事故举报电话 双号并行
 	- 国家防汛抗旱总指挥部……
 	- 中国地震局	　 [中国地震台网中心](https://www.cenc.ac.cn/)最新地震信息
-	- 〖[国家矿山安全监察局](https://www.chinacoal-safety.gov.cn/)〗	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
-	- 〖国家消防救援局〗	　 [119.Gov.cn](https://www.119.gov.cn/)	　 [《中国消防》](http://www.china-fire.com/photo/list-zgxf.html)杂志
+	- 〖[国家矿山安全监察局](https://www.chinamine-safety.gov.cn)〗	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
+	- 〖[国家消防救援局](https://www.119.gov.cn)〗 119.Gov.cn	　 2023年1月成立。
 	  - 🚨 119 火警电话	　 被困救援、摘马蜂窝 🚒 全国17个消防救援总队，4个消防研究所（津沪沈川）
-	  - [消防员招录](http://xfyzl.119.gov.cn/)
+	  - [消防员招录](http://xfyzl.119.gov.cn/) /《[中国消防](http://www.china-fire.com/photo/list-zgxf.html)》杂志
 	  - [社会消防技术服务](https://shhxf.119.gov.cn)信息系统，注册消防工程师考试。	　 
 	- [中国应急信息网](https://www.emerinfo.cn)灾情快报、救援现场 / 全球灾害数据平台	　 
 	*国家应急广播 请参见 3.5段落 广电总台部分*
