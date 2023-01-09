@@ -1,6 +1,6 @@
 中央有关部门集 🕰
 ================
-大萌 2021-2022<base target="_blank">
+大萌 2021-2023<base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
 <meta property="og:site_name" content="老生常谈">
 <meta property="og:title" content="中央有关部门集，政通全国一盘棋 🕰">
@@ -13,7 +13,7 @@
 
 　　**部门集**依据有关文件，汇编了党中央国务院、两会两院有关部门的官方网站、网络检索与互动平台、全国统一电话号码☎️、中央一级部门的所有免费数字报📰、直属院校🙋……　12345电话号码是国务院统一设立的地方政务服务便民热线，要求全国2021年实现7x24小时全天候、全部门覆盖。某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345📞同时存在。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话区号可见[千县网](qianxian)。
 
-　　中央有少数部门不设独立的公开网站，比如中央军委、中央办公厅；还有中宣部，虽然每个所属的新闻媒体都有网站，但中宣部本身不设网站。　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。新冠病毒疫情以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。
+　　中央有少数部门不设公开网站，比如中央军委、中央办公厅；还有中宣部，虽然每个所属的新闻媒体都有网站，但中宣部本身不设网站。　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。新冠病毒疫情以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/中央有关部门集
@@ -32,7 +32,7 @@
  4.2 [办事机构 8个](#42-中共中央办事机构-8个){:target="_top"}
  4.3 [事业单位](#44-中共中央直属事业单位-9个){:target="_top"}
  4.4 派出机关　
- 5 [国务院](#5-中央人民政府){:target="_top"}
+ 5 [国务院](#5){:target="_top"}
  5.1 [办事机构](#gov-banshi){:target="_top"}
  5.2 [事业单位](#gov-shiye){:target="_top"}
  5.3 [总局总署](#gov-jushu){:target="_top"}
@@ -44,12 +44,13 @@
 
 最新部门变动
 ------------
+	* 2023/1/6，国家消防救援局挂牌成立，网址沿用应急指挥部原消防救援局。感谢读者‘阳阳宝贝’投递。
 	* 2021/11/18，国家反垄断局（国务院直属副部级）挂牌成立，网址待公布。
 	* 2021/6/19，国家疾病预防控制局5月正式挂牌 (网址待确认)
 	* 2021/6/12，云南人大2021年更换新网址
 	* 2021/4/26，新增政法委12337政法干警违纪违法举报平台（4.1段落）
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌 (已补充网址)
-
+	* 2020/7/8，中央驻港国安公署成立。
 ----------------------------------------------------------------
 
 1 全国人民代表大会
@@ -73,10 +74,10 @@
 
 ⚖️ 最高人民法院	 　[Court.gov.cn](http://www.court.gov.cn )　民诉、刑诉、行政诉讼、调解  
 -	最高法出台的[司法解释](http://www.court.gov.cn/fabu-gengduo-16.html)
-	- 中国审判流程信息公开网：案件查询、[开庭公告](https://splcgk.court.gov.cn/gzfwww//ktgg)，不包括：京津沪、苏浙闽。
+	- 中国审判流程信息公开网：案件查询、25个省份的[开庭公告](https://splcgk.court.gov.cn/gzfwww/)，不包括：京津沪、苏浙闽。
 -	☎️ 12368 诉讼综合服务的电话热线和短信平台
+-	中国庭审公开网 [庭审回顾](http://tingshen.court.gov.cn/search/full?address=/page/review/screenPage&dataType=2&pageSize=10) %视频直播
 -	[中国裁判文书网](https://wenshu.court.gov.cn/)	%需登录
--	中国庭审公开网 [庭审回顾](http://tingshen.court.gov.cn/court/review/2?courtLevel=2) 直播 🌩
 -	六个[巡回法庭](http://www.court.gov.cn/xunhui3/xiangqing-78772.html)：深圳、沈阳、南京、郑州、重庆、西安。
 -	人民法院新闻传媒总社 [ChinaCourt.org](https://www.chinacourt.org) 中国法院网
 	- [法律文库](https://www.chinacourt.org/law.shtml)查询
@@ -95,7 +96,7 @@
 
 
 <h1 id="3">
-3 全国政协<img src="CPPCC-64-16.png"></h1>
+3 人民政协<img src="CPPCC-64-16.png"></h1>
 中国人民政治协商会议
 <div align="right"><a href="#" target="_self">↑Top</a></div>
 
@@ -150,9 +151,8 @@
 
 3.3 其他社会团体 🏙
 ---------------
-<div align="right"><a href="#" target="_self">↑Top</a></div>
-
 	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待考）
+<div align="right"><a href="#" target="_self">↑Top</a></div>
 
 * [中国作协](http://www.chinawriter.com.cn/)	　 中国作家协会[]()
 	- 中国作家网[作协机构](http://www.chinawriter.com.cn/zxjg/) 主管社团：
@@ -186,9 +186,9 @@
 
 <h1 id="4">
 4 中国共产党 <img src="CPC-64.png"></h1>
-<div align="right"><a href="#" target="_self">↑Top</a></div>
 
 		理论联系实际、密切联系群众、批评与自我批评——党的‘三大作风’
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 * [关于中国共产党](https://www.12371.cn/special/zggcdzl/)：党徽、党旗、党章、入党誓词、领导机构。
   - [《中国共产党党章》](http://www.12371.cn/special/zggcdzc/zggcdzcqw/) 2022年10月22日二十大修改
@@ -229,10 +229,9 @@
 
 4.1 中共中央职能部门 1+5
 -----------------------
-<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
-
 	2018年《深化党和国家机构改革方案》
 	　推进职责相近的党政机关合并设立或合署办公，优化部门职责，提高党把方向、谋大局、定政策、促改革的能力和定力，确保党的领导全覆盖
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 * 中共中央办公厅	　 中办[]()
 	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
@@ -293,15 +292,15 @@
 ------------------------
 
 * 中央政策研究室／【中央全面深化改革委员会办公室】	　 中央改革办
-* 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】[CAC.gov.cn](http://www.cac.gov.cn) 网信办
+* 中央网络安全和信息化委员会办公室／【国家互联网信息办公室】[CAC.gov.cn](http://www.cac.gov.cn) 中央网信办
 	- ☎️ [12377.cn](https://www.12377.cn/)违法和不良信息举报中心	　 举报网上有害信息：谣言/诈骗/低俗/侵权……
 	- 微信公众号“网信中国”	　 
 	- 中国互联网[联合辟谣平台](https://www.piyao.org.cn/)
 * 中央军民融合发展委员会办公室	　 []()
-* 中共中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn) 国台办
+* 中央台湾工作办公室／【国务院台湾事务办公室】[GWYTB.gov.cn](http://www.gwytb.gov.cn) 国台办
 	- 。。。
-* 中央财经委员会办公室	　 []()
-* 中共中央外事工作委员会办公室	　 []()
+* 中央财经委员会办公室	　 []()中央财办
+* 中央外事工作委员会办公室	　 []()中央外办
 * 中央机构编制委员会办公室	　 [SCOPSR.gov.cn](http://www.scopsr.gov.cn )中国机构编制网 中编办
 	- ☎️ 12310 对机构编制违规违纪问题的[举报](http://www.scopsr.gov.cn/cxgl/jdjc/12310jbdh/)
 * 中央空中交通管理委员会办公室	　 []()
@@ -322,37 +321,38 @@
 * 中国延安干部学院	　 [CelaY.Org.cn](http://www.celay.org.cn/)
 * 中央社会主义学院	　 [ZYSY.org.cn](https://www.zysy.org.cn/) 八大民主党派和无党派人士的“中央党校”
 
-4.4 中共中央派出机关
--------------------
+4.4 中共中央派出机关 4个
+----------------------
 
 * 中央和国家机关工作委员会	　 [QiZhiWang.Org.CN](http://www.qizhiwang.org.cn) 旗帜网 （机关工委）
 	- *2018年组建，原~~中直党建网、紫光阁网、中直机关党校门户网、干部学习网~~整合为旗帜网*
-* 中央香港工作委员会/【中联办】
-* 中央澳门工作委员会/【中联办】
+* 中央澳门工作委员会/【[澳门中联办](http://www.zlb.gov.cn)】
+* 中央香港工作委员会/【[香港中联办](http://www.locpg.gov.cn)】	　 中央人民政府驻香港特别行政区联络办公室
+* 中央人民政府驻香港特别行政区维护国家安全公署（副部级）/[驻港国安公署](https://www.osns.gov.cn)	　 2020年7月8日成立。
 
-
-5 国务院
-===========
+<h1 id="5">
+5 国务院</h1>
 中央人民政府
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 	1982年《国务院组织法》第七条
 	　国务院秘书长在总理领导下，负责处理国务院的日常工作。国务院设副秘书长若干人，协助秘书长工作。国务院设立办公厅，由秘书长领导。
 
-* **中国政府网**	 　[Gov.CN](https://www.gov.cn)
+🟦 **中国政府网**	 　[Gov.CN](https://www.gov.cn)
 	- 全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/) / 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 	- 国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 / [部门服务](http://www.gov.cn/fuwu/bm)大厅
 	- [行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
 	  - 《[2019-政府信息公开条例](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)》，[解读](http://china.qianlong.com/2019/0416/3221678.shtml)
 	- [我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
-* 国务院办公厅
+
+国务院办公厅
 	- 国务院[互联网+督察](https://tousu.www.gov.cn/dc/)平台  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行	
-	- 国家信访局 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
+	- 〖国家信访局〗 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 	  - 2022年4月，中共中央、国务院印发《[信访工作条例](https://www.gjxfj.gov.cn/2022-04/08/c_1310549186.htm)》
 	- 📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
 	（以下服务号码关闭：~~科技公益服务-12396、知识产权维权援助公益服务-12330、电信用户申诉渠道-12300、自然资源违法举报-12336、旅游资讯服务电话-12301、价格投诉举报-12358、商务领域举报投诉咨询-12312、民政服务-12349、计划生育法律法规咨询及举报-12356、食品药品监督举报服务-12331、质量技术监督系统和出入境检验检疫-12365、防震减灾公益服务-12322、火灾隐患举报投诉-96119~~，整体并入12345。）
 
-* 各省级政府网站(按身份证号顺序，后面数字是电话区号及省会城市)：
+各省级政府网站(按身份证号顺序，后面数字是电话区号及省会城市)：
 <br>　
 	<a href="http://www.beijing.gov.cn/" rel="nofollow">北京</a>(010)　
 	<a href="http://www.tj.gov.cn/">天津</a>(022)　
@@ -521,11 +521,11 @@
 	- 。。。
 
 <h2 id="gov-buwei">5.4 国务院26个部委 🏢</h2>
-及 部委管理的国家局
-<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
+及〖部委管理的国家局〗
 
 	1982年《国务院组织法》第八条
 	　国务院各部、各委员会的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 　　十八大后，国务院的部门做了较大调整，目前下属26个部委（21部），各部委对外名称并不是‘国务院某某部’，而是‘中华人民共和国某某部’，本页面简称为‘某某部’。 *2021/4/14，国务院部委段落(3.1)严格按照官网排序*，各部门排序依据可参见[知乎](https://www.zhihu.com/question/28026852)。 
 
@@ -709,8 +709,8 @@
 	- 📞 12350 事故举报电话 双号并行
 	- 国家防汛抗旱总指挥部……
 	- 中国地震局	　 [中国地震台网中心](https://www.cenc.ac.cn/)最新地震信息
-	- [国家矿山安全监察局](https://www.chinacoal-safety.gov.cn/)	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
-	- 消防救援局	　 [119.Gov.cn](https://www.119.gov.cn/)	　 [《中国消防》](http://www.china-fire.com/photo/list-zgxf.html)杂志
+	- 〖[国家矿山安全监察局](https://www.chinacoal-safety.gov.cn/)〗	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
+	- 〖国家消防救援局〗	　 [119.Gov.cn](https://www.119.gov.cn/)	　 [《中国消防》](http://www.china-fire.com/photo/list-zgxf.html)杂志
 	  - 🚨 119 火警电话	　 被困救援、摘马蜂窝 🚒 全国17个消防救援总队，4个消防研究所（津沪沈川）
 	  - [消防员招录](http://xfyzl.119.gov.cn/)
 	  - [社会消防技术服务](https://shhxf.119.gov.cn)信息系统，注册消防工程师考试。	　 
@@ -765,10 +765,9 @@
 * 交通银行　📠 95559	[BankComm.com](https://www.bankcomm.com ) Bank of CommuniCations
 * 中国邮政储蓄银行　📠 95580	[PSBC.com](http://www.psbc.com ) 怕是不存
 
+　　此外还有股份制商业银行12家（招商、兴业……），民营银行17家（网商、微众、苏宁……），了解更多金融体系结构，请见[个人金融理财圈](jinrong)。
+
 　　*搞错银行网址非同小可，请仔细核对是否官方网站。*
-
-　　此外还有股份制商业银行12家（招商、兴业……），民营银行17家（网商、微众、苏宁……），了解更多金融体系结构，请见[理财金融圈](jinrong)
-
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 <hr>
 
@@ -778,6 +777,7 @@
 * 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
+* 中国政府网[国务院组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm)页面
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)、共产党员网[党中央部门机构](http://news.12371.cn/dzybmbdj/)页面
 
 * 中央编办[全国党政机关事业单位互联网网站标识管理服务平台](http://bszs.conac.cn)
@@ -795,14 +795,15 @@
 * 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计24个*
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->[]()
+* 〖国务院部委管理的国家局〗
 
 　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
-	老生常谈© 2019-2022 大萌   知识共享 3.0
+	老生常谈© 2019-2023 大萌   知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.2.8	　202212
+	中央有关部门集	v1.2.9	　202301
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
