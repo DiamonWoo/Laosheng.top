@@ -16,7 +16,7 @@
 
 国务院/联防联控 [机制文件](http://www.gov.cn/zhengce/gwylflkjzwj.htm)、 [权威发布](http://www.gov.cn/xinwen/gwylflkjzqwfb/index.shtml)  
 国务院/[卫健委](http://www.nhc.gov.cn/) / 新冠病毒疫情[防控工作](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)  
--	医疗应急司：[诊疗方案第十版](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml)
+-	医疗应急司：[诊疗方案第十版](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml)　[图版](https://mp.weixin.qq.com/s/p0yaR3Iw_iALlhVSecnu7Q)🎋中医治疗部分
 -	中医药管理局：[居家中医药干预指引](http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html)　[图版](https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg)<big>👨‍⚕️</big>
 -	中国健康教育中心：[居家指引（第一版）](https://www.nihe.org.cn/portal/jkzs/jbyf/news/fkzs/news/webinfo/2023/01/1674531702519756.htm)
 
@@ -25,33 +25,41 @@
 ----------
 防疫形式变化
 
-2023-01-06 　	关于印发新型冠状病毒感染诊疗方案（试行第十版）的通知 　	国卫办医急函〔2023〕4号  
+2023-01-07 　	国家中医药管理局/官方微信“中国中医” 　	🎋第十版诊疗方案的中医治疗部分  
+<https://mp.weixin.qq.com/s/p0yaR3Iw_iALlhVSecnu7Q>  
+2023-01-06 　	国卫办医急函〔2023〕4号 　	关于印发新型冠状病毒感染诊疗方案（试行第十版）的通知  
 <http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml>  
 * 附件：新型冠状病毒感染诊疗方案（试行第十版）.PDF 　	本站已补全书签，见下方
 
-2023-01-05 　	关于在新型冠状病毒感染医疗救治中进一步发挥中医药特色优势的通知 　	联防联控机制综发〔2023〕1号  
+2023-01-05 　	联防联控机制综发〔2023〕1号 　	关于在新型冠状病毒感染医疗救治中进一步发挥中医药特色优势的通知  
 <http://www.gov.cn/xinwen/2023-01/05/content_5735114.htm>  
 
-2023-01-05 　	新冠病毒感染者居家指引（第一版） 　	中国健康教育中心  
+2023-01-05 　	中国健康教育中心 　	新冠病毒感染者居家指引（第一版）  
 <https://www.nihe.org.cn/portal/jkzs/jbyf/news/fkzs/news/webinfo/2023/01/1674531702519756.htm>  
 
-2022-12-30 　	关于在城乡基层充分应用中药汤剂开展新冠病毒感染治疗工作的通知 　	联防联控机制综发〔2022〕146号  
+2022-12-30 　	联防联控机制综发〔2022〕146号 　	关于在城乡基层充分应用中药汤剂开展新冠病毒感染治疗工作的通知  
 <http://www.gov.cn/xinwen/2022-12/30/content_5734187.htm>  附  
 治疗新冠病毒感染中药协定方范例(.doc)
 
-2022-12-11 　	<big>👨‍⚕️</big>一图读懂｜新冠病毒感染者居家中医药干预指引 　	国家中医药管理局/官方微信“中国中医”  
+2022-12-11 　	国家中医药管理局/官方微信“中国中医” 　	<big>👨‍⚕️</big>一图读懂｜新冠病毒感染者居家中医药干预指引  
 <https://mp.weixin.qq.com/s/AEJ4xA2MAEWpm7FQf60pyg>  
 
-2022-12-10 　	新冠病毒感染者居家中医药干预指引 　	国家中医药管理局/中医疫病防治专家委员会  
+2022-12-10 　	国家中医药管理局/中医疫病防治专家委员会 　	新冠病毒感染者居家中医药干预指引  
 <http://www.natcm.gov.cn/yizhengsi/gongzuodongtai/2022-12-10/28466.html>  
 
-2022-12-08 　	关于印发新冠病毒感染者居家治疗指南的通知 　	联防联控机制综发〔2022〕117号  
+2022-12-08 　	联防联控机制综发〔2022〕117号 　	关于印发新冠病毒感染者居家治疗指南的通知  
 <http://www.gov.cn/xinwen/2022-12/08/content_5730664.htm>  附件：  
 * 1.新冠病毒感染者居家治疗常用药参考表.docx 　	老生常谈网站[转换为rtf](xinguan/gov-202212-117-常用药参考表.rtf)
 * 2.新冠病毒感染者居家治疗抗原检测指南.docx	
 
 
-《诊疗方案》中的中医治疗
+《中医药干预指引》的中成药
+----------------------
+
+
+
+
+《诊疗方案》内的中医治疗
 --------------------
 
 　　今天（20230106）卫健委对诊疗指南发布第十版，中医部分做了加强。大萌继续对该pdf补全书签，以下是pdf中第19页内容：
@@ -90,7 +98,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可证
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/jujia
-	新冠居家指引文件速查 v0.3.1	202301
+	新冠居家指引文件速查 v0.3.2	202301
 ```
 
 回到首页
