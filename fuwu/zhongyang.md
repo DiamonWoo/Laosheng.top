@@ -35,7 +35,7 @@
  5.1 [办事机构](#gov-banshi){:target="_top"}
  5.2 [事业单位](#gov-shiye){:target="_top"}
  5.3 [总局总署](#gov-jushu){:target="_top"}
- 5.4 [26个部委](#gov-buwei){:target="_top"}
+ 5.4 [26个部委](#gov-buwei){:target="_top"}与国家局
  5.5 直属特设机构　
  6 [大型国企](#6){:target="_top"}
 　[编制依据](#编制依据){:target="_top"}
@@ -46,7 +46,7 @@
 	* 2023/1/6，国家消防救援局挂牌成立，网址沿用应急指挥部原消防救援局。感谢读者‘苏阳阳’投递。
 	* 2021/11/18，国家反垄断局（国务院直属副部级）挂牌成立，网址待公布。
 	* 2021/6/19，国家疾病预防控制局5月正式挂牌 (网址待确认)
-	* 2021/6/12，云南人大2021年更换新网址
+	* 2021/6/12，云南人大2021年更换网站新域名
 	* 2021/4/26，新增政法委12337政法干警违纪违法举报平台（4.1段落）
 	* 2021/2/25，国务院直属机构【国家乡村振兴局】挂牌 (已补充网址)
 	* 2020/7/8，中央驻港国安公署成立。
@@ -514,11 +514,8 @@
 	- （国家版权局）
 * 国家宗教事务局 +⋙【中央统战部】　	 [SARA.gov.cn](http://www.sara.gov.cn/)
 	- 宗教基础信息查询 场所/院校
-* 国家乡村振兴局	　 [CPad.gov.cn](http://www.cpad.gov.cn) 2021年2月挂牌，原国务院扶贫办整体改组，农业农村部代管。
-	- 📞 12317 全国扶贫监督举报平台电话 双号并行
-* 国家疾病预防控制局	　 [网站待公布]() 2021年5月挂牌，卫健委代管。
-	- 。。。
-* 国家反垄断局	　 [网站待公布]() 2021年11月亮相，承办国务院反垄断委员会日常工作。
+
+* 国家反垄断局	　 [网址待公布](https://www.samr.gov.cn/xw/zj/202111/t20211118_336974.html) 2021年11月亮相，承办国务院反垄断委员会日常工作。
 	- 。。。
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -550,9 +547,9 @@
 	- 📰[《中国改革报》](http://www.cfgw.net.cn/epaper)、📰[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
 	- 国家信息中心[]()	　 [中国经济信息网](https://www.cei.cn)（中经网）、[一带一路网](http://www.zgydyl.org)
 	- 国家公用信息中心[]()	　 [信用中国网](https://www.creditchina.gov.cn/xinyongfuwu/)（与人民银行共同指导）
-	- [国家能源局](http://www.nea.gov.cn)	　 📰[《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
+	- 〖[国家能源局](http://www.nea.gov.cn)〗	　 📰[《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
 	  - ☎️ 12398 [电力监管投诉举报](http://www.nea.gov.cn/n_home/n_gzfw/rx12398)热线电话：乱收电费/偷电/违反《电力监管条例》
-	- 国家粮食和物资储备局
+	- 〖国家粮食和物资储备局〗
 
 * 📐 教育部	　 [MOE.gov.cn](http://www.moe.gov.cn )　 📰[《中国教育报》](http://paper.jyb.cn)
 	- [中国教育电视台](http://www.centv.cn )：☁️[CETV-1~4](http://www.centv.cn/cetv1)、国家开放大学（原中央广播电视大学）
@@ -574,7 +571,7 @@
 	- 📠 010-66411166 网站备案全国咨询电话🌏	　 IP地址/域名信息/ICP[备案管理系统](https://beian.miit.gov.cn/)
 	- &【[国家航天局](http://www.cnsa.gov.cn)】🚀、&【[国家原子能机构](http://www.caea.gov.cn)】、[国家国防科技工业局](http://www.sastind.gov.cn) 
 	- 🙋 直属高校（7所，原‘国防七校’）：[北航](http://www.buaa.edu.cn)、[北理](http://www.bit.edu.cn)、[哈工大](http://www.hit.edu.cn)、[哈工程](http://www.hrbeu.edu.cn)、[西北工大](http://www.nwpu.edu.cn)、[南航](http://www.nuaa.edu.cn)、[南理](http://www.njust.edu.cn)。
-	- 📞 12313 [国家烟草专卖局](http://www.tobacco.gov.cn/)	烟草市场监管服务热线 设分中心
+	- 📞 12313 〖[国家烟草专卖局](http://www.tobacco.gov.cn/)〗	烟草市场监管服务热线 设分中心
 
 * 国家民族事务委员会	　 [NEAC.gov.cn](http://www.neac.gov.cn )
 	- 📰[《中国民族报》](http://www.mzb.com.cn/html/folder/96173-1.htm)、[《民族画报》](http://www.mzhb.com )
@@ -680,25 +677,32 @@
 	- 真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
 	- 全国农业数据，[农产品价格指数](http://zdscxx.moa.gov.cn:8080/nyb/pc/index.jsp)等
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行 <!-- [乡村振兴专栏](http://www.moa.gov.cn/ztzl/xczx/) -->
-	- 代管【国家乡村振兴局】[CPAD.gov.cn](http://www.cpad.gov.cn/)	　 [乡村振兴促进法](http://www.moa.gov.cn/gk/zcfg/fl/202105/t20210507_6367254.htm)自2021年6月1日起施行。
+	- 〖[国家乡村振兴局](http://www.cpad.gov.cn/)〗CPAD.gov.cn 	　2021年2月挂牌，原国务院扶贫办整体改组	　[乡村振兴促进法](http://www.moa.gov.cn/gk/zcfg/fl/202105/t20210507_6367254.htm)自2021年6月1日起施行。
 	- 与 国家林业和草原局 共同发布 《国家重点保护野生动物名录》。
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- ☎️ 12335 [中国外经贸企业服务网](http://12335.mofcom.gov.cn)　 涉外贸易
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )	　 多双边知识产权条约
 	- 
-* 文化和旅游部	　 [MCT.gov.cn](http://www.mct.gov.cn/)
-	📰[《中国旅游报》](http://www.ctnews.com.cn/paper)
-	- 📞 12318 全国文化市场举报电话 双号并行
+
+* 🎠[文旅部](https://www.mct.gov.cn)	　 文化和旅游部　[文旅之声](https://weibo.com/wenhuabu0)微博  
+MCT，Ministry of Culture and Tourism  
+	- 📰[中国文化报](https://npaper.ccmapp.cn/)、📰[《中国旅游报》](http://www.ctnews.com.cn/paper)、中国美术报、📰[音乐生活报](http://www.musiclife.cn/)
+	- [直属单位](https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/)：[国家图书馆](http://www.nlc.cn)、[国家博物馆](https://www.chnmuseum.cn)、国家话剧院、中央交响乐团、[中国美术馆](http://www.namoc.org)、中国煤矿文工团……
+	- 各种文化入选名单：[世界文化遗产](https://sjfw.mct.gov.cn/site/dataservice/culture)、国家级旅游度假区、国家级文化生态保护（实验）区
+	- [各种旅游景点名录](https://www.mct.gov.cn/tourism/)：5A级景区、红色旅游经典景区、全国乡村旅游重点村镇、五星级饭店、经营出境旅游业务旅行社……
+	- 全国文化和旅游市场[网上举报投诉](https://jbts.mct.gov.cn)　~~原12318全国文化市场举报电话、12301全国旅游投诉举报电话~~，已于2021年底前取消，并入当地12345热线
+	- 社会艺术水平[考级机构名单](https://zwfw.mct.gov.cn/shysspkjjg?)
+	- [云游中国](https://lyfw.mct.gov.cn/)国家5A级景区318家、中国[红色旅游网](http://www.redtourism.com.cn)、[长城国家文化公园](http://changcheng.ctnews.com.cn/)网、长征国家文化公园
 	- （+国家文物局）
 * 🏥 国家卫生健康委员会	　 [NHC.gov.cn](http://www.nhc.gov.cn ) 卫健委，（2013年卫生部撤销，2018年卫计委撤销） 📰[《健康报》](http://szb.jkb.com.cn/jkbpaper)
 	- 🚨 120 医疗专用急救电话	　 🚑
 	- [‘服务’栏目](http://www.nhc.gov.cn/wjw/fuw/fuwu.shtml)：基本药物目录，医生执业资格查询，食品安全国家标准 等
 	- 近三百种[主管报刊](http://www.nhc.gov.cn/wjw/zgbkqk/201612/93a6cd0ea6944c87867ce78821443ea3.shtml)，《中国医学科学》杂志、《抗癌之窗》、《医学参考报》等
-	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 3.3段 医保局*
+	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 5.3段 医保局*
 	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
 	  - [《新冠肺炎诊疗方案》](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml) 2023年1月第十版，加强中医药干预。
 	  *大萌为官方pdf文件[增加了书签](jujia)，便于阅读检索* 
-	- [【国家疾病预防控制局】](http://www.nhc.gov.cn/jkj/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
+	- 〖国家疾病预防控制局〗[网址待确认](http://www.nhc.gov.cn/jkj/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
 	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
 	- 🙋直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
 	- 〖[国家中医药管理局](http://www.natcm.gov.cn)〗 NaTCM	　 [便民就医导航](http://www.satcm.gov.cn/banshifuwu/) / [镜像站](http://www.cntcm.com.cn/page-jydh.html)
@@ -792,15 +796,15 @@
 
 　　由于编者的水平有限，页面中难免有错误和不足，恳请读者批评指正。
 
-图例
+图例[]()
 ----
 
-* 📰 提供网上免费阅读的数字报 	 　*暂计51个*
+* 📰 提供网上免费阅读的数字报 	 　*暂计54个*
 * ☎️ 国家机关电话号码	 　*暂计19个*
-* 📞 地方政府12345电话热线及并行号码、分中心号码	 　*暂计23个*
+* 📞 地方政府12345电话热线及并行号码、分中心号码	 　*暂计22个*
 * 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计24个*
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
-*  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->[]()
+*  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->
 * 〖国务院部委管理的国家局〗
 
 　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
@@ -809,7 +813,7 @@
 	老生常谈© 2019-2023 大萌   知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.2.9	　202301
+	中央有关部门集	v1.2.10	　202301
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
