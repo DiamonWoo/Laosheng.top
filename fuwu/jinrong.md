@@ -1,4 +1,4 @@
-个人理财金融圈 🥯
+个人金融理财圈 🥯
 ================
 大萌	2022-2023	<base target="_blank">
 <meta property="og:type" content="website" /><!-- article -->
@@ -9,7 +9,7 @@
 
 		防范金融风险还须解决许多重大问题 ———— 二十大报告
 
-　　个人理财在面对纷繁复杂的金融大潮时，需要坚守底线，认清全局。大萌以‘集成网页’形式，试图囊括中国金融业体系架构，帮助认清自身在中国金融业全局中的渺小地位。　**金融圈**网页以监管部门为首，概述中国金融体系，并重点介绍个人能接触到理财渠道。
+　　个人理财在面对纷繁复杂的金融大潮时，需要坚守底线，认清全局。大萌以‘集成网页’形式，试图囊括中国金融业体系架构，帮助认清自身在中国金融业全局中的渺小地位。　**金融圈**网页以监管部门为首，概述中国金融体系，并重点介绍允许个人接触的理财渠道。
 
 　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
 <div align="right">
@@ -20,8 +20,8 @@
 港澳台金融交易所、
 	主要银行、
 	主要保险公司、
-	国内其他交易所、
-全球四大证券指数
+国内其他交易所、
+法定信息披露媒体
 </div>
 
 
@@ -148,9 +148,9 @@ Banks
 
 [天津金城银行](https://www.kcbebank.com "天津金城银行股份有限公司 ")	-----　
 [上海华瑞银行](https://www.shrbank.com "上海华瑞银行股份有限公司 ")	-----　
-[网商银行](https://www.mybank.cn "浙江网商银行股份有限公司 ")	-----　
+阿里[网商银行](https://www.mybank.cn "浙江网商银行股份有限公司 ")	-----　
 [温州民商银行](https://www.ms-bank.cn "温州民商银行股份有限公司 ")	-----　
-[微众银行](https://webank.com "深圳前海微众银行股份有限公司 ")	-----　
+腾讯[微众银行](https://webank.com "深圳前海微众银行股份有限公司 ")	-----　
 [湖南三湘银行](https://www.csxbank.com "湖南三湘银行股份有限公司 ")	-----　
 [重庆富民银行](https://www.fbank.com "重庆富民银行股份有限公司 ")	-----　
 [四川新网银行](https://www.xwbank.com "四川新网银行股份有限公司 ")	-----　
@@ -168,7 +168,7 @@ Banks
 
 城市商业银行（134家，地方银保监局） 
 
-[北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	-----　
+京津冀：[北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	-----　
 [天津银行](https://www.bankoftianjin.com "天津银行股份有限公司 ")	-----　
 [河北银行](http://www.hebbank.com "河北银行股份有限公司 ")	-----　
 [保定银行](http://www.bd-bank.com.cn "保定银行股份有限公司 ")	-----　
@@ -181,11 +181,14 @@ Banks
 [唐山银行](http://www.ts-bank.cn "唐山银行股份有限公司 ")	-----　
 [邢台银行](http://www.xtbank.com "邢台银行股份有限公司 ")	-----　
 [张家口银行](http://www.zjkccb.com "张家口银行股份有限公司 ")	-----　
+　
 [晋商银行](http://www.jshbank.com "晋商银行股份有限公司 ")	-----　
 [内蒙古银行](http://www.boimc.com.cn "内蒙古银行股份有限公司 ")	-----　
 [鄂尔多斯银行](http://www.ordosbank.com "鄂尔多斯银行股份有限公司 ")	-----　
 [乌海银行](http://www.wuhaicb.com "乌海银行股份有限公司 ")	-----　
 [盛京银行](http://www.shengjingbank.com.cn "盛京银行股份有限公司 ")	-----　
+
+东三省：
 [锦州银行](http://www.jinzhoubank.com "锦州银行股份有限公司 ")	-----　
 [鞍山银行](http://www.bankofas.com "鞍山银行股份有限公司 ")	-----　
 [本溪银行](http://www.bankofbx.com "本溪银行股份有限公司 ")	-----　
@@ -200,6 +203,8 @@ Banks
 [吉林银行](http://www.jlbank.com.cn "吉林银行股份有限公司 ")	-----　
 [哈尔滨银行](http://www.hrbcb.com.cn "哈尔滨银行股份有限公司 ")	-----　
 [龙江银行](http://www.lj-bank.com "龙江银行股份有限公司 ")	-----　
+
+苏沪浙：
 [上海银行](http://www.bosc.cn "上海银行股份有限公司 ")	-----　
 [江苏银行](http://www.jsbchina.cn "江苏银行股份有限公司 ")	-----　
 [南京银行](http://www.njcb.com.cn "南京银行股份有限公司 ")	-----　
@@ -215,6 +220,8 @@ Banks
 [浙江稠州商业银行](http://www.czcb.com.cn "浙江稠州商业银行股份有限公司 ")	-----　
 [浙江民泰商业银行](http://www.mintaibank.com "浙江民泰商业银行股份有限公司 ")	-----　
 [浙江泰隆商业银行](http://www.zjtlcb.com "浙江泰隆商业银行股份有限公司 ")	-----　
+
+
 [徽商银行](http://www.hsbank.com.cn "徽商银行股份有限公司 ")	-----　
 [福建海峡银行](http://www.fjhxbank.com "福建海峡银行股份有限公司 ")	-----　
 [泉州银行](http://www.qzccbank.com "泉州银行股份有限公司 ")	-----　
@@ -222,6 +229,7 @@ Banks
 [赣州银行](http://www.gzccb.com "赣州银行股份有限公司 ")	-----　
 [九江银行](http://www.jjccb.com "九江银行股份有限公司 ")	-----　
 [上饶银行](http://www.srbank.cn "上饶银行股份有限公司 ")	-----　
+
 [齐鲁银行](http://www.qlbchina.com "齐鲁银行股份有限公司 ")	-----　
 [德州银行](http://www.dzbchina.com "德州银行股份有限公司 ")	-----　
 [东营银行](http://www.dyccb.net "东营银行股份有限公司 ")	-----　
@@ -234,6 +242,7 @@ Banks
 [威海市商业银行](https://www.whccb.com "威海市商业银行股份有限公司 ")	-----　
 [潍坊银行](http://www.bankwf.com "潍坊银行股份有限公司 ")	-----　
 [烟台银行](http://www.yantaibank.net "烟台银行股份有限公司 ")	-----　
+
 [枣庄银行](http://www.zzbank.cc "枣庄银行股份有限公司 ")	-----　
 [中原银行](http://www.zybank.com.cn "中原银行股份有限公司 ")	-----　
 [郑州银行](http://www.zzbank.cn "郑州银行股份有限公司 ")	-----　
@@ -362,27 +371,6 @@ Insurance
 
 
 
-更多金融业有关部门
---------------------
-Relevant Departments
-
-* 国务院
-  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
-  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
-  * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
-* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
-* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
-
-
-证券业法定信息披露媒体
-------------------------------
-7家 Statutory Disclosure Media
-
-* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
-* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
-* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
-* $[经济参考报](http://www.jjckb.cn)
-
 
 国内其他交易所 
 -------------
@@ -409,16 +397,34 @@ Exchange
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
-全球四大证券指数
----------------
 
-	道琼斯工业指数
+
+证券业法定信息披露媒体
+------------------------------
+7家 Statutory Disclosure Media
+
+* [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
+* [中国证券报](https://www.cs.com.cn) / [上海证券报](https://www.cnstock.com)
+* [金融时报](https://www.financialnews.com.cn) / [证券时报](https://www.stcn.com)
+* $[经济参考报](http://www.jjckb.cn)
 
 
 财经类云媒体
 ------------
 
 东方财富、新浪财经、第一财经、财新网……
+
+
+更多金融业有关部门
+--------------------
+Relevant Departments
+
+* 国务院
+  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
+  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
+  * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
+* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
+* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
 
 
 待考
@@ -445,7 +451,7 @@ Exchange
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jinrong
-	个人理财金融圈	v0.5.0 	202301
+	个人金融理财圈	v0.5.1	202301
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
