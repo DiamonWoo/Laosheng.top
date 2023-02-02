@@ -22,7 +22,7 @@
   + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
   + ……
 
-/fly/dir ⠀[全球免费云媒体](fly/dir) ☁<br>
+/fly/dir ⠀[全球免费云媒体](fly/dir) ⛅<br>
 　【云媒体】系列，找到有源新闻
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
     + /fly/index2　📜️ [云媒体第二页](fly/index2.html)：教育台与科技报、县区级报纸与电视、图例与帮助。
@@ -98,7 +98,7 @@
 ![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 
-	老生常谈© 2019~2023 大萌	创作共用 3.0
+	老生常谈© 2019~2023 大萌	知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top	v3.6	202301
 
