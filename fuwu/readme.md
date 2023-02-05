@@ -1,23 +1,23 @@
 有关部门服务网 🕗
 ================
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="老生常谈" />
-<meta property="og:url" content="https://Laosheng.top/fuwu/" />
 
 		为人民服务。	（1944年，毛泽东）
 
 　　这里是民间网站‘老生常谈’的【服务】系列网页，大萌在此收录中国各级党政群的有关部门网址。列表如下：
 
 +	🕰 [中央有关部门集](zhongyang)，政令畅通一盘棋。人大政协两院、党中央国务院，全国统一咨询和投诉电话。
+	+ 📈 [央企股票一览表](yangqi)，国资委监管98家央企的300多支股票
+	+ 🥯 [个人理财金融圈](jinrong)，银行、保险、证券……中国金融业体系架构
+
 +	省地市主要部门，全国333个地级市：
 	+ 🏢 [法治政府有关部门](fazhi)，各省地市的：公安、检察、法院、司法、监察……
 	+ 民生环境有关部门：政务服务，住建、城管、环保……调研中
 	+ 医疗保障有关部门：卫健委、社保局、中国红十字会……调研中
-+	📑〈[中国千县政府网](qianxian)〉：近三千个县城的区划代码、政府网址，已全部完成。
-+	🥯 [个人理财金融圈](jinrong)，银行、保险、证券……中国金融业体系架构
--	《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
-+	联合国有关部门，收录在本站【[一带一路系列](../ydyl/dir)】。
 
++	📑〈[中国千县政府网](qianxian)〉：近三千个县城的区划代码、政府网址，已全部完成。
+*	《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
+
++	联合国有关部门，收录在本站【[一带一路系列](../ydyl/dir)】。
 +	衍生项目 cqcc «[服务网站查缺查错](https://diamonwoo.github.io/cqcc)»，收录各服务网站的缺少和错误
 
 <div align="right">
@@ -30,6 +30,19 @@
 +	[国务院](https://www.Gov.cn){:target="_blank"}　　[联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm){:target="_blank"}
 
 +	[新冠居家指引](jujia)文件速查，重点介绍中医预防、治疗与恢复，202301更新
+
+
+数据来源
+--------
+
+　　本站使用官方数据和自筹数据相结合，官方数据保证基础数据的权威性、客观性，自筹数据加强数据的关联性、扩展性、主观性。官方数据来源如下： 
+
+* 民政部网站>民政数据>[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/){:target="_blank"}
+  *	[2020年12月底完整数据](http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html)
+  *	[2021年的变更数据](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)
+* 民政部网站>政务服务>查询服务>《[全国行政区划图](http://xzqh.mca.gov.cn/map){:target="_blank"}》
+
+* 国务院网站>政策>[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/){:target="_blank"}
 
 
 行政区划介绍
@@ -49,19 +62,6 @@
 　　县，三级行政区单位，历史悠久。从秦始皇推行‘郡县制’起，至今已有两千多年。全国近三千个县，没有一个重名。而同级的(市辖)区，在全国有同名的超过60个。比如同名最多的‘鼓楼区’，在全国有四个，分别在：江苏省南京市、徐州市，福建省福州市，河南省开封市。
 
 　　我国行政区划由民政部编订六位数的区划代码，例如，北京市为110000，深圳市为440300。　本站收录其中‘县以上行政区划代码’。*与行政区划相对的，还有经济区划，比如经开区、高新区、自贸区等等，本站暂缓收录。*
-
-
-数据来源
---------
-
-　　本站使用官方数据和自筹数据相结合，官方数据保证基础数据的权威性，自筹数据加强数据的扩展性、关联性、及时性。官方数据来源如下： 
-
-* 民政部网站>民政数据>[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/){:target="_blank"}
-  *	[2020年12月底完整数据](http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html)
-  *	[2021年的变更数据](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)
-* 民政部网站>政务服务>查询服务>《[全国行政区划图](http://xzqh.mca.gov.cn/map){:target="_blank"}》
-
-* 国务院网站>政策>[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/){:target="_blank"}
 
 
 部门补遗
@@ -85,14 +85,16 @@
 
 *	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788){:target="_blank"}
 
+*	JSON格式的行政区划数据：[路人甲](https://passer-by.com/data_location/)的github项目
+
 
 　　网站建设中，欢迎大家[提意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn ){:target="_blank"}！
 
 ```
-	老生常谈© 2019-2022 大萌	　知识共享许可
-	CC BY-SA 3.0 可转载-需署名-非衍生-非营利
+	老生常谈© 2019-2023 大萌	　知识共享许可
+	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/fuwu
-	有关部门服务网 v1.3.8	　202301
+	有关部门服务网 v1.4.0	　202302
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
