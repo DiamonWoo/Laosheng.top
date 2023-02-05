@@ -7,7 +7,7 @@
 
 +	🕰 [中央有关部门集](zhongyang)，政令畅通一盘棋。人大政协两院、党中央国务院，全国统一咨询和投诉电话。
 	+ 📈 [央企股票一览表](yangqi)，国资委监管98家央企的300多支股票
-	+ 🥯 [个人理财金融圈](jinrong)，银行、保险、证券……中国金融业体系架构
+	+ 🥯 [个人金融理财圈](jinrong)，银行、保险、证券……中国金融业体系架构
 
 +	省地市主要部门，全国333个地级市：
 	+ 🏢 [法治政府有关部门](fazhi)，各省地市的：公安、检察、法院、司法、监察……
@@ -15,10 +15,10 @@
 	+ 医疗保障有关部门：卫健委、社保局、中国红十字会……调研中
 
 +	📑〈[中国千县政府网](qianxian)〉：近三千个县城的区划代码、政府网址，已全部完成。
-*	《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
+	+ 《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
 
 +	联合国有关部门，收录在本站【[一带一路系列](../ydyl/dir)】。
-+	衍生项目 cqcc «[服务网站查缺查错](https://diamonwoo.github.io/cqcc)»，收录各服务网站的缺少和错误
++	衍生项目 cqcc «[服务网站查缺查错](https://diamonwoo.github.io/cqcc)»，收录各服务网站的缺少和错误（准备中）
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>
@@ -35,14 +35,15 @@
 数据来源
 --------
 
-　　本站使用官方数据和自筹数据相结合，官方数据保证基础数据的权威性、客观性，自筹数据加强数据的关联性、扩展性、主观性。官方数据来源如下： 
+　　本站使用官方数据和自筹数据相结合，官方数据保证基础数据的权威性、客观性，自筹数据加强数据的关联性、扩展性、主观性。行政区划的官方数据来源如下： 
 
-* 民政部网站>民政数据>[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/){:target="_blank"}
-  *	[2020年12月底完整数据](http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html)
-  *	[2021年的变更数据](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)
-* 民政部网站>政务服务>查询服务>《[全国行政区划图](http://xzqh.mca.gov.cn/map){:target="_blank"}》
+* 民政部网站 /
+  * 民政数据/[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/){:target="_blank"}
+    *	[2020年12月底完整数据](http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html)
+    *	[2021年的变更数据](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)
+  * 政务服务/查询服务/《[全国行政区划图](http://xzqh.mca.gov.cn/map){:target="_blank"}》
 
-* 国务院网站>政策>[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/){:target="_blank"}
+* 国务院网站/政策/[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/){:target="_blank"}
 
 
 行政区划介绍
