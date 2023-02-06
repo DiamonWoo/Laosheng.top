@@ -1,4 +1,4 @@
-﻿央企股票一览表 📈
+央企股票一览表 📈
 =================
 大萌　	2023
 <base target="_blank">
@@ -66,12 +66,12 @@
 25⠀📶	[中国移动](https://www.10086.cn/aboutus/ "中国移动通信集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国移动)	⠀10086[网上营业厅](https://www.10086.cn/)、[关联公司](https://www.10086.cn/zzxx/)  
 26⠀🛰	中国星网	雄安新区	　	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链  
 27⠀✡	[中国电子](https://www.cec.com.cn "中国电子信息产业集团有限公司")⠀	深圳市	　	⠀[wb](https://weibo.com/n/CEC中国电子)	⠀[集团新闻](https://www.cec.com.cn/集团新闻)，19家上市公司，687家成员企业  
-28⠀🚚	[中国一汽](http://www.faw.com.cn "中国第一汽车集团有限公司")⠀	长春市	⠀[网站群](http://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀[wb](https://weibo.com/n/中国一汽)	  
-29⠀🚚	[东风公司](http://www.dfmc.com.cn "东风汽车集团有限公司")⠀	武汉市	　	⠀[wb](https://weibo.com/n/东风汽车)	  
-30⠀🏗	[中国一重](http://www.cfhi.com "中国一重集团有限公司")⠀	齐齐哈尔市	　	　	  
-31⠀🏗	[国机集团](http://www.sinomach.com.cn "中国机械工业集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中机建设集团)	  
-32⠀✡	[哈电集团](http://www.harbin-electric.com "哈尔滨电气集团有限公司")⠀	哈尔滨市	　	　	  
-33⠀✡	[东方电气集团](http://www.dongfang.com "中国东方电气集团有限公司")⠀	成都市	　	⠀[wb](https://weibo.com/n/东方电气)	  
+28⠀🚚	[中国一汽](https://www.faw.com.cn "中国第一汽车集团有限公司")⠀	长春市	⠀[网站群](https://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀[wb](https://weibo.com/n/中国一汽)	⠀[新闻中心](http://www.faw.com.cn/fawcn/373694/373706/index.html)，解放/东风/红旗  
+29⠀🚚	[东风公司](https://www.dfmc.com.cn "东风汽车集团有限公司")⠀	武汉市	⠀[网站群](https://www.dfmc.com.cn/zoujindf/links.html)	⠀[wb](https://weibo.com/n/东风汽车)	⠀[新闻中心](https://www.dfmc.com.cn/news/qiyexinwen.html)  
+30⠀🏗	[中国一重](https://www.cfhi.com "中国一重集团有限公司")⠀	齐齐哈尔市	⠀[网站群](https://www.cfhi.com/yizhonggroup/gywm8/qybj/flej/yzjthljzgyxgs/)	　	⠀中国第一重型机械  
+31⠀🏗	[国机集团](http://www.sinomach.com.cn "中国机械工业集团有限公司")⠀	北京	⠀[网站群](http://www.sinomach.com.cn/gjjtwzq/)	⠀[wb](https://weibo.com/n/中机建设集团)	⠀[报刊媒体](http://www.sinomach.com.cn/xwzx/gjmt/zgsmt/)/[第一工程机械网](https://www.d1cm.com)  
+32⠀⚡	[哈电集团](https://www.harbin-electric.com "哈尔滨电气集团有限公司")⠀	哈尔滨市	⠀[网站群](https://www.harbin-electric.com/company4.asp)	　	⠀H股[哈尔滨电气](https://www.hpec.com/)  
+33⠀⚡	[东方电气集团](https://www.dongfang.com "中国东方电气集团有限公司")⠀	成都市	⠀[网站群](https://www.dongfang.com/ywbt/ywfb.htm)	⠀[wb](https://weibo.com/n/东方电气)	⠀六电并举，沪港上市[东方电气](http://www.dec-ltd.cn/)  
 34⠀🏭	[鞍钢](http://www.ansteel.cn "鞍钢集团有限公司")⠀	鞍山市	　	⠀[wb](https://weibo.com/n/鞍钢集团)	  
 35⠀🏭	[中国宝武](http://www.baowugroup.com "中国宝武钢铁集团有限公司")⠀	上海市	　	⠀[wb](https://weibo.com/n/友爱的宝武)	  
 36⠀🧲	中矿资源	保定市	　	　	⠀2022年7月成立  
@@ -126,8 +126,8 @@
 85⠀✈️	[中国航油](http://www.cnaf.com "中国航空油料集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国航油)	  
 86⠀✈️	[中国航材](http://www.casc.com.cn "中国航空器材集团有限公司")⠀	北京	　	　	  
 87⠀⚡	[中国电建](http://www.powerchina.cn "中国电力建设集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/电建微言)	  
-88⠀🔥	[中国能建](http://www.ceec.net.cn "中国能源建设集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国能建)	  
-89⠀🔥	[中国安能](https://www.china-an.cn "中国安能建设集团有限公司")⠀	北京	　	　	  
+88⠀⛑️	[中国能建](http://www.ceec.net.cn "中国能源建设集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国能建)	  
+89⠀⛑️	[中国安能](https://www.china-an.cn "中国安能建设集团有限公司")⠀	北京	　	　	  
 90⠀💰	[中国黄金](http://www.chinagoldgroup.com "中国黄金集团有限公司")⠀	北京	　	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	  
 91⠀☢️	[中广核](http://www.cgnpc.com.cn "中国广核集团有限公司")⠀	深圳市	　	⠀[wb](https://weibo.com/n/中国广核集团)	  
 92⠀📼	[华录集团](http://www.hualu.com.cn "中国华录集团有限公司")⠀	大连市	　	　	  
@@ -144,21 +144,21 @@
 --------------
 
 	行业	计数
-	✡ 电子	7	🛰 	2
+	⚡ 电力	8	🛰	2
 	🏭 钢铁	6	🚢	2
-	🏗 建筑	6	🚚	2
-	⚡ 电力	6	🚀	2
-	🧲 矿产	5	💥	2
-	🔥 能源	5	🎠	2
-	💰 金融	5	🌊	2
-	📶 通讯	4	　	2
-	✈ 空乘	4	🧪	1
-	🚉	3	🛣️	1
-	💡	3	🛢️	1
-	👯	3	🗜️	1
-	🌾	3	📼	1
-	⛽	3	📦	1
-	⛑️	3	💊	1
+	🧲 重工	5	🚚	2
+	🔥 能源	5	🚀	2
+	💰 金融	5	💥	2
+	✡ 电子	5	🎠	2
+	⛑️建筑	5	🌊	2
+	📶	4	　	2
+	🏗	4	🧪	1
+	✈️	4	🛣️	1
+	🚉	3	🛢️	1
+	💡	3	🗜️	1
+	👯	3	📼	1
+	🌾	3	📦	1
+	⛽	3	💊	1
 	⚗️	3	🌿	1
 	☢️	3	🌲	1
 	 	 	⚙	1
@@ -240,6 +240,27 @@
 南京熊猫（600775）、深科技（000021）、长城电脑（000066）、中国软件（600536）、深桑达A（000032）、华东科技（000727）、长城信息（000748）、上海贝岭（600171）、振华科技（000733）、彩虹股份（600707）
 
 
+28	中国第一汽车集团有限公司  
+3家[上市公司](http://www.faw.com.cn/fawcn/373692/ssgs/index.html)：
+一汽解放，股票代码：000800
+一汽富维，股票代码：600742
+启明信息，股票代码：002232。
+
+29	东风汽车集团有限公司  
+[东风汽车](http://www.dfmg.com.cn/) H股代码：00489
+
+30	中国一重集团有限公司  
+中国一重 601106.SH
+
+31	中国机械工业集团有限公司  
+14家[上市公司](http://www.sinomach.com.cn/gygj/ssgs/)：苏美达 (SH600710)、中工国际 (SZ002051)、中国恒天立信国际 (HK00641)、国机重装 (SH601399)、第一拖拉机 (HK00038)、一拖股份 (SH601038)、凯马B (SH900953)、中国电研 (SH688128）、林海股份 (SH600099)、国机精工 (SZ002046)、经纬纺机 (SZ000666)、国机汽车 (SH600335)、国机通用 (SH600444)、蓝科高新 (SH601798)
+
+32	哈尔滨电气集团有限公司  
+1994年在香港联交所挂牌上市，哈尔滨电气，HARBIN ELECTRIC，股票代码：01133.HK
+
+33	中国东方电气集团有限公司  
+东方电气 600875.sh、东方电气 01072.hk
+
 
 
 
@@ -248,7 +269,7 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	v0.3.1	202302
+	央企股票一览表	v0.3.2	202302
 ```
 
 回到首页
