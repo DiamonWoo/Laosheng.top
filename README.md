@@ -3,7 +3,7 @@
 
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
-　　这里是民间网站‘老生常谈’，以[大规模集成网页](https://diamonwoo.github.io/LSIP)为中文基础网站提供**结构性目录**。　本站希望为网民快速找到有效信息节约时间，主要收录：法律、政务(经济/民生)、新闻、全球化等方面的官方网站，结构如下：
+　　这里是民间网站‘老生常谈’，以[大规模集成网页](https://diamonwoo.github.io/LSIP)为中文基础网站创作**高质量**的“结构性目录”。主要收录：法律、政务(经济/民生)、新闻、全球化等方面的官方网站。这些官网大多承担了法定信息披露职责，为万维网提供‘种子型数据’。　大萌为这些种子数据设计容易检索的集成网页，希望能为网民“快速找到有效信息”节约时间。本站目录如下：
 
 /falv ⠀[大萌望海楼](falv)，找法不用愁<br>
 　【法律】系列　找到有用法律
@@ -16,9 +16,9 @@
 /fuwu ⠀[有关部门服务网](fuwu) 🕘<br>
 　【服务】系列　找到有关部门
   + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
+  + /fuwu/yangqi　📈 [央企股票一览表](fuwu/yangqi)　
   + /fuwu/fazhi　🏢 [法治政府有关部门](fuwu/fazhi) 　全国省地市的 立法/司法/执法/普法 有关部门。
   + /fuwu/qianxian　📑 [中国千县政府网](fuwu/qianxian)，全国所有省/市/县政府网站，2021年数据。
-  + /fuwu/jinrong　🥯 [个人金融理财圈](fuwu/jinrong)　全国银行、股市、保险机构名录。
   + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
   + ……
 
@@ -48,7 +48,7 @@
   + /Lab/dimingku 　 中国千县地名库、世界国别代码库，待升级……
 
 
-　　老生常谈网站由[大萌](https://Laosheng.top/author/helpme.txt)于2019年创建，希望能为网民带来方便。　本站不嵌广告、不发红包，希望有志愿者能帮助测试。在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。节约时间，就是爱护生命。
+　　老生常谈网站由[大萌](https://Laosheng.top/author/helpme.txt)于2019年创建，网站中不嵌广告、不发红包、不开打赏，努力保持阅读舒适度。　谨希望有志愿者能帮助测试与反馈，在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。节约时间，就是爱护生命。
 
 		本站会在严格遵守知识产权法律方面做出表率。
 
@@ -98,9 +98,9 @@
 ![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 
-	老生常谈© 2019~2023 大萌	知识共享
+	老生常谈© 2019~2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.6	202301
+	https://Laosheng.top	v3.6	202302
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
