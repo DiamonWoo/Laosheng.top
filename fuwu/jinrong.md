@@ -1,11 +1,7 @@
 个人金融理财圈 🥯
 ================
-大萌	2022-2023	<base target="_blank">
-<meta property="og:type" content="website" /><!-- article -->
-<meta property="og:site_name" content="老生常谈">
-<meta property="og:title" content="个人理财金融圈，根本原则是安全 🥯">
-<meta property="og:description" content="证券股市交易、黄金期货交易、外汇、保险、信托">
-<meta property="og:image" content="📈">
+大萌	2022-2023
+<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 二十大报告
 
@@ -21,13 +17,13 @@
 主要商业银行、
 主要保险集团、
 其他交易所、
-媒体
+财经云媒体
 </div>
 
 
 中国金融业体系架构
 -------------------
-Finance 一行两会三所
+Finance⠀一行两会三所
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)  
 	人行，国家中央银行、央妈，主管：外汇/黄金/货币政策
@@ -55,9 +51,9 @@ Finance 一行两会三所
 [**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)  
 	中国证券监督管理委员会，监管：债券/股票/基金/期货/上市公司  
 监管以下机构（3+5+x）：
-* 📈【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市　[上证指数](http://www.sse.com.cn/market/price/trends/)
-* 📈【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-* 📈【[北交所](http://www.bse.cn)】 北京证券交易所 /北市　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
+* 【[上交所](http://www.sse.com.cn)】📈 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
+* 【[深交所](https://www.szse.cn/)】📈 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+* 【[北交所](http://www.bse.cn)】📈 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
 * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
 * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
     * 上海国际能源交易中心
@@ -72,7 +68,7 @@ Finance 一行两会三所
 - ……
 
 监管以下业务（债/股/基/期+x）：  
-- 债券　Bond　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
+- 债券　Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
   - 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
   - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
   - 北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）十几种债券
@@ -99,10 +95,11 @@ Financial Exchange
 
 * 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
   　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
-  　查询[所有港股上市公司](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)股价走势
+  * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
+  * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
   * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
   * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
-  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购
+  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
   * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
   * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
 * [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
@@ -424,10 +421,12 @@ Statutory Disclosure Media 7家
 * $[经济参考报](http://www.jjckb.cn)
 
 
-财经类云媒体
-------------
+财经云媒体
+----------
 
 东方财富、新浪财经、第一财经、财新网……
+
+（未完待续）
 
 
 更多金融业有关部门
@@ -466,7 +465,7 @@ Relevant Departments
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/fuwu/jinrong
-	个人金融理财圈	v0.5.1	202301
+	个人金融理财圈	v0.5.3	202302
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
