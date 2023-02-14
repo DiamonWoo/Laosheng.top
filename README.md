@@ -16,7 +16,7 @@
 /fuwu ⠀[有关部门服务网](fuwu) 🕘<br>
 　【服务】系列　找到有关部门
   + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
-  + /fuwu/yangqi　📈 [央企股票一览表](fuwu/yangqi)　
+  + /fuwu/yangqi　📈 [央企股票一览表](fuwu/yangqi)　国资委98家央企旗下400余支股票
   + /fuwu/fazhi　🏢 [法治政府有关部门](fuwu/fazhi) 　全国省地市的 立法/司法/执法/普法 有关部门。
   + /fuwu/qianxian　📑 [中国千县政府网](fuwu/qianxian)，全国所有省/市/县政府网站，2021年数据。
   + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
@@ -38,7 +38,7 @@
 
 〖工具页面〗<br>
   + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
-  + /c/timing ⠀提名网站和落榜记 [>>>>](c/timing.txt)
+  + /c/timing ⠀提名网站和落榜记 [>>>>](c/timing)
   + [从地名图学习SQLite数据库](fuwu/diming4SQLite)，待更新……
   + «发现软件之海»培训课程，规划中……
 
