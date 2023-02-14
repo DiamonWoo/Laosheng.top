@@ -1,6 +1,6 @@
 一带一路民间站 💃
-===============
-大萌	2022
+=================
+大萌	2022-2023
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
@@ -8,11 +8,11 @@
 
 +  /ydyl/united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。建设中……
 
-+  /ydyl/nations　🗺 [国别代码速查表](nations)，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
++  /ydyl/nations　🗺 [世界国别速查表](nations)，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
 
 +  /ydyl/index　🌞 [一带一路云媒体](index){:target="_blank"}　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。更新中……
 
-+  💱 世界金融交易所　finance（筹备中）
++  /ydyl/jiaoyisuo 💱 [全球金融交易所](jiaoyisuo)　Globe Finance（Beta）
 
 +  ⭕ 人类命运共同体……（规划中）　
    + 国际大赛与荣誉　——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
@@ -65,7 +65,7 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-<h2 id=ditu>一带一路地图网站</h2>
+<h2 id=ditu>一带一路地图网站 🗺</h2>
 　　天地图
 <a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
@@ -91,7 +91,7 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
 　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
 
-<h3 id="fanyi">免费翻译网站</h3>
+<h3 id="fanyi">免费翻译网站 🎧</h3>
 　　谷歌翻译
 #<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
@@ -107,7 +107,7 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 <a target="_blank" title="提供本地软件" href="https://dict.eudic.net">欧陆词典</a>
 </small>
 
-<h4>能翻译网页的浏览器 🎧</h4>
+<h4>能翻译网页的浏览器</h4>
 
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
 * 谷歌 Chrome	曾经是翻译效果最好的浏览器，但202210之后谷歌关闭中国翻译服务，访问困难
@@ -119,10 +119,10 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 
 
 ```
-	老生常谈 © 2019~2022 大萌 创作共用 3.0
-	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
+	老生常谈 © 2019~2023 大萌 知识共享3.0
+	CC BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v2.9.10	202212
+	一带一路民间站 v3.0.0	202302
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
