@@ -1,2 +1,4 @@
 User-agent:*
 Disallow:/.hide/
+Disallow:/fly/?=http://tjvip.vip
+Allow:/fly
