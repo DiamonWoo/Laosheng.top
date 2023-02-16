@@ -1,144 +1,106 @@
-大规模集成网页 (LSIP)
-=====================
-大萌　		2022-2023
+老生常谈
+========
 
-　　大规模集成电路，LSIC，指的是，集成超过1000个晶体管的电路。  
-　　大规模集成网页，LSIP，指的是，集成超过1000个超链接的网页。  
+		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
-　　LSIC和LSIP这两个概念非常相似，一个是硬件，一个是软件。单个晶体管的结构很简单，二极管只有阴、阳两个极，三极管只有 B、C、E 三个极；单个超链接也只有 超文本、链接网址 2个核心语法段，再加上Title和Target等标签。单个晶体管的功能很单纯：实现电流增益；单个超链接的功能也很单纯：实现文件跳转。　集成电路是在一块小型晶片上，把很大数量的微晶体管集成在一起，形成某种功能的电气回路。
+　　这里是民间网站‘老生常谈’，以[大规模集成网页](https://diamonwoo.github.io/LSIP)为中文基础网站提供**结构性目录**。　本站希望为网民快速找到有效信息节约时间，主要收录：法律、政务(经济/民生)、新闻、全球化等方面的官方网站，结构如下：
 
-　　‘集成网页’是在单一网页上集成同一个主题下的全部超链接，以实现该主题的网址全集，是基于万维网(WWW)的一种新网页形态。　按照集成规模，当超链接数量超过一百，称之为‘中型集成网页(MSIP)’；当超链接数量超过一千，称之为‘大规模集成网页’(LSIP，Large Scale Integrated web Page)；当超链接数量超过一万，称之为‘超大规模集成网页(VLSIP)’。
+/falv ⠀[大萌望海楼](falv)，找法不用愁<br>
+　【法律】系列　找到有用法律
+  + /falv/fahai　☸️ [法海概览](falv/fahai) 中国现行法律体系概览，帮助初学者在茫茫法海找到有用的法律法规。
+  + /falv/duben　💎 [大萌法律读本](falv/duben)，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
+  + /falv/duben2　大萌法律读本2
+  + /falv/index2　中国法律简目(暂停)
+  + 中国千县公检法 ……
 
-+	MSIP示例：[中国新闻云媒体](https://LaoSheng.top/fly){:target="_blank"}
-+	LSIP示例：[中国千县政府网](https://LaoSheng.top/qianxian){:target="_blank"}
+/fuwu ⠀[有关部门服务网](fuwu) 🕘<br>
+　【服务】系列　找到有关部门
+  + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
+  + /fuwu/fazhi　🏢 [法治政府有关部门](fuwu/fazhi) 　全国省地市的 立法/司法/执法/普法 有关部门。
+  + /fuwu/qianxian　📑 [中国千县政府网](fuwu/qianxian)，全国所有省/市/县政府网站，2021年数据。
+  + /fuwu/jinrong　🥯 [个人金融理财圈](fuwu/jinrong)　全国银行、股市、保险机构名录。
+  + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
+  + ……
 
-　　过去，这种数据全集一般以数据库形式保存于服务器，被称作[DeepWeb](https://www.oalib.com/search?type=0&oldType=0&kw=deepweb&searchField=All)；然后由服务器脚本向用户输出查询子集，实现该查询过程的网页被称为‘动态网页’。　而随着网络速度的提高和浏览器能力的增强，服务器也可以直接发送数据全集给用户。集成网页就是一种包含某方面数据全集的‘静态网页’，用户的查询通过浏览器在本地实现，不需要再次经过服务器，节省了网络交互次数。
+/fly/dir ⠀[全球免费云媒体](fly/dir) ⛅<br>
+　【云媒体】系列，找到有源新闻
+  + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
+    + /fly/index2　📜️ [云媒体第二页](fly/index2.html)：教育台与科技报、县区级报纸与电视、图例与帮助。
+  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )：解放军微博阵列、China Daily、环球时报、中国外文局，十大世界语言、明星微博粉丝榜
+  + 一带一路云媒体 ……
 
-　　大规模集成网页(LSIP)利用更快更强的网络，把数据库网页化，把DeepWeb的数据上升到前端，是 [web 3.0](https://cn.bing.com/search?q=web+3.0) 的一种可能形式。本概念由大萌于2022年7月通过[在Github建立项目](https://diamonwoo.github.io/LSIP/)首次发表，该项目将以LSIP为基础，讨论‘集成网页’涉及的技术与应用。
+/ydyl/dir ⠀[一带一路民间站](ydyl/dir) 💃<br>
+　【一带一路】系列　找到全世界
+  + /ydyl/united　🇺🇳 [联合国有关部门](ydyl/united )：主要国际组织、世界竞赛与奖项。
+  + /ydyl/nations　🗺 [国别代码速查表](ydyl/nations)：国家概况、ISO代码、政府网址、双方使馆……
+  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸55家。
+  + 🚄🚃☁🚃☁……
 
+〖工具页面〗<br>
+  + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
+  + /c/timing ⠀提名网站和落榜记 [>>>>](c/timing.txt)
+  + [从地名图学习SQLite数据库](fuwu/diming4SQLite)，待更新……
+  + «发现软件之海»培训课程，规划中……
 
-LSIP 缘起与命名
---------------
-named
-
-　　‘集成网页’的实践，最早在2019年大萌制作《老生常谈云媒体》网页时出现，大萌在新冠疫情初期搜索各地官方媒体网站时遇到困难，便萌发出，要把所有官媒网站收录在一个网页的想法 ……
-
-　　[LSIP 缘起与命名](named)
-
-　　新概念诞生了！《[中国千县政府网](https://LaoSheng.top/qianxian)》可以称作：‘大规模集成网页’！英文：Large Scale Integrated web Page，缩写为：LSIP。
-
-
-LSIP的适用领域
--------------
-field
-
-　　大规模集成网页(LSIP)把数据交给用户，在技术上主动提供了网站数据被复制的可能。这与传统动态网页在安全策略上相反。　动态网页把数据全集藏在服务器后面的数据库，用户无法直接获取，如果有黑客绕过了服务器脚本，直接下载网站的数据库，叫做‘被拖库’，属于严重的网络安全事故。　
-
-　　所以，大规模集成网页 适合原本公开的数据，比如法律条款、政策文件、政府公开数据……等等。这些数据本来就允许用户复制，而LSIP能让用户复制得更快。
-
-　　LSIP的数据不仅向用户开放，而且向互联网开放 —— 这是App不愿意做的事情。包括搜索引擎在内的其他网站均可以对数据进行复制和再利用，这使得数据的复用率增加。　数据复用率增加将帮助数据获得进一步利用：统计、识别、机器学习，LSIP由此产生衍生信息。这个过程常被称为‘[数据挖掘(Data Mining)](https://www.zhihu.com/topic/19553534/hot)’。所以，LSIP可以成为人工智能(AI)的基础工程。
-
-　　但是公开数据中有一些并不适合LSIP。那些随时随地会变化的数据，比如互联网的域名注册信息。用户即使下载了某一时刻的数据全集，下一秒的变化仍然需要到服务器查询，起不到节省网络交互次数的作用。　那些没有明确数量的数据，也不适合LSIP，网页的制作永远无法完成，只能‘集’，无法‘成’。
-
-　　综上所述，大规模集成网页(LSIP)适用于公开类数据、有限集数据。
-
-
-LSIP的造价
-----------
-Cost
-
-　　LSIC之所以能流行，是因为它为广泛需求提供了低成本解决方案，LSIP同样需要这个优势。
-
-　　LSIC的初级原料非常便宜，是二氧化硅（沙），成本可以忽略。所以，LSIC的成本主要在设计环节和生产(复制)环节，而且往往由不同的企业分工。比如，华为设计海思芯片，交给台积电生产。
-
-　　LSIP的初级原料是网址数据(超链接)，通常也很便宜；而网页的生产(复制)环节几乎是零成本，所以，LSIP设计环节的成本是整个成本的重头戏。　集成电路的设计有相当的难度，需要计算机辅助，集成网页也将朝这个方向发展，集成规模越大，设计难度越大。
-
-　　但是LSIP还有一个硬件没有的成本——更新。传统硬件在出售之后，除了故障维修基本上不再有产品更新，我们的手机内存用满了能找厂家换个大内存吗？不能。 但是集成网页可以升级到更大、更新。　LSIP的本质是一个集文档、软件、互联网项目于一体的综合性产品，文档有审校任务，软件有升级任务，互联网有更新任务，不同的领域对产品后续维护的说法不一样。读者当然会期待在LSIP上能够看到最新最全的内容，这是LSIP的价值所在。
-
-　　综上所述，二者的初级原料成本都很低，集成电路的成本在设计、制造，集成网页的成本在设计、更新。如果您想加入LSIP创作者队伍，您需要准备设计和更新的能力。
+〖衍生项目〗<br>
+  + /Lab/[LSIP](Lab/LSIP)，大规模集成网页，集成超过1000个超链接的网页。
+  + /Lab/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重
+  + /Lab/dimingku 　 中国千县地名库、世界国别代码库，待升级……
 
 
+　　老生常谈网站由[大萌](https://Laosheng.top/author/helpme.txt)于2019年创建，希望能为网民带来方便。　本站不嵌广告、不发红包，希望有志愿者能帮助测试。在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。节约时间，就是爱护生命。
 
-LSIP的技术指标 (？)
-------------------
-Coming Soon ...
-
-　　光有一个链接数，还不能评价一个网页是否成为LSIP，否则把一个网页做的又丑又长就能轻易达标。当我们拆开一台手机或电脑，可以看到里面的集成电路块很小，大部分芯片的尺寸不会超过一块橡皮擦。里面的晶体管特别多，总的芯片体积又很小，这才体现了既要‘大规模’又能‘集成’为一小块的技术特点。 　集成网页也需要类似的技术特点，最好有一个能够测量的指标，方便定量分析。下面以《千县网》项目来说明。
-
-　　Intense writing ...
+		本站会在严格遵守知识产权法律方面做出表率。
 
 
+导游词
+--------
 
-LSIP的标准
-----------
-standard
++ [欢迎欢迎](author/speech.txt "初心与历程")🙂  
++ 网站发布3.0，站内连接基本修复。 在[小笔记](broad/blog.txt "建站心得")看看网站有什么变化。
 
-　　LSIP需满足在单一主题下：
-+	1、超链接数量超过1000个；
-+	2、( Coming soon ……)
++ 新冠居家指引[文件速查](fuwu/jujia)，重点介绍中医药治疗（202301更新）
++ [从世界杯看国别表](broad/2022/worldcup) 🏆
++ [证监会为什么不要App？](c/8-证券信息披露的法定媒体.txt)
 
-
-
-
-大萌的集成网页
---------------
-Integrated web Page by Diamon
-
-中型集成网页（MSIP）：
-
-+	🌞[一带一路云媒体](https://Laosheng.Top/ydyl/)　约500个超链接
-+	🕰[中央有关部门集](https://Laosheng.top/fuwu/zhongyang)	约600个超链接
-+	☁[中国新闻云媒体](https://laosheng.top/fly)　超900个超链接
-
-大规模集成网页（LSIP）：
-
-+	[央企股票一览表](https://Laosheng.top/fuwu/yangqi)　超1100个超链接  
-	　实业类央企旗下400多家上市公司的：股票代码、行情页面、公司官网
-+	[法治政府有关部门](https://Laosheng.top/fuwu/fazhi)　超1200个超链接  
-	　中国333个地级市的立法/普法/执法/司法/监察部门网址
-+	🗺[世界国别速查表](https://Laosheng.top/ydyl/nations)　超1400个超链接  
-	　249个国家或地区的概况、政府网址、中英文名称、双方使馆、ISO代码……
-+	📑[中国千县政府网](https://Laosheng.top/fuwu/qianxian)　超3000个超链接 　中国3212个县级以上政府网址，简称‘千县网’。
-
-超大规模集成网页（VLSIP）：
-
-+	中国政法区划集	超12000个超链接，设计中。
-
-周边：
-
-+	LSIP的应用示范文档　——《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》
-+	LSIP License 大规模集成网页许可证 —— 保护LSIP版权，促进LSIP发展，防止LSIP滥用
-+	《用大规模集成网页对抗互联网垃圾农场》	—— 论文  
-	垃圾农场稀释和污染万维网，LSIP干燥和提纯万维网。
++ [App与浏览器到底有什么区别？](c/app-browser-diff.txt)（202112 第三稿）
++ [更多……](c/)
 
 
-　　大萌希望**有识之士**加入LSIP创作者队伍，欢迎大家在自己感兴趣的领域设计、制作‘大规模集成网页’，为祖国高质量发展出力！　有关设计制作的问题，可以通过留言板、电子邮件、github网站[联系大萌](https://laosheng.top/author/helpme.txt)。
+浏览方法
+--------
 
-　　I hope users of other languages to make LSIP projects for their fellow citizens, which can help people understand the whole world more easily, which is not something that Twitter and Facebook can do.
+在浏览器内访问本站 ，体验更佳，网址：[Laosheng.top](https://laosheng.top '老生常谈')。<img src="./indexQR-Blue.png" align="left"> 手机用户通过浏览器扫描网址二维码，可直接访问本站。 
+
+在微信内“扫一扫”可能会弹出“非微信官方网页…”的提示，请点“<font color="green"><b>继续访问</b></font>”。
+
+另外选取了几个页面制作<a title='解决低版本微信无法转发问题' href='https://diamonwoo.github.io/wx'>镜像页</a>，方便微信读者转发。
+
+“排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](author/helpweb.txt "老生常谈站点的浏览帮助")
 
 
-　　未完待续……
+法律支持
+-------
+
+　　**《中华人民共和国宪法》**第二章
+
+	第四十七条　中华人民共和国公民有进行科学研究、文学艺术创作和其他文化活动的自由。
+	国家对于从事教育、科学、技术、文学、艺术和其他文化事业的公民的有益于人民的创造性工作，给以鼓励和帮助。
 
 
-　　欢迎读者[留言讨论](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，github用户可提交issue。
+鸣谢
+------
+
+　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档编译。LaoSheng.top 网站努力建设中，欢迎向[作者大萌](author/helpme.txt "帮助作者")提供意见，谢谢！  
+<!-- (https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png) -->
+![更安全的火狐浏览器](thanks4firefox-64.png)
+![谋智开发者网络](thanks-MDN-64.png)
+![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 
-in English
-----------
+	老生常谈© 2019~2023 大萌	知识共享
+	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
+	https://Laosheng.top	v3.6	202301
 
-　　The 'integrated web page' is a new web form based on the World Wide Web (WWW):
-Integrate all hyperlinks under the same topic on a single web page, to implement the full set of URLs for that topic.
-
-　　When the number of hyperlinks exceeds one thousand, it is called a 'Large Scale Integrated  web Page' (LSIP), named by [DiamonWoo](https://diamonwoo.github.io/LSIP/) on github.com , 202207.
-
-　　If you have a strong will and a pure heart, join in!
-
-```
-	大规模集成网页(LSIP) © 大萌 2022-2023
-	https://diamonwoo.github.io/LSIP
-	CC 3.0 BY-NC-ND 　可转载-需署名-非演绎
-```
-
-LSIP在[老生常谈](https://laosheng.top/yan/LSIP)网站的转载页
-
-[本页更新历史](https://github.com/DiamonWoo/LSIP/commits/)
+<a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
+🎁🎅🛍💐🎀🥳☎
