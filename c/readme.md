@@ -1,8 +1,10 @@
 老生[常谈](./)
 ================
-大萌 © 2020-2022
+大萌 © 2020-2023
 
 		老生常谈，节约您的搜寻时间
+
++ [新冠居家指引文件速查](6-xinguanjujia)，重点介绍中医药治疗（202301更新）
 
 + [从世界杯看国别表](../broad/2022/worldcup) 🏆
 
@@ -22,15 +24,15 @@
 
 * DMTB：中国城市的免费电视
 
-
-	-----
+```
+	老生常谈© 2019-2023 大萌	知识共享许可
+	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
+	https://Laosheng.top/c	v0.4.0	202302
+```
 
 回到首页  
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top
-
-	老生常谈排行榜，不忘初心的互联网
-
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 <script language="javascript" src="http://www.alicount.com/1683"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
