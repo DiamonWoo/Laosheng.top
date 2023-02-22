@@ -1,14 +1,17 @@
 新冠居家指引🤒<sub>文件速查</sub> 
 ==================
 大萌	2023	<base target="_blank">
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="老生常谈" />
-<meta property="og:url" content="https://Laosheng.top/fuwu/" />
 
 　　年终岁尾，防疫政策迎来重大转变。去年12月26日，国家卫健委发布公告，将‘新型冠状病毒肺炎’更名为‘新型冠状病毒感染’，并将在今年1月8日起不再实施‘乙类甲管’。国家防疫重点从防控转向诊疗，相关文件密集出台，个人学习压力陡增。　大萌收录近期有关居家诊疗的文件，尤其是中医药方案，供大家速查。　网页制作中，欢迎大家[提出意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn )！
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/新冠居家指引
+⏩ 老生 /<a href="https://Laosheng.top/c" target="_top"> 常谈 </a>/新冠居家指引
 </div>
+
+三年抗疫的历史网址
+----------------
+
+腾讯[疫情动态](https://news.qq.com/zt2020/page/feiyan.htm#/)、　
+
 
 预备知识
 ----------
@@ -99,10 +102,10 @@
 
 　　推荐中成药：清肺排毒颗粒。
 ~~~
-<img width="75%" src="xinguan/6-xinguan诊疗方案-补全书签-2023.png" />
+<img width="75%" src="6/6-xinguan诊疗方案-补全书签-2023.png" />
 
 *	pdf官方文件 	[卫健委网站](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml)（2023年1月第十版）
-*	pdf书签补全 	[老生常谈网站](xinguan/6-xinguan诊疗方案-第十版+书签补全-202301.pdf ){:target="_top"} （可阅读、可下载）  
+*	pdf书签补全 	[老生常谈网站](6/6-xinguan诊疗方案-第十版+书签补全-202301.pdf ){:target="_top"} （可阅读、可下载）  
 　　第十版较第九版新提了两份中医文件，《新冠病毒感染者居家中医药干预指引》、《关于在城乡基层充分应用中药汤剂开展新冠病毒感染治疗工作的通知》，本页均已收录网址。
 
 　　早期的新冠肺炎诊疗方案看这里： [国家《新冠肺炎诊疗方案》中的中医治疗](../c/6-xinguanzhenliao.txt){:target="_top"}（第九版、第八版）
@@ -112,13 +115,14 @@
 
 　　光明中医教材
 
+
 　　但愿人长久，千里共婵娟~~
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可证
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/jujia
-	新冠居家指引文件速查 v0.3.6	202301
+	新冠居家指引文件速查 v0.3.7	202302
 ```
 
 回到首页
