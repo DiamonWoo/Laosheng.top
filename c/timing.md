@@ -1,9 +1,6 @@
-﻿提名网站与落榜记
+提名网站与落榜记
 ===============
 大萌 2020~2023<base target="_blank">
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="老生常谈" />
-<meta property="og:url" content="https://Laosheng.top/index2.html" />
 
 		逆水行舟，不进则退
 
@@ -120,6 +117,8 @@
 *	<a href="http://Lofter.com/view" title="网易轻博客">Lofter</a>
 *	华为<a href="https://xinsheng.huawei.com/cn/" title="华为集团心声社区">心声</a>
 	不允许非员工发帖。
+*	搜房网[业主论坛](https://bbs.fang.com)
+*	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 
 
 6、医疗保健
@@ -193,6 +192,8 @@
 *	CnBtea
 *	v2ex.com	202104被限制地区访问
 *	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>
+*	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
+*	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
 
 
 10、名站导航
@@ -270,7 +271,7 @@
 	老生常谈© 2019-2023 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202301
+	提名网站与落榜记	　202302
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
