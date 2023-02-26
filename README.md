@@ -16,7 +16,7 @@
 /fuwu ⠀[有关部门服务网](fuwu) 🕘<br>
 　【服务】系列　找到有关部门
   + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
-  + /fuwu/yangqi　📈 [央企股票一览表](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
+  + /fuwu/yangqi　🧧 [央企股票全家福](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
   + /fuwu/fazhi　🏢 [法治政府有关部门](fuwu/fazhi) 　全国省地市的 立法/司法/执法/普法 有关部门。
   + /fuwu/qianxian　📑 [中国千县政府网](fuwu/qianxian)，全国所有省/市/县政府网站，2021年数据。
   + 城市环境有关部门，联系群众新渠道，观察城市新面貌。前期调研中……
@@ -48,18 +48,18 @@
   + /fuwu/dimingku 　 中国千县地名库、世界国别代码库，待升级……
 
 
-　　老生常谈网站由[大萌](https://Laosheng.top/author/helpme.txt)于2019年创建，网站中不嵌广告、不发红包、不开打赏，努力保持阅读舒适度。　谨希望有志愿者能帮助测试与反馈，在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。节约时间，就是爱护生命。
+　　老生常谈网站由[大萌](https://Laosheng.top/c/author)于2019年创建，网站中不嵌广告、不发红包，努力保持阅读舒适度，在尊重知识产权方面做出表率。　希望有志愿者能帮助转发、测试与反馈，在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。
 
-		本站会在严格遵守知识产权法律方面做出表率。
+		节约时间，就是爱护生命。
 
 
 导游词
 --------
 
-+ [欢迎欢迎](author/speech.txt "初心与历程")🙂  
++ [欢迎欢迎](c/speech "初心与历程")🙂  
 + 网站发布3.0，站内连接基本修复。 在[小笔记](broad/blog.txt "建站心得")看看网站有什么变化。
 
-+ 新冠居家指引[文件速查](fuwu/jujia)，重点介绍中医药治疗（202301更新）
++ 新冠居家指引[文件速查](c/6-xinguanjujia)，重点介绍中医药治疗（202301更新）
 + [从世界杯看国别表](broad/2022/worldcup) 🏆
 + [证监会为什么不要App？](c/8-证券信息披露的法定媒体.txt)
 
@@ -76,7 +76,7 @@
 
 另外选取了几个页面制作<a title='解决低版本微信无法转发问题' href='https://diamonwoo.github.io/wx'>镜像页</a>，方便微信读者转发。
 
-“排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](author/helpweb.txt "老生常谈站点的浏览帮助")
+“排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](c/helpweb "老生常谈站点的浏览帮助")
 
 
 法律支持
@@ -91,7 +91,7 @@
 鸣谢
 ------
 
-　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档编译。LaoSheng.top 网站努力建设中，欢迎向[作者大萌](author/helpme.txt "帮助作者")提供意见，谢谢！  
+　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档编译。LaoSheng.top 网站努力建设中，欢迎向[作者大萌](c/author "联系作者")提供意见，谢谢！  
 <!-- (https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png) -->
 ![更安全的火狐浏览器](thanks4firefox-64.png)
 ![谋智开发者网络](thanks-MDN-64.png)
@@ -100,7 +100,7 @@
 
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.6  202302
+	https://Laosheng.top	v3.7  202302
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
