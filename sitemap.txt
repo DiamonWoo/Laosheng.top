@@ -22,9 +22,9 @@ https://laosheng.top/ydyl/jiaoyisuo
 https://laosheng.top/ydyl/index.html
 https://laosheng.top/ydyl/union_of_human_fate
 
-https://laosheng.top/author/speech.txt
-https://laosheng.top/author/helpme.txt
-https://laosheng.top/author/helpweb.txt
+https://laosheng.top/c/author
+https://laosheng.top/c/speech
+https://laosheng.top/c/helpweb
 https://laosheng.top/broad/index.html
 https://laosheng.top/broad/blog.txt
 https://laosheng.top/broad/2022/worldcup
