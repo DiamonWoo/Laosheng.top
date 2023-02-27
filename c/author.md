@@ -9,12 +9,11 @@
 
 　　我准备了一些宣传语和宣传图，方便在微信中转发，图片中包含了网址的二维码，省去了输入网址的麻烦。
 
- * 老生常谈排行榜，打开真正的互联网 	<https://laosheng.top/index2.html>
- * 有关部门服务大全	<https://laosheng.top/fuwu>
- * 联合国有关部门，世界就在身边	<https://laosheng.top/fuwu/union>
- * 大萌法律读本，懂法走得更稳 	<https://laosheng.top/falv>
-
-	注意，在微信内部打开网址可能需要较长的时间等待审查，可复制网址在浏览器打开，体验更佳。
+ * 中国新闻云媒体，党和人民在一起 ⛅	<https://laosheng.top/fly>
+ * 央企股票全家福，国计民生胆气足 🧧	<https://laosheng.top/fuwu/yangqi>
+ * 老生常谈排行榜，打开真正互联网 🚩	<https://laosheng.top/index2.html>
+ * 一带一路民间站，世界国别速查表 🗺	<https://laosheng.top/ydyl/nations>
+ * 大萌法律读本，懂法走得更稳 📚 	<https://laosheng.top/falv>
 
  * 老生常谈的 [小卡片与传单](../broad "卡片与海报，欢迎转发")
 
@@ -42,7 +41,7 @@
 
 		老生常谈© 大萌	2019-2023 
 		https://laosheng.top/c/author
-		联系作者 v3.0	202302
+		联系作者 v3.0.1	202302
 
 回到首页  
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
