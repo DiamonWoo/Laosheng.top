@@ -1,18 +1,36 @@
 法治政府有关部门 🏢
 ==================
-大萌	2022-2023	<base target="_blank">
+大萌　GPL3.0　2022-2023
+<base target="_blank">
 
 		到2025年，政府行为全面纳入法治轨道——《法治政府建设实施纲要(2021－2025年)》
 
-　　本页面收录‘法治政府’的有关部门网址，包括：立法部门、司法部门、执法部门（即：人大、两院、公安）、普法与法治建设部门、纪检监察部门；还将收录半官方的法学会、律师协会。　欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
+　　中央依法治国决心大，法治政府建设任务重。本页面尝试收录全国各省市与法治建设联系紧密的部门网址，以**大规模集成网页**(LSIP)形式发布于互联网，便于直观感受法治政府的建设步伐，同时有利于群众通过网络参与全过程人民民主。
 
-　　目前，省级部门的收录已全面完成，地级部门的收录已经过半。　县区级**公检法**（公安微博Ⓖ、检察院网址Ⓙ、人民法院网址Ⓕ）请见 [中国千县公检法](./qianxian-gjf)，正在逐步添加。
+　　本页面收录网址的部门包括：立法、司法、执法（即：人大、两院、公安）、政法委与司法厅局、纪检监察部门；还将收录半官方的法学会、律师协会。　收录工作正在进行，部分省份已收录县区级**公检法**网址ⒼⒿⒻ，请见 [中国千县公检法](./qianxian-gjf)。
+
+　　由于个人能力有限，大萌欢迎读者制作改进版本，本页面特别采用了和Linux内核相同的GPL 3.0许可证（与知识共享的BY-SA协议兼容），允许读者改编。欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法治政府有关部门
 </div>
 
-35个省级单位索引
----------------
+<h4>收录进度</h4>
+
+	202303	十四届全国人大会议之际补全各省人大页面，进行中……
+	202209	省级部门的收录完成，地级部门收录过半。　
+
+<h3>中央部门 与 全国统一电话号码</h3>
+
+[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdhhytz.shtml)　[代表信息页](http://www.npc.gov.cn/npc/dbmd/tiaozhuan.shtml)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　⚖️ [最高法](https://www.court.gov.cn)<sup>🔸</sup> ☏ 12368　[weibo](https://weibo.com/zuigaofa#最高人民法院)<sub>　[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '网址收录不全')</sub>　 ⚔️ [最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ ☏ 12309　[weibo](https://weibo.com/sppcn#最高人民检察院)  
+　 [全国政协](http://www.cppcc.gov.cn) 　	提案公开页[]() 　 [中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ ☏ 12337 　[weibo](https://weibo.com/changan#中国长安网)　[中国法学会](https://www.chinalaw.org.cn)  
+[中央人民政府](https://www.gov.cn)<sup>🔸</sup>ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  
+　 [司法部](https://www.moj.gov.cn)<sup>🔸</sup> 　 ☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　 [中华全国律师协会](http://www.acla.org.cn)  
+　 [公安部](https://www.mps.gov.cn)<sup>🔸</sup>ⓜ 　 [警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)  ☏ 12389 　🛂<sub>weibo：[治安局](https://weibo.com/dshcsh#中国警方在线)　[交管局](https://weibo.com/gabjgj#公安部交通管理局)　[刑侦局](https://weibo.com/gabxzj#公安部刑侦局)</sub>  
+[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ 　 [巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)　 ☎️ 12388 　…… 更多部门及全国统一电话请见 [中央有关部门集](../fuwu/zhongyang)。
+
+
+<h4 id="mulu">35个省级单位索引</h4>
+按身份证号前两位排序：　
 <a href="#11" target="_top">11-北京</a>　
 <a href="#12" target="_top">12-天津</a>　
 <a href="#13" target="_top">13-河北</a> 冀　
@@ -48,17 +66,7 @@
 <a href="#71" target="_top">71-台湾</a>　
 <a href="#81" target="_top">81-香港</a>　
 <a href="#82" target="_top">82-澳门</a>　
-
-
-<h3>中央部门 与 全国统一电话号码</h3>
-
-[全国人大](http://www.npc.gov.cn)：[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　[代表信息页](http://www.npc.gov.cn/npc/dbmd/tiaozhuan.shtml)　 　⚖️ [最高法](https://www.court.gov.cn)<sup>🔸</sup> ☏ 12368　[weibo](https://weibo.com/zuigaofa#最高人民法院)<sub>　[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '网址收录不全')</sub>　 ⚔️ [最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ ☏ 12309　[weibo](https://weibo.com/sppcn#最高人民检察院)  
-　 [全国政协](http://www.cppcc.gov.cn) 　	提案公开页[]() 　 [中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ ☏ 12337 　[weibo](https://weibo.com/changan#中国长安网)　[中国法学会](https://www.chinalaw.org.cn)  
-[中央人民政府](https://www.gov.cn)<sup>🔸</sup>ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  
-　 [司法部](https://www.moj.gov.cn)<sup>🔸</sup> 　 ☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　 [中华全国律师协会](http://www.acla.org.cn)  
-　 [公安部](https://www.mps.gov.cn)<sup>🔸</sup>ⓜ 　 [警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)  ☏ 12389 　🛂<sub>weibo：[治安局](https://weibo.com/dshcsh#中国警方在线)　[交管局](https://weibo.com/gabjgj#公安部交通管理局)　[刑侦局](https://weibo.com/gabxzj#公安部刑侦局)</sub>  
-[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ 　 [巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)　 ☎️ 12388 　…… 更多部门及全国统一电话请见 [中央有关部门集](../fuwu/zhongyang)。
-
+<sub>要返回目录，可使用浏览器的后退按钮</sub>
 
 <h3 id="11">11 <a title="北京市人民政府" href="http://www.beijing.gov.cn">北京</a>　京　010 ♾　<sub>首都</sub></h3>	
 北京人大：[地方法规](http://www.bjrd.gov.cn/search/fggz)　[代表名单](http://www.bjrd.gov.cn/search/represent)　⚖️[高级人民法院](https://bjgy.bjcourt.gov.cn)　⚔️[人民检察院](https://www.bjjc.gov.cn)　 👥[省政协](http://www.bjzx.gov.cn)　[北京政法网](http://www.bj148.org)　[法学会](http://www.bjfxh.org.cn)　	  
@@ -624,8 +632,7 @@
 654200 <b>[塔城地区](http://www.xjtc.gov.cn "塔城地区人民政府")</b> 0901	　人大　司法局  - -　公安局 [weibo](https://weibo.com/3223428322#塔城金盾) 新G　	[纪委监委](http://www.xjtc.gov.cn/ztzl/zgtcjljcwyh.htm)　— —　长安网群  
 654300 <b>[阿勒泰地区](http://www.xjalt.gov.cn "阿勒泰地区人民政府")</b> 0906	　人大　司法局  - -　公安局 [weibo](https://weibo.com/3282669464#阿勒泰公安在线) 新H　	[纪委监委](http://lzw.xjalt.gov.cn)　— —　长安网群  
 
-
-<h4 align="right"><a href="#" target="_top">↑ Top</a></h4>
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 <h3 id="6590">6590 <a title="新疆生产建设兵团" href="http://www.xjbt.gov.cn">兵团</a>　　　<sub>非行政区划的省级单位，不设人大与政协</sub></h3>	
 ⚖️[兵团人民法院](http://xjbtfy.chinacourt.gov.cn)(高法)　⚔️[兵团检察院](http://jcy.xjbt.gov.cn)　 　[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　[法学会](http://zfw.xjbt.gov.cn)　	  
@@ -652,6 +659,7 @@
 [澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup> 　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup> 　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>  
 [澳门廉政公署](https://www.ccac.org.mo/)<sup>🔸</sup> 　[澳门政府](https://www.gov.mo/)<sup>🔸</sup> 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
 
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 技术标记图例(备用)
 ------------------
@@ -662,10 +670,10 @@
 　　老生常谈，节约您的搜寻时间。如果发现网址错误，请[向大萌指出](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)。
 
 ```
-	老生常谈© 2019-2023 大萌	GPL 3.0
-	知识共享  可转发-可衍生-相同方式授权
+	老生常谈© 2019-2023 大萌	知识共享3
 	https://laosheng.top/fuwu/fazhi
-	法治政府有关部门 v0.8.1		202303
+	法治政府有关部门 v0.8.2 	202303
+	GPL 3.0  可转发-可衍生-相同方式授权
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
