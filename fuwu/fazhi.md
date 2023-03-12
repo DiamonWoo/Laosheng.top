@@ -1,4 +1,4 @@
-法治政府有关部门 🏢
+法治政府部门集 🏢 <sub>奉公守法人心齐</sub>
 ==================
 大萌　GPL3.0　2022-2023
 <base target="_blank">
@@ -7,30 +7,31 @@
 
 　　中央依法治国决心大，法治政府建设任务重。本页面尝试收录全国各省市与法治建设联系紧密的部门网址，以**大规模集成网页**(LSIP)形式发布于互联网，便于直观感受法治政府的建设步伐，同时有利于学习全过程人民民主。
 
-　　本页面收录网址的部门包括：立法、司法、执法（即：人大、两院、公安）、政法委与司法厅局、纪检监察部门；还将收录半官方的法学会、律师协会。　收录工作正在进行，部分省份已收录县区级**公检法**网址ⒼⒿⒻ，请见 [中国千县公检法](./qianxian-gjf)。
+　　本页面收录网址的部门包括：立法、司法、执法（即：人大、两院、公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：审计厅、药监局、监狱管理局；还有半官方的 法学会、<sub>律师协会</sub>
+。　收录工作正在进行，部分省份已收录县区级**公检法**网址ⒼⒿⒻ，可见 [中国千县公检法](./qianxian-gjf)。
 
-　　由于个人能力有限，大萌欢迎读者制作改进版本，本页面特别采用了和Linux内核相同的GPL 3.0许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
+　　由于个人能力有限，大萌为方便读者制作改进版本，特别为本页面采用了和Linux内核相同的GPL 3.0版权许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法治政府有关部门
 </div>
 
 <h4>收录进度</h4>
 
-	202303	十四届全国人大会议之际补全各省人大页面，进行中……
+	202303	值2023年两会之际补全各省人大代表名单页面，进行中……
 	202209	省级部门的收录完成，地级部门收录过半。　
 
 <h3>中央部门 与 全国统一电话号码</h3>
 
-🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdhhytz.shtml)　[代表信息页](http://www.npc.gov.cn/npc/dbmd/tiaozhuan.shtml)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　[全国政协](http://www.cppcc.gov.cn) 　	提案公开页[]()  
-　⚖️ [最高法](https://www.court.gov.cn)<sup>🔸</sup> ☏ 12368　[weibo](https://weibo.com/zuigaofa#最高人民法院)<sub>　[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '网址收录不全')</sub>　 ⚔️ [最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ ☏ 12309　[weibo](https://weibo.com/sppcn#最高人民检察院)　[中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ ☏ 12337 　[weibo](https://weibo.com/changan#中国长安网)　[中国法学会](https://www.chinalaw.org.cn)  
-　[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ 　 [巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)　 ☎️ 12388
+🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdhhytz.shtml)　[代表信息页](http://www.npc.gov.cn/npc/dbmd/tiaozhuan.shtml)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　🟨[全国政协](http://www.cppcc.gov.cn)　[十四届大会](http://www.cppcc.gov.cn/zxww/14j1cdhzt/home/)　[历次大会](http://www.cppcc.gov.cn/zxww/newcppcc/hyhd/)　[委员名单](http://www.cppcc.gov.cn/zxww/newcppcc/zxqgwyh/)  
+　⚖️[最高法](https://www.court.gov.cn)<sup>🔸</sup>⠀[weibo](https://weibo.com/zuigaofa#最高人民法院)<sub>⠀☏ 12368⠀[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '网址收录不全')</sub>　⚔️[最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ⠀[weibo](https://weibo.com/sppcn#最高人民检察院)⠀☏ 12309　[中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ⠀[weibo](https://weibo.com/changan#中国长安网)⠀☏ 12337　[中国法学会](https://www.chinalaw.org.cn)  
+　[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ　[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)⠀☎️12388
 
-🟦[中央人民政府](https://www.gov.cn)<sup>🔸</sup>ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  …… 更多部门及全国统一电话请见 [中央有关部门集](../fuwu/zhongyang)。  
-　 [司法部](https://www.moj.gov.cn)<sup>🔸</sup> 　 ☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　 [中华全国律师协会](http://www.acla.org.cn)  
-　 [公安部](https://www.mps.gov.cn)<sup>🔸</sup>ⓜ 　 [警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html)  ☏ 12389 　🛂<sub>weibo：[治安局](https://weibo.com/dshcsh#中国警方在线)　[交管局](https://weibo.com/gabjgj#公安部交通管理局)　[刑侦局](https://weibo.com/gabxzj#公安部刑侦局)</sub>  
+🟦[中央人民政府](https://www.gov.cn)<sup>🔸</sup>ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  …… 更多部门请见[中央有关部门集](../fuwu/zhongyang)。  
+　[司法部](https://www.moj.gov.cn)<sup>🔸</sup>　☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　[中华全国律师协会](http://www.acla.org.cn)  
+　[公安部](https://www.mps.gov.cn)<sup>🔸</sup>ⓜ　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html) ☏ 12389　🛂<sub>weibo：[治安局](https://weibo.com/dshcsh#中国警方在线)　[交管局](https://weibo.com/gabjgj#公安部交通管理局)　[刑侦局](https://weibo.com/gabxzj#公安部刑侦局)</sub>  
 
 
-<h3 id="mulu">35个省级单位索引</h3>
+<h3 id="mulu">35个省级单位目录</h3>
 <small>按身份证号前两位排序：</small>　
 <a href="#11" target="_top">11-北京</a>　
 <a href="#12" target="_top">12-天津</a>　
@@ -673,7 +674,7 @@
 ```
 	老生常谈© 2019-2023 大萌　知识共享3
 	https://laosheng.top/fuwu/fazhi
-	法治政府有关部门 v0.8.3 　202303
+	法治政府部门集 v0.8.4 　202303
 	GPL 3.0  可转发-可衍生-相同方式授权
 ```
 
@@ -685,5 +686,5 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🔒🆚🔰🔶🔸🔹♦️◇◆◊◬①②③¹²³⚓ⓢⓈⓂⓜ 📱📳✌️☑✓✔√◘▮▯□❑☐☤☺☻ツ웃유囍🌡️❗📍  
-🚶🧍🧍‍♂️🗣️🦩🐍⌛🌡️❗📍🎈🎖️🃏🦺💄📿🔔🎚️💡🩸🧴🚪🧬🧯🏧<sup>🔸</sup>☏☎️🚩☭℡✓
+🔒🆚🔰🔶🔸🔹♦️◇◆◊◬①②③¹²³⚓ⓢⓈⓂⓜ 📱📳✌️☑✓✔√◘▮▯□❑☐☤☺☻ツ웃유  
+🟥🟨🟩🟦🟪🟫🟠🟢<sup>🔸</sup>☏☎️🚩☭℡✓
