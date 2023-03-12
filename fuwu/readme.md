@@ -10,7 +10,7 @@
 	+ 🥯 [个人金融理财圈](jinrong)，银行、保险、证券……中国金融业体系架构
 
 +	省地市主要部门，全国333个地级市：
-	+ 🏢 [法治政府部门集](fazhi)，各省地市的：公安、检察、法院、司法、监察……
+	+ 🏢 [法治政府部门集](fazhi)，奉公守法人心齐。各省地市的：人大政协公检法、监察、审计……
 	+ 民生环境有关部门：政务服务，住建、城管、环保……调研中
 	+ 医疗保障有关部门：卫健委、社保局、中国红十字会……调研中
 
@@ -18,7 +18,7 @@
 	+ 《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
 
 +	联合国有关部门，收录在本站【[一带一路系列](../ydyl/dir)】。
-+	衍生项目 cqcc «[服务网站查缺查错](https://diamonwoo.github.io/cqcc)»，收录各服务网站的缺少和错误（准备中）
++	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查错»，收录各服务网站的缺少和错误（准备中）
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>
@@ -90,7 +90,7 @@
 *	《中国地名大会》[第一季](http://tv.cctv.com/special/zgdmdh/)、[第二季](https://tv.cctv.com/2021/01/19/VIDAzHOc3JMqJJ7ASz0iU0Ks210119.shtml)  
 　　《中国地名大会》是中央电视台原创的‘中国大会’系列节目之一，在CCTV-4中文国际(亚洲)频道首播，已经完成第二季。从2013年《中国汉字听写大会》开始，央视开始了一系列的自主原创大型文化季播节目，陆续推出：《中国谜语大会》《中国成语大会》《中国诗词大会》《中国国宝大会》，都取得了非常好的收视成绩，正在进行的还有《中国考古大会》、《[2022中国诗词大会](https://tv.cctv.com/special/2022zgscdh)》。
 
-*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788){:target="_blank"}
+*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788){:target="_blank"} （感谢网友dancerinmaya推荐）
 
 *	JSON格式的行政区划数据：[路人甲](https://passer-by.com/data_location/)的github项目
 
