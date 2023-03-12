@@ -5,10 +5,9 @@
 
 		到2025年，政府行为全面纳入法治轨道——《法治政府建设实施纲要(2021－2025年)》
 
-　　中央依法治国决心大，法治政府建设任务重。本页面尝试收录全国各省市与法治建设联系紧密的部门网址，以**大规模集成网页**(LSIP)形式发布于互联网，便于直观感受法治政府的建设步伐，同时有利于学习全过程人民民主。
+　　中央依法治国决心大，法治政府建设任务重。本页面尝试收录全国各省市与法治建设联系紧密的部门网址，以**大规模集成网页**(LSIP)形式发布于互联网，便于直观感受法治政府的建设步伐，互相取长补短，同时有利于学习全过程人民民主。
 
-　　本页面收录网址的部门包括：立法、司法、执法（即：人大、两院、公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：审计厅、药监局、监狱管理局；还有半官方的 法学会、<sub>律师协会</sub>
-。　收录工作正在进行，部分省份已收录县区级**公检法**网址ⒼⒿⒻ，可见 [中国千县公检法](./qianxian-gjf)。
+　　本页面收录网址的部门包括：立法、司法、执法（即：人大、两院、公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：审计厅、药监局、监狱管理局；还有半官方的 <i>法学会</i>、<sub>律师协会</sub>。　收录工作正在进行，部分省份已收录县区级**公检法**网址ⒼⒿⒻ，可见 [中国千县公检法](./qianxian-gjf)。
 
 　　由于个人能力有限，大萌为方便读者制作改进版本，特别为本页面采用了和Linux内核相同的GPL 3.0版权许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
 <div align="right">
@@ -23,7 +22,7 @@
 <h3>中央部门 与 全国统一电话号码</h3>
 
 🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdhhytz.shtml)　[代表信息页](http://www.npc.gov.cn/npc/dbmd/tiaozhuan.shtml)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　🟨[全国政协](http://www.cppcc.gov.cn)　[十四届大会](http://www.cppcc.gov.cn/zxww/14j1cdhzt/home/)　[历次大会](http://www.cppcc.gov.cn/zxww/newcppcc/hyhd/)　[委员名单](http://www.cppcc.gov.cn/zxww/newcppcc/zxqgwyh/)  
-　⚖️[最高法](https://www.court.gov.cn)<sup>🔸</sup>⠀[weibo](https://weibo.com/zuigaofa#最高人民法院)<sub>⠀☏ 12368⠀[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '网址收录不全')</sub>　⚔️[最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ⠀[weibo](https://weibo.com/sppcn#最高人民检察院)⠀☏ 12309　[中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ⠀[weibo](https://weibo.com/changan#中国长安网)⠀☏ 12337　[中国法学会](https://www.chinalaw.org.cn)  
+　⚖️[最高法](https://www.court.gov.cn)<sup>🔸</sup>/[weibo](https://weibo.com/zuigaofa#最高人民法院)⠀☏ 12368⠀<sub>[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '网址收录不全')</sub>　⚔️[最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ/[weibo](https://weibo.com/sppcn#最高人民检察院)⠀☏ 12309　　[中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ/[weibo](https://weibo.com/changan#中国长安网)⠀☏ 12337　<i>[中国法学会](https://www.chinalaw.org.cn)</i>  
 　[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ　[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)⠀☎️12388
 
 🟦[中央人民政府](https://www.gov.cn)<sup>🔸</sup>ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  …… 更多部门请见[中央有关部门集](../fuwu/zhongyang)。  
