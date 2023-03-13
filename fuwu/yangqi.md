@@ -1,13 +1,13 @@
-央企股票一览表 📈
-=================
-大萌　	2023
+央企股票全家福 🧧
+================
+大萌	　2023
 <base target="_blank">
 
 		你们尽管想象，我们负责实现 —— 国资小新评《流浪地球2》，20230130
 
 　　2022年底，国资委网站发布了最新的央企名录，共98家中央直属国企。这是《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》收官的最新阵容，中央企业存量法人户数大幅压减。这些央企多是大型集团，主营业务涉及国计民生，有的旗下公司在沪深/海外上市，有的拥有自己的新闻出版机构。
 
-　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[集成网页](https://diamonwoo.github.io/LSIP)收录 国资委监管的(实业类)央企官网、微博、新闻出版机构，免费的数字报📰；以及央企旗下大约四百家上市公司的 股票简称、代码与行情页、公司全名与官网。网页信息密集，请善用浏览器页内搜索。
+　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[集成网页](https://diamonwoo.github.io/LSIP)收录 国资委监管的(实业类)央企官网、微博、新闻出版机构，免费的数字报📰；以及央企旗下大约四百家上市公司的 股票简称、代码与行情页📈、公司全名与官网。网页信息密集，请善用浏览器页内搜索。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票一览表
@@ -19,8 +19,8 @@
 最新变更
 --------
 
-*	2022-12-31，中国南水北调集团有限公司 列入国资委履行出资人职责企业名单（直接监管）。
-*	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武，不再由国资委直接监管。
+*	2022-12-31，中国南水北调集团有限公司(48) 列入国资委履行出资人职责企业名单（直接监管）。
+*	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武(35)，不再由国资委直接监管。
 
 
 国资委央企名录
@@ -54,7 +54,7 @@
 23⠀[中国电信集团有限公司](http://www.chinatelecom.com.cn){:id="23"}	[<sub> <b>3</b>家上市</sub>▽](#G23){:target="_top"}<br>	📶⠀中国电信 <small>	[网站群](http://www.chinatelecom.com.cn/corp/zzjgcs/)⠀	北京	[wb](https://weibo.com/n/中国电信)	⠀189[网上营业厅](http://www.189.cn)</small>  
 24⠀[中国联合网络通信集团有限公司](http://www.chinaunicom.com.cn){:id="24"}	[<sub> <b>1</b>家上市</sub>▼](#G24){:target="_top"}<br>	📶⠀中国联通 <small>	[网站群](http://www.chinaunicom.com.cn/about/structure.html)⠀	北京	[wb](https://weibo.com/n/中国联通)	⠀10010[网上营业厅](https://www.10010.com/)、[A股官网](https://www.chinaunicom-a.com/)、[港股官网](https://www.chinaunicom.com.hk/)</small>  
 25⠀[中国移动通信集团有限公司](https://www.10086.cn/aboutus/){:id="25"}	[<sub> <b>1</b>家上市</sub>▽](#G25){:target="_top"}<br>	📶⠀中国移动 <small>	　	北京	[wb](https://weibo.com/n/中国移动)	⠀10086[网上营业厅](https://www.10086.cn/)、[关联公司](https://www.10086.cn/zzxx/)</small>  
-26⠀[中国卫星网络集团有限公司](){:id="26"}	[<sub> <b>0</b>家上市</sub>▼](#G26){:target="_top"}<br>	🛰⠀中国星网 <small>	　	雄安新区	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链</small>  
+26⠀中国卫星网络集团有限公司	[<sub> <b>0</b>家上市</sub>▼](#G26){:target="_top"}<br>	🛰⠀中国星网 <small>	　	雄安新区	　	⠀中国卫星网络集团2021年成立，对标SpaceX星链</small>  
 27⠀[中国电子信息产业集团有限公司](https://www.cec.com.cn){:id="27"}	[<sub> <b>12</b>家上市</sub>▽](#G27){:target="_top"}<br>	✡⠀中国电子 <small>	　	深圳市	[wb](https://weibo.com/n/CEC中国电子)	⠀[集团新闻](https://www.cec.com.cn/集团新闻)，19家上市公司，687家成员企业</small>  
 28⠀[中国第一汽车集团有限公司](https://www.faw.com.cn){:id="28"}	[<sub> <b>3</b>家上市</sub>▼](#G28){:target="_top"}<br>	🚚⠀中国一汽 <small>	[网站群](https://www.faw.com.cn/fawcn/373692/hxwz/index.html)⠀	长春市	[wb](https://weibo.com/n/中国一汽)	⠀[新闻中心](http://www.faw.com.cn/fawcn/373694/373706/index.html)，解放/东风/红旗</small>  
 29⠀[东风汽车集团有限公司](https://www.dfmc.com.cn){:id="29"}	[<sub> <b>4</b>家上市</sub>▽](#G29){:target="_top"}<br>	🚚⠀东风公司 <small>	[网站群](https://www.dfmc.com.cn/zoujindf/links.html)⠀	武汉市	[wb](https://weibo.com/n/东风汽车)	⠀[新闻中心](https://www.dfmc.com.cn/news/qiyexinwen.html)</small>  
@@ -64,7 +64,7 @@
 33⠀[中国东方电气集团有限公司](https://www.dongfang.com){:id="33"}	[<sub> <b>2</b>家上市</sub>▽](#G33){:target="_top"}<br>	⚡⠀东方电气集团 <small>	[网站群](https://www.dongfang.com/ywbt/ywfb.htm)⠀	成都市	[wb](https://weibo.com/n/东方电气)	⠀六电并举，沪港上市[东方电气](http://www.dec-ltd.cn/)</small>  
 34⠀[鞍钢集团有限公司](http://www.ansteel.cn){:id="34"}	[<sub> <b>3</b>家上市</sub>▼](#G34){:target="_top"}<br>	🏭⠀鞍钢 <small>	　	鞍山市	[wb](https://weibo.com/n/鞍钢集团)	</small>  
 35⠀[中国宝武钢铁集团有限公司](http://www.baowugroup.com){:id="35"}	[<sub> <b>12</b>家上市</sub>▽](#G35){:target="_top"}<br>	🏭⠀中国宝武 <small>	　	上海市	[wb](https://weibo.com/n/友爱的宝武)	</small>  
-36⠀[中国矿产资源集团有限公司](){:id="36"}	[<sub> <b>0</b>家上市</sub>▼](#G36){:target="_top"}<br>	🧲⠀中矿资源 <small>	　	保定市	　	⠀2022年7月成立</small>  
+36⠀中国矿产资源集团有限公司	[<sub> <b>0</b>家上市</sub>▼](#G36){:target="_top"}<br>	🧲⠀中矿资源 <small>	　	保定市	　	⠀2022年7月成立</small>  
 37⠀[中国铝业集团有限公司](https://www.chinalco.com.cn){:id="37"}	[<sub> <b>4</b>家上市</sub>▽](#G37){:target="_top"}<br>	🏭⠀中铝集团 <small>	　	北京	　	</small>  
 38⠀[中国远洋海运集团有限公司](https://www.coscoshipping.com){:id="38"}	[<sub> <b>5</b>家上市</sub>▼](#G38){:target="_top"}<br>	🚢⠀中国远洋海运 <small>	[网站群](https://www.coscoshipping.com/col/col6879/)⠀	上海市	[wb](https://weibo.com/n/中国远洋海运杂志社)	⠀[中国远洋海运报](https://newspaper.coscoshipping.com/)📰</small>  
 39⠀[中国航空集团有限公司](http://www.airchinagroup.com){:id="39"}	[<sub> <b>1</b>家上市</sub>▽](#G39){:target="_top"}<br>	👯⠀中航集团 <small>	[网站群](http://www.airchinagroup.com/cnah/zhgl/cyqy/gh/)⠀	北京	[wb](https://weibo.com/n/中国国际航空)	⠀[中航博物馆](http://www.airchinagroup.com/cnah/zhbwg/)</small>  
@@ -123,8 +123,8 @@
 92⠀[中国华录集团有限公司](http://www.hualu.com.cn){:id="92"}	[<sub> <b>1</b>家上市</sub>▼](#G92){:target="_top"}<br>	📼⠀华录集团 <small>	　	大连市	　	</small>  
 93⠀[华侨城集团有限公司](https://www.chinaOCT.com){:id="93"}	[<sub> <b>4</b>家上市</sub>▽](#G93){:target="_top"}<br>	🎠⠀华侨城集团 <small>	[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)⠀	深圳市	[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
 94⠀[南光(集团)有限公司／中国南光集团有限公司](http://www.namkwong.com.mo){:id="94"}	[<sub> <b>0</b>家上市</sub>▼](#G94){:target="_top"}<br>	🛢️⠀南光集团 <small>	[网站群](http://www.namkwong.com.mo/col/col1887/)⠀	中国澳门	　	</small>  
-95⠀[中国电气装备集团有限公司](){:id="95"}	[<sub> <b>4</b>家上市</sub>▽](#G95){:target="_top"}<br>	✡⠀中国电气装备 <small>	　	上海市	　	</small>  
-96⠀[中国物流集团有限公司](){:id="96"}	[<sub> <b>4</b>家上市</sub>▼](#G96){:target="_top"}<br>	📦⠀中国物流 <small>	　	北京	　	</small>  
+95⠀中国电气装备集团有限公司	[<sub> <b>4</b>家上市</sub>▽](#G95){:target="_top"}<br>	✡⠀中国电气装备 <small>	　	上海市	　	</small>  
+96⠀中国物流集团有限公司	[<sub> <b>4</b>家上市</sub>▼](#G96){:target="_top"}<br>	📦⠀中国物流 <small>	　	北京	　	</small>  
 97⠀[中国国新控股有限责任公司](https://www.crhc.cn){:id="97"}	[<sub> <b>1</b>家上市</sub>▽](#G97){:target="_top"}<br>	💰⠀中国国新 <small>	[网站群](https://www.crhc.cn2010/2016)⠀	北京	[wb](https://weibo.com/n/中国国新)	</small>  
 98⠀[中国检验认证(集团)有限公司](http://www.ccic.com){:id="98"}	[<sub> <b>0</b>家上市</sub>▼](#G98){:target="_top"}<br>	🧪⠀中国中检 <small>	　	北京	　	</small>  
 
@@ -132,15 +132,15 @@
 
 <h2 id='D3'>图例与行业统计</h2>
 
-	央企主业	计数
-	⚡ 电力	8	🛰	2
-	🏭 钢铁	6	🚢	2
-	🧲 矿产	5	🚚	2
-	🔥 能源	5	🚀	2
-	💰 金融	5	💥	2
-	✡ 电子	5	🎠	2
-	⛑ 建筑	5	🌊	2
-	📶	4	　	2
+	央企主业	计数	　	央企上市板块统计
+	⚡ 电力	8	🛰	2	沪市	主板	187
+	🏭 钢铁	6	🚢	2	沪市	科创板	 13
+	🧲 矿产	5	🚚	2	深市	主板	118
+	🔥 能源	5	🚀	2	深市	创业板	 17
+	💰 金融	5	💥	2	港股	GEM	  1
+	✡ 电子	5	🎠	2	港股	主板	 93
+	⛑ 建筑	5	🌊	2	已加连接：	429支
+	📶	4	　	2	暂缺代码：	  7支
 	🏗	4	🧪	1
 	✈️	4	🛣️	1
 	🚉	3	🛢️	1
@@ -613,7 +613,7 @@
 [96▲](#96){:target="_top"}{:id="G96"}⠀	中储股份	[600787](http://webapi.cninfo.com.cn/#/company?companyid=600787)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接[](600787)	⠀[中储发展股份有限公司](http://www.cmstd.com.cn)</sub>  
 [97△](#97){:target="_top"}{:id="G97"}⠀	国新健康	[000503](http://webapi.cninfo.com.cn/#/company?companyid=000503)	<sub>⠀深市⠀主板⠀A股	⠀待定连接[](000503)	⠀[国新健康保障服务集团股份有限公司](http://www.crhms.cn)</sub>  
 [98▲](#98){:target="_top"}{:id="G98"}⠀			<sub>⠀⠀⠀	⠀待定连接[]()	⠀[]()</sub>  
-
+-
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 
@@ -622,12 +622,14 @@
 
 　[SASAC 国资委](http://www.sasac.gov.cn)官网：
 	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
-	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)、
-	[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)  
+	[央企名录](http://www.sasac.gov.cn/n4422011/n14158800/n14158998/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588035/n2641579/n2641645/)、
+	[国企改革](http://www.sasac.gov.cn/n2588030/n2588924/)  
 　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
 　State-owned Assets Supervision and Administration Commission of the State Council
 
-　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：[新闻发布](http://www.sasac.gov.cn/n2588025/)  
+　国资委 [新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
+	[新闻发布](http://www.sasac.gov.cn/n2588025/)；
+	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)  
 　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
 列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
 主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=%23你们尽管想象我们负责实现%23&Refer=index)
@@ -651,20 +653,13 @@
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/fuwu/yangqi
-	央企股票一览表	v0.3.9	202302
+	央企股票全家福	v0.4.0	202302
 ```
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
-<script>  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
-</script>
-✈️🛩️🚁🛸🪁🎯💨🚀🛰️📡🔭🧍‍♀️👯
-🛳️🚢🚤⚓💧⚡🌩️💡⛽🛢️🔥💣💥
-🚚🚛🚙🚗🚘🚌🚅🚉🚆🚂🛤🚃🚎️
-💎🧲⛓️🧰✨❇️🎆🎇📶📱✡🌊
+
+✈️🛩️🚁🛸🪁🎯💨🚀🛰️📡🔭🧍‍♀️👯🛳️🚢🚤⚓💧⚡🌩️💡⛽🛢️🔥💣💥
+🚚🚛🚙🚗🚘🚌🚅🚉🚆🚂🛤🚃🚎️💎🧲⛓️🧰✨❇️🎆🎇📶📱✡🌊
 🌾🌿💊🧬💰️⚙️🔩🚧🗜️🏗️🏭🏙️🧱⚗️🧪
