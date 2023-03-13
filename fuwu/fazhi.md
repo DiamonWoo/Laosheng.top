@@ -7,7 +7,7 @@
 
 　　中央依法治国决心大，法治政府建设任务重。本页面尝试收录全国各省市与法治建设联系紧密的部门网址，以**大规模集成网页**(LSIP)形式发布于互联网，让法治政府的建设步伐“看得见”，方便学习全过程人民民主，同时有利于各部门网站互相学习、取长补短。
 
-　　本页面收录网址的部门包括：立法、司法、执法（即：人大/两院/公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：政协、审计厅、药监局、监狱管理局；还有半官方的 <small>法学会、律师协会</small>。　收录工作正在进行，部分省份已收录县区级**公检法**ⒼⒿⒻ，可见 [中国千县公检法](./qianxian-gjf)。
+　　本页面收录网址的部门包括：立法、司法、执法（即：人大/两院/公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：省政协、审计厅、药监局、监狱管理局；还有半官方的 <small>法学会、律师协会</small>。　收录工作正在进行，部分省份已收录县区级**公检法**ⒼⒿⒻ，可见 [中国千县公检法](./qianxian-gjf)。
 
 　　由于个人能力有限，大萌为方便读者制作改进版本，特别为本页面采用了和Linux内核相同的GPL 3.0版权许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
 <div align="right">
@@ -630,22 +630,22 @@
 659009 <a href="http://www.btdsss.gov.cn">昆玉市／第十四师</a>⠀
 659010 <a href="http://www.nqs.gov.cn">胡杨河市／第七师</a>⠀
 659011 <a href="http://www.btnsss.gov.cn/zj.htm" title="2021年设立">新星市／第十三师</a>
-　第九师　　第十一师　　第十二师  
+　　第九师　第十一师　第十二师  
 
 <h2 id="71" title="710000">71 台湾　+886　<sub>革命尚未成功</sub></h2>
-[台灣法學會](http://www.taiwanlawsociety.org.tw)  
+全国人大[台湾代表名单](http://www.npc.gov.cn/npc/twdbtmd14/tw14.shtml)　　[台灣法學會](http://www.taiwanlawsociety.org.tw)  
 
 710100 <b>台北市</b>　  
 
 <h2 id="81" title="810000">81 香港√　+852　<sub>1997年回归祖国</sub></h2>
 
-[香港立法会](https://www.legco.gov.hk/)<sup>🔸</sup> 　	[香港法院](https://www.judiciary.hk/)<sup>🔸</sup> 　	[律政司](https://www.doj.gov.hk/)<sup>🔸</sup>  
+全国人大[香港代表名单](http://www.npc.gov.cn/npc/xgdbtmd14/xg14.shtml)　　[香港立法会](https://www.legco.gov.hk/)<sup>🔸</sup> 　	[香港法院](https://www.judiciary.hk/)<sup>🔸</sup> 　	[律政司](https://www.doj.gov.hk/)<sup>🔸</sup>  
 [香港廉政公署](https://www.icac.org.hk/)<sup>🔸</sup> 　	[香港政府](https://www.gov.hk/)<sup>🔸</sup> 　	[香港警务处](https://www.police.gov.hk/)<sup>🔸</sup> 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
   
 
 <h2 id="82" title="820000">82 澳门√　+853　<sub>1999年回归祖国</sub></h2>
 
-[澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup> 　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup> 　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>  
+全国人大[澳门代表名单](http://www.npc.gov.cn/npc/amdbtmd14/am14.shtml)　　[澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup> 　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup> 　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>  
 [澳门廉政公署](https://www.ccac.org.mo/)<sup>🔸</sup> 　[澳门政府](https://www.gov.mo/)<sup>🔸</sup> 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
