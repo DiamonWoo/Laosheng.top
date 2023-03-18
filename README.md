@@ -3,7 +3,7 @@
 
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
-　　这里是民间网站‘老生常谈’，以[大规模集成网页(LSIP)](https://diamonwoo.github.io/LSIP)为中文基础网站创作**高质量**的“结构性目录”。主要收录：法律、政务(经济/民生)、新闻、全球化等方面的官方网站。这些官网大多承担了法定信息披露职责，这些法定公开信息为‘数字中国’提供基础软件设施。　大萌为这些公开信息设计容易检索的集成网页，希望能为网民“快速找到有效信息”节约时间。　本站目录如下：
+　　这里是民间网站‘老生常谈’，以[大规模集成网页(LSIP)](https://diamonwoo.github.io/LSIP)为中文基础网站创作**高质量**的“结构性目录”。主要收录：法律、政务(经济/民生)、新闻、全球化等方面的官方网址。　这些官网大多承担了法定信息披露职责，这些法定公开信息为‘数字中国’提供基础软件设施。大萌为这些公开信息制作容易检索的集成网页，希望能为网民“快速找到有效信息”节约时间。　本站目录如下：
 
 /falv ⠀[大萌望海楼](falv)，找法不用愁<br>
 　【法律】系列　找到有用法律
@@ -38,17 +38,17 @@
 
 〖工具页面〗<br>
   + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
-  + /c/timing ⠀提名网站和落榜记 [>>>>](c/timing)
-  + [从地名图学习SQLite数据库](fuwu/diming4SQLite)，待更新……
+  + /c/timing ⠀[提名网站和落榜记](c/timing)
+  + 从地名图学习SQLite数据库，[待更新](fuwu/diming4SQLite)……
   + «发现软件之海»培训课程，规划中……
 
 〖衍生项目〗<br>
-  + /yan/[LSIP](https://diamonwoo.github.io/LSIP)，大规模集成网页，集成超过1000个超链接的网页。
+  + /yan/LSIP，[大规模集成网页](https://diamonwoo.github.io/LSIP)，集成超过1000个超链接的网页。
   + /yan/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重
   + /fuwu/dimingku 　 中国千县地名库、世界国别代码库，待升级……
 
 
-　　老生常谈网站由[大萌](https://Laosheng.top/c/author)于2019年创建，网站中不嵌广告、不发红包，努力保持阅读舒适度，在尊重知识产权方面做出表率。　希望有志愿者能帮助转发、测试与反馈，在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。
+　　老生常谈网站由[大萌](https://Laosheng.top/c/author)于2019年创建，网站中不嵌广告、不发红包，保持阅读舒适度，努力在尊重知识产权方面做出表率。　希望有志愿者能帮助转发、测试与反馈，在这个被App割裂的互联网，重新发现万维网(WWW)的宝贵。
 
 		节约时间，就是爱护生命。
 
@@ -98,9 +98,9 @@
 ![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
 
 
-	老生常谈© 2019~2023 大萌 知识共享许可
+	老生常谈© 2019~2023 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.7.1 202303
+	https://Laosheng.top	v3.7.2 202303
 
 <a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁🎅🛍💐🎀🥳☎
