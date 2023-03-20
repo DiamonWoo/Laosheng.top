@@ -14,12 +14,12 @@
 	+ 医疗保障有关部门：卫健委、社保局、中国红十字会……调研中
 	+ 🏢 <a href="fazhi" target="fazhiye">法治政府部门集</a>，奉公守法人心齐。各省地市的：人大政协公检法、监察审计药监局……
 
-+	🛂 <a href="qianxian-gjf" target="gjfye">中国千县公检法</a>，全国县区公安微博、检察院/法院网址
++	🛂 <a href="qianxian-gjf" target="gjfye">中国千县公检法</a>，全国县区政府网址、公安微博、检察院/法院网址
 	+ 📑 [中国千县政府网](qianxian)，那就是我们的家乡：中国近三千个县的政府网址，按身份证号排序
 	+ 《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
 
-+	联合国有关部门，收录在本站【[一带一路系列](../ydyl/dir)】。
-+	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查错»，收录各服务网站的缺少和错误（准备中）
++	[联合国有关部门](../ydyl/united)，收录在本站【[一带一路系列](../ydyl/dir)】。
++	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查错»，收录各服务网站的缺少和错误（排队中）
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>
