@@ -18,6 +18,9 @@
 ⏩老生常谈/<a href="https://Laosheng.top/index2" target="_top">排行榜</a>/提名网站
 </div>
 
+段落：　1、搜罗天下　2、[云媒速览](#2、云媒速览)　3、电视节目单　4、[浏览之器](#4、浏览之器)　5、[老生常谈](5、老生常谈)　6、体育医疗保健　7、科研学习　8、[财务自求](#8、财务自求)　9、IT洁癖　10、名站导航　　[落榜记](#落榜记)
+
+
 1、搜罗天下
 -----------
 
@@ -101,8 +104,7 @@
 
 　　要登录要下载？网站上的弹窗很烦人，用上面的浏览器+浏览器扩展某某猴子+某个去弹窗脚本 = 世界终于安静了。
 
-*	小红书%  	<https://www.xiaohongshu.com/explore>
-	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
+*	浏览之器：<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软Edge浏览器，谷歌同源">Edge</a>、#<a href="https://brave.com/zh" title="js元老新作品">Brave</a>
 *	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
 
@@ -121,7 +123,7 @@
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 
 
-6、医疗保健
+6、体育医疗保健
 ------------
 
 
@@ -195,6 +197,8 @@
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
 
+*	[看雪论坛](https://bbs.kanxue.com)
+
 
 10、名站导航
 -------------
@@ -203,6 +207,8 @@
 
 *	<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>
 *	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
+*	小红书%  	<https://www.xiaohongshu.com/explore>
+	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 
 *	中关村在线 	ZOL
 
@@ -271,7 +277,7 @@
 	老生常谈© 2019-2023 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202302
+	提名网站与落榜记	　202303
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
