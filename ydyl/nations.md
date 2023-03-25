@@ -5,7 +5,7 @@
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
-　　世界上最通用的国别代码是“ISO 3166-1”标准的二位字母代码，比如：China =CN，America =US。因为ISO的工作语言(en/fr/ru)不包括中文，所以该标准内的国家或地区没有中文名称；与之对应的中国国标(GB)翻译了中文简称和全称，但是“由于涉及版权保护问题”，在国家标准[全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)上“暂不提供”。　这两个原因造成中文用户在互联网上找不到清晰、权威的中文国别代码。
+　　世界上最通用的国别代码是“ISO 3166-1”标准的二位字母代码，比如：CN=China，US=America。因为ISO的工作语言(en/fr/ru)不包括中文，所以该标准内的国家或地区没有中文名称；与之对应的中国国标(GB)翻译了中文简称和全称，但是“由于涉及版权保护问题”，在国家标准[全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)上“暂不提供”。　这两个原因造成中文用户在互联网上找不到清晰、权威的中文国别代码。
 
 　　大萌因此编纂了一份《世界国别速查表》，以ISO代码表为基础，结合了中国外交部与联合国的官方表述，审定了全表249个国家和地区的中文译名，并集成了地理、外交、经贸方面的基础信息和1200多个权威网址，以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)”形式公布在老生常谈网站，为中文用户提供各国国情的快速查找服务。
  <!-- 中文用户了解世界的普遍需求提供一个便捷服务。，为人类命运共同体打下一块中文基础 -->
@@ -15,7 +15,7 @@
 　　**国别表**按各大洲分段，大致按 丝绸之路行进路线、上北下南 排序分段，加权因素：国土面积、UN席位。  
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/ydyl" target="_top">【一带一路】</a>/世界国别速查表
+⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/世界国别速查表
 </div>
 
 <h2 id="0" title="世界国别速查表">目录</h2>
@@ -45,7 +45,7 @@
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
 　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
-**[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)**、
+[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
 　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
@@ -339,7 +339,7 @@
 
 
 <h2 id="9" title="世界国别速查表">图例</h2>
-<img align="right" src="up/01-guobie-tuli-qatar.png">
+<img align="right" src="01-guobie-tuli-qatar.png">
 +	🇨🇳/ CN 　国旗或地区旗帜emoji符号/ISO国别代码2位字母
 +	+/ & 　　🇺🇳联合国的会员国 / 一带一路签约国　（五常 为5个安理会常任理事国，% 为2个观察员国）
 +	国别名/Nations　国家(地区)概况，字号大小根据国土面积分5档 / 国别英文名
@@ -391,7 +391,7 @@
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://laosheng.top/ydyl/nations
-	世界国别速查表	v0.7.6	202302
+	世界国别速查表	v0.7.7	202303
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
