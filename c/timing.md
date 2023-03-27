@@ -170,6 +170,7 @@
 
 　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
 
+
 8、财务自求
 ------------
 
@@ -182,6 +183,7 @@
 *	<a href="https://www.gelonghui.com/live" title="深圳格隆汇快讯">格隆汇</a>
 *	<a href="https://www.itslaw.com/" title="法律案例检索平台">无讼</a> 	2021年春停止服务，页面显示‘数据库升级中’。
 　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
+*	<a href="https://www.zhihu.com/people/xing-qiu-yan-jiu-suo" title="探索极致风光">星球研究所</a>	2021年停止更新
 
 
 9、IT洁癖
@@ -217,14 +219,16 @@
 落榜记
 ======
 
-2023/01/24	#第六段
+
+
+2023/01/24  	#第六段
 	A+医学百科退居二线，广告过多。代之权威的光明中医教材。
 
-2022/11/17	#浏览之器  
+2022/11/17  	#浏览之器  
 	<a href="https://withpinbox.com/explore" title="PinBox网页收藏">PinBox</a>因免费功能偏少且社群冷清下榜。  
 	<a href="https://cloud.minapp.com/case/" title="爱范儿辅助小程序开发">知晓程序</a>因内容偏少不具备代表性下榜。
 
-2022/10/15	#搜罗天下  
+2022/10/15  	#搜罗天下  
 	Magi公告停止服务，<a href="https://Magi.com" title="魔力搜索 AI结构化结果">Magi</a>%
 
 2022/8/7  　	#上一代名站导航  
