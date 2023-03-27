@@ -7,17 +7,22 @@
 帮助宣传
 --------
 
-　　我准备了一些宣传语和宣传图，方便在微信中转发，图片中包含了网址的二维码，省去了输入网址的麻烦。
+　　我准备了一些宣传语，方便在微信中转发：
 
- * 中国新闻云媒体，党和人民在一起 ⛅	<https://laosheng.top/fly>
- * 央企股票全家福，国计民生胆气足 🧧	<https://laosheng.top/fuwu/yangqi>
- * 老生常谈排行榜，打开真正互联网 🚩	<https://laosheng.top/index2.html>
- * 一带一路民间站，世界国别速查表 🗺	<https://laosheng.top/ydyl/nations>
- * 大萌法律读本，懂法走得更稳 📚 	<https://laosheng.top/falv>
+ * 中国新闻云媒体 ⛅ 党和人民在一起	[LaoSheng.top/fly](https://laosheng.top/fly)
+ * 中央外宣云媒体 🔥 全球吃瓜学外语	[LaoSheng.top/fly/waixuan](https://laosheng.top/fly/waixuan)
+ * 全球免费云媒体 ⛅ 世界风云收眼底	[LaoSheng.top/fly/dir](https://laosheng.top/fly/dir)
 
- * 老生常谈的 [小卡片与传单](../broad "卡片与海报，欢迎转发")
+ * 央企股票全家福 🧧 国计民生胆气足	[LaoSheng.top/fuwu/yangqi](https://laosheng.top/fuwu/yangqi)
+ * 法治政府部门集 🏢 奉公守法人心齐	[LaoSheng.top/fuwu/fazhi](https://laosheng.top/fuwu/fazhi)
+ * 中国千县政府网 📑 那是我们的家乡	[LaoSheng.top/fuwu/qianxian](https://laosheng.top/fuwu/qianxian)
 
-　　感谢您的支持！😊
+ * 一带一路民间站 🗺 世界国别速查表	[LaoSheng.top/ydyl/nations](https://laosheng.top/ydyl/nations)
+ * 老生常谈排行榜 🚩 打开真正互联网	[LaoSheng.top/index2](https://laosheng.top/index2.html)
+ * 大萌法律读本，懂法走得更稳 📚 	[LaoSheng.top/falv](https://laosheng.top/falv)
+
+
+　　还制作了一些[宣传图](../broad)和[介绍文章](./)，欢迎取用。
 
 
 提供反馈
@@ -34,14 +39,14 @@
 战略合作
 -------
 
+　　🍵
+
 　　你是不是有啥想法……
 
 
-
-
-		老生常谈© 大萌	2019-2023 
+		老生常谈 © 2019-2023 大萌
 		https://laosheng.top/c/author
-		联系作者 v3.0.1	202302
+		联系作者 v3.0.2	202303
 
 回到首页  
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
