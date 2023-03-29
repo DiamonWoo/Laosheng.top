@@ -74,6 +74,21 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
+人民币汇率中间价 💱
+------------------
+exchange rate
+
+　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
+　　六大国有银行外汇牌价：  
+[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
+[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
+　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
+[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
+[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
+[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
+　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
+
+
 <h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
 　　天地图
 <a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
@@ -93,7 +108,6 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 
 
 <h3 id=fanyi>民间翻译网站 🎧 YDYL</h3>
-
 　　谷歌翻译
 #<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
@@ -129,19 +143,6 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 　　*微信内置浏览器* 较新版可以翻译多种语言。
 
 
-人民币汇率中间价 💱
-------------------
-　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
-　　六大国有银行外汇牌价：  
-[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
-[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
-　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
-[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
-[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
-[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
-　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
-
-
 ISO介绍
 -------
 
@@ -152,8 +153,8 @@ ISO介绍
 　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。中国与之对应的推荐标准为：GB/T 2659-2000，政府官网暂未提供全文。
 
 
-2022卡塔尔世界杯 🇶🇦⚽
---------------------
+<h4>2022卡塔尔世界杯 🇶🇦⚽</h4>
+
 *	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
 	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
 	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
