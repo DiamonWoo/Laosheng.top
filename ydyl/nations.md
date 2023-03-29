@@ -1,25 +1,24 @@
 世界国别速查表 🗺
 =================
-大萌	2022-2023
-<base target="_blank">
+大萌	2022-2023	<base target="_blank">
 
 		文明因交流而多彩，文明因互鉴而丰富。——习近平 20140327 于 UNESCO
 
 　　世界上最通用的国别代码是“ISO 3166-1”标准的二位字母代码，比如：CN=China，US=America。因为ISO的工作语言(en/fr/ru)不包括中文，所以该标准内的国家或地区没有中文名称；与之对应的中国国标(GB)翻译了中文简称和全称，但是“由于涉及版权保护问题”，在国家标准[全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)上“暂不提供”。　这两个原因造成中文用户在互联网上找不到清晰、权威的中文国别代码。
 
-　　大萌因此编纂了一份《世界国别速查表》，以ISO代码表为基础，结合了中国外交部与联合国的官方表述，审定了全表249个国家和地区的中文译名，并集成了地理、外交、经贸方面的基础信息和1200多个权威网址，以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)”形式公布在老生常谈网站，为中文用户提供各国国情的快速查找服务。
- <!-- 中文用户了解世界的普遍需求提供一个便捷服务。，为人类命运共同体打下一块中文基础 -->
+　　大萌因此编纂了一份《世界国别速查表》，简称‘国别表’，以ISO代码表为基础，结合了中国外交部与联合国的官方表述，审定了全表249个国家和地区的中文译名，并集成了地理、外交、经贸方面的基础信息和1200多个权威网址，以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)”形式公布在老生常谈网站，为中文用户提供各国国情的快速查找服务。
+
 
 　　**国别表**收录的基础信息包括：旗帜、UN席位、R&B签约、ISO代码、中英文名称、国际长途区号、<sup>该国首都、时差、主权货币符号与名称</sup>，并提供超链接查询与人民币的汇率💱。　收录的权威网址包括：外交部的国家概况页、🏔️一带一路官网的国别美图页、💮商务部的经贸指南页、🏪双方大使馆网址🏛️、某外交部👥与政府网址🏢。　详细图例与收录口径见页面底部。
 
-　　**国别表**按各大洲分段，大致按 丝绸之路行进路线、上北下南 排序分段，加权因素：国土面积、UN席位。  
+　　**国别表**按各大洲分段，大致按 丝绸之路行进路线、上北下南 排序分段，加权因素：国土面积、UN席位。页面链接密集，请善用浏览器‘页面内查找’功能。  
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/世界国别速查表
 </div>
 
-<h2 id="0" title="世界国别速查表">目录</h2>
-　世界杯 与 人民币<br>
+<h2 id="mulu" title="世界国别速查表">目录</h2>
+　LSIP进度<br>
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、印度、沙特、土耳其……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、希腊、西班牙……</sub><br>
 <a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、摩洛哥、尼日利亚、南非……</sub><br>
@@ -29,26 +28,25 @@
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
 8 <a href="#8" target="_top">必应世界地图</a>　<sub>微软必应提供的世界地图</sub><br>
 9 <a href="#9" target="_top">图例</a>　<sub>详细图例</sub><br>
-10 <a href="#10" target="_top">收录口径与进度</a><br>
+10 国别表<a href="#10" target="_top">收录口径</a><br>
 　鸣谢
 
-2022卡塔尔世界杯 🇶🇦⚽
---------------------
-*	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
-	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
-	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
 
-人民币汇率中间价 💱
-------------------
-　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
-　　六大国有银行外汇牌价：  
-[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
-[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
-　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
-[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
-[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
-[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
-　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
+<h2 id="0" title="链接计数等">LSIP收录进度</h2>
+
+		　　设计LC = 1705　= 182×9 + (249-182)
+					（建交国，6个图标链接+简介/微博/汇率，未建交只有简介链接）
+		　已收录LC = 1441　	（实际LC需等收录完成计算）
+		近似完成率 = 84.5%
+
++	202303　修订洪都拉斯政府网址，仍有少量国别政府网址可能失效。
++	202302　收录ISO保留代码EU=欧盟，UN=联合国。调整国别顺序。
++	202212　标记2022世界杯32支球队所在国。
++	202212　收录全部249个国家和地区的emoji旗帜符号；
++	202209　增加商务部《经贸指南》，增加国际长途区号，正在补充各国使馆网址
++	202209　已收录215个国家货币符号，增加查询汇率连接，上线公开测试
++	202208　收录249个ISO代码及其国别中英文名称，正在测试版式
+
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
 🇨🇳	五常 ⠀	CN⠀	<big><big><b>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</b></big></big>	⠀[🏔️](https://www.yidaiyilu.gov.cn/gbjg/gbmt大美中国 "国别美图")	 -	⠀[🏪](xx.china-embassy.gov.cn "中国大使馆")	⠀0086	<sup>首都：北京</sup>	<sup>0h</sup>	⠀-	[wb](https://weibo.com/wjxlt "驻华使馆微博")	⠀[👥](https://www.mfa.gov.cn/web/wjdt_674879/ "外交部")	⠀[🏢](https://www.gov.cn "The People's Republic of China")	⠀¥<sup>[人民币](https://cn.bing.com/search?q=CNY兑CNY)</sup>	CNY	  
@@ -260,7 +258,7 @@
 🇲🇽	+ ⠀	MX⠀	<big>	<a title="墨西哥合众国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680604/">墨西哥</a> 	Mexico	</big>	⠀-	⠀[💮](http://MX.mofcom.gov.cn "经贸指南")	⠀[🏪](http://MX.china-embassy.gov.cn "中国大使馆")	⠀0052	<sup>首都：墨西哥城</sup>	<sup>-15h</sup>	⠀[🏛](https://embamex.sre.gob.mx/china/ "驻华使馆")	[wb](https://weibo.com/2464455037 "驻华使馆微博")	⠀[👥](https://www.gob.mx/sre/en "外交部")	⠀[🏢](https://www.gob.mx "United Mexican States")	⠀$<sup>[墨西哥比索](https://cn.bing.com/search?q=MXN兑CNY)</sup>		⠀<sup>[旅游](https://www.visitmexico.com/) [足球wb](https://weibo.com/3083675034) ⚽</sup>  
 🇧🇿	+ ⠀	BZ⠀	<small>	<a title="又称贝里斯，前身为英属洪都拉斯" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680156/">伯利兹</a> 	[Belize](https://cn.bing.com/search?q=Belize)	</small>	⠀-	 -	 -	⠀00501	<sup>首都：贝尔莫潘</sup>	<sup>-14h</sup>	⠀-	 -	 -	 -	⠀$<sup>[伯利兹元](https://cn.bing.com/search?q=BZD兑CNY)</sup>		  
 🇬🇹	+ ⠀	GT⠀		<a title="危地马拉共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680850/">危地马拉</a> 	Guatemala		⠀-	 -	 -	⠀00502	<sup>首都：危地马拉城</sup>	<sup>-14h</sup>	⠀-	 -	 -	⠀[🏢](http://www.minex.gob.gt "Republic of Guatemala")	⠀<sup>[格查尔](https://cn.bing.com/search?q=GTQ兑CNY)</sup>		  
-🇭🇳	+ ⠀	HN⠀		<a title="洪都拉斯共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680402/">洪都拉斯</a> 	Honduras		⠀-	 -	 -	⠀00504	<sup>首都：特古西加尔巴</sup>	<sup>-14h</sup>	⠀-	 -	 -	⠀[🏢](http://www.congreso.gob.hn "Republic of Honduras")	⠀<sup>[伦皮拉](https://cn.bing.com/search?q=HNL兑CNY)</sup>		  
+🇭🇳	+ ⠀	HN⠀		<a title="洪都拉斯共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680402/">洪都拉斯</a> 	Honduras		⠀-	 -	 -	⠀00504	<sup>首都：特古西加尔巴</sup>	<sup>-14h</sup>	⠀-	 -	 -	⠀[🏢](https://www.presidencia.gob.hn "Republic of Honduras")	⠀<sup>[伦皮拉](https://cn.bing.com/search?q=HNL兑CNY)</sup>		  
 🇸🇻	+ &	SV⠀	<small>	<a title="萨尔瓦多共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680678/">萨尔瓦多</a> 	[El Salvador](https://cn.bing.com/search?q=El Salvador)	</small>	⠀-	 -	⠀[🏪](http://SV.china-embassy.gov.cn "中国大使馆")	⠀00503	<sup>首都：圣萨尔瓦多</sup>	<sup>-14h</sup>	⠀[🏛](https://www.embajadasv-cn.org/zh "驻华使馆")	[wb](https://weibo.com/7673051075 "驻华使馆微博")	 -	 -	⠀$<sup>[美元](https://cn.bing.com/search?q=USD兑CNY)</sup>		  
 🇳🇮	+ &	NI⠀		<a title="尼加拉瓜共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680654/">尼加拉瓜</a> 	[Nicaragua](https://cn.bing.com/search?q=Nicaragua)		⠀-	⠀[💮](http://NI.mofcom.gov.cn "经贸指南")	⠀[🏪](http://NI.china-embassy.gov.cn "中国大使馆")	⠀00505	<sup>首都：马那瓜</sup>	<sup>-14h</sup>	⠀-	 -	 -	 -	⠀C$<sup>[科多巴](https://cn.bing.com/search?q=NIO兑CNY)</sup>		  
 🇨🇷	+ &	CR⠀	<small>	<a title="哥斯达黎加共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/bmz_679954/1206_680228/">哥斯达黎加</a> 	Costa Rica	</small>	⠀[🏔️](https://www.yidaiyilu.gov.cn/gbjg/gbmt/65184.htm "国别美图")	⠀[💮](http://CR.mofcom.gov.cn "经贸指南")	⠀[🏪](http://CR.china-embassy.gov.cn "中国大使馆")	⠀00506	<sup>首都：圣何塞</sup>	<sup>-14h</sup>	⠀[🏛](http://www.emb-costarica.cn/?lang=zh "驻华使馆")	[wb](https://weibo.com/costaricachina "驻华使馆微博")	⠀[👥](https://www.rree.go.cr "外交部")	⠀[🏢](https://www.casapres.go.cr/#疑似被限 "Republic of Costa Rica")	⠀<sup>[科朗](https://cn.bing.com/search?q=CRC兑CNY)</sup>		⠀<sup>[球迷](https://weibo.com/3082733262) ⚽</sup>  
@@ -320,7 +318,7 @@
 🇹🇫	⠀ ⠀	TF⠀	<small>	<a title="法属南部和南极领地">法属南部领地</a>	[French Southern Territories](https://cn.bing.com/search?q=French Southern Territories)	</small>	⠀-	 -	 -	⠀00262	 -	 -	⠀-	 -	 -	 -	⠀□		  
 
 
-<div align="right"><a href="#0" target="_top">↑ Top</a></div>
+<div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 <h2 id="8" title="微软必应提供的世界地图">必应世界地图</h2>
 
 <table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
@@ -335,7 +333,7 @@
 	</span>
 </td></tr></tbody>
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
-<div align="right"><a href="#0" target="_top">↑ Top</a></div>
+<div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
 <h2 id="9" title="世界国别速查表">图例</h2>
@@ -356,27 +354,18 @@
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
-<div align="right"><a href="#0" target="_top">↑ Top</a></div>
+<div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
-<h2 id="10" title="各种代码的来源">收录口径与进度</h2>
-　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
+<h2 id="10" title="ISO 3166">国别表收录口径</h2>
 
-　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。中国与之对应的推荐标准为：GB/T 2659-2000。
-
-　　**国别表**收录口径为ISO全部国别249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181个）、一带一路签约国（149个，截至202208）。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
+　　**国别表**收录口径为ISO全部国别249个，包含以下全集：联合国全体会员国（193个）、中国建交国（181+1个）、一带一路签约国（149个，截至202208）。　2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
 
 　　在249个ISO 1366国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在部分国际组织有驻外使团(不是使领馆)，收录如下，在外交部网站可查阅更多的[中国驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
 
 🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[💮](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏪](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🏛](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
 🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[💮](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏪](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🏛](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
 
-+	202302　收录ISO保留代码EU=欧盟，UN=联合国。调整国别顺序。
-+	202212　标记2022世界杯32支球队所在国。
-+	202212　收录全部249个国家和地区的emoji旗帜符号；
-+	202209　增加商务部《经贸指南》，增加国际长途区号，正在补充各国使馆网址
-+	202209　已收录215个国家货币符号，增加查询汇率连接，上线公开测试
-+	202208　收录249个ISO代码及其国别中英文名称，正在测试版式
 
 
 鸣谢
@@ -385,13 +374,13 @@
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
 
-<div align="right"><a href="#0" target="_top">↑ Top</a></div>
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 ```
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://laosheng.top/ydyl/nations
-	世界国别速查表	v0.7.7	202303
+	世界国别速查表	v0.7.8	202303
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
