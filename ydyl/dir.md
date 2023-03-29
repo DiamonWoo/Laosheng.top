@@ -6,7 +6,7 @@
 
 一带一路民间站，山不转啊水来转 🎵
 
-+  /ydyl/index　🌞 [一带一路云媒体](index){:target="_blank"}　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。更新中……
++  /ydyl/index　🌞 [一带一路云媒体](index){:target="_blank"}　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
 
 +  /ydyl/nations　🗺 [世界国别速查表](nations)，联合国会员国列表、ISO代码、电信区号、货币符号。世界各国驻华使馆、政府官网、国别域名。新上线！
 
@@ -26,6 +26,11 @@
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
 
+	2023-03-26	中美洲国家洪都拉斯与我国建立外交关系，已同台湾当局断绝所谓外交关系。
+	2023-03-20	习近平抵达莫斯科开始对俄罗斯进行国事访问。
+	2023-03-06	在中方支持下，沙特和伊朗于3月6日至10日在北京举行对话。
+	2023-03-01	习近平同来华进行国事访问的白俄罗斯总统卢卡申科举行会谈。
+	2023-02-24	中国发表《关于政治解决乌克兰危机的中国立场》。
 	2023-02-14	伊朗总统莱希访问中国，双方发表联合声明。
 	2023-02-10	柬埔寨首相洪森来华访问，双方发表关于构建新时代中柬命运共同体的联合声明。
 	2023-01-06	土库曼斯坦总统谢尔达尔·别尔德穆哈梅多夫来华访问，提升为全面战略伙伴关系。
@@ -55,7 +60,7 @@
 　　<a target="_blank" title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
 <a target="_blank" title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
 <a target="_blank" href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
-<a target="_blank" title="首页>外交动态>领导人活动 " href="https://www.mfa.gov.cn/web/wjdt_674879/">外交部</a>
+<a target="_blank" title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交部</a>
 （<a target="_blank" title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
 <a target="_blank" title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
 <a target="_blank" title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
@@ -69,7 +74,7 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-<h2 id=ditu>一带一路地图网站 🗺</h2>
+<h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
 　　天地图
 <a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
@@ -87,15 +92,8 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
  	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
-民间翻译网站与常用词汇
---------------------
+<h3 id=fanyi>民间翻译网站 🎧 YDYL</h3>
 
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
-
-<h3 id="fanyi">免费翻译网站 🎧</h3>
 　　谷歌翻译
 #<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
@@ -111,22 +109,30 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 <a target="_blank" title="提供本地软件" href="https://dict.eudic.net">欧陆词典</a>
 </small>
 
+**常用词汇**
+
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+
+*云媒体常用外语词汇*  
+　　电视直播：  
+　　数字报：……
+
 <h4>能翻译网页的浏览器</h4>
 
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
 * 谷歌 Chrome	曾经是翻译效果最好的浏览器，但202210之后谷歌关闭中国翻译服务，访问困难
 * 腾讯 QQ浏览器	可翻译英、日、韩三种语言。
 
-*云媒体常用外语词汇*  
-　　电视直播：  
-　　数字报：……
-
+　　*微信内置浏览器* 较新版可以翻译多种语言。
 
 ```
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.1	202302
+	一带一路民间站 v3.0.2	202303
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
