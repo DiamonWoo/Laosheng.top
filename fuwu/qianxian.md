@@ -3692,7 +3692,7 @@ LSIP收录进度
 
 <div align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></div>
 
-<h3 id="2021">2021年行政区划变更</h3>
+<h2 id="2021">2021年行政区划变更</h2>
 　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
 　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
 　　有3个新设立的全新地名：  新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
@@ -3721,18 +3721,17 @@ LSIP收录进度
 *	360地图
 
 　　国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
-　如果发现某省地图连接失效或错误，请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>告知大萌</a>，感谢！❀
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.Top/c/author)</a>，如果发现链接错误,请<a title='留言板，无需注册' href='https://xoyondo.com/ap/HPr7pBG7mOPIUGZ'>告知大萌</a>，谢谢！🙇
 
 
 ```
 	老生常谈 © 2019-2023 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名图	v0.6.7	202303
+	中国千县政府网	v0.6.7	202303
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
