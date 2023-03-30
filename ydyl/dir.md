@@ -74,21 +74,6 @@
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-人民币汇率中间价 💱
-------------------
-exchange rate
-
-　　根据中国人民银行授权，**[中国外汇交易中心](https://www.chinamoney.com.cn/chinese/bkccpr/)**(上海)负责发布“人民币汇率中间价”。  
-　　六大国有银行外汇牌价：  
-[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
-[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
-　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
-[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
-[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
-[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
-　　参考黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
-
-
 <h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
 　　天地图
 <a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
@@ -166,11 +151,13 @@ ISO介绍
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 
 
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
+
 ```
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.3	202303
+	一带一路民间站 v3.0.4	202303
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
