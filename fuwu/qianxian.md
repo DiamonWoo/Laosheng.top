@@ -72,8 +72,8 @@ LSIP收录进度
 91-国外入籍身份证号　
 2021 <a href="#2021" target="_top">行政区划变更</a>　
 <a href="#备选地图" target="_top">备选地图</a>　
-
 <small>返回索引请用浏览器‘后退’按钮</small>
+
 
 图例
 ----
@@ -3110,7 +3110,7 @@ LSIP收录进度
 540200 <b>[日喀则市](http://www.rikaze.gov.cn )</b>　藏D　0892　  
 540202 [桑珠孜区](http://www.sangzhuzi.gov.cn )⠀
 540221 [南木林县](http://www.nmlx.gov.cn )⠀
-540222 [江孜县](http：//www.jiangzi.gov.cn )⠀
+540222 [江孜县](http://www.jiangzi.gov.cn )⠀
 540223 [定日县](http://www.drx.gov.cn )⠀
 540224 [萨迦县](http://www.sj.gov.cn )⠀
 540225 [拉孜县](http://www.lazi.gov.cn )⠀
