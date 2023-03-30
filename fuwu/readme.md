@@ -96,7 +96,7 @@
 *	JSON格式的行政区划数据：[路人甲](https://passer-by.com/data_location/)的github项目
 
 
-　　网站建设中，欢迎大家[提意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn ){:target="_blank"}！发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ){:target="_blank"}。🙇 
+　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈© 2019-2023 大萌	　知识共享许可
