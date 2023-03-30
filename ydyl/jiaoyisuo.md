@@ -1,15 +1,49 @@
-全球金融交易所 💱
-==================
-Financial exchange
-
-大萌	2023
-<base target="_blank">
+全球金融交易所 💱 <sub>Financial exchange</sub>
+=================
+大萌　2023	<base target="_blank">
 
 
+writing……
+
+　　（还在学习、收集中）
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/全球金融交易所
 </div>
+
+
+世界四大黄金市场
+----------------
+Gold Market
+
+　　黄金人民币价格：上海黄金交易所 发布的[上海金基准价](https://www.sge.com.cn/sjzx/jzj)。
+……
+
+人民币汇率 💱
+-------------
+exchange rate
+
+　　根据中国人民银行授权，**中国外汇交易中心**(上海)负责发布“[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)”。  
+　　六大国有银行外汇牌价：  
+　　
+[中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
+[中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
+　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
+[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
+[中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
+[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
+
+
+外汇指数发布方
+-------------
+
+美元指数，美国洲际交易所https://www.ice.com/products/Futures-Options/FX/ICE-US-Dollar-Index-USDX
+
+人民币指数，？
+
+欧元指数？
+
+……
 
 
 证券交易所市值排行
@@ -60,26 +94,23 @@ Stock Exchange Top25 2021
 + []()
 
 
-世界四大黄金市场
-----------------
-Gold Market
-
-
 
 Template:全球系统重要性银行
 ----------------------------
 Systemically Important Banks
 
 2020年 → 2021年（30家）
-第五档		空缺
-第四档 	摩根大通
+第五档		空缺  
+第四档 	摩根大通  
 第三档 	法国巴黎银行 汇丰 花旗集团
-第二档
+
+第二档  
 	美国银行 中国银行 巴克莱银行 中国建设银行 德意志银行 高盛 中国工商银行 三菱日联银行
-第一档	
+
+第一档	  
 	中国农业银行 纽约梅隆银行 瑞士信贷 法国BPCE集团 法国农业信贷银行 荷兰国际集团 瑞穗金融集团 摩根士丹利 加拿大皇家银行 桑坦德银行 法国兴业银行 渣打银行 道富集团 三井住友金融集团 多伦多道明银行 瑞银集团 裕信银行 富国银行
 
-注：自2011年起，金融稳定委员会每年会对全球系统重要性银行名单进行更新
+注：自2011年起，[金融稳定委员会 FSB](https://www.fsb.org)每年会对全球系统重要性银行名单进行更新
 
 
 中国境内的外资银行
@@ -96,13 +127,15 @@ Systemically Important Banks
 	德国商业银行（上海分行） 巴克莱银行（上海分行） 美国银行（上海分行） 荷兰安置银行（上海分行） 比利时联合银行（上海分行） 挪威银行（上海分行） 加拿大丰业银行（广州分行） 桑坦德银行（上海分行） 意大利裕信银行（上海分行） 瑞士信贷银行（上海分行） 意大利联合圣保罗银行（上海分行） 法国外贸银行（上海分行） 纽约梅隆银行（上海分行） 德国西德银行（上海分行） 马来亚银行（上海分行） 富通银行（上海分行） 大众银行（香港）（深圳分行） 瑞典商业银行（上海分行） 印度国家银行（上海分行） 三井住友信托银行（上海分行） 北德意志州银行（上海分行） 北欧斯安银行（上海分行） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（上海分行） 西太平洋银行（上海分行） 西雅那银行（上海分行） 北欧银行（上海分行） 美联银行（上海分行） 台湾土地银行（上海分行） 第一商业银行（上海分行） 俄罗斯外贸银行（上海分行） 巴西银行（上海分行） 大邱银行（上海分行） 埃及国民银行（上海分行） 澳洲联邦银行（上海分行） 台湾中小企业银行（上海分行） 卡纳拉银行（上海分行） 印度尼西亚曼底利银行（上海分行） 韩国产业银行（上海分行） 台湾银行（上海分行） 联昌国际银行（上海分行） 哈比银行（乌鲁木齐分行）
 
 
-　　对老生常谈“服务系列网页” [发表意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)。
+　　（此页尚在施工中……）
+
+　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出建议</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈 © 2019-2023 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	全球金融交易所	v0.3.9 	202212
+	全球金融交易所	v0.3.10 	202303
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
