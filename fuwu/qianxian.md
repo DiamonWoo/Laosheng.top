@@ -3415,7 +3415,7 @@ LSIP收录进度
 622921 [临夏县](http://www.linxiaxian.gov.cn )⠀
 622922 [康乐县](http://www.gskanglexian.gov.cn )⠀
 622923 [永靖县](http://www.gsyongjing.gov.cn )⠀
-622924 [广河县](http：//www.ghx.gov.cn )⠀
+622924 [广河县](http://www.ghx.gov.cn )⠀
 622925 [和政县](http://www.hezheng.gov.cn )⠀
 622926 [东乡族自治县](http://www.dxzzzx.gov.cn )⠀
 622927 [积石山保安族东乡族撒拉族自治县](http://www.jss.gov.cn/Article/ArticleList?Channel=0001 )⠀
