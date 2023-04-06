@@ -6,7 +6,7 @@
 
 　　世界上最通用的国别代码是“ISO 3166-1”标准的二位字母代码，比如：CN=China，US=America。因为ISO的工作语言(en/fr/ru)不包括中文，所以该标准内的国家或地区没有中文名称；与之对应的中国国标(GB)翻译了中文简称和全称，但是“由于涉及版权保护问题”，在国家标准[全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=988573B0B98BAD89B995D4DD63CD525F)上“暂不提供”。　这两个原因造成中文用户在互联网上找不到清晰、权威的中文国别代码。
 
-　　大萌因此编纂了一份《世界国别速查表》，简称‘国别表’，以ISO代码表为基础，结合了中国外交部与联合国的官方表述，审定了全表249个国家和地区的中文译名，并集成了地理、外交、经贸方面的基础信息和1200多个权威网址，以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(LSIP)”形式公布在老生常谈网站，为中文用户提供各国国情的快速查找服务。
+　　大萌因此编纂了一份《世界国别速查表》，简称‘国别表’，以ISO代码表为基础，结合了中国外交部与联合国的官方表述，拟定了全表249个国家或地区的中文译名，并集成了地理、外交、经贸方面的基础信息和1200多个权威网址，以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(LSIP)”形式公布在老生常谈网站，为中文用户提供各国国情的快速查找服务。
 
 
 　　**国别表**收录的基础信息包括：旗帜、UN席位、R&B签约、ISO代码、中英文名称、国际长途区号、<sup>该国首都、时差、主权货币符号与名称</sup>，并提供超链接查询与人民币的汇率💱。　收录的权威网址包括：外交部的国家概况页、🏔️一带一路官网的国别美图页、💮商务部的经贸指南页、🏪双方大使馆网址🏛️、某外交部👥与政府网址🏢。　详细图例与收录口径见页面底部。
@@ -50,10 +50,11 @@
 
 <h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
 
-🇨🇳	五常 ⠀	CN⠀	<big><big><b>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</b></big></big>	⠀[🏔️](https://www.yidaiyilu.gov.cn/gbjg/gbmt大美中国 "国别美图")	 -	⠀[🏪](xx.china-embassy.gov.cn "中国大使馆")	⠀0086	<sup>首都：北京</sup>	<sup>0h</sup>	⠀-	[wb](https://weibo.com/wjxlt "驻华使馆微博")	⠀[👥](https://www.mfa.gov.cn/web/wjdt_674879/ "外交部")	⠀[🏢](https://www.gov.cn "The People's Republic of China")	⠀¥<sup>[人民币](https://cn.bing.com/search?q=CNY兑CNY)</sup>	CNY	  
-🇭🇰	⠀ ⠀	HK⠀	<small>	<a title="中国香港特别行政区">(中国)香港</a>	Hong Kong	</small>	⠀-	⠀[💮](http://HK.mofcom.gov.cn "经贸指南")	 -	⠀00852	 -	<sup>0h</sup>	⠀-	[wb](https://weibo.com/newsgovhk "驻华使馆微博")	 -	⠀[🏢](https://www.gov.hk/sc "政府")	⠀$<sup>[港元](https://cn.bing.com/search?q=HKD兑CNY)</sup>		⠀<sup>☆</sup>  
-🇲🇴	⠀ ⠀	MO⠀	<small>	<a title="中国澳门特别行政区">(中国)澳门</a>	Macao	</small>	⠀-	⠀[💮](http://MO.mofcom.gov.cn "经贸指南")	 -	⠀00853	 -	<sup>0h</sup>	⠀-	[wb](https://weibo.com/6190786689 "驻华使馆微博")	 -	⠀[🏢](https://www.gov.mo/zh-hant "政府")	⠀P<sup>[澳门币](https://cn.bing.com/search?q=MOP兑CNY)</sup>		⠀<sup>☆</sup>  
+🇨🇳	五常 ⠀	CN⠀	<big><big><b>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</b></big></big>	⠀[🏔️](http://pic.people.com.cn/GB/442107/ "国别美图")	 [💮](https://fdi.mofcom.gov.cn/ "商务部《中国投资指南》")	⠀[🏪](https://www.mfa.gov.cn/web/zwjg_674741/zwzlg_674757/ "中国驻外领事馆")	⠀0086	<sup>首都：北京</sup>	<sup>0h</sup>	⠀-	[wb](https://weibo.com/wjxlt "外交部微博")	⠀[👥](https://www.mfa.gov.cn/web/wjb_673085/ "中国外交部")	⠀[🏢](https://www.gov.cn "The People's Republic of China")	⠀¥<sup>[人民币](https://cn.bing.com/search?q=CNY兑CNY)</sup>	CNY	  
+🇭🇰	⠀ ⠀	HK⠀	<small>	<a title="中国香港特别行政区">(中国)香港</a>	Hong Kong	</small>	⠀-	⠀[💮](http://HK.mofcom.gov.cn "香港中联办经济部贸易处")	 -	⠀00852	 -	<sup>0h</sup>	⠀-	[wb](https://weibo.com/newsgovhk "香港政府新闻网")	 -	⠀[🏢](https://www.gov.hk/sc "香港特别行政区政府")	⠀$<sup>[港元](https://cn.bing.com/search?q=HKD兑CNY)</sup>		⠀<sup>☆</sup>  
+🇲🇴	⠀ ⠀	MO⠀	<small>	<a title="中国澳门特别行政区">(中国)澳门</a>	Macao	</small>	⠀-	⠀[💮](http://MO.mofcom.gov.cn "澳门中联办经济部贸易处")	 -	⠀00853	 -	<sup>0h</sup>	⠀-	[wb](https://weibo.com/6190786689 "澳门特区发布")	 -	⠀[🏢](https://www.gov.mo/zh-hant "澳门特别行政区政府")	⠀P<sup>[澳门币](https://cn.bing.com/search?q=MOP兑CNY)</sup>		⠀<sup>☆</sup>  
 🇹🇼	⠀ ⠀	TW⠀	<small>	<a title="中国台湾省">(中国)台湾</a>	[Taiwan](https://cn.bing.com/search?q=Taiwan)	</small>	⠀-	 -	 -	⠀00886	 -	<sup>0h</sup>	⠀-	 -	 -	 -	⠀$<sup>[新台币](https://cn.bing.com/search?q=TWD兑CNY)</sup>		⠀<sup>☆[台北市政府](https://www.gov.taipei)</sup>  
+
 🇰🇵	+ ⠀	KP⠀		<a title="朝鲜民主主义人民共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676404/">朝鲜</a> 	North Korea		⠀-	⠀[💮](http://KP.mofcom.gov.cn "经贸指南")	⠀[🏪](http://KP.china-embassy.gov.cn "中国大使馆")	⠀00850	<sup>首都：平壤（Pyongyang）</sup>	<sup>+1h</sup>	⠀-	 -	 -	⠀[🏢](http://naenara.com.kp "Democratic People's Republic of Korea")	⠀₩<sup>[朝鲜圆](https://cn.bing.com/search?q=KPW兑CNY)</sup>		⠀<sup>📍 [友谊协会](https://korea-dpr.com/)</sup>  
 🇰🇷	+ &	KR⠀		<a title="南朝鲜／大韩民国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676524/">韩国</a> 	South Korea		⠀[🏔️](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2108.htm "国别美图")	⠀[💮](http://KR.mofcom.gov.cn "经贸指南")	⠀[🏪](http://KR.china-embassy.gov.cn "中国大使馆")	⠀0082	<sup>首都：首尔（Seoul）</sup>	<sup>+1h</sup>	⠀[🏛](https://overseas.mofa.go.kr/cn-zh/index.do "驻华使馆")	[wb](https://weibo.com/embassykr "驻华使馆微博")	⠀[👥](https://www.mofa.go.kr/eng/index.do "外交部")	⠀[🏢](https://www.president.go.kr "Republic of Korea")	⠀₩<sup>[韩圆](https://cn.bing.com/search?q=KRW兑CNY)</sup>		⠀<sup>⚽</sup>  
 🇯🇵	+ ⠀	JP⠀		<a title="日本国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676836/">日本</a> 	Japan		⠀-	⠀[💮](http://JP.mofcom.gov.cn "经贸指南")	⠀[🏪](http://JP.china-embassy.gov.cn "中国大使馆")	⠀0081	<sup>首都：东京</sup>	<sup>+1h</sup>	⠀[🏛](https://www.cn.emb-japan.go.jp/itprtop_zh/ "驻华使馆")	[wb](https://weibo.com/japanembassy "驻华使馆微博")	⠀[👥](https://www.mofa.go.jp/ "外交部")	⠀[🏢](https://www.kantei.go.jp "Japanese")	⠀¥<sup>[日元](https://cn.bing.com/search?q=JPY兑CNY)</sup>		⠀<sup>📍 ⚽</sup>  
@@ -381,7 +382,7 @@
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://laosheng.top/ydyl/nations
-	世界国别速查表 Version 0.7.9	202304
+	世界国别速查表 Version 0.8.0	202304
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
