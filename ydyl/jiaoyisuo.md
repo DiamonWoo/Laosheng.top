@@ -1,6 +1,6 @@
 全球金融交易所 💱 <sub>Financial exchange</sub>
 =================
-大萌　2023	<base target="_blank">
+大萌　2023  草稿	<base target="_blank">
 
 
 writing……
@@ -83,6 +83,49 @@ Stock Exchange Top25 2021
 *	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍
 
 
+<h2 id="D5">港澳台金融交易所</h2>
+Financial Exchange
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
+
+* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
+  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
+  * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
+  * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
+  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+  * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
+  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
+  * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
+  * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
+* [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
+* 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
+
+* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
+  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
+* [台湾期货交易所](https://www.taifex.com.tw/cht/index)
+* [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
+
+<h3 id="D61">国内其他交易所</h3>
+Exchanges
+
+*	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
+*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
+*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
+*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
+*	[天津产权交易中心](https://www.tpre.cn)
+*	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
+*	[天津国际矿业权交易所](http://www.cmextj.com)
+*	(天津)[渤海商品交易所](https://www.boce.cn/)
+*	[天津文化艺术品交易所](http://www.tjcae.com)
+*	[天津排放权交易所](https://www.chinatcx.com.cn)
+*	[上海钻石交易所](https://www.cnsde.com/)
+*	[上海环境能源交易所](https://www.cneeex.com)
+*	[广州碳排放交易所](https://www.cnemission.com/)　广碳所，广州交易所集团
+
+疑似已关闭交易所：  
+　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+
+
+
 更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
 [成员名单](https://www.world-exchanges.org/membership-events)
 
@@ -135,7 +178,7 @@ Systemically Important Banks
 	老生常谈 © 2019-2023 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	全球金融交易所	v0.3.10 	202303
+	全球金融交易所	v0.4.0 	202304
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
