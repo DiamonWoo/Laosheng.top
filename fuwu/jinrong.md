@@ -1,14 +1,14 @@
-个人金融理财圈 🥯
+个人理财金融圈 🥯
 ================
-大萌	2022-2023 草稿	<base target="_blank">
+大萌	2022-2023 草稿三	<base target="_blank">
 
-		防范金融风险还须解决许多重大问题 ———— 二十大报告
+		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
-　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
+　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[1]。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
 
 　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。我国央企广义上分四类：文化类（出版/对外/广电）、行政类（国铁/邮政/烟草/北大荒）、金融类（财政部公布名单）、实业类（国资委公布名单）。实业类央企请见[央企股票全家福](yangqi)，本页面收录前三类的官方网址。
 
-　　本页收录网址范围目前包括：文化央企与行政央企及下属网站、财政部公布的‘中央金融企业名录’、一行两会与交易所、主要商业银行与保险集团。网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　本页收录网址范围目前包括：文化央企、行政央企、金融央企、金融监管体系、商业银行与保险集团、前两类央企的下属网站。网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
@@ -17,17 +17,16 @@
 改革近况、央企四类、
 <a href="#D2" target="_top">金融央企</a>、一行两会三所、<br>
 <a href="#D4" target="_top">商业银行</a>、
-<a href="#D5" target="_top">保险集团</a>、
-其他交易所、央企网站群、
-<a href="#D8" target="_top">编辑工作</a>、参考文献
+<a href="#D5" target="_top">保险集团</a>、央企网站群、
+<a href="#D7" target="_top">参考文献</a>、编辑札记
 </div>
 
 金融圈LSIP进度
 --------------
 
-		大萌曾试图用‘集成网页’形式，囊括中国金融业体系架构，但改版两次，均未成功。
-		一方面金融体系纷繁复杂，难以集中；另一方面，我国金融业仍在大力改革，结构在变。
-		目前正在进行第三次改版。
+		大萌曾试图用‘集成网页’形式，囊括中国金融业体系架构，但两次定稿，均未成功。
+		一方面金融体系纷繁复杂，难以集中；另一方面，金融业仍在大力改革，结构在变。
+		目前正在进行第三稿设计。
 
 改革近况
 --------
@@ -41,12 +40,12 @@
 
 <h2 id="D1">中央企业四大类</h2>
 
-　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：财政部管理的金融类央企（2022年27家）、行政类央企4家和文化类央企3家。
+　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，如下：
 
-* 文化类央企3家，中国出版/对外文化/中国广电。
-* 行政类央企4家，中国铁路/中国邮政；中国烟草；北大荒。
-* 金融类，财政部公布名单，2022年27家，工行/中信/人保……详情见下。
-* 实业类，国资委公布名单，2022年98家，中核/电信/中粮……
+* 文化类央企3家：中国出版/对外文化/中国广电。
+* 行政类央企4家：中国铁路/中国邮政；中国烟草；北大荒。
+* 金融类，2022年27家，财政部公布名单：工行/中信/人保……详情见下。
+* 实业类，2022年98家，国资委公布名单：中核/电信/中粮……
 
 　文旅部　W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
 　文旅部　W2	[中外文化](http://www.caeg.cn){:id="W2"} 	⠀CAEG	<small>[网站群](http://www.caeg.cn/whjtgs/ppxm/events.shtml)	⠀北京  	⠀中国对外文化集团有限公司 	⠀2021年1月整体划转至紫荆文化集团</small>  
@@ -54,7 +53,9 @@
 　交通部　X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀网站群见[下方▼](#D7){:target="_top"}；《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")</small>  
 　交通部　X2	[中国邮政](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀中国邮政报[📰](http://www.chinapostnews.com.cn/)</small>  
 　工信部　X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀网站群见[下方▼](#D7){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)</small>  
-　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	<small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>  
+　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	<small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>
+
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 
 <h2 id="D2">中央金融企业</h2>
@@ -86,25 +87,28 @@
 24	[国家农担公司](http://guojianongdan.cn){:id="24"} 	⠀　　	<small>[网站群](http://guojianongdan.cn/about/member.html)	⠀北京  	⠀国家农业信贷担保联盟有限责任公司⠀	</small>  
 25	[中再集团](https://www.chinare.com.cn){:id="25"} 	⠀ChinaRe	<small>[网站群](https://www.chinare.com.cn/zhzjt/566050/gpxx/gsylb/)	⠀北京  	⠀中国再保险（集团）股份有限公司⠀000007	</small>  
 26	[中国建投](http://www.jic.cn){:id="26"} 	⠀JIC	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
-27	[中国银河金控](https://www.china-galaxy.com.cn){:id="27"} 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
+27	[中国银河金控](https://www.china-galaxy.com.cn){:id="27"} 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>
+
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 
 <h2 id="D3">中国金融业监管体系</h2>
 Finance⠀一行两会三所
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
-　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。　近年兴起的互联网金融有‘混业经营’态势，对分业监管体系提出了挑战。
+　　中国的金融业实行‘[分业经营、分业监管](http://www.gov.cn/xinwen/2020-09/14/content_5543303.htm)’架构，日常监管工作由国务院三个直属机构负责，俗称‘一行两会’：人行、证监会、银保监会。其中银保监会于2018年由*银监会*与*保监会*合并而成，旧称‘一行三会’。　这些监管部门覆盖了金融业几乎所有方面，包括中国金融的四大支柱行业：银行业、保险业、证券业(债/股/基/期)、信托业，其中银行业的总市值超过后面三者之和。　近年金融圈出现‘混业经营’态势，对分业监管体系提出挑战。
+
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行  
 	国家中央银行、央妈，主管：外汇/黄金/货币政策
 - 调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
 - 国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)  
 	外汇局　外汇储备约$3万亿美元。
-  * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　各商业银行的外汇牌价可见[国别代码速查表](../ydyl/nations)
+  * 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　各商业银行的外汇牌价可见[世界国别速查表](../ydyl/nations)
 * 上海黄金交易所　发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿人民币元。
 * 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
-[**银保监会**　CBIRC.gov.cn](http://www.cbirc.gov.cn/)　中国银行保险监督管理委员会  
+[**银保监会**　CBIRC.gov.cn](http://www.cbirc.gov.cn/)　中国银行保险监督管理委员会（即将被“国家金融监督管理总局”取代）  
 	保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
 	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)
 
@@ -116,7 +120,7 @@ Finance⠀一行两会三所
 - 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
 - 信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
 - 其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
-<sup>各分业市值默认货币单位为￥人民币元</sup>
+<sup>各分业市值默认货币单位为￥人民币元</sup>  
 
 [**证监会**　CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
 监管以下机构（3+5+x）：
@@ -133,8 +137,7 @@ Finance⠀一行两会三所
 - 证券公司 全国约140家，网站导航由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供
 - 期货公司 全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
 　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
-- 上市公司 全国超5000家
-- ……
+- 上市公司 全国超5000家 ……
 
 监管以下业务（债券/股票/基金/期货+x）：  
 - 债券　Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
@@ -152,8 +155,9 @@ Finance⠀一行两会三所
   - 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
   - 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
 
-- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。  
-- ……
+- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 ……  
+
+　<i>港澳台与其他交易所，请见[世界金融交易所](../ydyl/jiaoyisuo)页面</i>
 
 
 <h2 id="D4">中国主要商业银行</h2>
@@ -424,14 +428,14 @@ Insurance （2022年计237家）
 24：[太平财产保险](http://caixian.cntaiping.com)有限公司　
 25：[亚太财产保险](https://www.apiins.com/)有限公司　
 26：[美亚财产保险](http://www.capli.com.cn)有限公司　
-27：[东京海上日动火灾保险(中国)](https://www.tokiomarine.com.cn/cn/)（中国）有限公司　
+27：[东京海上日动火灾保险](https://www.tokiomarine.com.cn/cn/)（中国）有限公司　
 28：[瑞再企商保险](https://www.swissrecorporatesolutions.com.cn)有限公司　
 29：[安达保险](https://www.chubb.com.cn/cn-cn)有限公司　
-30：[三井住友海上火灾保险(中国)](http://www.ms-ins.com.cn/Pages/Index.aspx)（中国）有限公司　
-31：[三星财产保险(中国)](http://www.samsungproperty.com.cn)（中国）有限公司　
+30：[三井住友海上火灾保险](http://www.ms-ins.com.cn/Pages/Index.aspx)（中国）有限公司　
+31：[三星财产保险](http://www.samsungproperty.com.cn)（中国）有限公司　
 32：[中银保险](http://www.bocins.com)有限公司　
 33：[京东安联财产保险](https://www.jdallianz.com/)有限公司　
-34：[日本财产保险(中国)](http://www.sompo-japanchina.com)（中国）有限公司　
+34：[日本财产保险](http://www.sompo-japanchina.com)（中国）有限公司　
 35：[利宝保险](http://www.libertymutual.com.cn)有限公司　
 36：[太平洋安信农业保险](https://www.aaic.com.cn)股份有限公司　
 37：[中航安盟财产保险](http://www.groupama.com.cn)有限公司　
@@ -443,21 +447,21 @@ Insurance （2022年计237家）
 43：[都邦财产保险](http://www.dbic.com.cn)股份有限公司　
 44：[渤海财产保险](http://www.bpic.com.cn)股份有限公司　
 45：[华农财产保险](http://www.chinahuanong.com.cn)股份有限公司　
-46：[苏黎世财产保险(中国)](https://www.zurich.com.cn)（中国）有限公司　
+46：[苏黎世财产保险](https://www.zurich.com.cn)（中国）有限公司　
 47：[中国人寿财产保险](http://www.chinalife-p.com.cn)股份有限公司　
 48：[安诚财产保险](http://www.e-acic.com)股份有限公司　
-49：[现代财产保险(中国)](http://www.china-insurance.com/ad/xiandaicx/)（中国）有限公司　
+49：[现代财产保险](http://www.china-insurance.com/ad/xiandaicx/)（中国）有限公司　
 50：[长安责任保险](http://www.capli.com.cn)股份有限公司　
-51：[劳合社保险(中国)](http://www.lloyds.com.cn)（中国）有限公司　
+51：[劳合社保险](http://www.lloyds.com.cn)（中国）有限公司　
 52：[中意财产保险](http://www.generali-china.cn)有限公司　
-53：[爱和谊日生同和财产保险(中国)](https://www.aioinissaydowa.cn)（中国）有限公司　
+53：[爱和谊日生同和财产保险](https://www.aioinissaydowa.cn)（中国）有限公司　
 54：[国元农业保险](http://www.gynybx.com.cn)股份有限公司　
 55：[鼎和财产保险](http://www.edhic.com)股份有限公司　
 56：[中煤财产保险](http://www.chinacoal-ins.com)股份有限公司　
 57：[国泰财产保险](https://www.cathay-ins.com.cn)有限责任公司　
 58：[英大泰和财产保险](http://211.160.72.161)股份有限公司　
 59：[紫金财产保险](http://www.zking.com)股份有限公司　
-60：[日本兴亚财产保险(中国)](http://www.nipponkoa-cn.com)（中国）有限责任公司　
+60：[日本兴亚财产保险](http://www.nipponkoa-cn.com)（中国）有限责任公司　
 61：[浙商财产保险](http://www.zsins.com)股份有限公司　
 62：国任财产保险股份有限公司　
 63：凯本财产保险（中国）有限公司　
@@ -637,60 +641,16 @@ Insurance （2022年计237家）
 237：慈溪市龙山农村保险互助联社　  
 
 
-<h2 id="D5">港澳台金融交易所</h2>
-Financial Exchange
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
-
-* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
-  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
-  * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
-  * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
-  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
-  * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
-  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
-  * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
-  * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
-* [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
-* 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-
-* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
-  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
-* [台湾期货交易所](https://www.taifex.com.tw/cht/index)
-* [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
-
-<h3 id="D61">国内其他交易所</h3>
-Exchanges
-
-*	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
-*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
-*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
-*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
-*	[天津产权交易中心](https://www.tpre.cn)
-*	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
-*	[天津国际矿业权交易所](http://www.cmextj.com)
-*	(天津)[渤海商品交易所](https://www.boce.cn/)
-*	[天津文化艺术品交易所](http://www.tjcae.com)
-*	[天津排放权交易所](https://www.chinatcx.com.cn)
-*	[上海钻石交易所](https://www.cnsde.com/)
-*	[上海环境能源交易所](https://www.cneeex.com)
-*	[广州碳排放交易所](https://www.cnemission.com/)　广碳所，广州交易所集团
-
-疑似已关闭交易所：  
-　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
-
-
 <h2 id="D7">央企网站群</h2>
-
 　　由于广电等央企官网没有为自身网站群链接提供独立页面，本段收录如下，方便查找。
+<div align="right"><a href="#D1" target="_top">↑ Top</a></div>
 
 国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
 
 　　下属公司网站：
 　[中国有线](http://www.cncatv.com)电视网络有限公司
 　中广传播[](http://www.cbc.cn)集团有限公司
-　[中广电传媒](http://www.cbn-cbm.com)有限公司
-
+　[中广电传媒](http://www.cbn-cbm.com)有限公司  
 　　总局直属机构网站：
 　[广播电视卫星直播管理中心](http://www.huhutv.com.cn)
 　[广播科学研究院](http://www.abs.ac.cn)
@@ -737,8 +697,6 @@ Exchanges
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
-<div align="right"><a href="#D1" target="_top">↑ Top</a></div>
-
 国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：<b>国铁集团</b>
 
 　　国铁所属企业：<small>  
@@ -765,7 +723,7 @@ Exchanges
 　　所属事业单位（3个）：<small>
 铁道党校、
 中国铁道博物馆、
-铁道战备舟桥处。</small> 
+铁道战备舟桥处。</small>
 
 <div align="right"><a href="#D1" target="_top">↑ Top</a></div>
 
@@ -778,7 +736,7 @@ Exchanges
 <a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
 <a href="http://www.ems.com.cn/">寄递事业部</a>
 
-　　集团工会及直属单位：<small>
+　　直属单位与工会：<small>
 <a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
 <a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
 <a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
@@ -792,8 +750,6 @@ Exchanges
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div align="right"><a href="#D1" target="_top">↑ Top</a></div>
-
 国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：<b>中国烟草集团</b>
 
 　　直属机构：
@@ -801,8 +757,7 @@ Exchanges
 　[昆明醋纤](http://www.ynkcfc.com)
 　[珠海醋纤](https://www.zcfc.com)
 　[郑州烟草研究院](https://www.ztri.com.cn)？
-　[职工进修学院](https://www.ctt.cn)
-
+　[职工进修学院](https://www.ctt.cn)  
 　　工业企业：
 　[河北中烟工业](http://hegy.tobacco.com.cn)
 　[江苏中烟工业](http://jsgy.tobacco.com.cn)
@@ -859,18 +814,23 @@ Exchanges
 
 	链接有效性待检查
 
-<h2 id='D8'>编辑工作</h2>
+
+<h2 id='D7'>参考文献</h2>
+
+* [1] 2023-03-15，[21世纪经济报道](https://www.21jingji.com/article/20230315/herald/f8509a6635bf12cf706c1faae9c400e3.html)李愿：经历洗礼的银行理财：投资者数量接近1亿，需协同发力做好投资者教育
+
+* [2] 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
+
 <div align="right"><a href="#D1" target="_top">↑ Top</a></div>
 
-　　
-
-<h3>更多金融业有关部门</h3> Relevant Departments
+<h3>更多金融业有关部门</h3>
+Relevant Departments
 
 * 国务院
   * 金融稳定发展委员会 [201711成立](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)
   * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
   * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
-  * [国务院其他部门](zhongyang)：工信部 / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
+  * [国务院其他部门](zhongyang)：税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
 * 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
 * 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
 
@@ -886,16 +846,7 @@ Exchanges
 
 相关条目	央行金融机构评级，一级市场、二级市场、衍生性金融商品
 
-
-<h2 id='D9'>参考文献</h2>
-
-* 2023-03-15，[21世纪经济报道](https://www.21jingji.com/article/20230315/herald/f8509a6635bf12cf706c1faae9c400e3.html)李愿：经历洗礼的银行理财：投资者数量接近1亿，需协同发力做好投资者教育
-
-* 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
-
-
 <h3>证券业法定信息披露媒体</h3>
-
 Statutory Disclosure Media 7家
 
 * [中国日报](https://www.chinadaily.com.cn) / $[证券日报](http://www.zqrb.cn)
@@ -907,6 +858,21 @@ Statutory Disclosure Media 7家
 
 	东方财富、新浪财经、第一财经、财新网……（未完待续）
 
+
+<h2 id='D8'>编辑札记</h2>
+
+　　金融圈是大萌感到最为吃力的一个页面，设计了两稿，自己均不满意，也没达到集成网页的要求。目前设计的第三稿，也许能对。过程简述如下。
+
+　　第一稿，我选择商业银行和保险公司，把网址罗列在一起，做栏目细分。设想是帮助读者在各家机构之间全面地选择产品，先做的六大商业银行。　但我很快发现问题，首先是银行不愿意把理财产品直接公开，要求用户登录查看；然后在对理财产品的描述上，各有风格，银行强调的，未必是用户关心的。那用户有什么对策吗？后来我找到了中国理财网，上面可以根据‘产品登记编码’用统一格式展示理财产品的各个要素。但是呢，这个编码在各银行的理财产品说明中，往往躲得很深。
+
+　　这个理财网是银保监会要求建立的，作为监管方能够让用户比较放心，就像菜市场的公平秤。与此同时，我又接触到理财产品巨亏的网友，已经和银行打了很久的官司。要知道，理财产品在个人投资中，已经是相对简单的业务，还有保险、债券、股票……那业务就更为复杂。如何降低个人的选择成本呢？大萌意识到，必须依靠监管方。
+
+　　所以，第二稿大萌选择金融监管体系，把‘一行两会三所’组织在一起，按照分业监管的模式，罗列各业务的官方网站。在第二稿中，可以很快速的查看：外汇业务的人民币中间价，黄金业务的上海金基准价，股票业务的的上证指数和深成指……债券和基金业务可以查看详细列表。基本上，金融上的事，大方向上都能在这个页面上找到官方消息。第二稿刚完成的时候，我自觉还比较满意，请一些朋友看过，反响还行。
+
+　　接下来，利用金融圈页面（第二稿），使得我对于，春节后发现的央企股票这个题材，能够迅速成稿。可以说，金融圈是央企股页面的生产工具。本来以为，世界就这样美好了。可是时间推移，我开始觉得有些不对劲。怎么有的机构我查不到呢？比如：中央汇金公司。
+
+　　（未完待续）……
+
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
@@ -914,7 +880,7 @@ Statutory Disclosure Media 7家
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	个人金融理财圈 version 0.6.0	202304
+	个人金融理财圈 version 0.6.1	202304
 	https://laosheng.top/fuwu/jinrong
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
