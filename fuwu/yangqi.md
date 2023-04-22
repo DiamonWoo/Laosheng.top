@@ -9,7 +9,7 @@
 　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址，做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
 　‘央企股’具体收录：近百家央企官网、网站群导航、官方微博、新闻出版机构/免费的数字报📰；以及央企旗下大约四百家上市公司的 股票简称、代码与行情页📈、公司全名与官网。网页数据密集，请善用浏览器页内搜索。
 
-　　在上述国资委监管的实业类央企外，还有文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……），请见大萌编纂的 [个人金融理财圈](jinrong)。
+　　在上述国资委监管的实业类央企外，还有文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……），请见大萌编纂的 [个人理财金融圈](jinrong)。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票全家福
@@ -22,7 +22,7 @@
 --------------
 
 		v0.4.2 LC = 1109	
-		　设计 LC ≥ 1264　= 98× m + 436× n 　（m≥4，n≥2，待定）
+		　设计 LC ≈ 1264　= 98×4 +x + 436×2　（x为弹性值）
 		　 完成率 ≈ 　87.7%
 
 
@@ -91,9 +91,9 @@
 49⠀💰	[国投](https://www.sdic.com.cn){:id="49"} 	⠀SDIC <small>[网站群](https://www.sdic.com.cn/cn/wzxg/wzq/A010903index_1.htm)	⠀北京  	⠀[<b>8</b>家上市▽](#G49){:target="_top"}	⠀国家开发投资集团有限公司 	⠀[wb](https://weibo.com/n/国投集团)	</small>  
 50⠀💰	[招商局集团](https://www.cmhk.com){:id="50"} 	⠀CMG <small>[网站群](https://www.cmhk.com/main/gyzsj/zzjg/)	⠀北京  	⠀[<b>9</b>家上市▼](#G50){:target="_top"}	⠀招商局集团有限公司 	⠀- -	⠀[新闻中心](https://www.cmhk.com/main/xwzx/)</small>  
 51⠀🔥	[华润集团](https://www.crc.com.hk){:id="51"} 	⠀CR <small>[网站群](https://www.crc.com.hk/other/group/)	⠀深圳市  	⠀[<b>13</b>家上市▽](#G51){:target="_top"}	⠀华润(集团)有限公司 	⠀[wb](https://weibo.com/n/华润通)	⠀《[华润](http://crchat.crc.com.cn/magazine/)》，[上市公司](https://www.crc.com.hk/IR/stock/indirect/)名单</small>  
-52⠀🎠	[中国旅游集团](https://www.ctg.cn){:id="52"} 	⠀　　 - - - <small>	⠀中国香港  	⠀[<b>2</b>家上市▼](#G52){:target="_top"}	⠀中国旅游集团有限公司／香港中旅(集团)有限公司 	⠀- -	</small>  
-53⠀✈️	[中国商飞](http://www.comac.cc){:id="53"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G53){:target="_top"}	⠀中国商用飞机有限责任公司 	⠀[wb](https://weibo.com/n/中国商飞)	</small>  
-54⠀🌿	[中国节能](http://www.cecep.cn){:id="54"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>6</b>家上市▼](#G54){:target="_top"}	⠀中国节能环保集团有限公司 	⠀- -	⠀👥2010兼并原属军委总后的新时代集团</small>  
+52⠀🎠	[中国旅游集团](https://www.ctg.cn){:id="52"} 	⠀CTG <small>[网站群](https://www.ctg.cn/sites)	⠀中国香港  	⠀[<b>2</b>家上市▼](#G52){:target="_top"}	⠀中国旅游集团有限公司／香港中旅(集团)有限公司 	⠀- -	⠀中国中旅，[月刊](https://www.ctg.cn/monthly/)</small>  
+53⠀✈️	[中国商飞](http://www.comac.cc){:id="53"} 	⠀COMAC <small>[网站群](http://www.comac.cc/main/wzq/)	⠀上海市  	⠀[<b>0</b>家上市▽](#G53){:target="_top"}	⠀中国商用飞机有限责任公司 	⠀[wb](https://weibo.com/n/中国商飞)	⠀大飞机报[📰](http://paper.comac.cc/)/[杂志](http://www.comac.cc/dmt/dzkw/zz/)，C919大型客机2022年底开始交付</small>  
+54⠀♾️	[中国节能](http://www.cecep.cn){:id="54"} 	⠀CECEP <small>[网站群](http://www.cecep.cn/g798.aspx)	⠀北京  	⠀[<b>6</b>家上市▼](#G54){:target="_top"}	⠀中国节能环保集团有限公司 	⠀- -	⠀👥2010兼并原属军委总后的新时代集团</small>  
 55⠀💡	[中咨公司](http://www.ciecc.com.cn){:id="55"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G55){:target="_top"}	⠀中国国际工程咨询有限公司 	⠀- -	</small>  
 56⠀💡	[中国诚通](http://www.cctgroup.com.cn){:id="56"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>7</b>家上市▼](#G56){:target="_top"}	⠀中国诚通控股集团有限公司 	⠀[wb](https://weibo.com/n/中国诚通)	</small>  
 57⠀🔥	[中煤集团](http://www.chinacoal.com){:id="57"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>3</b>家上市▽](#G57){:target="_top"}	⠀中国中煤能源集团有限公司 	⠀- -	</small>  
@@ -132,7 +132,7 @@
 90⠀💰	[中国黄金](http://www.chinagoldgroup.com){:id="90"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>1</b>家上市▼](#G90){:target="_top"}	⠀中国黄金集团有限公司 	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	</small>  
 91⠀☢️	[中广核](http://www.cgnpc.com.cn){:id="91"} 	⠀　　 - - - <small>	⠀深圳市  	⠀[<b>3</b>家上市▽](#G91){:target="_top"}	⠀中国广核集团有限公司 	⠀[wb](https://weibo.com/n/中国广核集团)	</small>  
 92⠀📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀　　 - - - <small>	⠀大连市  	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	</small>  
-93⠀🎠	[华侨城集团](https://www.chinaOCT.com){:id="93"} 	⠀　　 <small>[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀深圳市  	⠀[<b>4</b>家上市▽](#G93){:target="_top"}	⠀华侨城集团有限公司 	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
+93⠀🎠	[华侨城集团](https://www.chinaOCT.com){:id="93"} 	⠀OCT <small>[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀深圳市  	⠀[<b>4</b>家上市▽](#G93){:target="_top"}	⠀华侨城集团有限公司 	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
 94⠀🛢️	[南光集团](http://www.namkwong.com.mo){:id="94"} 	⠀　　 <small>[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀中国澳门  	⠀[<b>0</b>家上市▼](#G94){:target="_top"}	⠀南光(集团)有限公司／中国南光集团有限公司 	⠀- -	</small>  
 95⠀✡	中国电气装备	⠀　　 - - - <small>	⠀上海市  	⠀[<b>4</b>家上市▽](#G95){:target="_top"}	⠀中国电气装备集团有限公司 	⠀- -	</small>  
 96⠀📦	中国物流	⠀　　 - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G96){:target="_top"}	⠀中国物流集团有限公司 	⠀- -	</small>  
@@ -159,7 +159,7 @@
 	👯	3	📼	1
 	🌾	3	📦	1
 	⛽	3	💊	1
-	⚗️	3	🌿	1
+	⚗️	3	♾️	1
 	☢️	3	🌲	1
 	 	 	⚙	1
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
@@ -169,7 +169,7 @@
 ----------------
 已收录436支股票，202302
 
-　按上方央企排序，点 序号△/▲ 回到上方央企。仍有少量境外股票待收录。
+　按上方央企排序，点 序号△/▲ 回到上方央企。仍有少量股票待收录。
 
 [1△](#1){:target="_top"}{:id="G1"}⠀	中国核电	[601985](http://webapi.cninfo.com.cn/#/company?companyid=601985)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中国核能电力股份有限公司](http://www.cnnp.com.cn)</sub>  
 [1△](#1){:target="_top"}{:id="G1"}⠀	中核科技	[000777](http://webapi.cninfo.com.cn/#/company?companyid=000777)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[中核苏阀科技实业股份有限公司](http://www.chinasufa.com)</sub>  
@@ -661,7 +661,7 @@
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 version 0.4.6	202304
+	央企股票全家福 version 0.4.7	202304
 	https://Laosheng.top/fuwu/yangqi
 ```
 
