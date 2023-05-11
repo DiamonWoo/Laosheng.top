@@ -25,9 +25,9 @@
 
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
-<!--  -->
-<textarea rows=10 cols=81 readonly="readonly" style="background-color: #F6F8FA;
-margin-left: 2%;  width: 90%; overflow: auto; word-break: keep-all; ">
+<!-- word-break:keep-all; -->
+<textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
+margin-left:2%;  width:90%; overflow:scroll;  ">
 
 2023-04-26	习近平同乌克兰总统泽连斯基通电话。
 2023-04-19	加蓬总统邦戈应邀来华访问，中加发表关于建立全面战略合作伙伴关系的联合声明。
@@ -59,7 +59,6 @@ margin-left: 2%;  width: 90%; overflow: auto; word-break: keep-all; ">
 2022-01-01	RCEP 生效！
 </textarea>
 <br>
-
 　　2022年北京冬奥会 参赛代表团(NOC) 91个， 其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。
 
 　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
