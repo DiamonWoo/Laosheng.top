@@ -8,7 +8,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 
 　　‘法治政府部门集’页面简称‘法门集’，收录网址的部门包括：立法、司法、执法（即：人大/两院/公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：省政协、审计厅、药监局、监狱管理局；还有半官方的 <small>法学会、律师协会</small>。　另有简称‘公检法’的第二页面，收录 **县区级** 公检法网址ⒼⒿⒻ。通过各省的箭头图标 ↘↖，两个页面可以互相跳转，请注意浏览器的窗口切换。
 
-　　收录工作正在进行，由于个人能力有限，大萌欢迎读者制作改进版本。本页面特意采用了和Linux内核相同的GPL 3.0版权许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出意见</a>。
+　　收录工作正在进行，由于个人能力有限，大萌欢迎读者制作改进版本。本页面特意采用了和Linux内核相同的GPL 3.0版权许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://laosheng.top/c/author">提出意见</a>。
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法治政府部门集
 </div>
@@ -66,17 +66,17 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 
 <h3>法门集LSIP进度</h3>
 
-		收录LC：2943
-		设计LC：3907 = 31×16 + (16×3+26)×3 + (333+2)×10	　（省+直辖市+地级市）
-		完成率：  75.3%
+		收录LC = 2943 - x　
+		设计LC = 4062 ≤ 31×16 + (16×3-2+26)×3 + (333+2)×10 + x　（省+直辖市+地级市）
+		完成率 ≤  72.45%
 
-*	202303	值2023年两会之际补全各省人大代表名单页面。  
-	　　　	全国约500家地方法院注册在中国法院网的域名批量变更；  
-	　　　	地级部门已收录完成4个直辖市和7个省：冀/晋/苏/浙/皖/闽/赣。
+*	202305	为已完成地市/县区收录的省标记‘√’，已完成4个直辖市与7个省：冀/晋/苏/浙/皖/闽/赣。
+*	202303	值2023年两会之际补全各省人大代表名单页面；  
+	　　　	全国约500家地方法院注册在中国法院网的域名批量变更。  
 *	202209	省级部门的收录完成，地级部门收录中。
 
 
-<h3 id="11">11 <a title="北京市人民政府" href="http://www.beijing.gov.cn">北京</a>　京　010 ♾　<sub>首都</sub></h3>	
+<h3 id="11">11 <a title="北京市人民政府" href="http://www.beijing.gov.cn">北京</a> √⠀京　010 ♾　<sub>首都</sub></h3>	
 北京人大：[本届大会](http://www.bjrd.gov.cn/zyfb/)　[代表名单](http://www.bjrd.gov.cn/search/represent)　<sub>[地方法规](http://www.bjrd.gov.cn/search/fggz)</sub>　⚔️[人民检察院](https://www.bjjc.gov.cn)　⚖️[高级人民法院](https://bjgy.bjcourt.gov.cn)　👥[省政协](http://www.bjzx.gov.cn)　[北京政法网](http://www.bj148.org)⠀[<i>法学会</i>](http://www.bjfxh.org.cn)	  
 纪委监委：巡视巡察　[审查调查](http://www.bjsupervision.gov.cn/gzzc/zjsc/)　<sub>wx：清风北京</sub>　[公安局](http://gaj.beijing.gov.cn) 🛂<sub>[weibo](https://weibo.com/pinganbeijing#平安北京)</sub>　[法律服务站](http://bj.12348.gov.cn)　[监狱管理局](http://jyj.beijing.gov.cn)　[省级药监局](http://yjj.beijing.gov.cn)　[审计厅](http://sjj.beijing.gov.cn)
 
@@ -97,7 +97,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 [密云区](http://www.bjmy.gov.cn)	 [Ⓖ](https://weibo.com/5553324383#平安北京密云)	 [Ⓙ](https://www.bjjc.gov.cn/c/miyun/) [Ⓕ](http://bjmyfy.bjcourt.gov.cn)⠀
 [延庆区](http://www.bjyq.gov.cn)	 [Ⓖ](https://weibo.com/yanqingjingfang#平安北京延庆)	 [Ⓙ](https://www.bjjc.gov.cn/c/yanqing/) [Ⓕ](http://bjyqfy.bjcourt.gov.cn)⠀
 
-<h3 id="12">12 <a title="天津市人民政府" href="http://www.tj.gov.cn">天津</a>　津　022 ♾　<sub></sub></h3>	
+<h3 id="12">12 <a title="天津市人民政府" href="http://www.tj.gov.cn">天津</a> √⠀津　022 ♾　<sub></sub></h3>	
 天津人大：[本届大会](https://www.tjrd.gov.cn/tjsrmdbdh/18j1c/)　[代表名单](https://www.tjrd.gov.cn/rdgl/dbt/)　<sub>[地方法规](https://www.tjrd.gov.cn/flfg/sjk/)</sub>　⚔️[人民检察院](http://www.tj.jcy.gov.cn)　⚖️[高级人民法院](https://tjfy.tjcourt.gov.cn)　👥[省政协](http://www.tjszx.gov.cn)　[天津长安网](http://www.tjcaw.gov.cn)⠀[<i>法学会</i>](http://www.tjsfxh.com)	  
 纪委监委：[巡视巡察](https://www.tjjw.gov.cn/xunshixuncha/list2_40012_1.html)　[审查调查](https://www.tjjw.gov.cn/qw_shenchadiaocha.html)　<sub>wx：海河清风</sub>　[公安局](http://ga.tj.gov.cn) 🛂<sub>[weibo](https://weibo.com/tjpolice110#平安天津)</sub>　[法律服务站](https://tj.12348.gov.cn)　监狱管理局　省级药监局　[审计厅](http://sj.tj.gov.cn)
 
@@ -119,7 +119,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 [静海区](http://www.tjjh.gov.cn)	 [Ⓖ](https://weibo.com/jinghaipolice#平安静海)	 [Ⓙ](http://www.tjjinghai.jcy.gov.cn) [Ⓕ](http://tjjhfy.tjcourt.gov.cn)⠀
 [蓟州区](http://www.tjjz.gov.cn)	 [Ⓖ](https://weibo.com/5132976109#平安蓟州)	 [Ⓙ](http://www.tjjixian.jcy.gov.cn) [Ⓕ](http://tjjxfy.tjcourt.gov.cn)⠀
 
-<h3 id="13">13 <a title="河北省人民政府" href="http://www.hebei.gov.cn">河北</a>　冀　<sub>多地开发区设有两院　<a href="qianxian-gjf#13" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="13">13 <a title="河北省人民政府" href="http://www.hebei.gov.cn">河北</a> √⠀冀　<sub>多地开发区设有两院　<a href="qianxian-gjf#13" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 河北人大：[本届大会](http://www.hbrd.gov.cn/rdh/)　代表名单　<sub>[地方法规](http://www.hbrd.gov.cnhttp://temp.pkulaw.cn:8101)</sub>　⚔️[人民检察院](http://www.he.jcy.gov.cn)　⚖️[高级人民法院](http://hbfy.hebeicourt.gov.cn)　👥[省政协](http://www.hebzx.gov.cn)　[河北长安网](http://www.hebeipingan.org.cn)⠀[<i>法学会</i>](http://www.hbsfxh.org.cn)	  
 纪委监委：[巡视巡察](http://www.hebcdi.gov.cn/node_146324.htm)　[审查调查](http://www.hebcdi.gov.cn/node_124625.htm)　<sub>wx：河北省纪委监委</sub>　[公安厅](http://gat.hebei.gov.cn) 🛂<sub>[weibo](https://weibo.com/gongan#河北公安网络发言人)</sub>　[法律服务站](https://he.12348.gov.cn)　[监狱管理局](http://jygl.hebei.gov.cn)　[省级药监局](http://yjj.hebei.gov.cn/)　[审计厅](http://sjt.hebei.gov.cn)
 
@@ -135,7 +135,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 131000 <b>[廊坊市](http://www.lf.gov.cn "廊坊市人民政府")</b>⠀0316	　[人大](http://lf.mzfz.gov.cn)　[司法局](http://sfj.lf.gov.cn)  - -　[公安局](http://gaj.lf.gov.cn) [🛂](https://weibo.com/langfangga#廊坊公安网络发言人) 冀R⠀[⚔️](http://www.langfang.jcy.gov.cn)⠀[⚖️](http://lfzy.hebeicourt.gov.cn)　	[纪委监委](http://www.lfcdi.gov.cn) <sub>[审查调查](http://www.lfcdi.gov.cn/jlsc/)</sub>　[廊坊长安网](http://www.lfcaw.org)  
 131100 <b>[衡水市](http://www.hengshui.gov.cn "衡水市人民政府")</b>⠀0318	　[人大](http://www.hsrd.gov.cn)　[司法局](http://sfj.hengshui.gov.cn)  - -　[公安局](http://gaj.hengshui.gov.cn) [🛂](https://weibo.com/hsgaj#衡水公安网络发言人) 冀T⠀[⚔️](http://www.hengshui.jcy.gov.cn)⠀[⚖️](http://hszy.hebeicourt.gov.cn)　	[纪委监委](http://www.hbhsjj.gov.cn) <sub>[审查调查](http://www.hbhsjj.gov.cn/list_19.html)</sub>　[衡水长安网](http://www.hspeace.gov.cn)  
 
-<h3 id="14">14 <a title="山西省人民政府" href="http://www.shanxi.gov.cn">山西</a>　晋　<sub>　<a href="qianxian-gjf#14" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="14">14 <a title="山西省人民政府" href="http://www.shanxi.gov.cn">山西</a> √⠀晋　<sub>　<a href="qianxian-gjf#14" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 山西人大：[本届大会](http://www.sxpc.gov.cn/hyzt/sxsrmdbdh/sxsdssijrmdbdhdychy/)　代表名单　<sub>[地方法规](http://www.sxpc.gov.cnhttp://218.26.22.67:9090/basc/)</sub>　⚔️[人民检察院](http://www.sx.jcy.gov.cn)　⚖️[高级人民法院](http://www.shanxify.gov.cn)　👥[省政协](http://www.shanxizx.gov.cn)　[山西长安网](http://www.sxpeace.gov.cn)⠀[<i>法学会</i>](http://www.shanxilawsociety.org.cn)	  
 纪委监委：[巡视巡察](http://www.sxdi.gov.cn/xxgk/xsxc/)　[审查调查](http://www.sxdi.gov.cn/xxgk/scdc/)　<sub>wx：清廉山西</sub>　[公安厅](https://gatgw.shanxi.gov.cn) 🛂<sub>[weibo](https://weibo.com/sxga#山西公安)</sub>　[法律服务站](http://sx.12348.gov.cn)　[监狱管理局](https://jyj.shanxi.gov.cn)　[省级药监局](http://yjj.shanxi.gov.cn)　[审计厅](https://sjt.shanxi.gov.cn)
 
@@ -219,7 +219,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 231200 <b>[绥化市](http://www.suihua.gov.cn "绥化市人民政府")</b>⠀0455	　——　司法局  - -　公安局 [🛂](https://weibo.com/6392881261#绥化警事) 黑M⠀◇⠀[⚖️](http://shzy.hljcourt.gov.cn)　	[纪委监委](http://www.shjjjcw.gov.cn) - -　政法委  
 232700 <b>[大兴安岭地区](http://www.dxal.gov.cn "大兴安岭地区人民政府")</b>⠀0457	　[人大](http://www.dxal.gov.cn/zwgk/ldjj/rddxaldqgzwyh)　司法局  - -　公安局 [🛂](https://weibo.com/6431597282#大兴安岭卫士) 黑P⠀◇⠀[⚖️](http://dxalzy.hljcourt.gov.cn)　	[纪委监委](http://www.dxaljwjw.gov.cn) - -　政法委  
 
-<h3 id="31">31 <a title="上海市人民政府" href="http://www.shanghai.gov.cn">上海</a>　沪/申　021 ♾　<sub></sub></h3>	
+<h3 id="31">31 <a title="上海市人民政府" href="http://www.shanghai.gov.cn">上海</a> √⠀沪/申　021 ♾　<sub></sub></h3>	
 上海人大：[本届大会](http://www.spcsc.sh.cn/n8347/n8403/index.html)　[代表名单](http://www.spcsc.sh.cnhttp://odbapp.eastday.com/shrdweb/dbxx.aspx)　<sub>[地方法规](http://www.spcsc.sh.cnhttps://law.sfj.sh.gov.cn/)</sub>　⚔️[人民检察院](https://www.sh.jcy.gov.cn)　⚖️[高级人民法院](https://www.hshfy.sh.cn/shfy/web/jgsz.jsp)　👥[省政协](http://www.shszx.gov.cn)　[上海政法综治网](http://www.shzfzz.net)⠀[<i>法学会</i>](http://www.sls.org.cn)	  
 纪委监委：[巡视巡察](https://www.shjjjc.gov.cn/2015jjw/xsxc/xsxc.html)　[审查调查](https://www.shjjjc.gov.cn/2015jjw/scdc/scdc.html)　<sub>wx：廉洁上海</sub>　[公安局](https://gaj.sh.gov.cn) 🛂<sub>[weibo](https://weibo.com/shanghaipolice#警民直通车-上海)</sub>　[法律服务站](http://sh.12348.gov.cn)　[监狱管理局](https://jyj.sh.gov.cn)　[省级药监局](http://yjj.sh.gov.cn)　[审计厅](https://sjj.sh.gov.cn)
 
@@ -241,7 +241,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 [奉贤区](http://www.fengxian.gov.cn)	 [Ⓖ](https://weibo.com/3479539920#警民直通车-奉贤)	 [Ⓙ](http://www.shfengxian.jcy.gov.cn)⠀-
 [崇明区](http://www.shcm.gov.cn)	 [Ⓖ](https://weibo.com/2107871460#警秀崇明)	 [Ⓙ](http://www.shchongming.jcy.gov.cn) [Ⓕ](https://www.hshfy.sh.cn/shfy/web/jgsz_fyjs.jsp?type=cm)⠀
 
-<h3 id="32">32 <a title="江苏省人民政府" href="http://www.jiangsu.gov.cn">江苏</a>　苏　<sub>各地开发区均设有两院　<a href="qianxian-gjf#32" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="32">32 <a title="江苏省人民政府" href="http://www.jiangsu.gov.cn">江苏</a> √⠀苏　<sub>各地开发区均设有两院　<a href="qianxian-gjf#32" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 江苏人大：[本届大会](http://www.jsrd.gov.cn/hyzl/srdh/)　[代表名单](http://www.jsrd.gov.cn/rdgl/zzjg/srmdbdh/)　<sub>[地方法规](http://www.jsrd.gov.cn/qwfb/sjfg/)</sub>　⚔️[人民检察院](https://www.jsjc.gov.cn)　⚖️[高级人民法院](https://www.jsfy.gov.cn)　👥[省政协](http://www.jszx.gov.cn)　[江苏长安网](http://www.jszf.org)⠀[<i>法学会</i>](http://www.jsfxh.org)	  
 纪委监委：[巡视巡察](http://www.jssjw.gov.cn/col/col1320/)　[审查调查](http://www.jssjw.gov.cn/col/col17/)　<sub>wx：清廉江苏</sub>　[公安厅](http://gat.jiangsu.gov.cn) 🛂<sub>[weibo](https://weibo.com/ywy20020413#平安江苏)</sub>　[法律服务站](http://js.12348.gov.cn)　[监狱管理局](http://jssjyglj.jiangsu.gov.cn)　[省级药监局](http://da.jiangsu.gov.cn)　[审计厅](http://jssjt.jiangsu.gov.cn)
 
@@ -259,7 +259,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 321200 <b>[泰州市](http://www.taizhou.gov.cn "泰州市人民政府")</b>⠀0523 ♾	　[人大](http://tzrd.taizhou.gov.cn)　[司法局](http://sfj.taizhou.gov.cn)  - -　[公安局](http://gaj.taizhou.gov.cn) [🛂](https://weibo.com/jspatz#平安泰州) 苏M⠀[⚔️](http://tz.jsjc.gov.cn)⠀[⚖️](http://tzcourt.taizhou.gov.cn)　	[纪委监委](http://tzlzw.taizhou.gov.cn) <sub>[审查调查](http://tzlzw.taizhou.gov.cn/col/col12502/)</sub>　[泰州长安网](http://changan.taizhou.gov.cn)　<sub>医药高新区设有两院</sub>  
 321300 <b>[宿迁市](http://www.suqian.gov.cn "宿迁市人民政府")</b>⠀0527 ♾	　[人大](http://www.sqrdw.gov.cn)　[司法局](http://sfj.suqian.gov.cn)  - -　[公安局](http://gaj.suqian.gov.cn) [🛂](https://weibo.com/jssqga#宿迁警方) 苏N⠀[⚔️](http://sq.jsjc.gov.cn)⠀[⚖️](http://www.sqfy.gov.cn)　	[纪委监委](http://www.sqjw.gov.cn) <sub>[审查调查](http://www.sqjw.gov.cn/sqsjw/scdc1/scdc.shtml)</sub>　[宿迁长安网](http://sqca.suqian.gov.cn)  
 
-<h3 id="33">33 <a title="浙江省人民政府" href="http://www.zj.gov.cn">浙江</a>　浙　<sub>　<a href="qianxian-gjf#33" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="33">33 <a title="浙江省人民政府" href="http://www.zj.gov.cn">浙江</a> √⠀浙　<sub>　<a href="qianxian-gjf#33" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 浙江人大：[本届大会](https://www.zjrd.gov.cn/rdh/)　代表名单　<sub>[地方法规](https://www.zjrd.gov.cn/dflf/fggg/)</sub>　⚔️[人民检察院](http://www.zjjcy.gov.cn)　⚖️[高级人民法院](https://www.zjcourt.cn)　👥[省政协](https://www.zjzx.gov.cn)　[平安浙江网](http://www.pazjw.gov.cn)⠀[<i>法学会</i>](http://www.zjfxh.com)	  
 纪委监委：[巡视巡察](https://www.zjsjw.gov.cn/gongzuodongtai/xunshixuncha/)　[审查调查](https://www.zjsjw.gov.cn/quanweifabu/shenchadiaocha/)　<sub>wx：清廉浙江</sub>　[公安厅](https://gat.zj.gov.cn) 🛂<sub>[weibo](https://weibo.com/zhejianggongan#浙江公安)</sub>　[法律服务站](https://12348.sft.zj.gov.cn)　[监狱管理局](http://jyglj.zj.gov.cn)　[省级药监局](http://mpa.zj.gov.cn)　[审计厅](http://sjt.zj.gov.cn)
 
@@ -275,7 +275,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 331000 <b>[台州市](http://www.zjtz.gov.cn "台州市人民政府")</b>⠀0576 ♾	　[人大](http://www.zjtz.gov.cn/col/col1229715520/)　[司法局](http://sfj.zjtz.gov.cn)  <sub>[律协](http://www.tzlsxh.com.cn)</sub>　[公安局](http://gaj.zjtz.gov.cn) [🛂](https://weibo.com/zjtzga#台州公安) 浙J⠀[⚔️](http://tz.zjjcy.gov.cn)⠀[⚖️](http://www.tzfyw.gov.cn)　	[纪委监委](http://www.tzqf.gov.cn) <sub>[审查调查](http://www.tzqf.gov.cn/col/col1229059943/)</sub>　[平安台州](http://patz.pazjw.gov.cn)　<sub>台州人大原域名关闭</sub>  
 331100 <b>[丽水市](http://www.lishui.gov.cn "丽水市人民政府")</b>⠀0578	　[人大](http://rd.lishui.gov.cn)　[司法局](http://sfj.lishui.gov.cn)  - -　[公安局](http://lsga.lishui.gov.cn) [🛂](https://weibo.com/2737747192#丽水公安) 浙K⠀[⚔️](http://lsjc.gov.cn)⠀[⚖️](http://www.zjlscourt.com)　	[纪委监委](http://jw.lishui.gov.cn) <sub>[审查调查](http://jw.lishui.gov.cn/col/col1229397697/)</sub>　[平安丽水](http://www.pals.gov.cn)　<sub>[法学会](http://www.pals.gov.cn/newlsfx/)</sub>  
 
-<h3 id="34">34 <a title="安徽省人民政府" href="https://www.ah.gov.cn">安徽</a>　皖　<sub>　<a href="qianxian-gjf#34" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="34">34 <a title="安徽省人民政府" href="https://www.ah.gov.cn">安徽</a> √⠀皖　<sub>　<a href="qianxian-gjf#34" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 安徽人大：[本届大会](http://www.ahrd.gov.cn/web/ztrmdbhy/index.jsp?strWebsiteId=4b34463a311f444aad7ffd7fa385b587)　代表名单　<sub>[地方法规](http://www.ahrd.gov.cn/list.jsp?strColId=96efd7a1c2394841b05eca98d0b98862&)</sub>　⚔️[人民检察院](http://www.ah.jcy.gov.cn)　⚖️[高级人民法院](http://ahfy.ahcourt.gov.cn)　👥[省政协](http://www.ahzx.gov.cn)　[安徽长安网](http://www.ahcaw.com)⠀[<i>法学会</i>](http://www.ahfxh.org.cn)	  
 纪委监委：[巡视巡察](http://www.ahjjjc.gov.cn/ahxs)　[审查调查](http://www.ahjjjc.gov.cn/jdpg)　<sub>wx：安徽纪检监察</sub>　[公安厅](http://Gat.ah.gov.cn) 🛂<sub>[weibo](https://weibo.com/ahpolice#安徽公安在线)</sub>　[法律服务站](http://ah.12348.gov.cn)　[监狱管理局](http://jyj.ah.gov.cn)　[省级药监局](http://mpa.ah.gov.cn)　[审计厅](https://sjt.ah.gov.cn)
 
@@ -296,7 +296,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 341700 <b>[池州市](http://www.chizhou.gov.cn "池州市人民政府")</b>⠀0566	　[人大](http://www.chzrd.gov.cn)　[司法局](https://sfj.chizhou.gov.cn)  <sub>[律协](http://www.czlawyer.com.cn/)</sub>　[公安局](http://gaj.xuancheng.gov.cn) [🛂](https://weibo.com/2482810680#池州公安在线) 皖R⠀[⚔️](http://www.chizhou.jcy.gov.cn)⠀[⚖️](http://ahczzy.ahcourt.gov.cn)　	[纪委监委](http://www.czjjjcw.gov.cn) <sub>[审查调查](http://www.czjjjcw.gov.cn/News/showList/6521/page_1.html)</sub>　[池州长安网](http://www.czcaw.gov.cn)  
 341800 <b>[宣城市](http://www.xuancheng.gov.cn "宣城市人民政府")</b>⠀0563	　[人大](http://rd.xuancheng.gov.cn)　[司法局](https://sfj.xuancheng.gov.cn)  <sub>[律协](http://www.xclslawyer.cn/)</sub>　[公安局](http://gaj.xuancheng.gov.cn) [🛂](https://weibo.com/3039827240#宣城公安在线) 皖P⠀[⚔️](http://www.xuancheng.jcy.gov.cn)⠀[⚖️](http://ahxczy.ahcourt.gov.cn)　	[纪委监委](http://www.xcjjjc.gov.cn) <sub>[审查调查](http://www.xcjjjc.gov.cn/News/showList/44510/page_1.html)</sub>　[宣城长安网](http://www.xccaw.gov.cn)  
 
-<h3 id="35">35 <a title="福建省人民政府" href="https://www.fujian.gov.cn">福建</a>　闽　<sub>　<a href="qianxian-gjf#35" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="35">35 <a title="福建省人民政府" href="https://www.fujian.gov.cn">福建</a> √⠀闽　<sub>　<a href="qianxian-gjf#35" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 福建人大：[本届大会](http://www.fjrd.gov.cn/cn/52)　[代表名单](http://www.fjrd.gov.cn/admin/dbcx.jsp)　<sub>[地方法规](http://www.fjrd.gov.cn/cn/16)</sub>　⚔️[人民检察院](https://www.fj.jcy.gov.cn)　⚖️[高级人民法院](https://fjfy.fjcourt.gov.cn)　👥[省政协](http://www.fjzx.gov.cn)　[福建长安网](http://www.pafj.net)⠀法学会	  
 纪委监委：[巡视巡察](http://www.fjcdi.gov.cn/html/zfgkxsgz)　[审查调查](http://www.fjcdi.gov.cn/html/xxgkajcc)　<sub>wx：福建纪检监察</sub>　[公安厅](https://Gat.fujian.gov.cn) 🛂<sub>[weibo](https://weibo.com/fjga#福建警方)</sub>　[法律服务站](http://fj.12348.gov.cn)　[监狱管理局](http://jyj.sft.fujian.gov.cn)　[省级药监局](https://yjj.scjgj.fujian.gov.cn)　[审计厅](http://sjt.fujian.gov.cn)
 
@@ -310,7 +310,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 350800 <b>[龙岩市](http://www.longyan.gov.cn "龙岩市人民政府")</b>⠀0597	　[人大](http://www.fjlyrd.gov.cn)　[司法局](http://lysfj.longyan.gov.cn)  <sub>[律协](http://www.fjlylx.cn/)</sub>　[公安局](http://ga.longyan.gov.cn) [🛂](https://weibo.com/fjlygaj#龙岩公安) 闽F⠀[⚔️](http://www.longyan.jcy.gov.cn)⠀[⚖️](http://fj.lycourt.gov.cn)　	[纪委监委](http://lysjcj.longyan.gov.cn) <sub>[审查调查](http://lysjcj.longyan.gov.cn/xxgk/scdc/)</sub>　[龙岩长安网](http://longyan.pafj.net)  
 350900 <b>[宁德市](http://www.ningde.gov.cn "宁德市人民政府")</b>⠀0593	　[人大](http://www.ndrd.gov.cn)　[司法局](http://sfj.ningde.gov.cn)  - -　[公安局](http://gaj.ningde.gov.cn) [🛂](https://weibo.com/ndsgaj#宁德公安) 闽J⠀[⚔️](http://www.ningde.jcy.gov.cn)⠀[⚖️](http://ndzy.ndzycourt.gov.cn)　	[纪委监委](http://www.ndjc.gov.cn) <sub>[审查调查](http://www.ndjc.gov.cn/scdc/)</sub>　[宁德长安网](http://www.ndcaw.net)  
 
-<h3 id="36">36 <a title="江西省人民政府" href="http://www.jiangxi.gov.cn">江西</a>　赣　<sub>　<a href="qianxian-gjf#36" title="去县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
+<h3 id="36">36 <a title="江西省人民政府" href="http://www.jiangxi.gov.cn">江西</a> √⠀赣　<sub>　<a href="qianxian-gjf#36" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
 江西人大：[本届大会](https://jxrd.jxnews.com.cn/cwhy/14rd1c/)　[代表名单](https://jxrd.jxnews.com.cn/system/2013/03/01/012308177.shtml)　<sub>[地方法规](https://jxrd.jxnews.com.cnhttps://jxrd.jxnews.com.cn/lfjj/flfg/)</sub>　⚔️[人民检察院](http://www.jx.jcy.gov.cn)　⚖️[高级人民法院](https://jxfy.sxfywcourt.gov.cn)　👥[省政协](https://jxzx.jxnews.com.cn)　[江西政法网](http://www.jxzfw.gov.cn)⠀[<i>法学会</i>](http://www.jxzfw.gov.cn/jxfxh/)	  
 纪委监委：[巡视巡察](http://www.jxdi.gov.cn/xsxc/)　[审查调查](http://www.jxdi.gov.cn/jlsc/)　<sub>wx：廉洁江西</sub>　[公安厅](http://gat.jiangxi.gov.cn) 🛂<sub>[weibo](https://weibo.com/3917583838#江西公安)</sub>　[法律服务站](http://jx.12348.gov.cn)　[监狱管理局](http://www.jxjyglj.gov.cn)　[省级药监局](http://mpa.jiangxi.gov.cn)　[审计厅](http://audit.jiangxi.gov.cn)
 
@@ -460,7 +460,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 460300 <b>[三沙市](http://www.sansha.gov.cn "三沙市人民政府")</b>⠀<b></b>	　——　司法局  - -　公安局 wb 琼C⠀◇⠀△　	纪委监委 - -　政法委　<sub>2022年永兴海岸派出所被授予“全国优秀公安基层单位”</sub>  
 460400 <b>[儋州市](http://www.danzhou.gov.cn "儋州市人民政府")</b>⠀<b></b>	　[人大](http://rd.danzhou.gov.cn)　司法局  - -　[公安局](https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/gaj/) [🛂](https://weibo.com/5777192211#儋州警方) 琼F/EDC⠀◇⠀△　	纪委监委 - -　政法委　<sub>2020年海南省监委消息：儋州公安系统两任局长落马</sub>  
 
-<h3 id="50">50 <a title="重庆市人民政府" href="http://www.cq.gov.cn">重庆</a>　渝　023 ♾　<sub>1997年设立直辖市</sub></h3>	
+<h3 id="50">50 <a title="重庆市人民政府" href="http://www.cq.gov.cn">重庆</a> √⠀渝　023 ♾　<sub>1997年设立直辖市</sub></h3>	
 重庆人大：[本届大会](https://www.ccpc.cq.cn/zhuantilist)　[代表名单](https://www.ccpc.cq.cn/dbs)　<sub>[地方法规](https://www.ccpc.cq.cnhttp://fggs.cqrd.gov.cn/list.html?id=2)</sub>　⚔️[人民检察院](http://www.cq.jcy.gov.cn)　⚖️[高级人民法院](https://cqfy.cqfygzfw.gov.cn)　👥[省政协](http://www.cqzx.gov.cn)　[重庆长安网](https://pacq.gov.cn)⠀[<i>法学会</i>](http://www.cqsfxh.org.cn)	  
 纪委监委：[巡视巡察](http://jjc.cq.gov.cn/html/col293148.html)　[审查调查](http://jjc.cq.gov.cn/html/col282706.htm)　<sub>wx：风正巴渝</sub>　[公安局](http://gaj.cq.gov.cn) 🛂<sub>[weibo](https://weibo.com/cqga110#平安重庆)</sub>　[法律服务站](http://cq.12348.gov.cn)　[监狱管理局](http://sfj.cq.gov.cn/cqsjyglj/)　[省级药监局](http://yaojianju.cq.gov.cn)　[审计厅](http://sjj.cq.gov.cn)
 
@@ -640,7 +640,6 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 654200 <b>[塔城地区](http://www.xjtc.gov.cn "塔城地区人民政府")</b>⠀0901	　——　司法局  - -　公安局 [🛂](https://weibo.com/3223428322#塔城金盾) 新G⠀◇⠀△　	[纪委监委](http://www.xjtc.gov.cn/ztzl/zgtcjljcwyh.htm) - -　政法委  
 654300 <b>[阿勒泰地区](http://www.xjalt.gov.cn "阿勒泰地区人民政府")</b>⠀0906	　——　司法局  - -　公安局 [🛂](https://weibo.com/3282669464#阿勒泰公安在线) 新H⠀◇⠀△　	[纪委监委](http://lzw.xjalt.gov.cn) - -　政法委  
 
-<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 <h3 id="6590">6590 <a title="新疆生产建设兵团" href="http://www.xjbt.gov.cn">新疆兵团</a>　　　<sub>非行政区划的省级单位，不设人大与政协</sub></h3>	
 ⚔️[兵团检察院](http://jcy.xjbt.gov.cn)　⚖️[兵团人民法院](http://btfy.btcourt.gov.cn)(高法)　 　[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　[法学会](http://zfw.xjbt.gov.cn)　	  
@@ -659,30 +658,28 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 659011 <a href="http://www.btnsss.gov.cn/zj.htm" title="2021年设立">新星市／第十三师</a>
 　　第九师　第十一师　第十二师  
 
+<div align="right"><a href="#mulu" target="_self">↑Top</a></div>
+
+<h3>编辑后记</h3>
+
+	20230315	有6个省级人大网站没有给出省内地市人大的连接：山东、湖南、广东、西藏、宁夏、新疆；
+			黑龙江、甘肃两省虽然列出了地市人大，但网址缺失较多。
+
 <h3 id="71" title="710000">71 台湾　+886　<sub>革命尚未成功</sub></h3>
 全国人大[台湾代表名单](http://www.npc.gov.cn/npc/twdbtmd14/tw14.shtml)　　[台灣法學會](http://www.taiwanlawsociety.org.tw)  
 
-710100 <b>台北市</b>　  
+710100 <b>台北市</b>　02♾  
 
-<h3 id="81" title="810000">81 香港√　+852　<sub>1997年回归祖国</sub></h3>
+<h3 id="81" title="810000">81 香港　+852♾　<sub>1997年回归祖国</sub></h3>
 
 全国人大[香港代表名单](http://www.npc.gov.cn/npc/xgdbtmd14/xg14.shtml)　　[香港立法会](https://www.legco.gov.hk/)<sup>🔸</sup>　	[律政司](https://www.doj.gov.hk/)<sup>🔸</sup>　	[香港法院](https://www.judiciary.hk/)<sup>🔸</sup>  
 [香港廉政公署](https://www.icac.org.hk/)<sup>🔸</sup> 　	[香港政府](https://www.gov.hk/)<sup>🔸</sup> 　	[香港警务处](https://www.police.gov.hk/)<sup>🔸</sup> 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
   
 
-<h3 id="82" title="820000">82 澳门√　+853　<sub>1999年回归祖国</sub></h3>
+<h3 id="82" title="820000">82 澳门　+853♾　<sub>1999年回归祖国</sub></h3>
 
 全国人大[澳门代表名单](http://www.npc.gov.cn/npc/amdbtmd14/am14.shtml)　　[澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup>　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup>  
 [澳门廉政公署](https://www.ccac.org.mo/)<sup>🔸</sup> 　[澳门政府](https://www.gov.mo/)<sup>🔸</sup> 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
-
-<div align="right"><a href="#" target="_self">↑Top</a></div>
-
-
-<h3>编辑后记</h3>
-
-	20230315	有6个省级人大网站没有给出省内地市人大的连接：山东、湖南、广东、西藏、宁夏、新疆；
-			黑龙江、甘肃两省虽然列出了地市人大，但缺失较多。
-
 
 <h4>技术标记图例(备用)</h4>
 
@@ -690,11 +687,13 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 +	ⓜ² 优化适配手机浏览器 📱🔹
 +	💬³ 开放网页留言功能 
 
-　　老生常谈，节约您的搜寻时间。如果发现网址错误，请[向大萌指出](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)。
+<div align="right"><a href="#" target="_self">↑Top</a></div>
+
+　　老生常谈，节约您的搜寻时间。欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果发现网址<a href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">错误请指出</a>，谢谢！🙇
 
 ```
 	老生常谈© 2019-2023 大萌　CC 3.0
-	法治政府部门集 v0.9.5 　202304
+	法治政府部门集 v0.9.6 　202305
 	https://laosheng.top/fuwu/fazhi
 	GPL 3.0  可转发-可衍生-相同方式授权
 ```
