@@ -59,6 +59,7 @@
 *	盘搜     	<http://www.pansou.com >
 *	超能搜		<https://www.chaonengsou.com>
 *	Quora		#<https://www.quora.com/about>国外问答社区，比知乎更早
+*	天涯社区搜	<https://search.tianya.cn/>
 
 
 2、云媒速览
@@ -123,6 +124,8 @@
 *	搜房网[业主论坛](https://bbs.fang.com)
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 
+*	[NGA BBS](https://ngabbs.com) 精英玩家俱乐部，艾泽拉斯国家地理/魔兽世界/星际争霸
+
 
 6、体育医疗保健
 ------------
@@ -185,6 +188,7 @@
 *	<a href="https://www.itslaw.com/" title="法律案例检索平台">无讼</a> 	2021年春停止服务，页面显示‘数据库升级中’。
 　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 *	<a href="https://www.zhihu.com/people/xing-qiu-yan-jiu-suo" title="探索极致风光">星球研究所</a>	2021年停止更新
+*	天涯法治论坛	<http://bbs.tianya.cn/list-law-1.shtml>
 
 
 9、IT洁癖
@@ -204,6 +208,7 @@
 *	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国
 *	从境外看ip的网站：<https://iplocation.com>、<https://whatismyipaddress.com/>
 *	$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>、<a href="https://www.boce.com/" title="网站坏了还是我宽带坏了？">Boce</a>
+*	站长之家的ip查询等工具：https://ip.tool.chinaz.com/
 
 
 10、名站导航
@@ -222,6 +227,9 @@
 
 落榜记
 ======
+
+2023/05/21  	#第一段  
+	天涯社区因欠费停机暂时下榜，保留位置，等待重启。
 
 2023/04/10  	#第九段  
 	美国ip查询网站ipaddress.com下榜，发现因该站拒绝向中国地区提供服务；  
@@ -288,7 +296,7 @@
 	老生常谈© 2019-2023 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202304
+	提名网站与落榜记	　202305
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
