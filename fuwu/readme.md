@@ -1,13 +1,14 @@
 有关部门服务网 🕗
 ================
+<base target="_blank">
 
 		为人民服务。	（1944年，毛泽东）
 
 　　这里是民间网站‘老生常谈’的【服务】系列网页，大萌在此收录中国各级党政群的有关部门网址。结构性目录如下：
 
-+	🕰 [中央有关部门集](zhongyang)，政令畅通一盘棋。　人大政协两院、党中央国务院，全国统一咨询和投诉电话。
-	+ 🧧 [央企股票全家福](yangqi)，国计民生胆气足！　国资委监管98家央企的400多支股票（建设中）
-	+ 🥯 [个人理财金融圈](jinrong)（草稿），理财、保险、股票、外汇……中国金融业体系架构
++	🕰 [中央有关部门集](zhongyang){:target="_top"}，政令畅通一盘棋。　人大政协两院、党中央国务院，全国统一咨询和投诉电话。
+	+ 🧧 [央企股票全家福](yangqi){:target="_top"}，国计民生胆气足！　国资委监管98家央企的400多支股票（建设中）
+	+ 🥯 [个人理财金融圈](jinrong){:target="_top"}（草稿），理财、保险、股票、外汇……中国金融业体系架构
 	+ 高等院校三千所：军校、本科、高职……设计中
 
 +	省地市主要部门，全国333个地级市：
@@ -16,10 +17,10 @@
 	+ 🏢 <a href="fazhi" title="省地级法治部门" target="fazhiye">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
 
 +	🛂 <a href="qianxian-gjf" target="gjfye">中国千县公检法</a>，　全国约3000个县区政府网址、公安微博、检察院/法院网址（进行中）
-	+ 📑 [中国千县政府网](qianxian)，那就是我们的家乡：　中国近三千个县区的政府网址，按身份证号排序
-	+ 《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv)】
+	+ 📑 [中国千县政府网](qianxian){:target="_top"}，那就是我们的家乡：　中国近三千个县区的政府网址，按身份证号排序
+	+ 《中国政法区划集》，超大规模集成网页，正在设计，将收录于本站【[法律系列](../falv){:target="_top"}】
 
-+	[联合国有关部门](../ydyl/united)，收录在本站【[一带一路系列](../ydyl/dir)】。
++	[联合国有关部门](../ydyl/united)，收录在本站【[一带一路系列](../ydyl/dir){:target="_top"}】。
 +	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查错»，收录各服务网站的缺少和错误（排队中）
 
 <div align="right">
@@ -29,9 +30,9 @@
 近期热点
 --------
 
-+	[国务院](https://www.Gov.cn){:target="_blank"}　　[联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm){:target="_blank"}
++	[国务院](https://www.Gov.cn)　　[联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm)
 
-+	[新冠居家指引](../c/6-xinguanjujia)文件速查，重点介绍中医预防、治疗与恢复，202301更新
++	[新冠居家指引](../c/6-xinguanjujia){:target="_top"}文件速查，重点介绍中医预防、治疗与恢复，202301更新
 
 
 数据来源
@@ -40,12 +41,12 @@
 　　本站使用官方数据和自筹数据相结合，官方数据保证基础数据的权威性、客观性，自筹数据加强数据的关联性、主观性。行政区划是本站的种子数据，其官方数据来源如下： 
 
 * 民政部网站 /
-  * 民政数据/[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/){:target="_blank"}
+  * 民政数据/[行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/1980/)
     *	[2020年12月底完整数据](http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html)
     *	[2021年的变更数据](http://www.mca.gov.cn/article/sj/xzqh/2021/20211201.html)
-  * 政务服务/查询服务/《[全国行政区划图](http://xzqh.mca.gov.cn/map){:target="_blank"}》
+  * 政务服务/查询服务/《[全国行政区划图](http://xzqh.mca.gov.cn/map)》
 
-* 国务院网站/政策/[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/){:target="_blank"}
+* 国务院网站/政策/[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)
 
 
 行政区划介绍
@@ -87,17 +88,17 @@
 延申阅读
 --------
 
-*	自然资源部 <a title="国家地理信息公共服务平台，另有传统版" href="https://map.tianditu.gov.cn" target="_blank">天地图</a>高清版%
+*	自然资源部 <a title="国家地理信息公共服务平台，另有传统版" href="https://map.tianditu.gov.cn">天地图</a>高清版%
 
 *	《中国地名大会》[第一季](http://tv.cctv.com/special/zgdmdh/)、[第二季](https://tv.cctv.com/2021/01/19/VIDAzHOc3JMqJJ7ASz0iU0Ks210119.shtml)  
 　　《中国地名大会》是中央电视台原创的‘中国大会’系列节目之一，在CCTV-4中文国际(亚洲)频道首播，已经完成第二季。从2013年《中国汉字听写大会》开始，央视开始了一系列的自主原创大型文化季播节目，陆续推出：《中国谜语大会》《中国成语大会》《中国诗词大会》《中国国宝大会》，都取得了非常好的收视成绩，正在进行的还有《中国考古大会》、《[2022中国诗词大会](https://tv.cctv.com/special/2022zgscdh)》。
 
-*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788){:target="_blank"} （感谢网友dancerinmaya推荐）
+*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788) （感谢网友dancerinmaya推荐）
 
 *	JSON格式的行政区划数据：[路人甲](https://passer-by.com/data_location/)的github项目
 
 
-　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
+　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author" target="_top">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈© 2019-2023 大萌	　知识共享许可
