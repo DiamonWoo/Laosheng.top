@@ -1,22 +1,22 @@
 一带一路民间站 💃
 =================
-大萌	2022-2023
+大萌	2022-2023	<base target="_blank">
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
 一带一路民间站，山不转啊水来转 🎵
 
-+  /ydyl/index　🌞 [一带一路云媒体](index){:target="_blank"}　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
++  /ydyl/index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
 
-+  /ydyl/nations　🗺 [世界国别速查表](nations)，联合国会员国列表、ISO代码、电信区号、货币汇率查询，各国驻华使馆、政府官网……新上线！
++  /ydyl/nations　🗺 [世界国别速查表](nations){:target="_top"}，联合国会员国列表、ISO代码、电信区号、货币汇率查询，各国驻华使馆、政府官网……新上线！
 
 +  /ydyl/united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。建设中……
 
-+  /ydyl/[jiaoyisuo](jiaoyisuo) 💱 全球金融交易所　Globe Finance（Beta）
++  /ydyl/[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta）
 
 +  ⭕ 人类命运共同体……（规划中）　
    + 国际大赛与荣誉　——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔……
-   + ‘[人类命运共同体](union_of_human_fate)’有更简洁的翻译吗？
+   + ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
 <div align="right">
 	⏩ 老生常谈
@@ -25,10 +25,12 @@
 
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
-<!-- word-break:keep-all; -->
+<!-- word-break:keep-all; overflow:scroll; -->
 <textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
-margin-left:2%;  width:90%; overflow:scroll;  ">
+margin-left:2%;  width:90%; overflow:auto; font-size: x-small; ">
 
+2023-05-24	李强同来京的俄罗斯总理米舒斯京举行会谈。
+2023-05-	18日晚，习近平和夫人在西安市大唐芙蓉园为出席中国—中亚峰会的元首夫妇举行欢迎仪式，哈萨克斯坦总统托卡耶夫、吉尔吉斯斯坦总统扎帕罗夫和夫人、塔吉克斯坦总统拉赫蒙、土库曼斯坦总统别尔德穆哈梅多夫、乌兹别克斯坦总统米尔济约耶夫和夫人，19日，中国-中亚峰会发表西安宣言。
 2023-04-26	习近平同乌克兰总统泽连斯基通电话。
 2023-04-19	加蓬总统邦戈应邀来华访问，中加发表关于建立全面战略合作伙伴关系的联合声明。
 2023-04-14	巴西总统卢拉应邀来华访问，中巴发表关于深化全面战略伙伴关系的联合声明。
@@ -67,35 +69,34 @@ margin-left:2%;  width:90%; overflow:scroll;  ">
 一带一路官方网址 B&R from China Web
 ----------------------------------
 
-　　<a target="_blank" title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
-<a target="_blank" title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
-<a target="_blank" href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
-<a target="_blank" title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交部</a>
-（<a target="_blank" title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
-<a target="_blank" title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
-<a target="_blank" title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
-（<a target="_blank" title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a> /
-<a target="_blank" title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>）、
-海关总署（<a target="_blank" title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
+　　<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
+<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
+<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>）🌞　
+<a title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交部</a>
+（<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a> /
+<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>）、
+<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">商务部</a>
+（<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a> /
+<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>）、
+海关总署（<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
 <!-- <a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）-->
 
-　　全球已有 <a target="_blank" title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’；　亚投行<a target="_blank" title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
+　　全球已有 <a target="_blank" title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’；　亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
 
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
-
 <h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
 　　天地图
-<a target="_blank" title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
-<a target="_blank" title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
-d<a target="_blank" title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-<a target="_blank" title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
-d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
-<a target="_blank" href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
-<a target="_blank" title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
-#<a target="_blank" title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
+<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
+<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
+d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
+<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
+d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
+<a href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
+<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
+#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
 #Waze、
-<a target="_blank" title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
+<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
 
 **代理地图**  
 　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
@@ -104,18 +105,18 @@ d<a target="_blank" title="%排斥手机，请用桌面模式浏览" href="https
 
 <h3 id=fanyi>民间翻译网站 🎧 YDYL</h3>
 　　谷歌翻译
-#<a target="_blank" title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
+#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
-<a target="_blank" title="曾经和谷歌联手的金山词霸" href="https://www.iciba.com/fy">爱词霸</a>、
-<a target="_blank" title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a></small>、
-<a target="_blank" title="网址可确定语言种类" href="https://fanyi.baidu.com">百度翻译</a>、
-<a target="_blank" title="看看效果" href="https://cn.bing.com/translator">微软翻译</a>、
-<a target="_blank" title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、<small>
-<a target="_blank" title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>、
-<a target="_blank" title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>、
-%<a target="_blank" title="不兼容Fx古典浏览器" href="http://fanyi.youdao.com">网易有道</a>、
-%<a target="_blank" title="不兼容Fx古典浏览器，提供浏览器插件" href="https://fanyi.caiyunapp.com/">彩云小译</a>、
-<a target="_blank" title="提供本地软件" href="https://dict.eudic.net">欧陆词典</a>
+<a title="曾经和谷歌联手的金山词霸" href="https://www.iciba.com/fy">爱词霸</a>、
+<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a></small>、
+<a title="网址可确定语言种类" href="https://fanyi.baidu.com">百度翻译</a>、
+<a title="看看效果" href="https://cn.bing.com/translator">微软翻译</a>、
+<a title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、<small>
+<a title="欧洲Lingva翻译，Vivaldi浏览器合作伙伴" href="https://lingvaNex.com/demo/">Lingva</a>、
+<a title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>、
+%<a title="不兼容Fx古典浏览器" href="http://fanyi.youdao.com">网易有道</a>、
+%<a title="不兼容Fx古典浏览器，提供浏览器插件" href="https://fanyi.caiyunapp.com/">彩云小译</a>、
+<a title="提供本地软件" href="https://dict.eudic.net">欧陆词典</a>
 </small>
 
 **常用词汇**
@@ -161,13 +162,13 @@ ISO介绍
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 
 
-　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
+　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.5	202305
+	一带一路民间站 v3.0.6	202305
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
