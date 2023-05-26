@@ -1,25 +1,21 @@
 大萌望海楼，找法不用愁
 ====================
-大萌	2019-2022
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="老生常谈" />
-<meta property="og:url" content="https://Laosheng.top/falv/" />
+大萌	2019-2023	<base target="_blank">
 
 		市场经济必然是法治经济———哲欣，2006
 
-【法律】系列网页　找到有用法律  
+Laosheng.top/falv	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在此收录中国法律体系和文本，帮助大家找到有用法律。结构性目录如下：
 
-  + /falv/fahai　☸️ [法海概览](fahai)，中国现行法律体系概览，帮助初学者在茫茫法海找到有用的法律法规。
-  + /falv/duben　📚 法律读本，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
-    + [大萌法律读本](duben) 八部大法
-    + [大萌法律读本2](duben2) 常用法
-  + /falv/[index2](./index2)　现行有效的《中国法律简目》。因必要性下降，项目暂停。
-  + /falv/zhengfa　《中国政法区划集》，行政区划+司法区划+部分经济区划，超大规模集成网页，设计中……
-    + 法治政府有关部门，收录在本站[【服务】系列](../fuwu/bumen)。全国省地市的 立法、司法，执法、普法 的有关部门。
-    + <[中国千县公检法](../fuwu/qianxian-gjf)>　全国约3000个县的公安微博、检察院网址、人民法院网址，制作中……力争做到国内最全。
++	/falv/fahai　☸️ [法海概览](fahai){:target="_top"}，中国现行法律体系概览，帮助初学者在茫茫法海找到有用的法律法规。
++	/falv/duben　📚 法律读本，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
+	+ [大萌法律读本](duben){:target="_top"} 八部大法
+	+ [大萌法律读本2](duben2){:target="_top"} 常用法
++	/falv/[index2](./index2){:target="_top"}　现行有效的《中国法律简目》。因必要性下降，项目暂停。
+
++	《中国政法区划集》，超大规模集成网页，设计中……将收录在本站[【服务】](../fuwu)系列。将收录：行政区划+司法区划+部分经济区划，目前已有‘法门集’和‘公检法’两个基础页面。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】望海楼</a>
 </div>
 
 三大法库
@@ -38,18 +34,6 @@
 　　<small>但是一直有个严谨的小问题，这些电子版的法律文本严格的说，是无效的，当它们的内容与全国人大的《公报》不一致的时候。但是怎么可能不一致呢？有错别字？排版导致歧义？人的正确思想是从天上掉下来的！(翻页)吗？ 法律要求就是这么严格，所以刊登法律文本的正规网页，一般都会署名 某某人编辑（有错误怪他）。2021年2月24日，这个问题得到了很大程度的改善，全国人大常委会牵头组织的《国家法律法规数据库》网站开通了！这个由立法机构自己建设的网站，解决了法律文本来源权威性的问题。（完全解决还需要颁布法律确认这是法定的电子文本）</small>
 
 
-学法云媒体 与 专题导游
---------------------
-
-*	[《人民法院报》](http://rmfyb.chinacourt.org)、 [《检察日报》](http://newspaper.jcrb.com)、[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
-*	央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
-*	中央电视台-[社会与法治频道](https://tv.cctv.com/live/cctv12)
-
-+	“法律面前人人平等”这句话有法律依据吗？
-+	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt)
-*	知识产权的相关法律和有关部门
-
-
 依法治国时间表
 -------------
 
@@ -66,22 +50,43 @@
 -	[市场经济必然是法治经济](http://zjrb.zjol.com.cn/html/2006-05/12/content_95276.htm "时任省委书记习近平发文")——哲欣(习近平)，2006年5月12日《浙江日报》头版“之江新语”专栏。
 
 
-类似项目
---------
+学法云媒体
+---------
+
+*	[《人民法院报》](http://rmfyb.chinacourt.org)、 [《检察日报》](http://newspaper.jcrb.com)、[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
+*	央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
+*	中央电视台-[社会与法治频道](https://tv.cctv.com/live/cctv12)
+
+
+专题导游 与 类似项目
+------------------
+
++	“法律面前人人平等”这句话有法律依据吗？
++	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}
+*	知识产权的相关法律和有关部门
+
 　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
 
 *	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
 *	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
 
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
+　　老生常谈，节约您的搜寻时间。欢迎[提出宝贵意见](https://laosheng.top/c/author)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
 
 
 ```
-	老生常谈© 2019~2022 大萌 创作共用3.0
+	老生常谈© 2019~2023 大萌 知识共享许可
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
 	https://Laosheng.top/falv
-	大萌望海楼	v2.9.9	202212
+	大萌望海楼	v3.0.0	202305
 ```
 
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 📑☸️⚖️💎📕📘📗📙📖📚
