@@ -1,31 +1,31 @@
 有关部门服务网 🕗
 ================
-<base target="_blank">
+大萌	2019-2023	<base target="_blank">
 
 		为人民服务。	（1944年，毛泽东）
 
 Laosheng.top/fuwu	　这里是民间网站‘老生常谈’的【服务】系列网页，大萌在此以[集成网页]形式收录中国各级党政群的有关部门网址。结构性目录如下：
 
-+ ./zhongyang	🕰 [中央有关部门集](zhongyang){:target="_top"}，政令畅通一盘棋。　人大政协两院、党中央国务院，全国统一咨询和投诉电话。
++	./zhongyang	🕰 [中央有关部门集](zhongyang){:target="_top"}，政令畅通一盘棋。　人大政协两院、党中央国务院，全国统一咨询和投诉电话。
 	+ ./yangqi 🧧 [央企股票全家福](yangqi){:target="_top"}，国计民生胆气足！　国资委监管98家央企的400多支股票（建设中）
 	+ ./jinrong 🥯 [个人理财金融圈](jinrong){:target="_top"}（草稿），理财、保险、股票、外汇……中国金融业体系架构
 	+ ……
 
-+ 	省地市主要部门，全国333个地级市：
++	省地市主要部门，全国333个地级市：
 	+ 医疗保障有关部门：卫健委、社保局、中国红十字会……调研中
 	+ 民生环境有关部门：政务服务，住建、城管、环保……调研中
 	+ ./yuanxiao 👨‍🎓 高等院校三千所：军校、本科、高职、成教。[草稿](yuanxiao){:target="_top"}
-	+ ./zhengfa 🏢 <a href="fazhi" title="省地级法治部门" target="fazhiye">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
+	+ ./zhengfa 🏢 <a href="fazhi" target="fazhiye" title="省地级法治部门">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
 
 +	《中国政法区划集》，超大规模集成网页，正在设计，配合本站【[法律](../falv){:target="_top"}】系列
-	+ ./qianxian 📑 [中国千县政府网](qianxian){:target="_top"}，那就是我们的家乡：中国近三千个县区的政府网址，按身份证号排序，简称‘千县网’。
-	+ ./qianxian-gjf 🛂 <a href="qianxian-gjf" target="gjfye">中国千县公检法</a>，　在千县网基础上增加：公安微博、检察院/法院网址（进行中）
+	+ ./qianxian 📑 [中国千县政府网](qianxian){:target="_top"}，那就是我们的家乡：　中国近三千个县区的政府网址，按身份证号排序，简称‘千县网’。
+	+ ./qianxian-gjf 🛂 <a href="qianxian-gjf" target="gjfye" title="市县级公检法">中国千县公检法</a>，　在千县网基础上增加：公安微博、检察院/法院网址（进行中）
 
-+	[联合国有关部门](../ydyl/united)，收录在本站【[一带一路](../ydyl/dir){:target="_top"}】系列。
++	[联合国有关部门](../ydyl/united)，收录在本站【[一带一路](../ydyl/dir)】系列。
 +	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查重»，收录服务网站中缺少或重复的内容（排队中）
 
 <div align="right">
-⏩<a href="https://Laosheng.top" target="_top">老生常谈</a>/【有关部门】
+⏩<a href="https://Laosheng.top" target="_top">老生常谈</a>/有关部门【服务】网
 </div>
 
 近期热点
@@ -99,7 +99,7 @@ Laosheng.top/fuwu	　这里是民间网站‘老生常谈’的【服务】系�
 *	JSON格式的行政区划数据：[路人甲](https://passer-by.com/data_location/)的github项目
 
 
-　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author" target="_top">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
+　　节约您的搜寻时间，老生常谈。网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author" target="_top">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈© 2019-2023 大萌	　知识共享许可
