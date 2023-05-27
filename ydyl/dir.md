@@ -4,23 +4,24 @@
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
-一带一路民间站，山不转啊水来转 🎵
+Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织与世界各国政府、媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
-+  /ydyl/index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社，按丝绸之路地图排列；　收录习主席发表署名文章的海外报纸55家。
++	./dir　　　　本目录页
++	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社，按丝绸之路排列；收录习主席发表署名文章的海外报纸56家。（默认页）
 
-+  /ydyl/nations　🗺 [世界国别速查表](nations){:target="_top"}，联合国会员国列表、ISO代码、电信区号、货币汇率查询，各国驻华使馆、政府官网……新上线！
++	./nations　🗺 [世界国别速查表](nations){:target="_top"}，联合国会员国列表、ISO代码、电信区号、货币汇率查询，各国驻华使馆、政府官网……新上线！
 
-+  /ydyl/united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。建设中……
++	./united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。（已改版）
 
-+  /ydyl/[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta）
++	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta）
 
-+  ⭕ 人类命运共同体……（规划中）　
-   + 国际大赛与荣誉——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔（准备中）……
-   + ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
++	⭕ 人类命运共同体……（规划中）　
+	+ 国际大赛与荣誉——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔（准备中）……
+	+ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
 <div align="right">
 	⏩ 老生常谈
-/	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
+/	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>民间站
 </div>
 
 一带一路外交动态 Diplomatic Dynamics
@@ -28,6 +29,7 @@
 <!-- word-break:keep-all; overflow:scroll; -->
 <textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
 margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
+2023-05-26	刚果(金)总统齐塞克迪来华进行国事访问，双方提升为全面战略合作伙伴关系。
 2023-05-24	俄罗斯总理米舒斯京来京与李强会谈。
 2023-05-　	18日晚，习近平和夫人在西安大唐芙蓉园欢迎出席中国-中亚峰会的元首夫妇：哈萨克斯坦总统托卡耶夫、吉尔吉斯斯坦总统扎帕罗夫和夫人、塔吉克斯坦总统拉赫蒙、土库曼斯坦总统别尔德穆哈梅多夫、乌兹别克斯坦总统米尔济约耶夫和夫人；19日，中国-中亚峰会发表西安宣言。
 2023-04-26	习近平同乌克兰总统泽连斯基通电话。
@@ -163,10 +165,9 @@ ISO介绍
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
-	老生常谈© 2019~2023 大萌 知识共享许可
-	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
+	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.6	202305
+	一带一路民间站 v3.0.7 202305
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
