@@ -8,14 +8,14 @@ Laosheng.top/falv	　这里是民间网站‘老生常谈’的【法律】系�
 
 +	/falv/fahai　☸️ [法海概览](fahai){:target="_top"}，中国现行法律体系概览，帮助初学者在茫茫法海找到有用的法律法规。
 +	/falv/duben　📚 法律读本，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
-	+ [大萌法律读本](duben){:target="_top"} 八部大法
-	+ [大萌法律读本2](duben2){:target="_top"} 常用法
+	+ [大萌法律读本](duben){:target="_top"} 八部大法：立法、监察、诉讼法、行政、刑法、民法典
+	+ [大萌法律读本2](duben2){:target="_top"} 常用法：治安、传染病、噪声防治……
 +	/falv/[index2](./index2){:target="_top"}　现行有效的《中国法律简目》。因必要性下降，项目暂停。
 
 +	《中国政法区划集》，超大规模集成网页，设计中……将收录在本站[【服务】](../fuwu)系列。将收录：行政区划+司法区划+部分经济区划，目前已有‘法门集’和‘公检法’两个基础页面。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】望海楼</a>
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top" title="大萌望海楼">【法律】</a>系列
 </div>
 
 三大法库
@@ -77,7 +77,7 @@ Laosheng.top/falv	　这里是民间网站‘老生常谈’的【法律】系�
 ```
 	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/falv
-	大萌望海楼	v3.0.0 202305
+	大萌望海楼 v3.0.0 202305
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
