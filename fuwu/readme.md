@@ -4,7 +4,7 @@
 
 		为人民服务。	（1944年，毛泽东）
 
-Laosheng.top/fuwu	　这里是民间网站‘老生常谈’的【服务】系列网页，大萌在此以[集成网页]形式收录中国各级党政群的有关部门网址。结构性目录如下：
+Laosheng.top/fuwu/	　这里是民间网站‘老生常谈’的【服务】系列网页，大萌在此以[集成网页]形式收录中国各级党政群的有关部门网址，帮大家找到有关部门。结构性目录如下：
 
 +	./zhongyang	🕰 [中央有关部门集](zhongyang){:target="_top"}，政令畅通一盘棋。　人大政协两院、党中央国务院，全国统一咨询和投诉电话。
 	+ ./yangqi 🧧 [央企股票全家福](yangqi){:target="_top"}，国计民生胆气足！　国资委监管98家央企的400多支股票（建设中）
@@ -31,7 +31,8 @@ Laosheng.top/fuwu	　这里是民间网站‘老生常谈’的【服务】系�
 近期热点
 --------
 
-+	[国务院](https://www.Gov.cn)　　[联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm)
++	[国务院](https://www.Gov.cn)　　新华社[中央文件](http://www.news.cn/politics/zywj/index.htm)
+<!-- [联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm) -->
 
 +	[新冠居家指引](../c/6-xinguanjujia){:target="_top"}文件速查，重点介绍中医预防、治疗与恢复，202301更新
 
@@ -77,7 +78,7 @@ Laosheng.top/fuwu	　这里是民间网站‘老生常谈’的【服务】系�
 
 部门补遗
 --------
-*	<details open="open">
+*	<details ><!-- open="open" -->
 	<summary>‘武装部’是哪一级部门？</summary>
 	人民武装部是设置在县、乡两级的军事部门，主要负责军队征兵和民兵组织工作。部分企业、学校也设置人武部，比如 [天津师范大学](http://rmwzb.tjnu.edu.cn/bmjj.htm)。</details>
 
@@ -102,10 +103,9 @@ Laosheng.top/fuwu	　这里是民间网站‘老生常谈’的【服务】系�
 　　节约您的搜寻时间，老生常谈。网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author" target="_top">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
-	老生常谈© 2019-2023 大萌	　知识共享许可
-	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
+	老生常谈© 2019-2023 大萌
 	https://Laosheng.top/fuwu
-	有关部门服务网 v1.4.7	　202305
+	有关部门服务网 v1.4.8 202305
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
