@@ -4,7 +4,7 @@
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
-Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织与世界各国政府、媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
+Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
 +	./dir　　　　本目录页
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社，按丝绸之路排列；收录习主席发表署名文章的海外报纸56家。（默认页）
@@ -65,9 +65,7 @@ margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
 
 　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
 
-
-一带一路官方网址 B&R from China Web
-----------------------------------
+<h3>一带一路官方网址 B&R from China Web</h3>
 
 　　<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>：
 <a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>（
@@ -85,7 +83,7 @@ margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
 
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
-<h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
+<h2 id=ditu>一带一路地图网站 🗺 YDYL</h2>
 　　天地图
 <a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
@@ -103,7 +101,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
  	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
-<h3 id=fanyi>民间翻译网站 🎧 YDYL</h3>
+<h2 id=fanyi>民间翻译网站 🎧 YDYL</h2>
 　　谷歌翻译
 #<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <small>
@@ -130,13 +128,15 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 　　电视直播：  
 　　数字报：……
 
-<h4>能翻译网页的浏览器</h4>
+<h3>能翻译网页的浏览器</h3>
+
+　　【网页翻译】是指一种浏览器‘内核级’功能，把网页显示的原始文字替换成机器翻译后的文字。这就像是一瞬间把网页变成了另一个语言的版本，能极大地加快浏览陌生语言网页的速度。
 
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
-* 谷歌 Chrome	曾经是翻译效果最好的浏览器，但202210之后谷歌关闭中国翻译服务，访问困难
+* 谷歌 Chrome	曾经是翻译效果最好的浏览器，支持英文视频实时中文字幕，但202210之后谷歌关闭中国翻译服务，访问困难。  
+	谷歌浏览器<a title="v97 约97MB.exe" href="https://google.cn/chrome/?standalone=1">完整安装包</a>for Win平台
 * 腾讯 QQ浏览器	可翻译英、日、韩三种语言。
-
-　　*微信内置浏览器* 较新版可以翻译多种语言。
+* 微信内置浏览器 较新版可以翻译多种语言。
 
 
 ISO介绍
@@ -167,7 +167,7 @@ ISO介绍
 ```
 	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.7 202305
+	一带一路民间站 v3.0.8 202305
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
