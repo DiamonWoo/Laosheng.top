@@ -174,6 +174,10 @@
 
 　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
 
+　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
+　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>  
+　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家
+
 
 8、财务自求
 ------------
@@ -227,6 +231,10 @@
 
 落榜记
 ======
+
+2023/6/3  	#第七段  
+	古诗词原连接 http://chinagsc.com 失效，换上名气更大的搜韵；
+	
 
 2023/05/21  	#第一段  
 	天涯社区因欠费停机暂时下榜，保留位置，等待重启。
