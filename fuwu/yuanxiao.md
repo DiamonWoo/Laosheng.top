@@ -16,9 +16,9 @@
 
 LSIP进度
 --------
-		v0.3.0 LC = 1887	
+		v0.4.2 LC = 2265	=2240-6+31
 		　设计 LC = 3057　
-		　 完成率 ≈ 　61.7%
+		　 完成率 ≈ 　74.09%
 
 *	202306，已补全普通本科院校网址，余7所学院无法找到有效网址。v0.4.2
 *	202305，已收录全部高校名单3057所，v0.3.0上线。v0.3.6 增补港澳台院校全集180所。
@@ -29,7 +29,7 @@ LSIP进度
 *	2021年5月至7月，十九届中央第七轮巡视对教育部和[31所中管高校](https://www.ccdi.gov.cn/specialn/19zyxsgz/yw19zyxsgz/202104/t20210428_153257.html)（标记❗）党组织开展常规巡视。
 
 
-<h2 id='tixi' title='兼做本页简目'>中国高等院校体系<sup>简目</sup></h2>
+<h2 id='tixi' title='兼做本页简目'>中国高校层次图<sup>简目</sup></h2>
 
 *	[军事院校](#D81){:target="_top"}，44所，其中27所面向普通高考招生（2022年）
 *	普通高等院校， 2759所，其中本科1270所
@@ -58,8 +58,9 @@ LSIP进度
 
 <div align="right" id="D81"><a href="#tixi" target="_top">↑ Top</a></div>
 
+
 军事院校名单
------------
+------------
 　44所（有27所面向普通高考招生，标记⭐）
 
 　 国防大学 	<sub>北京市/西安市/上海市/石家庄</sub> 中国人民解放军国防大学
@@ -107,141 +108,69 @@ LSIP进度
 　6 武警士官学院 	<sub>杭州市/福州市</sub> 
 　7 ⭐武警海警学院 	<sub>宁波市</sub> 有微信公众号
 
-
-普通本科院校统计
----------------
-
-　待统计……（不含港澳台）……
-
-	院校主业	计数	　	　	办学层次　	计数
-
-
-
 <div align="right" id="D1"><a href="#tixi" target="_top">↑ Top</a></div>
 
+
 部属本科院校 🥇
------------
+------------
 　114所，中央部委直属本科院校，计截至2022年5月
 
 　在中央及部委的直属高校中，有31所‘中管高校’，指该校书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》，以下按官方新闻排序。
 
-1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn)</b>	 PKU 北京 <sub>海淀区</sub>	[机构页](http://www.pku.edu.cn/group.html)	[院系页](http://www.pku.edu.cn/department.html)	[招生办](www.pku.edu.cn/recruit.html)	[图书馆](https://www.lib.pku.edu.cn/)	[校园网](http://cc.pku.edu.cn/service.jsp)	<small>[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
-2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn)</b>	 Tsinghua 北京 <sub>海淀区</sub>	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)	[招生办](www.tsinghua.edu.cn/zsjy.htm)	[图书馆](https://lib.tsinghua.edu.cn/)	[校园网](https://www.itc.tsinghua.edu.cn/)	<small>[CERNET](https://www.cernet.edu.cn/)核心机房，[长庚医院](http://www.btch.edu.cn/)</small>  
-3 <sup>教育部</sup>❗ <b>[中国人民大学](http://www.ruc.edu.cn)</b>	 RUC 北京 <sub>海淀区</sub>	[机构页](http://www.ruc.edu.cn/organization)	[院系页](http://www.ruc.edu.cn/department)	[招生办](https://rdzs.ruc.edu.cn/)	[图书馆](http://www.lib.ruc.edu.cn/)	[校园网](https://it.ruc.edu.cn/)	<small>[国家版权贸易基地](http://www.copyrightruc.com/)</small>  
-4 <sup>教育部</sup>❗ <b>[北京师范大学](http://www.bnu.edu.cn)</b>	 BNU 北京 <sub>海淀区</sub>	[机构页](http://www.bnu.edu.cn/zzjg/)	[院系页](http://www.bnu.edu.cn/xbyx/)	[招生办](https://admission.bnu.edu.cn/)	[图书馆](http://www.lib.bnu.edu.cn/)	[校园网](https://info.bnu.edu.cn/)	<small>珠海分院、第三附属中学</small>  
-5 <sup>教育部</sup>❗ <b>[复旦大学](http://www.fudan.edu.cn)</b>	 Fudan 上海 <sub></sub>	[机构页](http://www.fudan.edu.cn/492/list.htm)	[院系页](http://www.fudan.edu.cn/489/list.htm)	--- 	[图书馆](http://www.library.fudan.edu.cn/)	[校园网](https://ecampus.fudan.edu.cn/)	  
-6 <sup>教育部</sup>❗ <b>[上海交通大学](http://www.sjtu.edu.cn)</b>	  上海 <sub></sub>	--- 	--- 	--- 	--- 	--- 	  
-7 <sup>教育部</sup>❗ <b>[西安交通大学](http://www.xjtu.edu.cn)</b>	  陕西 <sub>西安市</sub>	--- 	--- 	--- 	--- 	--- 	  
-8 <sup>中国科学院</sup>❗ <b>[中国科学技术大学](http://www.ustc.edu.cn)</b>	  安徽 <sub>合肥市</sub>	--- 	--- 	--- 	--- 	--- 	  
-9 <sup>教育部</sup>❗ <b>[中国农业大学](http://www.cau.edu.cn)</b>	 CAU 北京 <sub>海淀区</sub>	--- 	[院系页](http://www.cau.edu.cn/xybm/)	[招生办](https://jwzs.cau.edu.cn/)	[图书馆](http://www.lib.cau.edu.cn/)	[校园网](https://io.cau.edu.cn/)	<small>[饲料博物馆](http://www.feedmuseum.com/)、[成都研究院](http://sc.cau.edu.cn/)、[三亚研究院](http://sanya.cau.edu.cn/)</small>  
-10 <sup>工业和信息化部</sup>❗ <b>[北京理工大学](http://bit.edu.cn)</b>	 BIT 北京 <sub>海淀区</sub>	[机构页](http://bit.edu.cn/gbxxgk/xxld_sjb/)	[院系页](http://bit.edu.cn/gbxxgk/gbgljg/)	[招生办](https://admission.bit.edu.cn/)	[图书馆](https://lib.bit.edu.cn/)	[校园网](https://itc.bit.edu.cn/)	<small>[徐特立学院](https://xuteli.bit.edu.cn/)</small>  
-11 <sup>工业和信息化部</sup>❗ <b>[北京航空航天大学](http://www.buaa.edu.cn)</b>	 BUAA 北京 <sub>海淀区</sub>	[机构页](http://www.buaa.edu.cn/jgsz/dzjg_new.htm)	[院系页](http://www.buaa.edu.cn/jgsz/jxkyjg.htm)	[招生办](www.buaa.edu.cn/zsjy1/bkszs.htm)	--- 	--- 	<small>图书馆与网络中心网站不对外开放</small>  
-12 <sup>工业和信息化部</sup>❗ <b>[西北工业大学](http://www.nwpu.edu.cn)</b>	  陕西 <sub>西安市</sub>	--- 	--- 	--- 	--- 	--- 	  
-13 <sup>工业和信息化部</sup>❗ <b>[哈尔滨工业大学](http://www.hit.edu.cn)</b>	 HIT 黑龙江 <sub>哈尔滨市</sub>	[机构页](http://www.hit.edu.cn/11588/list.htm)	[院系页](http://www.hit.edu.cn/11589/list.htm)	[招生办](https://zsb.hit.edu.cn/)	[图书馆](https://lib.hit.edu.cn/)	[校园网](http://ca.hit.edu.cn/)	<small>卓越工程师学院</small>  
-14 <sup>教育部</sup>❗ <b>[浙江大学](http://www.zju.edu.cn)</b>	  浙江 <sub>杭州市</sub>	--- 	--- 	--- 	--- 	--- 	  
-15 <sup>教育部</sup>❗ <b>[南京大学](http://www.nju.edu.cn)</b>	  江苏 <sub>南京市</sub>	--- 	--- 	--- 	--- 	--- 	  
-16 <sup>教育部</sup>❗ <b>[四川大学](http://www.scu.edu.cn)</b>	  四川 <sub>成都市</sub>	--- 	--- 	--- 	--- 	--- 	  
-17 <sup>教育部</sup>❗ <b>[南开大学](https://www.nankai.edu.cn)</b>	  天津 <sub>天津市</sub>	--- 	--- 	--- 	--- 	--- 	  
-18 <sup>教育部</sup>❗ <b>[天津大学](http://www.tju.edu.cn)</b>	 TJU 天津 <sub></sub>	[机构页](http://www.tju.edu.cn/tdgk/jgsz/jgbcs.htm)	[院系页](http://www.tju.edu.cn/tdgk/jgsz/xy_b_.htm)	[招生办](http://zs.tju.edu.cn/)	[图书馆](http://www.lib.tju.edu.cn/)	--- 	<small>北洋大学，[十家医院](http://www.tju.edu.cn/tdgk/jgsz/fsjhzgjyy.htm)</small>  
-19 <sup>教育部</sup>❗ <b>[武汉大学](http://www.whu.edu.cn)</b>	  湖北 <sub>武汉市</sub>	--- 	--- 	--- 	--- 	--- 	  
-20 <sup>教育部</sup>❗ <b>[中山大学](http://www.nsysu.edu.tw/bin/home.php)</b>	  广东 <sub>广州市</sub>	--- 	--- 	--- 	--- 	--- 	  
-21 <sup>教育部</sup>❗ <b>[西北农林科技大学](http://www.nwsuaf.edu.cn)</b>	  陕西 <sub>咸阳市</sub>	--- 	--- 	--- 	--- 	--- 	  
-22 <sup>教育部</sup>❗ <b>[吉林大学](http://www.jlu.edu.cn)</b>	 JLU 吉林 <sub>长春市</sub>	[机构页](http://www.jlu.edu.cn/jgsz/gl_fwyywjg.htm)	[院系页](http://www.jlu.edu.cn/jgsz/yxsz.htm)	[招生办](http://zsb.jlu.edu.cn/)	[图书馆](http://lib.jlu.edu.cn/)	[校园网](https://nic.jlu.edu.cn/)	<small>白求恩医学部、黄大年纪念馆</small>  
-23 <sup>教育部</sup>❗ <b>[华中科技大学](http://www.hust.edu.cn)</b>	  湖北 <sub>武汉市</sub>	--- 	--- 	--- 	--- 	--- 	  
-24 <sup>教育部</sup>❗ <b>[山东大学](http://www.sdu.edu.cn)</b>	  山东 <sub>济南市</sub>	--- 	--- 	--- 	--- 	--- 	  
-25 <sup>教育部</sup>❗ <b>[东南大学](http://www.seu.edu.cn)</b>	  江苏 <sub>南京市</sub>	--- 	--- 	--- 	--- 	--- 	  
-26 <sup>教育部</sup>❗ <b>[厦门大学](http://www.xmu.edu.cn)</b>	  福建 <sub>厦门市</sub>	--- 	--- 	--- 	--- 	--- 	  
-27 <sup>教育部</sup>❗ <b>[同济大学](http://www.tongji.edu.cn)</b>	 Tongji 上海 <sub></sub>	[机构页](http://www.tongji.edu.cn/yxjg111/dzbm.htm)	[院系页](http://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm)	[招生办](https://bkzs.tongji.edu.cn/)	[图书馆](https://www.lib.tongji.edu.cn/)	[校园网](https://nic.tongji.edu.cn/)	  
-28 <sup>教育部</sup>❗ <b>[中南大学](http://www.csu.edu.cn)</b>	  湖南 <sub>长沙市</sub>	--- 	--- 	--- 	--- 	--- 	  
-29 <sup>教育部</sup>❗ <b>[大连理工大学](http://www.dlut.edu.cn)</b>	 DLUT 辽宁 <sub>大连市</sub>	[机构页](http://www.dlut.edu.cn/xxgk/zzjg.htm)	[院系页](http://www.dlut.edu.cn/xbyx/dllszxq.htm)	[招生办](https://zs.dlut.edu.cn/)	[图书馆](http://www.lib.dlut.edu.cn/)	[校园网](https://its.dlut.edu.cn/)	  
-30 <sup>教育部</sup>❗ <b>[重庆大学](https://cqu.edu.cn/)</b>	  重庆 <sub></sub>	--- 	--- 	--- 	--- 	--- 	  
-31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn)</b>	  甘肃 <sub>兰州市</sub>	--- 	--- 	--- 	--- 	--- 	  
+1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn)</b>	 PKU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](http://cc.pku.edu.cn/service.jsp)</small>	⠀<sup>[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</sup>  
+2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn)</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](www.tsinghua.edu.cn/zsjy.htm) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)</small>	⠀<sup>[CERNET](https://www.cernet.edu.cn/)核心机房，[长庚医院](http://www.btch.edu.cn/)</sup>  
+3 <sup>教育部</sup>❗ <b>[中国人民大学](http://www.ruc.edu.cn)</b>	 RUC 北京 <sub>海淀区</sub>⠀	[院系页](http://www.ruc.edu.cn/department)⠀	[机构页](http://www.ruc.edu.cn/organization)⠀<small>	[招生办](https://rdzs.ruc.edu.cn/) /	[图书馆](http://www.lib.ruc.edu.cn/) /	[校园网](https://it.ruc.edu.cn/)</small>	⠀<sup>[国家版权贸易基地](http://www.copyrightruc.com/)</sup>  
+4 <sup>教育部</sup>❗ <b>[北京师范大学](http://www.bnu.edu.cn)</b>	 BNU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.bnu.edu.cn/xbyx/)⠀	[机构页](http://www.bnu.edu.cn/zzjg/)⠀<small>	[招生办](https://admission.bnu.edu.cn/) /	[图书馆](http://www.lib.bnu.edu.cn/) /	[校园网](https://info.bnu.edu.cn/)</small>	⠀<sup>珠海分院、第三附属中学</sup>  
+5 <sup>教育部</sup>❗ <b>[复旦大学](http://www.fudan.edu.cn)</b>	 Fudan 上海 <sub></sub>⠀	[院系页](http://www.fudan.edu.cn/489/list.htm)⠀	[机构页](http://www.fudan.edu.cn/492/list.htm)⠀<small>	⠀—⠀	[图书馆](http://www.library.fudan.edu.cn/) /	[校园网](https://ecampus.fudan.edu.cn/)</small>	  
+6 <sup>教育部</sup>❗ <b>[上海交通大学](http://www.sjtu.edu.cn)</b>	 SJTU 上海 <sub>闵行区</sub>⠀	⠀—⠀	⠀—⠀⠀<small>	[招生办](https://zsb.sjtu.edu.cn/) /	[图书馆](https://www.lib.sjtu.edu.cn/) /	[校园网](https://net.sjtu.edu.cn/)</small>	⠀<sup>[Schools](https://en.sjtu.edu.cn/schools)、[教师主页](https://faculty.sjtu.edu.cn/)</sup>  
+7 <sup>教育部</sup>❗ <b>[西安交通大学](http://www.xjtu.edu.cn)</b>	 XJTU 陕西 <sub>西安市</sub>⠀	[院系页](http://www.xjtu.edu.cn/yxsz.htm)⠀	[机构页](http://www.xjtu.edu.cn/zzjg.htm)⠀<small>	[招生办](https://zs.xjtu.edu.cn/) /	[图书馆](http://www.lib.xjtu.edu.cn/) /	[校园网](http://nic.xjtu.edu.cn/)</small>	⠀<sup>CERNET西北中心</sup>  
+8 <sup>中国科学院</sup>❗ <b>[中国科学技术大学](http://www.ustc.edu.cn)</b>	 USTC 安徽 <sub>合肥市</sub>⠀	[院系页](http://www.ustc.edu.cn/yxjs.htm)⠀	[机构页](http://www.ustc.edu.cn/xxgk/gljg.htm)⠀<small>	[招生办](https://zsb.ustc.edu.cn/) /	[图书馆](https://lib.ustc.edu.cn/) /	[校园网](https://ustcnet.ustc.edu.cn/)</small>	⠀<sup>[少年班](https://sgy.ustc.edu.cn/)、科大讯飞、[公共实验室](https://lab.ustc.edu.cn/)</sup>  
+9 <sup>教育部</sup>❗ <b>[中国农业大学](http://www.cau.edu.cn)</b>	 CAU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.cau.edu.cn/xybm/)⠀	⠀—⠀⠀<small>	[招生办](https://jwzs.cau.edu.cn/) /	[图书馆](http://www.lib.cau.edu.cn/) /	[校园网](https://io.cau.edu.cn/)</small>	⠀<sup>[饲料博物馆](http://www.feedmuseum.com/)、[成都研究院](http://sc.cau.edu.cn/)、[三亚研究院](http://sanya.cau.edu.cn/)</sup>  
+10 <sup>工业和信息化部</sup>❗ <b>[北京理工大学](http://bit.edu.cn)</b>	 BIT 北京 <sub>海淀区</sub>⠀	[院系页](http://bit.edu.cn/gbxxgk/gbgljg/)⠀	[机构页](http://bit.edu.cn/gbxxgk/xxld_sjb/)⠀<small>	[招生办](https://admission.bit.edu.cn/) /	[图书馆](https://lib.bit.edu.cn/) /	[校园网](https://itc.bit.edu.cn/)</small>	⠀<sup>[徐特立学院](https://xuteli.bit.edu.cn/)</sup>  
+11 <sup>工业和信息化部</sup>❗ <b>[北京航空航天大学](http://www.buaa.edu.cn)</b>	 BUAA 北京 <sub>海淀区</sub>⠀	[院系页](http://www.buaa.edu.cn/jgsz/jxkyjg.htm)⠀	[机构页](http://www.buaa.edu.cn/jgsz/dzjg_new.htm)⠀<small>	[招生办](www.buaa.edu.cn/zsjy1/bkszs.htm) /	⠀—⠀	⠀—⠀</small>	  
+12 <sup>工业和信息化部</sup>❗ <b>[西北工业大学](http://www.nwpu.edu.cn)</b>	 NWPU 陕西 <sub>西安市</sub>⠀	[院系页](http://www.nwpu.edu.cn/xysz.htm)⠀	[机构页](http://www.nwpu.edu.cn/jgsz.htm)⠀<small>	[招生办](https://zsb.nwpu.edu.cn/) /	[图书馆](https://tushuguan.nwpu.edu.cn/) /	[校园网](https://it.nwpu.edu.cn/)</small>	⠀<sup>航空/航天/航海，为国铸剑！无人机[365所](https://aisheng.nwpu.edu.cn/)</sup>  
+13 <sup>工业和信息化部</sup>❗ <b>[哈尔滨工业大学](http://www.hit.edu.cn)</b>	 HIT 黑龙江 <sub>哈尔滨市</sub>⠀	[院系页](http://www.hit.edu.cn/11589/list.htm)⠀	[机构页](http://www.hit.edu.cn/11588/list.htm)⠀<small>	[招生办](https://zsb.hit.edu.cn/) /	[图书馆](https://lib.hit.edu.cn/) /	[校园网](http://ca.hit.edu.cn/)</small>	⠀<sup>卓越工程师学院</sup>  
+14 <sup>教育部</sup>❗ <b>[浙江大学](http://www.zju.edu.cn)</b>	 ZJU 浙江 <sub>杭州市</sub>⠀	[院系页](http://www.zju.edu.cn/599/list.htm)⠀	[机构页](http://www.zju.edu.cn/594/list.htm)⠀<small>	[招生办](https://zdzsc.zju.edu.cn/) /	[图书馆](https://libweb.zju.edu.cn/) /	[校园网](https://zuits.zju.edu.cn/)</small>	⠀<sup>竺可桢学院、[海宁国际小区](https://www.intl.zju.edu.cn/)、[长三角智慧绿洲](https://yrd.zju.edu.cn/zcfg/list.htm)</sup>  
+15 <sup>教育部</sup>❗ <b>[南京大学](http://www.nju.edu.cn)</b>	 NJU 江苏 <sub>南京市</sub>⠀	[院系页](http://www.nju.edu.cn/yxbm.htm)⠀	[机构页](http://www.nju.edu.cn/yxbm.htm)⠀<small>	[招生办](https://bkzs.nju.edu.cn/) /	[图书馆](http://lib.nju.edu.cn/) /	[校园网](https://itsc.nju.edu.cn/main.htm)</small>	⠀<sup>[陶行知](https://edu.nju.edu.cn/)教师教育学院、[长江产业经济](https://idei.nju.edu.cn/)研究院、霍普金斯[中美研究院](https://hnchome.nju.edu.cn/)</sup>  
+16 <sup>教育部</sup>❗ <b>[四川大学](http://www.scu.edu.cn)</b>	 SCU 四川 <sub>成都市</sub>⠀	[院系页](http://www.scu.edu.cn/zzjg/xysz.htm)⠀	[机构页](http://www.scu.edu.cn/zzjg/jgbc.htm)⠀<small>	[招生办](https://zs.scu.edu.cn/) /	[图书馆](http://lib.scu.edu.cn/) /	[校园网](https://info.scu.edu.cn/)</small>	⠀<sup>江姐纪念馆、[华西医学中心](https://wcums.scu.edu.cn/)、[南亚研究中心](https://ccsas.scu.edu.cn/)</sup>  
+17 <sup>教育部</sup>❗ <b>[南开大学](https://www.nankai.edu.cn)</b>	 nankai 天津 <sub>天津市</sub>⠀	[院系页](http://https://www.nankai.edu.cn/212/list.htm)⠀	[机构页](http://https://www.nankai.edu.cn/214/list.htm)⠀<small>	[招生办](https://zsb.nankai.edu.cn/) /	[图书馆](https://lib.nankai.edu.cn/) /	[校园网](https://xxb.nankai.edu.cn/)</small>	⠀<sup>[陈省身](http://www.cim.nankai.edu.cn/)数学研究所、[APEC研究中心](https://apec.nankai.edu.cn/)</sup>  
+18 <sup>教育部</sup>❗ <b>[天津大学](http://www.tju.edu.cn)</b>	 TJU 天津 <sub></sub>⠀	[院系页](http://www.tju.edu.cn/tdgk/jgsz/xy_b_.htm)⠀	[机构页](http://www.tju.edu.cn/tdgk/jgsz/jgbcs.htm)⠀<small>	[招生办](http://zs.tju.edu.cn/) /	[图书馆](http://www.lib.tju.edu.cn/) /	⠀—⠀</small>	⠀<sup>北洋大学，[十家医院](http://www.tju.edu.cn/tdgk/jgsz/fsjhzgjyy.htm)</sup>  
+19 <sup>教育部</sup>❗ <b>[武汉大学](http://www.whu.edu.cn)</b>	 WHU 湖北 <sub>武汉市</sub>⠀	[院系页](http://www.whu.edu.cn/jgsz/yxsz.htm)⠀	[机构页](http://www.whu.edu.cn/jgsz/znbm.htm)⠀<small>	⠀—⠀	⠀—⠀	[校园网](https://nic.whu.edu.cn/)</small>	⠀<sup>[弘毅学堂](https://hyxt.whu.edu.cn/)</sup>  
+20 <sup>教育部</sup>❗ <b>[中山大学](http://www.sysu.edu.cn)</b>	 SYSU 广东 <sub>广州市</sub>⠀	[院系页](http://www.sysu.edu.cn/yxsz.htm)⠀	[机构页](http://www.sysu.edu.cn/xxg/fwjg.htm)⠀<small>	[招生办](https://admission.sysu.edu.cn/) /	[图书馆](https://library.sysu.edu.cn/) /	[校园网](https://inc.sysu.edu.cn/)</small>	⠀<sup>[附属第七医院](http://www.sysush.com/)（深圳）、[孙逸仙](http://www.gzsys.org.cn/)纪念医院</sup>  
+21 <sup>教育部</sup>❗ <b>[西北农林科技大学](http://www.nwsuaf.edu.cn)</b>	 nwsuaf 陕西 <sub>咸阳市</sub>⠀	[院系页](http://www.nwsuaf.edu.cn/xxsw/)⠀	[机构页](http://www.nwsuaf.edu.cn/xxsw/xzjg/)⠀<small>	[招生办](https://zhshw.nwsuaf.edu.cn/) /	[图书馆](https://lib.nwafu.edu.cn/) /	[校园网](https://nic.nwafu.edu.cn/)</small>	⠀<sup>[秦岭研究院](https://qinling.nwafu.edu.cn/)、中国[旱区节水农业研究院](https://wsa.nwafu.edu.cn/)</sup>  
+22 <sup>教育部</sup>❗ <b>[吉林大学](http://www.jlu.edu.cn)</b>	 JLU 吉林 <sub>长春市</sub>⠀	[院系页](http://www.jlu.edu.cn/jgsz/yxsz.htm)⠀	[机构页](http://www.jlu.edu.cn/jgsz/gl_fwyywjg.htm)⠀<small>	[招生办](http://zsb.jlu.edu.cn/) /	[图书馆](http://lib.jlu.edu.cn/) /	[校园网](https://nic.jlu.edu.cn/)</small>	⠀<sup>白求恩医学部、黄大年纪念馆</sup>  
+23 <sup>教育部</sup>❗ <b>[华中科技大学](http://www.hust.edu.cn)</b>	 HUST 湖北 <sub>武汉市</sub>⠀	[院系页](http://www.hust.edu.cn/yxsz.htm)⠀	[机构页](http://www.hust.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zsb.hust.edu.cn/) /	[图书馆](http://www.lib.hust.edu.cn/) /	[校园网](http://ncc.hust.edu.cn/)</small>	⠀<sup>[同济医学院](http://www.tjmu.edu.cn/yxyxg/fsyy.htm)/金银潭医院</sup>  
+24 <sup>教育部</sup>❗ <b>[山东大学](http://www.sdu.edu.cn)</b>	 SDU 山东 <sub>济南市</sub>⠀	[院系页](http://www.sdu.edu.cn/jgsz/xysz.htm)⠀	[机构页](http://www.sdu.edu.cn/jgsz/glfw.htm)⠀<small>	[招生办](http://www.bkzs.sdu.edu.cn/) /	[图书馆](https://library.sdu.edu.cn/) /	[校园网](https://www.nc.sdu.edu.cn/)</small>	⠀<sup>[齐鲁医学院](https://www.qlyxb.sdu.edu.cn/xwzsy/xygk/zzjg.htm)、[科研网站群](https://www.sdu.edu.cn/jgsz/kyjg.htm)</sup>  
+25 <sup>教育部</sup>❗ <b>[东南大学](http://www.seu.edu.cn)</b>	 SEU 江苏 <sub>南京市</sub>⠀	[院系页](http://www.seu.edu.cn/28438/list.htm)⠀	[机构页](http://www.seu.edu.cn/28447/list.htm)⠀<small>	[招生办](https://zsb.seu.edu.cn/) /	[图书馆](http://www.lib.seu.edu.cn/) /	[校园网](https://nic.seu.edu.cn/)</small>	⠀<sup>首页要求浏览器版本较高</sup>  
+26 <sup>教育部</sup>❗ <b>[厦门大学](http://www.xmu.edu.cn)</b>	 XMU 福建 <sub>厦门市</sub>⠀	[院系页](http://www.xmu.edu.cn/xbyx/rwyysxb.htm)⠀	[机构页](http://www.xmu.edu.cn/sdgl/zzjg.htm)⠀<small>	[招生办](https://zs.xmu.edu.cn/) /	[图书馆](https://library.xmu.edu.cn/) /	[校园网](https://net.xmu.edu.cn/)</small>	⠀<sup>[国际合作交流](https://ice.xmu.edu.cn/)</sup>  
+27 <sup>教育部</sup>❗ <b>[同济大学](http://www.tongji.edu.cn)</b>	 Tongji 上海 <sub></sub>⠀	[院系页](http://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm)⠀	[机构页](http://www.tongji.edu.cn/yxjg111/dzbm.htm)⠀<small>	[招生办](https://bkzs.tongji.edu.cn/) /	[图书馆](https://www.lib.tongji.edu.cn/) /	[校园网](https://nic.tongji.edu.cn/)</small>	  
+28 <sup>教育部</sup>❗ <b>[中南大学](http://www.csu.edu.cn)</b>	 CSU 湖南 <sub>长沙市</sub>⠀	[院系页](http://www.csu.edu.cn/xyxk1/ejxy.htm)⠀	[机构页](http://www.csu.edu.cn/zjzn/jgsz.htm)⠀<small>	[招生办](https://zhaosheng.csu.edu.cn/) /	[图书馆](https://lib.csu.edu.cn/) /	[校园网](https://nic.csu.edu.cn/)</small>	⠀<sup>[湘雅医学院](https://xysm.csu.edu.cn/xygk/xyjj1.htm)</sup>  
+29 <sup>教育部</sup>❗ <b>[大连理工大学](http://www.dlut.edu.cn)</b>	 DLUT 辽宁 <sub>大连市</sub>⠀	[院系页](http://www.dlut.edu.cn/xbyx/dllszxq.htm)⠀	[机构页](http://www.dlut.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zs.dlut.edu.cn/) /	[图书馆](http://www.lib.dlut.edu.cn/) /	[校园网](https://its.dlut.edu.cn/)</small>	  
+30 <sup>教育部</sup>❗ <b>[重庆大学](http://cqu.edu.cn)</b>	 CQU 重庆 <sub>沙坪坝区</sub>⠀	[院系页](http://cqu.edu.cn/Channel/CquTeachingUnit/1/index.html)⠀	[机构页](http://cqu.edu.cn/Channel/CquManageUnit/1/index.html)⠀<small>	[招生办](https://zhaosheng.cqu.edu.cn/) /	⠀—⠀	[校园网](http://net.cqu.edu.cn/)</small>	  
+31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn)</b>	 LZU 甘肃 <sub>兰州市</sub>⠀	[院系页](http://www.lzu.edu.cn/static/jxdw/)⠀	[机构页](http://www.lzu.edu.cn/static/glfw/)⠀<small>	[招生办](https://zsb.lzu.edu.cn/) /	[图书馆](https://lib.lzu.edu.cn/) /	[校园网](https://its.lzu.edu.cn/)</small>	⠀<sup>[机构知识库](https://ir.lzu.edu.cn/community-list)</sup>  
 
-　其余83所部委直属本科高校，按行政区划排序：
+　其余83所部委直属本科高校（不含中管高校），按行政区划排序：
 
-<sup>教育部</sup>❕ <b>[北京交通大学](http://www.njtu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[北京科技大学](http://www.ustb.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[北京化工大学](http://www.buct.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[北京邮电大学](http://www.bupt.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>中央办公厅</sup>❕ <b>[北京电子科技学院](http://www.besti.edu.cn)</b>	 北京 <sub>丰台区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[北京林业大学](http://www.bjfu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>国家卫健委</sup>❕ <b>[北京协和医学院](http://www.cams.ac.cn)</b>	 北京 <sub>东城区</sub>	--- 	--- 	--- 	<small>清华大学医学部</small>　
-<sup>教育部</sup>❕ <b>[北京中医药大学](http://www.bucm.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[北京外国语大学](http://www.bfsu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[北京语言大学](http://www.blcu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国传媒大学](http://www.cuc.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中央财经大学](http://www.cufe.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[对外经济贸易大学](http://www.uibe.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>应急管理部</sup>❕ <b>[中国消防救援学院](https://www.cfri.edu.cn/)</b>	 北京 <sub>昌平区</sub>	--- 	--- 	--- 	　
-<sup>外交部</sup>❕ <b>[外交学院](http://www.cfau.edu.cn)</b>	 北京 <sub>西城区</sub>	--- 	--- 	--- 	　
-<sup>公安部</sup>❕ <b>[中国人民公安大学](http://www.cppsu.edu.cn)</b>	 北京 <sub>西城区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[国际关系学院](http://www.uir.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>国家体育总局</sup>❕ <b>[北京体育大学](http://www.bsu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中央音乐学院](http://www.ccom.edu.cn)</b>	 北京 <sub>西城区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中央美术学院](http://www.cafa.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中央戏剧学院](http://www.chntheatre.edu.cn)</b>	 北京 <sub>东城区/昌平区</sub>	--- 	--- 	--- 	　
-<sup>国家民委</sup>❕ <b>[中央民族大学](http://www.muc.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	<small>国家民族事务委员会</small>　
-<sup>教育部</sup>❕ <b>[中国政法大学](http://www.cupl.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[华北电力大学](http://www.ncepu.edu.cn)</b>	 北京 <sub>昌平区</sub>	--- 	--- 	--- 	　
-<sup>中华妇女联合会</sup>❕ <b>[中华女子学院](http://www.cwu.edu.cn)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国矿业大学（北京）](https://www.cumtb.edu.cn/)</b>	 北京 <sub>海淀/昌平</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国石油大学（北京）](https://www.cup.edu.cn/)</b>	 北京 <sub>海淀/昌平</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国地质大学（北京）](https://www.cugb.edu.cn/)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>共青团中央</sup>❕ <b>[中国青年政治学院](http://www.cyu.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>中华全国总工会</sup>❕ <b>[中国劳动关系学院](http://www.ciir.edu.cn)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>中国科学院</sup>❕ <b>[中国科学院大学](https://www.ucas.ac.cn/)</b>	 北京 <sub>海淀区</sub>	--- 	--- 	--- 	　
-<sup>中国社会科学院</sup>❕ <b>[中国社会科学院大学](https://www.ucass.edu.cn/)</b>	 北京 <sub>朝阳区</sub>	--- 	--- 	--- 	　
-<sup>交通部/民航局</sup>❕ <b>[中国民航大学](https://www.cauc.edu.cn)</b>	 天津 <sub></sub>	--- 	--- 	--- 	<small>交通运输部（中国民用航空局）</small>　
-<sup>应急管理部</sup>❕ <b>[华北科技学院](http://www.ncist.edu.cn)</b>	 河北 <sub>廊坊市</sub>	--- 	--- 	--- 	　
-<sup>公安部</sup>❕ <b>[中国人民警察大学](https://www.cppu.edu.cn/)</b>	 河北 <sub>廊坊市</sub>	--- 	--- 	--- 	　
-<sup>中国地震局</sup>❕ <b>[防灾科技学院](http://www.fzxy.edu.cn)</b>	 河北 <sub>廊坊市</sub>	--- 	--- 	--- 	　
-<sup>司法部</sup>❕ <b>[中央司法警官学院](http://www.cicp.edu.cn)</b>	 河北 <sub>保定市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[东北大学](http://www.neu.edu.cn)</b>	 辽宁 <sub>沈阳市</sub>	--- 	--- 	--- 	　
-<sup>交通部</sup>❕ <b>[大连海事大学](http://www.dlmu.edu.cn)</b>	 辽宁 <sub>大连市</sub>	--- 	--- 	--- 	<small>交通运输部</small>　
-<sup>公安部</sup>❕ <b>[中国刑事警察学院](http://www.ccpc.edu.cn)</b>	 辽宁 <sub>沈阳市</sub>	--- 	--- 	--- 	　
-<sup>国家民委</sup>❕ <b>[大连民族大学](https://new.dlnu.edu.cn/)</b>	 辽宁 <sub>大连市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[东北师范大学](http://www.nenu.edu.cn)</b>	 吉林 <sub>长春市</sub>	--- 	--- 	--- 	　
-<sup>工业和信息化部</sup>❕ <b>[哈尔滨工程大学](http://www.hrbeu.edu.cn)</b>	 黑龙江 <sub>哈尔滨市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[东北林业大学](http://www.nefu.edu.cn)</b>	 黑龙江 <sub>哈尔滨市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[华东理工大学](http://www.ecust.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[东华大学](http://www.dhu.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[华东师范大学](http://www.ecnu.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[上海外国语大学](http://www.shisu.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[上海财经大学](http://www.shufe.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	　
-<sup>海关总署</sup>❕ <b>[上海海关学院](http://www.shcc.edu.cn)</b>	 上海 <sub></sub>	--- 	--- 	--- 	<small>旧域名 shanghai_edu.customs.gov.cn</small>　
-<sup>工业和信息化部</sup>❕ <b>[南京航空航天大学](http://www.nuaa.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 	　
-<sup>工业和信息化部</sup>❕ <b>[南京理工大学](http://www.njust.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国矿业大学](http://www.cumt.edu.cn)</b>	 江苏 <sub>徐州市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[河海大学](http://www.hhu.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[江南大学](http://www.sytu.edu.cn)</b>	 江苏 <sub>无锡市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[南京农业大学](http://www.njau.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国药科大学](http://www.cpu.edu.cn)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 	　
-<sup>公安部</sup>❕ <b>[南京森林警察学院](http://www.forestpolice.net)</b>	 江苏 <sub>南京市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[合肥工业大学](http://www.hfut.edu.cn)</b>	 安徽 <sub>合肥市</sub>	--- 	--- 	--- 	　
-<sup>中央统战部</sup>❕ <b>[华侨大学](http://www.hqu.edu.cn)</b>	 福建 <sub>泉州市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国海洋大学](http://www.ouc.edu.cn)</b>	 山东 <sub>青岛市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国石油大学（华东）](https://www.upc.edu.cn/)</b>	 山东 <sub>青岛市</sub>	--- 	--- 	--- 	　
-<sup>公安部</sup>❕ <b>[铁道警察学院](http://www.rpc.edu.cn)</b>	 河南 <sub>郑州市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中国地质大学（武汉）](https://www.cug.edu.cn/)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[武汉理工大学](http://www.whut.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[华中农业大学](http://www.hzau.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[华中师范大学](http://www.ccnu.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[中南财经政法大学](http://www.znufe.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 	　
-<sup>国家民委</sup>❕ <b>[中南民族大学](http://www.scuec.edu.cn)</b>	 湖北 <sub>武汉市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[湖南大学](http://www.hnu.cn)</b>	 湖南 <sub>长沙市</sub>	--- 	--- 	--- 	　
-<sup>中央统战部</sup>❕ <b>[暨南大学](http://www.jnu.edu.cn)</b>	 广东 <sub>广州市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[华南理工大学](http://www.scut.edu.cn)</b>	 广东 <sub>广州市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[西南大学](http://www.swu.edu.cn)</b>	 重庆 <sub></sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[西南交通大学](http://www.swjtu.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[电子科技大学](http://www.uestc.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 	　
-<sup>交通部/民航局</sup>❕ <b>[中国民用航空飞行学院](http://www.cafuc.edu.cn)</b>	 四川 <sub>德阳市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[西南财经大学](http://www.swufe.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 	　
-<sup>国家民委</sup>❕ <b>[西南民族大学](http://www.swun.edu.cn)</b>	 四川 <sub>成都市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[西安电子科技大学](http://www.xidian.edu.cn)</b>	 陕西 <sub>西安市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[长安大学](http://www.chd.edu.cn)</b>	 陕西 <sub>西安市</sub>	--- 	--- 	--- 	　
-<sup>教育部</sup>❕ <b>[陕西师范大学](http://www.snnu.edu.cn)</b>	 陕西 <sub>西安市</sub>	--- 	--- 	--- 	　
-<sup>国家民委</sup>❕ <b>[西北民族大学](http://www.xbmu.edu.cn)</b>	 甘肃 <sub>兰州市</sub>	--- 	--- 	--- 	　
-<sup>国家民委</sup>❕ <b>[北方民族大学](http://www.nwsni.edu.cn)</b>	 宁夏 <sub>银川市</sub>	--- 	--- 	--- 	　
+<big>北京</big> (32所)：	⠀<sup>教育部</sup>❕ <b>[北京交通大学](http://www.njtu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[北京科技大学](http://www.ustb.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[北京化工大学](http://www.buct.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[北京邮电大学](http://www.bupt.edu.cn)</b>,⠀<sup>中央办公厅</sup>❕ <b>[北京电子科技学院](http://www.besti.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[北京林业大学](http://www.bjfu.edu.cn)</b>,⠀<sup>国家卫健委</sup>❕ <b>[北京协和医学院](http://www.cams.ac.cn)</b><sup>国家卫生健康委员会</sup>,⠀<sup>教育部</sup>❕ <b>[北京中医药大学](http://www.bucm.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[北京外国语大学](http://www.bfsu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[北京语言大学](http://www.blcu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中国传媒大学](http://www.cuc.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中央财经大学](http://www.cufe.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[对外经济贸易大学](http://www.uibe.edu.cn)</b>,⠀<sup>应急管理部</sup>❕ <b>[中国消防救援学院](https://www.cfri.edu.cn/)</b>,⠀<sup>外交部</sup>❕ <b>[外交学院](http://www.cfau.edu.cn)</b>,⠀<sup>公安部</sup>❕ <b>[中国人民公安大学](http://www.cppsu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[国际关系学院](http://www.uir.cn)</b>,⠀<sup>国家体育总局</sup>❕ <b>[北京体育大学](http://www.bsu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中央音乐学院](http://www.ccom.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中央美术学院](http://www.cafa.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中央戏剧学院](http://www.chntheatre.edu.cn)</b>,⠀<sup>国家民委</sup>❕ <b>[中央民族大学](http://www.muc.edu.cn)</b><sup>国家民族事务委员会</sup>,⠀<sup>教育部</sup>❕ <b>[中国政法大学](http://www.cupl.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[华北电力大学](http://www.ncepu.edu.cn)</b>,⠀<sup>中华妇女联合会</sup>❕ <b>[中华女子学院](http://www.cwu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中国矿业大学（北京）](https://www.cumtb.edu.cn/)</b>,⠀<sup>教育部</sup>❕ <b>[中国石油大学（北京）](https://www.cup.edu.cn/)</b>,⠀<sup>教育部</sup>❕ <b>[中国地质大学（北京）](https://www.cugb.edu.cn/)</b>,⠀<sup>共青团中央</sup>❕ <b>[中国青年政治学院](http://www.cyu.edu.cn)</b>,⠀<sup>中华全国总工会</sup>❕ <b>[中国劳动关系学院](http://www.ciir.edu.cn)</b>,⠀<sup>中国科学院</sup>❕ <b>[中国科学院大学](https://www.ucas.ac.cn/)</b>,⠀<sup>中国社会科学院</sup>❕ <b>[中国社会科学院大学](https://www.ucass.edu.cn/)</b>	  
+<big>天津</big> (1所)：	⠀<sup>交通部/民航局</sup>❕ <b>[中国民航大学](https://www.cauc.edu.cn)</b><sup>交通运输部（中国民用航空局）</sup>	  
+<big>河北</big> (4所)：	⠀<sup>应急管理部</sup>❕ <b>[华北科技学院](http://www.ncist.edu.cn)</b>,⠀<sup>公安部</sup>❕ <b>[中国人民警察大学](https://www.cppu.edu.cn/)</b>,⠀<sup>中国地震局</sup>❕ <b>[防灾科技学院](http://www.fzxy.edu.cn)</b>,⠀<sup>司法部</sup>❕ <b>[中央司法警官学院](http://www.cicp.edu.cn)</b>	  
+<big>辽宁</big> (4所)：	⠀<sup>教育部</sup>❕ <b>[东北大学](http://www.neu.edu.cn)</b>,⠀<sup>交通部</sup>❕ <b>[大连海事大学](http://www.dlmu.edu.cn)</b><sup>交通运输部</sup>,⠀<sup>公安部</sup>❕ <b>[中国刑事警察学院](http://www.ccpc.edu.cn)</b>,⠀<sup>国家民委</sup>❕ <b>[大连民族大学](https://new.dlnu.edu.cn/)</b>	  
+<big>吉林</big> (1所)：	⠀<sup>教育部</sup>❕ <b>[东北师范大学](http://www.nenu.edu.cn)</b>	  
+<big>黑龙江</big> (2所)：	⠀<sup>工业和信息化部</sup>❕ <b>[哈尔滨工程大学](http://www.hrbeu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[东北林业大学](http://www.nefu.edu.cn)</b>	  
+<big>上海</big> (6所)：	⠀<sup>教育部</sup>❕ <b>[华东理工大学](http://www.ecust.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[东华大学](http://www.dhu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[华东师范大学](http://www.ecnu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[上海外国语大学](http://www.shisu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[上海财经大学](http://www.shufe.edu.cn)</b>,⠀<sup>海关总署</sup>❕ <b>[上海海关学院](http://www.shcc.edu.cn)</b>	  
+<big>江苏</big> (8所)：	⠀<sup>工业和信息化部</sup>❕ <b>[南京航空航天大学](http://www.nuaa.edu.cn)</b>,⠀<sup>工业和信息化部</sup>❕ <b>[南京理工大学](http://www.njust.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中国矿业大学](http://www.cumt.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[河海大学](http://www.hhu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[江南大学](http://www.sytu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[南京农业大学](http://www.njau.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中国药科大学](http://www.cpu.edu.cn)</b>,⠀<sup>公安部</sup>❕ <b>[南京森林警察学院](http://www.forestpolice.net)</b>	  
+<big>安徽</big> (1所)：	⠀<sup>教育部</sup>❕ <b>[合肥工业大学](http://www.hfut.edu.cn)</b>	  
+<big>福建</big> (1所)：	⠀<sup>中央统战部</sup>❕ <b>[华侨大学](http://www.hqu.edu.cn)</b>	  
+<big>山东</big> (2所)：	⠀<sup>教育部</sup>❕ <b>[中国海洋大学](http://www.ouc.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中国石油大学（华东）](https://www.upc.edu.cn/)</b>	  
+<big>河南</big> (1所)：	⠀<sup>公安部</sup>❕ <b>[铁道警察学院](http://www.rpc.edu.cn)</b>	  
+<big>湖北</big> (6所)：	⠀<sup>教育部</sup>❕ <b>[中国地质大学（武汉）](https://www.cug.edu.cn/)</b>,⠀<sup>教育部</sup>❕ <b>[武汉理工大学](http://www.whut.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[华中农业大学](http://www.hzau.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[华中师范大学](http://www.ccnu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[中南财经政法大学](http://www.znufe.edu.cn)</b>,⠀<sup>国家民委</sup>❕ <b>[中南民族大学](http://www.scuec.edu.cn)</b>	  
+<big>湖南</big> (1所)：	⠀<sup>教育部</sup>❕ <b>[湖南大学](http://www.hnu.cn)</b>	  
+<big>广东</big> (2所)：	⠀<sup>中央统战部</sup>❕ <b>[暨南大学](http://www.jnu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[华南理工大学](http://www.scut.edu.cn)</b>	  
+<big>重庆</big> (1所)：	⠀<sup>教育部</sup>❕ <b>[西南大学](http://www.swu.edu.cn)</b>	  
+<big>四川</big> (5所)：	⠀<sup>教育部</sup>❕ <b>[西南交通大学](http://www.swjtu.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[电子科技大学](http://www.uestc.edu.cn)</b>,⠀<sup>交通部/民航局</sup>❕ <b>[中国民用航空飞行学院](http://www.cafuc.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[西南财经大学](http://www.swufe.edu.cn)</b>,⠀<sup>国家民委</sup>❕ <b>[西南民族大学](http://www.swun.edu.cn)</b>	  
+<big>陕西</big> (3所)：	⠀<sup>教育部</sup>❕ <b>[西安电子科技大学](http://www.xidian.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[长安大学](http://www.chd.edu.cn)</b>,⠀<sup>教育部</sup>❕ <b>[陕西师范大学](http://www.snnu.edu.cn)</b>	  
+<big>甘肃</big> (1所)：	⠀<sup>国家民委</sup>❕ <b>[西北民族大学](http://www.xbmu.edu.cn)</b>	  
+<big>宁夏</big> (1所)：	⠀<sup>国家民委</sup>❕ <b>[北方民族大学](http://www.nwsni.edu.cn)</b>	  
 
 <div align="right" id="D2"><a href="#tixi" target="_top">↑ Top</a></div>
 
@@ -249,7 +178,7 @@ LSIP进度
 省属本科院校 🥈
 -----------
 
-　739所，省或直辖市主管普通本科院校，不含民办
+　739所，省或直辖市主管普通本科院校，校领导正职为正厅级，不含民办。
 
 <big>北京</big> (22所省属本科)：	　[北京工业大学](http://www.bjut.edu.cn) ,　[北方工业大学](http://www.ncut.edu.cn) ,　[北京工商大学](http://www.btbu.edu.cn) ,　[北京服装学院](http://www.bift.edu.cn) ,　[北京印刷学院](http://www.bigc.edu.cn) ,　[北京建筑大学](https://www.bucea.edu.cn/) ,　[北京石油化工学院](http://www.bipt.edu.cn) ,　[北京农学院](http://www.bac.edu.cn) ,　[首都医科大学](http://www.ccmu.edu.cn) ,　[首都师范大学](http://www.cnu.edu.cn) ,　[首都体育学院](http://www.cipe.net.cn) ,　[北京第二外国语学院](http://www.bisu.edu.cn) ,　[北京物资学院](http://www.bwu.edu.cn) ,　[首都经济贸易大学](http://www.cueb.edu.cn) ,　[中国音乐学院](http://www.ccmusic.edu.cn) ,　[中国戏曲学院](http://www.nacta.edu.cn) <sup>2000年划转北京市，2014年与文旅部共建</sup>,　[北京电影学院](http://www.bfa.edu.cn) ,　[北京舞蹈学院](http://www.bda.edu.cn) ,　[北京信息科技大学](http://www.bistu.edu.cn) ,　[北京联合大学](http://www.buu.edu.cn) ,　[首钢工学院](http://www.sgit.edu.cn) ,　[北京警察学院](http://www.bjpc.edu.cn) 	<br>  
 <big>天津</big> (16所省属本科)：	　[天津科技大学](https://www.tust.edu.cn) ,　[天津工业大学](https://www.tiangong.edu.cn) ,　[天津理工大学](https://www.tjut.edu.cn) ,　[天津农学院](https://www.tjau.edu.cn) ,　[天津医科大学](http://www.tmu.edu.cn) ,　[天津中医药大学](https://www.tjutcm.edu.cn) ,　[天津师范大学](https://www.tjnu.edu.cn) ,　[天津职业技术师范大学](https://www.tute.edu.cn) ,　[天津外国语大学](http://www.tjfsu.edu.cn) ,　[天津商业大学](https://www.tjcu.edu.cn) ,　[天津财经大学](https://www.tjufe.edu.cn) ,　[天津体育学院](http://www.tjus.edu.cn) ,　[天津音乐学院](https://www.tjcm.edu.cn) ,　[天津美术学院](http://www.tjarts.edu.cn) ,　[天津城建大学](https://www.tcu.edu.cn) ,　[天津中德应用技术大学](https://www.tsguas.edu.cn) 	<br>  
@@ -287,7 +216,7 @@ LSIP进度
 
 
 民办本科 🥉
--------
+--------
 
 　417所，民办本科院校均由省教育厅(直辖市的市教委)主管，包含5所中外合作办学。
 
@@ -362,17 +291,7 @@ LSIP进度
 <big>青海</big> (8所专科院校)：	　 [青海卫生职业技术学院](http://www.qhwszy.edu.cn) 4163012562,　 [青海警官职业学院](https://www.qhjyedu.com/) 4163012852,　 青海农牧科技职业学院 4163012972,　 [青海交通职业技术学院](http://www.qhctc.edu.cn) 4163012973,　 [青海建筑职业技术学院](http://www.qhnews.com/bdt/jt/jzxy/) 4163012974,　 西宁城市职业技术学院 4163014519,　 青海高等职业技术学院 4163014520,　 青海柴达木职业技术学院 4163014521	<br>  
 <big>宁夏</big> (12所专科院校)：	　 [宁夏民族职业技术学院](http://www.nxmzy.com) 4164012716,　 [宁夏工业职业学院](http://61.133.209.245/) 4164012837,　 [宁夏职业技术学院](http://www.nxtc.edu.cn) 4164013086,　 [宁夏工商职业技术学院](http://www.nxjm.com) 4164013087,　 [宁夏财经职业技术学院](http://www.nxcy.edu.cn) 4164013088,　 宁夏警官职业学院 4164013089,　 [宁夏建设职业技术学院](http://www.nxjy.edu.cn) 4164013151,　 宁夏葡萄酒与防沙治沙职业技术学院 4164014377,　 宁夏幼儿师范高等专科学校 4164014498,　 宁夏艺术职业学院 4164014522,　 宁夏体育职业学院 4164014624,　 石嘴山工贸职业技术学院 4164014739	<br>  
 <big>新疆</big> (36所专科院校)：	　 [和田师范专科学校](http://www.htszedu.cn) 4165010765,　 [新疆农业职业技术学院](http://www.xjnzy.edu.cn) 4165010995,　 [乌鲁木齐职业大学](http://www.uvu.edu.cn) 4165011565,　 [新疆维吾尔医学专科学校](http://www.xjumc.cn) 4165011818,　 [克拉玛依职业技术学院](http://www.kzjsxy.net) 4165012482,　 [新疆机电职业技术学院](http://www.xjjd.com.cn) 4165012513,　 [新疆轻工职业技术学院](http://www.xjqg.edu.cn) 4165012514,　民办 [新疆能源职业技术学院](http://www.xjnyedu.com) 4165012570,　 [昌吉职业技术学院](http://www.cjpt.cn) 4165012838,　 [伊犁职业技术学院](http://www.ylzyjs.cn) 4165012975,　 [阿克苏职业技术学院](http://www.akszy.com) 4165013093,　 [巴音郭楞职业技术学院](http://www.xjbyxy.cn) 4165013094,　 [新疆建设职业技术学院](http://www.xjjszy.net/) 4165013562,　民办 [新疆现代职业技术学院](http://www.xjxiandai.net/) 4165013726,　 [新疆交通职业技术学院](http://www.xjjtedu.com) 4165013926,　 [新疆石河子职业技术学院](http://www.xjshzzy.com) 4165013956,　 [新疆职业大学](http://www.xjvu.edu.cn) 4165014138,　 新疆体育职业技术学院 4165014416,　 新疆应用职业技术学院 4165014417,　 新疆师范高等专科学校 4165014421,　 新疆铁道职业技术学院 4165014489,　 新疆生产建设兵团兴新职业技术学院 4165014523,　 哈密职业技术学院 4165014524,　民办 新疆科技职业技术学院 4165014525,　 吐鲁番职业技术学院 4165014585,　 博尔塔拉职业技术学院 4165014622,　 和田职业技术学院 4165014652,　 石河子工程职业技术学院 4165014661,　 喀什职业技术学院 4165014677,　 克孜勒苏职业技术学院 4165014678,　民办 新疆科信职业技术学院 4165014679,　 阿勒泰职业技术学院 4165014680,　 塔城职业技术学院 4165014740,　 塔里木职业技术学院 4165014741,　 新疆工业职业技术学院 4265051060,　 铁门关职业技术学院 4165014660	<br>  
-
 </small>
-
-普通专科院校统计
---------------
-
-　待统计……（不含港澳台）……
-
-	院校主业	计数	　	　	办学层次　	计数
-	⚡ 电力	8	🛰	2	本科	公办	1
-	🏭 钢铁	6	🚢	2	专科	民办	1
 
 <div align="right" id="D5"><a href="#tixi" target="_top">↑ Top</a></div>
 
@@ -571,7 +490,6 @@ LSIP进度
 　1293 [崇仁医护管理专科学校](http://www.cjc.edu.tw) 私立		<sup>嘉义县 </sup>
 　3002 [台北市立大学](http://www.uTaipei.edu.tw) 		<sup>台北市 </sup>
 
-
 <div align="right" id="D6"><a href="#tixi" target="_top">↑ Top</a></div>
 
 
@@ -636,6 +554,7 @@ LSIP进度
 
 <div align="right" id="D7"><a href="#tixi" target="_top">↑ Top</a></div>
 
+
 数据来源
 --------
 
@@ -693,12 +612,13 @@ LSIP进度
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
+
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.4.2	202306
+	高等院校三千所	Version 0.4.4	202306
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
