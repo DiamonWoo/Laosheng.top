@@ -13,11 +13,11 @@ Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路�
 
 +	./united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。（已改版）
 
++	./jiaoyihui　💫[交易会与电影节](jiaoyihui)，中国主要国际交易会和博览会，主要国际电影节🎦；国际赛事与奖项（大运会/奥斯卡/诺贝尔）…… 
+
 +	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta）
 
-+	⭕ 人类命运共同体……（规划中）　
-	+ 国际大赛与荣誉——竞争与创造：体育/世界杯、文化/奥斯卡、科技/诺贝尔（准备中）……
-	+ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
++	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
 <div align="right">
 	⏩ 老生常谈
@@ -29,6 +29,7 @@ Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路�
 <!-- word-break:keep-all; overflow:scroll; -->
 <textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
 margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
+2023-06-12	(中美洲)洪都拉斯总统卡斯特罗(女)来华进行国事访问，与习近平会谈，联合声明。
 2023-05-26	刚果(金)总统齐塞克迪来华进行国事访问，双方提升为全面战略合作伙伴关系。
 2023-05-24	俄罗斯总理米舒斯京来京与李强会谈。
 2023-05-　	18日晚，习近平和夫人在西安大唐芙蓉园欢迎出席中国-中亚峰会的元首夫妇：哈萨克斯坦总统托卡耶夫、吉尔吉斯斯坦总统扎帕罗夫和夫人、塔吉克斯坦总统拉赫蒙、土库曼斯坦总统别尔德穆哈梅多夫、乌兹别克斯坦总统米尔济约耶夫和夫人；19日，中国-中亚峰会发表西安宣言。
@@ -167,7 +168,7 @@ ISO介绍
 ```
 	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.8 202305
+	一带一路民间站 v3.0.9 202306
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
