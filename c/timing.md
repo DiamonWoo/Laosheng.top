@@ -201,18 +201,23 @@
 *	<a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a>
 	旧域名已停用 https://www.chuyu.me
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
-*	<https://www.ipip.net/ip.html>
-*	CnBtea， 
-*	v2ex.com	202104被限制地区访问
 *	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>
-*	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
-*	whois官方升级，旧网址：https://internic.net/whois.html
+
+*	CnBtea， 	#v2ex.com	202104被限制地区访问
 *	[看雪论坛](https://bbs.kanxue.com)
-*	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国
+*	whois官方升级，旧网址：https://internic.net/whois.html
+*	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
+*	[ipip](https://www.ipip.net/ip.html)；	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国；
+	[站长之家](https://ip.tool.chinaz.com/)的ip查询等工具；
 *	从境外看ip的网站：<https://iplocation.com>、<https://whatismyipaddress.com/>
-*	$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>、<a href="https://www.boce.com/" title="网站坏了还是我宽带坏了？">Boce</a>
-*	站长之家的ip查询等工具：https://ip.tool.chinaz.com/
+*	$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
+
+*	[ITDog](https://www.itdog.cn/http/) 蜀，[VSping](https://www.vsping.com/) 蜀，
+	[拔测](https://www.boce.com/hijack/) 闽，[帝恩思](https://www.dns.com/wangzhanjiance) 闽，
+	[谛听](https://www.zmonitor.net/) 豫，[爱站](https://www.aizhan.com/) 粤，
+	[17测](http://17ce.com/) 沪，[gtmeTriX](https://gtmetrix.com/) Cloudflare，
+	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
 
 
 10、名站导航
@@ -304,7 +309,7 @@
 	老生常谈© 2019-2023 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202305
+	提名网站与落榜记	　202306
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
