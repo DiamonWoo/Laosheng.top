@@ -59,7 +59,7 @@
 		国家对于从事教育、科学、技术、文学、艺术和其他文化事业的公民的有益于人民的创造性工作，
 		给以鼓励和帮助。
 
-　　请大家依法鼓励，为‘数字中国’贡献力量！(✿◡‿◡)
+　　请大家依法鼓励，为民族复兴贡献力量！(✿◡‿◡)
 
 导游词
 --------
@@ -102,7 +102,6 @@
 
 	老生常谈© 2019~2023 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.7.6 202305
+	https://Laosheng.top	v3.1.6 202306
 
-<a href="https://www.mfwztj.com/" target="_blank"><img src="https://www.mfwztj.com/hit.php?id=ymuvxfn&nd=3&style=5" border="0" alt="免费计数器"></a>
 🎁💎🎅🛍💐🎀🥳☎
