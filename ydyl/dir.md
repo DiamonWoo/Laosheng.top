@@ -13,7 +13,7 @@ Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路�
 
 +	./united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，联合国机关与系统，中国发起的国际组织。（已改版）
 
-+	./jiaoyihui　💫 [交易会与电影节](jiaoyihui)🎞️，中国主要国际交易会和博览会，主要国际电影节🎦；国际赛事与奖项（大运会/奥斯卡/诺贝尔）…… 
++	./jiaoyihui　💫 [交易会与电影节](jiaoyihui)，中国主要国际交易会和博览会，每个月都有的电影节🎞️；国际赛事与奖项：大运会/奥斯卡/诺贝尔…… 
 
 +	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta）
 
@@ -29,6 +29,8 @@ Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路�
 <!-- word-break:keep-all; overflow:scroll; -->
 <textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
 margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
+2023-06-16	习近平在京会见比尔·盖茨(美国比尔及梅琳达·盖茨基金会)。
+2023-06-14	(中东)巴勒斯坦总统阿巴斯来华进行国事访问，与习近平会谈，双方宣布建立战略伙伴关系。
 2023-06-12	(中美洲)洪都拉斯总统卡斯特罗(女)来华进行国事访问，与习近平会谈，双方发表联合声明。
 2023-05-26	刚果(金)总统齐塞克迪来华进行国事访问，双方提升为全面战略合作伙伴关系。
 2023-05-24	俄罗斯总理米舒斯京来京与李强会谈。
@@ -140,10 +142,10 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 * 微信内置浏览器 较新版可以翻译多种语言。
 
 
-ISO介绍
+种子数据：ISO 国别码
 -------
 
-　　ISO的国别代码是本站【一带一路】系列的种子数据，现作介绍如下。
+　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
 
 　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
 
@@ -168,7 +170,7 @@ ISO介绍
 ```
 	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.0.9 202306
+	一带一路民间站 v3.1.0 202306
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -179,4 +181,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃🏠⏩
+☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃🏠⏩🎦
