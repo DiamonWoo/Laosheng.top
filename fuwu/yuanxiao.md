@@ -18,7 +18,7 @@ LSIP进度
 --------
 		　完成LC = 2728　	 V0.6.3
 		　设计LC = 2966　	=27+2759+180-x
-		　完成率 ≥ 　91.9%	实际更高，少数学校没有网站
+		　完成率 ≥ 　91.9%	实际已完成，少数学校没有网站
 
 *	202306，已补全普通本科院校网址，余7所学院疑似关闭网站，v0.4.2。已补充全国专科学校网址，余少量学校网址不明，v0.6.3。
 *	202305，已收录全部高校名单3057所，v0.3.0上线。增补港澳台院校全集180所，v0.3.6。
@@ -44,44 +44,43 @@ LSIP进度
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
 
-<h3 id="mulu">各省高校索引 <sup>及 教育部门官网</sup></h3>
-　
-<a href="#11" target="_top">11-北京</a>⠀<sup>[市教委](http://jw.beijing.gov.cn)</sup>　
-<a href="#12" target="_top">12-天津</a>⠀<sup>[市教委](https://jy.tj.gov.cn)</sup>　
-<a href="#13" target="_top">13-河北</a>⠀<sup>[教育厅](http://www.hee.gov.cn)</sup>　
-<a href="#14" target="_top">14-山西</a>⠀<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>　
-<a href="#15" target="_top">15-内蒙古</a>⠀<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>　
-<a href="#21" target="_top">21-辽宁</a>⠀<sup>[教育厅](https://jyt.ln.gov.cn)</sup>　
-<a href="#22" target="_top">22-吉林</a>⠀<sup>[教育厅](http://jyt.jl.gov.cn)</sup>　
-<a href="#23" target="_top">23-黑龙江</a>⠀<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>　
-<a href="#31" target="_top">31-上海</a>⠀<sup>[市教委](https://edu.sh.gov.cn)</sup>　
-<a href="#32" target="_top">32-江苏</a>⠀<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>　
-<a href="#33" target="_top">33-浙江</a>⠀<sup>[教育厅](http://jyt.zj.gov.cn)</sup>　
-<a href="#34" target="_top">34-安徽</a>⠀<sup>[教育厅](http://jyt.ah.gov.cn)</sup>　
-<a href="#35" target="_top">35-福建</a>⠀<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>　
-<a href="#36" target="_top">36-江西</a>⠀<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>　
-<a href="#37" target="_top">37-山东</a>⠀<sup>[教育厅](http://edu.shandong.gov.cn)</sup>　
-<a href="#41" target="_top">41-河南</a>⠀<sup>[教育厅](http://jyt.henan.gov.cn)</sup>　
-<a href="#42" target="_top">42-湖北</a>⠀<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>　
-<a href="#43" target="_top">43-湖南</a>⠀<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>　
-<a href="#44" target="_top">44-广东</a>⠀<sup>[教育厅](http://edu.gd.gov.cn)</sup>　
-<a href="#45" target="_top">45-广西</a>⠀<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>　
-<a href="#46" target="_top">46-海南</a>⠀<sup>[教育厅](http://edu.hainan.gov.cn)</sup>　
-<a href="#50" target="_top">50-重庆</a>⠀<sup>[市教委](http://jw.cq.gov.cn)</sup>　
-<a href="#51" target="_top">51-四川</a>⠀<sup>[教育厅](http://edu.sc.gov.cn)</sup>　
-<a href="#52" target="_top">52-贵州</a>⠀<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>　
-<a href="#53" target="_top">53-云南</a>⠀<sup>[教育厅](https://jyt.yn.gov.cn)</sup>　
-<a href="#54" target="_top">54-西藏</a>⠀<sup>[教育厅](http://edu.xizang.gov.cn)</sup>　
-<a href="#61" target="_top">61-陕西</a>⠀<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>　
-<a href="#62" target="_top">62-甘肃</a>⠀<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>　
-<a href="#63" target="_top">63-青海</a>⠀<sup>[教育厅](http://jyt.qinghai.gov.cn)</sup>　
-<a href="#64" target="_top">64-宁夏</a>⠀<sup>[教育厅](http://jyt.nx.gov.cn)</sup>　
-<a href="#65" target="_top">65-新疆</a>⠀<sup>[教育厅](http://jyt.xinjiang.gov.cn) /
-	[兵团教育局](http://btjyj.xjbt.gov.cn)</sup>　
-<a href="#D5" target="_top">港澳台高校</a>⠀<sup>[香港教育局](https://www.edb.gov.hk/sc) /
-	[澳门教育及青年发展局](https://www.dsedj.gov.mo) /
-	[台湾教育部门](https://www.edu.tw)</sup>　
+<h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
+
+<a href="#11" target="_top">11-北京</a>	<sup>[招考办](https://www.bjeea.cn)</sup>　
+<a href="#12" target="_top">12-天津</a>	<sup>[招考办](http://www.zhaokao.net)</sup>　
+<a href="#13" target="_top">13-河北</a>	<sup>[招考办](http://www.hebeea.edu.cn)</sup>　
+<a href="#14" target="_top">14-山西</a>	<sup>[招考办](http://www.sxkszx.cn)</sup>　
+<a href="#15" target="_top">15-内蒙古</a>	<sup>[招考办](https://www.nm.zsks.cn)</sup>　
+<a href="#21" target="_top">21-辽宁</a>	<sup>[招考办](https://www.lnzsks.com)</sup>　
+<a href="#22" target="_top">22-吉林</a>	<sup>[招考办](http://www.jleea.edu.cn)</sup>　
+<a href="#23" target="_top">23-黑龙江</a>	<sup>[招考办](https://www.lzk.hl.cn)</sup>　
+<a href="#31" target="_top">31-上海</a>	<sup>[招考办](https://www.shmeea.edu.cn)</sup>　
+<a href="#32" target="_top">32-江苏</a>	<sup>[招考办](https://www.jseea.cn)</sup>　
+<a href="#33" target="_top">33-浙江</a>	<sup>[招考办](https://www.zjzs.net)</sup>　
+<a href="#34" target="_top">34-安徽</a>	<sup>[招考办](https://www.ahzsks.cn)</sup>　
+<a href="#35" target="_top">35-福建</a>	<sup>[招考办](https://www.eeafj.cn)</sup>　
+<a href="#36" target="_top">36-江西</a>	<sup>[招考办](http://www.jxeea.cn)</sup>　
+<a href="#37" target="_top">37-山东</a>	<sup>[招考办](https://www.sdzk.cn)</sup>　
+<a href="#41" target="_top">41-河南</a>	<sup>[招考办](http://www.heao.com.cn)</sup>　
+<a href="#42" target="_top">42-湖北</a>	<sup>[招考办](http://www.hbea.edu.cn)</sup>　
+<a href="#43" target="_top">43-湖南</a>	<sup>[招考办](http://www.hneao.edu.cn)</sup>　
+<a href="#44" target="_top">44-广东</a>	<sup>[招考办](http://eea.gd.gov.cn)</sup>　
+<a href="#45" target="_top">45-广西</a>	<sup>[招考办](http://www.gxeea.cn)</sup>　
+<a href="#46" target="_top">46-海南</a>	<sup>[招考办](http://ea.hainan.gov.cn)</sup>　
+<a href="#50" target="_top">50-重庆</a>	<sup>[招考办](https://www.cqksy.cn)</sup>　
+<a href="#51" target="_top">51-四川</a>	<sup>[招考办](http://www.sceea.cn)</sup>　
+<a href="#52" target="_top">52-贵州</a>	<sup>[招考办](http://zsksy.guizhou.gov.cn)</sup>　
+<a href="#53" target="_top">53-云南</a>	<sup>[招考办](http://www.ynzs.cn)</sup>　
+<a href="#54" target="_top">54-西藏</a>	<sup>[招考办](http://zsks.edu.xizang.gov.cn)</sup>　
+<a href="#61" target="_top">61-陕西</a>	<sup>[招考办](http://www.sneac.com)</sup>　
+<a href="#62" target="_top">62-甘肃</a>	<sup>[招考办](http://www.ganseea.cn)</sup>　
+<a href="#63" target="_top">63-青海</a>	<sup>[招考办](http://www.qhjyks.com)</sup>　
+<a href="#64" target="_top">64-宁夏</a>	<sup>[招考办](http://www.nxjyks.cn)</sup>　
+<a href="#65" target="_top">65-新疆</a>	<sup>[招考办](http://www.xjzk.gov.cn)</sup>　
 各省按身份证号前两位排序　　▼
+
+　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
+　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招生办](https://gaokao.chsi.com.cn/gdwz.do)。
 
 
 <div align="right" id="D81"><a href="#" target="_top">↑ Top</a></div>
@@ -144,8 +143,8 @@ LSIP进度
 
 　在114所中央部委直属的本科院校中有31所‘中管高校’，指该校书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》，以下按官方新闻排序：
 
-1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn)</b>	 PKU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](http://www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](http://cc.pku.edu.cn/service.jsp)	⠀[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
-2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn)</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](http://www.tsinghua.edu.cn/zsjy.htm) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)	⠀[CERNET](https://www.cernet.edu.cn/)核心机房，[长庚医院](http://www.btch.edu.cn/)</small>  
+1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn)</b>	 PKU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](https://www.gotopku.cn/) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](http://cc.pku.edu.cn/service.jsp)	⠀[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
+2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn)</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://join-tsinghua.edu.cn/) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)	⠀[CERNET](https://www.cernet.edu.cn/)核心机房，[长庚医院](http://www.btch.edu.cn/)</small>  
 3 <sup>教育部</sup>❗ <b>[中国人民大学](http://www.ruc.edu.cn)</b>	 RUC 北京 <sub>海淀区</sub>⠀	[院系页](http://www.ruc.edu.cn/department)⠀	[机构页](http://www.ruc.edu.cn/organization)⠀<small>	[招生办](https://rdzs.ruc.edu.cn/) /	[图书馆](http://www.lib.ruc.edu.cn/) /	[校园网](https://it.ruc.edu.cn/)	⠀[国家版权贸易基地](http://www.copyrightruc.com/)</small>  
 4 <sup>教育部</sup>❗ <b>[北京师范大学](http://www.bnu.edu.cn)</b>	 BNU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.bnu.edu.cn/xbyx/)⠀	[机构页](http://www.bnu.edu.cn/zzjg/)⠀<small>	[招生办](https://admission.bnu.edu.cn/) /	[图书馆](http://www.lib.bnu.edu.cn/) /	[校园网](https://info.bnu.edu.cn/)	⠀珠海分院、第三附属中学</small>  
 5 <sup>教育部</sup>❗ <b>[复旦大学](http://www.fudan.edu.cn)</b>	 Fudan 上海 <sub>杨浦区</sub>⠀	[院系页](http://www.fudan.edu.cn/489/list.htm)⠀	[机构页](http://www.fudan.edu.cn/492/list.htm)⠀<small>	[招生办](https://ao.fudan.edu.cn/) /	[图书馆](http://www.library.fudan.edu.cn/) /	[校园网](https://ecampus.fudan.edu.cn/)	⠀[上海医学院](https://shmc.fudan.edu.cn/fsyy/list.htm)/华山医院、[科研站群](https://www.fudan.edu.cn/491/list.htm)</small>  
@@ -513,11 +512,47 @@ LSIP进度
 
 <h3>教育部常用网址</h3>
 
-　教育部 [MOE官网](http://www.moe.gov.cn)：
-	[直属单位](http://www.moe.gov.cn/jyb_zzjg/moe_349/)（国家开放大学/中国教育电视台/中国教育报社……）  
-
+　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
 　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
 	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
+
+　各省教育厅/局：　
+
+11-北京[市教委](http://jw.beijing.gov.cn)　
+12-天津[市教委](https://jy.tj.gov.cn)　
+13-河北[教育厅](http://www.hee.gov.cn)　
+14-山西[教育厅](http://jyt.shanxi.gov.cn)　
+15-内蒙古[教育厅](https://jyt.nmg.gov.cn)　
+21-辽宁[教育厅](https://jyt.ln.gov.cn)　
+22-吉林[教育厅](http://jyt.jl.gov.cn)　
+23-黑龙江[教育厅](http://jyt.hlj.gov.cn)　
+31-上海[市教委](https://edu.sh.gov.cn)　
+32-江苏[教育厅](http://jyt.jiangsu.gov.cn)　
+33-浙江[教育厅](http://jyt.zj.gov.cn)　
+34-安徽[教育厅](http://jyt.ah.gov.cn)　
+35-福建[教育厅](http://jyt.fujian.gov.cn)　
+36-江西[教育厅](http://jyt.jiangxi.gov.cn)　
+37-山东[教育厅](http://edu.shandong.gov.cn)　
+41-河南[教育厅](http://jyt.henan.gov.cn)　
+42-湖北[教育厅](http://jyt.hubei.gov.cn)　
+43-湖南[教育厅](http://jyt.hunan.gov.cn)　
+44-广东[教育厅](http://edu.gd.gov.cn)　
+45-广西[教育厅](http://jyt.gxzf.gov.cn)　
+46-海南[教育厅](http://edu.hainan.gov.cn)　
+50-重庆[市教委](http://jw.cq.gov.cn)　
+51-四川[教育厅](http://edu.sc.gov.cn)　
+52-贵州[教育厅](http://jyt.guizhou.gov.cn)　
+53-云南[教育厅](https://jyt.yn.gov.cn)　
+54-西藏[教育厅](http://edu.xizang.gov.cn)　
+61-陕西[教育厅](http://jyt.shaanxi.gov.cn)　
+62-甘肃[教育厅](http://jyt.gansu.gov.cn)　
+63-青海[教育厅](http://jyt.qinghai.gov.cn)　
+64-宁夏[教育厅](http://jyt.nx.gov.cn)　
+65-新疆[教育厅](http://jyt.xinjiang.gov.cn) /
+	[兵团教育局](http://btjyj.xjbt.gov.cn)　
+71-[台湾教育部门](https://www.edu.tw)　
+81-[香港教育局](https://www.edb.gov.hk/sc)　
+82-[澳门教育及青年发展局](https://www.dsedj.gov.mo)  
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
@@ -528,7 +563,7 @@ LSIP进度
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.6.4	202306
+	高等院校三千所	Version 0.6.5	202306
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
