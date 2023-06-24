@@ -528,7 +528,7 @@ LSIP进度
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.6.2	202306
+	高等院校三千所	Version 0.6.3	202306
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
