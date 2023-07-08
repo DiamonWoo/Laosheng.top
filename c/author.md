@@ -19,7 +19,7 @@
 帮助宣传
 --------
 
-　　我准备了一些宣传语，方便在微信中转发：
+　　我准备了一些宣传语：
 
  * 中国新闻云媒体 ⛅ 党和人民在一起	[LaoSheng.top/fly](https://laosheng.top/fly)
  * 中央外宣云媒体 🔥 全球吃瓜学外语	[LaoSheng.top/fly/waixuan](https://laosheng.top/fly/waixuan)
@@ -33,6 +33,8 @@
  * 老生常谈排行榜 🚩 打开真正互联网	[LaoSheng.top/index2](https://laosheng.top/index2.html)
  * 大萌法律读本，懂法走得更稳 📚 	[LaoSheng.top/falv](https://laosheng.top/falv)
 
+　　选取了几个页面制作<a title='解决低版本微信无法转发问题' href='https://diamonwoo.github.io/wx'>镜像页</a>，方便微信读者转发。
+
 　　我还制作了一些[宣传图](../broad)和[介绍文章](./)，欢迎取用。
 
 
@@ -44,9 +46,10 @@
 　　是不是有啥想法……
 
 
+
 		老生常谈 © 2019-2023 大萌
 		https://laosheng.top/c/author
-		联系作者 v3.0.3	202306
+		联系作者 v3.0.4	202307
 
 回到首页  
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
