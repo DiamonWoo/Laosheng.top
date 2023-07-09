@@ -18,8 +18,7 @@
 --------------
 
 		收录LC≈ 600个
-		设计LC：待定	　由于集合范围未定，本页链接计数目标无法确定。
-		本页正在进行第三次改版，暂未确定收录范围。
+		设计LC：待定	　本页正在进行第三次改版，暂未确定收录范围。
 
 +	2023年4月，收录金融央企27家网站群、全部保险公司名单（237家）。
 +	2022年12月，收录六大国有商业银行、12家全国性股份制商业银行分页网址。
@@ -619,11 +618,11 @@ Insurance 237家，银保监会发布的2022年12月数据
 　[广播科学研究院](http://www.abs.ac.cn)
 　[广播电视规划院](http://www.abp2003.cn)
 　[中广电设计院](http://www.drft.com.cn)
-　[中国爱乐乐团](http://www.cpolive.com)
+　中国爱乐乐团[](http://www.cpolive.com)
 　[广电总局机关服务局](http://www.gdhouqin.com)
-　[广电总局研修学院](http://www.rti.org.cn)
-　[广播影视人才交流中心](http://www.rfthr.com)
-　[中国广播影视出版社](http://www.crtp.com.cn)
+　广电总局研修学院[](http://www.rti.org.cn)
+　广播影视人才交流中心[](http://www.rfthr.com)
+　中国广播影视出版社[](http://www.crtp.com.cn)
 　[中广联合会](http://www.carft.cn)
 　[中广国际总公司](http://www.crtv.com.cn)
 
@@ -704,7 +703,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 <a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
 <a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
 <a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
-<a href="http://www.chinapostnews.com.cn/newspaper/">新闻宣传中心</a>、
+<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
 <a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
 <a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
 <a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
@@ -787,6 +786,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 
 * [2] 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
 
+
 **更多金融业有关部门** Relevant Departments
 
 * 国务院
@@ -796,18 +796,6 @@ Insurance 237家，银保监会发布的2022年12月数据
   * [国务院其他部门](zhongyang)：税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
 * 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
 * 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
-
-其他银行业金融机构	
-
-	信托公司（68家） 贷款公司（13家） 企业集团财务公司（253家） 汽车金融公司（25家）  
-	金融租赁公司（69家） 消费金融公司（23家） 货币经纪公司（5家） 金融资产管理公司（4家）  
-	其他会管金融机构（14家）
-
-	全国68家信托公司，67家场外金融资产交易场所(金交所等)、近五千家银行
-	金交所?成立依据《金融企业国有资产转让管理办法》(财政部令第54号)
-	200多家财务公司，总资产约8万亿
-
-相关条目	央行金融机构评级，一级市场、二级市场、衍生性金融商品
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
