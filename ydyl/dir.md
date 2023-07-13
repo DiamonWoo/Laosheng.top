@@ -29,8 +29,7 @@ Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路�
 <!-- word-break:keep-all; overflow:scroll; -->
 <textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
 margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
-2023-06-16	
-2023-06-16	
+2023-07-		
 2023-06-	
 2023-06-16	习近平在京会见比尔·盖茨(美国比尔及梅琳达·盖茨基金会)。
 2023-06-14	(中东)巴勒斯坦总统阿巴斯来华进行国事访问，与习近平会谈，双方宣布建立战略伙伴关系。
@@ -89,24 +88,6 @@ margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
 
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
-
-种子数据 🔠：ISO国别码
------------
-
-　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
-
-　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
-
-　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。中国与之对应的推荐标准为：GB/T 2659-2000，政府官网暂未提供全文。
-
-
-<h4>2022卡塔尔世界杯 🇶🇦⚽</h4>
-
-*	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
-	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
-	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
-
-
 <h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
 　　天地图
 <a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
@@ -125,11 +106,27 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
  	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
+种子数据 🔠：ISO国别码
+-----------
+
+　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
+
+　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、互联网顶级域)的基础。
+
+　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。中国与之对应的推荐标准为：GB/T 2659-2000，政府官网暂未提供全文。
+
+<h4>2022卡塔尔世界杯 🇶🇦⚽</h4>
+
+*	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
+	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
+	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
+
+
 <h2 id=fanyi>民间翻译网站 🎧 YDYL</h2>
 　谷歌翻译
 #<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
-<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>
+<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、
 网易<a title="网易出品，必属佳品" href="http://fanyi.youdao.com">有道翻译</a>、
 <a title="提供本地软件 %Fx" href="https://dict.eudic.net">欧陆词典</a>、
 <a title="欧洲Lingva翻译，%中文词典考验网络" href="https://lingvaNex.com/demo/">Lingva</a>%中、
@@ -143,9 +140,9 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 </small>
 <br>　
 Cambridge <a href="https://dictionary.cambridge.org/zhs/" title="中文界面">剑桥词典</a>、
-Oxford 牛津<a href="https://www.oed.com" title="">OED</a>%需注册/ <a href="https://www.OxfordLearnersDictionaries.com/" title="">学习者词典</a>、
+Oxford 牛津<a href="https://www.oed.com" title="%需注册">OED</a>/<a href="https://www.OxfordLearnersDictionaries.com/" title="">学习者词典</a>、
 Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯林斯词典</a>、
-朗文<a href="https://www.LDoceonline.com" title="">LongMan</a>
+朗文<a href="https://www.LDoceonline.com" title="没有中文词典">LongMan</a>
 ……<a href="" title=""></a>
 <br>
 　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
