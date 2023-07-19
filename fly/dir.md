@@ -8,7 +8,7 @@
 
 +	dir　　本目录页
 	+ index　☁️ [中国新闻云媒体](.){:target="_blank"}，看新闻只需浏览器。（默认页）  
-　　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
+	收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
 	+ index2　📜️ [新闻云第二页](index2)：图例说明与统计、教育台与科技报、县区级报纸与电视。
 	+ waixuan　🔥 [中央外宣云媒体](waixuan)，全球吃瓜学外语。ChinaDaily、中国外文局、十大世界语言、解放军官方微博……
 
@@ -37,13 +37,14 @@
 　　‘新闻云’这个页面是本站最早的两个页面之一，当时用的方法比较土，就是按照行政区划在搜索引擎中一个一个城市搜索‘某某日报/晚报’，当我基本完成全国地级市报纸收录的时候，发现了主管部门有提供报纸名单，可以更精确的去搜索报纸的网站。现在小结一下搜索云媒体的方法：
 <ol>
 <li>主管部门信息公开（没网址）</li>
-	国家新闻<a title="行政处罚结果公示" href="https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/">出版署</a>：<a title="查报纸名称，一次查一个" href="">报纸查询</a>　　
-	国家广电总局 <a href="http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html" title="地级以上广电名录（2020年）">播出机构名录</a>
+	国家新闻出版署：<a title="查报纸名称，一次查一个" href="https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/" target="_blank">报纸查询</a>　　
+	国家广电总局 <a href="http://www.nrta.gov.cn/col/col69/" title="地方播出频道及教育频道" target="_blank">播出机构名录</a>
+	<!-- 地级以上广电名录（2020年） http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html -->
 <li>技术服务商公开（不及时）</li>
-	pdf数字报技术：　广州速阅、<a href="http://www.aheading.com/Customer">杭州前方</a>、闻道报网……　<br>
+	pdf数字报技术：　广州速阅、<a href="http://www.aheading.com/Customer" target="_blank">杭州前方</a>、闻道报网……　<br>
 	电视直播云媒体技术：　广电云、开普云、轻快云　……
 <li>地毯式搜索（自力更生）</li>
-	民政部的<a title="从地图查地名" href="http://xzqh.mca.gov.cn/map">行政区划地图</a>，省地县三级，2021年11月恢复服务。
+	民政部的<a title="从地图查地名" href="http://xzqh.mca.gov.cn/map" target="_blank">行政区划地图</a>，省地县三级，2021年11月恢复服务。
 <br>输入一次，搜索十八次，<a href="../index2.html" title="老生常谈，节约您的搜寻时间">老生常谈排行榜</a>，帮我更快找到网站。
 </ol>
 
@@ -58,9 +59,9 @@
 <h3>其他电视转播/汇编网站 📺</h3>
 　　互联网上除了电视台官网自己提供的直播网站之外，还存在大量的第三方转播网站。但是很多转播网站都不长久，大萌概括原因有三：一是被转播的电视台不允许对方转播，通常是出于版权保护；二是电视节目的内容在跨越国境时不受当地欢迎，被政府拦截；三是电视节目对网络环境要求高，转播站如果没有恰当的技术和足够的成本，支撑不了多久。<br>
 　　这里收录一些看上去比较持久的网站：<br>
-　　<a title="收录了三四千个台" href="https://eja.tv/">EJA.tv</a>　　收录了全球三千多大小电视台节目，可大致按语言和国别分类<br>
-　　<a title="？" href="http://www.tvquanqiu.com/as/">TV看全球</a>　　来自山西的电视台汇编网站，与本站类似。<br>
-　　<a title="？" href="https://www.yupptv.com/">YuppTV.com</a>　　印度最大的本土流媒体
+　　<a title="收录了三四千个台" href="https://eja.tv/" target="_blank">EJA.tv</a>　　收录了全球三千多大小电视台节目，可大致按语言和国别分类<br>
+　　<a title="？" href="http://www.tvquanqiu.com/as/" target="_blank">TV看全球</a>　　来自山西的电视台汇编网站，与本站类似。<br>
+　　<a title="？" href="https://www.yupptv.com/" target="_blank">YuppTV.com</a>　　印度最大的本土流媒体
 
 
 云媒体的理想软件形式
@@ -77,7 +78,6 @@ Ideal Software Form of Cloud Media
 + [证监会为什么不要App？](../c/8-证券信息披露的法定媒体.txt)
 + [有什么不骗人的保健知识？](../c/6-权威的医疗保健类报纸.txt)（202012 第二稿）
 + 中国报纸的数字化技术为什么全球领先？
-
 
 
 ```
