@@ -91,7 +91,7 @@
 鸣谢
 ------
 
-　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档编译。 LaoSheng.top 网站努力建设中！
+　　感谢开发了火狐浏览器的谋智开发者网络(MDN)提供web技术文档，感谢Github为“老生常谈”提供网站托管与markdown文档编译。 LaoSheng.top 网站努力建设中！  
 <!-- (https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo-sm.f2523d97cbe0.png) -->
 ![更安全的火狐浏览器](thanks4firefox-64.png)
 ![谋智开发者网络](thanks-MDN-64.png)
