@@ -15,11 +15,12 @@
 </div>
 
 金融圈LSIP进度
---------------
+-------------
 
-		收录LC≈ 600个
+		完成LC≈ 约600个
 		设计LC：待定	　本页正在进行第三次改版，暂未确定收录范围。
 
++	2023年8月，
 +	2023年4月，收录金融央企27家网站群、全部保险公司名单（237家）。
 +	2022年12月，收录六大国有商业银行、12家全国性股份制商业银行分页网址。
 +	2022年11月，收录一行两会三所、125家城商行等网址。
@@ -38,7 +39,7 @@
 
 <div id="tupu" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-中国金融监管体系
+中国金融监管体系 🔱
 ---------------
 
 　Finance⠀人行、总局、证监会
@@ -58,21 +59,32 @@
 	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)
 
 监管以下机构 / 公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)：
-*	银行  Bank  超4000家，总资产超360万亿
+*	银行  Bank  💳超4000家，总资产超360万亿
 	* [中国主要商业银行](#Dyin){:target="_top"}：国有商行 6家、全国股份制银行 12家、民营银行 17家、城市商业银行 125家
 	* 3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
-*	保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
+*	保险机构 Insurance 💼200多家，总资产约20万亿（财险/寿险）
 	* [保险集团与保险公司](#Dbao){:target="_top"}：保险集团 13家、保险公司 224家
-	* 保险代理公司
+	* 保险专业中介机构
 *	信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
 *	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 <sup>各分业市值默认货币单位为￥人民币元</sup>  
 
 **证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
 监管以下机构（3+5+x）：
-* 【[上交所](http://www.sse.com.cn)】📈 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
-* 【[深交所](https://www.szse.cn/)】📈 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-* 【[北交所](http://www.bse.cn)】📈 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
+* 【[上交所](http://www.sse.com.cn)】📊 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
+	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
+	超2100家上市公司，[股票代码](http://www.sse.com.cn/assortment/stock/list/share/)60xxxx、
+	近450支[基金](http://www.sse.com.cn/assortment/fund/list/)
+
+* 【[深交所](https://www.szse.cn/)】📊 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
+	[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）、
+	超2700家上市公司，[股票代码](https://www.szse.cn/market/product/stock/list/)00xxxx~30xxxx、
+	近600支[基金](https://www.szse.cn/market/product/list/all/)
+
+* 【[北交所](http://www.bse.cn)】📊 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
+	十几种[债券](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）、
+	超 120家上市公司，[股票代码](http://www.bse.cn/nq/listedcompany.html)43xxxx~8xxxxx、
+
 * 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
 * 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
     * 上海国际能源交易中心
@@ -80,8 +92,8 @@
 * 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
 * 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
 
-- 证券公司 全国约140家，网站导航由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
-- 期货公司 全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
+- 证券公司 📈全国约140家，网站导航由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
+- 期货公司 📉全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
 　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
 - 上市公司 全国超5000家 ……
 
@@ -91,7 +103,7 @@
   - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
   - 北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）十几种债券
 
-- **股票　Stock**　A股(人民币普通股票)至2022年11月，总市值近80万亿。
+- **股票　Stock** (股本证券)　A股(人民币普通股票)至2022年11月，总市值近80万亿。
   - 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
   - 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
   - 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
@@ -580,203 +592,6 @@ Insurance 237家，银保监会发布的2022年12月数据
 237：慈溪市龙山农村保险互助联社<sup></sup>　  
 
 
-<div id="Dqi" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
-
-中央企业四大类
---------------
-
-　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企，详情请见[央企股票全家福](yangqi)页面。广义的央企还包括：金融央企、行政央企、文化央企，如下：
-
-* 文化央企3家：中国出版/对外文化/中国广电。
-* 行政央企4家：中国铁路/中国邮政；中国烟草；北大荒。
-* 金融央企，2022年27家，财政部公布名单：工行/中信/人保……详情见下。
-* 实业央企，2022年98家，国资委公布名单：中核/电信/中粮……
-
-　文旅部　W1	[中国出版](http://cn.cnpubg.com){:id="W1"} 	⠀CPG	<small>[网站群](http://cn.cnpubg.com/overview/sites/)	⠀北京  	⠀中国出版集团有限公司 	⠀[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)</small>  
-　文旅部　W2	[中外文化](http://www.caeg.cn){:id="W2"} 	⠀CAEG	<small>[网站群](http://www.caeg.cn/whjtgs/ppxm/events.shtml)	⠀北京  	⠀中国对外文化集团有限公司 	⠀2021年1月整体划转至紫荆文化集团</small>  
-广电总局　W3	[中国广电](http://www.cbn.cn){:id="W3"} 	⠀BroadNet	- - - <small>	⠀北京  	⠀中国广播电视网络集团有限公司 	⠀网站群见[下方▼](#D6){:target="_top"}</small>  
-　交通部　X1	[国铁集团](http://www.china-railway.com.cn){:id="X1"} 	⠀Railway	- - - <small>	⠀北京  	⠀中国国家铁路集团有限公司 	⠀网站群见[下方▼](#D6){:target="_top"}；《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")</small>  
-　交通部　X2	[中国邮政](http://www.chinapost.com.cn){:id="X2"} 	⠀POST	<small>[网站群](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)	⠀北京  	⠀中国邮政集团有限公司 	⠀中国邮政报[📰](http://www.chinapostnews.com.cn/)</small>  
-　工信部　X3	[中国烟草](http://www.tobacco.gov.cn){:id="X3"} 	⠀TOBACCO	- - - <small>	⠀北京  	⠀中国烟草总公司 	⠀网站群见[下方▼](#D6){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)</small>  
-　农业部　X4	[北大荒集团](https://www.chinabdh.com){:id="X4"} 	⠀　　	<small>[网站群](https://www.chinabdh.com/GroupIndustry.html)	⠀哈尔滨  	⠀北大荒农垦集团有限公司  	⠀wx：北大荒日报</small>
-
-
-<div id="Dqi2" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
-
-央企网站群补充
---------------
-　　有少数央企（广电、国铁等）官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
-
-国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
-
-　　下属公司网站：
-　[中国有线](http://www.cncatv.com)电视网络有限公司
-　中广传播[](http://www.cbc.cn)集团有限公司
-　[中广电传媒](http://www.cbn-cbm.com)有限公司  
-　　总局直属机构网站：
-　[广播电视卫星直播管理中心](http://www.huhutv.com.cn)
-　[广播科学研究院](http://www.abs.ac.cn)
-　[广播电视规划院](http://www.abp2003.cn)
-　[中广电设计院](http://www.drft.com.cn)
-　中国爱乐乐团[](http://www.cpolive.com)
-　[广电总局机关服务局](http://www.gdhouqin.com)
-　广电总局研修学院[](http://www.rti.org.cn)
-　广播影视人才交流中心[](http://www.rfthr.com)
-　中国广播影视出版社[](http://www.crtp.com.cn)
-　[中广联合会](http://www.carft.cn)
-　[中广国际总公司](http://www.crtv.com.cn)
-
-　　各省网公司网站：
-　[北京广电](http://www.bgctv.com.cn)
-　[天津广电](https://www.tjbtn.net)
-　[河北广电](http://www.hbgdwl.com)
-　[山西广电](http://www.hbgdwl.com)
-　[内蒙古广电](http://www.96066.com)
-　[辽宁广电](http://www.bfgd.com.cn)
-　[吉林广电](http://www.jishimedia.com)
-　[黑龙江广电](http://www.ljgdwl.cn)
-　[上海广电](http://www.ocn.net.cn)
-　[江苏广电](https://www.jscnnet.com)
-　[浙江广电](https://www.wasu.com.cn)
-　[安徽广电](http://www.ahitv.com)
-　[福建广电](http://www.fjgdwl.com)
-　[江西广电](http://www.jxtvnet.com)
-　[山东广电](http://www.sdgdwljt.com)
-　[河南广电](http://www.henancatv.com)
-　[湖北广电](http://www.hrtn.com.cn)
-　[湖南广电](http://www.hunancatv.com)
-　[广东广电](http://www.gcable.com.cn)
-　[广西广电](http://www.96335.com)
-　[海南广电](http://www.963999.com)
-　[重庆广电](http://www.cqccn.com)
-　[四川广电](http://www.sc96655.com)
-　[贵州广电](http://www.gzgdwl.com)
-　[云南广电](http://www.ynbit.com)
-　西藏广电[]()
-　[陕西广电](http://www.600831.com)
-　[甘肃广电](http://www.gsbtn96333.com.cn)
-　[青海广电](http://www.qhcatv.com)
-　[宁夏广电](http://www.nx96200.cn)
-　[新疆广电](http://www.xjgdj.gov.cn)
-
-国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：<b>国铁集团</b>
-
-　　国铁所属企业：<small>  
-　　铁路局集团公司（18个）：
-哈尔滨局、沈阳局、北京局、太原局、呼和浩特局、
-郑州局、武汉局、西安局、济南局、上海局、南昌局、
-[国铁广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
-[国铁南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
-成都局、昆明局、兰州局、乌鲁木齐局、青藏  
-　　川藏铁路有限公司  
-　　专业运输公司（3个）：
-[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")
-[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
-[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
-　　非运输企业（11个）：
-中国铁路投资有限公司、
-[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
-[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
-中国铁路信息科技有限责任公司、
-中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
-[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
-《人民铁道》报业有限公司、
-中国铁路专运中心、中国铁路文工团有限公司。</small>  
-　　所属事业单位（3个）：<small>
-铁道党校、
-中国铁道博物馆、
-铁道战备舟桥处。</small>
-
-<div align="right"><a href="#D1" target="_top">↑ Top</a></div>
-
-国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
-
-　　控股公司与EMS：
-<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
-<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
-<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
-<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
-<a href="http://www.ems.com.cn/">寄递事业部</a>
-
-　　直属单位与工会：<small>
-<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
-<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
-<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
-<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
-<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
-<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
-<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
-<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
-<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
-<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
-<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
-</small>
-
-国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：<b>中国烟草集团</b>
-
-　　直属机构：
-　[南通醋纤](http://www.ncfcinfo.com)
-　[昆明醋纤](http://www.ynkcfc.com)
-　[珠海醋纤](https://www.zcfc.com)
-　[郑州烟草研究院](https://www.ztri.com.cn)？
-　[职工进修学院](https://www.ctt.cn)  
-　　工业企业：
-　[河北中烟工业](http://hegy.tobacco.com.cn)
-　[江苏中烟工业](http://jsgy.tobacco.com.cn)
-　[浙江中烟工业](http://zjgy.tobacco.com.cn)
-　[安徽中烟工业](http://ahgy.tobacco.com.cn)
-　[福建中烟工业](http://fjgy.tobacco.com.cn)
-　[江西中烟工业](http://jxgy.tobacco.com.cn)
-　[山东中烟工业](http://sdgy.tobacco.com.cn)
-　[河南中烟工业](https://www.hatic.com)
-　[湖北中烟工业](http://hbgy.tobacco.com.cn)
-　[湖南中烟工业](http://hngy.tobacco.com.cn)
-　[广东中烟工业](http://gdgy.tobacco.com.cn)
-　[广西中烟工业](http://gxgy.tobacco.com.cn)
-　[重庆中烟工业](http://cqgy.tobacco.com.cn)
-　[四川中烟工业](http://scgy.tobacco.com.cn)
-　[贵州中烟工业](http://gzgy.tobacco.com.cn)
-　[云南中烟工业](http://yngy.tobacco.com.cn)
-　[陕西中烟工业](https://sxgy.tobacco.com.cn)
-
-　　省级单位：
-　[北京中烟](http://bj.tobacco.gov.cn)
-　[天津中烟](http://tj.tobacco.gov.cn)
-　[河北中烟](http://he.tobacco.gov.cn)
-　[山西中烟](http://sx.tobacco.gov.cn)
-　[内蒙古中烟](http://nm.tobacco.gov.cn)
-　[辽宁中烟](http://ln.tobacco.gov.cn)
-　[吉林中烟](http://www.jltobacco.com.cn)
-　[黑龙江中烟](https://hlj.tobacco.gov.cn)
-　<i>[大连中烟](http://dl.tobacco.gov.cn)</i>
-　[上海中烟](http://www.sh.tobacco.gov.cn)
-　[江苏中烟](http://js.tobacco.gov.cn)
-　[浙江中烟](https://zjyc.tobacco.gov.cn)
-　[安徽中烟](http://ah.tobacco.gov.cn)
-　[福建中烟](http://fj.tobacco.gov.cn)
-　[江西中烟](http://jx.tobacco.gov.cn)
-　[山东中烟](https://sd.tobacco.gov.cn)
-　[河南中烟](https://ha.tobacco.gov.cn)
-　[湖北中烟](https://hb.tobacco.gov.cn)
-　[湖南中烟](http://hn.tobacco.gov.cn)
-　[广东中烟](http://gd.tobacco.gov.cn)
-　[广西中烟](http://gx.tobacco.gov.cn)
-　[海南中烟](https://hi.tobacco.gov.cn)
-　<i>[深圳中烟](https://sz.tobacco.gov.cn)</i>
-　[重庆中烟](http://cq.tobacco.gov.cn)
-　[四川中烟](http://sc.tobacco.gov.cn)
-　[贵州中烟](http://gz.tobacco.gov.cn)
-　[云南中烟](https://www.yn-tobacco.com)
-　[西藏中烟](http://www.tobacco.gov.cn/gjyc/xzycgsjj/sjzz_tt.shtml)
-　[陕西中烟](http://sn.tobacco.gov.cn)
-　[甘肃中烟](http://gs.tobacco.gov.cn)
-　[青海中烟](http://qh.tobacco.gov.cn)
-　[宁夏中烟](https://nx.tobacco.gov.cn)
-　[新疆中烟](http://www.tobacco.gov.cn/gjyc/xjycgsjj/sjzz_tt.shtml)
-
-	链接有效性待检查
-
-
 <div id="Dcan" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 参考文献
@@ -805,7 +620,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	个人理财金融圈 version 0.6.6	202307
+	个人理财金融圈 version 0.6.7	202307
 	https://laosheng.top/fuwu/jinrong
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
