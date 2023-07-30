@@ -4,71 +4,70 @@
 
 		你们尽管想象，我们负责实现 —— 国资小新评《流浪地球2》，20230130
 
-　　2022年底，国资委网站发布了最新的《[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)》，共98家中央直属国企。这是《国企改革三年行动方案（2020—2022年）》收官后的最新阵容，中央企业存量法人户数大幅压减。这些央企多是大型集团，有的旗下公司在沪深/海外上市，有的拥有自己的新闻出版机构，主营业务涉及国计民生的方方面面。
+　　2022年底，国资委网站发布了最新的《[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)》，共98家中央直属国企。这是《国企改革三年行动方案（2020—2022年）》收官后的最新阵容，中央企业存量法人户数大幅压减。在这些国资委监管的实业类央企外，广义的央企还包括：文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……）。
 
-　　央企是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址，做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
-　‘央企股’具体收录：近百家央企官网、网站群导航、官方微博、新闻出版机构/免费的数字报📰；以及央企旗下大约四百家上市公司的 股票简称、代码与行情页📈、公司全名与官网。网页数据密集，请善用浏览器页内搜索。
+　　这些央企多是大型集团，有的旗下公司在沪深、海外上市，有的拥有自己的新闻出版机构。央企的主营业务涉及国计民生的方方面面，是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌一方面编纂**中央企业分类图谱**，帮助大家看到央企全貌；另一方面用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址与发行股票。做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
 
-　　在上述国资委监管的实业类央企外，还有文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……），请见**中央企业分类图谱**。
+　　‘央企股’具体收录：四大类中央企业网站群、国资委央企名录、央企官网与微博、新闻出版机构/免费的数字报📰，以及：国资委央企旗下大约四百家上市公司的股票简称、代码与行情页📈、公司全名与官网。收录工作仍在进行，欢迎提出意见。网页数据密集，请善用浏览器页内搜索。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票全家福
-</div>
-
-简目：LSIP进度、改革近况、央企名录、[图例与统计](#D3){:target="_top"}、上市公司名单、  
-[中央企业四大类](#D5){:target="_top"}、央企[网站群补充](#D6){:target="_top"}、[参考文献](#D7){:target="_top"}与国资委网址
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票全家福</div>
 
 
 央企股LSIP进度
 --------------
 
 		完成 LC = 1109	　v0.4.2
-		设计 LC ≈ 1264　= 98×4 +x + 436×2　（x为弹性值）
+		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预期值）
 		 完成率 ≈ 　87.7%
 
-+	202307：补充文化类与行政类央企7家与网站群。
-+	202304：收录国资委主管央企98家，尚有一半网站群待收录；收录央企上市公司400余支股票，名称与网址均接近完成。
++	202307：补充文化类与行政类央企7家与网站群。v0.4.7~v0.4.9
++	202304：收录国资委主管央企98家，尚有一半网站群待收录；收录央企上市公司400余支股票，名称与网址均接近完成。v0.2.0~v0.4.6
 
 
 改革近况
 --------
 
+*	2023-06-　，中国电气装备集团、中国物流集团 网站开通。　
 *	2023-03-27，二十届中央第一轮巡视将对中国电科/中国移动等[30家中管企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记🚩)党组开展常规巡视。
 *	2022-12-31，中国南水北调集团有限公司(48) 列入国资委履行出资人职责企业名单（直接监管）。
 *	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武(35)，不再由国资委直接监管。
 *	2021-01，对外文化整体划转至紫荆文化集团。
 
 
-<h2 id='tupu'>中央企业分类图谱</h2>
+<h2 id='tupu'>中央企业分类图谱 🧧</h2>
 
-　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企（2022年98家），也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
+　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企，也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
-*	中央文化企业，3家
+*	中央文化企业 🌻，3家
 	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
-	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#D6){:target="_top"}
+	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▽](#D6){:target="_top"}
 	* 紫荆文化集团[]()有限公司 BCHL 香港　<del>网站群</del> 主要企业：[对外文化](http://www.caeg.cn)、中国基金报[📰](http://www.chinapostnews.com.cn/)、[凤凰卫视](https://phtv.ifeng.com)
 
-*	中央行政企业，4家
-	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▼](#X1){:target="_top"}，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
-	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▼](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
-	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+*	中央行政企业 👔，4家
+	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▽](#X1){:target="_top"}，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)，中国邮政报[📰](http://www.chinapostnews.com.cn/)
+	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▽](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)，[媒体矩阵](http://www.china-railway.com.cn/wnfw/jzlm/)；[国铁客运12306](https://www.12306.cn)、[国铁货运95306](http://www.95306.cn "招商、采购")
+	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▽](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
 
-*	[中央金融企业⇗](jinrong '个人理财金融圈')，27家，2022年财政部公布名单：工行/中信/人保……
+*	中央金融企业 🥯，27家，2022年**财政部**公布名单：工行/中信/人保……
+	* [个人理财金融圈⇗](https://Laosheng.top/fuwu/jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
 
-*	中央实业企业，98家，2022年国资委公布名单：中核/电信/中粮……
-	* [国资委央企名录▼](#GZ){:target="_top"}
-	* [图例与统计](#D3){:target="_top"}
-	* 国资委央企发行股票 及 旗下上市公司
+*	中央实业企业 ⚙️，98家，2022年**国资委**公布名单：中核/电信/中粮……
+	* [国资委央企名录▼](#GZ){:target="_top"} <sub>（部分从事金融业）</sub>
+	* [图例与统计](#tuli){:target="_top"}
+	* 国资委央企发行股票 及 [旗下上市公司](#GP){:target="_top"}
+
+*	[参考文献](#D7){:target="_top"}与国资委网址
 
 <div id="D6" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-央企网站群补充
+部分央企网站群
 -------------
 
 　　部分央企官网没有为集团子公司网站群提供独立页面，本段将这些央企网站群收录如下，方便读者查找。
 
-国务院 / [广电总局](https://www.nrta.gov.cn)：<b>中国广电集团</b>
+<b>中国广电集团</b>，业务有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
 
 *	下属公司网站：
 　[中国有线](http://www.cncatv.com)电视网络有限公司
@@ -120,9 +119,9 @@
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
-<div align="right" id="X1"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="X1"><a href="#tupu" target="_top">△</a></div>
 
-国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)：<b>中国邮政集团</b>
+<b>中国邮政集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家邮政局](https://www.spb.gov.cn)
 
 *	控股公司与EMS：
 <a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
@@ -145,11 +144,11 @@
 <a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div align="right" id="X2"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="X2"><a href="#tupu" target="_top">△</a></div>
 
-国务院 / [交通运输部](https://www.mot.gov.cn) / [国家铁道局](https://www.nra.gov.cn)：<b>国铁集团</b>
+<b>国家铁路集团</b>，业务有关部门：国务院/[交通运输部](https://www.mot.gov.cn)/[国家铁道局](https://www.nra.gov.cn)
 
-*	国铁所属企业：<small>  
+*	国铁所属企业：<small>
 	* 铁路局集团公司（18个）：
 哈尔滨局、沈阳局、北京局、太原局、呼和浩特局、
 郑州局、武汉局、西安局、济南局、上海局、南昌局、
@@ -169,22 +168,23 @@
 中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
 [铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
 《人民铁道》报业有限公司、
-中国铁路专运中心、中国铁路文工团有限公司。</small>  
-	* 所属事业单位（3个）：<small>
+中国铁路专运中心、中国铁路文工团有限公司。</small>
+
+*	所属事业单位（3个）：<small>
 铁道党校、
 中国铁道博物馆、
 铁道战备舟桥处。</small>
 
-<div align="right" id="X3"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="X3"><a href="#tupu" target="_top">△</a></div>
 
-国务院 / [工业和信息化部](https://www.miit.gov.cn) / [国家烟草专卖局](http://www.tobacco.gov.cn/)：<b>中国烟草集团</b>
+<b>中国烟草集团</b>，业务有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)/[国家烟草专卖局](http://www.tobacco.gov.cn/)
 
 *	直属机构：
 　[南通醋纤](http://www.ncfcinfo.com)
 　[昆明醋纤](http://www.ynkcfc.com)
 　[珠海醋纤](https://www.zcfc.com)
 　[郑州烟草研究院](https://www.ztri.com.cn)？
-　[职工进修学院](https://www.ctt.cn)  
+　[职工进修学院](https://www.ctt.cn)
 *	工业企业：
 　[河北中烟工业](http://hegy.tobacco.com.cn)
 　[江苏中烟工业](http://jsgy.tobacco.com.cn)
@@ -203,7 +203,6 @@
 　[贵州中烟工业](http://gzgy.tobacco.com.cn)
 　[云南中烟工业](http://yngy.tobacco.com.cn)
 　[陕西中烟工业](https://sxgy.tobacco.com.cn)
-
 *	省级单位：
 　[北京中烟](http://bj.tobacco.gov.cn)
 　[天津中烟](http://tj.tobacco.gov.cn)
@@ -244,8 +243,8 @@
 
 <div id="GZ" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-国资委央企名录
---------------
+国资委央企名录 ⚙️
+----------------
 计98家，截至2022年底
 
 　按国资委官网排序，点击 上市公司数▽/▼，跳转到页面下方 上市公司名单。网站群与数字报仍在收录，已过半。
@@ -304,26 +303,26 @@
 52⠀🎠	[中国旅游集团](https://www.ctg.cn){:id="52"} 	⠀CTG <small>[网站群](https://www.ctg.cn/sites)	⠀中国香港  	⠀[<b>2</b>家上市▼](#G52){:target="_top"}	⠀中国旅游集团有限公司／香港中旅(集团)有限公司 	⠀- -	⠀中国中旅，[月刊](https://www.ctg.cn/monthly/)</small>  
 53⠀✈️	[中国商飞](http://www.comac.cc){:id="53"} 	⠀COMAC <small>[网站群](http://www.comac.cc/main/wzq/)	⠀上海市  	⠀[<b>0</b>家上市▽](#G53){:target="_top"}	⠀中国商用飞机有限责任公司 	⠀[wb](https://weibo.com/n/中国商飞)	⠀大飞机报[📰](http://paper.comac.cc/)/[杂志](http://www.comac.cc/dmt/dzkw/zz/)，C919大型客机2022年底开始交付</small>  
 54⠀♾️	[中国节能](http://www.cecep.cn){:id="54"} 	⠀CECEP <small>[网站群](http://www.cecep.cn/g798.aspx)	⠀北京  	⠀[<b>6</b>家上市▼](#G54){:target="_top"}	⠀中国节能环保集团有限公司 	⠀- -	⠀👥2010兼并原属军委总后的新时代集团</small>  
-55⠀💡	[中咨公司](http://www.ciecc.com.cn){:id="55"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G55){:target="_top"}	⠀中国国际工程咨询有限公司 	⠀- -	</small>  
-56⠀💡	[中国诚通](http://www.cctgroup.com.cn){:id="56"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>7</b>家上市▼](#G56){:target="_top"}	⠀中国诚通控股集团有限公司 	⠀[wb](https://weibo.com/n/中国诚通)	</small>  
-57⠀🔥	[中煤集团](http://www.chinacoal.com){:id="57"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>3</b>家上市▽](#G57){:target="_top"}	⠀中国中煤能源集团有限公司 	⠀- -	</small>  
-58⠀🔥	[中国煤炭科工](http://www.ccteg.cn){:id="58"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>2</b>家上市▼](#G58){:target="_top"}	⠀中国煤炭科工集团有限公司 	⠀[wb](https://weibo.com/n/中国煤炭科工集团)	</small>  
-59⠀⚙	[机械总院集团](http://www.cam.com.cn){:id="59"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>2</b>家上市▽](#G59){:target="_top"}	⠀中国机械科学研究总院集团有限公司 	⠀- -	</small>  
-60⠀🏭	[中国钢研](http://www.cisri.com.cn){:id="60"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G60){:target="_top"}	⠀中国钢研科技集团有限公司 	⠀[wb](https://weibo.com/n/中国钢研)	</small>  
-61⠀⚗️	[中国化学工程](http://www.cncec.cn){:id="61"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>2</b>家上市▽](#G61){:target="_top"}	⠀中国化学工程集团有限公司 	⠀[wb](https://weibo.com/n/中国化学)	</small>  
-62⠀⚗️	[中盐集团](http://www.chinasalt.com.cn){:id="62"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>1</b>家上市▼](#G62){:target="_top"}	⠀中国盐业集团有限公司 	⠀[wb](https://weibo.com/n/中国盐业总公司)	</small>  
-63⠀🏗	[中国建材](http://www.cnbm.com.cn){:id="63"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>15</b>家上市▽](#G63){:target="_top"}	⠀中国建材集团有限公司 	⠀- -	</small>  
-64⠀🧲	[中国有色集团](http://www.cnmc.com.cn){:id="64"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G64){:target="_top"}	⠀中国有色矿业集团有限公司 	⠀- -	</small>  
-65⠀🧲	[中国稀土集团](https://www.regcc.cn){:id="65"} 	⠀　　 - - - <small>	⠀赣州市  	⠀[<b>1</b>家上市▽](#G65){:target="_top"}	⠀中国稀土集团有限公司 	⠀- -	</small>  
-66⠀🧲	[有研集团](http://www.grinm.com){:id="66"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G66){:target="_top"}	⠀中国有研科技集团有限公司 	⠀- -	⠀有色金属研究总院</small>  
-67⠀🏭	[矿冶集团](http://www.bgrimm.com){:id="67"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>2</b>家上市▽](#G67){:target="_top"}	⠀矿冶科技集团有限公司 	⠀- -	</small>  
-68⠀💡	[中智集团](http://www.ciic.com.cn){:id="68"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▼](#G68){:target="_top"}	⠀中国国际技术智力合作集团有限公司 	⠀[wb](https://weibo.com/n/中智集团)	</small>  
-69⠀⛑️	[中国建研院](http://www.cabr.com.cn){:id="69"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G69){:target="_top"}	⠀中国建筑科学研究院有限公司 	⠀[wb](https://weibo.com/n/中国建研院)	</small>  
-70⠀🚉	[中国中车集团](http://www.crrcgc.cc){:id="70"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G70){:target="_top"}	⠀中国中车集团有限公司 	⠀[wb](https://weibo.com/n/中国中车)	</small>  
-71⠀🚉	[中国通号](http://www.crsc.cn){:id="71"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>2</b>家上市▽](#G71){:target="_top"}	⠀中国铁路通信信号集团有限公司 	⠀- -	</small>  
-72⠀🚉	[中国中铁](http://www.crecg.com){:id="72"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G72){:target="_top"}	⠀中国铁路工程集团有限公司 	⠀[wb](https://weibo.com/n/中国中铁)	</small>  
-73⠀⛑️	[中国铁建](http://www.crcc.cn){:id="73"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>2</b>家上市▽](#G73){:target="_top"}	⠀中国铁道建筑集团有限公司 	⠀[wb](https://weibo.com/n/中国铁建)	</small>  
-74⠀🛣️	[中交集团](http://www.ccccltd.cn){:id="74"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G74){:target="_top"}	⠀中国交通建设集团有限公司 	⠀[wb](https://weibo.com/n/中国交建)	</small>  
+55⠀💡	[中咨公司](http://www.ciecc.com.cn){:id="55"} 	⠀QIECC <small>[网站群](http://www.ciecc.com.cn/col/col5617/)	⠀北京  	⠀[<b>0</b>家上市▽](#G55){:target="_top"}	⠀中国国际工程咨询有限公司 	⠀- -	</small>  
+56⠀💡	[中国诚通](http://www.cctgroup.com.cn){:id="56"} 	⠀China Chengtong - - - <small>	⠀北京  	⠀[<b>7</b>家上市▼](#G56){:target="_top"}	⠀中国诚通控股集团有限公司 	⠀[wb](https://weibo.com/n/中国诚通)	⠀页底找[集团网站群](http://www.cctgroup.com.cn/cctgroup/594939/zzjg/)，基金投资规模超6000亿</small>  
+57⠀🔥	[中煤集团](http://www.chinacoal.com){:id="57"} 	⠀ChinaCOAL <small>[网站群](http://www.chinacoal.com/col/col10/)	⠀北京  	⠀[<b>3</b>家上市▽](#G57){:target="_top"}	⠀中国中煤能源集团有限公司 	⠀- -	</small>  
+58⠀🔥	[中国煤炭科工](http://www.ccteg.cn){:id="58"} 	⠀　　 <small>[网站群](http://www.ccteg.cn/zh/article/affiliated_enterprise/85)	⠀北京  	⠀[<b>2</b>家上市▼](#G58){:target="_top"}	⠀中国煤炭科工集团有限公司 	⠀[wb](https://weibo.com/n/中国煤炭科工集团)	</small>  
+59⠀⚙	[机械总院集团](http://www.cam.com.cn){:id="59"} 	⠀CAM <small>[网站群](http://www.cam.com.cn/channels/5994.html)	⠀北京  	⠀[<b>2</b>家上市▽](#G59){:target="_top"}	⠀中国机械科学研究总院集团有限公司 	⠀- -	</small>  
+60⠀🏭	[中国钢研](http://www.cisri.com.cn){:id="60"} 	⠀CISRI - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G60){:target="_top"}	⠀中国钢研科技集团有限公司 	⠀[wb](https://weibo.com/n/中国钢研)	⠀页底找[下属企业](http://www.cisri.com.cn/gywm/zzjg.htm)</small>  
+61⠀⚗️	[中国化学工程](http://www.cncec.cn){:id="61"} 	⠀CNCEC - - - <small>	⠀北京  	⠀[<b>2</b>家上市▽](#G61){:target="_top"}	⠀中国化学工程集团有限公司 	⠀[wb](https://weibo.com/n/中国化学)	⠀页底找[所属企业](https://cncec.cn/columndetail/zzyw)， 农民工服务热线：010-59765763</small>  
+62⠀⚗️	[中盐集团](http://www.chinasalt.com.cn){:id="62"} 	⠀CNSIC <small>[网站群](http://www.chinasalt.com.cn/zyzq.html)	⠀北京  	⠀[<b>1</b>家上市▼](#G62){:target="_top"}	⠀中国盐业集团有限公司 	⠀[wb](https://weibo.com/n/中国盐业总公司)	⠀国家盐业公司+优秀化工企业</small>  
+63⠀🏗	[中国建材](http://www.cnbm.com.cn){:id="63"} 	⠀CNBM <small>[网站群](http://www.cnbm.com.cn/CNBM/000000010009/)	⠀北京  	⠀[<b>15</b>家上市▽](#G63){:target="_top"}	⠀中国建材集团有限公司 	⠀- -	</small>  
+64⠀🧲	[中国有色集团](http://www.cnmc.com.cn){:id="64"} 	⠀CNMM <small>[网站群](http://www.cnmc.com.cn/cnmc/wzq/A002017Gone1.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G64){:target="_top"}	⠀中国有色矿业集团有限公司 	⠀- -	</small>  
+65⠀🧲	[中国稀土集团](https://www.regcc.cn){:id="65"} 	⠀CREG - - - <small>	⠀赣州市  	⠀[<b>1</b>家上市▽](#G65){:target="_top"}	⠀中国稀土集团有限公司 	⠀- -	⠀页底找[成员单位](https://www.regcc.cn/zgxtjt/zzjg/introduce.shtml)</small>  
+66⠀🧲	[有研集团](http://www.grinm.com){:id="66"} 	⠀GRINM - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G66){:target="_top"}	⠀中国有研科技集团有限公司 	⠀- -	⠀有色金属研究总院，[基地分布](https://www.grinm.com/2600.html)，[研究生院](https://www.grinm.com/1417.html)</small>  
+67⠀🏭	[矿冶集团](http://www.bgrimm.com){:id="67"} 	⠀BGRIMM <small>[网站群](http://www.bgrimm.com/wzq/)	⠀北京  	⠀[<b>2</b>家上市▽](#G67){:target="_top"}	⠀矿冶科技集团有限公司 	⠀- -	</small>  
+68⠀💡	[中智集团](http://www.ciic.com.cn){:id="68"} 	⠀CIIC <small>[网站群](http://www.ciic.com.cn/ciic/zzlj44/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G68){:target="_top"}	⠀中国国际技术智力合作集团有限公司 	⠀[wb](https://weibo.com/n/中智集团)	</small>  
+69⠀⛑️	[中国建研院](http://www.cabr.com.cn){:id="69"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G69){:target="_top"}	⠀中国建筑科学研究院有限公司 	⠀[wb](https://weibo.com/n/中国建研院)	⠀网站故障？</small>  
+70⠀🚉	[中国中车集团](http://www.crrcgc.cc){:id="70"} 	⠀CRRC - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G70){:target="_top"}	⠀中国中车集团有限公司 	⠀[wb](https://weibo.com/n/中国中车)	⠀页首找[网站群](https://www.crrcgc.cc/g4872.aspx)，多语言</small>  
+71⠀🚉	[中国通号](http://www.crsc.cn){:id="71"} 	⠀CRSC <small>[网站群](http://www.crsc.cn/6449.html)	⠀北京  	⠀[<b>2</b>家上市▽](#G71){:target="_top"}	⠀中国铁路通信信号集团有限公司 	⠀- -	⠀同名股份公司</small>  
+72⠀🚉	[中国中铁](http://www.crecg.com){:id="72"} 	⠀CREC <small>[网站群](http://www.crecg.com/web/10089489/10089662/10089668/index.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G72){:target="_top"}	⠀中国铁路工程集团有限公司 	⠀[wb](https://weibo.com/n/中国中铁)	</small>  
+73⠀⛑️	[中国铁建](http://www.crcc.cn){:id="73"} 	⠀CRCC <small>[网站群](http://www.crcc.cn/col/col541/)	⠀北京  	⠀[<b>2</b>家上市▽](#G73){:target="_top"}	⠀中国铁道建筑集团有限公司 	⠀[wb](https://weibo.com/n/中国铁建)	⠀《中国铁道建筑报》[📰](http://paper.crcc.cn/)</small>  
+74⠀🛣️	[中交集团](http://www.ccccltd.cn){:id="74"} 	⠀CCCC <small>[网站群](http://www.ccccltd.cn/aboutus/zzjg/zgs/)	⠀北京  	⠀[<b>3</b>家上市▼](#G74){:target="_top"}	⠀中国交通建设集团有限公司 	⠀[wb](https://weibo.com/n/中国交建)	⠀《[交通建设报](http://www.cccnews.cn/dzbz/jtjsb/page_1/)📰》，多语言</small>  
 75⠀✡	[中国信科](http://www.cict.com){:id="75"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>7</b>家上市▽](#G75){:target="_top"}	⠀中国信息通信科技集团有限公司 	⠀[wb](https://weibo.com/n/信科视界)	</small>  
 76⠀🌾	[中国农发集团](http://www.cnadc.com.cn){:id="76"} 	⠀　　 - - - <small>	⠀武汉市  	⠀[<b>3</b>家上市▼](#G76){:target="_top"}	⠀中国农业发展集团有限公司 	⠀- -	</small>  
 77⠀🌲	[中林集团](http://www.cfgc.cn){:id="77"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G77){:target="_top"}	⠀中国林业集团有限公司 	⠀[wb](https://weibo.com/n/中林集团)	</small>  
@@ -343,11 +342,11 @@
 91⠀☢️	[中广核](http://www.cgnpc.com.cn){:id="91"} 	⠀　　 - - - <small>	⠀深圳市  	⠀[<b>3</b>家上市▽](#G91){:target="_top"}	⠀中国广核集团有限公司 	⠀[wb](https://weibo.com/n/中国广核集团)	</small>  
 92⠀📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀　　 - - - <small>	⠀大连市  	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	</small>  
 93⠀🎠	[华侨城集团](https://www.chinaOCT.com){:id="93"} 	⠀OCT <small>[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀深圳市  	⠀[<b>4</b>家上市▽](#G93){:target="_top"}	⠀华侨城集团有限公司 	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
-94⠀🛢️	[南光集团](http://www.namkwong.com.mo){:id="94"} 	⠀　　 <small>[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀中国澳门  	⠀[<b>0</b>家上市▼](#G94){:target="_top"}	⠀南光(集团)有限公司／中国南光集团有限公司 	⠀- -	</small>  
-95⠀✡	中国电气装备	⠀　　 - - - <small>	⠀上海市  	⠀[<b>4</b>家上市▽](#G95){:target="_top"}	⠀中国电气装备集团有限公司 	⠀- -	</small>  
-96⠀📦	中国物流	⠀　　 - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G96){:target="_top"}	⠀中国物流集团有限公司 	⠀- -	</small>  
-97⠀💰	[中国国新](https://www.crhc.cn){:id="97"} 	⠀　　 <small>[网站群](https://www.crhc.cn2010/2016)	⠀北京  	⠀[<b>1</b>家上市▽](#G97){:target="_top"}	⠀中国国新控股有限责任公司 	⠀[wb](https://weibo.com/n/中国国新)	</small>  
-98⠀🧪	[中国中检](http://www.ccic.com){:id="98"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▼](#G98){:target="_top"}	⠀中国检验认证(集团)有限公司 	⠀- -	</small>  
+94⠀🛢️	[南光集团](http://www.namkwong.com.mo){:id="94"} 	⠀Nam Kwong <small>[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀中国澳门  	⠀[<b>0</b>家上市▼](#G94){:target="_top"}	⠀南光(集团)有限公司／中国南光集团有限公司 	⠀- -	</small>  
+95⠀✡	[中国电气装备](http://www.cee-group.cn){:id="95"} 	⠀CEE - - - <small>	⠀上海市  	⠀[<b>4</b>家上市▽](#G95){:target="_top"}	⠀中国电气装备集团有限公司 	⠀- -	⠀[行业期刊](http://www.cee-group.cn/fwpt/xyqk1.htm)：《[电瓷避雷器](http://www.dcblq.com)》等，网站建设中…</small>  
+96⠀📦	[中国物流](https://www.chinalogisticsgroup.com.cn){:id="96"} 	⠀ChinaLogistics - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G96){:target="_top"}	⠀中国物流集团有限公司 	⠀- -	⠀页底找[所属企业](https://www.chinalogisticsgroup.com.cn/zh-cn/disclosure/zdsx/)，《中国储运》等[期刊](https://www.chinalogisticsgroup.com.cn/zh-cn/news/magazine/)</small>  
+97⠀💰	[中国国新](https://www.crhc.cn){:id="97"} 	⠀CRHC <small>[网站群](https://www.crhc.cn/sczqywz/A001014index_1.htm)	⠀北京  	⠀[<b>1</b>家上市▽](#G97){:target="_top"}	⠀中国国新控股有限责任公司 	⠀[wb](https://weibo.com/n/中国国新)	</small>  
+98⠀🧪	[中国中检](http://www.ccic.com){:id="98"} 	⠀CCIC <small>[网站群](http://www.ccic.com/ccic/lxwm/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G98){:target="_top"}	⠀中国检验认证(集团)有限公司 	⠀- -	</small>  
 
 
 <div id="tuli" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
@@ -514,7 +513,7 @@
 [18▲](#18){:target="_top"}{:id="G18"}⠀	大唐新能源	[01798](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1798)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[中国大唐集团新能源股份有限公司](http://www.cdt-re.com)</sub>  
 [18▲](#18){:target="_top"}{:id="G18"}⠀	大唐环境	[01272](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1272)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[大唐环境产业集团股份有限公司](http://www.dteg.com.cn)</sub>  
 [19△](#19){:target="_top"}{:id="G19"}⠀	华电国际	[600027](http://webapi.cninfo.com.cn/#/company?companyid=600027)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[华电国际电力股份有限公司](http://www.hdpi.com.cn)</sub>  
-[19△](#19){:target="_top"}{:id="G19"}⠀	*ST华源	[600726](http://webapi.cninfo.com.cn/#/company?companyid=600726)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[华电能源股份有限公司](http://www.hdenergy.com)</sub>  
+[19△](#19){:target="_top"}{:id="G19"}⠀	xST华源	[600726](http://webapi.cninfo.com.cn/#/company?companyid=600726)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[华电能源股份有限公司](http://www.hdenergy.com)</sub>  
 [19△](#19){:target="_top"}{:id="G19"}⠀	金山股份	[600396](http://webapi.cninfo.com.cn/#/company?companyid=600396)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[沈阳金山能源股份有限公司](http://www.600396.com)</sub>  
 [19△](#19){:target="_top"}{:id="G19"}⠀	国电南自	[600268](http://webapi.cninfo.com.cn/#/company?companyid=600268)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[国电南京自动化股份有限公司](http://www.sac-china.com)</sub>  
 [19△](#19){:target="_top"}{:id="G19"}⠀	黔源电力	[002039](http://webapi.cninfo.com.cn/#/company?companyid=002039)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[贵州黔源电力股份有限公司](http://www.gzqydl.cn)</sub>  
@@ -658,7 +657,7 @@
 [44▲](#44){:target="_top"}{:id="G44"}⠀	五矿资源	[01208](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1208)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[五矿资源有限公司](http://www.mmg.com)</sub>  
 [45△](#45){:target="_top"}{:id="G45"}⠀	中国医药	[600056](http://webapi.cninfo.com.cn/#/company?companyid=600056)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中国医药健康产业股份有限公司](http://www.meheco.com)</sub>  
 [45△](#45){:target="_top"}{:id="G45"}⠀	中国汽研	[601965](http://webapi.cninfo.com.cn/#/company?companyid=601965)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中国汽车工程研究院股份有限公司](http://www.caeri.com.cn)</sub>  
-[45△](#45){:target="_top"}{:id="G45"}⠀	*ST沈机	[000410](http://webapi.cninfo.com.cn/#/company?companyid=000410)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[沈阳机床股份有限公司](http://www.smtcl.com)</sub>  
+[45△](#45){:target="_top"}{:id="G45"}⠀	xST沈机	[000410](http://webapi.cninfo.com.cn/#/company?companyid=000410)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[沈阳机床股份有限公司](http://www.smtcl.com)</sub>  
 [45△](#45){:target="_top"}{:id="G45"}⠀	环球医疗	[02666](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2666)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[通用环球医疗集团有限公司](http://www.universalmsm.com)</sub>  
 [46▲](#46){:target="_top"}{:id="G46"}⠀	中国建筑	[601668](http://webapi.cninfo.com.cn/#/company?companyid=601668)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中国建筑股份有限公司](http://www.cscec.com)</sub>  
 [46▲](#46){:target="_top"}{:id="G46"}⠀	西部建设	[002302](http://webapi.cninfo.com.cn/#/company?companyid=002302)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[中建西部建设股份有限公司](http://cwcg.cscec.com)</sub>  
@@ -875,7 +874,7 @@
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 version 0.4.8	202307
+	央企股票全家福 version 0.4.9	202307
 	https://Laosheng.top/fuwu/yangqi
 ```
 
