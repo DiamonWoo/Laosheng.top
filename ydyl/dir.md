@@ -4,7 +4,7 @@
 
 		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
 
-Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
+**/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
 +	./dir　　　　本目录页
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社，按丝绸之路排列；收录习主席发表署名文章的海外报纸56家。（默认页）
@@ -15,7 +15,7 @@ Laosheng.top/ydyl/	　这里是民间网站‘老生常谈’的【一带一路�
 
 +	./jiaoyihui　💫 [交易会与电影节](jiaoyihui)，中国主要国际交易会和博览会、每个月都有的电影节🎞️、 中国发起的国际组织。 国际赛事与奖项：大运会/奥斯卡/诺贝尔……
 
-+	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta）
++	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta，等待设计）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
@@ -182,7 +182,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.1.1 202307
+	一带一路民间站 v3.1.2 202308
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
