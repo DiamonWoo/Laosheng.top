@@ -4,6 +4,18 @@
 
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面。
 
+
+	（缺个高考改革进程图）
+
+
+<h3>改革近况</h3>
+
+*	2022年12月，中办国办印发《关于[深化现代职业教育体系建设改革](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202212/t20221222_1035691.html)的意见》，教育部举行专题[新闻发布会](http://www.moe.gov.cn/fbh/live/2022/55031/)。
+*	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
+
+*	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
+
+
 QA 问题解答
 -----------
 
