@@ -1,6 +1,6 @@
 个人理财金融圈 🥯
-================
-大萌　	2022-2023 草稿三	<base target="_blank">
+===================
+大萌　	202211-202308 草稿三	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
@@ -20,7 +20,7 @@
 		完成LC≈ 约600个
 		设计LC：待定	　本页正在进行第三次改版，暂未确定收录范围。
 
-+	2023年8月，
++	2023年8月，正在重构，第三稿。
 +	2023年4月，收录金融央企27家网站群、全部保险公司名单（237家）。
 +	2022年12月，收录六大国有商业银行、12家全国性股份制商业银行分页网址。
 +	2022年11月，收录一行两会三所、125家城商行等网址。
@@ -46,17 +46,27 @@
 
 **中央金融委员会、中央金融工作委员会**
 
-**中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行  
-	国家中央银行、央妈，主管：外汇/黄金/货币政策
-*	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
+**中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
+主管业务：外汇/黄金/货币政策。 
+*	[上海总部](http://shanghai.pbc.gov.cn) 位于浦东新区，人行总部位于北京市西城区。
+*	[中国金融新闻网](https://www.financialnews.com.cn/)/金融时报[📰](https://epaper.financialnews.com.cn/jrsb/)
+*	[中国钱币博物馆](http://www.cnm.com.cn)
+*	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。  
+	更多内设部门、分支机构请见人行官网[机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)页。
+
+人行管理的国家局：
 *	国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)　外汇局，外汇储备约$3万亿美元。
 	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*各商业银行的外汇牌价可见[世界国别速查表](../ydyl/nations)*
+
+人行组建或批准组建的交易机构：
 *	上海黄金交易所　发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿人民币元。
 *	上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
+
 **金监总局**　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局（原“银保监会”网站）  
+主管业务：银行业、保险业、其他金融业务。  
+	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)  
 	保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
-	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)
 
 监管以下机构 / 公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)：
 *	银行  Bank  💳超4000家，总资产超360万亿
@@ -70,6 +80,8 @@
 <sup>各分业市值默认货币单位为￥人民币元</sup>  
 
 **证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
+主管业务：
+
 监管以下机构（3+5+x）：
 * 【[上交所](http://www.sse.com.cn)】📊 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
 	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
@@ -620,7 +632,7 @@ Insurance 237家，银保监会发布的2022年12月数据
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	个人理财金融圈 version 0.6.7	202307
+	个人理财金融圈 version 0.6.8	202308
 	https://laosheng.top/fuwu/jinrong
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
