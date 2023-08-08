@@ -6,9 +6,9 @@
 
 　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[<sup>(1)</sup>](#Dcan){:target="_top"}_。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
 
-　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。　金融央企名单由财政部公布[<sup>(2)</sup>](#Dcan){:target="_top"}_，本页面收录金融央企、文化央企、行政央企的官方网址。
+　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。金融央企名单由财政部公布[<sup>(2)</sup>](#Dcan){:target="_top"}_。　其次，要认识身边的各种营业厅：银行、保险、证券……等等，理论与实践结合。大萌正在摸索一种快速查看本地区各种金融机构的页面形式。
 
-　　**金融圈**尝试以“集成网页”形式，囊括中国金融监管体系，收录网址包括：中央金融企业、主要商业银行、保险集团及公司、公募基金管理人、各地证券营业厅……　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　**金融圈**尝试以“集成网页”，囊括中国金融监管体系，收录网址包括：中央金融企业、主要商业银行、保险集团及公司、公募基金管理人、各地证券营业厅……　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
@@ -49,31 +49,33 @@
 **审计署**
 *	审计国家财政收支、中央预算执行。审计署[公告/报告](https://www.audit.gov.cn/n5/)。 中央审计委员会办公室设在审计署
 *	中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)
+
 **财政部**
 *	发行国债，公布中国[国债收益率曲线](http://gks.mof.gov.cn/gzsylqs/)和地方政府债券收益率曲线
 *	公布[中央金融企业名单](#YJ)，2022年27家。
+
 **国资委**
 *	公布(实业类)[央企名录](yangqi)，2022年98家。
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
 主管业务：外汇/黄金/货币政策。 
 *	人行总部位于北京市西城区，[上海总部](http://shanghai.pbc.gov.cn) 位于浦东新区。
-*	[中国金融新闻网](https://www.financialnews.com.cn/)/金融时报[📰](https://epaper.financialnews.com.cn/jrsb/)
-*	[中国钱币博物馆](http://www.cnm.com.cn)
+*	[中国金融新闻网](https://www.financialnews.com.cn/)/金融时报[📰](https://epaper.financialnews.com.cn/jrsb/)、
+	[中国钱币博物馆](http://www.cnm.com.cn)
 *	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。  
 	更多内设部门、分支机构请见人行官网[机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)页。
 
 人行管理的国家局：
 *	国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)　外汇局，外汇储备约$3万亿美元。
-	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*各商业银行的外汇牌价可见[世界国别速查表](../ydyl/nations)*
+	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*世界各国的货币名称可见[世界国别速查表](../ydyl/nations)*
 
 人行组建或批准组建的交易机构：
 *	上海黄金交易所　发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿人民币元。
 *	上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
 **金监总局**　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局  
-主管业务：银行业、保险业、其他金融业务。 沿用原“银保监会”域名。
-	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)  
+主管业务：银行业、保险业、其他金融业务。 沿用原“银保监会”域名。  
+	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)、
 	保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
 
 监管以下机构 / 公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)：
