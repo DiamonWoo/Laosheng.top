@@ -8,7 +8,7 @@
 
 　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。　金融央企名单由财政部公布[<sup>(2)</sup>](#Dcan){:target="_top"}_，本页面收录金融央企、文化央企、行政央企的官方网址。
 
-　　**金融圈**尝试以“集成网页”形式，囊括中国金融监管体系，收录网址包括：中央金融企业、主要商业银行、保险集团及公司、文化与行政央企。　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　**金融圈**尝试以“集成网页”形式，囊括中国金融监管体系，收录网址包括：中央金融企业、主要商业银行、保险集团及公司、公募基金管理人、各地证券营业厅……　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
@@ -17,13 +17,12 @@
 金融圈LSIP进度
 -------------
 
-		完成LC≈ 约600个
-		设计LC：待定	　本页正在进行第三次改版，暂未确定收录范围。
+		设计LC：待定 	　本页正在进行第三次改版，暂未确定收录范围。
 
-+	2023年8月，正在重构，第三稿。
-+	2023年4月，收录金融央企27家网站群、全部保险公司名单（237家）。
-+	2022年12月，收录六大国有商业银行、12家全国性股份制商业银行分页网址。
-+	2022年11月，收录一行两会三所、125家城商行等网址。
++	2023年8月，正在重构，第三稿。v0.6.6~v0.6.9
++	2023年4月，收录金融央企27家网站群、全部保险公司名单（237家）。稿二，v0.5.0~v0.6.5
++	2022年12月，收录六大国有商业银行、12家全国性股份制商业银行分页网址。v0.4.0~v0.4.6
++	2022年11月，收录一行两会三所、125家城商行等网址。草稿一，v0.3.0~v0.3.9
 
 
 改革近况
@@ -39,16 +38,26 @@
 
 <div id="tupu" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-中国金融监管体系 🔱
+中国金融监管体系 🔱 Finance
 ---------------
 
-　Finance⠀人行、总局、证监会
+*	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)
+*	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 、
+	全国政协[经济委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jjwyh/)
 
-**中央金融委员会、中央金融工作委员会**
+国务院：  
+**审计署**
+*	审计国家财政收支、中央预算执行。审计署[公告/报告](https://www.audit.gov.cn/n5/)。 中央审计委员会办公室设在审计署
+*	中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)
+**财政部**
+*	发行国债，公布中国[国债收益率曲线](http://gks.mof.gov.cn/gzsylqs/)和地方政府债券收益率曲线
+*	公布[中央金融企业名单](#YJ)，2022年27家。
+**国资委**
+*	公布(实业类)[央企名录](yangqi)，2022年98家。
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
 主管业务：外汇/黄金/货币政策。 
-*	[上海总部](http://shanghai.pbc.gov.cn) 位于浦东新区，人行总部位于北京市西城区。
+*	人行总部位于北京市西城区，[上海总部](http://shanghai.pbc.gov.cn) 位于浦东新区。
 *	[中国金融新闻网](https://www.financialnews.com.cn/)/金融时报[📰](https://epaper.financialnews.com.cn/jrsb/)
 *	[中国钱币博物馆](http://www.cnm.com.cn)
 *	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。  
@@ -62,9 +71,8 @@
 *	上海黄金交易所　发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　黄金储备近2000吨，约￥0.8万亿人民币元。
 *	上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
-
-**金监总局**　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局（原“银保监会”网站）  
-主管业务：银行业、保险业、其他金融业务。  
+**金监总局**　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局  
+主管业务：银行业、保险业、其他金融业务。 沿用原“银保监会”域名。
 	中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)  
 	保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
 
@@ -80,19 +88,17 @@
 <sup>各分业市值默认货币单位为￥人民币元</sup>  
 
 **证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
-主管业务：
+主管业务：债、股、基、期。
 
 监管以下机构（3+5+x）：
 * 【[上交所](http://www.sse.com.cn)】📊 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
 	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
 	超2100家上市公司，[股票代码](http://www.sse.com.cn/assortment/stock/list/share/)60xxxx、
 	近450支[基金](http://www.sse.com.cn/assortment/fund/list/)
-
 * 【[深交所](https://www.szse.cn/)】📊 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
 	[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）、
 	超2700家上市公司，[股票代码](https://www.szse.cn/market/product/stock/list/)00xxxx~30xxxx、
 	近600支[基金](https://www.szse.cn/market/product/list/all/)
-
 * 【[北交所](http://www.bse.cn)】📊 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
 	十几种[债券](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）、
 	超 120家上市公司，[股票代码](http://www.bse.cn/nq/listedcompany.html)43xxxx~8xxxxx、
@@ -127,13 +133,13 @@
 
 - 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 ……  
 
-　<i>港澳台与其他交易所，请见[世界金融交易所](../ydyl/jiaoyisuo)页面</i>
+　<i>港澳台与其他交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
 
 
-<div id="Dyang" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="YJ" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
 中央金融企业27家
-------------
+---------------
 
 　财政部2022年1月公布，部分企业有银保监会分配的机构编码。
 
@@ -614,25 +620,22 @@ Insurance 237家，银保监会发布的2022年12月数据
 * [2] 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
 
 
-**更多金融业有关部门** Relevant Departments
+**金融业其他有关部门** Relevant Departments
 
 * 国务院
   * <del>金融稳定发展委员会</del> [201711](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)~202302
-  * [发改委](https://www.ndrc.gov.cn/) / [国资委](http://www.sasac.gov.cn/)
-  * [财政部](http://www.mof.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
+  * [发改委](https://www.ndrc.gov.cn/) / [商务部](http://www.mofcom.gov.cn/)
   * [国务院其他部门](zhongyang)：税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会
-* 中共中央[财经委员会](https://www.12371.cn/special/cjw/)
-* 全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
+　　节约您的搜寻时间，老生常谈。 网页正在设计，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)，谢谢！🙇
 
 ```
 	老生常谈 © 2019-2023 大萌  知识共享许可
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	个人理财金融圈 version 0.6.8	202308
+	个人理财金融圈 version 0.6.9	202308
 	https://laosheng.top/fuwu/jinrong
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
