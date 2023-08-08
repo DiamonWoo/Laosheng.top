@@ -44,18 +44,12 @@
 *	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)
 *	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 、
 	全国政协[经济委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jjwyh/)
-
-国务院：  
-**审计署**
-*	审计国家财政收支、中央预算执行。审计署[公告/报告](https://www.audit.gov.cn/n5/)。 中央审计委员会办公室设在审计署
-*	中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)
-
-**财政部**
-*	发行国债，公布中国[国债收益率曲线](http://gks.mof.gov.cn/gzsylqs/)和地方政府债券收益率曲线
-*	公布[中央金融企业名单](#YJ)，2022年27家。
-
-**国资委**
-*	公布(实业类)[央企名录](yangqi)，2022年98家。
+*	国务院：
+	* **审计署**，审计国家财政收支、中央预算执行，中央审计委员会办公室设在审计署。
+	审计署[公告/报告](https://www.audit.gov.cn/n5/)。 
+	* **财政部**，公布[中央金融企业名单](#YJ)🀄，2022年27家。
+	  *	发行国债，公布中国[国债收益率曲线](http://gks.mof.gov.cn/gzsylqs/)和地方政府债券收益率曲线
+	* **国资委**，公布(实业类)[央企名录](yangqi)⚙️，2022年98家。
 
 **中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
 主管业务：外汇/黄金/货币政策。 
@@ -66,7 +60,7 @@
 	更多内设部门、分支机构请见人行官网[机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)页。
 
 人行管理的国家局：
-*	国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)　外汇局，外汇储备约$3万亿美元。
+*	国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)　💰 外汇局，外汇储备约$3万亿美元。
 	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*世界各国的货币名称可见[世界国别速查表](../ydyl/nations)*
 
 人行组建或批准组建的交易机构：
@@ -79,10 +73,10 @@
 	保险公司[备案产品目录](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)，公布：[国债收益率](http://www.cbirc.gov.cn/cn/view/pages/index/guozhai.html)  
 
 监管以下机构 / 公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)：
-*	银行  Bank  💳超4000家，总资产超360万亿
+*	💳 银行  Bank  超4000家，总资产超360万亿
 	* [中国主要商业银行](#Dyin){:target="_top"}：国有商行 6家、全国股份制银行 12家、民营银行 17家、城市商业银行 125家
 	* 3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
-*	保险机构 Insurance 💼200多家，总资产约20万亿（财险/寿险）
+*	💼 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
 	* [保险集团与保险公司](#Dbao){:target="_top"}：保险集团 13家、保险公司 224家
 	* 保险专业中介机构
 *	信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
@@ -93,15 +87,15 @@
 主管业务：债、股、基、期。
 
 监管以下机构（3+5+x）：
-* 【[上交所](http://www.sse.com.cn)】📊 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
+* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
 	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
 	超2100家上市公司，[股票代码](http://www.sse.com.cn/assortment/stock/list/share/)60xxxx、
 	近450支[基金](http://www.sse.com.cn/assortment/fund/list/)
-* 【[深交所](https://www.szse.cn/)】📊 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
+* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
 	[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）、
 	超2700家上市公司，[股票代码](https://www.szse.cn/market/product/stock/list/)00xxxx~30xxxx、
 	近600支[基金](https://www.szse.cn/market/product/list/all/)
-* 【[北交所](http://www.bse.cn)】📊 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
+* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
 	十几种[债券](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）、
 	超 120家上市公司，[股票代码](http://www.bse.cn/nq/listedcompany.html)43xxxx~8xxxxx、
 
@@ -140,10 +134,10 @@
 
 <div id="YJ" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-中央金融企业27家
----------------
+中央金融企业 🀄
+--------------
 
-　财政部2022年1月公布，部分企业有银保监会分配的机构编码。
+　27家，财政部2022年1月公布，部分企业有银保监会分配的机构编码。
 
 1	[<b>中投</b> ‼️](http://www.china-inv.cn){:id="1"} 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 🚩 	⠀中国投资有限责任公司⠀	<b>主权财富基金</b>，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)，控参股18家金融机构，标记❗。</small>  
 2	[国开行❗](http://www.cdb.com.cn){:id="2"} 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 🚩 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
@@ -176,7 +170,7 @@
 
 <div id="Dyin" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-中国主要商业银行
+中国主要商业银行💳
 ----------------
 Banks，银保监会发布的2022年12月数据
 
@@ -364,7 +358,7 @@ Banks，银保监会发布的2022年12月数据
 
 <div id="Dbao" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-保险集团与保险公司
+保险集团与保险公司 💼
 ------------------
 Insurance 237家，银保监会发布的2022年12月数据
 
