@@ -52,6 +52,7 @@
 <a href="https://Mengso.com" title="为小众而搜">萌搜</a>、
 <a href="https://gobaidugle.com/search2?one=bing&two=sogou&keyword=谷歌镜像" 
 	title="双栏同搜，谷百度歌">双搜</a>。　	<!-- 百度似乎拒绝了 -->
+<a title="可自定义的主页，部分地区访问较慢" href="https://start.me/cn">Start.me</a> 1 2 3 4 5 
 
 *	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，不兼容古典浏览器
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
@@ -59,7 +60,7 @@
 *	盘搜     	<http://www.pansou.com >
 *	超能搜		<https://www.chaonengsou.com>
 *	Quora		#<https://www.quora.com/about>国外问答社区，比知乎更早
-*	天涯社区搜	<https://search.tianya.cn/>
+*	<del>天涯社区搜</del>	<https://search.tianya.cn/>
 
 
 2、云媒速览
@@ -107,7 +108,7 @@
 　　要登录要下载？网站上的弹窗很烦人，用上面的浏览器+浏览器扩展某某猴子+某个去弹窗脚本 = 世界终于安静了。
 
 *	浏览之器：<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软Edge浏览器，谷歌同源">Edge</a>、#<a href="https://brave.com/zh" title="js元老新作品">Brave</a>
-*	Pocket	跨设备的网页共享工具，请在你的浏览器扩展仓库中搜索
+*	[Pocket](https://getpocket.com/add/)	跨设备的网页共享工具，已被Firefox内置
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
 
 
@@ -236,15 +237,18 @@
 落榜记
 ======
 
+
+2023/7/27 	#第五段  
+	海南凯迪 早已关停。
+
 2023/6/3  	#第七段  
 	古诗词原连接 http://chinagsc.com 失效，换上名气更大的搜韵；
-	
 
 2023/05/21  	#第一段  
 	天涯社区因欠费停机暂时下榜，保留位置，等待重启。
 
 2023/04/10  	#第九段  
-	美国ip查询网站ipaddress.com下榜，发现因该站拒绝向中国地区提供服务；  
+	美国ip查询网站ipaddress.com下榜，因发现该站拒绝向中国地区提供服务；  
 	国内ip查询网站IP.cn，因定位故障降权到提名页；  
 	网站接测Boce.cn因广告和限制增加，降权到提名页。
 
@@ -308,7 +312,7 @@
 	老生常谈© 2019-2023 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202306
+	提名网站与落榜记	　202308
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
