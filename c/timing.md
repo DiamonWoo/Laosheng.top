@@ -180,7 +180,7 @@
 　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家
 
 
-8、财务自求
+8、财务自求 🍩
 ------------
 
 *	第一财经 <https://www.yicai.com >	上海文广影视集团(SMG)
@@ -194,6 +194,9 @@
 　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 *	<a href="https://www.zhihu.com/people/xing-qiu-yan-jiu-suo" title="探索极致风光">星球研究所</a>	2021年停止更新
 *	天涯法治论坛	<http://bbs.tianya.cn/list-law-1.shtml>
+*	$<a href="http://www.aisixiang.com/" title="法经管/人文社科">爱思想</a>　
+*	<a href="https://space.bilibili.com/1955809864" title="张捷财经观察 %Fx">张捷</a>财经
+*	<a title="央企股票全家福" href="https://Laosheng.top/fuwu/yangqi">央企股</a> 🧧
 
 
 9、IT洁癖
@@ -237,12 +240,13 @@
 落榜记
 ======
 
-
 2023/7/27 	#第五段  
 	海南凯迪 早已关停。
 
+
 2023/6/3  	#第七段  
 	古诗词原连接 http://chinagsc.com 失效，换上名气更大的搜韵；
+	
 
 2023/05/21  	#第一段  
 	天涯社区因欠费停机暂时下榜，保留位置，等待重启。
@@ -312,7 +316,7 @@
 	老生常谈© 2019-2023 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202308
+	提名网站与落榜记	　202310
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
