@@ -97,7 +97,7 @@ Web Site Rankings">
 <input type="Radio" name="sou" value="7">
 	德<a href="https://www.nona.de" title="德国搜索，支持中文分词">Nona</a>
 <input type="Radio" name="sou" value="8">
-	<a title="悄悄地在Wx内打开网址，方便转发时有标题">Wx网址</a>	<!-- href=""  -->
+	<a title="打开原网址，wx内转发时会有标题。">Wx网址</a>	<!-- href=""  -->
 </small>
 <!--  disabled="disabled" -->
 <br>
@@ -715,7 +715,7 @@ CC-BY-NC-ND-3.0 	可转发-原署名-非演绎
 	if (go[7].checked)	window.open("https://www.nona.de/?q=" + wen);		//德
 	//if (go[8].checked)	window.open("https://www.qwant.com/?q=" + wen).focus();	//法
 	//if (go[8].checked)	window.open("https://yandex.com/search/?text=" + wen);	//俄
-	if (go[8].checked)	window.open(wen); 	//原网址
+	if (go[8].checked)	{if (!wen.startsWith("http")) wen="http://"+wen; window.open(wen);} //原网址
 	// 9 空缺行吗？不行。
 	if (go[9].checked)	window.open("https://search.cctv.com/search.php?qtext=" + wen);
 	if (go[10].checked)	window.open("https://vip.1905.com/Search?q=" + wen);
