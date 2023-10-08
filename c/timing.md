@@ -7,9 +7,9 @@
 　　本页面为“老生常谈排行榜”页面收录提名网站、落榜网站。例如：  
 　　网页日历是一个看似普通却对技术要求非常全面的一种web程序，暂时没有发现完美的产品。一个常见问题是，号称‘万年历’但其实只能查前一百年，人民英雄纪念碑上提到的1840年查不到。
 
-*	ip138万年历	<https://qq.ip138.com/day/>		只有200年，带时区
 *	灵匣日历 	<https://www.lnka.cn/huangli.aspx>	缺少公休日
 *	日历网		<https://m.rili.com.cn/>		缺少公休日	
+*	ip138万年历	<https://qq.ip138.com/day/>		只有200年，带时区
 *	中华万年历 	<http://yun.rili.cn/wnl/index.html>	只有150年，不兼容手机Fx
 *	紫薇黄历 	<https://www.ibazi.cn/article/36361>	黄历/皇历/通书 的来历
 *	真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
@@ -32,11 +32,7 @@
 
 +	[《解放思想，实事求是，团结一致向前看》](https://fuwu.12371.cn/2012/06/11/ARTI1339401591746288.shtml)	邓小平1978年讲话 后于1983年七一发表于人民日报
 +	#老资料网	<https://www.laoziliao.net/rmrb/1983-07-01>	2021年底后访问困难
-
-*	维基百科拷贝	<https://zh.wikipedia.wikimirror.org >
-*	维基百科拷贝2	<https://kfd.me >
 *	谷歌学术镜像 	<https://ac.scmor.com >
-
 *	#美国宾州	<https://DuckDuckGo.com > 	也作；Duck.com 🦆，2008年出自麻省理工
 *	美<a href="https://teoma.com" title="美国Ask旗下">Teoma</a>	2021年底无法访问
 *	#荷兰(谷歌API)	<https://startpage.com >
@@ -57,9 +53,8 @@
 *	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，不兼容古典浏览器
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
 *	盘搜搜   	<https://www.pansoso.com >
-*	盘搜     	<http://www.pansou.com >
 *	超能搜		<https://www.chaonengsou.com>
-*	Quora		#<https://www.quora.com/about>国外问答社区，比知乎更早
+*	#Quora		#<https://www.quora.com/about>国外问答社区，比知乎更早
 *	<del>天涯社区搜</del>	<https://search.tianya.cn/>
 
 
@@ -117,20 +112,17 @@
 
 +	奇趣网站收藏家 <https://fuun.fun/ > 	看看一些新鲜网站
 +	上海篱笆网 <https://www.libaclub.com/>	2002年创立，以装修论坛起家的上海本地生活论坛
-
-+	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
-*	<a href="http://Lofter.com/view" title="网易轻博客">Lofter</a>
+*	网易轻博客<a href="http://Lofter.com/view" title="网易轻博客">Lofter</a>
 *	华为<a href="https://xinsheng.huawei.com/cn/" title="华为集团心声社区">心声</a>
 	不允许非员工发帖。
-*	搜房网[业主论坛](https://bbs.fang.com)
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
-
+*	搜房网[业主论坛](https://bbs.fang.com)
 *	[NGA BBS](https://ngabbs.com) 精英玩家俱乐部，艾泽拉斯国家地理/魔兽世界/星际争霸
++	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
 
 
 6、体育医疗保健
 ------------
-
 
 *	健客药店	<https://www.jianke.com/help/about.html>	买正品药上健客
 *	1药网 	<https://www.111.com.cn/cmsPage/2015012602/>	合法网上药店
@@ -240,9 +232,12 @@
 落榜记
 ======
 
+2023/10/9	#第一段  
+	清理去年已经停服的网站：维基百科拷贝1<https://zh.wikipedia.wikimirror.org >、维基百科拷贝2	<https://kfd.me >、
+盘搜<http://www.pansou.com >。
+
 2023/7/27 	#第五段  
 	海南凯迪 早已关停。
-
 
 2023/6/3  	#第七段  
 	古诗词原连接 http://chinagsc.com 失效，换上名气更大的搜韵；
@@ -314,7 +309,7 @@
 
 
 	老生常谈© 2019-2023 大萌	　知识共享许可
-	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
+	CC-BY-NC-ND-3.0　可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
 	提名网站与落榜记	　202310
 
