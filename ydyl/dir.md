@@ -24,12 +24,24 @@
 /	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>民间站
 </div>
 
+
+近期热点
+-------
+
+*	第三届[“一带一路”国际合作高峰论坛](http://www.beltandroadforum.org)，联合国和150多个国家的贵宾到京。
+*	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)。
+*	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”。
+
+
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
 <!-- word-break:keep-all; overflow:scroll; -->
 <textarea rows=10 cols=81 readonly="readonly" style="background-color:#F6F8FA;
 margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
-2023-07-		
+2023-10-18	习近平在人民大会堂出席第三届“一带一路”国际合作高峰论坛开幕式，同时出席的外方领导人有：阿根廷总统费尔南德斯，智利总统博里奇，刚果共和国总统萨苏，印度尼西亚总统佐科，哈萨克斯坦总统托卡耶夫，肯尼亚总统鲁托，老挝国家主席通伦，蒙古国总统呼日勒苏赫，俄罗斯总统普京，塞尔维亚总统武契奇，斯里兰卡总统维克拉马辛哈，土库曼斯坦民族领袖、人民委员会主席别尔德穆哈梅多夫，乌兹别克斯坦总统米尔济约耶夫，越南国家主席武文赏，柬埔寨首相洪玛奈，埃及总理马德布利，埃塞俄比亚总理阿比，匈牙利总理欧尔班，莫桑比克总理马莱阿内，巴基斯坦总理卡卡尔，巴布亚新几内亚总理马拉佩，泰国总理赛塔，尼日利亚副总统谢蒂马，阿联酋总统特别代表、哈伊马角酋长国酋长卡西米，法国总统特别代表、前总理拉法兰，希腊总理高级代表、发展部部长斯克雷卡斯；联合国秘书长古特雷斯、新开发银行行长罗塞夫等。
+2023-09-	
+2023-08-	
+2023-07-	
 2023-06-	
 2023-06-16	习近平在京会见比尔·盖茨(美国比尔及梅琳达·盖茨基金会)。
 2023-06-14	(中东)巴勒斯坦总统阿巴斯来华进行国事访问，与习近平会谈，双方宣布建立战略伙伴关系。
@@ -84,7 +96,7 @@ margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
 海关总署（<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>）……
 <!-- <a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）-->
 
-　　全球已有 <a target="_blank" title="截至2022年8月，一带一路官网数据" href="https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm"><b>149个国家</b></a> 签订‘共建一带一路合作文件’；　亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
+　　全球已有［152个国家](https://www.yidaiyilu.gov.cn/p/0AQNA5KS.html "截至2023年8月"){:target="_top"} <del>[149个国家](https://www.yidaiyilu.gov.cn/xwzx/roll/77298.htm "截至2022年8月")</del> 签订‘共建一带一路合作文件’；　亚投行<a title="亚洲基础设施投资银行" href="https://www.aiib.org/">AIIB</a>已有超过100个成员国。
 
 　　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
@@ -182,7 +194,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2023 大萌
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.1.2 202308
+	一带一路民间站	v3.1.3 202310
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
