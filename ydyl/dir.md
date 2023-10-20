@@ -2,7 +2,7 @@
 =================
 大萌	2022-2023	<base target="_blank">
 
-		 国之交在于民相亲 ，民相亲在于心相通 ——2017年，习近平
+		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年于北京，习近平
 
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
@@ -32,16 +32,16 @@
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)。
 *	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”。
 
-*	巴以冲突各方主流或官方媒体
+*	“巴以冲突”各方媒体
 	* 巴勒斯坦：[耶路撒冷报/Al-Quds](https://www.alquds.com/en) en、
 	[日子报/Al-Ayyam](https://www.al-ayyam.ps/)、
 	[巴勒斯坦广播公司/PBS](https://www.pbc.ps)；
 	* 以色列：[国土报/Haaretz](https://www.haaretz.co.il)、
 	 #耶路撒冷邮报/[Jerusalem Post](http://www.jpost.com) en、
 	🚫[以色列公共广播公司/KAN](https://www.kan.org.il) 拒绝中国用户访问。
-	* 黎巴嫩[国家通讯社 NNA](https://www.nna-leb.gov.lb/en/) en、
-　约旦[佩特拉通讯社](https://www.petra.gov.jo/Include/Main.jsp?lang=en)、
-　阿拉伯[叙利亚通讯社](https://sana.sy/en/)、　
+	* 黎巴嫩[国家通讯社/NNA](https://www.nna-leb.gov.lb/en/) en、
+	约旦[佩特拉通讯社](https://www.petra.gov.jo/Include/Main.jsp?lang=en) en、
+	阿拉伯[叙利亚通讯社](https://sana.sy/en/) en，　更多请见：🌞[一带一路云媒体](./)。
 
 
 一带一路外交动态 Diplomatic Dynamics
@@ -53,7 +53,6 @@ margin-left:2%;  width:90%; overflow:auto; font-size: 85%; padding: 16px;">
 2023-09-	
 2023-08-	
 2023-07-	
-2023-06-	
 2023-06-16	习近平在京会见比尔·盖茨(美国比尔及梅琳达·盖茨基金会)。
 2023-06-14	(中东)巴勒斯坦总统阿巴斯来华进行国事访问，与习近平会谈，双方宣布建立战略伙伴关系。
 2023-06-12	(中美洲)洪都拉斯总统卡斯特罗(女)来华进行国事访问，与习近平会谈，双方发表联合声明。
