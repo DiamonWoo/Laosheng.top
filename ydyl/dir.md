@@ -32,7 +32,7 @@
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)。
 *	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”。
 
-*	“巴以冲突”各方媒体
+*	💥“巴以冲突”各方媒体，[联合国新闻](https://news.un.org/zh/tags/bayichongtu)
 	* 巴勒斯坦：[耶路撒冷报/Al-Quds](https://www.alquds.com/en) en、
 	[日子报/Al-Ayyam](https://www.al-ayyam.ps/)、
 	[巴勒斯坦广播公司/PBS](https://www.pbc.ps)；
@@ -41,7 +41,7 @@
 	🚫[以色列公共广播公司/KAN](https://www.kan.org.il) 拒绝中国用户访问。
 	* 黎巴嫩[国家通讯社/NNA](https://www.nna-leb.gov.lb/en/) en、
 	约旦[佩特拉通讯社](https://www.petra.gov.jo/Include/Main.jsp?lang=en) en、
-	阿拉伯[叙利亚通讯社](https://sana.sy/en/) en，　更多请见：🌞[一带一路云媒体](./)。
+	阿拉伯[叙利亚通讯社](https://sana.sy/en/) en，　更多请见：一带一路云媒体。
 
 
 一带一路外交动态 Diplomatic Dynamics
@@ -202,9 +202,9 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
-	老生常谈© 2019~2023 大萌
+	老生常谈© 2019~2023 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站	v3.1.5 202310
+	一带一路民间站	v3.1.6 202310
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
