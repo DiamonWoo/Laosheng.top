@@ -84,12 +84,12 @@ LSIP收录进度
 *	注1：少数地名有批注，鼠标悬停可见，正在逐步添加。
 	例如：河北省 130109 藁城区 批注‘藁 gǎo，草本植物名’。
 *	注2：部分政府网址收录的是其地方介绍页，或者网站地图页。
-	例如：北京市 110111 房山区。
+	例如：北京市 110102 西城区。
 
 
 <h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　010 ♾<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
 110101 [东城区](http://www.bjdch.gov.cn )⠀
-110102 [西城区](http://www.bjxch.gov.cn )⠀
+110102 [西城区](http://www.bjxch.gov.cn/rwxc.html )⠀
 110105 [朝阳区](http://www.bjchy.gov.cn '北京朝阳,长春市有同名区')⠀
 110106 [丰台区](http://www.bjft.gov.cn )⠀
 110107 [石景山区](http://www.bjsjs.gov.cn )⠀
