@@ -22,7 +22,7 @@ LSIP收录进度
 		收录LC = 3205
 		完成率 = 99.9%
 
-+	202303　22日三亚市海棠区网站上线！为金门县、台湾省补充介绍网址。
++	202303　22日三亚市海棠区网站上线！为金门县、台湾省补充介绍网址，设计LC调整为3209。
 +	202212　网页名称由<中国千县地名图>更名为<中国千县政府网>。
 +	202209　增加各市车牌、电话区号。
 +	202208　政府网址收官，补充简称/缩略名；选录各省在线地图；区划数据截至2021年底。
@@ -79,8 +79,8 @@ LSIP收录进度
 	例如：天津市滨海新区F。
 *	d地图： 表示该地图链接限制在桌面模式下阅读(desktop)。
 	例如：6590　兵团　d天地图分享链。
-*	♾ ： 表示该地区固定电话号码为8位数，未标记的地区为7位数。
-	如：津　022 ♾ 表示外地拨打天津市的固定电话号码为 022后接8位数字。
+*	♾ ： 表示该地区固定电话号码为8位数，如：津　022 ♾。
+	 未标记的地区为7位数。
 *	注1：少数地名有批注，鼠标悬停可见，正在逐步添加。
 	例如：河北省 130109 藁城区 批注‘藁 gǎo，草本植物名’。
 *	注2：部分政府网址收录的是其地方介绍页，或者网站地图页。
@@ -88,14 +88,14 @@ LSIP收录进度
 
 
 <h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　010 ♾<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
-110101 [东城区](http://www.bjdch.gov.cn/n4659/ )⠀
-110102 [西城区](http://www.bjxch.gov.cn/rwxc.html )⠀
-110105 [朝阳区](http://www.bjchy.gov.cn/chaoyang/ '北京朝阳,长春市有同名区')⠀
-110106 [丰台区](http://www.bjft.gov.cn/ftq/mlft/mlft.shtml )⠀
-110107 [石景山区](http://www.bjsjs.gov.cn/sjsview/ )⠀
-110108 [海淀区](http://www.bjhd.gov.cn/kjhd/ )⠀
-110109 [门头沟区](http://www.bjmtg.gov.cn/bjmtg/zjmtg/ )⠀
-110111 [房山区](http://www.bjfsh.gov.cn/zjfs/ )⠀
+110101 [东城区](http://www.bjdch.gov.cn )⠀
+110102 [西城区](http://www.bjxch.gov.cn )⠀
+110105 [朝阳区](http://www.bjchy.gov.cn '北京朝阳,长春市有同名区')⠀
+110106 [丰台区](http://www.bjft.gov.cn )⠀
+110107 [石景山区](http://www.bjsjs.gov.cn )⠀
+110108 [海淀区](http://www.bjhd.gov.cn )⠀
+110109 [门头沟区](http://www.bjmtg.gov.cn )⠀
+110111 [房山区](http://www.bjfsh.gov.cn )⠀
 110112 [通州区](http://www.bjtzh.gov.cn '城市副中心，南通市有同名区')⠀
 110113 [顺义区](http://www.bjshy.gov.cn )⠀
 110114 [昌平区](http://www.bjchp.gov.cn )⠀
@@ -126,7 +126,7 @@ LSIP收录进度
 
 <h3 id="13">13 <a href="http://www.hebei.gov.cn/hebei/14462058/14462085/" title="130000 雄安新区为河北省管辖的国家级新区">河北省</a>　冀<sub>　<a href="https://map.baidu.com/search/河北省/@?querytype=s&wd=河北地图">baidu地图搜索</a></sub></h3>
 
-130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/index.html )</b>　冀A　0311 ♾　  
+130100 <b>[石家庄市](http://www.sjz.gov.cn/col/1596004092567/ )</b>　冀A　0311 ♾　  
 130102 [长安区](http://www.sjzca.gov.cn '石家庄长安,西安市有同名区')⠀
 130104 [桥西区](http://www.sjzqx.gov.cn '石家庄桥西,张家口市有同名区')⠀
 130105 [新华区](http://www.xhqsjz.gov.cn '新华区石家庄，有同名区3个')⠀
@@ -3726,7 +3726,7 @@ LSIP收录进度
 	老生常谈 © 2019-2023 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县政府网	v0.6.7	202303
+	中国千县政府网	v0.6.8	2023011
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
