@@ -19,7 +19,7 @@
 </div>
 
 简目：　1、搜罗天下　2、[云媒速览](#2云媒速览){:target="_top"}　3、电视节目单　4、[浏览之器](#4浏览之器){:target="_top"}　5、[老生常谈](#5老生常谈){:target="_top"}  
-　6、体育医疗保健　7、科研学习　8、[财务自求](#8财务自求){:target="_top"}　9、IT洁癖　10、名站导航　　[落榜记](#落榜记){:target="_top"}
+　6、体育医疗保健　7、[科研学习](#7科研学习){:target="_top"}　8、财务自求　9、[IT洁癖](#9IT洁癖){:target="_top"}　10、名站导航　　[落榜记](#落榜记){:target="_top"}
 
 
 1、搜罗天下
@@ -142,7 +142,10 @@
 
 *	<a href="https://house086.com" title="只有病友最懂你">淋巴瘤之家</a>
 *	<a href="https://www.mijian360.com/help" title="病友互助社交">觅健</a>
+
+*	中医世家《[中医方剂](https://www.zysj.com.cn/zhongyaofang/)》，超两万五千方！
 *	A+医学百科$<a href="http://a-hospital.com/w/中药" title="民间公益网站">中药</a>
+*	[医学百科](https://www.yixue.com/首页)
 <!-- w/药品 w/全国医院列表--><!-- wapypk.39.net/search -->
 <!-- so.39.net/search/yp?words= -->
 
@@ -152,7 +155,7 @@
 
 网络书店：
 
-*	当当书店 	<http://book.dangdang.com > 曾经第一的网上书店，创始人家庭不和，无心发展，至今不提供默认安全连接。
+*	当当书店 	<http://book.dangdang.com > 曾经第一的网上书店，创始人家庭不和，无心发展，<del>至今不提供</del>2023年才默认安全连接。
 *	中国图书网	<http://www.bookschina.com>  2折买尾货
 *	蔚蓝书店 	<https://www.wl.cn>
 *	亚马逊书店	2019年下半年亚马逊停止国内实体书销售
@@ -208,7 +211,7 @@
 *	从境外看ip的网站：<https://iplocation.com>、<https://whatismyipaddress.com/>
 
 *	[ITDog](https://www.itdog.cn/http/) 蜀，[VSping](https://www.vsping.com/) 蜀，
-	[拔测](https://www.boce.com/hijack/) 闽，[帝恩思](https://www.dns.com/wangzhanjiance) 闽，
+	[拔测](https://www.boce.com/hijack/) 闽，[帝恩思](https://www.dns.com/wangzhanjiance) 闽，ChinaZ.com ，
 	[谛听](https://www.zmonitor.net/) 豫，[爱站](https://www.aizhan.com/) 粤，
 	[17测](http://17ce.com/) 沪
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
@@ -309,9 +312,9 @@
 
 
 	老生常谈© 2019-2023 大萌	　知识共享许可
-	CC-BY-NC-ND-3.0　可转载-需署名-非衍生-非营利
+	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202310
+	提名网站与落榜记	　202311
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
