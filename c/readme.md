@@ -1,12 +1,9 @@
-[老生](../)常谈
+老生[常谈](./)
 ================
 大萌 © 2020-2023
 
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
-<div align="right">
-⏩老生常谈 / <a href="https://Laosheng.top/c/" target="_top" title="四大系列之外的文章">大萌的老生常谈</a>
-</div>
 
 + [‘老生常谈’的成语本义](chengyu)
 
@@ -20,6 +17,8 @@
 
 
 + [从世界杯看国别表](../broad/2022/worldcup) 🏆
+
++ 人类命运共同体的英文翻译，[union of human fate](https://laosheng.top/ydyl/union_of_human_fate "人类命运共同体")
 
 + [手机App和浏览器到底有什么区别？](app-browser-diff.txt)	App和浏览器的三个区别
 
