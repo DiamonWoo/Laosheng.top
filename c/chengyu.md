@@ -6,6 +6,9 @@
 
 　　‘老生常谈’是个成语，原作：老生之常谭，出自《三国志-魏书二十九-管辂传15》。大萌抄录如下，内容引自[中国哲学书电子化计划](https://ctext.org/sanguozhi/zhs)。该书为西晋时期陈寿所著史书，在二十四史中排名第四。
 
+<div align="right">
+⏩老生常谈 / <a href="https://Laosheng.top/c/" target="_top" title="四大系列之外的文章">大萌的老生常谈</a>
+</div>
 
 三国志管辂传
 -----------
