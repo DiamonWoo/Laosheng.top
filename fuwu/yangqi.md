@@ -1,12 +1,12 @@
 央企股票全家福 🧧 <sub>国计民生胆气足</sub>
 ================
-大萌	　202302-202308	<base target="_blank">
+大萌	　202302-202312	<base target="_blank">
 
 		你们尽管想象，我们负责实现 —— 国资小新评《流浪地球2》，20230130
 
 　　2022年底，国资委网站发布了最新的《[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)》，共98家中央直属国企。这是《国企改革三年行动方案（2020—2022年）》收官后的最新阵容，中央企业存量法人户数大幅压减。在这些国资委监管的实业类央企外，广义的央企还包括：文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……）。
 
-　　这些央企多是大型集团，有的旗下公司在沪深、海外上市，有的拥有自己的新闻出版机构。央企的主营业务涉及国计民生的方方面面，是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌一方面编纂**中央企业分类图谱**，帮助大家看到央企全貌；另一方面用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址与发行股票。做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
+　　这些央企多是大型集团，有的旗下公司在沪深、海外上市，有的拥有自己的新闻出版机构。央企的主营业务涉及国计民生的方方面面，是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌一方面编纂**央企分类图谱**，帮助大家看到央企全貌；另一方面用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址与发行股票。做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
 
 　　‘央企股’具体收录：四大类中央企业网站群、国资委央企名录、央企官网与微博、新闻出版机构/免费的数字报📰，以及：国资委央企旗下大约四百家上市公司的股票简称、代码与行情页📈、公司全名与官网。收录工作仍在进行，欢迎提出意见。网页数据密集，请善用浏览器页内搜索。
 
@@ -21,21 +21,22 @@
 		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预期值）
 		 完成率 ≈ 　87.7%
 
-+	202307~Now：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
++	202307~08：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
 +	202302~202304：收录国资委主管央企98家，尚有一半网站群待收录；收录央企上市公司400余支股票，名称与网址均接近完成。v0.2.0~v0.4.6
 
 
 改革近况
 --------
 
-*	2023-06-　，中国电气装备集团、中国物流集团 网站开通。　
+*	2023-11-23，华录集团[#93](#93)并入中国电科[#8](#8)，实业央企总数由98减为97家。
+*	2023-06 　，中国电气装备集团、中国物流集团 网站开通。　
 *	2023-03-27，二十届中央第一轮巡视将对中国电科/中国移动等[30家中管企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记🚩)党组开展常规巡视。
 *	2022-12-31，中国南水北调集团有限公司(48) 列入国资委履行出资人职责企业名单（直接监管）。
 *	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武(35)，不再由国资委直接监管。
-*	2021-01-　，对外文化集团整体划转至紫荆文化集团。
+*	2021-01 　，对外文化集团整体划转至紫荆文化集团。
 
 
-<h2 id='tupu'>中央企业分类图谱 🧧</h2>
+<h2 id='tupu'>央企分类图谱 🧧</h2>
 
 　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企，也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
@@ -58,7 +59,7 @@
 	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
 
 *	中央金融企业 🥯，27家，2022年**财政部**公布名单：工行/中信/人保……
-	* [个人理财金融圈⇗](https://Laosheng.top/fuwu/jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
+	* [〖个人理财金融圈〗⇗](https://Laosheng.top/fuwu/jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
 
 *	中央实业企业 ⚙️，98家，2022年**国资委**公布名单：中核/电信/中粮……
 	* [<b>国资委央企名录</b>▼](#GZ){:target="_top"} <sub>（部分从事金融业）</sub>
@@ -68,10 +69,10 @@
 *	[参考文献](#D7){:target="_top"}与国资委网址
 
 
-部分央企网站群
+部分央企网站群<sup>文化类行政类</sup>
 -------------
 
-　　部分央企官网没有为子公司网站群提供独立页面，本段将这些网站群收录如下，方便读者查找。初始网址来自官方，有个别失效。
+　　在文化类和行政类央企中，部分官网没有为子公司网站群提供独立页面，本段将这些网站群收录如下，方便读者集中查找。个别子站网址失效，大萌会尽力更新，欢迎读者反馈。
 
 <div id="W2"><a href="#tupu" target="_top">▲</a>　
 🌻 <b>中国广电集团</b></div>
@@ -143,7 +144,7 @@
 	<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
 	<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
 	<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
-	<a href="http://www.ems.com.cn/">寄递事业部</a>
+	EMS<a href="http://www.ems.com.cn/">寄递事业部</a>📠 11183
 *	直属单位与工会：<small>
 	<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
 	<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
@@ -164,11 +165,11 @@
 *	[国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[新媒体](http://www.china-railway.com.cn/wnfw/jzlm/)矩阵
 *	国铁所属企业：
 	* 铁路局集团公司（18个）：	哈尔滨局、
-	国铁[沈阳局](https://www.sytlj.com/)%、北京局、太原局、呼和浩特局、
+	国铁[沈阳局](https://www.sytlj.com/ "%Fx崩溃")%、北京局、太原局、呼和浩特局、
 	郑州局、武汉局、西安局、济南局、上海局、国铁[南昌局](http://www.ncjrailway.com)、
 	国铁[广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
 	国铁[南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
-	成都局、昆明局、兰州局、乌鲁木齐局、青藏  
+	成都局？、昆明局、兰州局、乌鲁木齐局、青藏  
 	* 川藏铁路有限公司  
 	* 专业运输公司（3个）：
 	[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")、
@@ -262,7 +263,7 @@
 5⠀🚢	[中国船舶](http://www.csic.com.cn){:id="5"} 	⠀CSSC <small>[网站群](http://www.csic.com.cn/n11/)	⠀上海市 🚩 	⠀[<b>6</b>家上市▽](#G5){:target="_top"}	⠀中国船舶集团有限公司 	⠀[wb](https://weibo.com/n/中国船舶)	⠀《[中国造船](http://www.csic.com.cn/n5/n116/)》，中国船舶报/[📰](http://zgcbb.cnepaper.com/zgcbb/)等出版物</small>  
 6⠀💥	[兵器工业集团](http://www.norincogroup.com.cn){:id="6"} 	⠀NORINCO Group <small>[网站群](http://www.norincogroup.com.cn/col/col193/)	⠀北京 🚩 	⠀[<b>12</b>家上市▼](#G6){:target="_top"}	⠀中国兵器工业集团有限公司 	⠀[wb](https://weibo.com/n/兵工之声)	⠀兵器知识 等[兵工刊物](http://www.norincogroup.com.cn/col/col92/)</small>  
 7⠀💥	[兵器装备集团](https://www.csgc.com.cn){:id="7"} 	⠀CSGC <small>[网站群](https://www.csgc.com.cn/1073.html)	⠀北京 🚩 	⠀[<b>8</b>家上市▽](#G7){:target="_top"}	⠀中国兵器装备集团有限公司 	⠀[wb](https://weibo.com/n/中国兵器装备集团)	⠀[期刊杂志](https://www.csgc.com.cn/1090.html)/中国兵器报/[wb](https://weibo.com/zgbqb)</small>  
-8⠀✡	[中国电科](http://www.cetc.com.cn){:id="8"} 	⠀CETC <small>[网站群](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)	⠀北京 🚩 	⠀[<b>13</b>家上市▼](#G8){:target="_top"}	⠀中国电子科技集团有限公司 	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报，[上市公司](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)栏</small>  
+8⠀✡	[中国电科](http://www.cetc.com.cn){:id="8"} 	⠀CETC <small>[网站群](http://www.cetc.com.cn/zgdk/1593105/1593109/index.html)	⠀北京 🚩 	⠀[<b>13</b>家上市▼](#G8){:target="_top"}	⠀中国电子科技集团有限公司 	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报，[上市公司](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)股价</small>  
 9⠀🚀	[中国航发](https://www.aecc.cn){:id="9"} 	⠀AECC <small>[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	⠀北京 🚩 	⠀[<b>3</b>家上市▽](#G9){:target="_top"}	⠀中国航空发动机集团有限公司 	⠀- -	⠀下辖27家直属单位、3家主板上市公司</small>  
 10⠀💰	[中国融通集团](https://www.crtamg.com.cn){:id="10"} 	⠀CRTC <small>[网站群](https://www.crtamg.com.cn/ywly/zykf/)	⠀北京 🚩 	⠀[<b>0</b>家上市▼](#G10){:target="_top"}	⠀中国融通资产管理集团有限公司 	⠀- -	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)</small>  
 11⠀⛽	[中国石油](http://www.cnpc.com.cn){:id="11"} 	⠀CNPC <small>[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀北京 🚩 	⠀[<b>4</b>家上市▽](#G11){:target="_top"}	⠀中国石油天然气集团有限公司 	⠀[wb](https://weibo.com/n/中国石油)	⠀✆ 956100，[国际油价](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)，[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)</small>  
@@ -346,13 +347,15 @@
 89⠀⛑️	[中国安能](https://www.china-an.cn){:id="89"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G89){:target="_top"}	⠀中国安能建设集团有限公司 	⠀- -	</small>  
 90⠀💰	[中国黄金](http://www.chinagoldgroup.com){:id="90"} 	⠀　　 - - - <small>	⠀北京  	⠀[<b>1</b>家上市▼](#G90){:target="_top"}	⠀中国黄金集团有限公司 	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	</small>  
 91⠀☢️	[中广核](http://www.cgnpc.com.cn){:id="91"} 	⠀　　 - - - <small>	⠀深圳市  	⠀[<b>3</b>家上市▽](#G91){:target="_top"}	⠀中国广核集团有限公司 	⠀[wb](https://weibo.com/n/中国广核集团)	</small>  
-92⠀📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀HuaLu - - - <small>	⠀大连市  	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	⠀首页底部找‘华录群站’，[出版传媒](https://www.hualupm.com.cn)有限公司</small>  
+<del>92</del>⠀📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀HuaLu - - - <small>	⠀大连市  	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	⠀首页底部找‘华录群站’，[出版传媒](https://www.hualupm.com.cn)有限公司</small> 202311并入中国电科[#8](#8)  
 93⠀🎠	[华侨城集团](https://www.chinaOCT.com){:id="93"} 	⠀OCT <small>[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀深圳市  	⠀[<b>4</b>家上市▽](#G93){:target="_top"}	⠀华侨城集团有限公司 	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
 94⠀🛢️	[南光集团](http://www.namkwong.com.mo){:id="94"} 	⠀Nam Kwong <small>[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀中国澳门  	⠀[<b>0</b>家上市▼](#G94){:target="_top"}	⠀南光(集团)有限公司／中国南光集团有限公司 	⠀- -	</small>  
 95⠀✡	[中国电气装备](http://www.cee-group.cn){:id="95"} 	⠀CEE - - - <small>	⠀上海市  	⠀[<b>4</b>家上市▽](#G95){:target="_top"}	⠀中国电气装备集团有限公司 	⠀- -	⠀[行业期刊](http://www.cee-group.cn/fwpt/xyqk1.htm)：《[电瓷避雷器](http://www.dcblq.com)》等，网站建设中…</small>  
 96⠀📦	[中国物流](https://www.chinalogisticsgroup.com.cn){:id="96"} 	⠀ChinaLogistics - - - <small>	⠀北京  	⠀[<b>4</b>家上市▼](#G96){:target="_top"}	⠀中国物流集团有限公司 	⠀- -	⠀页底找[所属企业](https://www.chinalogisticsgroup.com.cn/zh-cn/disclosure/zdsx/)，《中国储运》等[期刊](https://www.chinalogisticsgroup.com.cn/zh-cn/news/magazine/)</small>  
 97⠀💰	[中国国新](https://www.crhc.cn){:id="97"} 	⠀CRHC <small>[网站群](https://www.crhc.cn/sczqywz/A001014index_1.htm)	⠀北京  	⠀[<b>1</b>家上市▽](#G97){:target="_top"}	⠀中国国新控股有限责任公司 	⠀[wb](https://weibo.com/n/中国国新)	</small>  
 98⠀🧪	[中国中检](http://www.ccic.com){:id="98"} 	⠀CCIC <small>[网站群](http://www.ccic.com/ccic/lxwm/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G98){:target="_top"}	⠀中国检验认证(集团)有限公司 	⠀- -	</small>  
+
+202311，原第92家央企华录集团并入第8家中国电科，央企总数由98减为97家，本页面暂时保留原98家编号。
 
 
 <div id="tuli" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
@@ -880,7 +883,7 @@
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 version 0.5.0	202308
+	央企股票全家福 version 0.5.1	202312
 	https://Laosheng.top/fuwu/yangqi
 ```
 
