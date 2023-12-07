@@ -9,13 +9,13 @@
 +	./dir　　　　本目录页
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社，按丝绸之路排列；收录习主席发表署名文章的海外报纸56家。（默认页）
 
++	./united　🇺🇳 [联合国有关部门](united)——专业性与区域性国际组织，联合国机关与系统、中国发起的国际组织；ISO、奥委会、教科文、世卫WHO……（新版）
 +	./nations　🗺 [世界国别速查表](nations){:target="_top"}，联合国会员国列表、ISO代码、电信区号、货币汇率查询，各国驻华使馆、政府官网…… （已竣工）
 
-+	./united　🇺🇳 [联合国有关部门](united)——合作与发展：主要国际组织，ISO、奥委会…… 联合国机关与系统，教科文、世卫WHO……（已改版）
++	./[dianyingjie](dianyingjie) 🎞️ 老生常谈电影节，每个月都有的电影节，戛纳、奥斯卡、天坛奖…… 国际赛事与奖项：大运会/奥斯卡/诺贝尔……（正在收录）
++	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，中国主要国际交易会和博览会（正在改版）
 
-+	./jiaoyihui　💫 [交易会与电影节](jiaoyihui)，中国主要国际交易会和博览会、每个月都有的电影节🎞️、 中国发起的国际组织。 国际赛事与奖项：大运会/奥斯卡/诺贝尔……（新品亮相！）
-
-+	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 全球金融交易所　Globe Finance（Beta，等待设计）
++	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 环球金融交易所　Globe Finance（Beta，等待设计）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
@@ -204,7 +204,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2023 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站	v3.1.6 202310
+	一带一路民间站	v3.1.7 202312
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
