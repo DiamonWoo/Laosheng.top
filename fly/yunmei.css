@@ -58,9 +58,9 @@
 	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
 
 /* 联合国有关部门 */
-	table.国际云 {	margin-right: 2%;	margin-left: 2%;}	/*margin-left: 1em;*/
+	table.国际云 {margin-left: 1%; 	margin-right: 3%;}	/* %2 margin-left: 1em;*/
 	table.国际云 td {text-align: center;	}
-	h3.国际范 { 	margin-top: -1em; }
+	h3.国际范	{margin-top: -1em; }
 
 /* 中图法表格测试 */
 	table.AZ{font-size: 0.75em; 
