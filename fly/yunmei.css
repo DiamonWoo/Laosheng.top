@@ -5,10 +5,9 @@
 		background-repeat: no-repeat;
 /* background: hsl(215, 90%, 95%); LightCyan  WhiteSmoke;	v2.0 #FAFAD2 ;#f2f9ff */
 /* v1.9.8 rgb(255,255,200) #EEEECC LightYellow #FFFFE0  Cornsilk #FFF8DC LightGoldenRodYellow #FAFAD2 */
-		margin-left:1em; 		/* rem反而更小，奇怪。	margin-left:3%;*/
-		/* margin-right: 2%;大表格右侧仍未完整 */
-		line-height: 1.75; 
-		/*word-spacing:0;	letter-space:0;*/
+		/* margin-left:1em; 		rem反而更小，奇怪。	margin-left:3%;*/
+		margin: auto;			/* margin-right: 2%;大表格右侧仍未完整 */
+		line-height: 1.75; 		/*word-spacing:0;	letter-space:0;*/
 		}
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
 	h2#top	{margin-top: -2%}	
@@ -58,7 +57,7 @@
 	span.xi	{background-color: LightCoral;}	/* 西班牙语 西语土红色 PaleVioletRed Chocolate */
 
 /* 联合国有关部门 */
-	table.国际云 {margin-left: 1%; 	margin-right: 3%;}	/* %2 margin-left: 1em;*/
+	table.国际云 {margin-left: 0%; 	margin-right: 2%;}	/*  %2 margin-left: 1em;*/
 	table.国际云 td {text-align: center;	}
 	h3.国际范	{margin-top: -1em; }
 
