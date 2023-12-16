@@ -3,7 +3,7 @@
 
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
-　　这里是民间网站老生常谈，主要**收录**：法律、政务(经济/民生)、新闻、全球化等四大系列的官方**网址**。这些官网承担了很多信息披露的法定职责，构成了“数字中国”的软件基础设施。大萌为这些官方网址**设计**容易检索的结构性目录，创作高质量的[大规模集成网页](https://cn.bing.com/search?q=大规模集成网页){:target="_blank"}(LSIP)<sup>⇗</sup>。希望老生常谈网站能为网民“快速找到有效信息”节约时间，为中文互联网描绘新时代的**知识图谱**。
+　　这里是民间网站<u>老生常谈</u>，主要**收录**：法律、政务(经济/民生)、新闻、全球化等四大系列的官方**网址**。这些官网承担了很多信息披露的法定职责，构成了“数字中国”的软件基础设施。大萌为这些官方网址**设计**容易检索的结构性目录，创作高质量的[大规模集成网页](https://cn.bing.com/search?q=大规模集成网页){:target="_blank"}(LSIP)<sup>⇗</sup>。希望老生常谈网站能为网民“快速找到有效信息”节约时间，为中文互联网描绘新时代的**知识图谱**。
 
 　　本站结构性目录如下，详细目录请进入各系列页面：
 
@@ -37,13 +37,13 @@
   + /ydyl/united　🇺🇳 [联合国有关部门](ydyl/united )：四大类主要国际组织，突出网站支持语言。(新版)  
    🚄🚃☁🚃☁……
 
-〖工具页面〗
+〖工具页面〗<br>
   + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
   + /c/timing ⠀[提名网站和落榜记](c/timing)
   + 从地名图学习SQLite数据库，[待更新](fuwu/diming4SQLite)……
   + «发现软件之海»培训课程，规划中……
 
-〖衍生项目〗
+〖衍生项目〗<br>
   + /yan/LSIP，[大规模集成网页](https://diamonwoo.github.io/LSIP)，集成超过1000个超链接的网页。
   + /yan/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重（没空写）
   + /fuwu/dimingku 　 中国千县地名库、世界国别代码库，待升级……
@@ -95,9 +95,9 @@
 
 　　感谢Github为“老生常谈”提供网站托管与markdown文档编译；感谢谋智开发者网络(MDN)提供web技术文档；感谢W3C北航总部提供w3school早期教程。 LaoSheng.top 网站努力建设中！  
 
-![感谢Github支持本站](thanks4github-90.png)<!-- http://loucypher.github.io/images/octocat.png -->
-![谋智开发者网络](thanks-MDN-64.png)
-![W3北航总部](thanks-W3C-72.png)
+![感谢Github支持本站](thanks4github.png)<!-- http://loucypher.github.io/images/octocat.png -->
+![谋智开发者网络](thanks4MDN.png)
+![W3北航总部](thanks4W3C.png)
 
 	老生常谈© 2019~2023 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
