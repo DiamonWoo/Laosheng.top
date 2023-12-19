@@ -6,7 +6,7 @@
 
 　　2022年底，国资委网站发布了最新的《[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)》，共98家中央直属国企。这是《国企改革三年行动方案（2020—2022年）》收官后的最新阵容，中央企业存量法人户数大幅压减。在这些国资委监管的实业类央企外，广义的央企还包括：文化类央企3家（出版/对外/广电）、行政类央企4家（国铁/邮政/烟草/北大荒）、金融类央企26家（工行/中信/人保……）。
 
-　　中央企业多是大型集团，在全国乃至全球各地有子公司，有的子公司在沪深、海外上市，有的拥有自己的新闻出版机构。央企的主营业务涉及国计民生的方方面面，是中国经济高质量发展的中坚力量，了解**央企股**就是了解中国经济。大萌一方面编纂**广义央企分类图谱**，帮助大家看到央企全貌；另一方面用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录 国资委监管的(实业类)央企相关网址与发行股票。做成‘央企股票全家福’网页，争取成为央企网址全集，为股民了解‘央企股’节约时间。
+　　中央企业多是大型集团，在全国乃至全球各地有子公司，有的拥有自己的新闻出版机构，有的子公司在沪深、海外上市。央企的主营业务涉及国计民生的方方面面，是中国经济高质量发展的中坚力量。大萌一方面罗列**广义央企四大类**网站群，另一方面针对其中实业类央企，用[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)形式收录90余家央企及其400余家子公司发行股票与公司网址，做成‘央企股票全家福’网页。了解**央企股**就是了解中国经济。
 
 　　‘央企股’具体收录：四大类中央企业网站群、国资委央企名录、央企官网与微博、新闻出版机构/免费的数字报📰，以及：国资委央企旗下大约四百家上市公司的股票简称、代码与行情页📈、公司全名与官网。收录工作仍在进行，欢迎提出意见。网页数据密集，请善用浏览器页内搜索。
 
@@ -36,24 +36,24 @@
 *	2021-01 　，对外文化集团整体划转至紫荆文化集团。
 
 
-<h2 id='tupu'>广义央企分类图谱 🧧</h2>
+<h2 id='tupu'>广义央企四大类 🌻👔🥯⚙️</h2>
 
 　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企，也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
 *	中央文化企业 🌻，3家
 	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
 	　有关部门：国务院/[文化旅游部](https://www.mct.gov.cn)
-	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群▼](#W2){:target="_top"}，中国电视报[📰](https://zgdsb.cctv.com/paper/)
+	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群⇓](#W2){:target="_top"}，中国电视报[📰](https://zgdsb.cctv.com/paper/)
 	　有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
-	* 紫荆文化集团[]()有限公司 BCHL 香港/深圳　[网站群▽](#W3){:target="_top"}，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
+	* 紫荆文化集团[]()有限公司 BCHL 香港/深圳　[网站群⇓](#W3){:target="_top"}，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
 	　有关部门：中共中央/宣传部[]()
 
 *	中央行政企业 👔，4家
-	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群▼](#X1){:target="_top"}，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
+	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群⇓](#X1){:target="_top"}，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家邮政局](https://www.spb.gov.cn)
-	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群▽](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
+	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群⇓](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家铁道局](https://www.nra.gov.cn)
-	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群▼](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群⇓](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	　有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn) /[国家烟草专卖局](http://www.tobacco.gov.cn/)
 	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
 	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
@@ -62,7 +62,7 @@
 	* [〖个人理财金融圈〗⇗](https://Laosheng.top/fuwu/jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
 
 *	中央实业企业 ⚙️，98-1家，2023年**国资委**公布名单：中核/电信/中粮……
-	* [<b>国资委央企名录</b> ▼](#GZ){:target="_top"} <sub>（部分从事金融业）</sub>
+	* [<b>国资委央企名录</b> ⇓](#GZ){:target="_top"} <sub>（部分从事金融业）</sub>
 	* [图例与统计](#tuli){:target="_top"}📊
 	* 国资委央企发行股票📈 及 [旗下上市公司](#GP){:target="_top"}
 
@@ -74,7 +74,7 @@
 
 　　在文化类和行政类央企中，部分官网没有为子公司网站群提供独立页面，本段将这些网站群收录如下，方便读者集中查找。个别子站网址失效，大萌会尽力更新，欢迎读者反馈。
 
-<div id="W2"><a href="#tupu" target="_top">▲</a>　
+<div id="W2"><a href="#tupu" target="_top">⇑</a>　
 🌻 <b>中国广电集团</b></div>
 
 *	下属公司：
@@ -126,7 +126,7 @@
 　[宁夏广电](http://www.nx96200.cn)
 　[新疆广电](http://www.xjgdj.gov.cn)
 
-<div id="W3"><a href="#tupu" target="_top">△</a>　
+<div id="W3"><a href="#tupu" target="_top">⇑</a>　
 🌻 <b>紫荆文化集团</b>　下属或控股企业：</div>
 
 *	中国[对外文化集团](http://www.caeg.cn)有限公司：[活动品牌](http://www.caeg.cn/whjtgs/ppxm/events.shtml)
@@ -136,7 +136,7 @@
 *	香港联艺机构有限公司，从事内地与香港文化交流的文化机构
 *	[凤凰卫视](https://phtv.ifeng.com)投资（控股）有限公司（占股份21％）
 
-<div id="X1"><a href="#tupu" target="_top">▲</a>　
+<div id="X1"><a href="#tupu" target="_top">⇑</a>　
 👔 <b>中国邮政集团</b></div>
 
 *	控股公司与EMS：
@@ -159,7 +159,7 @@
 	<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
 </small>
 
-<div id="X2"><a href="#tupu" target="_top">△</a>　
+<div id="X2"><a href="#tupu" target="_top">⇑</a>　
 👔 <b>国家铁路集团</b></div>
 
 *	[国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[新媒体](http://www.china-railway.com.cn/wnfw/jzlm/)矩阵
@@ -186,7 +186,7 @@
 *	所属事业单位（3个）：	铁道党校、
 	[中国铁道博物馆](http://www.china-rail.org.cn)、铁道战备舟桥处。
 
-<div id="X3"><a href="#tupu" target="_top">▲</a>　
+<div id="X3"><a href="#tupu" target="_top">⇑</a>　
 👔 <b>中国烟草集团</b></div>
 
 *	直属机构：
@@ -217,7 +217,7 @@
 　[湖南](http://hn.tobacco.gov.cn)
 　[广东](http://gd.tobacco.gov.cn)
 　[广西](http://gx.tobacco.gov.cn)
-　[海南](https://hi.tobacco.gov.cn)
+　[海南](https://hi.tobacco.gov.cn)？
 　<i>[深圳](https://sz.tobacco.gov.cn)</i>
 　[重庆](http://cq.tobacco.gov.cn)
 　[四川](http://sc.tobacco.gov.cn)
@@ -240,7 +240,7 @@
 　[河南中烟工业](https://www.hatic.com)
 　[湖北中烟工业](http://hbgy.tobacco.com.cn)
 　[湖南中烟工业](http://hngy.tobacco.com.cn)
-　[广东中烟工业](http://gdgy.tobacco.com.cn)
+　[广东中烟工业](https://www.gdzygy.com)
 　[广西中烟工业](http://gxgy.tobacco.com.cn)
 　[重庆中烟工业](http://cqgy.tobacco.com.cn)
 　[四川中烟工业](http://scgy.tobacco.com.cn)
@@ -883,7 +883,7 @@
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 version 0.5.1	202312
+	央企股票全家福 version 0.5.2	202312
 	https://Laosheng.top/fuwu/yangqi
 ```
 
