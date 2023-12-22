@@ -50,7 +50,7 @@
 	title="双栏同搜，谷百度歌">双搜</a>。　	<!-- 百度似乎拒绝了 -->
 <a title="可自定义的主页，部分地区访问较慢" href="https://start.me/cn">Start.me</a> 1 2 3 4 5 
 
-*	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，不兼容古典浏览器
+*	F搜		<https://fsou.cc/>%		上海新出的搜索聚合网站，不兼容古典浏览器。<a href="https://fsoufsou.com/translate" title="F搜索提供的翻译，谷歌风格">F 翻译</a>
 *	夸克神马搜索	<https://quark.sm.cn >		阿里和UC浏览器合作的移动端搜索
 *	盘搜搜   	<https://www.pansoso.com >
 *	超能搜		<https://www.chaonengsou.com>
@@ -95,16 +95,24 @@
 4、浏览之器
 -----------
 
-+	☆<a  title="author/安装包不到1MB的极小安卓浏览器.txt">1MB浏览器</a>：Via、X-beta……
 +	谷歌火狐浏览器扩展：暴力猴 <https://github.com/violentmonkey/violentmonkey>
 +	暴力猴脚本搜索： <https://greasyfork.org/zh-CN/>
 +	暴力猴脚本举例：知乎去弹窗 <https://greasyfork.org/zh-CN/scripts/419081-知乎增强>
 
-　　要登录要下载？网站上的弹窗很烦人，用上面的浏览器+浏览器扩展某某猴子+某个去弹窗脚本 = 世界终于安静了。
+　　要登录要下载？网站上的弹窗很烦人，用Via、X…浏览器+某某猴子扩展+某个去弹窗脚本 = 世界终于安静了。
 
-*	浏览之器：<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软Edge浏览器，谷歌同源">Edge</a>、#<a href="https://brave.com/zh" title="js元老新作品">Brave</a>
+*	浏览之器：Edge<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软出品，与谷歌同源">商业版</a>、#<a href="https://brave.com/zh" title="js元老新作品">Brave</a>
 *	[Pocket](https://getpocket.com/add/)	跨设备的网页共享工具，已被Firefox内置
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
+
+*	$<a href="http://www.appchina.com/soft" title="2010年上线">应用汇</a>
+*	网页提供apk：<a href="https://shouji.baidu.com/soft" title="百度手机助手">百度</a>手机助手、
+	360[手机助手](https://zhushou.360.cn/soft/)
+*	不在网页提供apk安装包下载：
+	<a href="https://app.mi.com/category/5" title="无分类目录，请搜索">小米</a>、
+	魅族[Flyme](https://app.meizu.com/)应用市场、
+	阿里巴巴[pp助手](https://m.pp.cn/soft.html)
+*	翻应用[iapps.me](https://www.iapps.me/iapps)
 
 
 5、老生常谈
@@ -194,7 +202,7 @@
 *	<a title="央企股票全家福" href="https://Laosheng.top/fuwu/yangqi">央企股</a> 🧧
 
 
-9、IT洁癖
+9 IT洁癖
 ---------
 
 *	<a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a>
@@ -202,6 +210,7 @@
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
 *	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
+*	经典双栏文件管理器TC的安卓版本，在其瑞士论坛提供[下载](https://www.ghisler.ch/board/viewforum.php?f=22)
 
 *	CnBtea； 	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
