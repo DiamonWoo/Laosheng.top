@@ -19,7 +19,7 @@
 </div>
 
 简目：　1、搜罗天下　2、[云媒速览](#2云媒速览){:target="_top"}　3、电视节目单　4、[浏览之器](#4浏览之器){:target="_top"}　5、[老生常谈](#5老生常谈){:target="_top"}  
-　6、体育医疗保健　7、[科研学习](#7科研学习){:target="_top"}　8、财务自求　9、[IT洁癖](#9IT洁癖){:target="_top"}　10、名站导航　　[落榜记](#落榜记){:target="_top"}
+　6、体育医疗保健　7、[科研学习](#7科研学习){:target="_top"}　8、财务自求　9、[IT洁癖](#9it洁癖){:target="_top"}　10、名站导航　　[落榜记](#落榜记){:target="_top"}
 
 
 1、搜罗天下
@@ -202,7 +202,7 @@
 *	<a title="央企股票全家福" href="https://Laosheng.top/fuwu/yangqi">央企股</a> 🧧
 
 
-9 IT洁癖
+9、IT洁癖
 ---------
 
 *	<a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a>
