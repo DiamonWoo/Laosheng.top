@@ -17,9 +17,9 @@
 央企股LSIP进度
 --------------
 
-		完成 LC = 1109	　v0.4.2
-		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预期值）
-		 完成率 ≈ 　87.7%
+		完成 LC = 1165	　v0.5.3
+		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预估数）
+		 完成率 ≈ 　92.1%
 
 +	202312：收录国资委98-1家央企的网站群和数字报。v0.5.1~Now
 +	202307~08：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
@@ -68,186 +68,6 @@
 	* 国资委央企发行股票📈 及 [旗下上市公司](#GP){:target="_top"}
 
 *	[参考文献](#D7){:target="_top"}与国资委网址
-
-
-广义央企网站群
---------------
-
-　　在文化类和行政类央企中，部分官网没有为子公司网站群提供独立页面，本段将这些网站群收录如下，方便读者集中查找。个别子站网址失效，大萌会尽力更新，欢迎读者反馈。
-
-<div id="W2"><a href="#tupu" target="_top">⇑</a>　
-🌻 <b>中国广电集团</b></div>
-
-*	下属公司：
-　[中国有线](http://www.cncatv.com)电视网络有限公司
-　中广传播[](http://www.cbc.cn)集团有限公司
-　[中广电传媒](http://www.cbn-cbm.com)有限公司  
-*	总局直属机构：
-　[广播电视卫星直播管理中心](http://www.huhutv.com.cn)
-　[广播科学研究院](http://www.abs.ac.cn)
-　[广播电视规划院](http://www.abp2003.cn)
-　[中广电设计院](http://www.drft.com.cn)
-　中国爱乐乐团[](http://www.cpolive.com)
-　[广电总局机关服务局](http://www.gdhouqin.com)
-　广电总局研修学院[](http://www.rti.org.cn)
-　广播影视人才交流中心[](http://www.rfthr.com)
-　中国广播影视出版社[](http://www.crtp.com.cn)
-　[中广联合会](http://www.carft.cn)
-　[中广国际总公司](http://www.crtv.com.cn)
-*	各省网公司：
-　[北京广电](http://www.bgctv.com.cn)
-　[天津广电](https://www.tjbtn.net)
-　[河北广电](http://www.hbgdwl.com)
-　[山西广电](http://www.hbgdwl.com)
-　[内蒙古广电](http://www.96066.com)
-　[辽宁广电](http://www.bfgd.com.cn)
-　[吉林广电](http://www.jishimedia.com)
-　[黑龙江广电](http://www.ljgdwl.cn)
-　[上海广电](http://www.ocn.net.cn)
-　[江苏广电](https://www.jscnnet.com)
-　[浙江广电](https://www.wasu.com.cn)
-　[安徽广电](http://www.ahitv.com)
-　[福建广电](http://www.fjgdwl.com)
-　[江西广电](http://www.jxtvnet.com)
-　[山东广电](http://www.sdgdwljt.com)
-　[河南广电](http://www.henancatv.com)
-　[湖北广电](http://www.hrtn.com.cn)
-　[湖南广电](http://www.hunancatv.com)
-　[广东广电](http://www.gcable.com.cn)
-　[广西广电](http://www.96335.com)
-　[海南广电](http://www.963999.com)
-　[重庆广电](http://www.cqccn.com)
-　[四川广电](http://www.sc96655.com)
-　[贵州广电](http://www.gzgdwl.com)
-　[云南广电](http://www.ynbit.com)
-　西藏广电[]()
-　[陕西广电](http://www.600831.com)
-　[甘肃广电](http://www.gsbtn96333.com.cn)
-　[青海广电](http://www.qhcatv.com)
-　[宁夏广电](http://www.nx96200.cn)
-　[新疆广电](http://www.xjgdj.gov.cn)
-
-<div id="W3"><a href="#tupu" target="_top">⇑</a>　
-🌻 <b>紫荆文化集团</b>　下属或控股企业：</div>
-
-*	中国[对外文化集团](http://www.caeg.cn)有限公司：[活动品牌](http://www.caeg.cn/whjtgs/ppxm/events.shtml)
-*	[中国基金报](https://www.chnfund.com/)社/[PDF](https://www.chnfund.com/epaper)
-*	[联合出版](https://www.sup.com.hk)（集团）有限公司，旗下香港三联书店、香港中华书局、香港商务印书馆等多家知名出版机构服务香港已逾百年。
-*	香港[银都机构](http://www.sil-metropole.com)有限公司，著名电影：1982年《少林寺》、1992年《秋菊打官司》、《窃听风云》1/2/3、2013年《一代宗师》
-*	香港联艺机构有限公司，从事内地与香港文化交流的文化机构
-*	[凤凰卫视](https://phtv.ifeng.com)投资（控股）有限公司（占股份21％）
-
-<div id="X1"><a href="#tupu" target="_top">⇑</a>　
-👔 <b>中国邮政集团</b></div>
-
-*	控股公司与EMS：
-	<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
-	<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
-	<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
-	<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
-	EMS<a href="http://www.ems.com.cn/">寄递事业部</a>📠 11183
-*	直属单位与工会：<small>
-	<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
-	<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
-	<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
-	<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
-	<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
-	<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
-	<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
-	<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
-	<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
-	<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
-	<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
-</small>
-
-<div id="X2"><a href="#tupu" target="_top">⇑</a>　
-👔 <b>国家铁路集团</b></div>
-
-*	[国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[新媒体](http://www.china-railway.com.cn/wnfw/jzlm/)矩阵
-*	国铁所属企业：
-	* 铁路局集团公司（18个）：	哈尔滨局、
-	国铁[沈阳局](https://www.sytlj.com/ "%Fx崩溃")%、北京局、太原局、呼和浩特局、
-	郑州局、武汉局、西安局、济南局、上海局、国铁[南昌局](http://www.ncjrailway.com)、
-	国铁[广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
-	国铁[南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
-	成都局？、昆明局、兰州局、乌鲁木齐局、青藏  
-	* 川藏铁路有限公司  
-	* 专业运输公司（3个）：
-	[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")、
-	[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
-	[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
-	* 非运输企业（11个）：	中国铁路投资有限公司、
-	[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
-	[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
-	中国铁路信息科技有限责任公司、
-	中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
-	[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
-	《人民铁道》报业有限公司、
-	中国铁路专运中心、中国铁路文工团有限公司。
-*	所属事业单位（3个）：	铁道党校、
-	[中国铁道博物馆](http://www.china-rail.org.cn)、铁道战备舟桥处。
-
-<div id="X3"><a href="#tupu" target="_top">⇑</a>　
-👔 <b>中国烟草集团</b></div>
-
-*	直属机构：
-　[南通醋纤](http://www.ncfcinfo.com)
-　[昆明醋纤](http://www.ynkcfc.com)
-　[珠海醋纤](https://www.zcfc.com)
-　[郑州烟草研究院](https://www.ztri.com.cn)？
-　[职工进修学院](https://www.ctt.cn)
-*	省级单位（烟草专卖局/公司）：
-　[北京](http://bj.tobacco.gov.cn)
-　[天津](http://tj.tobacco.gov.cn)
-　[河北](http://he.tobacco.gov.cn)
-　[山西](http://sx.tobacco.gov.cn)
-　[内蒙古](http://nm.tobacco.gov.cn)
-　[辽宁](http://ln.tobacco.gov.cn)
-　[吉林](http://www.jltobacco.com.cn)
-　[黑龙江](https://hlj.tobacco.gov.cn)
-　<i>[大连](http://dl.tobacco.gov.cn)</i>
-　[上海](http://www.sh.tobacco.gov.cn)
-　[江苏](http://js.tobacco.gov.cn)
-　[浙江](https://zjyc.tobacco.gov.cn)
-　[安徽](http://ah.tobacco.gov.cn)
-　[福建](http://fj.tobacco.gov.cn)
-　[江西](http://jx.tobacco.gov.cn)
-　[山东](https://sd.tobacco.gov.cn)
-　[河南](https://ha.tobacco.gov.cn)
-　[湖北](https://hb.tobacco.gov.cn)
-　[湖南](http://hn.tobacco.gov.cn)
-　[广东](http://gd.tobacco.gov.cn)
-　[广西](http://gx.tobacco.gov.cn)
-　[海南](https://hi.tobacco.gov.cn)？
-　<i>[深圳](https://sz.tobacco.gov.cn)</i>
-　[重庆](http://cq.tobacco.gov.cn)
-　[四川](http://sc.tobacco.gov.cn)
-　[贵州](http://gz.tobacco.gov.cn)
-　[云南](https://www.yn-tobacco.com)
-　[西藏](http://www.tobacco.gov.cn/gjyc/xzycgsjj/sjzz_tt.shtml)
-　[陕西](http://sn.tobacco.gov.cn)
-　[甘肃](http://gs.tobacco.gov.cn)
-　[青海](http://qh.tobacco.gov.cn)
-　[宁夏](https://nx.tobacco.gov.cn)
-　[新疆](http://www.tobacco.gov.cn/gjyc/xjycgsjj/sjzz_tt.shtml)
-*	工业企业：
-　[河北中烟工业](http://hegy.tobacco.com.cn)
-　[江苏中烟工业](http://jsgy.tobacco.com.cn)
-　[浙江中烟工业](http://zjgy.tobacco.com.cn)
-　[安徽中烟工业](http://ahgy.tobacco.com.cn)
-　[福建中烟工业](http://fjgy.tobacco.com.cn)
-　[江西中烟工业](http://jxgy.tobacco.com.cn)
-　[山东中烟工业](http://sdgy.tobacco.com.cn)
-　[河南中烟工业](https://www.hatic.com)
-　[湖北中烟工业](http://hbgy.tobacco.com.cn)
-　[湖南中烟工业](http://hngy.tobacco.com.cn)
-　[广东中烟工业](https://www.gdzygy.com)
-　[广西中烟工业](http://gxgy.tobacco.com.cn)
-　[重庆中烟工业](http://cqgy.tobacco.com.cn)
-　[四川中烟工业](http://scgy.tobacco.com.cn)
-　[贵州中烟工业](http://gzgy.tobacco.com.cn)
-　[云南中烟工业](http://yngy.tobacco.com.cn)
-　[陕西中烟工业](https://sxgy.tobacco.com.cn)
 
 <div id="GZ" align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
@@ -847,6 +667,187 @@
 [97△](#97){:target="_top"}{:id="G97"}⠀	国新健康	[000503](http://webapi.cninfo.com.cn/#/company?companyid=000503)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[国新健康保障服务集团股份有限公司](http://www.crhms.cn)</sub>  
 [98▲](#98){:target="_top"}{:id="G98"}⠀			<sub>⠀⠀⠀	⠀待定连接	⠀[]()</sub>  
 。  * ST替换为xST
+
+<div id='D7' align="right"><a href="#" target="_top">↑ Top</a></div>
+
+广义央企网站群
+--------------
+
+　　在文化类和行政类央企中，部分官网没有为子公司网站群提供独立页面，本段将这些网站群收录如下，方便读者集中查找。个别子站网址失效，大萌会尽力更新，欢迎读者反馈。
+
+<div id="W2"><a href="#tupu" target="_top">⇑</a>　
+🌻 <b>中国广电集团</b></div>
+
+*	下属公司：
+　[中国有线](http://www.cncatv.com)电视网络有限公司
+　中广传播[](http://www.cbc.cn)集团有限公司
+　[中广电传媒](http://www.cbn-cbm.com)有限公司  
+*	总局直属机构：
+　[广播电视卫星直播管理中心](http://www.huhutv.com.cn)
+　[广播科学研究院](http://www.abs.ac.cn)
+　[广播电视规划院](http://www.abp2003.cn)
+　[中广电设计院](http://www.drft.com.cn)
+　中国爱乐乐团[](http://www.cpolive.com)
+　[广电总局机关服务局](http://www.gdhouqin.com)
+　广电总局研修学院[](http://www.rti.org.cn)
+　广播影视人才交流中心[](http://www.rfthr.com)
+　中国广播影视出版社[](http://www.crtp.com.cn)
+　[中广联合会](http://www.carft.cn)
+　[中广国际总公司](http://www.crtv.com.cn)
+*	各省网公司：
+　[北京广电](http://www.bgctv.com.cn)
+　[天津广电](https://www.tjbtn.net)
+　[河北广电](http://www.hbgdwl.com)
+　[山西广电](http://www.hbgdwl.com)
+　[内蒙古广电](http://www.96066.com)
+　[辽宁广电](http://www.bfgd.com.cn)
+　[吉林广电](http://www.jishimedia.com)
+　[黑龙江广电](http://www.ljgdwl.cn)
+　[上海广电](http://www.ocn.net.cn)
+　[江苏广电](https://www.jscnnet.com)
+　[浙江广电](https://www.wasu.com.cn)
+　[安徽广电](http://www.ahitv.com)
+　[福建广电](http://www.fjgdwl.com)
+　[江西广电](http://www.jxtvnet.com)
+　[山东广电](http://www.sdgdwljt.com)
+　[河南广电](http://www.henancatv.com)
+　[湖北广电](http://www.hrtn.com.cn)
+　[湖南广电](http://www.hunancatv.com)
+　[广东广电](http://www.gcable.com.cn)
+　[广西广电](http://www.96335.com)
+　[海南广电](http://www.963999.com)
+　[重庆广电](http://www.cqccn.com)
+　[四川广电](http://www.sc96655.com)
+　[贵州广电](http://www.gzgdwl.com)
+　[云南广电](http://www.ynbit.com)
+　西藏广电[]()
+　[陕西广电](http://www.600831.com)
+　[甘肃广电](http://www.gsbtn96333.com.cn)
+　[青海广电](http://www.qhcatv.com)
+　[宁夏广电](http://www.nx96200.cn)
+　[新疆广电](http://www.xjgdj.gov.cn)
+
+<div id="W3"><a href="#tupu" target="_top">⇑</a>　
+🌻 <b>紫荆文化集团</b>　下属或控股企业：</div>
+
+*	中国[对外文化集团](http://www.caeg.cn)有限公司：[活动品牌](http://www.caeg.cn/whjtgs/ppxm/events.shtml)
+*	[中国基金报](https://www.chnfund.com/)社/[PDF](https://www.chnfund.com/epaper)
+*	[联合出版](https://www.sup.com.hk)（集团）有限公司，旗下香港三联书店、香港中华书局、香港商务印书馆等多家知名出版机构服务香港已逾百年。
+*	香港[银都机构](http://www.sil-metropole.com)有限公司，著名电影：1982年《少林寺》、1992年《秋菊打官司》、《窃听风云》1/2/3、2013年《一代宗师》
+*	香港联艺机构有限公司，从事内地与香港文化交流的文化机构
+*	[凤凰卫视](https://phtv.ifeng.com)投资（控股）有限公司（占股份21％）
+
+<div id="X1"><a href="#tupu" target="_top">⇑</a>　
+👔 <b>中国邮政集团</b></div>
+
+*	控股公司与EMS：
+	<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
+	<a href="https://www.chinapost-life.com">中邮人寿保险</a>、
+	<a href="http://www.cnpsec.com.cn/">中邮证券</a>、
+	<a href="http://cpcm.chinapost.com.cn/">中邮资本管理</a>、
+	EMS<a href="http://www.ems.com.cn/">寄递事业部</a>📠 11183
+*	直属单位与工会：<small>
+	<a href="http://www.cptu.org.cn/">中国邮政集团工会</a>、
+	<a href="http://cpi.chinapost.com.cn/">中国集邮总公司</a>、
+	<a href="http://cpri.chinapost.com.cn/">邮政科学研究规划院</a>、
+	<a href="http://www.chnppmuseum.com/">中国邮政文史中心</a>、
+	<a href="http://www.chinapostnews.com.cn/newspaper/"></a>新闻宣传中心、
+	<a href="http://stampprint.chinapost.com.cn">邮票印制局</a>、
+	<a href="http://www.sjzpc.edu.cn/">石家庄邮电职业技术学院</a>、
+	<a href="http://cped.chinapost.com.cn">中邮电子商务有限公司</a>、
+	<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
+	<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
+	<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>
+</small>
+
+<div id="X2"><a href="#tupu" target="_top">⇑</a>　
+👔 <b>国家铁路集团</b></div>
+
+*	[国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[新媒体](http://www.china-railway.com.cn/wnfw/jzlm/)矩阵
+*	国铁所属企业：
+	* 铁路局集团公司（18个）：	哈尔滨局、
+	国铁[沈阳局](https://www.sytlj.com/ "%Fx崩溃")%、北京局、太原局、呼和浩特局、
+	郑州局、武汉局、西安局、济南局、上海局、国铁[南昌局](http://www.ncjrailway.com)、
+	国铁[广州局](http://www.gzrailway.com.cn "中国铁路广州局集团有限公司")、
+	国铁[南宁局](http://www.nntlj.com "中国铁路南宁局集团有限公司")、
+	成都局？、昆明局、兰州局、乌鲁木齐局、青藏  
+	* 川藏铁路有限公司  
+	* 专业运输公司（3个）：
+	[中铁集装箱](http://www.crct.com "中铁集装箱运输有限责任公司")、
+	[中铁特货](http://www.crscsc.com.cn "中铁特货运输有限责任公司")、
+	[中铁快运95572](http://www.95572.com "中铁快运股份有限公司")  
+	* 非运输企业（11个）：	中国铁路投资有限公司、
+	[铁道科学研究院](http://www.rails.cn "中国铁道科学研究院集团有限公司")、
+	[铁路经济规划研究院](http://www.crecc.com.cn "中国铁路经济规划研究院有限公司")、
+	中国铁路信息科技有限责任公司、
+	中国铁路设计集团有限公司、中国铁路国际有限公司、铁总服务有限公司、
+	[铁道出版社](http://www.tdpress.com "中国铁道出版社有限公司")、
+	《人民铁道》报业有限公司、
+	中国铁路专运中心、中国铁路文工团有限公司。
+*	所属事业单位（3个）：	铁道党校、
+	[中国铁道博物馆](http://www.china-rail.org.cn)、铁道战备舟桥处。
+
+<div id="X3"><a href="#tupu" target="_top">⇑</a>　
+👔 <b>中国烟草集团</b></div>
+
+*	直属机构：
+　[南通醋纤](http://www.ncfcinfo.com)
+　[昆明醋纤](http://www.ynkcfc.com)
+　[珠海醋纤](https://www.zcfc.com)
+　[郑州烟草研究院](https://www.ztri.com.cn)？
+　[职工进修学院](https://www.ctt.cn)
+*	省级单位（烟草专卖局/公司）：
+　[北京](http://bj.tobacco.gov.cn)
+　[天津](http://tj.tobacco.gov.cn)
+　[河北](http://he.tobacco.gov.cn)
+　[山西](http://sx.tobacco.gov.cn)
+　[内蒙古](http://nm.tobacco.gov.cn)
+　[辽宁](http://ln.tobacco.gov.cn)
+　[吉林](http://www.jltobacco.com.cn)
+　[黑龙江](https://hlj.tobacco.gov.cn)
+　<i>[大连](http://dl.tobacco.gov.cn)</i>
+　[上海](http://www.sh.tobacco.gov.cn)
+　[江苏](http://js.tobacco.gov.cn)
+　[浙江](https://zjyc.tobacco.gov.cn)
+　[安徽](http://ah.tobacco.gov.cn)
+　[福建](http://fj.tobacco.gov.cn)
+　[江西](http://jx.tobacco.gov.cn)
+　[山东](https://sd.tobacco.gov.cn)
+　[河南](https://ha.tobacco.gov.cn)
+　[湖北](https://hb.tobacco.gov.cn)
+　[湖南](http://hn.tobacco.gov.cn)
+　[广东](http://gd.tobacco.gov.cn)
+　[广西](http://gx.tobacco.gov.cn)
+　[海南](https://hi.tobacco.gov.cn)？
+　<i>[深圳](https://sz.tobacco.gov.cn)</i>
+　[重庆](http://cq.tobacco.gov.cn)
+　[四川](http://sc.tobacco.gov.cn)
+　[贵州](http://gz.tobacco.gov.cn)
+　[云南](https://www.yn-tobacco.com)
+　[西藏](http://www.tobacco.gov.cn/gjyc/xzycgsjj/sjzz_tt.shtml)
+　[陕西](http://sn.tobacco.gov.cn)
+　[甘肃](http://gs.tobacco.gov.cn)
+　[青海](http://qh.tobacco.gov.cn)
+　[宁夏](https://nx.tobacco.gov.cn)
+　[新疆](http://www.tobacco.gov.cn/gjyc/xjycgsjj/sjzz_tt.shtml)
+*	工业企业：
+　[河北中烟工业](http://hegy.tobacco.com.cn)
+　[江苏中烟工业](http://jsgy.tobacco.com.cn)
+　[浙江中烟工业](http://zjgy.tobacco.com.cn)
+　[安徽中烟工业](http://ahgy.tobacco.com.cn)
+　[福建中烟工业](http://fjgy.tobacco.com.cn)
+　[江西中烟工业](http://jxgy.tobacco.com.cn)
+　[山东中烟工业](http://sdgy.tobacco.com.cn)
+　[河南中烟工业](https://www.hatic.com)
+　[湖北中烟工业](http://hbgy.tobacco.com.cn)
+　[湖南中烟工业](http://hngy.tobacco.com.cn)
+　[广东中烟工业](https://www.gdzygy.com)
+　[广西中烟工业](http://gxgy.tobacco.com.cn)
+　[重庆中烟工业](http://cqgy.tobacco.com.cn)
+　[四川中烟工业](http://scgy.tobacco.com.cn)
+　[贵州中烟工业](http://gzgy.tobacco.com.cn)
+　[云南中烟工业](http://yngy.tobacco.com.cn)
+　[陕西中烟工业](https://sxgy.tobacco.com.cn)
 
 
 <div id='D7' align="right"><a href="#" target="_top">↑ Top</a></div>
