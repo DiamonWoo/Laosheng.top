@@ -21,9 +21,9 @@
 		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预估数）
 		 完成率 ≈ 　92.1%
 
-+	202312：收录国资委98-1家央企的网站群和数字报。v0.5.1~Now
++	202312：国资委98-1家央企的网站群收录完成。v0.5.1~Now
 +	202307~08：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
-+	202302~04：收录国资委主管央企98家，尚有一半网站群待收录；收录央企上市公司400余支股票，接近完成。v0.2.0~v0.4.6
++	202302~04：收录国资委主管央企98家，网站群尚有一半；收录央企上市公司400余支股票，接近完成。v0.2.0~v0.4.6
 
 
 改革近况
@@ -42,34 +42,34 @@
 　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企，也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱如下：
 
 *	中央文化企业 🌻，3家
-	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群⇗](http://cn.cnpubg.com/overview/sites/)，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
+	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京　[网站群](http://cn.cnpubg.com/overview/sites/)⇗，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
 	　有关部门：国务院/[文化旅游部](https://www.mct.gov.cn)
-	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群⇓](#W2){:target="_top"}，中国电视报[📰](https://zgdsb.cctv.com/paper/)
+	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群](#W2){:target="_top"}⇓，中国电视报[📰](https://zgdsb.cctv.com/paper/)
 	　有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
-	* 紫荆文化集团[]()有限公司 BCHL 香港/深圳　[网站群⇓](#W3){:target="_top"}，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
+	* 紫荆文化集团[]()有限公司 BCHL 香港/深圳　[网站群](#W3){:target="_top"}⇓，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
 	　有关部门：中共中央/宣传部[]()
 
 *	中央行政企业 👔，4家
-	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群⇓](#X1){:target="_top"}，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
+	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京　[网站群](#X1){:target="_top"}⇓，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家邮政局](https://www.spb.gov.cn)
-	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群⇓](#X2){:target="_top"}，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
+	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京　[网站群](#X2){:target="_top"}⇓，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家铁道局](https://www.nra.gov.cn)
-	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群⇓](#X3){:target="_top"}，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群](#X3){:target="_top"}⇓，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	　有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn) /[国家烟草专卖局](http://www.tobacco.gov.cn/)
-	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群⇗](https://www.chinabdh.com/GroupIndustry.html)，wx：北大荒日报
+	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群](https://www.chinabdh.com/GroupIndustry.html)⇗，wx：北大荒日报
 	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
 
 *	中央金融企业 🥯，27家，2022年**财政部**公布名单：工行/中信/人保……
-	* [〖个人理财金融圈〗⇗](https://Laosheng.top/fuwu/jinrong)：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
+	* [〖个人理财金融圈〗](https://Laosheng.top/fuwu/jinrong)⇗：财政部金融央企名录、主要商业银行、保险集团、各省证券公司……
 
 *	中央实业企业 ⚙️，98-1家，2023年**国资委**公布名单：中核/电信/中粮……
-	* [<b>国资委央企名录</b> ⇓](#GZ){:target="_top"} <sub>（部分从事金融业）</sub>
-	* [图例与统计](#tuli){:target="_top"}📊
-	* 国资委央企发行股票📈 及 [旗下上市公司](#GP){:target="_top"}
+	* [<b>国资委央企名录</b>](#GZ){:target="_top"}⇓ <sub>（部分从事金融业）</sub>
+	* [图例与统计](#tuli){:target="_top"}⇓📊
+	* 国资委央企发行股票📈 及 [旗下上市公司](#GP){:target="_top"}⇓
 
-*	[参考文献](#D7){:target="_top"}与国资委网址
+*	[参考文献](#D7){:target="_top"}与国资委网址⇓
 
-<div id="GZ" align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
+<div id="GZ" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 国资委央企名录 ⚙️
 ----------------
@@ -179,7 +179,7 @@
 202311，原第92家央企华录集团并入第8家中国电科，央企总数由98减为97家，本页面暂时保留原98家编号。
 
 
-<div id="tuli" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="tuli" align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
 图例与行业统计 📊
 ------------
@@ -205,7 +205,7 @@
 	 	 	⚙	1
 
 
-<div id="GP" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="GP" align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
 国资委央企发行股票 📈
 --------------------
@@ -668,7 +668,7 @@
 [98▲](#98){:target="_top"}{:id="G98"}⠀			<sub>⠀⠀⠀	⠀待定连接	⠀[]()</sub>  
 。  * ST替换为xST
 
-<div id='D7' align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id='D7' align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
 广义央企网站群
 --------------
@@ -850,7 +850,7 @@
 　[陕西中烟工业](https://sxgy.tobacco.com.cn)
 
 
-<div id='D7' align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id='D7' align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
 参考文献
 -------
