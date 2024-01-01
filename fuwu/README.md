@@ -41,15 +41,15 @@
 * 国家铁路　	国铁客运 📠 [12306](https://www.12306.cn)、　国铁货运 📠 95306
 * 国家电网　📠 95598 [客户服务部](http://www.95598.cn )　<!--国家电网报[📰](http://211.160.252.154 ) -->
 
-* 中国电信 📠 10000　邮箱@189.cn[营业厅](https://www.189.cn )　[在线投诉](https://www.189.cn/suggestions/)	　再监督电话：[400-88-10000](http://www.chinatelecom.com.cn/corp/lsqdcs/) 集团投诉  
+* 中国电信 📠 10000　邮箱@[189.cn](https://mail.189.cn/)　[营业厅](https://www.189.cn )　[在线投诉](https://www.189.cn/suggestions/)	　再监督电话：[400-88-10000](http://www.chinatelecom.com.cn/corp/lsqdcs/) 集团投诉  
 　手机号码段：133、153、173、177、180、181、<b>189</b>、<b>190</b>(5G)、191、193、<b>199</b>。  
 　	<small>卫星：1349、174(00-05)，物联网：141、149，虚拟号：162、170(0/1/2)</small>
 
-* 中国联通 📠 [10010](http://www.10010.com )网上营业厅　邮箱@wo.com.cn　再监督电话：10015　[分类服务专线](http://mall.10010.com/mall-web/busiNotice/content?noticeId=43065457)  
+* 中国联通 📠 [10010](http://www.10010.com )网上营业厅　邮箱@[wo.cn](https://mail.wo.cn/)　再监督电话：10015　[分类服务专线](http://mall.10010.com/mall-web/busiNotice/content?noticeId=43065457)  
 　号码段：130、131、132、145、155、156、166、175、176、185、<b>186</b>、<b>196</b>(5G)  
 　	<small>物联网：140、146，虚拟号：167、170(4/7/8/9)、171</small>
 
-* 中国移动 📠 [10086](https://10086.cn ) 官网及营业厅　邮箱@139.com　再监督电话：[10080](http://online.10086.cn/module/accept.html#/)移动总部  
+* 中国移动 📠 [10086](https://10086.cn ) 官网及营业厅　邮箱@[139.com](https://mail.10086.cn/)　再监督电话：[10080](http://online.10086.cn/module/accept.html#/)移动总部  
 　号码段：134、135、136、137、<b>138</b>、<b>139</b>、147、150/1/2、157/8/9、178、182/3/4、187、<b>188</b>、195、<b>197</b>(5G)、<b>198</b>  
 　	<small>物联网：144、148、172，虚拟号：165、170(3/5/6)</small>
 
