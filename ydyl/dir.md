@@ -1,6 +1,6 @@
 一带一路民间站 💃
 =================
-大萌	2022-2023	<base target="_blank">
+大萌	2022-2024	<base target="_blank">
 
 		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年于北京，习近平
 
@@ -9,8 +9,8 @@
 +	./dir　　　　本目录页
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
-+	./united　🇺🇳 [联合国有关部门](united)——把国际组织分四大类，力争收录全集：ISO、奥委会、教科文、世卫WHO……（新版）
-+	./nations　🗺 [世界国别速查表](nations){:target="_top"}，ISO国别代码、国际长途区号、货币汇率查询，一带一路签约、各国驻华使馆、政府官网…… （已竣工）
++	./united　🇺🇳 [联合国有关部门](united)——四大类国际组织（专业/区域/联合国/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
++	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、国际长途区号、货币汇率查询，一带一路签约、各国驻华使馆、政府官网…… （2024改版中）
 
 +	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
 +	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，每个省都有的会展中心。（正在改版）
@@ -202,9 +202,9 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
-	老生常谈© 2019~2023 大萌 
+	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站	v3.1.7 202312
+	一带一路民间站 v3.1.8	202402
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -215,5 +215,6 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃🏠⏩🎦
-🔥🛳🏝🌴🐘🦏🦍🦓🦒⛄️🎎👳🗽⭐☂️🗣️📜🗨️🕯️⏲️🕘
+☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃⏩🎦🔥🛳🏝🌴🐘🦏🦍🦓🦒⛄️🎎👳🗽⭐  
+💐⚜️🔱💮🏵🛡🏛🏚🏠🏡💒🏘🏢🏦🏨🏩🏬🏪🏥🏤🏣🏫🏰☂️  
+💱🏞🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵😐🤔🎭👥🏵🛡🕊️🗣️🗨️🕯️⏲️🕘
