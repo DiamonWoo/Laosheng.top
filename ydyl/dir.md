@@ -197,7 +197,9 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 --------
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
-
+*	💷/💶/💵	英镑/欧元/美元
+*	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
+*	🔃⤵️⤴️↩️🔄☑️↘️↙️🔜🔙🔛↔️🔁↪️
 
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
