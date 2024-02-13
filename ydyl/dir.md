@@ -9,8 +9,8 @@
 +	./dir　　　　本目录页
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
-+	./united　🇺🇳 [联合国有关部门](united)——四大类国际组织（专业/区域/联合国/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
-+	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、建交年份、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024更新中）
++	./united　🌐 [国际组织四大类](united)——（专业性/区域性/联合国🇺🇳/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
++	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024更新中）
 
 +	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
 +	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，每个省都有的会展中心。（正在改版）
@@ -142,12 +142,15 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 
 　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。
 
-　　中国建立了与ISO代码对应的推荐国家标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。
+　　中国建立了与ISO代码对应的推荐标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。国标官网未提供全文。
+
+　　ISO 1366国别代码目前收录249个国别，在249个国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在部分国际组织有驻外使团(不是使领馆)，收录在‘[国际组织四大类](united)’页面，在外交部网站可查阅更多的[中国驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
+
+🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[🧭](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏮](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🛡](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
+🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[🧭](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏮](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🛡](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
 
 
-GB/T 2659-2000，政府官网暂未提供全文。
-
-<h4>2022卡塔尔世界杯 🇶🇦⚽</h4>
+<h3>2022卡塔尔世界杯 🇶🇦⚽</h3>
 
 *	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
 	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
@@ -209,14 +212,14 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
-*	🔃⤵️⤴️↩️🔄☑️↘️↙️🔜🔙🔛↔️🔁↪️
+*	🔃⤵️⤴️↩️🔄☑️↘️↙️🔜🔙🔛↔️🔁↪️♐
 
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.1.9	202402
+	一带一路民间站 v3.2.0	202402
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
