@@ -30,7 +30,7 @@
 
 *	对中国公民免签国家数为：48个。近期签署互免签证的国家有：泰国、新加坡(202401)……
 
-*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国已超93个。近期加入国家有：多哥(202312)、南非(202311)、利比里亚(202309)……
+*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：多哥(202312)、南非(202311)、利比里亚(202309)……
 
 *	加入一带一路国家数为：152个。近期签署合作文件的国家有：约旦(202311)、格鲁吉亚(202307)、洪都拉斯(202306)……
 
@@ -56,7 +56,7 @@
 * [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)　更多外媒请见：[一带一路云媒体](./)
 
 
-一带一路官方网址 B&R from China Web
+一带一路官方网址 B&R Web from China
 ----------------------------------
 
 　　<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
@@ -72,7 +72,7 @@
 /	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
 /	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
 
-　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线，	国家移民管理局<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
+　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线，	国家移民管理局<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
 
 
 <h3 id=ditu>一带一路地图网站 🗺</h3>
@@ -92,7 +92,17 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 [地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
-<h2 id=fanyi>民间翻译网站 🎧 YDYL</h2>
+一带一路常用词汇 YDYL
+---------------
+
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
+<!-- *云媒体常用外语词汇*  
+　　电视直播：  /　　数字报：…… -->
+
+<h3 id=fanyi>民间翻译网站 🎧</h3>
 　谷歌翻译
 #<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
@@ -118,16 +128,6 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
 
 　标记百分号% 是指该翻译网站不兼容古典浏览器，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用，不再标记%；而‘爱词霸’则相反，降低了兼容性。
-
-**常用词汇**
-
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
-　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
-
-<!-- *云媒体常用外语词汇*  
-　　电视直播：  /　　数字报：…… -->
 
 <h3>能翻译网页的浏览器</h3>
 
