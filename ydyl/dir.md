@@ -32,7 +32,7 @@
 
 *	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国已超93个。近期加入国家有：多哥(202312)、南非(202311)、利比里亚(202309)……
 
-*	加入一带一路国家数为：152个。近期签署共建一带一路合作文件的国家有：约旦(202311)、格鲁吉亚(202307)、洪都拉斯(202306)……
+*	加入一带一路国家数为：152个。近期签署合作文件的国家有：约旦(202311)、格鲁吉亚(202307)、洪都拉斯(202306)……
 
 *	与中国建交国家数为：183个。近期建交/复交国家有：太平洋岛国瑙鲁(202401)、中美洲洪都拉斯(202303)……
 
@@ -44,7 +44,6 @@
 
 **特别关注**💥“巴以冲突”各方媒体：
 
-* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)
 * 巴勒斯坦：[耶路撒冷报/Al-Quds](https://www.alquds.com/en) en、
 	[日子报/Al-Ayyam](https://www.al-ayyam.ps/)、
 	[巴勒斯坦广播公司/PBS](https://www.pbc.ps)；
@@ -53,7 +52,8 @@
 	🚫[以色列公共广播公司/KAN](https://www.kan.org.il) 拒绝中国用户访问。
 * 黎巴嫩[国家通讯社/NNA](https://www.nna-leb.gov.lb/en/) en、
 	约旦[佩特拉通讯社](https://www.petra.gov.jo/Include/Main.jsp?lang=en) en、
-	阿拉伯[叙利亚通讯社](https://sana.sy/en/) en，　更多请见：一带一路云媒体。
+	阿拉伯[叙利亚通讯社](https://sana.sy/en/) en
+* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)　更多外媒请见：[一带一路云媒体](./)
 
 
 一带一路官方网址 B&R from China Web
@@ -66,17 +66,16 @@
 
 　　外交部：<a title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交要闻</a>
 /	<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a>
-/	<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>
+/	<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>领事保护热线
 
 　　商务部：<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">统计数据</a>
 /	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
-/	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>
+/	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
 
-　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>
-/	<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">国家移民管理局</a>（12367 ）……　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
+　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线，	国家移民管理局<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="有关部门服务大全" href="../fuwu">有关部门</a>
 
 
-<h3 id=ditu>一带一路地图网站 🗺 YDYL</h3>
+<h3 id=ditu>一带一路地图网站 🗺</h3>
 　　天地图
 <a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
@@ -89,34 +88,8 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 #Waze、
 <a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
 
-**代理地图**  
-　　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
- 	[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
-
-
-
-种子数据 🔠：ISO国别码
------------
-
-　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
-
-　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、海关代码、互联网顶级域)的基础。
-
-　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。
-
-　　中国建立了与ISO代码对应的推荐标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。国标官网未提供全文。
-
-　　ISO 1366国别代码目前收录249个国别，在249个国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在部分国际组织有驻外使团(不是使领馆)，收录在‘[国际组织四大类](united)’页面，在外交部网站可查阅更多的[中国驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
-
-🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[🧭](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏮](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🛡](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
-🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[🧭](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏮](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🛡](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
-
-
-<h3>2022卡塔尔世界杯 🇶🇦⚽</h3>
-
-*	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
-	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
-	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
+　　**代理地图**：　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
+[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
 <h2 id=fanyi>民间翻译网站 🎧 YDYL</h2>
@@ -150,12 +123,11 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 
 　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
 　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
 　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
 
 <!-- *云媒体常用外语词汇*  
-　　电视直播：  
-　　数字报：…… -->
+　　电视直播：  /　　数字报：…… -->
 
 <h3>能翻译网页的浏览器</h3>
 
@@ -168,12 +140,34 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 * 微信内置浏览器 较新版可以翻译多种语言。
 
 
+种子数据 🔠：ISO国别码
+-----------
+
+　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
+
+　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、海关代码、互联网顶级域)的基础。
+
+　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。
+
+　　中国建立了与ISO代码对应的推荐标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。国标官网未提供全文。
+
+　　ISO 1366国别代码目前收录249个国别，在249个国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在部分国际组织有驻外使团(不是使领馆)，收录在‘[国际组织四大类](united)’页面，在外交部网站可查阅更多的[中国驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
+
+🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[🧭](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏮](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🛡](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
+🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[🧭](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏮](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🛡](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
+
+<h3>2022卡塔尔世界杯 🇶🇦⚽</h3>
+
+*	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
+	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
+	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
+
+
 延申阅读
 --------
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
-*	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》
-*	新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)。
+*	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 *	🔃⤵️⤴️↩️🔄☑️↘️↙️🔜🔙🔛↔️🔁↪️♐
