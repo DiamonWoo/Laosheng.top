@@ -10,10 +10,10 @@
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
 +	./united　🌐 [国际组织四大类](united)——（专业性/区域性/联合国🇺🇳/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
-+	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024更新中）
++	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024新版）
 
 +	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
-+	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，每个省都有的会展中心。（正在改版）
++	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，每个省都有的会展中心。（准备改版）
 
 +	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 环球金融交易所　Globe Finance（等待设计，Beta）
 
@@ -28,13 +28,13 @@
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
 
-*	对中国公民免签国家数为：48个。近期签署互免签证的国家有：泰国、新加坡(202401)……
+*	对中国公民免签国家数为：48个。近期签署互免签证的国家有：2024年1月 泰国、新加坡……
 
-*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：多哥(202312)、南非(202311)、利比里亚(202309)……
+*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
 
-*	加入一带一路国家数为：152个。近期签署合作文件的国家有：约旦(202311)、格鲁吉亚(202307)、洪都拉斯(202306)……
+*	加入一带一路国家数为：152个。近期签署合作文件的国家有：2023年11月(中东)约旦、7月(高加索)格鲁吉亚……
 
-*	与中国建交国家数为：183个。近期建交/复交国家有：太平洋岛国瑙鲁(202401)、中美洲洪都拉斯(202303)……
+*	与中国建交国家数为：183个。近期建交/复交国家有：2024年1月(太平洋岛国)瑙鲁、2023年3月(中美洲)洪都拉斯……
 
 *	2023-10-18	第三届[“一带一路”国际合作高峰论坛](http://www.beltandroadforum.org)开幕，联合国和150多个国家的贵宾到京。
 
@@ -173,7 +173,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
-*	[哪些国家没参与一带一路倡议](https://cn.bing.com/search?q=哪些国家没参与一带一路倡议)
+*	[哪些国家没参与一带一路倡议](https://cn.bing.com/search?q=哪些国家没参与一带一路倡议)？
 
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
