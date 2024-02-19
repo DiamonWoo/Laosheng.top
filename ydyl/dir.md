@@ -59,7 +59,7 @@
 一带一路官方网址 B&R Web from China
 ----------------------------------
 
-　　<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
+<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
 /	<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
 /	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
 /	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”
@@ -72,7 +72,9 @@
 /	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
 /	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
 
-　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线，	国家移民管理局<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
+　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线
+
+　　国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
 
 
 <h3 id=ditu>一带一路地图网站 🗺</h3>
@@ -156,6 +158,9 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[🧭](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏮](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🛡](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
 🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[🧭](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏮](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🛡](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
 
+*	💷/💶/💵	英镑/欧元/美元
+*	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
+
 <h3>2022卡塔尔世界杯 🇶🇦⚽</h3>
 
 *	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
@@ -168,16 +173,14 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
-*	💷/💶/💵	英镑/欧元/美元
-*	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
-*	🔃⤵️⤴️↩️🔄☑️↘️↙️🔜🔙🔛↔️🔁↪️♐
+*	[哪些国家没参与一带一路倡议](https://cn.bing.com/search?q=哪些国家没参与一带一路倡议)
 
 　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.1	202402
+	一带一路民间站 v3.2.2	202402
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -190,4 +193,5 @@ https://Laosheng.top
 </script>
 ☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃⏩🎦🔥🛳🏝🌴🐘🦏🦍🦓🦒⛄️🎎👳🗽⭐  
 💐⚜️🔱💮🏵🛡🏛🏚🏠🏡💒🏘🏢🏦🏨🏩🏬🏪🏥🏤🏣🏫🏰☂️  
-💱🏞🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵😐🤔🎭👥🏵🛡🕊️🗣️🗨️🕯️⏲️🕘
+💱🏞🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵😐🤔🎭👥🏵🛡🕊️🗣️🗨️🕯️⏲️🕘  
+🔄⬇️↩️↪️↙️↘️↔️↖️☑️♐♏Ⓜ️🔃⤵️⤴️
