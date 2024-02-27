@@ -221,7 +221,7 @@ LSIP进度　<br>
 🇵🇼	+ ⠀	　	　	PW⠀	<sup>	<a title="帕劳共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681666/">帕劳</a> 	Palau	</sup>	↙️	⠀-/-/-	⠀□	⠀□	-	⠀□	[🏢](http://www.palaugov.net "Republic of Palau")	⠀00680	$<sup>	[美元](https://cn.bing.com/search?q=USD兑CNY)	首都：恩吉鲁穆德 +1h 海洋专属经济区约63万平方公里</sup>  
 🇫🇲	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/0KBUG717.html "国别美图")	[🧭](http://FM.mofcom.gov.cn "经贸指南")	FM⠀	<sup>	<a title="UN中文名比英文多了‘联邦’二字" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681568/">密克罗尼西亚联邦</a> 	Micronesia	</sup>	↩️	⠀1989/9/11建交	[💐](http://FM.china-embassy.gov.cn "中国大使馆")	⠀□	-	⠀□	[🏢](http://www.fsmgov.org "Federated States of Micronesia")	⠀00691	$<sup>	[美元](https://cn.bing.com/search?q=USD兑CNY)	首都：帕利基尔 +2h 海洋专属经济区约298万平方公里</sup>  
 🇲🇭	+ ⠀	　	　	MH⠀	<sup>	<a title="马绍尔群岛共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681492/">马绍尔群岛</a> 	Marshall Islands	</sup>		⠀-/-/-	⠀□	⠀□	-	⠀□	[🏢](http://www.rmiembassyus.org "Republic of the Marshall Islands")	⠀00692	$<sup>	[美元](https://cn.bing.com/search?q=USD兑CNY)	首都：马朱罗（Majuro） +4h </sup>  
-🇰🇮	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/0SSE3LCP.html "国别美图")	　	KI⠀	<sup>	<a title="基里巴斯共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681418/">基里巴斯</a> 	Kiribati	</sup>	↩️	⠀2019年复交	[💐](http://KI.china-embassy.gov.cn "中国大使馆")	⠀□	-	[👥](https://www.mfa.gov.ki "外交部")	[🏢](https://kiribati.gov.ki "Republic of Kiribati")	⠀00686	$<sup>	[基里巴斯元](https://cn.bing.com/search?q=KID兑CNY)	首都：南塔拉瓦 +4h 曾于1980-2003与我方建交，2019/9/27。海洋专属经济区350万平方公里</sup>  
+🇰🇮	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/0SSE3LCP.html "国别美图")	　	KI⠀	<sup>	<a title="基里巴斯共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681418/">基里巴斯</a> 	Kiribati	</sup>	↩️	⠀2019年复交	[💐](http://KI.china-embassy.gov.cn "中国大使馆")	⠀□	-	[👥](https://www.mfa.gov.ki "外交部")	[🏢](https://kiribati.gov.ki "Republic of Kiribati")	⠀00686	$<sup>	[基里巴斯元](https://cn.bing.com/search?q=KID兑CNY)	首都：南塔拉瓦 +4h 上次建交于1980-2003年，2019/9/27。海经区350万平方公里</sup>  
 🇳🇷	+ ⠀	　	　	NR⠀	<sup>	<a title="瑙鲁共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681592/">瑙鲁</a> 	Nauru	</sup>		⠀2024年复交	[💐](http://NR.china-embassy.gov.cn "中国大使馆")	⠀□	-	[👥](http://www.nauru.gov.nr/government/departments/department-of-foreign-affairs-and-trade.aspx "外交部")	[🏢](http://www.nauru.gov.nr "Republic of Nauru")	⠀00674	$<sup>	[澳元](https://cn.bing.com/search?q=AUD兑CNY)	首都：亚伦 +4h 曾于2002-2005与我方建交，2024/1/24</sup>  
 🇸🇧	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/082Q1O5E.html "国别美图")	　	SB⠀	<small>	<a href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681766/">所罗门群岛</a>	Solomon Islands	</small>		⠀2019/9/21建交	[💐](http://SB.china-embassy.gov.cn "中国大使馆")	⠀□	-	[👥](https://www.mfaet.gov.sb "外交部")	[🏢](https://solomons.gov.sb "Solomon Islands")	⠀00677	$<sup>	[所罗门群岛元](https://cn.bing.com/search?q=SBD兑CNY)	首都：霍尼亚拉 +3h 建交即日同台湾断交</sup>  
 🇵🇬	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/58512.htm "国别美图")	[🧭](http://PG.mofcom.gov.cn "经贸指南")	PG⠀		<a title="巴布亚新几内亚独立国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/dyz_681240/1206_681266/">巴布亚新几内亚</a> 	Papua New Guinea			⠀1976/10/12建交	[💐](http://PG.china-embassy.gov.cn "中国大使馆")	⠀□	-	⠀□	[🏢](http://www.pm.gov.pg "Independent State of Papua New Guinea")	⠀00675	K<sup>	[基那](https://cn.bing.com/search?q=PGK兑CNY)	首都：莫尔斯比港 +2h 海经区310万平方公里</sup>  
@@ -345,7 +345,7 @@ LSIP进度　<br>
 　　注1：emoji字符的显示效果由各浏览器字体决定，不同平台的效果不同。  
 　　注2：emoji字符的旗帜图案在Win10默认情况看不见，只能看见两个字母，比如中国🇨🇳只看见CN。想找各国旗帜图案可到[联合国网站](https://www.un.org/zh/about-us/member-states)。  
 　　注3：部分货币符号没有收录，主要是阿拉伯文等难以显示/辨认的符号。  
-　　以前[2022版](nations-2022)有一篇帮助文档可参考：《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》，等待更新。
+　　以前的[<del>2022旧版</del>](nations-2022)有一篇帮助文档可参考：《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》。
 
 <div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
@@ -365,7 +365,7 @@ LSIP进度　<br>
 <h3 >统计</h3>
 　　**国别表**收录口径为ISO全部国别249个。2022年俄乌冲突爆发后，顿涅茨克、卢甘斯克 获得少数国家(RU/SY/KP…)承认，但还没有获得ISO分配的国别代码，故不在本页收录范围。
 
-　　**国别表**以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(LSIP)”形式收录以下全集：全体联合国会员国193个、中华人民共和国建交国183个（截至2024年1月）、一带一路签约国152个（截至2023年8月）、中国公民因私护照免签入境国46个（截至2024年2月）。
+　　国别表以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(**LSIP**)”形式收录以下全集：全体联合国会员国193个、中华人民共和国建交国183个（截至2024年1月）、一带一路签约国152个（截至2023年8月）、中国公民因私护照免签入境国46个（截至2024年2月）。
 
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
@@ -376,7 +376,7 @@ LSIP进度　<br>
 	老生常谈© 2019~2024 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://laosheng.top/ydyl/nations
-	外交国别速查表 Version 0.8.7	202402
+	外交国别速查表 V0.8.7	202402
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
