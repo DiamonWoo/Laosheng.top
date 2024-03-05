@@ -70,6 +70,8 @@
 　　本站使用官方数据和自筹数据相结合，官方数据保证基础数据的权威性、客观性，自筹数据加强数据的关联性、主观性。行政区划代码是本站【服务】系列的种子数据，其官方数据来源如下： 
 
 * 民政部网站 /
+  * 政务服务/查询服务/[全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)
+    * [县级以上行政区划变更情况](http://xzqh.mca.gov.cn/description?dcpid=1) 2023年变更情况，本站正在吸收
   * 民政数据/[行政区划代码](https://www.mca.gov.cn/n156/n186/)（路径有变）
     *	2023年4月发布的<del>[2022年完整数据](https://www.mca.gov.cn/n156/n186/c110744/content.html)</del>，官网已撤回
     *	2022年3月发布的[2021年的变更数据](https://www.mca.gov.cn/n156/n186/c110745/content.html)，本站已吸收
@@ -126,7 +128,7 @@
 　　节约您的搜寻时间，老生常谈。网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author" target="_top">提出意见</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
-	老生常谈© 2019-2023 大萌
+	老生常谈© 2019-2024 大萌
 	https://Laosheng.top/fuwu
 	有关部门服务网 v1.5.6 202401
 ```
@@ -139,6 +141,5 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🚨🚓🚑🚒🚌🧑‍🤝‍🧑🥯💱🕗🕘
-💱🥯📈💹👛💰‼️🔺❗🔻🌡️🧨🎈🎁♦️👛🏮💰🩸🔴
-🛩️🚁🛸🪁🎯💨📡🔭🧍‍♀️⚓💧🧪⛓️🧰✨🌿📶📱
+🚨🚓🚑🚒🚌🧑‍🤝‍🧑🥯💱🕗🕘💱🥯📈💹👛💰‼️🔺❗🔻🌡️🧨🎈🎁♦️👛🏮💰🩸🔴🛩️🚁🛸🪁🎯💨📡🔭🧍‍♀️⚓💧🧪⛓️🧰✨🌿📶📱  
+💰💹💳💵📈	📉📊🧮 👑👛💼👔🛍️🚼👶🤗🎳📅🀄 📊🔔🟨 ㊖⊛👤♟♟♙㊣Ⓑ✪ü❃
