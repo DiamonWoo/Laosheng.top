@@ -1,10 +1,10 @@
 中国千县地名网 📑
 ================
-大萌　2021-2023	<base target="_blank">
+大萌　2021-2024	<base target="_blank">
 
-		建设全国统一大市场是构建新发展格局的基础支撑和内在要求。——202203 中共中央 国务院
+		这是英雄的祖国 / 是我生长的地方 /在这片古老的土地上 / 到处都有青春的力量。——1956年歌曲《我的祖国》
 
-　　见到一个陌生地名的时候，如果没有提到完整的‘省/市/县’行政区划，人们很难想象它在哪里。比如，2021年入选世界遗产的[洛阳桥](http://www.qzworldemporium.cn/yczhs/)，它是在河南吗？不！它位于：福建省/泉州市/晋江市(县级)，这个地方是著名的中国鞋都、全国十强县。
+　　见到一个新地名的时候，如果没有提到完整的‘省/市/县’行政区划，很难想象它在哪里。比如，2021年入选世界遗产的[洛阳桥](http://www.qzworldemporium.cn/yczhs/)，它是在河南吗？不！它位于：福建省/泉州市/晋江市(县级)，这个地方是著名的中国鞋都、全国十强县。
 
 　　要想了解一个地方的概况，比较粗略的方法，可用搜索引擎，大概率搜到某某百科，需要读者自己花时间筛选；比较严谨的方法，可先查到该地的行政区划，然后访问该地的政府网站。如果还要查交通地图、电话区号、当地车牌，那就要查更多次。有什么办法可以查得更快一点吗？
 
@@ -22,7 +22,8 @@ LSIP收录进度
 		收录LC = 3205
 		完成率 = 99.9%
 
-+	202311　<中国千县政府网>更名为<中国千县地名网>，简称不变。2022年有区划变动待更新。
++	202403　已收录2023年县以上行政区划变动，新疆兵团第九师设立白杨市。
++	202311　<中国千县政府网>更名为<中国千县地名网>，简称不变。
 +	202303　22日三亚市海棠区网站上线！为金门县、台湾省补充介绍网址，设计LC调整为3209。
 +	202212　网页名称由<中国千县地名图>更名为<中国千县政府网>。
 +	202209　增加各市车牌、电话区号。
@@ -69,7 +70,7 @@ LSIP收录进度
 <a href="#81" target="_top">81-香港</a>　
 <a href="#82" target="_top">82-澳门</a>　
 91-国外入籍身份证号　
-2021 <a href="#2022" target="_top">行政区划变更</a>　
+近年 <a href="#2022" target="_top">行政区划变更</a>　
 <a href="#备选地图" target="_top">备选地图</a>　
 <small>返回索引请用浏览器‘后退’按钮</small>
 
@@ -3141,7 +3142,7 @@ LSIP收录进度
 540400 <b>[林芝市](http://www.linzhi.gov.cn )</b>　藏G　0894　  
 540402 [巴宜区](http://www.bayiqu.gov.cn )⠀
 540421 [工布江达县](http://www.gongbujiangda.gov.cn )⠀
-540422 [米林县](http://www.milin.gov.cn )⠀
+540422 [米林市](http://www.milin.gov.cn "2023年县改市")⠀
 540423 [墨脱县](http://www.motuo.gov.cn )⠀
 540424 [波密县](http://www.bomi.gov.cn )⠀
 540425 [察隅县](http://www.chayu.gov.cn )⠀
@@ -3158,7 +3159,7 @@ LSIP收录进度
 540527 [洛扎县](http://www.luozha.gov.cn )⠀
 540528 [加查县](http://www.jiacha.gov.cn )⠀
 540529 [隆子县](http://www.longzixian.gov.cn )⠀
-540530 [错那县](http://www.cuona.gov.cn )⠀
+540530 [错那市](http://www.cuona.gov.cn "2023年县改市")⠀
 540531 [浪卡子县](http://www.langkazi.gov.cn )⠀
 
 540600 <b>[那曲市](http://www.naqu.gov.cn/zjnq/ )</b>　藏E　0896　  
@@ -3662,8 +3663,9 @@ LSIP收录进度
 659009 [昆玉市／第十四师](http://www.btdsss.gov.cn )0903⠀
 659010 [胡杨河市／第七师](http://www.nqs.gov.cn )0992⠀
 659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')0902⠀
+659012 [白杨市／第九师](http://www.njs.gov.cn '2023年设立')0901⠀
 
-兵团14个师中尚有3个师(9/11/12)未完成‘师市合一’改革。
+兵团14个师中尚有2个师(11/12)未完成‘师市合一’改革。
 <div align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></div>
 
 <h3 id="71">71 <a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
@@ -3689,9 +3691,13 @@ LSIP收录进度
 路环：	圣方济各堂区  
 <div align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></div>
 
-<h2 id="2022">2022年行政区划变更</h2>
-　　民政部短暂公布后又撤回，本页等待官方重新公布后再做更新。  
+<h2 id="2023">2023年行政区划变更</h2>
+　　2023年有3处变更，本页已全部吸收。
+　　新疆兵团第九师新成立白杨市，西藏两个县改市：错那县、米林县。  
 　　雄安新区有望获得独立的行政区划编码。
+
+<h2 id="2022">2022年行政区划变更</h2>
+　　县级以上无变更。
 
 <h2 id="2021">2021年行政区划变更</h2>
 　　据民政部数据，2021年全国县以上区划有二十余次变更，本页已全部吸收。  
@@ -3731,15 +3737,14 @@ LSIP收录进度
 	老生常谈 © 2019-2023 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.6.9	2023011
+	中国千县地名网	v0.7.0	202403
 ```
 
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🚨🚓🚑🚒🚌🧑🤝‍🧑🏢🔢📠🚘♾
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top
