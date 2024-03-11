@@ -1,6 +1,6 @@
 法治政府部门集 🏢 <sub>奉公守法人心齐</sub>
 ==================
-GPL3.0　大萌　2022-2023	<base target="_blank">
+GPL3.0　大萌　2022-2024	<base target="_blank">
 
 		到2025年，政府行为全面纳入法治轨道——《法治政府建设实施纲要(2021－2025年)》
 
@@ -15,7 +15,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 
 <h2>中央法治部门</h2>与 全国统一服务电话号码
 
-🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdhhytz.shtml)　[代表名单页](http://www.npc.gov.cn/npc/dbmd/tiaozhuan.shtml)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　🟨[全国政协](http://www.cppcc.gov.cn)　[十四届大会](http://www.cppcc.gov.cn/zxww/14j1cdhzt/home/)　[委员名单](http://www.cppcc.gov.cn/zxww/newcppcc/zxqgwyh/)　[历次大会](http://www.cppcc.gov.cn/zxww/newcppcc/hyhd/)  
+🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdh14j2c/)　[代表名单页](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　🟨[全国政协](http://www.cppcc.gov.cn)　[十四届大会](http://www.cppcc.gov.cn/zxww/14j1cdhzt/home/)　[委员名单](http://www.cppcc.gov.cn/zxww/newcppcc/zxqgwyh/)　[历次大会](http://www.cppcc.gov.cn/zxww/newcppcc/hyhd/)  
 　⚔️[最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ/[weibo](https://weibo.com/sppcn#最高人民检察院)⠀☏ 12309　⚖️[最高法](https://www.court.gov.cn)<sup>🔸</sup>/[weibo](https://weibo.com/zuigaofa#最高人民法院)⠀☏ 12368⠀<sub>[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '名单全，网址不全')</sub>　　[中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ/[weibo](https://weibo.com/changan#中国长安网)⠀☏ 12337⠀[<small>中国法学会</small>](https://www.chinalaw.org.cn)  
 　[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ　[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)⠀☎️12388　wx：[<small>微信大厅</small>](http://weixin.ccdi.gov.cn/h5/qrcode)
 
@@ -70,6 +70,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 		设计LC = 4062 ≤ 31×16 + (16×3-2+26)×3 + (333+2)×10 + x　（省+直辖市+地级市）
 		完成率 ≤  72.45%
 
+*	202403	补充白杨市、台港澳政府网址，更新安徽六地市的审查调查页路径。
 *	202305	为已完成地市/县区收录的省，标记‘√’，已完成4个直辖市与7个省：冀/晋/苏/浙/皖/闽/赣。
 *	202303	值2023年两会之际补全各省人大代表名单页面；  
 	　　　	全国约500家地方法院注册在中国法院网的域名批量变更。  
@@ -99,7 +100,7 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 
 <h3 id="12">12 <a title="天津市人民政府" href="http://www.tj.gov.cn">天津</a> √⠀津　022 ♾　<sub></sub></h3>	
 天津人大：[本届大会](https://www.tjrd.gov.cn/tjsrmdbdh/18j1c/)　[代表名单](https://www.tjrd.gov.cn/rdgl/dbt/)　<sub>[地方法规](https://www.tjrd.gov.cn/flfg/sjk/)</sub>　⚔️[人民检察院](http://www.tj.jcy.gov.cn)　⚖️[高级人民法院](https://tjfy.tjcourt.gov.cn)　👥[省政协](http://www.tjszx.gov.cn)　[天津长安网](http://www.tjcaw.gov.cn)⠀[<i>法学会</i>](http://www.tjsfxh.com)	  
-纪委监委：巡视巡察　[审查调查](https://www.tjjw.gov.cn/qw_shenchadiaocha.html)　<sub>wx：海河清风</sub>　[公安局](http://ga.tj.gov.cn) 🛂<sub>[weibo](https://weibo.com/tjpolice110#平安天津)</sub>　[法律服务站](https://tj.12348.gov.cn)　监狱管理局　省级药监局　[审计厅](http://sj.tj.gov.cn)
+纪委监委：巡视巡察　[审查调查](https://www.tjjw.gov.cn/qw_shenchadiaocha_tianjin.html)　<sub>wx：海河清风</sub>　[公安局](http://ga.tj.gov.cn) 🛂<sub>[weibo](https://weibo.com/tjpolice110#平安天津)</sub>　[法律服务站](https://tj.12348.gov.cn)　监狱管理局　省级药监局　[审计厅](http://sj.tj.gov.cn)
 
 [和平区](http://www.tjhp.gov.cn)	 [Ⓖ](https://weibo.com/5341748667#平安和平)	 [Ⓙ](http://www.tjheping.jcy.gov.cn) [Ⓕ](http://tjhpfy.tjcourt.gov.cn)⠀
 [河东区](http://www.tjhd.gov.cn)	 [Ⓖ](https://weibo.com/5268651218#平安河东)	 [Ⓙ](http://www.tjhedong.jcy.gov.cn) [Ⓕ](http://tjhdfy.tjcourt.gov.cn)⠀
@@ -280,19 +281,19 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 纪委监委：[巡视巡察](http://www.ahjjjc.gov.cn/ahxs)　[审查调查](http://www.ahjjjc.gov.cn/jdpg)　<sub>wx：安徽纪检监察</sub>　[公安厅](http://Gat.ah.gov.cn) 🛂<sub>[weibo](https://weibo.com/ahpolice#安徽公安在线)</sub>　[法律服务站](http://ah.12348.gov.cn)　[监狱管理局](http://jyj.ah.gov.cn)　[省级药监局](http://mpa.ah.gov.cn)　[审计厅](https://sjt.ah.gov.cn)
 
 340100 <b>[合肥市](http://www.hefei.gov.cn "合肥市人民政府")</b>⠀0551 ♾	　[人大](http://www.hefeirenda.cn)　[司法局](https://sfj.hefei.gov.cn)  <sub>[律协](http://www.hfslawyers.org/)</sub>　[公安局](http://gaj.hefei.gov.cn) [🛂](https://weibo.com/hefeiga#合肥警方) 皖A⠀[⚔️](http://www.hefei.jcy.gov.cn)⠀[⚖️](http://ahhfzy.ahcourt.gov.cn)　	[纪委监委](http://www.hfsjw.gov.cn) <sub>[审查调查](http://www.hfsjw.gov.cn/scdc/index.html)</sub>　[合肥长安网](http://www.hfcaw.cn)　<sub>[法学会](http://www.hfcaw.cn/fzjs/fxyj/index.html)</sub>　<sub>公安另有微博#合肥110</sub>  
-340200 <b>[芜湖市](http://www.wuhu.gov.cn "芜湖市人民政府")</b>⠀0553	　[人大](http://www.wuhurd.gov.cn)　[司法局](https://sfj.wuhu.gov.cn)  <sub>[律协](http://www.whlawyers.org/)</sub>　[公安局](http://gaj.wuhu.gov.cn) [🛂](https://weibo.com/1752573490#平安芜湖) 皖B⠀[⚔️](http://www.wuhu.jcy.gov.cn)⠀[⚖️](http://www.wuhucourt.gov.cn)　	[纪委监委](http://www.whjjw.gov.cn) <sub>[审查调查](http://www.whjjw.gov.cn/newslist.php?CateId=8437)</sub>　[芜湖长安网](http://whcaw.wh.cn)  
+340200 <b>[芜湖市](http://www.wuhu.gov.cn "芜湖市人民政府")</b>⠀0553	　[人大](http://www.wuhurd.gov.cn)　[司法局](https://sfj.wuhu.gov.cn)  <sub>[律协](http://www.whlawyers.org/)</sub>　[公安局](http://gaj.wuhu.gov.cn) [🛂](https://weibo.com/1752573490#平安芜湖) 皖B⠀[⚔️](http://www.wuhu.jcy.gov.cn)⠀[⚖️](http://www.wuhucourt.gov.cn)　	[纪委监委](http://www.whjjw.gov.cn) <sub>[审查调查](http://www.whjjw.gov.cn/html/liebiao_8437.html)</sub>　[芜湖长安网](http://whcaw.wh.cn)  
 340300 <b>[蚌埠市](http://www.bengbu.gov.cn "蚌埠市人民政府")</b>⠀0552	　[人大](http://www.bbrd.gov.cn)　[司法局](https://sfj.bengbu.gov.cn)  - -　[公安局](http://gaj.bengbu.gov.cn) [🛂](https://weibo.com/bbgazx#蚌埠警方) 皖C⠀[⚔️](http://www.bengbu.jcy.gov.cn)⠀[⚖️](http://bbzy.ahcourt.gov.cn)　	[纪委监委](http://www.ahbbjjjc.gov.cn) <sub>[审查调查](http://www.ahbbjjjc.gov.cn/newslist.php?CateId=9598)</sub>　[蚌埠长安网](http://swzfw.bb.ah.cn)  
 340400 <b>[淮南市](http://www.huainan.gov.cn "淮南市人民政府")</b>⠀0554	　[人大](http://hnrd.huainan.gov.cn)　[司法局](https://sfj.huainan.gov.cn)  <sub>[律协](http://www.hnls.org.cn/)</sub>　[公安局](http://gaj.huainan.gov.cn) [🛂](https://weibo.com/hngazx#淮南公安在线) 皖D⠀[⚔️](http://www.huainan.jcy.gov.cn)⠀[⚖️](http://hnzy.ahcourt.gov.cn)　	[纪委监委](http://www.hnjjjc.gov.cn) <sub>[审查调查](http://www.hnjjjc.gov.cn/newslist.php?CateId=5142)</sub>　[淮南长安网](http://www.hnzzb.gov.cn)　<sub>[法学会](http://www.hnzzb.gov.cn/sdjs/hnfx/)</sub>  
 340500 <b>[马鞍山市](http://www.mas.gov.cn "马鞍山市人民政府")</b>⠀0555	　[人大](http://www.masrd.gov.cn)　[司法局](https://sfj.mas.gov.cn)  <sub>[律协](http://www.maslawyer.org.cn/)</sub>　[公安局](http://gaj.mas.gov.cn) [🛂](https://weibo.com/maspolice#马鞍山公安在线) 皖E⠀[⚔️](http://www.maanshan.jcy.gov.cn)⠀[⚖️](http://maszy.ahcourt.gov.cn)　	[纪委监委](http://www.masdl.gov.cn) <sub>[审查调查](http://www.masdl.gov.cn/newslist.php?CateId=9506)</sub>　[马鞍山长安网](http://mascaw.maszfw.com)  
-340600 <b>[淮北市](https://www.huaibei.gov.cn "淮北市人民政府")</b>⠀0561	　[人大](http://www.ahhbrd.gov.cn)　[司法局](https://sfj.huaibei.gov.cn)  <sub>[律协](http://www.ahhbls.com/)</sub>　[公安局](http://gaj.huaibei.gov.cn) [🛂](https://weibo.com/ahhbga#淮北公安) 皖F⠀[⚔️](http://www.huaibei.jcy.gov.cn)⠀[⚖️](http://ahhbzy.ahcourt.gov.cn)　	[纪委监委](http://www.hbjjjc.gov.cn) <sub>[审查调查](http://www.hbjjjc.gov.cn/newslist.php?CateId=1238)</sub>　[淮北长安网](http://www.hbswzfw.gov.cn)  
+340600 <b>[淮北市](https://www.huaibei.gov.cn "淮北市人民政府")</b>⠀0561	　[人大](http://www.ahhbrd.gov.cn)　[司法局](https://sfj.huaibei.gov.cn)  <sub>[律协](http://www.ahhbls.com/)</sub>　[公安局](http://gaj.huaibei.gov.cn) [🛂](https://weibo.com/ahhbga#淮北公安) 皖F⠀[⚔️](http://www.huaibei.jcy.gov.cn)⠀[⚖️](http://ahhbzy.ahcourt.gov.cn)　	[纪委监委](http://www.hbjjjc.gov.cn) <sub>[审查调查](http://www.hbjjjc.gov.cn/html/liebiao_1238.html)</sub>　[淮北长安网](http://www.hbswzfw.gov.cn)  
 340700 <b>[铜陵市](https://www.tl.gov.cn "铜陵市人民政府")</b>⠀0562	　[人大](http://www.tlsrd.gov.cn)　[司法局](https://sfj.tl.gov.cn)  <sub>[律协](http://www.tlls.org.cn/)</sub>　[公安局](http://gaj.tl.gov.cn) [🛂](https://weibo.com/tlpolice#铜陵公安在线) 皖G⠀[⚔️](http://www.tongling.jcy.gov.cn)⠀[⚖️](http://www.tlcourt.gov.cn)　	[纪委监委](http://www.tljw.gov.cn) <sub>[审查调查](http://www.tljw.gov.cn/newslist.php?CateId=9621)</sub>　[铜陵长安网](http://www.tlcaw.gov.cn)　<sub>廉田网</sub>  
 340800 <b>[安庆市](http://www.anqing.gov.cn "安庆市人民政府")</b>⠀0556	　[人大](http://www.aqrd.gov.cn)　[司法局](https://sfj.anqing.gov.cn)  <sub>[律协](http://www.aqlawyer.com.cn/)</sub>　[公安局](http://gaj.anqing.gov.cn) [🛂](https://weibo.com/aqgazx#安庆公安) 皖H⠀[⚔️](http://www.anqing.jcy.gov.cn)⠀[⚖️](http://aqzy.gov.cn)　	[纪委监委](http://www.aqjjjc.gov.cn) <sub>[审查调查](http://www.aqjjjc.gov.cn/index.php?a=lists&catid=20)</sub>　[安庆长安网](http://www.aqzfw.gov.cn)  
 341000 <b>[黄山市](http://www.huangshan.gov.cn "黄山市人民政府")</b>⠀0559	　[人大](http://www.ahhsrd.gov.cn)　[司法局](https://sfj.huangshan.gov.cn)  <sub>[律协](http://www.hsslsxh.com/)</sub>　[公安局](http://gaj.huangshan.gov.cn) [🛂](https://weibo.com/ahhsga#黄山公安在线) 皖J⠀[⚔️](http://www.huangshan.jcy.gov.cn)⠀[⚖️](http://hszy.ahcourt.gov.cn)　	[纪委监委](http://www.hsjw.gov.cn) <sub>[审查调查](http://www.hsjw.gov.cn/xxgk/scdc/)</sub>　[黄山长安网](http://www.hscaw.com)  
 341100 <b>[滁州市](https://www.chuzhou.gov.cn "滁州市人民政府")</b>⠀0550	　[人大](http://www.ahczrd.gov.cn)　[司法局](https://sfj.chuzhou.gov.cn)  <sub>[律协](http://www.czlawyer.org.cn/)</sub>　[公安局](http://gaj.chuzhou.gov.cn) [🛂](https://weibo.com/2553770907#滁州公安在线) 皖M⠀[⚔️](http://www.chuzhou.jcy.gov.cn)⠀[⚖️](http://chuzhouzy.ahcourt.gov.cn)　	[纪委监委](http://www.czlz.gov.cn) <sub>[审查调查](http://www.czlz.gov.cn/Class_119/Index.aspx)</sub>　[滁州长安网](http://www.czscaw.gov.cn)  
-341200 <b>[阜阳市](https://www.fy.gov.cn "阜阳市人民政府")</b>⠀0558	　[人大](http://www.ahfyrd.gov.cn)　[司法局](https://sfj.fy.gov.cn)  <sub>[律协](http://www.fyls.org/)</sub>　[公安局](http://gaj.fy.gov.cn) [🛂](https://weibo.com/fysgazx#阜阳公安在线) 皖K⠀[⚔️](http://www.fuyang.jcy.gov.cn)⠀[⚖️](http://fyzy.ahcourt.gov.cn)　	[纪委监委](http://www.fyjjjc.gov.cn) <sub>[审查调查](http://www.fyjjjc.gov.cn/newslist.php?CateId=9615)</sub>　[阜阳长安网](http://fycaw.gov.cn)  
-341300 <b>[宿州市](http://www.ahsz.gov.cn "宿州市人民政府")</b>⠀0557	　[人大](https://www.ahszrd.gov.cn)　[司法局](https://sfj.ahsz.gov.cn)  - -　[公安局](http://gaj.ahsz.gov.cn) [🛂](https://weibo.com/ahsuzhou110#宿州公安在线) 皖L⠀[⚔️](http://www.ahsuzhou.jcy.gov.cn)⠀[⚖️](http://szszy.ahcourt.gov.cn)　	[纪委监委](http://www.szjjjc.gov.cn) <sub>[审查调查](http://www.szjjjc.gov.cn/newslist.php?CateId=9544)</sub>　[宿州长安网](http://www.szcaw.cn)  
-341500 <b>[六安市](https://www.luan.gov.cn "六安市人民政府")</b>⠀0564	　[人大](http://www.lasrd.gov.cn)　[司法局](https://sfj.luan.gov.cn)  - -　[公安局](http://gaj.luan.gov.cn) [🛂](https://weibo.com/lapolice#六安公安在线) 皖N⠀[⚔️](http://www.luan.jcy.gov.cn)⠀[⚖️](http://lafy.gov.cn)　	[纪委监委](http://www.lajjjc.gov.cn) <sub>[审查调查](http://www.lajjjc.gov.cn/newslist.php?CateId=9595)</sub>　[六安长安网](http://www.lashgl.gov.cn)　<sub>皋城清风</sub>  
-341600 <b>[亳州市](https://www.bozhou.gov.cn "亳州市人民政府")</b>⠀0558	　[人大](http://www.bzrd.gov.cn)　[司法局](https://sfj.bozhou.gov.cn)  <sub>[律协](http://www.bzlsxh.com.cn/)</sub>　[公安局](http://gaj.bozhou.gov.cn) [🛂](https://weibo.com/523319111#亳州警方) 皖S⠀[⚔️](http://www.bozhou.jcy.gov.cn)⠀[⚖️](http://bzzy.ahcourt.gov.cn)　	[纪委监委](http://www.bzjjjc.gov.cn) <sub>[审查调查](http://www.bzjjjc.gov.cn/newslist.php?CateId=3281)</sub>　[亳州长安网](http://www.bzzfw.gov.cn)　<sub>[法学会](http://www.bzzfw.gov.cn/content/channel/5d0060be891696683e0067ca/)</sub>　<sub>亳州警方微博数字ID没有u前缀</sub>  
+341200 <b>[阜阳市](https://www.fy.gov.cn "阜阳市人民政府")</b>⠀0558	　[人大](http://www.ahfyrd.gov.cn)　[司法局](https://sfj.fy.gov.cn)  <sub>[律协](http://www.fyls.org/)</sub>　[公安局](http://gaj.fy.gov.cn) [🛂](https://weibo.com/fysgazx#阜阳公安在线) 皖K⠀[⚔️](http://www.fuyang.jcy.gov.cn)⠀[⚖️](http://fyzy.ahcourt.gov.cn)　	[纪委监委](http://www.fyjjjc.gov.cn) <sub>[审查调查](http://www.fyjjjc.gov.cn/html/liebiao_9615.html)</sub>　[阜阳长安网](http://fycaw.gov.cn)  
+341300 <b>[宿州市](http://www.ahsz.gov.cn "宿州市人民政府")</b>⠀0557	　[人大](https://www.ahszrd.gov.cn)　[司法局](https://sfj.ahsz.gov.cn)  - -　[公安局](http://gaj.ahsz.gov.cn) [🛂](https://weibo.com/ahsuzhou110#宿州公安在线) 皖L⠀[⚔️](http://www.ahsuzhou.jcy.gov.cn)⠀[⚖️](http://szszy.ahcourt.gov.cn)　	[纪委监委](http://www.szjjjc.gov.cn) <sub>[审查调查](http://www.szjjjc.gov.cn/html/liebiao_9544.html)</sub>　[宿州长安网](http://www.szcaw.cn)  
+341500 <b>[六安市](https://www.luan.gov.cn "六安市人民政府")</b>⠀0564	　[人大](http://www.lasrd.gov.cn)　[司法局](https://sfj.luan.gov.cn)  - -　[公安局](http://gaj.luan.gov.cn) [🛂](https://weibo.com/lapolice#六安公安在线) 皖N⠀[⚔️](http://www.luan.jcy.gov.cn)⠀[⚖️](http://lafy.gov.cn)　	[纪委监委](http://www.lajjjc.gov.cn) <sub>[审查调查](http://www.lajjjc.gov.cn/html/liebiao_9595.html)</sub>　[六安长安网](http://www.lashgl.gov.cn)　<sub>皋城清风</sub>  
+341600 <b>[亳州市](https://www.bozhou.gov.cn "亳州市人民政府")</b>⠀0558	　[人大](http://www.bzrd.gov.cn)　[司法局](https://sfj.bozhou.gov.cn)  <sub>[律协](http://www.bzlsxh.com.cn/)</sub>　[公安局](http://gaj.bozhou.gov.cn) [🛂](https://weibo.com/523319111#亳州警方) 皖S⠀[⚔️](http://www.bozhou.jcy.gov.cn)⠀[⚖️](http://bzzy.ahcourt.gov.cn)　	[纪委监委](http://www.bzjjjc.gov.cn) <sub>[审查调查](http://www.bzjjjc.gov.cn/html/liebiao_3280.html)</sub>　[亳州长安网](http://www.bzzfw.gov.cn)　<sub>[法学会](http://www.bzzfw.gov.cn/content/channel/5d0060be891696683e0067ca/)</sub>　<sub>亳州警方微博数字ID没有u前缀</sub>  
 341700 <b>[池州市](http://www.chizhou.gov.cn "池州市人民政府")</b>⠀0566	　[人大](http://www.chzrd.gov.cn)　[司法局](https://sfj.chizhou.gov.cn)  <sub>[律协](http://www.czlawyer.com.cn/)</sub>　[公安局](http://gaj.xuancheng.gov.cn) [🛂](https://weibo.com/2482810680#池州公安在线) 皖R⠀[⚔️](http://www.chizhou.jcy.gov.cn)⠀[⚖️](http://ahczzy.ahcourt.gov.cn)　	[纪委监委](http://www.czjjjcw.gov.cn) <sub>[审查调查](http://www.czjjjcw.gov.cn/News/showList/6521/page_1.html)</sub>　[池州长安网](http://www.czcaw.gov.cn)  
 341800 <b>[宣城市](http://www.xuancheng.gov.cn "宣城市人民政府")</b>⠀0563	　[人大](http://rd.xuancheng.gov.cn)　[司法局](https://sfj.xuancheng.gov.cn)  <sub>[律协](http://www.xclslawyer.cn/)</sub>　[公安局](http://gaj.xuancheng.gov.cn) [🛂](https://weibo.com/3039827240#宣城公安在线) 皖P⠀[⚔️](http://www.xuancheng.jcy.gov.cn)⠀[⚖️](http://ahxczy.ahcourt.gov.cn)　	[纪委监委](http://www.xcjjjc.gov.cn) <sub>[审查调查](http://www.xcjjjc.gov.cn/News/showList/44510/page_1.html)</sub>　[宣城长安网](http://www.xccaw.gov.cn)  
 
@@ -656,30 +657,38 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 659009 <a href="http://www.btdsss.gov.cn">昆玉市／第十四师</a>⠀
 659010 <a href="http://www.nqs.gov.cn">胡杨河市／第七师</a>⠀
 659011 <a href="http://www.btnsss.gov.cn/zj.htm" title="2021年设立">新星市／第十三师</a>
-　　第九师　第十一师　第十二师  
+659012 <a href="http://www.njs.gov.cn" title="2023年设立">白杨市／第九师</a>0901
+　　第十一师　第十二师  
 
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
+
+<h3 id="71" title="710000">71 
+<a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>
+　+886　<sub>革命尚未成功</sub></h3>
+全国人大[台湾代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/twdbtmd14/)　　[台灣法學會](http://www.taiwanlawsociety.org.tw)  
+
+710100 <b>台北市</b>　02♾  
+
+<h3 id="81" title="810000">81 
+ <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港</a>
+　+852♾　<sub>1997年回归祖国</sub></h3>
+
+全国人大[香港代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/xgdbtmd14/)　　[香港立法会](https://www.legco.gov.hk/)<sup>🔸</sup>　	[律政司](https://www.doj.gov.hk/)<sup>🔸</sup>　	[香港法院](https://www.judiciary.hk/)<sup>🔸</sup>  
+[香港廉政公署](https://www.icac.org.hk/)<sup>🔸</sup> 　	[香港政府](https://www.gov.hk/)<sup>🔸</sup> 　	[香港警务处](https://www.police.gov.hk/)<sup>🔸</sup> 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
+  
+
+<h3 id="82" title="820000">82 
+ <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门</a>
+　+853♾　<sub>1999年回归祖国</sub></h3>
+
+全国人大[澳门代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/amdbtmd14/)　　[澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup>　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup>  
+[澳门廉政公署](https://www.ccac.org.mo/)<sup>🔸</sup> 　[澳门政府](https://www.gov.mo/)<sup>🔸</sup> 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
+
 
 <h3>编辑后记</h3>
 
 	20230315	有6个省级人大网站没有给出省内地市人大的连接：山东、湖南、广东、西藏、宁夏、新疆；
 			黑龙江、甘肃两省虽然列出了地市人大，但网址缺失较多。
-
-<h3 id="71" title="710000">71 台湾　+886　<sub>革命尚未成功</sub></h3>
-全国人大[台湾代表名单](http://www.npc.gov.cn/npc/twdbtmd14/tw14.shtml)　　[台灣法學會](http://www.taiwanlawsociety.org.tw)  
-
-710100 <b>台北市</b>　02♾  
-
-<h3 id="81" title="810000">81 香港　+852♾　<sub>1997年回归祖国</sub></h3>
-
-全国人大[香港代表名单](http://www.npc.gov.cn/npc/xgdbtmd14/xg14.shtml)　　[香港立法会](https://www.legco.gov.hk/)<sup>🔸</sup>　	[律政司](https://www.doj.gov.hk/)<sup>🔸</sup>　	[香港法院](https://www.judiciary.hk/)<sup>🔸</sup>  
-[香港廉政公署](https://www.icac.org.hk/)<sup>🔸</sup> 　	[香港政府](https://www.gov.hk/)<sup>🔸</sup> 　	[香港警务处](https://www.police.gov.hk/)<sup>🔸</sup> 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
-  
-
-<h3 id="82" title="820000">82 澳门　+853♾　<sub>1999年回归祖国</sub></h3>
-
-全国人大[澳门代表名单](http://www.npc.gov.cn/npc/amdbtmd14/am14.shtml)　　[澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup>　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup>  
-[澳门廉政公署](https://www.ccac.org.mo/)<sup>🔸</sup> 　[澳门政府](https://www.gov.mo/)<sup>🔸</sup> 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
 
 <h4>技术标记图例(备用)</h4>
 
@@ -693,18 +702,17 @@ GPL3.0　大萌　2022-2023	<base target="_blank">
 
 ```
 	老生常谈© 2019-2023 大萌　CC 3.0
-	法治政府部门集 v0.9.7 　202310
+	法治政府部门集 v0.9.8 　202403
 	https://laosheng.top/fuwu/fazhi
 	GPL 3.0  可转发-可衍生-相同方式授权
 ```
 
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top  
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🔒🆚🔰🔶🔸🔹♦️◇◆◊◬①②③¹²³⚓ⓢⓈⓂⓜ 📱📳✌️☑✓✔√◘▮▯□❑☐☤☺☻ツ웃유  
-🟥🟨🟩🟦🟪🟫🟠🟢<sup>🔸</sup>☏☎️🚩☭℡✓
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top
