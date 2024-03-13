@@ -8,7 +8,7 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
 
 　　‘法治政府部门集’页面简称‘法门集’，收录网址的部门包括：立法、司法、执法（即：人大/两院/公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：省政协、审计厅、药监局、监狱管理局；还有半官方的 <small>法学会、律师协会</small>。　另有简称‘公检法’的第二页面，收录 **县区级** 公检法网址ⒼⒿⒻ。通过各省的箭头图标 ↘↖，两个页面可以互相跳转，请注意浏览器的窗口切换。
 
-　　收录工作正在进行，由于个人能力有限，大萌欢迎读者制作改进版本。本页面特意采用了和Linux内核相同的GPL 3.0版权许可证（与知识共享的BY-SA协议兼容），允许读者改编，欢迎<a href="https://laosheng.top/c/author">提出意见</a>。
+　　收录工作正在进行，由于个人能力有限，大萌欢迎读者制作改进版本。本页面特意采用了允许改编的GPL 3.0版权许可证（和Linux内核许可证相同，与知识共享的BY-SA协议兼容），欢迎<a href="https://laosheng.top/c/author">提出意见</a>。
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法治政府部门集
 </div>
@@ -70,6 +70,7 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
 		设计LC = 4062 ≤ 31×16 + (16×3-2+26)×3 + (333+2)×10 + x　（省+直辖市+地级市）
 		完成率 ≤  72.45%
 
+*	202403	⚠发现河北、山西、浙江、江西大批量的法院域名变更，等待更新。
 *	202403	检查各省人大网址变更。
 *	202403	补充白杨市、台港澳政府网址，更新安徽六地市的审查调查页路径。
 *	202305	为已完成地市/县区收录的省，标记‘√’，已完成4个直辖市与7个省：冀/晋/苏/浙/皖/闽/赣。
@@ -313,7 +314,7 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
 350900 <b>[宁德市](http://www.ningde.gov.cn "宁德市人民政府")</b>⠀0593	　[人大](http://www.ndrd.gov.cn)　[司法局](http://sfj.ningde.gov.cn)  - -　[公安局](http://gaj.ningde.gov.cn) [🛂](https://weibo.com/ndsgaj#宁德公安) 闽J⠀[⚔️](http://www.ningde.jcy.gov.cn)⠀[⚖️](http://ndzy.ndzycourt.gov.cn)　	[纪委监委](http://www.ndjc.gov.cn) <sub>[审查调查](http://www.ndjc.gov.cn/scdc/)</sub>　[宁德长安网](http://www.ndcaw.net)  
 
 <h3 id="36">36 <a title="江西省人民政府" href="http://www.jiangxi.gov.cn">江西</a> √⠀赣　<sub>　<a href="qianxian-gjf#36" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
-江西人大：本届大会[](https://jxrd.jxnews.com.cn/red/)　[代表名单](https://jxrd.jxnews.com.cn/system/2013/03/01/012308177.shtml)　<sub>[地方法规](https://jxrd.jxnews.com.cn/lfjj/flfg/)</sub>　⚔️[人民检察院](http://www.jx.jcy.gov.cn)　⚖️[高级人民法院](https://jxfy.jxfy.gov.cn)　👥[省政协](https://jxzx.jxnews.com.cn)　[江西政法网](http://www.jxzfw.gov.cn)⠀[<i>法学会</i>](http://www.jxzfw.gov.cn/jxfxh/)	  
+江西人大：本届大会[](https://jxrd.jxnews.com.cn/red/)　[代表名单](https://jxrd.jxnews.com.cn/system/2013/03/01/012308177.shtml)　<sub>[地方法规](https://jxrd.jxnews.com.cn/lfjj/flfg/)</sub>　⚔️[人民检察院](http://www.jx.jcy.gov.cn)　⚖️[高级人民法院](https://jxgy.jxfy.gov.cn)　👥[省政协](https://jxzx.jxnews.com.cn)　[江西政法网](http://www.jxzfw.gov.cn)⠀[<i>法学会</i>](http://www.jxzfw.gov.cn/jxfxh/)	  
 纪委监委：[巡视巡察](http://www.jxdi.gov.cn/xsxc/)　[审查调查](http://www.jxdi.gov.cn/jlsc/)　<sub>wx：廉洁江西</sub>　[公安厅](http://gat.jiangxi.gov.cn) 🛂<sub>[weibo](https://weibo.com/3917583838#江西公安)</sub>　[法律服务站](http://jx.12348.gov.cn)　[监狱管理局](http://www.jxjyglj.gov.cn)　[省级药监局](http://mpa.jiangxi.gov.cn)　[审计厅](http://audit.jiangxi.gov.cn)
 
 360100 <b>[南昌市](http://www.nc.gov.cn "南昌市人民政府")</b>⠀0791 ♾	　[人大](http://www.ncsrd.gov.cn)　[司法局](http://sfj.nc.gov.cn)  <sub>[律协](http://www.nclawyers.cn/)</sub>　[公安局](http://ncga.nc.gov.cn) [🛂](https://weibo.com/2673596511#南昌公安) 赣A/M⠀[⚔️](http://www.nanchang.jcy.gov.cn)⠀[⚖️](http://nczy.jxfy.gov.cn)　	[纪委监委](http://www.ncdi.gov.cn) <sub>[审查调查](http://www.ncdi.gov.cn/website/website!getColunm.action?columnId=1153)</sub>　[南昌政法网](http://nc.jxzfw.gov.cn)　<sub>经开区与高新区设有两院</sub>  
