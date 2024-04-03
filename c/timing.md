@@ -147,9 +147,7 @@
 *	[医学百科](https://www.yixue.com/首页)	　	A+医学百科$<a href="http://a-hospital.com/w/中药" title="民间公益网站">中药</a>
 
 *	中医世家《[中医方剂](https://www.zysj.com.cn/zhongyaofang/)》，超两万五千方！
-*	[经方派](https://www.jingfangpai.cn/prescription/) 从八千种中医古籍中精选50种
-
-*	医书考古 [kege.org.cn](http://kege.org.cn/zhongyi-kaogu)
+*	[经方派](https://www.jingfangpai.cn/prescription/) 从八千种中医古籍中精选50本。	　	医书考古 [kege.org.cn](http://kege.org.cn/zhongyi-kaogu)
 
 <!--*	平安好医生	也是个App-->
 <!-- w/药品 w/全国医院列表--><!-- wapypk.39.net/search -->
