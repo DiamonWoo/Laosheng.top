@@ -136,24 +136,22 @@
 *	1药网 	<https://www.111.com.cn/cmsPage/2015012602/>	合法网上药店
 *	药智数据库 <https://db.yaozh.com >	药品的生产与管理信息
 % 39<a href="http://ypk.39.net/AllCategory" title="国内最早的互联网医药健康网站">药品通</a>
+*	医脉通 最新进展 <https://news.medlive.cn/>	
 
 *	丁香人才	<https://www.jobmd.cn>	医学人才求职平台
 *	百度灵医	https://01.baidu.com/	医疗咨询App
-*	平安好医生	也是个App
 *	成都医联	<https://www.medlinker.com>	慢病管理平台
 *	重庆名医在线	<http://www.myzx.cn>	名医直播科普平台
 
-*	医脉通 最新进展 <https://news.medlive.cn/>	
-*	家庭医生 <a href="https://www.familydoctor.com.cn" title="">杂志</a>、
- $<a href="http://jyb.ncrbw.cn" title="南昌日报社旗下">报纸</a>📰
-+	<a href="./changtan/6-权威的医疗保健类报纸.txt" title="权威的医疗健康类报纸">权威保健资讯</a>
-
-*	<a href="https://house086.com" title="只有病友最懂你">淋巴瘤之家</a>
-*	<a href="https://www.mijian360.com/help" title="病友互助社交">觅健</a>
+*	<a href="https://house086.com" title="只有病友最懂你">淋巴瘤之家</a>	　	<a href="https://www.mijian360.com/help" title="病友互助社交">觅健</a>
+*	[医学百科](https://www.yixue.com/首页)	　	A+医学百科$<a href="http://a-hospital.com/w/中药" title="民间公益网站">中药</a>
 
 *	中医世家《[中医方剂](https://www.zysj.com.cn/zhongyaofang/)》，超两万五千方！
-*	A+医学百科$<a href="http://a-hospital.com/w/中药" title="民间公益网站">中药</a>
-*	[医学百科](https://www.yixue.com/首页)
+*	[经方派](https://www.jingfangpai.cn/prescription/) 从八千种中医古籍中精选50种
+
+*	医书考古 [kege.org.cn](http://kege.org.cn/zhongyi-kaogu)
+
+<!--*	平安好医生	也是个App-->
 <!-- w/药品 w/全国医院列表--><!-- wapypk.39.net/search -->
 <!-- so.39.net/search/yp?words= -->
 
