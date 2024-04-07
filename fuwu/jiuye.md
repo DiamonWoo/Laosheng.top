@@ -30,10 +30,11 @@
 
 [人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
 
-*	人社部：[中国公共招聘网](http://job.mohrss.gov.cn)
+*	人社部：[中国公共招聘网](http://job.moHRss.gov.cn)
+*	人社部/社保卡公司：[就业在线](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")
 *	人社部/全国人才流动中心：[中国国家人才网](https://newjobs.com.cn)
-*	人社部/职业技能鉴定中心：[中国就业](http://chinajob.mohrss.gov.cn/bmfw/wsbl/)资格证
-*	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人力资源市场](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/)
+*	人社部/职业技能鉴定中心：[中国就业](http://chinajob.moHRss.gov.cn/bmfw/wsbl/)资格证
+*	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人事档案](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/ "人力资源市场网")
 
 [教育部](http://www.moe.gov.cn) MOE
 *	教育部/学生服务与素质发展中心：国家[大学生就业服务](https://job.ncss.cn/student/24365)平台，含各省毕业生就业网（本页已收录）。
@@ -72,6 +73,7 @@
 　<a href="#63" target="_top">63-青海</a>
 　<a href="#64" target="_top">64-宁夏</a>
 　<a href="#65" target="_top">65-新疆</a>
+　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽
 
 <h3 id='11'>11 北京
@@ -90,7 +92,7 @@
 冀D⠀邯郸市⠀0310　[人社局](http://rsj.hd.gov.cn)　[]( )　   
 冀E⠀邢台市⠀0319　[人社局](https://rsj.lf.gov.cn/)　[]( )　   
 冀F⠀保定市⠀0312　[人社局](https://rsj.baoding.gov.cn/)　[]( )　   
-冀G⠀张家口市⠀0313　[人社局](https://rsj.zjk.gov.cn)　[]( )　   
+冀G⠀张家口市⠀0313　[人社局](https://rsj.zjk.gov.cn)　[垣岗在线](https://rsj.zjk.gov.cn/jycy/ '市人社局')　   
 冀H⠀承德市⠀0314　[人社局](https://rsj.chengde.gov.cn)　[]( )　   
 冀J⠀沧州市⠀0317　[人社局](https://rs.cangzhou.gov.cn)　[]( )　   
 冀R⠀廊坊市⠀0316　[人社局](https://rsj.lf.gov.cn/)　[]( )　   
@@ -117,7 +119,7 @@
 蒙C⠀乌海市⠀0473　[人社局](http://rsj.wuhai.gov.cn)　[]( )　   
 蒙D⠀赤峰市⠀0476　[人社局](http://rsj.chifeng.gov.cn)　[]( )　   
 蒙G⠀通辽市⠀0475　[人社局](http://rsj.tongliao.gov.cn/)　[]( )　   
-蒙K⠀鄂尔多斯市⠀0477　[人社局](http://rsj.ordos.gov.cn/)　[]( )　   
+蒙K⠀鄂尔多斯市⠀0477　[人社局](http://rsj.ordos.gov.cn/)　[鄂尔多斯云招聘](https://www.eedsrcw.org.cn '市人社局')　   
 蒙E⠀呼伦贝尔市⠀0470　[人社局](http://rsj.hlbe.gov.cn)　[]( )　   
 蒙L⠀巴彦淖尔市⠀0478　[人社局](http://rsj.bynr.gov.cn/)　[]( )　   
 蒙J⠀乌兰察布市⠀0474　[人社局](http://rsj.wulanchabu.gov.cn/)　[]( )　   
@@ -134,7 +136,7 @@
 辽E⠀本溪市⠀024 ♾　[人社局](http://rsj.benxi.gov.cn)　[]( )　   
 辽F⠀丹东市⠀0415　[人社局](http://rsj.dandong.gov.cn)　[]( )　   
 辽G⠀锦州市⠀0416　人社局　[]( )　   
-辽H⠀营口市⠀0417　[人社局](http://rsj.yingkou.gov.cn)　[]( )　   
+辽H⠀营口市⠀0417　[人社局](http://rsj.yingkou.gov.cn)　[营口人力资源网](http://ykrl.yingkou.net.cn '市人才中心')　<small>组织部+市人社局：[51job云平台](https://yun.51job.com/ykrc/)</small>   
 辽J⠀阜新市⠀0418　[人社局](https://rsj.fuxin.gov.cn/)　[]( )　   
 辽K⠀辽阳市⠀0419　[人社局](http://rsj.liaoyang.gov.cn)　[]( )　   
 辽L⠀盘锦市⠀0427　[人社局](http://rsj.panjin.gov.cn)　[]( )　   
@@ -148,7 +150,7 @@
 吉B⠀吉林市⠀0432 ♾　[人社局](http://rsj.jlcity.gov.cn/)　[]( )　   
 吉C⠀四平市⠀0434　[人社局](http://hrss.siping.gov.cn/)　[]( )　   
 吉D⠀辽源市⠀0437　[人社局](http://rsj.liaoyuan.gov.cn)　[]( )　   
-吉E⠀通化市⠀0435　[人社局](http://rsj.tonghua.gov.cn)　[]( )　   
+吉E⠀通化市⠀0435　[人社局](http://rsj.tonghua.gov.cn)　[]( )　<small>有个民办的通化急聘</small>   
 吉F⠀白山市⠀0439　[人社局](http://hrss.cbs.gov.cn)　[]( )　   
 吉J⠀松原市⠀0438　[人社局](http://rs.jlsy.gov.cn)　[]( )　   
 吉G⠀白城市⠀0436　[人社局](http://hrss.jlbc.gov.cn)　[]( )　   
@@ -194,11 +196,11 @@
 浙　浙江省⠀⠀[毕业生就业](http://www.ejobmart.cn)　[零工市场名录](/art/2024/1/12/art_1229116948_58937229.html)　[浙江省职介网](https://www.zjhr.com/ '省职业介绍服务指导中心')　<small>省人才市场[浙江人才网](https://www.zjrc.com/)</small>　  
 浙A⠀杭州市⠀0571 ♾　[人社局](http://hrss.hangzhou.gov.cn/)　[杭州人才网](https://www.hzrc.com '杭州人才市场')　   
 浙B⠀宁波市⠀0574 ♾　[人社局](http://rsj.ningbo.gov.cn/)　[宁波人才网](https://www.nbrc.com.cn '宁波人才市场')　   
-浙C⠀温州市⠀0577 ♾　[人社局](http://hrss.wenzhou.gov.cn/)　[]( )　   
+浙C⠀温州市⠀0577 ♾　[人社局](http://hrss.wenzhou.gov.cn/)　[温州人才网](https://www.wzrc.net '市人才发展服务中心')　   
 浙F⠀嘉兴市⠀0573 ♾　[人社局](http://rlsbj.jiaxing.gov.cn)　[]( )　   
 浙E⠀湖州市⠀0572　[人社局](http://hrss.huzhou.gov.cn/)　[]( )　   
 浙D⠀绍兴市⠀0575 ♾　[人社局](http://rsj.sx.gov.cn/)　[]( )　   
-浙G⠀金华市⠀0579 ♾　[人社局](http://rsj.jinhua.gov.cn)　[]( )　   
+浙G⠀金华市⠀0579 ♾　[人社局](http://rsj.jinhua.gov.cn)　[金华市就业服务中心](http://rsj.jinhua.gov.cn/col/col1229165025/ '市人社局')　   
 浙H⠀衢州市⠀0570　[人社局](http://rsj.qz.gov.cn)　[]( )　   
 浙L⠀舟山市⠀0580　人社局　[]( )　   
 浙J⠀台州市⠀0576 ♾　[人社局](http://rsj.zjtz.gov.cn)　[]( )　   
@@ -237,15 +239,15 @@
 <h3 id='36'>36 江西
  　<sub><a href='http://rst.jiangxi.gov.cn'>人社厅</a>　<a href='http://zjt.jiangxi.gov.cn'>住建厅</a>　<a href='http://mzt.jiangxi.gov.cn'>民政厅</a>　<a href='http://drc.jiangxi.gov.cn'>发改委</a></sub></h3>
 赣　江西省⠀⠀[毕业生就业](http://jy.jxedu.gov.cn)　零工市场名录　[江西人才服务网](https://www.jxrcfw.com '人社厅国企江西人力集团')　<small>省委人才工作领导小组[人才江西](http://rc.jxzzb.gov.cn)</small>　  
-赣A/M⠀南昌市⠀0791 ♾　[人社局](http://rsj.nc.gov.cn)　[南昌人才招聘网](https://www.ncrczpw.com '市就创人力资源服务中心')　   
+赣A/M⠀南昌市⠀0791 ♾　[人社局](https://rsj.nc.gov.cn)　[南昌人才招聘网](https://www.ncrczpw.com '市就创人力资源服务中心')　   
 赣H⠀景德镇市⠀0798　[人社局](https://hrss.jdz.gov.cn)　[]( )　   
-赣J⠀萍乡市⠀0799　[人社局](http://rsj.pingxiang.gov.cn/)　[]( )　   
-赣G⠀九江市⠀0792　[人社局](http://rsj.jiujiang.gov.cn)　[]( )　   
+赣J⠀萍乡市⠀0799　[人社局](https://rsj.pingxiang.gov.cn)　[职聘萍乡](https://www.xgbrlzyw.com '市就业创业服务中心')　   
+赣G⠀九江市⠀0792　[人社局](http://rsj.jiujiang.gov.cn)　[九江创业就业网](https://rsj-jyj.jiujiang.gov.cn '市就业创业服务中心')　   
 赣K⠀新余市⠀0790　[人社局](http://rsj.xinyu.gov.cn)　[]( )　   
 赣L⠀鹰潭市⠀0701　[人社局](http://rsj.yingtan.gov.cn)　[]( )　   
-赣B⠀赣州市⠀0797　[人社局](http://rsj.ganzhou.gov.cn)　[]( )　   
-赣D⠀吉安市⠀0796　[人社局](http://hrss.jian.gov.cn/)　[]( )　   
-赣C⠀宜春市⠀0795　[人社局](http://hrss.yichun.gov.cn)　[]( )　   
+赣B⠀赣州市⠀0797　[人社局](http://rsj.ganzhou.gov.cn)　[赣州人才热线](https://www.gzrcrx.com/ '市人力资源有限公司')　   
+赣D⠀吉安市⠀0796　[人社局](http://hrss.jian.gov.cn/)　[吉安人事人才网](https://www.jarencai.com '市人才资源开发服务有限公司')　   
+赣C⠀宜春市⠀0795　[人社局](http://hrss.yichun.gov.cn)　[宜春就业网](https://www.yc9y.com '市就业创业服务中心')　   
 赣F⠀抚州市⠀0794　[人社局](http://rsj.jxfz.gov.cn)　[]( )　   
 赣E⠀上饶市⠀0793　[人社局](http://hrss.zgsr.gov.cn/)　[]( )　   
 <h3 id='37'>37 山东
@@ -264,7 +266,7 @@
 鲁L⠀日照市⠀0633　[人社局](http://hrss.rizhao.gov.cn/)　[]( )　   
 鲁Q⠀临沂市⠀0539　人社局　[]( )　   
 鲁N⠀德州市⠀0534　[人社局](http://hrss.dezhou.gov.cn)　[]( )　   
-鲁P⠀聊城市⠀0635　人社局　[]( )　   
+鲁P⠀聊城市⠀0635　[人社局](http://rsj.liaocheng.gov.cn)　[]( )　   
 鲁M⠀滨州市⠀0543　[人社局](http://rs.binzhou.gov.cn/)　[]( )　   
 鲁R⠀菏泽市⠀0530　[人社局](http://hzrsj.heze.gov.cn)　[]( )　   
 <h3 id='41'>41 河南
@@ -283,7 +285,7 @@
 豫L⠀漯河市⠀0395　[人社局](https://hrss.luohe.gov.cn)　[]( )　   
 豫M⠀三门峡市⠀0398　[人社局](http://rsj.smx.gov.cn)　[]( )　   
 豫R⠀南阳市⠀0377 ♾　[人社局](http://rensheju.nanyang.gov.cn)　[]( )　   
-豫N⠀商丘市⠀0370　人社局　[]( )　   
+豫N⠀商丘市⠀0370　[人社局](https://rsj.shangqiu.gov.cn)　[]( )　   
 豫S⠀信阳市⠀0376　[人社局](http://rsj.xinyang.gov.cn/)　[]( )　   
 豫P⠀周口市⠀0394　[人社局](http://rsj.zhoukou.gov.cn)　[]( )　   
 豫Q⠀驻马店市⠀0396　[人社局](http://hrss.zhumadian.gov.cn)　[]( )　<small>济源产城融合示范区[人社局](https://rbj.jiyuan.gov.cn)/[公共就业](https://rbj.jiyuan.gov.cn/zhrs/job-list-index)</small>   
@@ -309,7 +311,7 @@
 湘A⠀长沙市⠀0731 ♾　[人社局](http://rsj.changsha.gov.cn/)　[长沙人才网](https://www.cshr.cn/ '长沙人才集团有限公司')　   
 湘B⠀株洲市⠀0731 ♾　[人社局](http://rsj.zhuzhou.gov.cn/)　[]( )　   
 湘C⠀湘潭市⠀0731 ♾　[人社局](http://xtrs.xiangtan.gov.cn/)　[]( )　   
-湘D⠀衡阳市⠀0734　人社局　[]( )　   
+湘D⠀衡阳市⠀0734　[人社局](https://www.hengyang.gov.cn/hysrsj/)　[]( )　   
 湘E⠀邵阳市⠀0739　[人社局](http://rsj.shaoyang.gov.cn/)　[]( )　   
 湘F⠀岳阳市⠀0730　[人社局](http://rsj.yueyang.gov.cn)　[]( )　   
 湘J⠀常德市⠀0736　[人社局](https://mohrss.changde.gov.cn/)　[]( )　   
@@ -477,6 +479,8 @@
 青F⠀果洛州⠀0975　人社局　[]( )　 果洛藏族自治州  
 青G⠀玉树州⠀0976　人社局　[]( )　 玉树藏族自治州  
 青H⠀海西州⠀0977　[人社局](https://rsj.haixi.gov.cn)　[]( )　 海西蒙古族藏族自治州  
+
+
 <h3 id='64'>64 宁夏
  　<sub><a href='https://hrss.nx.gov.cn'>人社厅</a>　<a href='https://jst.nx.gov.cn'>住建厅</a>　<a href='https://mca.nx.gov.cn'>民政厅</a>　<a href='https://fzggw.nx.gov.cn'>发改委</a></sub></h3>
 宁　宁夏⠀⠀[毕业生就业](http://www.nxjob.cn/wcms/nxjob/dwsx/)　零工市场名录　[宁夏公共招聘网](http://www.nxjob.cn/wcms/nxjob/qzzzwss.html '人力资源开发服务中心')　　宁夏回族自治区  
@@ -504,7 +508,7 @@
 新H⠀阿勒泰地区⠀0906　人社局　[]( )　   
 
 
-<h3 id='65'>65 新疆兵团
+<h3 id='6590'>6590 新疆兵团
  　<sub><a href='http://rsj.xjbt.gov.cn'>人社局</a>　<a href='http://jshbj.xjbt.gov.cn'>住建局</a>　<a href='http://mzj.xjbt.gov.cn'>民政局</a>　<a href='http://btfgw.xjbt.gov.cn'>发改委</a></sub></h3>
 兵　新疆兵团　　毕业生就业　零工市场名录　[新疆兵团公共就业服务](https://jyfw.xjbthrss.cn/)　<small></small>　新疆生产建设兵团  
 
@@ -541,8 +545,6 @@
 *	2024年人社部[全国公共就业服务专项活动](http://www.mohrss.gov.cn/SYrlzyhshbzb/jiuye/zcwj/JYzonghe/202312/t20231225_511070.html)日程表
 *	2022年《[加强零工市场建设](https://www.gov.cn/zhengce/zhengceku/2022-07/09/content_5700177.htm) 完善求职招聘服务的意见》人社部等五部委
 *	2014年3月巴黎，习近平[在中法建交五十周年纪念大会上的讲话](http://cpc.people.com.cn/n/2014/0329/c64094-24770826.html)
-
-□ ☐ ☑ ⏺️⏹️✅️✳️*️⃣🟦 ⬜️ 🔲▽▼
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
