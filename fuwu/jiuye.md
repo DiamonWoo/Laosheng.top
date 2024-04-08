@@ -4,11 +4,10 @@
 
 		让每个人获得发展自我和奉献社会的机会——习近平在中法建交50周年大会上阐释中国梦(2014年巴黎)
 
-　　
+　　2024年是‘春风行动’开展的第二十年，这是国家为促进就业，由多部委联合开展的公益活动。从最早帮助农民工进城，到如今全社会‘稳就业、保民生’，春风行动 每年会在各地、多批次地举办线上、线下招聘活动，并且对求职者、提供职位的企业/单位免费入场。在周期性的公办招聘活动之外，还有常年提供职业介绍的民办招聘网站。  
+　　需要指出，职位信息发布在网站上是有版权的，就业网站之间也有竞争关系，这造成了不同网站上的职位信息不一样（也存在一稿多投的情况）。于是大萌想到了收录全国各地就业网站于一页的想法，方便求职者和HR(人力资源从业者)快速选择网站。
 
-这是一个草稿页面，试图收录各地级以上城市的人才网/就业网/招聘网，公办和民办的职介网站都考虑收录。　如果您知道较好的地方人才网站，<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">欢迎推荐</a>。
-
-　　**就业网**收录范围在逐步确定，省级部门收录人社厅、住建委/厅、民政厅、发改委网址；特别计划收录全国19个国家级城市新区的人才网。设计仍未定稿，欢迎提出宝贵意见。
+　　**就业网**计划收录：省级人社厅等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。　如果您知道较好的地方民办招聘网站，<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">欢迎推荐</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/各地人才就业网
@@ -17,33 +16,20 @@
 
 <h3>‘就业网’收录进度</h3>
 
-+	⬜️ 各地民办人才就业网
-+	⬜️ 333个地级市就业网
++	⬜️ 各地民办就业招聘网
 +	⬜️ 19个国家级新区人才网
-+	✳️ 333个地级市的人社局 　	v0.3.3~ （进行中）
++	✳️ 333个地级市就业网 　	v0.3.3~ （进行中）
++	✳️ 333个地级市的人社局
 +	✅ 31个省会城市人才网 　	v0.3.2 （缺7个，未发现公办人才网）
 +	✅ 15个副省级城市公办人才网 　	v0.3.1 （缺3个）
 +	✅ 31个省级毕业生就业服务平台
 +	✅ 32个省级公共就业服务平台 　	v0.3.0
 
 
-中央有关部门网站
-----------------
-
-[人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
-
-*	人社部：[中国公共招聘网](http://job.moHRss.gov.cn)
-*	人社部/社保卡公司：[就业在线](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")
-*	人社部/全国人才流动中心：[中国国家人才网](https://newjobs.com.cn)
-*	人社部/职业技能鉴定中心：[中国就业](http://chinajob.moHRss.gov.cn/bmfw/wsbl/)资格证
-*	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人事档案](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/ "人力资源市场网")
-
-[教育部](http://www.moe.gov.cn) MOE
-*	教育部/学生服务与素质发展中心：国家[大学生就业服务](https://job.ncss.cn/student/24365)平台，含各省毕业生就业网（本页已收录）。
-
-
-<h2 id="mulu">各省就业网站索引</h2>
-
+<h3 id="mulu">'就业网'目录</h3>
+　[中央有关部门](#zy)网站  
+　[民办就业招聘](#mb)网站  
+分省索引：
 　<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a>
@@ -78,6 +64,33 @@
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽
 
+<h2 id='zy'>中央有关部门网站</h2>
+
+[人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
+
+*	人社部：[中国公共招聘网](http://job.moHRss.gov.cn)
+*	人社部/社保卡公司：[就业在线](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")
+*	人社部/全国人才流动中心：[中国国家人才网](https://newjobs.com.cn)
+*	人社部/职业技能鉴定中心：[中国就业](http://chinajob.moHRss.gov.cn/bmfw/wsbl/)资格证
+*	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人事档案](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/ "人力资源市场网")
+
+[教育部](http://www.moe.gov.cn) MOE
+*	教育部/学生服务与素质发展中心：国家[大学生就业服务](https://job.ncss.cn/student/24365)平台，含各省毕业生就业网（本页已收录）。
+
+<h2 id='zy'>全国性民办就业招聘网</h2>
+
+*	智联招聘 zhaopin
+*	前程无忧 51job
+*	Boss直聘 zhipin
+*	猎聘 Liepin
+*	58同城 58.com
+*	赶集网 ganji
+*	中华英才网 ChinaHR
+*	#领英 Linkedin
+
+
+各省就业网站
+------------
 
 <h3 id='11'>11 北京　<sub><a href='https://rsj.beijing.gov.cn'>人社局</a>　<a href='https://zjw.beijing.gov.cn'>住建委</a>　<a href='https://mzj.beijing.gov.cn'>民政局</a>　<a href='https://fgw.beijing.gov.cn'>发改委</a></sub></h3>
 京A-M/Y　北京市⠀010 ♾⠀[毕业生就业](http://www.bjbys.net.cn)　零工市场名录　[%人才超市](https://fuwu.rsj.beijing.gov.cn/jycy/jycs/newRecuit.html '市人社局')　<small></small>　  
@@ -525,19 +538,6 @@
 <div id="tupu" align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
-全国性民办就业网站
-------------------
-
-*	智联招聘 zhaopin
-*	前程无忧 51job
-*	Boss直聘 zhipin
-*	猎聘 Liepin
-*	58同城 58.com
-*	赶集网 ganji
-*	中华英才网 ChinaHR
-*	#领英 Linkedin
-
-
 参考文献
 --------
 
@@ -555,7 +555,7 @@
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	各地人才就业网 V0.3.5	202404
+	各地人才就业网 V0.3.6	202404
 	https://laosheng.top/fuwu/jiuye
 ```
 
