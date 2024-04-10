@@ -1,6 +1,6 @@
 中央有关部门集 🕰
 ================
-大萌 202101-Now	<base target="_blank">
+大萌 202101-202308	<base target="_blank">
 
 		一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
 
@@ -798,10 +798,4 @@ MCT，Ministry of Culture and Tourism
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
-<script>  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
-</script>
 🚨🚓🚑🚒🚌🧑‍🤝‍🧑🌏
