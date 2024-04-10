@@ -1,6 +1,6 @@
 个人理财金融圈 🥯
 =====================
-大萌　	202211-202403 草稿三	<base target="_blank">
+大萌　	202211-202404 草稿三	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
@@ -29,8 +29,9 @@
 改革近况
 --------
 
+*	2024-04-08，二十届中央第三轮[巡视对象34家](http://politics.people.com.cn/n1/2024/0408/c1001-40211758.html)，金融单位占一半，本页正在标记🚩。
 *	2023-05-19，『国家金融监管总局』正式挂牌，原银保监会网站更名。
-*	2023-03-27，二十届中央第一轮巡视将对对光大集团/人保集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记🚩)党委开展巡视“回头看”。
+*	2023-03-27，二十届中央第一轮巡视将对对光大集团/人保集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记⛳)党委开展巡视“回头看”。
 *	2023-03-16，中央印发《党和国家机构改革方案》，将组建国家金融监督管理总局，不再保留银保监会。
 *	2021-01-06，财政部更新“[中央金融企业名录](http://jrs.mof.gov.cn/gongzuotongzhi/202102/t20210219_3658752.htm)”为27家，新增国家农担公司。 
 *	2020-12-　，黑龙江省农垦总局改制为北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
@@ -46,7 +47,7 @@
 *	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 、
 	全国政协[经济委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jjwyh/)
 *	国务院：
-	* / [发改委](https://www.ndrc.gov.cn/) / [商务部](http://www.mofcom.gov.cn/) / 税务总局 / 海关总署 / 市场监管总局 / 国家统计局 / 中国贸促会 [等部门](zhongyang)
+	* / [发改委](https://www.ndrc.gov.cn/)🚩 / [商务部](http://www.mofcom.gov.cn/)🚩 / 税务总局🚩 / 海关总署🚩 / 市场监管总局🚩 / 国家统计局🚩 / 中国贸促会 [等部门](zhongyang)
 	* <del>金融稳定发展委员会</del>　（[201711](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)~202302）
 	* /**审计署**，审计国家财政收支、中央预算执行，中央审计委员会办公室设在审计署。
 	审计署[公告/报告](https://www.audit.gov.cn/n5/)。 
@@ -54,7 +55,7 @@
 	  *	发行国债，公布中国国债、地方政府债券的[收益率曲线](http://gks.mof.gov.cn/gzsylqs/)
 	* /**国资委**，公布(实业类)[央企名录](yangqi) ⚙️，2022年98家。
 
-/**中国人民银行**　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
+/**中国人民银行**🚩　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
 主管业务：外汇/黄金/货币政策。 
 *	人行总部位于北京市西城区，[上海总部](http://shanghai.pbc.gov.cn) 位于浦东新区。
 *	[中国金融新闻网](https://www.financialnews.com.cn/)/金融时报[📰](https://epaper.financialnews.com.cn/jrsb/)、
@@ -62,13 +63,13 @@
 *	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。  
 	更多内设部门、分支机构请见人行官网[机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)页。
 *	人行管理的国家局：
-	* 国家外汇管理局　[Safe.gov.cn](https://www.safe.gov.cn/)　💰 外汇局，外汇储备约$3万亿美元。
+	* 国家外汇管理局🚩　[Safe.gov.cn](https://www.safe.gov.cn/)　💰 外汇局，外汇储备约$3万亿美元。
 	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*各国货币的名称可见[世界国别速查表](../ydyl/nations)*
 *	人行组建或批准组建的交易机构：
 	* 上海黄金交易所　Sge.com.cn　🟨黄金储备近2000吨，约￥0.8万亿。发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　
 	* 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
-/**金监总局**　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局  
+/**金监总局**🚩　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局  
 主管业务：银行业、保险业、其他金融业务。 沿用原“银保监会”域名，公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)。
 
 *	🧮中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)（“中央结算公司”于2016年全资发起设立）
@@ -82,7 +83,7 @@
 *	信托机构 Fiduciary  68家，总资产约30万亿。　[全体名单](http://xtxh.net/xtxh/memberslist/index.htm)
 *	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……）
 
-/**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
+/**证监会**🚩　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
 主管业务：债券、股票、基金、期货。
 *	资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)
 *	合法机构名录、辖区机构名录
@@ -96,18 +97,18 @@
 
 　27家，财政部2022年1月公布，部分企业有银保监会分配的机构编码。
 
-1	[<b>中投</b>](http://www.china-inv.cn){:id="1"} ‼️ 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 🚩 	⠀中国投资有限责任公司⠀	<b>主权财富基金</b>，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)，控参股18家金融机构，标记❗。</small>  
-2	[国开行❗](http://www.cdb.com.cn){:id="2"} 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 🚩 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
+1	[<b>中投</b>](http://www.china-inv.cn){:id="1"} ‼️ 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	<b>主权财富基金</b>，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)，控参股18家金融机构，标记❗。</small>  
+2	[国开行❗](http://www.cdb.com.cn){:id="2"} 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
 3	[进出口银行](http://eximbank.gov.cn){:id="3"} 	⠀EXIMB	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京  	⠀中国进出口银行⠀A0003H111000001	</small>  
-4	[农发行](http://www.adbc.com.cn){:id="4"} 	⠀ADBC	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 🚩 	⠀中国农业发展银行⠀A0002H111000001	</small>  
+4	[农发行](http://www.adbc.com.cn){:id="4"} 	⠀ADBC	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 ⛳ 	⠀中国农业发展银行⠀A0002H111000001	</small>  
 5	[工商银行❗](https://www.icbc.com.cn){:id="5"} 	⠀ICBC	<small>[网站群](https://www.icbc.com.cn/page/721853675948769300.html)	⠀北京  	⠀中国工商银行股份有限公司⠀B0001H111000001	</small>  
 6	[农业银行❗](https://www.abchina.com){:id="6"} 	⠀ABChina	<small>[网站群](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnzykggs/)	⠀北京  	⠀中国农业银行股份有限公司⠀B0002H111000001	</small>  
 7	[中国银行❗](https://www.boc.cn){:id="7"} 	⠀BOC	<small>[网站群](https://www.boc.cn/aboutboc/ab6/)	⠀北京  	⠀中国银行股份有限公司⠀B0003H111000001	</small>  
 8	[建设银行❗](http://www.ccb.com){:id="8"} 	⠀CCB	- - - <small>	⠀北京  	⠀中国建设银行股份有限公司⠀B0004H111000001	⠀[建行集团](http://group1.ccb.com/cn/group/company/company.html)</small>  
 9	[交通银行](https://www.bankcomm.com){:id="9"} 	⠀COMM	<small>[网站群](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/16356/2629241.shtml)	⠀上海市  	⠀交通银行股份有限公司⠀B0005H131000001	</small>  
 10	[中信集团](https://www.group.citic){:id="10"} 	⠀CITIC	<small>[网站群](https://www.group.citic/html/Diversified_Portfolio/)	⠀北京  	⠀中国中信集团有限公司⠀	</small>  
-11	[光大集团❗](https://www.ebchina.com){:id="11"} 	⠀EBChina	<small>[网站群](https://www.ebchina.com/ebchina/stgd/dcf/)	⠀北京 🚩 	⠀中国光大集团股份公司⠀	</small>  
-12	[中国人保](https://www.picc.com){:id="12"} 	⠀PICC	<small>[网站群](https://www.picc.com/gyrb/jtccy/)	⠀北京 🚩 	⠀中国人民保险集团股份有限公司⠀000001	⠀[wb](https://weibo.com/piccweibo)</small>  
+11	[光大集团❗](https://www.ebchina.com){:id="11"} 	⠀EBChina	<small>[网站群](https://www.ebchina.com/ebchina/stgd/dcf/)	⠀北京 ⛳ 	⠀中国光大集团股份公司⠀	</small>  
+12	[中国人保](https://www.picc.com){:id="12"} 	⠀PICC	<small>[网站群](https://www.picc.com/gyrb/jtccy/)	⠀北京 ⛳ 	⠀中国人民保险集团股份有限公司⠀000001	⠀[wb](https://weibo.com/piccweibo)</small>  
 13	[中国人寿](https://www.chinalife.com.cn){:id="13"} 	⠀LIFE	<small>[网站群](https://www.chinalife.com.cn/chinalife/gywm/)	⠀北京  	⠀中国人寿保险（集团）公司⠀000004	</small>  
 14	[中国太平](http://www.cntaiping.com){:id="14"} 	⠀TaiPing	<small>[网站群](http://www.cntaiping.com/about-jtcy/)	⠀北京  	⠀中国太平保险集团有限责任公司⠀000065	</small>  
 15	[中国信保❗](https://sinosure.com.cn){:id="15"} 	⠀SINO	- - - <small>	⠀北京  	⠀中国出口信用保险公司⠀000011	</small>  
@@ -347,7 +348,7 @@ Banks，银保监会发布的2022年12月数据
 13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
 
 
-财产保险公司94家 💼、人身保险公司 113家♙💼🧍
+财产保险公司94家 ㊖💼、人身保险公司 113家💼
 
 
 <div id="jiao" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
@@ -355,7 +356,7 @@ Banks，银保监会发布的2022年12月数据
 主要金融交易所 📊
 -------------
 
-（政权所、期货所、等……）
+（证券所、期货所、等……）
 
 
 * 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
