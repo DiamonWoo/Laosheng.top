@@ -27,8 +27,8 @@
 
 <h3 id="mulu">'就业网'目录</h3>
 　<a target='_top' href='#zy'>中央有关部门</a>网站  
-分省就业网站：
-　<a href="#11" target="_top">11-北京</a>
+　分省就业网站
+：<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a>
 　<a href="#14" target="_top">14-山西</a>
@@ -543,7 +543,7 @@
 *	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
 
 
-参考文献{:id="ck"}
+参考文献
 --------
 
 *	[春风行动20年](http://photo.china.com.cn/node_9006497.html) 人社部等九部委
