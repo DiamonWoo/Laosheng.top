@@ -6,9 +6,9 @@
 
 　　2024年是‘春风行动’开展的第二十年，这是国家为促进就业，由多部委联合开展的公益活动。从最早帮助农民工进城，到如今全社会‘稳就业、保民生’，春风行动 每年会在各地、多批次地举办线上、线下招聘活动，并且对求职者、提供职位的企业/单位免费入场。在周期性的公办招聘活动之外，还有常年提供职业介绍的民办招聘网站。
 
-　　需要指出，职位信息发布在网站上是有版权的，就业网站之间也有竞争关系，这造成了不同网站上的职位信息不一样（也存在一稿多投的情况）。于是大萌想到了收录全国各地就业网址于一页的想法，方便求职者和 HR(人力资源从业者) 快速选择网站。
+　　需要指出，职位信息发布在网站上是有版权的，几乎所有招聘网站下方都标注了‘版权所有’或‘禁止转载’。就业网站之间有竞争关系，这造成了不同网站上的职位信息不一样（另一方面存在一稿多投的情况）。于是大萌想到了收录全国各地就业网址于一页的想法，方便求职者和 HR(人力资源从业者) 快速选择网站。求职者也要注意保护自己的个人信息。
 
-　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接，欢迎租房网站与本人联系。　如果您知道较好的地方民办招聘网站，<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">欢迎推荐</a>。
+　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接，欢迎租房网站与本人联系。　如果您知道较好的地方民办招聘网站，<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">欢迎推介</a>。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/各地人才就业网
@@ -26,8 +26,8 @@
 
 
 <h3 id="mulu">'就业网'目录</h3>
-　<a target='_top' href='#zy'>中央有关部门</a>网站、　<a target='_top' href='#mb'>全国性民办招聘</a>网站  
-　分省索引：
+　<a target='_top' href='#zy'>中央有关部门</a>网站  
+分省就业网站：
 　<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a>
@@ -60,31 +60,23 @@
 　<a href="#64" target="_top">64-宁夏</a>
 　<a href="#65" target="_top">65-新疆</a>
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
-　各省按身份证号前两位排序▽
+　各省按身份证号前两位排序▽  
+　<a target='_top' href='#mb'>大型民办招聘</a>网站
+　参考文献
 
 <h2 id='zy'>中央有关部门网站</h2>
 
 [人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
 
-*	人社部：[中国公共招聘网](http://job.moHRss.gov.cn)
-*	人社部/社保卡公司：[就业在线](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")
-*	人社部/全国人才流动中心：[中国国家人才网](https://newjobs.com.cn)
+*	人社部：[**中国公共招聘网**](http://job.moHRss.gov.cn)
+*	人社部/社保卡公司：[**就业在线**](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")
+*	人社部/全国人才流动中心：[**中国国家人才网**](https://newjobs.com.cn)
 *	人社部/职业技能鉴定中心：[中国就业](http://chinajob.moHRss.gov.cn/bmfw/wsbl/)资格证
 *	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人事档案](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/ "人力资源市场网")
 
 [教育部](http://www.moe.gov.cn) MOE
 *	教育部/学生服务与素质发展中心：国家[大学生就业服务](https://job.ncss.cn/student/24365)平台，含各省毕业生就业网（本页已收录）。
 
-<h2 id='mb'>全国性民办招聘网站</h2>
-
-*	智联招聘 zhaopin
-*	前程无忧 51job
-*	Boss直聘 zhipin
-*	猎聘 Liepin
-*	58同城 58.com
-*	赶集网 ganji
-*	中华英才网 ChinaHR
-*	#领英 Linkedin
 
 
 各省就业网站
@@ -536,12 +528,35 @@
 <div id="tupu" align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
-参考文献
+<h2 id='mb'>大型民办招聘网站</h2>
+按起源年份排序
+
+*	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
+*	1999年上海，[前程无忧](https://www.51job.com/bo/service.php) 51job (Nasdaq:JOBS)
+	* 应届生网
+	* 拉勾网
+*	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
+*	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:已退市)
+	* 赶集直招 ganji
+	* 新华英才 ChinaHR （原中华英才网被美资收购）
+*	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
+*	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
+
+
+参考文献{:id="ck"}
 --------
 
 *	[春风行动20年](http://photo.china.com.cn/node_9006497.html) 人社部等九部委
 *	2024年人社部[全国公共就业服务专项活动](http://www.mohrss.gov.cn/SYrlzyhshbzb/jiuye/zcwj/JYzonghe/202312/t20231225_511070.html)日程表
+
+*	2023年8月，网易财经报道，[58集团大量倒卖毕业生简历](https://www.thepaper.cn/newsDetail_forward_24212170)给培训机构。[21世纪经济报道](https://www.21jingji.com/article/20230810/herald/a2d463f6ddc93453d146d0a7de814ac0.html)追踪报道，旗下新华英才高度重视并已第一时间成立专项调查小组。
+
 *	2022年《[加强零工市场建设](https://www.gov.cn/zhengce/zhengceku/2022-07/09/content_5700177.htm) 完善求职招聘服务的意见》人社部等五部委
+
+*	2021年[央视“3·15”晚会](https://tv.cctv.com/2021/03/15/VIDEkE90j8tOhfxt94jmX4iu210315.shtml)曝光智联招聘、猎聘、前程无忧等平台上用户的简历被“贩卖”、个人信息被大量泄露并流入黑市。
+	北京青年报[追踪报道](https://china.qianlong.com/2021/0316/5531178.shtml)，
+	3月17日，智联招聘、猎聘被北京人社局约谈和立案调查。三家企业均表示将[上线虚拟号码功能](http://news.youth.cn/jsxw/202103/t20210317_12778880.htm)。
+
 *	2014年3月巴黎，习近平[在中法建交五十周年纪念大会上的讲话](http://cpc.people.com.cn/n/2014/0329/c64094-24770826.html)
 
 
@@ -553,7 +568,7 @@
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	各地人才就业网 V0.3.6	202404
+	各地人才就业网 V0.3.7	202404
 	https://laosheng.top/fuwu/jiuye
 ```
 
