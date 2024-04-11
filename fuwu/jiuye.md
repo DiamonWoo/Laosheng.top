@@ -533,12 +533,12 @@
 
 *	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
 *	1999年上海，[前程无忧](https://www.51job.com/bo/service.php) 51job (Nasdaq:JOBS)
-	* 应届生网
-	* 拉勾网
+	* 下属网站：[应届生](https://www.yingjiesheng.com/deadline/)
+	、[拉勾招聘](https://www.lagou.com/gongsi/) IT类
 *	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
 *	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:已退市)
-	* 赶集直招 ganji
-	* 新华英才 ChinaHR （原中华英才网被美资收购）
+	* 下属网站：[赶集直招](https://www.ganji.com/chosecity/)
+	、[新华英才](https://www.ChinaHR.com/job) （原中华英才网被美资收购）
 *	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
 *	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
 
