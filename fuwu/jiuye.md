@@ -20,7 +20,7 @@
 +	⬜️ 各地民办就业招聘网
 +	⬜️ 19个国家级新区人才网
 +	✳️ 333个地级市就业网 　	v0.3.3~ （进行中）
-+	✳️ 333个地级市的人社局 	v0.3.3~
++	✳️ 333个地级市人社局 　	v0.3.3~
 +	✅ 31个省会城市人才网 　	v0.3.2 （缺7个，未发现公办人才网）
 +	✅ 32个省级公共就业服务平台/毕业生就业网 　	v0.3.0
 
@@ -61,16 +61,16 @@
 　<a href="#65" target="_top">65-新疆</a>
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽  
-　<a target='_top' href='#mb'>大型民办招聘</a>网站
-　参考文献
+　<a target='_top' href='#mb'>大型民办招聘</a>网站  
+　参考文献　鸣谢/说明
 
 <h2 id='zy'>中央有关部门网站</h2>
 
 [人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
 
-*	人社部：[**中国公共招聘网**](http://job.moHRss.gov.cn)
-*	人社部/社保卡公司：[**就业在线**](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")
-*	人社部/全国人才流动中心：[**中国国家人才网**](https://newjobs.com.cn)
+*	人社部：[**中国公共招聘网**](http://job.moHRss.gov.cn)👔
+*	人社部/社保卡公司：[**就业在线**](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")👔
+*	人社部/全国人才流动中心：[**中国国家人才网**](https://newjobs.com.cn)👔
 *	人社部/职业技能鉴定中心：[中国就业](http://chinajob.moHRss.gov.cn/bmfw/wsbl/)资格证
 *	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人事档案](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/ "人力资源市场网")
 
@@ -81,6 +81,7 @@
 
 各省就业网站
 ------------
+
 
 <h3 id='11'>11 北京　<sub><a href='https://rsj.beijing.gov.cn'>人社局</a>　<a href='https://zjw.beijing.gov.cn'>住建委</a>　<a href='https://mzj.beijing.gov.cn'>民政局</a>　<a href='https://fgw.beijing.gov.cn'>发改委</a></sub></h3>
 京A-M/Y　北京市⠀010 ♾⠀[毕业生就业](http://www.bjbys.net.cn)　零工市场名录　[%人才超市](https://fuwu.rsj.beijing.gov.cn/jycy/jycs/newRecuit.html '市人社局')　<small></small>　  
@@ -168,14 +169,14 @@
 黑G⠀[鸡西市](http://www.jixi.gov.cn/jixi/c100103/common_zfxxgk.shtml)⠀0467　人社局　[]( )　<small>人社局连信息公开的网址都没有</small>   
 黑H⠀[鹤岗市](https://www.hegang.gov.cn/hegang/cjjy/zwgk_list.shtml)⠀0468　人社局　[]( )　  
 黑J⠀[双鸭山市](http://www.shuangyashan.gov.cn/)⠀0469　人社局　[]( )　<small>比鸡西更惨，连就业栏目都没有</small>   
-黑E⠀大庆市⠀0459　[人社局](https://www.daqing.gov.cn/daqing/jycy/list.shtml)　[]( )　  
+黑E⠀[大庆市](https://www.daqing.gov.cn/daqing/jycy/list.shtml)⠀0459　人社局　[]( )　<small>全村的希望</small>   
 黑F⠀[伊春市](https://www.yc.gov.cn/ycsrmzf/zsdwfc/jgsz_tt.shtml)⠀0458　人社局　[]( )　<small>政府网站找不到就业创业的信息栏目</small>   
 黑D⠀[佳木斯市](https://zejm.jms.gov.cn/zwgk/html/zwgk/list/20090_all.html)⠀0454　人社局　[]( )　  
 黑K⠀[七台河市](http://www.qth.gov.cn)⠀0464　人社局　[]( )　<small>跟双鸭山一样惨</small>   
 黑C⠀[牡丹江市](http://www.mdj.gov.cn/mdjsrmzf/c100037/zfxxgk_list.shtml)⠀0453　人社局　[]( )　  
 黑N⠀[黑河市](http://www.heihe.gov.cn)⠀0456　人社局　[]( )　<small>跟鸡西市一样惨</small>   
 黑M⠀[绥化市](https://www.suihua.gov.cn/sh/srlzyhshbzj/zfxxgk.shtml)⠀0455　人社局　[]( )　<small>在左侧‘重大民生信息’栏目找‘促进就业’</small>   
-黑P⠀大兴安岭地区⠀0457　[人社局](http://www.dxal.gov.cn/dxal/c100090/zfxxgk_list.shtml)　[]( )　  
+黑P⠀[大兴安岭地区](http://www.dxal.gov.cn/dxal/c100090/zfxxgk_list.shtml)⠀0457　人社局　[]( )　<small>全省地级市都没有人社局网站</small>   
 
 <h3 id='31'>31 上海　<sub><a href='https://rsj.sh.gov.cn'>人社局</a>　<a href='https://zjw.sh.gov.cn'>住建委</a>　<a href='https://mzj.sh.gov.cn'>民政局</a>　<a href='https://fgw.sh.gov.cn'>发改委</a></sub></h3>
 沪A-N　上海市⠀021 ♾⠀[毕业生就业](http://www.firstjob.shec.edu.cn)　零工市场名录　[上海公共就业招聘](https://jobs.rsj.sh.gov.cn/ '上海人社局')　<small>市人社局下属中国[上海人才市场](https://www.hr.net.cn)</small>　  
@@ -269,7 +270,7 @@
 鲁J⠀泰安市⠀0538　[人社局](http://rsj.taian.gov.cn)　[]( )　  
 鲁K⠀威海市⠀0631　[人社局](https://rsj.weihai.gov.cn)　[]( )　  
 鲁L⠀日照市⠀0633　[人社局](http://hrss.rizhao.gov.cn/)　[]( )　  
-鲁Q⠀临沂市⠀0539　人社局　[]( )　<small>临沂[市政府域名](http://www.linyi.gov.cn)失效</small>   
+鲁Q⠀临沂市⠀0539　[人社局](https://rsj.linyi.gov.cn)　[]( )　  
 鲁N⠀德州市⠀0534　[人社局](http://hrss.dezhou.gov.cn)　[]( )　  
 鲁P⠀聊城市⠀0635　[人社局](http://rsj.liaocheng.gov.cn)　[]( )　  
 鲁M⠀滨州市⠀0543　[人社局](http://rs.binzhou.gov.cn/)　[]( )　  
@@ -370,7 +371,7 @@
 桂F⠀崇左市⠀0771　[人社局](http://rsj.chongzuo.gov.cn/)　[]( )　  
 
 <h3 id='46'>46 海南　<sub><a href='http://hrss.hainan.gov.cn'>人社厅</a>　<a href='http://zjt.hainan.gov.cn'>住建厅</a>　<a href='http://mz.hainan.gov.cn'>民政厅</a>　<a href='http://plan.hainan.gov.cn'>发改委</a></sub></h3>
-琼　海南省⠀⠀[毕业生就业](https://hainanbys.ncss.cn/student/index.html)　零工市场名录　[海南省公共招聘网](https://zhaopin.hainan.gov.cn/#/recruit/search?type=1 '省人力资源开发局')　<small></small>　  
+琼　海南省⠀⠀[毕业生就业](https://hainanbys.ncss.cn/student/index.html)　零工市场名录　[海南省公共招聘网](https://zhaopin.hainan.gov.cn/#/recruit/search?type=1 '省人力资源开发局')　<small>海南[自贸港招聘网](https://www.ihnhr.com)</small>　  
 琼A⠀海口市⠀0898 ♾　[人社局](http://rsj.haikou.gov.cn)　[招聘信息周报](http://rsj.haikou.gov.cn/ztbd/jyzd/ '市人社局')　  
 琼B⠀三亚市⠀　[人社局](https://hrss.sanya.gov.cn)　[]( )　  
 琼C⠀[三沙市](http://www.sansha.gov.cn)⠀　人社局　[]( )　  
@@ -419,24 +420,24 @@
 云　云南省⠀⠀[毕业生就业](http://www.ynbys.cn)　零工市场名录　[云南公共就业服务网](https://hrss.yn.gov.cn/jyj/ '省就业局')　<small>人社厅事业单位[云南人才市场](https://www.ynhr.com)</small>　  
 云A⠀昆明市⠀0871 ♾　[人社局](http://rsj.km.gov.cn)　[%昆明智慧就业平台](https://kmzhjy.kmldjy.org.cn:8050/jysite/ '市劳动就业服务局')　  
 云D⠀曲靖市⠀0874　[人社局](https://rsj.qj.gov.cn)　[]( )　  
-云F⠀玉溪市⠀0877　人社局　[]( )　  
-云M⠀保山市⠀0875　人社局　[]( )　  
-云C⠀昭通市⠀0870　人社局　[]( )　  
+云F⠀[玉溪市](http://www.yuxi.gov.cn/yxgovfront/newDepartmentContentds.jspx?path=yxszfxxgk&channelId=12459&pageNo=1)⠀0877　人社局　[]( )　  
+云M⠀[保山市](https://www.baoshan.gov.cn/bmym/bssrsj1/zfxxgkpt/fdzdgknr/zpxx.htm)⠀0875　人社局　[]( )　  
+云C⠀[昭通市](http://www.zt.gov.cn/channels/4600.html)⠀0870　人社局　[]( )　  
 云P⠀丽江市⠀0888　[人社局](http://ljhrss.lijiang.gov.cn/)　[]( )　  
-云J⠀普洱市⠀0879　人社局　[]( )　  
-云S⠀临沧市⠀0883　人社局　[]( )　  
+云J⠀[普洱市](https://www.puershi.gov.cn/zwgk/zfxxgk2/zfbmxxgk/pesrlzyshbzj/fdzdgknr.htm)⠀0879　人社局　[]( )　<small>政府首页还有其他就业相关信息</small>   
+云S⠀临沧市⠀0883　[人社局](https://www.lincang.gov.cn/zdbm/rlzyhshbzj/zlsy.htm)　[]( )　  
 云E⠀楚雄州⠀0878　[人社局](http://rsj.cxz.gov.cn/)　[]( )　楚雄彝族自治州  
-云G⠀红河州⠀0873　人社局　[]( )　红河哈尼族彝族自治州  
+云G⠀[红河州](http://www.hh.gov.cn/zfxxgk/zfxxgkzn/zrsj/)⠀0873　人社局　[]( )　红河哈尼族彝族自治州  
 云H⠀文山州⠀0876　[人社局](http://wszrsj.ynws.gov.cn/)　[]( )　文山壮族苗族自治州  
 云K⠀西双版纳州⠀0691　[人社局](https://www.xsbn.gov.cn/xsbnzrsj/xsbnzrsj.dhtml)　[]( )　西双版纳傣族自治州  
-云L⠀大理州⠀0872　人社局　[]( )　大理白族自治州  
+云L⠀[大理州](https://www.dali.gov.cn/dlrmzf/xxgkml/c105911/rszk.shtml)⠀0872　人社局　[]( )　大理白族自治州  
 云N⠀德宏州⠀0692　[人社局](https://www.dh.gov.cn/rsj/)　[]( )　德宏傣族景颇族自治州  
-云Q⠀怒江州⠀0886　人社局　[]( )　怒江傈僳族自治州  
+云Q⠀怒江州⠀0886　[人社局](https://www.nujiang.gov.cn/rsj/jycy/)　[]( )　<small>人社局有专栏</small> 怒江傈僳族自治州  
 云R⠀迪庆州⠀0887　[人社局](http://dqzrsj.diqing.gov.cn)　[]( )　迪庆藏族自治州  
 
 <h3 id='54'>54 西藏　<sub><a href='https://hrss.xizang.gov.cn'>人社厅</a>　<a href='https://zjt.xizang.gov.cn'>住建厅</a>　<a href='https://mzt.xizang.gov.cn'>民政厅</a>　<a href='https://drc.xizang.gov.cn'>发改委</a></sub></h3>
 藏　西藏⠀⠀[毕业生就业](http://jyzd.xzeduc.cn)　零工市场名录　[西藏公共就业服务网](https://www.xzggjyfw.com/ '%停机10天，4月7日恢复')　<small></small>　西藏自治区  
-藏A⠀拉萨市⠀0891　人社局　[小微企业创业创新](http://hrss.lasa.gov.cn/lssc/ '市人社局')　  
+藏A⠀拉萨市⠀0891　[人社局](https://hrss.lasa.gov.cn)　[小微企业创业创新](http://hrss.lasa.gov.cn/lssc/ '市人社局')　  
 藏D⠀日喀则市⠀0892　人社局　[]( )　  
 藏B⠀昌都市⠀0895　人社局　[]( )　  
 藏G⠀林芝市⠀0894　人社局　[]( )　  
@@ -448,7 +449,7 @@
 陕　陕西省⠀⠀[毕业生就业](http://jyweb.sneducloud.com)　零工市场名录　[陕西公共招聘网](http://www.sxggzp.com '省人才交流服务中心')　<small></small>　  
 陕A/U⠀西安市⠀029 ♾　[人社局](http://xahrss.xa.gov.cn)　[西安市公共招聘网](https://cnxajob.xars12333.cn '市人社局')　  
 陕B⠀铜川市⠀0919　[人社局](http://rs.tongchuan.gov.cn)　[]( )　  
-陕C⠀宝鸡市⠀0917　人社局　[]( )　  
+陕C⠀宝鸡市⠀0917　[人社局](http://rsj.baoji.gov.cn)　[]( )　  
 陕D⠀咸阳市⠀029 ♾　[人社局](http://xyrs.xianyang.gov.cn/)　[]( )　  
 陕E⠀渭南市⠀0913　[人社局](http://rsj.weinan.gov.cn/)　[]( )　  
 陕J⠀延安市⠀0911　[人社局](http://rsj.yanan.gov.cn/)　[]( )　  
@@ -460,17 +461,17 @@
 <h3 id='62'>62 甘肃　<sub><a href='http://rst.gansu.gov.cn'>人社厅</a>　<a href='https://zjt.gansu.gov.cn'>住建厅</a>　<a href='http://mzt.gansu.gov.cn'>民政厅</a>　<a href='https://fzgg.gansu.gov.cn'>发改委</a></sub></h3>
 甘　甘肃省⠀⠀[毕业生就业](http://jiuye.gsedu.cn)　零工市场名录　[甘肃招聘](https://www.gszhaopin.com '省人力资源市场')　<small>人力资源服务公司[西北人才网](http://new.xbrc.com.cnhttp://new.xbrc.com.cn)</small>　  
 甘A⠀兰州市⠀0931　[人社局](https://rsj.lanzhou.gov.cn)　[]( )　<small>兰州新区[人才网](https://www.lzxqrc.com)</small>   
-甘B⠀嘉峪关市⠀0937　人社局　[]( )　  
+甘B⠀嘉峪关市⠀0937　[人社局](https://www.jyg.gov.cn/rsj/)　[人资市场供求](https://www.jyg.gov.cn/rsj/ztzl/rlzyscgyxq/ '市人社局')　  
 甘C⠀金昌市⠀0935　[人社局](http://rsj.jcs.gov.cn/)　[]( )　  
-甘D⠀白银市⠀0943　人社局　[]( )　  
-甘E⠀天水市⠀0938　人社局　[]( )　  
-甘H⠀武威市⠀0935　人社局　[]( )　  
-甘G⠀张掖市⠀0936　人社局　[]( )　  
-甘L⠀平凉市⠀0933　人社局　[]( )　  
+甘D⠀白银市⠀0943　[人社局](https://www.baiyin.gov.cn/bmzq/bysrlzyhshbzj/)　[]( )　  
+甘E⠀天水市⠀0938　[人社局](https://www.tianshui.gov.cn/rsj/)　[甘肃招聘天水站](https://ts.gszhaopin.com '省人力资源市场')　  
+甘H⠀[武威市](https://www.gswuwei.gov.cn/art/2024/3/25/art_1382_316639.html)⠀0935　人社局　[]( )　<small>没有部门信息栏目</small>   
+甘G⠀张掖市⠀0936　[人社局](https://www.zhangye.gov.cn/rsj/)　[]( )　  
+甘L⠀平凉市⠀0933　[人社局](http://rsj.pingliang.gov.cn)　[]( )　  
 甘F⠀酒泉市⠀0937　[人社局](http://rsj.jiuquan.gov.cn/)　[]( )　  
 甘M⠀庆阳市⠀0934　[人社局](http://rsj.zgqingyang.gov.cn)　[]( )　  
 甘J⠀定西市⠀0932　[人社局](http://rsj.dingxi.gov.cn)　[]( )　  
-甘K⠀陇南市⠀0939　人社局　[]( )　  
+甘K⠀[陇南市](https://www.longnan.gov.cn/zfxxgk/public/column/4455561?type=4)⠀0939　人社局　[]( )　  
 甘N⠀临夏州⠀0930　[人社局](https://rsj.linxia.gov.cn)　[]( )　临夏回族自治州  
 甘P⠀甘南州⠀0941　[人社局](http://rsj.gnzrmzf.gov.cn)　[]( )　甘南藏族自治州  
 
@@ -536,7 +537,7 @@
 	* 下属网站：[应届生](https://www.yingjiesheng.com/deadline/)
 	、[拉勾招聘](https://www.lagou.com/gongsi/) IT类
 *	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
-*	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:已退市)
+*	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:退市)
 	* 下属网站：[赶集直招](https://www.ganji.com/chosecity/)
 	、[新华英才](https://www.ChinaHR.com/job) （原中华英才网被美资收购）
 *	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
@@ -560,6 +561,13 @@
 *	2014年3月巴黎，习近平[在中法建交五十周年纪念大会上的讲话](http://cpc.people.com.cn/n/2014/0329/c64094-24770826.html)
 
 
+鸣谢
+--------
+
+　　本页面各地人社局网址有约六成初始数据来自国务院‘互联网+’小组💐
+
+　　**编辑说明**：有少部分市政府网站没有为人社局设立单独网址（二级域名或专用目录），这种情况本页会在地名上附加就业类信息公开的链接，‘人社局’无连接。
+
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，老生常谈。 网页正在设计，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)，谢谢！🙇
@@ -568,7 +576,7 @@
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	各地人才就业网 V0.3.8	202404
+	各地人才就业网 V0.3.9	202404
 	https://laosheng.top/fuwu/jiuye
 ```
 
