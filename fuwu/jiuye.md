@@ -20,14 +20,14 @@
 +	⬜️ 各地民办就业招聘网
 +	⬜️ 19个国家级新区人才网
 +	✳️ 333个地级市就业网 　	v0.3.3~ （进行中）
-+	✳️ 333个地级市人社局 　	v0.3.3~0.3.9
++	✅️ 333个地级市人社局 　	v0.3.3~0.4.0
 +	✅ 31个省会城市人才网 　	v0.3.2 （缺7个，未发现公办人才网）
 +	✅ 32个省级公共就业服务平台/毕业生就业网 　	v0.3.0
 
 
 <h3 id="mulu">'就业网'目录</h3>
 　<a target='_top' href='#zy'>中央有关部门</a>网站  
-　分省就业网站
+　各省就业网站
 ：<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a>
@@ -64,13 +64,13 @@
 　<a target='_top' href='#mb'>大型民办招聘</a>网站  
 　参考文献　鸣谢/说明
 
-<h2 id='zy'>中央有关部门网站</h2>
+<h2 id='zy'>中央有关部门网站 👔</h2>
 
 [人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
 
-*	人社部：[**中国公共招聘网**](http://job.moHRss.gov.cn)👔
-*	人社部/社保卡公司：[**就业在线**](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")👔
-*	人社部/全国人才流动中心：[**中国国家人才网**](https://newjobs.com.cn)👔
+*	人社部：[**中国公共招聘网**](http://job.moHRss.gov.cn)⭐
+*	人社部/社保卡公司：[**就业在线**](https://jobonLine.cn "政企合资，金保信社保卡科技有限公司")⭐
+*	人社部/全国人才流动中心：[**中国国家人才网**](https://newjobs.com.cn)⭐
 *	人社部/职业技能鉴定中心：[中国就业](http://chinajob.moHRss.gov.cn/bmfw/wsbl/)资格证
 *	人社部：12333[国家社保平台](https://si.12333.gov.cn) / [人事档案](https://chrm.mohrss.gov.cn/流动人员人事档案管理服务机构信息/ "人力资源市场网")
 
@@ -79,9 +79,8 @@
 
 
 
-各省就业网站
+各省就业网站 👔
 ------------
-
 
 <h3 id='11'>11 北京　<sub><a href='https://rsj.beijing.gov.cn'>人社局</a>　<a href='https://zjw.beijing.gov.cn'>住建委</a>　<a href='https://mzj.beijing.gov.cn'>民政局</a>　<a href='https://fgw.beijing.gov.cn'>发改委</a></sub></h3>
 京A-M/Y　北京市⠀010 ♾⠀[毕业生就业](http://www.bjbys.net.cn)　零工市场名录　[%人才超市](https://fuwu.rsj.beijing.gov.cn/jycy/jycs/newRecuit.html '市人社局')　　  
@@ -497,39 +496,39 @@
 <h3 id='65'>65 新疆　<sub><a href='https://rst.xinjiang.gov.cn'>人社厅</a>　<a href='https://zjt.xinjiang.gov.cn'>住建厅</a>　<a href='https://mzt.xinjiang.gov.cn'>民政厅</a>　<a href='https://xjdrc.xinjiang.gov.cn'>发改委</a></sub></h3>
 新　新疆⠀⠀[毕业生就业](http://www.xjggjy.com)　零工市场名录　[新疆公共就业服务网](https://www.xjggjy.com/ '人社厅%（职位寥寥无搜索）')　<small>区人力资源市场[新疆人才网](https://xjrc365.com/app/home/jobsearch/2/list_.shtml)</small>　新疆维吾尔自治区  
 新A⠀乌鲁木齐市⠀0991　[人社局](http://www.wlmq.gov.cn/hrss.htm)　[乌鲁木齐市人社局--求职招聘](http://220.171.92.51:4000/bl_zhaopin/findJob/getJob.html '市就业服务管理局')　   
-新J⠀克拉玛依市⠀0990　人社局　[]( )　   
-新K⠀吐鲁番市⠀0995　人社局　[]( )　   
-新L⠀哈密市⠀0902　人社局　[]( )　   
+新J⠀[克拉玛依市](https://www.klmy.gov.cn/klmys/wgjy/zfxxgk.shtml)⠀0990　人社局　[]( )　   
+新K⠀[吐鲁番市](https://www.tlf.gov.cn/tlfs/c106303/zfxxgk_zc.shtml)⠀0995　人社局　[]( )　   
+新L⠀[哈密市](https://www.hami.gov.cn/zwgk1/zfxxgk1/zfznbmml_/rsj1.htm)⠀0902　人社局　[]( )　<small>找不到就业信息</small>   
 新B⠀昌吉州⠀0994　[人社局](https://www.cj.gov.cn/p120/)　[]( )　 昌吉回族自治州  
 新E⠀[博尔塔拉州](http://www.xjboz.gov.cn/zwgk/gkpt/rsj/gksx/bmxx.htm)⠀0909　人社局　[]( )　 博尔塔拉蒙古自治州  
-新M⠀巴音郭楞州⠀0996　[人社局](http://www.xjbz.gov.cn/xjbz/c114874/zfxxgk_gknrz.shtml)　[]( )　 巴音郭楞蒙古自治州  
+新M⠀[巴音郭楞州](http://www.xjbz.gov.cn/xjbz/c114874/zfxxgk_gknrz.shtml)⠀0996　人社局　[]( )　 巴音郭楞蒙古自治州  
 新N⠀[阿克苏地区](https://www.aks.gov.cn/zwgk/zdlyxxgk/jycy/)⠀0997　人社局　[]( )　   
-新P⠀克州⠀0908　[人社局](https://www.xjkz.gov.cn/xjkz/c101932/xxgk_gksx.shtml)　[]( )　 克孜勒苏柯尔克孜自治州  
-新Q⠀喀什地区⠀0998　人社局　[]( )　   
-新R⠀和田地区⠀0903　人社局　[]( )　   
-新F⠀伊犁州⠀0999　人社局　[]( )　 伊犁哈萨克自治州  
-新G⠀塔城地区⠀0901　人社局　[]( )　   
-新H⠀阿勒泰地区⠀0906　人社局　[]( )　   
+新P⠀[克州](https://www.xjkz.gov.cn/xjkz/c101932/xxgk_gksx.shtml)⠀0908　人社局　[]( )　<small>信息公开用的好</small> 克孜勒苏柯尔克孜自治州  
+新Q⠀[喀什地区](http://www.kashi.gov.cn/ksdqxzgs/c112187/zwgk_table.shtml)⠀0998　人社局　[]( )　   
+新R⠀[和田地区](https://www.xjht.gov.cn/article/list.php?catid=8)⠀0903　人社局　[]( )　   
+新F⠀[伊犁州](http://www.xjyl.gov.cn/xjylz/c112845/zdlyxxgk_list.shtml)⠀0999　人社局　[]( )　 伊犁哈萨克自治州  
+新G⠀[塔城地区](https://www.xjtc.gov.cn/zfxxgk/zdlygk/wgjy)⠀0901　人社局　[]( )　   
+新H⠀[阿勒泰地区](https://xjalt.gov.cn/search/fullsearch.html?wd=就业)⠀0906　人社局　[]( )　<small>信息公开深层目录有：稳岗就业</small>   
 
 
 <h3 id='6590'>6590 新疆兵团
  　<sub><a href='http://rsj.xjbt.gov.cn'>人社局</a>　<a href='http://jshbj.xjbt.gov.cn'>住建局</a>　<a href='http://mzj.xjbt.gov.cn'>民政局</a>　<a href='http://btfgw.xjbt.gov.cn'>发改委</a></sub></h3>
-兵　新疆兵团　　毕业生就业　零工市场名录　[新疆兵团公共就业服务](https://jyfw.xjbthrss.cn/)　<small></small>　新疆生产建设兵团  
+兵　新疆兵团　　毕业生就业　零工市场　公共[就业服务](https://jyfw.xjbthrss.cn/)　<small></small>　新疆生产建设兵团  
 
 <h3 id="71">71 台湾省　+886</h3>
-台　台湾　+886　毕业生就业　零工市场名录　[]()　<small>6个直辖市</small>  
+台　台湾　+886　毕业生就业　零工市场　国台办[台胞就业政策](http://www.gwytb.gov.cn/zccs/bszn/jy/)　<small>6个直辖市</small>  
 
 <h3 id="81">81 香港特别行政区　+852</h3>
-粤Z　香港　+852　毕业生就业　零工市场名录　[]()　<small>18个选区</small>  
+粤Z　香港　+852　毕业生就业　零工市场　香港[人才服务办公室](https://www.hkengage.gov.hk/zh-CN/jobs/)　<small>18个选区</small>  
 
 <h3 id="82">82 澳门特别行政区　+853</h3>
-粤Z　澳门　+853　毕业生就业　零工市场名录　[]()　<small>7个堂区</small>  
+粤Z　澳门　+853　毕业生就业　零工市场　澳门[人才发展委员会](https://www.cdqq.gov.mo/zh-hant/)　<small>7个堂区</small>  
 
 
 <div id="tupu" align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
-<h2 id='mb'>大型民办招聘网站</h2>
+<h2 id='mb'>大型民办招聘网站 👔</h2>
 按起源年份排序
 
 *	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
@@ -549,15 +548,11 @@
 
 *	[春风行动20年](http://photo.china.com.cn/node_9006497.html) 人社部等九部委
 *	2024年人社部[全国公共就业服务专项活动](http://www.mohrss.gov.cn/SYrlzyhshbzb/jiuye/zcwj/JYzonghe/202312/t20231225_511070.html)日程表
-
 *	2023年8月，网易财经报道，[58集团大量倒卖毕业生简历](https://www.thepaper.cn/newsDetail_forward_24212170)给培训机构。[21世纪经济报道](https://www.21jingji.com/article/20230810/herald/a2d463f6ddc93453d146d0a7de814ac0.html)追踪报道，旗下新华英才高度重视并已第一时间成立专项调查小组。
-
 *	2022年《[加强零工市场建设](https://www.gov.cn/zhengce/zhengceku/2022-07/09/content_5700177.htm) 完善求职招聘服务的意见》人社部等五部委
-
 *	2021年[央视“3·15”晚会](https://tv.cctv.com/2021/03/15/VIDEkE90j8tOhfxt94jmX4iu210315.shtml)曝光智联招聘、猎聘、前程无忧等平台上用户的简历被“贩卖”、个人信息被大量泄露并流入黑市。
 	北京青年报[追踪报道](https://china.qianlong.com/2021/0316/5531178.shtml)，
 	3月17日，智联招聘、猎聘被北京人社局约谈和立案调查。三家企业均表示将[上线虚拟号码功能](http://news.youth.cn/jsxw/202103/t20210317_12778880.htm)。
-
 *	2014年3月巴黎，习近平[在中法建交五十周年纪念大会上的讲话](http://cpc.people.com.cn/n/2014/0329/c64094-24770826.html)
 
 
@@ -570,13 +565,13 @@
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，老生常谈。 网页正在设计，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)，谢谢！🙇
+　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)，谢谢！🙇
 
 
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	各地人才就业网 V0.3.9	202404
+	各地人才就业网 V0.4.0	202404
 	https://laosheng.top/fuwu/jiuye
 ```
 
