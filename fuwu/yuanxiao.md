@@ -1,10 +1,10 @@
 高等院校三千所 👨‍🎓 <sup>助力考生选大学</sup>
 ================
-大萌	　202305~10，202404<base target="_blank">
+大萌	　202305~10，202404（正在更新）<base target="_blank">
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
-　　高等院校是大学、学院、高职的统称，是青年学子通过 普通**高考**/**职教高考**/成人**自考** 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)软科、(中管院)武书连、(艾瑞深)校友会等等，这些排名会根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些参数每年都在变化，除非是高教研究者，普通家庭要想记住这么多数据和结论，会非常辛苦。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
+　　高等院校是大学/学院/高职的统称，是青年学子通过 普通**高考**/**职教高考**/成人**自考** 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)软科、(中管院)武书连、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些参数每年都在变化，除非是高教研究者，普通家庭要想记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
 
 　　我国大陆高等院校有约三千所，其中各级本科1200多所，专科（高职/大专）占了一半，余下还有成人高校约250所，这些学校都由教育部公布名单。另有44所军事院校，其中27所（2022年起）面向普通高考招生，大部分不设公开网站。经过2000年前后的大学合并潮、2017年的军改、2022年的独立学院完成转设，这些数字难有大的变化。
 
@@ -20,7 +20,7 @@
 		　设计LC = 3000　	=2820+180-x 　少数学校没有网站
 		　完成率 = 　97.7%	已实际完成
 
-*	202404，正在更新2023年高考后变更的高等院校……
+*	202404，正在准备更新近一年的变更数据……
 
 *	202308，《高等院校三千所》学校网址应收尽收。v0.8.6
 *	202308，对国企兴办的高职标记齿轮符号⚙️，已收录80余所。v0.8.5~v0.8.6
@@ -29,11 +29,12 @@
 *	202305，已收录2022年版全部高校名单3013+44所，v0.3.0上线。增补港澳台院校全集180所，v0.3.6。
 
 <h3>官方查询链接</h3>
-*	教育部[年度高等学校设置审批/备案](http://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_spbajg/)结果
+*	教育部[年度高等学校设置审批/备案](http://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_spbajg/)结果，
+学校更名、升级、转设、停招等。
 *	教育部[全国高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/)，分普通与成人两大类，提供最新大学名单模糊搜索。
 
 
-<h2 id='tupu'>中国高校层级图谱</h2>
+<h2 id='tupu'>中国高校层级图谱 <sub>本页目录</sub></h2>
 
 *	[军事院校](#D81){:target="_top"}，44所，其中27所⭐面向普通高考招生，[2023年各省计划](http://www.81.cn/jx_208569/16229889.html)
 *	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}，**2820**所 ▽，其中本科1275所
@@ -49,6 +50,40 @@
 *	本页[数据来源](#D7){:target="_top"}：教育部等、<sub>改革近况</sub>
 *	[问题解答](#D8){:target="_top"}：学校网站打不开的原因等
 
+<h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
+
+<a href="#11" target="_top">11-北京</a>	<sup>[考试院](https://www.bjeea.cn)</sup>　
+<a href="#12" target="_top">12-天津</a>	<sup>[考试院](http://www.zhaokao.net)</sup>　
+<a href="#13" target="_top">13-河北</a>	<sup>[考试院](http://www.hebeea.edu.cn)</sup>　
+<a href="#14" target="_top">14-山西</a>	<sup>[考试院](http://www.sxkszx.cn)</sup>　
+<a href="#15" target="_top">15-内蒙古</a>	<sup>[考试院](https://www.nm.zsks.cn)</sup>　
+<a href="#21" target="_top">21-辽宁</a>	<sup>[考试院](https://www.lnzsks.com)</sup>　
+<a href="#22" target="_top">22-吉林</a>	<sup>[考试院](http://www.jleea.edu.cn)</sup>　
+<a href="#23" target="_top">23-黑龙江</a>	<sup>[考试院](https://www.lzk.hl.cn)</sup>　
+<a href="#31" target="_top">31-上海</a>	<sup>[考试院](https://www.shmeea.edu.cn)</sup>　
+<a href="#32" target="_top">32-江苏</a>	<sup>[考试院](https://www.jseea.cn)</sup>　
+<a href="#33" target="_top">33-浙江</a>	<sup>[考试院](https://www.zjzs.net)</sup>　
+<a href="#34" target="_top">34-安徽</a>	<sup>[考试院](https://www.ahzsks.cn)</sup>　
+<a href="#35" target="_top">35-福建</a>	<sup>[考试院](https://www.eeafj.cn)</sup>　
+<a href="#36" target="_top">36-江西</a>	<sup>[考试院](http://www.jxeea.cn)</sup>　
+<a href="#37" target="_top">37-山东</a>	<sup>[考试院](https://www.sdzk.cn)</sup>　
+<a href="#41" target="_top">41-河南</a>	<sup>[考试院](http://www.heao.com.cn)</sup>　
+<a href="#42" target="_top">42-湖北</a>	<sup>[考试院](http://www.hbea.edu.cn)</sup>　
+<a href="#43" target="_top">43-湖南</a>	<sup>[考试院](http://www.hneao.edu.cn)</sup>　
+<a href="#44" target="_top">44-广东</a>	<sup>[考试院](http://eea.gd.gov.cn)</sup>　
+<a href="#45" target="_top">45-广西</a>	<sup>[考试院](http://www.gxeea.cn)</sup>　
+<a href="#46" target="_top">46-海南</a>	<sup>[考试院](http://ea.hainan.gov.cn)</sup>　
+<a href="#50" target="_top">50-重庆</a>	<sup>[考试院](https://www.cqksy.cn)</sup>　
+<a href="#51" target="_top">51-四川</a>	<sup>[考试院](http://www.sceea.cn)</sup>　
+<a href="#52" target="_top">52-贵州</a>	<sup>[考试院](http://zsksy.guizhou.gov.cn)</sup>　
+<a href="#53" target="_top">53-云南</a>	<sup>[考试院](http://www.ynzs.cn)</sup>　
+<a href="#54" target="_top">54-西藏</a>	<sup>[考试院](http://zsks.edu.xizang.gov.cn)</sup>　
+<a href="#61" target="_top">61-陕西</a>	<sup>[考试院](http://www.sneac.com)</sup>　
+<a href="#62" target="_top">62-甘肃</a>	<sup>[考试院](http://www.ganseea.cn)</sup>　
+<a href="#63" target="_top">63-青海</a>	<sup>[考试院](http://www.qhjyks.com)</sup>　
+<a href="#64" target="_top">64-宁夏</a>	<sup>[考试院](http://www.nxjyks.cn)</sup>　
+<a href="#65" target="_top">65-新疆</a>	<sup>[考试院](http://www.xjzk.gov.cn)</sup>　
+各省按身份证号前两位排序　▼
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
@@ -154,41 +189,6 @@
 
 　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
 　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)。
-
-<h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
-
-<a href="#11" target="_top">11-北京</a>	<sup>[考试院](https://www.bjeea.cn)</sup>　
-<a href="#12" target="_top">12-天津</a>	<sup>[考试院](http://www.zhaokao.net)</sup>　
-<a href="#13" target="_top">13-河北</a>	<sup>[考试院](http://www.hebeea.edu.cn)</sup>　
-<a href="#14" target="_top">14-山西</a>	<sup>[考试院](http://www.sxkszx.cn)</sup>　
-<a href="#15" target="_top">15-内蒙古</a>	<sup>[考试院](https://www.nm.zsks.cn)</sup>　
-<a href="#21" target="_top">21-辽宁</a>	<sup>[考试院](https://www.lnzsks.com)</sup>　
-<a href="#22" target="_top">22-吉林</a>	<sup>[考试院](http://www.jleea.edu.cn)</sup>　
-<a href="#23" target="_top">23-黑龙江</a>	<sup>[考试院](https://www.lzk.hl.cn)</sup>　
-<a href="#31" target="_top">31-上海</a>	<sup>[考试院](https://www.shmeea.edu.cn)</sup>　
-<a href="#32" target="_top">32-江苏</a>	<sup>[考试院](https://www.jseea.cn)</sup>　
-<a href="#33" target="_top">33-浙江</a>	<sup>[考试院](https://www.zjzs.net)</sup>　
-<a href="#34" target="_top">34-安徽</a>	<sup>[考试院](https://www.ahzsks.cn)</sup>　
-<a href="#35" target="_top">35-福建</a>	<sup>[考试院](https://www.eeafj.cn)</sup>　
-<a href="#36" target="_top">36-江西</a>	<sup>[考试院](http://www.jxeea.cn)</sup>　
-<a href="#37" target="_top">37-山东</a>	<sup>[考试院](https://www.sdzk.cn)</sup>　
-<a href="#41" target="_top">41-河南</a>	<sup>[考试院](http://www.heao.com.cn)</sup>　
-<a href="#42" target="_top">42-湖北</a>	<sup>[考试院](http://www.hbea.edu.cn)</sup>　
-<a href="#43" target="_top">43-湖南</a>	<sup>[考试院](http://www.hneao.edu.cn)</sup>　
-<a href="#44" target="_top">44-广东</a>	<sup>[考试院](http://eea.gd.gov.cn)</sup>　
-<a href="#45" target="_top">45-广西</a>	<sup>[考试院](http://www.gxeea.cn)</sup>　
-<a href="#46" target="_top">46-海南</a>	<sup>[考试院](http://ea.hainan.gov.cn)</sup>　
-<a href="#50" target="_top">50-重庆</a>	<sup>[考试院](https://www.cqksy.cn)</sup>　
-<a href="#51" target="_top">51-四川</a>	<sup>[考试院](http://www.sceea.cn)</sup>　
-<a href="#52" target="_top">52-贵州</a>	<sup>[考试院](http://zsksy.guizhou.gov.cn)</sup>　
-<a href="#53" target="_top">53-云南</a>	<sup>[考试院](http://www.ynzs.cn)</sup>　
-<a href="#54" target="_top">54-西藏</a>	<sup>[考试院](http://zsks.edu.xizang.gov.cn)</sup>　
-<a href="#61" target="_top">61-陕西</a>	<sup>[考试院](http://www.sneac.com)</sup>　
-<a href="#62" target="_top">62-甘肃</a>	<sup>[考试院](http://www.ganseea.cn)</sup>　
-<a href="#63" target="_top">63-青海</a>	<sup>[考试院](http://www.qhjyks.com)</sup>　
-<a href="#64" target="_top">64-宁夏</a>	<sup>[考试院](http://www.nxjyks.cn)</sup>　
-<a href="#65" target="_top">65-新疆</a>	<sup>[考试院](http://www.xjzk.gov.cn)</sup>　
-各省按身份证号前两位排序　▼
 
 	　各省高校	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	层级合计
 	部属本科🥇	39	3	4	0	0	5	2	3	9	10	1	2	2	0	3	1	8	2	3	0	0	2	6	0	0	0	6	2	0	1	0	🥇 114
