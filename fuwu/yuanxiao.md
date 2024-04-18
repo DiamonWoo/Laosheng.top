@@ -48,7 +48,8 @@
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
 *	本页[数据来源](#D7){:target="_top"}：教育部等、<sub>改革近况</sub>
-*	[问题解答](#D8){:target="_top"}：学校网站打不开的原因等
+*	[近年高校变更](#D8){:target="_top"}
+*	问题解答：学校网站打不开的原因等
 
 <h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
 
@@ -90,7 +91,7 @@
 军事院校名单
 ------------
 
-　44所（有27所面向高考招生，标记⭐）
+　44所，有27所面向高考招生，标记⭐。　军事院校不列入下方‘各省普通高校’段落。
 
 　	国防大学	<small> 中国人民解放军 军委直属 北京市/西安市/上海市/石家庄</small>
 　0	[国防科技大学](http://www.nudt.edu.cn)	<small>⭐ 军委直属，[wb](https://m.weibo.cn/u/7127745503) 长沙市/南京市/武汉市/合肥市</small>
@@ -145,7 +146,8 @@
 中管高校网站分页
 ----------------
 
-　在114所中央部委直属的本科院校中有31所‘中管高校’（标记❗），指该校书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》，以下按官方新闻排序：
+　在114所中央部委直属的普通高校中有31所‘中管高校’（标记❗），书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》。
+　中管高校的网站多表现出较高水准，域名与网页路径稳定，这里列出他们的主要页面。各校按十九届中央巡视公告排序：
 
 1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn '五四运动')</b>	 PKU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](http://www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](http://cc.pku.edu.cn/service.jsp)	⠀+北京医科大。[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
 2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn '庚子赔款')</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](http://www.tsinghua.edu.cn/zsjy.htm) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)	⠀+中央工艺美院。[五道口金融](https://www.pbcsf.tsinghua.edu.cn/)、[长庚医院](http://www.btch.edu.cn/)、[CERNET](https://www.cernet.edu.cn/)核心机房</small>  
@@ -185,10 +187,7 @@
 各省普通高等院校 🧳
 ----------------
 
-　2820所，教育部2023年6月19日公布数据。　较2022年新增61所院校，有一半已开通网站；新增本科院校4所：郑州美术学院、香港科技大学（广州）、海南比勒费尔德应用科学大学、重庆中医药学院。
-
-　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)。
+　　教育部2023年6月19日数据：2820所，各省统计如下：
 
 	　各省高校	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	层级合计
 	部属本科🥇	39	3	4	0	0	5	2	3	9	10	1	2	2	0	3	1	8	2	3	0	0	2	6	0	0	0	6	2	0	1	0	🥇 114
@@ -197,7 +196,7 @@
 	　　专科数	25	26	67	49	37	51	29	39	28	90	49	75	50	63	86	110	64	85	93	49	13	44	84	48	56	3	40	28	8	13	43	专 1545
 	　各省小计：	92	56	128	83	54	114	66	78	68	168	109	121	89	108	156	168	132	137	162	87	22	71	137	77	88	7	97	50	12	21	62	　 2820
 
-　**排序说明**：同一层级的高校按所在地的[行政区划代码](qianxian)排序，同一地的高校按教育部确定的‘学校标识码’排序，比如：北京工商大学	4111010011、首都师范大学	4111010028。这个标识码可以在教育部官网（数据来源第一项）查询，只有当一所学校没有发现有效网址，本页才会显示 学校标识码，比如：¥ 天津师范大学 津沽学院 4112013896。*学校标识码看起来像是学校在教育部登记的先后顺序。*
+　　**排序说明**：同一层级的高校按所在地的[行政区划代码](qianxian)排序，同一地的高校按教育部确定的‘学校标识码’排序，比如：北京工商大学	4111010011、首都师范大学	4111010028。这个标识码可以在教育部官网（数据来源第一项）查询，只有当一所学校没有发现有效网址，本页才会显示 学校标识码，比如：¥ 天津师范大学 津沽学院 4112013896。*学校标识码看起来像是学校在教育部登记的先后顺序。*
 
 <h3 id='11'>北京　<small>92所高校：39🥇 22🥈 6 ¥</small></h3>　❗<a title='教育部 五四运动' href='http://www.pku.edu.cn'><b>北京大学</b></a> 海淀区  　❗<a title='教育部 庚子赔款' href='http://www.tsinghua.edu.cn'><b>清华大学</b></a> 海淀区  　❗<a title='教育部 抗日烽火' href='http://www.ruc.edu.cn'><b>中国人民大学</b></a> 海淀区  　❗<a title='教育部 京师大学堂师范馆' href='http://www.bnu.edu.cn'><b>北京师范大学</b></a> 海淀区  　❗<a title='教育部' href='http://www.cau.edu.cn'><b>中国农业大学</b></a> 海淀区  　❗<a title='工业和信息化部' href='http://www.bit.edu.cn'><b>北京理工大学</b></a> 海淀区  　❗<a title='工业和信息化部 图书馆与网络中心网站不对外开放' href='http://www.buaa.edu.cn'><b>北京航空航天大学</b></a> 海淀区  　<sup>国家卫健委</sup>❕<a title='加挂：清华大学医学部' href='http://www.cams.ac.cn'><b>北京协和医学院</b></a> 东城区  <i>清华大学医学部</i>　<sup>教育部</sup>❕<a href='http://www.chntheatre.edu.cn'><b>中央戏剧学院</b></a> 💃东城区/昌平区　<sup>外交部</sup>❕<a href='http://www.cfau.edu.cn'><b>外交学院</b></a> 西城区　<sup>公安部</sup>❕<a href='http://www.cppsu.edu.cn'><b>中国人民公安大学</b></a> 🛂西城区　<sup>教育部</sup>❕<a href='http://www.ccom.edu.cn'><b>中央音乐学院</b></a> 🎵西城区　<sup>教育部</sup>❕<a href='http://www.buct.edu.cn'><b>北京化工大学</b></a> 朝阳区　<sup>教育部</sup>❕<a href='http://www.bucm.edu.cn'><b>北京中医药大学</b></a> 朝阳区  <i>+北京针灸骨伤学院</i>　<sup>教育部</sup>❕<a href='http://www.cuc.edu.cn'><b>中国传媒大学</b></a> 朝阳区　<sup>教育部</sup>❕<a href='http://www.uibe.edu.cn'><b>对外经济贸易大学</b></a> 朝阳区　<sup>教育部</sup>❕<a href='http://www.cafa.edu.cn'><b>中央美术学院</b></a> 🎨朝阳区　<sup>中华妇女联合会</sup>❕<a href='http://www.cwu.edu.cn'><b>中华女子学院</b></a> 朝阳区　<sup>中国社会科学院</sup>❕<a href='https://www.ucass.edu.cn'><b>中国社会科学院大学</b></a> 朝阳区　<sup>中央办公厅</sup>❕<a href='http://www.besti.edu.cn'><b>北京电子科技学院</b></a> 丰台区　<sup>教育部</sup>❕<a href='http://www.njtu.edu.cn'><b>北京交通大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.ustb.edu.cn'><b>北京科技大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.bupt.edu.cn'><b>北京邮电大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.bjfu.edu.cn'><b>北京林业大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.bfsu.edu.cn'><b>北京外国语大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.blcu.edu.cn'><b>北京语言大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.cufe.edu.cn'><b>中央财经大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.uir.cn'><b>国际关系学院</b></a> 海淀区　<sup>国家体育总局</sup>❕<a href='http://www.bsu.edu.cn'><b>北京体育大学</b></a> 🏃海淀区　<sup>国家民委</sup>❕<a title='国家民族事务委员会' href='http://www.muc.edu.cn'><b>中央民族大学</b></a> 海淀区　<sup>教育部</sup>❕<a href='http://www.cupl.edu.cn'><b>中国政法大学</b></a> ⚖️海淀区　<sup>教育部</sup>❕<a href='http://www.cumtb.edu.cn'><b>中国矿业大学（北京）</b></a> 海淀区/昌平区　<sup>教育部</sup>❕<a href='http://www.cup.edu.cn'><b>中国石油大学（北京）</b></a> 海淀区/昌平区　<sup>教育部</sup>❕<a href='http://www.cugb.edu.cn'><b>中国地质大学（北京）</b></a> 海淀区　<sup>共青团中央</sup>❕<a href='http://www.cyu.edu.cn'><b>中国青年政治学院</b></a> 海淀区　<sup>中华全国总工会</sup>❕<a href='http://www.ciir.edu.cn'><b>中国劳动关系学院</b></a> 海淀区　<sup>中国科学院</sup>❕<a title='国科大，中科院的研究生部' href='http://www.ucas.ac.cn'><b>中国科学院大学</b></a> 海淀区　<sup>应急管理部</sup>❕<a href='http://www.cfri.edu.cn'><b>中国消防救援学院</b></a> 昌平区　<sup>教育部</sup>❕<a href='http://www.ncepu.edu.cn'><b>华北电力大学</b></a> 昌平区　<a href='http://www.bjut.edu.cn'>北京工业大学</a> 朝阳区　<a href='http://www.bift.edu.cn'>北京服装学院</a> 朝阳区/昌平区　<a href='http://www.bisu.edu.cn'>北京第二外国语学院</a> 朝阳区　<a href='http://www.ccmusic.edu.cn'>中国音乐学院</a> 🎵朝阳区　<a href='http://www.bistu.edu.cn'>北京信息科技大学</a> 朝阳区/海淀区　<a href='http://www.buu.edu.cn/col/col7/'>北京联合大学</a> 朝阳区　<a href='http://www.bjpc.edu.cn'>北京警察学院</a> 🛂朝阳区/昌平区　<a href='http://www.ccmu.edu.cn'>首都医科大学</a> 丰台区　<a href='http://www.cueb.edu.cn'>首都经济贸易大学</a> 丰台区　<a title='2000年划转北京市，2014年与文旅部共建' href='http://www.nacta.edu.cn'>中国戏曲学院</a> 💃丰台区　<a href='http://www.ncut.edu.cn'>北方工业大学</a> 石景山区　<a href='http://www.sgit.edu.cn'>首钢工学院</a> 石景山区　<a href='http://www.btbu.edu.cn'>北京工商大学</a> 海淀区　<a href='http://www.cnu.edu.cn'>首都师范大学</a> 海淀区　<a title='北京国际奥林匹克学院。网站要求https访问' href='https://www.cupes.edu.cn'>首都体育学院</a> 🏃海淀区　<a href='http://www.bfa.edu.cn'>北京电影学院</a> 💃海淀区　<a href='http://www.bda.edu.cn'>北京舞蹈学院</a> 💃海淀区　¥ <a href='http://www.bcu.edu.cn'>北京城市学院</a> 海淀区　<a href='http://www.bwu.edu.cn'>北京物资学院</a> 通州区　¥ 北京工商大学<a href='http://www.canvard.net.cn'>嘉华学院</a> 通州区　¥ 北京工业大学<a href='http://www.gengdan.cn'>耿丹学院</a> 顺义区　<a href='http://www.bua.edu.cn'>北京农学院</a> 昌平区　<a href='http://www.bigc.edu.cn'>北京印刷学院</a> 大兴区　<a href='http://www.bucea.edu.cn'>北京建筑大学</a> 大兴区　<a href='http://www.bipt.edu.cn'>北京石油化工学院</a> 大兴区　¥ 首都师范大学<a href='http://www.kdcnu.com'>科德学院</a> 大兴区　¥ 北京第二外国语学院<a href='http://www.bhi.edu.cn'>中瑞酒店管理学院</a> 大兴区　¥ 北京邮电大学<a href='http://www.ccbupt.cn'>世纪学院</a> 延庆区<br>  
 高职大专25所（9 ¥）：<small>　朝阳区 <a href='http://www.bitc.edu.cn'>北京信息职业技术学院</a> ⚙️  <i>北京电子控股</i>　朝阳区 <a href='http://www.bpi.edu.cn'>北京电子科技职业学院</a>　朝阳区 <a title='夜间维护？' href='http://www.bjypc.edu.cn'>北京青年政治学院</a> ？　朝阳区 <a title='北京经理学院' href='http://www.biem.edu.cn'>北京经济管理职业学院</a>　朝阳区/昌平区 <a href='http://www.bvclss.cn'>北京劳动保障职业学院</a>　丰台区 <a href='http://www.bjxx.com.cn'>北京戏曲艺术职业学院</a> 💃　丰台区 <a href='http://www.bjtzhy.org'>北京体育职业学院</a> 🏃　石景山区 <a href='http://www.bgy.edu.cn'>北京工业职业技术学院</a>　海淀区/大兴/通州 <a href='http://www.bjjt.edu.cn'>北京交通运输职业学院</a>　海淀区 ¥ <a href='http://www.bjpldx.edu.cn'>北京培黎职业学院</a>　海淀区 ¥ <a href='http://www.bjamu.cn'>北京艺术传媒职业学院</a>　房山区 <a href='http://www.bvca.edu.cn'>北京农业职业学院</a>　房山区/通州区 <a href='http://www.bjhvc.edu.cn'>北京卫生职业学院</a>　房山区 ¥ <a href='http://www.csuedu.com'>北京经贸职业学院</a>　房山区 ¥ <a href='https://bjwlxy.org.cn/'>北京网络职业学院</a>　通州区 <a href='http://www.bjczy.edu.cn'>北京财贸职业学院</a>　通州区 ¥ <a title='多个国家级高职实训基地' href='http://www.pfc.edu.cn'>北京北大方正软件职业技术学院</a>　通州区 ¥ <a href='http://www.bibtedu.cn'>北京经济技术职业学院</a>　昌平区 <a title='曾经网关限制？502' href='http://www.jtxy.com.cn'>北京交通职业技术学院</a>　昌平区 ¥ <a href='http://www.hju.net.cn'>北京汇佳职业学院</a>　昌平区 ¥ <a title='旧域名停用:www.bjjsy1985.cn' href='http://www.jgy1985.cn'>北京科技经营管理学院</a>　昌平区 ¥ <a href='http://www.5aaa.com'>北京科技职业学院</a>　大兴区 <a href='http://www.bcpl.cn'>北京政法职业学院</a> ⚖️　大兴区 <a href='http://www.bcsa.edu.cn'>北京社会管理职业学院</a>　怀柔区 <a href='http://www.jbzy.com.cn'>北京京北职业技术学院</a>  </small>　　<a href="#mulu" target="_top" title="回各省索引">▲</a>  
@@ -561,8 +560,21 @@
 *	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
 *	2021年5月至7月，十九届中央第七轮巡视对教育部和[31所中管高校](https://www.ccdi.gov.cn/specialn/19zyxsgz/yw19zyxsgz/202104/t20210428_153257.html)党组织开展常规巡视。
 
-
 <div align="right" id="D8"><a href="#tupu" target="_top">↑ Top</a></div>
+
+近年高校变更
+------------
+
+<h3 >202307~202406</h3>
+　　本科院校变更12起，其中新增3所：江西飞行学院、四川工程职业技术大学、长春汽车职业技术大学
+　　专科院校变更13起，其中新增7所：上海浦东职业技术学院、芜湖医药健康职业学院、芜湖航空职业学院、蚌埠城市轨道交通职业学院、海南东方新丝路职业学院、贵州传媒职业学院、贵州生态能源职业学院。
+（本页正在准备更新）
+
+<h3 >202207~202306</h3>
+　　新增61所院校，其中本科院校4所：郑州美术学院、香港科技大学（广州）、海南比勒费尔德应用科学大学、重庆中医药学院。
+（本页已全部吸收）
+
+<div align="right" id="D9"><a href="#tupu" target="_top">↑ Top</a></div>
 
 QA 问题解答
 -----------
@@ -596,17 +608,16 @@ QA 问题解答
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.8.8	202404
+	高等院校三千所	Version 0.8.9	202404
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
-回到首页
-<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-点击二维码，“在浏览器打开” https://Laosheng.top  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🥉🏫🔢🧳 🔠📎
+回到首页
+<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+点击二维码，“在浏览器打开” https://Laosheng.top  
