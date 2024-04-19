@@ -2,7 +2,7 @@
 =================
 大萌　	202403~04	<base target="_blank">
 
-		让每个人获得发展自我和奉献社会的机会——习近平在中法建交50周年大会上阐释中国梦(2014年巴黎)
+		让每个人获得发展自我和奉献社会的机会——中法建交50周年大会上习近平阐释中国梦(2014年巴黎)
 
 　　2024年是‘春风行动’开展的第二十年，这是国家为促进就业，由多部委联合开展的公益活动。从最早帮助农民工进城，到如今全社会‘稳就业、保民生’，春风行动 每年会在各地、多批次地举办线上、线下招聘活动，并且对求职者、提供职位的企业/单位免费入场。在周期性的公办招聘活动之外，还有常年提供职业介绍的民办招聘网站。
 
@@ -62,7 +62,9 @@
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽  
 　<a target='_top' href='#mb'>大型民办招聘</a>网站  
-　参考文献　鸣谢/说明
+　参考文献  
+　<a target='_top' href='#mx'>鸣谢</a>/<sub>编辑说说明</sub>
+
 
 <h2 id='zy'>中央有关部门网站 👔</h2>
 
@@ -539,6 +541,8 @@
 *	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:退市)
 	* 下属网站：[赶集直招](https://www.ganji.com/chosecity/)
 	、[新华英才](https://www.ChinaHR.com/job) （原中华英才网被美资收购）
+*	2006年深圳，[一览英才网](https://www.job1001.com/) Job1001 工业细分招聘
+*	2006年北京，[英才网联](https://www.800hr.com/) 800HR.com 分行业人才招聘
 *	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
 *	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
 
@@ -556,12 +560,11 @@
 *	2014年3月巴黎，习近平[在中法建交五十周年纪念大会上的讲话](http://cpc.people.com.cn/n/2014/0329/c64094-24770826.html)
 
 
-鸣谢
---------
+<h2 id='mx'>鸣谢</h2>
 
-　　本页面各地人社局网址有约六成初始数据来自国务院‘互联网+’小组。💐
+　　本页面各地人社机构网址有约六成初始数据来自国务院‘互联网+’小组。💐
 
-　　**编辑说明**：有少数地方的‘人社局’没有链接，是因为当地人社局没有独立网站（二级域名或二级目录），这种情况会给地名附加链接，指向市政府网站中有关人社局相关内容（就业创业）的网址。
+　　**编辑说明**：有少数地方的‘人社局’没有链接，是因为当地人社局没有独立网站（二级域名或二级目录），以黑龙江和新疆为代表。这种情况会给地名附加链接，指向市政府网站中有关人社局相关内容（就业创业）的网址。
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -575,6 +578,11 @@
 	https://laosheng.top/fuwu/jiuye
 ```
 
-
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
