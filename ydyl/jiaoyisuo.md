@@ -3,9 +3,13 @@
 大萌　202307，202404  草稿	<base target="_blank">
 
 
-writing……
+　　writing……（还在学习、收集中）
 
-　　（还在学习、收集中）
+　　2024年2月17日，美国国务卿布林肯在慕尼黑安全会议上说：“if you’re not at the table in the international system, you’re going to be on the menu”。 我的翻译是：天下大势，要么上桌，要么上菜单。现场视频请见本页底部参考文献。
+
+　　金融是将全世界人类命运联系在一起的重要机制。有人当强盗，就要有人剿匪。
+
+
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金融交易所
@@ -16,13 +20,15 @@ writing……
 ---------------
 Gold Market
 
-　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌给出这三家黄金市场的价格网址(都有中英双语页面)，请注意单位换算。
+　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，这三家市场的官网，竟然都有中英双语页面，对中文网页标记📍图钉符号，其它图例同‘排行榜’页面。
 
 *	英国伦敦现货黄金市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金价](https://www.lbma.org.uk/cn/prices-and-data#/)，报价单位：美元/盎司
-*	美国#[纽约商品交易所](https://www.cmegroup.com/cn-s/)📍，COMEX，提供黄金期货报价，报价单位：美元/盎司
+*	美国#[纽约商品交易所](https://www.cmegroup.com/cn-s/)📍，COMEX，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)，报价单位：美元/盎司  
+	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
 *	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，提供黄金期货[挂牌基准价](https://www.shfe.com.cn/products/au/)，报价单位：人民币/克；  
 	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)
 
+　　请注意单位换算。
 
 　　更多信息可见[世界黄金协会](https://china.gold.org/our-offices)📍，该会总部在伦敦，在上海、北京有办事处。
 
@@ -207,6 +213,13 @@ Systemically Important Banks
 
 
 ……
+
+参考文献
+--------
+
+*	20240222，《长江日报》在[人民号网站的文章](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=40005153)：“不在餐桌旁，就在菜单上”，布林肯言论暴露美式霸权逻辑。附视频。
+
+
 
 　　（此页尚在施工中……）
 
