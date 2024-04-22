@@ -41,15 +41,17 @@ Foreign Exchange Market
 　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（BIS）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按开收盘的北京时间顺序，列出全球主要外汇市场：
 
 *	新西兰惠灵顿外汇市场： 04：00-12：00（冬令时）； 05：00-13：00 （夏时制）。
-*	澳大利亚悉尼外汇市场：06：00-14：00（冬令时）； 07：00-15：00 （夏时制）。
-*	**日本东京**外汇市场： 08：00-14：30
-*	**中国香港**： 	09：00-16：00
-*	**新加坡** 外汇市场： 09：00-16：00
-*	德国法兰克福外汇市场：14：00-22：00
-*	**英国伦敦**外汇市场： 15：30-23：30（夏时制）/16：30-00：30（冬令时）
-*	**美国纽约**外汇市场： 20：20-03：00（夏时制）/21：20-04：00（冬令时）
+*	澳大利亚悉尼外汇市场：06：00-14：00（冬令时）； 07：00-15：00 （夏时制）。[澳大利亚储备银行](https://www.rba.gov.au/statistics/frequency/exchange-rates.html)统计近3日最新汇率
+*	**日本东京**外汇市场： 08：00-14：30 [日本银行](https://www.boj.or.jp/statistics/market/forex/fxdaily/)公布每日外汇行情，pdf格式
+*	**中国香港**： 	09：00-16：00 [香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元汇率稳定在7.75至7.85港元兑1美元的区间内。
+*	**新加坡** 外汇市场： 09：00-16：00 新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
+*	德国法兰克福外汇市场：14：00-22：00 [欧洲中央银行](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)提供欧元参考汇率
+*	**英国伦敦**外汇市场： 15：30-23：30（夏时制）/16：30-00：30（冬令时）[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
+*	**美国纽约**外汇市场： 20：20-03：00（夏时制）/21：20-04：00（冬令时）[美联储](https://www.federalreserve.gov/releases/h10/current/)发布上周？美元汇率
 
 　　<sub>国际规定冬令时从11月第二个星期开始到次年3月第一个星期截止；夏时制为除去冬令时以外的所有时间。</sub>
+
+　　2023年起，人民币外汇市场运行时间由北京时间9:30-16:30调整至北京时间9:30-23:30，外币拆借交易系统运行时间由北京时间7:00-19:00调整至北京时间7:00-23:30。
 
 　　根据中国人民银行授权，**中国外汇交易中心**(上海)负责发布“[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)”。  
 　　六大国有银行外汇牌价：  
@@ -69,35 +71,35 @@ Stock Exchange Top25 2021
 
 　　受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
-*	美国 [纽约证券交易所](https://www.nyse.com)
-*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）
-*	中国 [上海证券交易所](http://www.sse.com.cn)
-*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)🍴
-*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍
-*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)
-*	中国 [深圳证券交易所](https://www.szse.cn/)
-*	英国 [伦敦证券交易所](https://www.londonstockexchange.com)
-*	[印度国家证券交易所](http://www.nse-india.com)#
-*	加拿大 [多伦多证券交易所](https://www.tsx.com)
+*	美国 [纽约证券交易所](https://www.nyse.com) NYSE
+*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）Nasdaq
+*	中国 [上海证券交易所](http://www.sse.com.cn)📍 SSE
+*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)🍴 EuroNext
+*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX
+*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX
+*	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE
+*	英国 [伦敦证券交易所](https://www.londonstockexchange.com) LondonStockExchange
+*	#[印度国家证券交易所](http://www.nse-india.com) NSE
+*	加拿大 [多伦多证券交易所](https://www.tsx.com) TSX
 
 *	印度 [孟买证券交易所](https://www.bseindia.com/) ? 疑似故障
 *	德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
 	* 法兰克福证券交易所
 *	[瑞士证券交易所](https://www.six-group.com/en)🍴
-*	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍
+*	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍 KRX
 *	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
-*	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)
-*	台湾地区 [台湾证券交易所](https://www.twse.com.tw/zh/)
+*	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au) ASX
+*	台湾地区 [台湾证券交易所](https://www.twse.com.tw/zh/)📍 TWSE
 *	[巴西证券交易所](https://www.b3.com.br/en_us/)🍴
 *	[南非证券交易所](https://www.jse.co.za)
 *	[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴
 
-*	[新加坡交易所](https://www.sgx.com/zh-hans/)📍　新交所
+*	[新加坡交易所](https://www.sgx.com/zh-hans/)📍 SGX　新交所
 	* 2016年收购 波罗的海交易所
 *	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
 *	[泰国证券交易所](https://classic.set.or.th/)🍴
 *	印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴
-*	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍
+*	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍 BursaMalaysia
 
 
 更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
@@ -185,7 +187,7 @@ Financial Exchange
 
 外国及港澳台银行的中国分行（括注境内主报告行）	
 
-	德国商业银行（上海分行） 巴克莱银行（上海分行） 美国银行（上海分行） 荷兰安置银行（上海分行） 比利时联合银行（上海分行） 挪威银行（上海分行） 加拿大丰业银行（广州分行） 桑坦德银行（上海分行） 意大利裕信银行（上海分行） 瑞士信贷银行（上海分行） 意大利联合圣保罗银行（上海分行） 法国外贸银行（上海分行） 纽约梅隆银行（上海分行） 德国西德银行（上海分行） 马来亚银行（上海分行） 富通银行（上海分行） 大众银行（香港）（深圳分行） 瑞典商业银行（上海分行） 印度国家银行（上海分行） 三井住友信托银行（上海分行） 北德意志州银行（上海分行） 北欧斯安银行（上海分行） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（上海分行） 西太平洋银行（上海分行） 西雅那银行（上海分行） 北欧银行（上海分行） 美联银行（上海分行） 台湾土地银行（上海分行） 第一商业银行（上海分行） 俄罗斯外贸银行（上海分行） 巴西银行（上海分行） 大邱银行（上海分行） 埃及国民银行（上海分行） 澳洲联邦银行（上海分行） 台湾中小企业银行（上海分行） 卡纳拉银行（上海分行） 印度尼西亚曼底利银行（上海分行） 韩国产业银行（上海分行） 台湾银行（上海分行） 联昌国际银行（上海分行） 哈比银行（乌鲁木齐分行）
+　　德国商业银行（上海分行） 巴克莱银行（上海分行） 美国银行（上海分行） 荷兰安置银行（上海分行） 比利时联合银行（上海分行） 挪威银行（上海分行） 加拿大丰业银行（广州分行） 桑坦德银行（上海分行） 意大利裕信银行（上海分行） 瑞士信贷银行（上海分行） 意大利联合圣保罗银行（上海分行） 法国外贸银行（上海分行） 纽约梅隆银行（上海分行） 德国西德银行（上海分行） 马来亚银行（上海分行） 富通银行（上海分行） 大众银行（香港）（深圳分行） 瑞典商业银行（上海分行） 印度国家银行（上海分行） 三井住友信托银行（上海分行） 北德意志州银行（上海分行） 北欧斯安银行（上海分行） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（上海分行） 西太平洋银行（上海分行） 西雅那银行（上海分行） 北欧银行（上海分行） 美联银行（上海分行） 台湾土地银行（上海分行） 第一商业银行（上海分行） 俄罗斯外贸银行（上海分行） 巴西银行（上海分行） 大邱银行（上海分行） 埃及国民银行（上海分行） 澳洲联邦银行（上海分行） 台湾中小企业银行（上海分行） 卡纳拉银行（上海分行） 印度尼西亚曼底利银行（上海分行） 韩国产业银行（上海分行） 台湾银行（上海分行） 联昌国际银行（上海分行） 哈比银行（乌鲁木齐分行）
 
 
 
@@ -214,7 +216,7 @@ Systemically Important Banks
 
 *	20240222，《长江日报》在[人民号网站的文章](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=40005153)：“不在餐桌旁，就在菜单上”，布林肯言论暴露美式霸权逻辑。附视频。
 *	2022年第23期[《中国外汇》](http://www.chinaforex.com.cn/index.php/cms/item-view-id-52044.shtml)刊文：聚焦2022全球外汇市场调查。
-
+*	20221231，人行就[延长外汇交易时间](https://www.gov.cn/zhengce/2022-12/31/content_5734385.htm)答记者问。
 
 　　（此页尚在施工中……）
 
