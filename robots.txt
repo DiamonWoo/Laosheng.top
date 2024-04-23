@@ -1,4 +1,14 @@
+# 一个简单的爬虫声明
+
 User-agent:*
-Disallow:/.hide/
-Disallow:/fly/?=http://tjvip.vip
-Allow:/fly
+Allow:/broad/
+Allow:/c/
+Allow:/falv/
+Allow:/fly/
+Allow:/fuwu/
+Allow:/ydyl/
+Sitemap: https://www.Laosheng.top/sitemap.txt
+
+#Disallow:/.hide/
+#Disallow:/fly/?=http://tjvip.vip
+
