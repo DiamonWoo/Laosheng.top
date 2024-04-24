@@ -5,10 +5,10 @@
 
 　　writing……（还在学习、收集中）
 
-　　2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”。 我的翻译是：天下大势，要么上桌，要么上菜单。现场视频请见本页底部参考文献。
+　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”。 我的翻译是：天下大势，要么上桌，要么上菜单。现场视频见参考文献。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
-　　金融是将全世界人类命运联系在一起的重要机制。有人当强盗，就要有人剿匪，否则人类命运共同体不可能实现。
-
+　　金融市场是各种国际势力角逐的战场，主要有：黄金市场、外汇市场、证券市场，时间上分现货、期货，地点上分场内、场外。
+……
 
 
 <div align="right">
@@ -40,12 +40,12 @@ Gold Market
 ---------------
 Foreign Exchange Market
 
-　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（BIS）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按开收盘的北京时间顺序，列出全球主要外汇市场：
+　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（[BIS](https://www.bis.org)）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按中国时区，列出全球主要外汇市场的开、收盘的时间：　<sub>英美澳等国有夏时制，暂未标出，请注意修正。</sub>
 
 *	新西兰惠灵顿： 04：00-12：00
 *	澳大利亚悉尼：06：00-14：00　[澳大利亚储备银行](https://www.rba.gov.au/statistics/frequency/exchange-rates.html)统计近3日最新汇率
 *	**日本东京**： 08：00-14：30　[日本银行](https://www.boj.or.jp/statistics/market/forex/fxdaily/)公布每日外汇行情，pdf格式
-*	**中国香港**： 09：00-16：00　[香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元汇率稳定在7.75至7.85港元兑1美元的区间内。
+*	**中国香港**： 09：00-16：00　[香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元在7.75~7.85兑1美元的区间内。
 *	**新加坡**　： 09：00-16：00　新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
 *	中国外汇交易中心(上海)📍：**09:30-23:30~03:00** 发布[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
 *	德国法兰克福：14：00-22：00　[欧洲中央银行](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)提供欧元参考汇率
@@ -53,13 +53,10 @@ Foreign Exchange Market
 *	**美国纽约**： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布上周？美元汇率
 *	[加拿大中央银行](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/)公布每日外汇利率
 
-
-　　<sub>英美澳等国有夏时制，暂未标出，请注意修正。</sub>
-
 　　2022年12月，中国延长外汇交易时间，由北京时间9:30-16:30调整至北京时间9:30-23:30，外币拆借交易系统运行时间由北京时间7:00-19:00调整至7:00-23:30；2023年12月，银行间外币对及外币货币市场交易时间由7:00-23:30调整至为7:00-次日3:00。市场连续交易，中间不休市。
 
 　　中国六大国有银行外汇牌价：  
-
+　　
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
 　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
