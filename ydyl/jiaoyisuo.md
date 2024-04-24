@@ -8,7 +8,7 @@
 　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”。 我的翻译是：天下大势，要么上桌，要么上菜单。现场视频见参考文献。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
 　　金融市场是各种国际势力角逐的战场，主要有：黄金市场、外汇市场、证券市场，时间上分现货、期货，地点上分场内、场外。
-……
+…… 知识盛宴正在准备，上酸菜~~
 
 
 <div align="right">
@@ -20,7 +20,7 @@
 ---------------
 Gold Market
 
-　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，这三家市场的官网，竟然都有中英双语页面。下面对中文网页标记图钉符号📍，其它图例同‘排行榜’页面。
+　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。下面对中文网页标记图钉符号📍。
 
 *	英国伦敦现货黄金市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金价](https://www.lbma.org.uk/cn/prices-and-data#/)，报价单位：美元/盎司
 *	美国#[纽约商品交易所](https://www.cmegroup.com/cn-s/)📍，COMEX，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)，报价单位：美元/盎司  
@@ -192,22 +192,24 @@ Financial Exchange
 
 
 
-全球系统重要性银行 💳
-----------------------------
+全球系统重要性银行 🔼
+-----------------
 Systemically Important Banks
 
-2020年 → 2021年（30家）
+　　2010年11月二十国集团(G20)首尔峰会批准了巴塞尔委员会起草的《第三版巴塞尔协议》，首次提出‘全球系统重要性银行’概念，并于2011年公布首批名单。按照资本补充能力，[金融稳定委员会](https://www.fsb.org)FSB把银行分成五档，每年更新名单，大约会有30家银行上榜。　2023年名单为29家，中国五大银行(中农工建交)首次齐聚。
+
 五星级		空缺  
-四星级 	摩根大通  
-三星级 	法国巴黎银行 汇丰 花旗集团
+四星级 	摩根大通 JP Morgan Chase  
+三星级 	美国银行 Bank of America、花旗银行 Citigroup、汇丰银行 HSBC
 
 二星级  
-	美国银行 中国银行 巴克莱银行 中国建设银行 德意志银行 高盛 中国工商银行 三菱日联银行
+	中国农业银行📍、中国银行📍、巴克莱银行、法国巴黎银行、建设银行📍、  
+	德意志银行、高盛集团、工商银行📍、三菱UFJ金融集团、瑞银集团
 
 一星级	  
-	中国农业银行 纽约梅隆银行 瑞士信贷 法国BPCE集团 法国农业信贷银行 荷兰国际集团 瑞穗金融集团 摩根士丹利 加拿大皇家银行 桑坦德银行 法国兴业银行 渣打银行 道富集团 三井住友金融集团 多伦多道明银行 瑞银集团 裕信银行 富国银行
-
-注：自2011年起，[金融稳定委员会 FSB](https://www.fsb.org)每年会对全球系统重要性银行名单进行更新
+	交通银行📍、纽约梅隆银行、法国BPCE银行集团、法国农业信贷银行、荷兰国际集团、  
+	瑞穗金融集团、摩根士丹利、加拿大皇家银行、桑坦德银行、法国兴业银行、  
+	渣打银行、美国道富银行、三井住友金融集团、多伦多道明银行、美国富国银行
 
 
 ……
@@ -220,6 +222,8 @@ Systemically Important Banks
 *	20221231，人行就[延长外汇交易时间](https://www.gov.cn/zhengce/2022-12/31/content_5734385.htm)答记者问。
 *	20231215，中国外汇交易中心延长银行间外币对及外币货币市场交易时间的通知，[中汇交发〔2023〕349号](https://www.chinamoney.com.cn/chinese/scggwhscggscggtz/20231215/2772891.html)。
 *	全球主要外汇交易时段：FxGoPlus[普拉斯财经](https://www.fxgoplus.com/major-forex-trading-sessions/)、inVesting[英为财情](https://cn.investing.com/tools/market-hours)
+*	FSB：2023 List of [Global Systemically Important Banks](https://www.fsb.org/2023/11/2023-list-of-global-systemically-important-banks-g-sibs/) (G-SIBs)
+*	新浪金融研究院：[我国认定20家国内系统重要性银行](https://finance.sina.com.cn/jinrong/yh/2023-11-28/doc-imzwepzs7168282.shtml)
 
 　　（此页尚在施工中……）
 
@@ -229,7 +233,7 @@ Systemically Important Banks
 	老生常谈 © 2019-2023 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.2 	202404
+	环球金融交易所	v0.4.3 	202404
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
