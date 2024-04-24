@@ -28,10 +28,12 @@ Gold Market
 *	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，提供黄金期货[挂牌基准价](https://www.shfe.com.cn/products/au/)，报价单位：人民币/克；  
 	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)
 
-　　请注意单位换算。
+　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
+
+　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
+　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 = 人民币每克金价。（28.35/7=4.05）
 
 　　更多信息可见[世界黄金协会](https://china.gold.org/our-offices)📍，该会总部在伦敦，在上海、北京有办事处。
-
 
 
 全球主要外汇市场 💱
@@ -40,22 +42,24 @@ Foreign Exchange Market
 
 　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（BIS）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按开收盘的北京时间顺序，列出全球主要外汇市场：
 
-*	新西兰惠灵顿外汇市场： 04：00-12：00（冬令时）； 05：00-13：00 （夏时制）。
-*	澳大利亚悉尼外汇市场：06：00-14：00（冬令时）； 07：00-15：00 （夏时制）。[澳大利亚储备银行](https://www.rba.gov.au/statistics/frequency/exchange-rates.html)统计近3日最新汇率
-*	**日本东京**外汇市场： 08：00-14：30 [日本银行](https://www.boj.or.jp/statistics/market/forex/fxdaily/)公布每日外汇行情，pdf格式
-*	**中国香港**： 	09：00-16：00 [香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元汇率稳定在7.75至7.85港元兑1美元的区间内。
-*	**新加坡** 外汇市场： 09：00-16：00 新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
-*	德国法兰克福外汇市场：14：00-22：00 [欧洲中央银行](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)提供欧元参考汇率
-*	**英国伦敦**外汇市场： 15：30-23：30（夏时制）/16：30-00：30（冬令时）[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
-*	**美国纽约**外汇市场： 20：20-03：00（夏时制）/21：20-04：00（冬令时）[美联储](https://www.federalreserve.gov/releases/h10/current/)发布上周？美元汇率
+*	新西兰惠灵顿： 04：00-12：00
+*	澳大利亚悉尼：06：00-14：00　[澳大利亚储备银行](https://www.rba.gov.au/statistics/frequency/exchange-rates.html)统计近3日最新汇率
+*	**日本东京**： 08：00-14：30　[日本银行](https://www.boj.or.jp/statistics/market/forex/fxdaily/)公布每日外汇行情，pdf格式
+*	**中国香港**： 09：00-16：00　[香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元汇率稳定在7.75至7.85港元兑1美元的区间内。
+*	**新加坡**　： 09：00-16：00　新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
+*	中国外汇交易中心(上海)📍：**09:30-23:30~03:00** 发布[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
+*	德国法兰克福：14：00-22：00　[欧洲中央银行](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)提供欧元参考汇率
+*	**英国伦敦**： 16：30-23：30　[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
+*	**美国纽约**： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布上周？美元汇率
+*	[加拿大中央银行](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/)公布每日外汇利率
 
-　　<sub>国际规定冬令时从11月第二个星期开始到次年3月第一个星期截止；夏时制为除去冬令时以外的所有时间。</sub>
 
-　　2023年起，人民币外汇市场运行时间由北京时间9:30-16:30调整至北京时间9:30-23:30，外币拆借交易系统运行时间由北京时间7:00-19:00调整至北京时间7:00-23:30。
+　　<sub>英美澳等国有夏时制，暂未标出，请注意修正。</sub>
 
-　　根据中国人民银行授权，**中国外汇交易中心**(上海)负责发布“[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)”。  
-　　六大国有银行外汇牌价：  
-　　
+　　2022年12月，中国延长外汇交易时间，由北京时间9:30-16:30调整至北京时间9:30-23:30，外币拆借交易系统运行时间由北京时间7:00-19:00调整至7:00-23:30；2023年12月，银行间外币对及外币货币市场交易时间由7:00-23:30调整至为7:00-次日3:00。市场连续交易，中间不休市。
+
+　　中国六大国有银行外汇牌价：  
+
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
 　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
@@ -196,14 +200,14 @@ Financial Exchange
 Systemically Important Banks
 
 2020年 → 2021年（30家）
-第五档		空缺  
-第四档 	摩根大通  
-第三档 	法国巴黎银行 汇丰 花旗集团
+五星级		空缺  
+四星级 	摩根大通  
+三星级 	法国巴黎银行 汇丰 花旗集团
 
-第二档  
+二星级  
 	美国银行 中国银行 巴克莱银行 中国建设银行 德意志银行 高盛 中国工商银行 三菱日联银行
 
-第一档	  
+一星级	  
 	中国农业银行 纽约梅隆银行 瑞士信贷 法国BPCE集团 法国农业信贷银行 荷兰国际集团 瑞穗金融集团 摩根士丹利 加拿大皇家银行 桑坦德银行 法国兴业银行 渣打银行 道富集团 三井住友金融集团 多伦多道明银行 瑞银集团 裕信银行 富国银行
 
 注：自2011年起，[金融稳定委员会 FSB](https://www.fsb.org)每年会对全球系统重要性银行名单进行更新
@@ -217,6 +221,8 @@ Systemically Important Banks
 *	20240222，《长江日报》在[人民号网站的文章](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=40005153)：“不在餐桌旁，就在菜单上”，布林肯言论暴露美式霸权逻辑。附视频。
 *	2022年第23期[《中国外汇》](http://www.chinaforex.com.cn/index.php/cms/item-view-id-52044.shtml)刊文：聚焦2022全球外汇市场调查。
 *	20221231，人行就[延长外汇交易时间](https://www.gov.cn/zhengce/2022-12/31/content_5734385.htm)答记者问。
+*	20231215，中国外汇交易中心延长银行间外币对及外币货币市场交易时间的通知，[中汇交发〔2023〕349号](https://www.chinamoney.com.cn/chinese/scggwhscggscggtz/20231215/2772891.html)。
+*	全球主要外汇交易时段：FxGoPlus[普拉斯财经](https://www.fxgoplus.com/major-forex-trading-sessions/)、inVesting[英为财情](https://cn.investing.com/tools/market-hours)
 
 　　（此页尚在施工中……）
 
