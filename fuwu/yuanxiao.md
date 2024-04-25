@@ -8,7 +8,7 @@
 
 　　我国大陆高等院校有约三千所，其中各级本科1200多所，专科（高职/大专）占了一半，余下还有成人高校约250所，这些学校都由教育部公布名单。另有44所军事院校，其中27所（2022年起）面向普通高考招生，大部分不设公开网站。经过2000年前后的大学合并潮、2017年的军改、2022年的独立学院完成转设，这些数字应该不会有剧烈变化。
 
-　　‘高等院校三千所’网页将以‘[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)’形式收录中国高校名单全集和网址，按照 中管、部本、省本、专科 的顺序形成 **中国高校层级图谱**。针对普通高考招生，本页收录网址排除了成人高校，增补了港澳台高校，当高校名单更新到教育部2023年6月版时，高校总数恰好3000整。　请善用浏览器页内查找、统计功能，新手请在电脑上观看本页面。
+　　‘高等院校三千所’网页将以‘[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)’形式收录中国高校名单全集和网址，按照 中管、部本、省本、专科 的顺序形成 **中国高校层级图谱**。2024年本页更新时，转移了台湾高校到‘新高考’页面，保留香港澳门大学，并将逐步添加成教高校网址。　请善用浏览器页内查找、统计功能，新手请在电脑上观看本页面。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/高等院校三千所
@@ -21,9 +21,8 @@
 		　完成率 = 　97.7%	已实际完成
 
 *	202404，正在准备更新近一年的变更数据……
-*	202404，已在页面标记985与211，可见页底部介绍。
-
-*	202308，《高等院校三千所》学校网址应收尽收。v0.8.6
+*	202404，已在页面标记985与211，可见页底部介绍。v0.9.0
+*	202308，《高等院校三千所》学校网址应收尽收，收录当年高校数量恰好3000整。v0.8.6
 *	202308，对国企兴办的高职标记齿轮符号⚙️，已收录80余所。v0.8.5~v0.8.6
 *	202307，清查各省过期/错误网址已经完成，v0.6.8~0.7.9。正在补充完善，v0.8.0~v0.8.4。
 *	202306，已更新到2023年版高校名单3000所+44所军校，收录网址超2000，v0.4.2~v0.6.7。
@@ -43,49 +42,51 @@
 	* 省属本科高校， 737所🥈 <sup>（多为‘二本’）</sup>
 	* 　　民办本科， 424所 ¥，省教育厅主管 <sup>（含11所合作办学）</sup>
 	* 　　专科院校，1545所（高职/大专）：<small>部属 4所，省属 1170所，民办 375所 ¥</small>
-*	[港澳台普通高校 🏫](#D5){:target="_top"}，**180**所，部分面向大陆招生，<small>119所 $ 私立</small>  
-　　　以上合计 3044所，[数据来源 🔢](#D7){:target="_top"} 见页底。
-*	[成人高等院校](#D6){:target="_top"}，252所，<small>高升专/专升本/高升本</small>，本页只收名单不收网址。
+*	[港澳台普通高校 🏫](#D3){:target="_top"}，**180**所，部分面向大陆招生，<small>119所 $ 私立</small>  
+　　　以上合计 3044所，2023年数据
+*	[成人高等院校](#D4){:target="_top"}，252所，<small>高升专/专升本/高升本</small>，本页只收名单不收网址。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
-*	本页[数据来源](#D7){:target="_top"}：教育部等、<sub>改革近况</sub>
-*	[近年高校变更](#D8){:target="_top"}
-*	问题解答：学校网站打不开的原因等
+*	本页[数据来源](#D5){:target="_top"}：教育部等、<sub>改革近况</sub>
+*	[近年高校变更](#D6){:target="_top"}
+*	常见[大学排行榜](#D7){:target="_top"}网站
+*	问题解答：学校[网站打不开](#D8){:target="_top"}的原因等
 
-<h3 id="mulu">各省高校索引 <sup>及 省招办官网</sup></h3>
+<h3 id="mulu">各省高校索引</h3>
 
-<a href="#11" target="_top">11-北京</a>	<sup>[考试院](https://www.bjeea.cn)</sup>　
-<a href="#12" target="_top">12-天津</a>	<sup>[考试院](http://www.zhaokao.net)</sup>　
-<a href="#13" target="_top">13-河北</a>	<sup>[考试院](http://www.hebeea.edu.cn)</sup>　
-<a href="#14" target="_top">14-山西</a>	<sup>[考试院](http://www.sxkszx.cn)</sup>　
-<a href="#15" target="_top">15-内蒙古</a>	<sup>[考试院](https://www.nm.zsks.cn)</sup>　
-<a href="#21" target="_top">21-辽宁</a>	<sup>[考试院](https://www.lnzsks.com)</sup>　
-<a href="#22" target="_top">22-吉林</a>	<sup>[考试院](http://www.jleea.edu.cn)</sup>　
-<a href="#23" target="_top">23-黑龙江</a>	<sup>[考试院](https://www.lzk.hl.cn)</sup>　
-<a href="#31" target="_top">31-上海</a>	<sup>[考试院](https://www.shmeea.edu.cn)</sup>　
-<a href="#32" target="_top">32-江苏</a>	<sup>[考试院](https://www.jseea.cn)</sup>　
-<a href="#33" target="_top">33-浙江</a>	<sup>[考试院](https://www.zjzs.net)</sup>　
-<a href="#34" target="_top">34-安徽</a>	<sup>[考试院](https://www.ahzsks.cn)</sup>　
-<a href="#35" target="_top">35-福建</a>	<sup>[考试院](https://www.eeafj.cn)</sup>　
-<a href="#36" target="_top">36-江西</a>	<sup>[考试院](http://www.jxeea.cn)</sup>　
-<a href="#37" target="_top">37-山东</a>	<sup>[考试院](https://www.sdzk.cn)</sup>　
-<a href="#41" target="_top">41-河南</a>	<sup>[考试院](http://www.heao.com.cn)</sup>　
-<a href="#42" target="_top">42-湖北</a>	<sup>[考试院](http://www.hbea.edu.cn)</sup>　
-<a href="#43" target="_top">43-湖南</a>	<sup>[考试院](http://www.hneao.edu.cn)</sup>　
-<a href="#44" target="_top">44-广东</a>	<sup>[考试院](http://eea.gd.gov.cn)</sup>　
-<a href="#45" target="_top">45-广西</a>	<sup>[考试院](http://www.gxeea.cn)</sup>　
-<a href="#46" target="_top">46-海南</a>	<sup>[考试院](http://ea.hainan.gov.cn)</sup>　
-<a href="#50" target="_top">50-重庆</a>	<sup>[考试院](https://www.cqksy.cn)</sup>　
-<a href="#51" target="_top">51-四川</a>	<sup>[考试院](http://www.sceea.cn)</sup>　
-<a href="#52" target="_top">52-贵州</a>	<sup>[考试院](http://zsksy.guizhou.gov.cn)</sup>　
-<a href="#53" target="_top">53-云南</a>	<sup>[考试院](http://www.ynzs.cn)</sup>　
-<a href="#54" target="_top">54-西藏</a>	<sup>[考试院](http://zsks.edu.xizang.gov.cn)</sup>　
-<a href="#61" target="_top">61-陕西</a>	<sup>[考试院](http://www.sneac.com)</sup>　
-<a href="#62" target="_top">62-甘肃</a>	<sup>[考试院](http://www.ganseea.cn)</sup>　
-<a href="#63" target="_top">63-青海</a>	<sup>[考试院](http://www.qhjyks.com)</sup>　
-<a href="#64" target="_top">64-宁夏</a>	<sup>[考试院](http://www.nxjyks.cn)</sup>　
-<a href="#65" target="_top">65-新疆</a>	<sup>[考试院](http://www.xjzk.gov.cn)</sup>　
-各省按身份证号前两位排序　▼
+　<a href="#11" target="_top">11-北京</a>
+　<a href="#12" target="_top">12-天津</a>
+　<a href="#13" target="_top">13-河北</a>
+　<a href="#14" target="_top">14-山西</a>
+　<a href="#15" target="_top">15-内蒙古</a>
+　<a href="#21" target="_top">21-辽宁</a>
+　<a href="#22" target="_top">22-吉林</a>
+　<a href="#23" target="_top">23-黑龙江</a>
+　<a href="#31" target="_top">31-上海</a>
+　<a href="#32" target="_top">32-江苏</a>
+　<a href="#33" target="_top">33-浙江</a>
+　<a href="#34" target="_top">34-安徽</a>
+　<a href="#35" target="_top">35-福建</a>
+　<a href="#36" target="_top">36-江西</a>
+　<a href="#37" target="_top">37-山东</a>
+　<a href="#41" target="_top">41-河南</a>
+　<a href="#42" target="_top">42-湖北</a>
+　<a href="#43" target="_top">43-湖南</a>
+　<a href="#44" target="_top">44-广东</a>
+　<a href="#45" target="_top">45-广西</a>
+　<a href="#46" target="_top">46-海南</a>
+　<a href="#50" target="_top">50-重庆</a>
+　<a href="#51" target="_top">51-四川</a>
+　<a href="#52" target="_top">52-贵州</a>
+　<a href="#53" target="_top">53-云南</a>
+　<a href="#54" target="_top">54-西藏</a>
+　<a href="#61" target="_top">61-陕西</a>
+　<a href="#62" target="_top">62-甘肃</a>
+　<a href="#63" target="_top">63-青海</a>
+　<a href="#64" target="_top">64-宁夏</a>
+　<a href="#65" target="_top">65-新疆</a>
+　71-台湾　81-香港　82-澳门
+　各省按身份证号前两位排序　▼
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
@@ -94,9 +95,9 @@
 
 　44所，有27所面向高考招生，标记⭐。　军事院校不列入下方‘各省普通高校’段落。
 
-　	国防大学	<small> 中国人民解放军 军委直属 北京市/西安市/上海市/石家庄</small>
-　0	[国防科技大学](http://www.nudt.edu.cn)	<small>⭐ 军委直属，[wb](https://m.weibo.cn/u/7127745503) 长沙市/南京市/武汉市/合肥市</small>
-
+　
+国防大学	<small> 中国人民解放军 军委直属 北京市/西安市/上海市/石家庄</small>  
+　0	[国防科技大学](http://www.nudt.edu.cn)	<small>⭐✊ 军委直属，[wb](https://m.weibo.cn/u/7127745503) 长沙市/南京市/武汉市/合肥市</small>  
 　1	陆军指挥学院	<small>  南京市</small>
 　2	[陆军工程大学](http://www.aeu.edu.cn)	<small>⭐ [军校信息](http://www.81.cn/jx_208569/10137233.html) 南京市/石家庄/重庆市/武汉市/徐州市</small>
 　3	陆军步兵学院	<small>⭐ [军校信息](http://www.81.cn/jx_208569/10162475.html) 南昌市/石家庄</small>
@@ -108,30 +109,30 @@
 　9	陆军防化学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162375.html) 北京市</small>
 　10	[陆军军医大学](http://www.tmmu.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162476.html)，原第三军医大学 重庆市</small>
 　11	陆军军事交通学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162477.html) 天津市/镇江市/蚌埠市</small>
-　12	陆军勤务学院	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm) 重庆市/武汉市</small>
+　12	陆军勤务学院	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm) 重庆市/武汉市</small>  
 　13	海军指挥学院	<small>  南京市</small>
 　14	[海军工程大学](http://www.nue.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162409.html) 武汉市/天津市</small>
 　15	海军大连舰艇学院	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162405.html) 大连市</small>
 　16	[海军潜艇学院](http://www.qtxy.mil.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162414.html) 青岛市</small>
 　17	海军航空大学	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/04/content_7748184.htm) 烟台市/青岛市</small>
-　18	[海军军医大学](http://ao.smmu.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162787.html)，原第二军医大学 上海市</small>
+　18	[海军军医大学](http://ao.smmu.edu.cn)	<small>⭐✌️ [军校信息](https://www.81.cn/jx_208569/10162787.html)，原第二军医大学 上海市</small>
 　19	海军勤务学院	<small>  </small>
 　20	海军士官学校	<small>  蚌埠市</small>
 　21	空军指挥学院	<small>  </small>
-　22	[空军工程大学](http://afeu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162383.html)、[wb](https://m.weibo.cn/u/5193807838) 西安市</small>
+　22	[空军工程大学](http://afeu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162383.html)、[wb](https://m.weibo.cn/u/5193807838) 西安市</small>  
 　23	空军航空大学	<small>⭐ [军网简介](http://www.81.cn/kj/2015-08/06/content_6617753.htm) 长春市/蚌埠市</small>
 　24	空军预警学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10136745.html) 武汉市</small>
 　25	空军哈尔滨飞行学院	<small> [wb](https://weibo.com/hafeiyuan) 哈尔滨市</small>
 　26	空军石家庄飞行学院	<small>  石家庄市</small>
 　27	空军西安飞行学院	<small>  西安市</small>
-　28	[空军军医大学](http://www.fmmu.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162452.html)，原第四军医大学 西安市</small>
+　28	[空军军医大学](http://www.fmmu.edu.cn)	<small>⭐✌️ [军校信息](https://www.81.cn/jx_208569/10162452.html)，原第四军医大学 西安市</small>
 　29	空军勤务学院	<small>  徐州市</small>
 　30	空军通信士官学校	<small>  大连市</small>
 　31	火箭军指挥学院	<small>  武汉市</small>
 　32	火箭军工程大学	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162462.html)、[wb](https://m.weibo.cn/u/6977918761) 西安市</small>
-　33	火箭军士官学校	<small>  青州市</small>
-　34	战略支援部队航天工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10163459.html) 北京市</small>
-　35	战略支援部队信息工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162450.html) 郑州市/洛阳市</small>
+　33	火箭军士官学校	<small>  青州市</small>  
+　34	<del>战略支援部队</del>航天工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10163459.html) 北京市</small>
+　35	<del>战略支援部队</del>信息工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162450.html) 郑州市/洛阳市</small>　新建制等待公布  
 
 　1	武警指挥学院	<small> 中国人民武装警察部队 </small>
 　2	武警工程大学	<small>⭐ [军网简介](http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm) 西安市</small>
@@ -263,12 +264,12 @@
 高职大专43所（4 ¥）：<small>　昌吉回族自治州 <a  href='http://www.xjnzy.edu.cn'>新疆农业职业技术学院</a> 　 <a  href='http://www.cjpt.edu.cn'>昌吉职业技术学院</a> 　 <a  href='http://www.ylzyjs.cn'>伊犁职业技术学院</a> 　 <a  href='http://www.xjbyxy.cn/xygk/xyjj.htm'>巴音郭楞职业技术学院</a> 　石河子市 <a  href='http://www.shzv.edu.cn'>新疆石河子职业技术学院</a>   <i>兵团</i>　伊犁哈萨克自治州 <a  href='http://www.xjyyedu.cn'>新疆应用职业技术学院</a> 　 <a  href='http://www.betltc.cn'>博尔塔拉职业技术学院</a> 　 <a  href='http://www.shzvce.cn'>石河子工程职业技术学院</a>   <i>兵团</i>　阿拉尔市 <a title='头条搜索。可用ip访问：1.13.3.19' href='https://www.tlmzy.com'>塔里木职业技术学院</a>   <i>兵团</i>　 <a  href='http://www.tmgxy.edu.cn'>铁门关职业技术学院</a>   <i>兵团</i>　 <a title='2023新校' href='http://www.bttmskzy.cn'>图木舒克职业技术学院</a>   <i>兵团</i>　 <a title='2023新校。另有同名学校' >可克达拉职业技术学院</a>  4165014826 <i>兵团[新闻](https://www.btzx.com.cn/web/2023/5/18/ARTI1684379535924738.html)</i>　 <a title='2023新校' href='http://www.xxzyjsxy.cn'>新星职业技术学院</a>   <i>兵团</i>　 <a title='2023新校' >昆玉职业技术学院</a>  4165014828 <i>兵团[卫视](https://www.btzx.com.cn/web/2023/4/1/VIDE1680322828126162.html)</i>　五家渠市 ¥ <a title='中文域名！' href='http://新疆科技职业技术学院.com'>新疆科技职业技术学院</a> 　 <a  href='http://www.uvu.edu.cn'>乌鲁木齐职业大学</a> 　乌鲁木齐市 <a  >新疆机电职业技术学院</a>  4165012513 <i>[高教云](https://heec.cahe.edu.cn/school/1910/jianjie)</i>　乌鲁木齐市 <a  href='http://www.xjqg.edu.cn'>新疆轻工职业技术学院</a> 　乌鲁木齐市 <a title='连接缓慢' href='http://www.xjjsxy.net'>新疆建设职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.xjjtedu.com'>新疆交通职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.xjvu.edu.cn'>新疆职业大学</a> 　乌鲁木齐市 <a  >新疆体育职业技术学院</a> 🏃 4165014416　乌鲁木齐市 <a title='连接困难？' href='http://www.xjei.edu.cn'>新疆师范高等专科学校</a> ？  <i>新疆教育学院</i>　乌鲁木齐市 <a  href='http://www.xjtzy.net'>新疆铁道职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.btc.edu.cn'>兴新职业技术学院</a>   <i>兵团</i>　乌鲁木齐市 <a title='新疆钢铁高级技工学校' >新疆工业职业技术学院</a> ⚙️ 4265051060 <i>宝钢集团</i>　乌鲁木齐市 <a title='2023新校' >新疆司法警官职业学院</a> 🛂 4165014805 <i>[法治新闻](http://www.legaldaily.com.cn/index/content/2023-05/30/content_8859628.html)</i>　乌鲁木齐市 ¥ <a  href='http://www.xjnyedu.com'>新疆能源职业技术学院</a> 　乌鲁木齐市 ¥ <a title='域名失效：www.xjxiandai.net' >新疆现代职业技术学院</a>  4165013726　乌鲁木齐市 ¥ <a  href='http://www.kxedu.net'>新疆科信职业技术学院</a> 　 <a  href='http://www.kzjsxy.edu.cn'>克拉玛依职业技术学院</a> 　 <a title='头条搜索' >吐鲁番职业技术学院</a>  4165014585 <i>推测网址：www.tlfzj.com</i>　 <a  href='http://www.hmzyedu.cn'>哈密职业技术学院</a> 　 <a  href='http://www.akszy.com'>阿克苏职业技术学院</a> 　 <a title='2023新校' href='http://www.akszy.edu.cn'>阿克苏工业职业技术学院</a> 　克州 <a  href='http://www.kzvtc.edu.cn'>克孜勒苏职业技术学院</a> 　 <a  >喀什职业技术学院</a>  4165014677　 <a title='2023新校' >喀什理工职业技术学院</a>  4165014824 <i>[招生计划](https://www.ts.cn/xwzx/kjxw/202306/t20230626_14348032.shtml)</i>　 <a title='夜间维护？8月已正常' href='http://www.htnc.edu.cn'>和田师范专科学校</a> 　和田地区 <a title='曾用域名失效：www.xjumc.cn' >新疆维吾尔医学专科学校</a>  4165011818 <i>[阳光高考](https://gaokao.chsi.com.cn/sch/schoolInfoMain--schId-921.dhtml)</i>　 <a  href='http://www.htpt.edu.cn'>和田职业技术学院</a> 　 <a  >塔城职业技术学院</a>  4165014740　 <a  href='http://www.altzyxy.com'>阿勒泰职业技术学院</a>  </small>　　<a href="#mulu" target="_top" title="回各省索引">▲</a>  
 
 
-<div align="right" id="D5"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D3"><a href="#tupu" target="_top">↑ Top</a></div>
 
-港澳台普通高校 🏫
+香港澳门普通高校 🏫
 --------------
 
-　　港澳台高校合计不足200所，过去曾有一半院校面向大陆招生，请注意政策变化。港澳台教育制度与大陆(内地)有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。
+　　香港澳门是两个大城市，合计有30余所大学，一半多院校面向大陆招生，请注意政策变化。港澳台教育制度与大陆(内地)有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。　台湾高校近150所，请见[新高考](xingaokao)页面。
 
 **香港**　22所高校（12 $）自资营运≈民办
 
@@ -313,170 +314,8 @@
 　9 $[澳门管理学院](http://www.mim.edu.mo) 
 　10 $[中西创新学院](http://www.mmc.edu.mo) 
 
-**台湾**　148所高校（101 $）私立≈民办
 
-　2006年3月，[大陆单方面](http://www.moe.gov.cn/jyb_hygq/hygq_zczx/moe_1346/moe_1365/201208/t20120829_141212.html)宣布承认台湾教育行政部门核准的台湾高等学校的学历。  
-　2019年有89所面向大陆普通高考招生，标记🕊。受新冠疫情影响，2020年起教育部暂停了陆生赴台就读试点工作，新的招生政策请见[海峡两岸招生服务中心](https://hxla.gatzs.com.cn/)。  
-　本段只收录普通高校，不收录台湾地区的军警院校(10所)、宗教院校(40所)。  
-
-台湾高等教育体系（一般大学与师范教育）：  
-<small>
-　0001 🔸[公立政治大学](http://www.nccu.edu.tw)🕊️ 台北市
-　0002 🔸[公立清华大学](http://www.nthu.edu.tw)🕊️ 新竹市
-　0003 🔸[公立台湾大学](http://www.ntu.edu.tw)🕊️ 台北市
-　0005 🔸[公立成功大学](http://www.ncku.edu.tw)🕊️ 台南市
-　0006 🔸[公立中兴大学](http://www.nchu.edu.tw)🕊️ 台中市
-　0007 🔸[公立阳明交通大学](http://www.nycu.edu.tw) 新竹市
-　0008 🔸[公立中央大学](http://www.ncu.edu.tw)🕊️ 桃园市
-　0009 🔸[公立中山大学](http://www.nsysu.edu.tw)🕊️ 高雄市
-　0012 [公立台湾海洋大学](http://www.ntou.edu.tw)🕊️ 基隆市
-　0013 🔸[公立中正大学](http://www.ccu.edu.tw)🕊️ 嘉义县
-　0017 [公立台北大学](http://new.ntpu.edu.tw)🕊️ 新北市
-　0018 [公立嘉义大学](http://www.ncyu.edu.tw)🕊️ 嘉义市
-　0019 [公立高雄大学](http://www.nuk.edu.tw)🕊️ 高雄市
-　0020 [公立东华大学](http://www.ndhu.edu.tw)🕊️ 花莲县
-　0021 [公立暨南国际大学](http://www.ncnu.edu.tw)🕊️ 南投县
-　0028 [公立台北艺术大学](http://www.tnua.edu.tw)🕊️ 台北市
-　0029 [公立台湾艺术大学](http://www.ntua.edu.tw)🕊️ 新北市
-　0030 [公立台东大学](http://www.nttu.edu.tw)🕊️ 台东县
-　0031 [公立宜兰大学](http://www.niu.edu.tw)🕊️ 宜兰县
-　0032 [公立联合大学](http://www.nuu.edu.tw)🕊️ 苗栗县
-　0035 [公立台南艺术大学](http://www.tnnua.edu.tw)🕊️ 台南市
-　0036 [公立台南大学](http://web.nutn.edu.tw)🕊️ 台南市
-　0044 [公立体育大学](http://www.ntsu.edu.tw)🕊️ 桃园市
-　0048 [公立金门大学](http://www.nqu.edu.tw)🕊️ 金门县
-　0049 [公立台湾体育运动大学](https://www.ntus.edu.tw/)🕊️ 台中市
-　0052 [公立屏东大学](http://www.nptu.edu.tw)🕊️ 屏东县
-　3002 [台北市立大学](http://www.uTaipei.edu.tw) 台北市
-　1001 $[东海大学](https://www.thu.edu.tw/)🕊️ 台中市
-　1002 $[辅仁大学](http://www.fju.edu.tw)🕊️ 新北市
-　1003 $[东吴大学](http://www.scu.edu.tw)🕊️ 台北市
-　1004 $[中原大学](http://www.cycu.edu.tw)🕊️ 桃园市
-　1005 $[淡江大学](http://www.tku.edu.tw)🕊️ 新北市
-　1006 $[中国文化大学](http://www.pccu.edu.tw)🕊️ 台北市
-　1007 $[逢甲大学](http://www.fcu.edu.tw)🕊️ 台中市
-　1008 $[静宜大学](http://www.pu.edu.tw)🕊️ 台中市
-　1009 🔹$[长庚大学](http://www.cgu.edu.tw)🕊️ 桃园市
-　1010 $[元智大学](http://www.yzu.edu.tw)🕊️ 桃园市
-　1011 $[中华大学](http://www.chu.edu.tw)🕊️ 新竹市
-　1012 $[大叶大学](http://www.dyu.edu.tw)🕊️ 彰化县
-　1013 $[华梵大学](http://www.hfu.edu.tw) 新北市
-　1014 $[义守大学](http://www.isu.edu.tw)🕊️ 高雄市
-　1015 $[世新大学](http://www.shu.edu.tw)🕊️ 台北市
-　1016 $[铭传大学](http://www.mcu.edu.tw)🕊️ 台北市
-　1017 $[实践大学](https://www.usc.edu.tw/)🕊️ 台北市
-　1019 🔹$[高雄医学大学](http://www2.kmu.edu.tw)🕊️ 高雄市
-　1020 $[南华大学](http://www.nhu.edu.tw)🕊️ 嘉义县
-　1021 $[真理大学](http://www.au.edu.tw)🕊️ 新北市
-　1022 $[大同大学](http://www.ttu.edu.tw)🕊️ 台北市
-　1027 $[慈济大学](http://www.tcu.edu.tw)🕊️ 花莲县
-　1028 🔹$[台北医学大学](http://www.tmu.edu.tw)🕊️ 台北市
-　1029 $[中山医学大学](http://www.csmu.edu.tw)🕊️ 台中市
-　1033 $[长荣大学](http://www.cjcu.edu.tw)🕊️ 台南市
-　1035 $[中国医药大学](http://www.cmu.edu.tw)🕊️ 台中市
-　1039 $[玄奘大学](http://www.hcu.edu.tw)🕊️ 新竹市
-　1048 $[亚洲大学](http://www.asia.edu.tw)🕊️ 台中市
-　1049 $[开南大学](http://www.knu.edu.tw)🕊️ 桃园市
-　1050 $[佛光大学](http://www.fgu.edu.tw)🕊️ 宜兰县
-　1058 $[明道大学](http://www.mdu.edu.tw) 彰化县
-　1067 $[台湾首府大学](https://web.tsu.edu.tw/)🕊️ 台南市
-　1079 $[康宁大学](http://www.ukn.edu.tw) 台北市
-　1125 $[中信金融管理学院](https://www.ctbc.edu.tw/)🕊️ 台南市
-　1195 $[马偕医学院](http://www.mmc.edu.tw) 新北市
-　1196 $[法鼓文理学院](http://www.dila.edu.tw) 新北市
-　0004 🔸[公立台湾师范大学](http://www.ntnu.edu.tw)🕊️ 台北市
-　0014 [公立高雄师范大学](http://www.nknu.edu.tw)🕊️ 高雄市
-　0015 [公立彰化师范大学](http://www.ncue.edu.tw)🕊️ 彰化县
-　0037 [公立台北教育大学](http://www.ntue.edu.tw)🕊️ 台北市
-　0039 [公立台中教育大学](http://www.ntcu.edu.tw)🕊️ 台中市
-</small>
-
-台湾技职教育体系（科技大学与技术学院）：  
-<small>
-　0022 [公立台湾科技大学](http://www.ntust.edu.tw)🕊️ 台北市
-　0023 [公立云林科技大学](http://www.yuntech.edu.tw)🕊️ 云林县
-　0024 [公立屏东科技大学](http://www.npust.edu.tw)🕊️ 屏东县
-　0025 [公立台北科技大学](http://www.ntut.edu.tw)🕊️ 台北市
-　0033 [公立虎尾科技大学](http://www.nfu.edu.tw)🕊️ 云林县
-　0042 [公立澎湖科技大学](http://www.npu.edu.tw) 澎湖县
-　0043 [公立勤益科技大学](http://www.ncut.edu.tw)🕊️ 台中市
-　0046 [公立台北护理健康大学](http://www.ntunhs.edu.tw) 台北市
-　0047 [公立高雄餐旅大学](https://www.nkuht.edu.tw) 高雄市
-　0050 [公立台中科技大学](https://www.nutc.edu.tw/)🕊️ 台中市
-　0051 [公立台北商业大学](http://www.ntub.edu.tw)🕊️ 台北市
-　0053 [公立高雄科技大学](http://www.nkust.edu.tw)🕊️ 高雄市
-　0144 [公立台湾戏曲学院](http://www.tcpa.edu.tw)🕊️ 台北市
-　0221 [公立台南护理专科学校](http://www.ntin.edu.tw) 台南市
-　0222 [公立台东专科学校](http://www.ntc.edu.tw) 台东县
-　1018 $[朝阳科技大学](http://www.cyut.edu.tw)🕊️ 台中市
-　1023 $[南台科技大学](http://www.stust.edu.tw)🕊️ 台南市
-　1024 $[崑山科技大学](http://www.ksu.edu.tw)🕊️ 台南市
-　1025 $[嘉南药理大学](http://www.cnu.edu.tw) 台南市
-　1026 $[树德科技大学](http://www.stu.edu.tw)🕊️ 高雄市
-　1030 $[龙华科技大学](http://www.lhu.edu.tw)🕊️ 桃园市
-　1031 $[辅英科技大学](https://www.fy.edu.tw/) 高雄市
-　1032 $[明新科技大学](http://www.must.edu.tw)🕊️ 新竹县
-　1034 $[弘光科技大学](http://www.hk.edu.tw) 台中市
-　1036 $[健行科技大学](http://www.uch.edu.tw) 桃园市
-　1037 $[正修科技大学](http://www.csu.edu.tw) 高雄市
-　1038 $[万能科技大学](http://www.vnu.edu.tw) 桃园市
-　1040 $[建国科技大学](http://www.ctu.edu.tw) 彰化县
-　1041 $[明志科技大学](http://www.mcut.edu.tw) 新北市
-　1042 $[高苑科技大学](http://www.kyu.edu.tw) 高雄市
-　1043 $[大仁科技大学](http://www.tajen.edu.tw) 屏东县
-　1044 $[圣约翰科技大学](https://www.sju.edu.tw/)🕊️ 新北市
-　1045 $[岭东科技大学](http://www.ltu.edu.tw)🕊️ 台中市
-　1046 $[中国科技大学](http://www.cute.edu.tw)🕊️ 台北市
-　1047 $[中台科技大学](http://www.ctust.edu.tw)🕊️ 台中市
-　1051 $[台南应用科技大学](http://www.tut.edu.tw)🕊️ 台南市
-　1052 $[远东科技大学](http://www.feu.edu.tw) 台南市
-　1053 $[元培医事科技大学](http://www.ypu.edu.tw) 新竹市
-　1054 $[景文科技大学](http://www.just.edu.tw)🕊️ 新北市
-　1055 $[中华医事科技大学](http://www.hwai.edu.tw) 台南市
-　1056 $[东南科技大学](http://www.tnu.edu.tw)🕊️ 新北市
-　1057 $[德明财经科技大学](http://www.takming.edu.tw) 台北市
-　1060 $[南开科技大学](http://www.nkut.edu.tw) 南投县
-　1061 $[中华科技大学](http://www.cust.edu.tw) 台北市
-　1062 $[侨光科技大学](http://www.ocu.edu.tw) 台中市
-　1063 $[育达科技大学](http://www.ydu.edu.tw) 苗栗县
-　1064 $[美和科技大学](https://www.meiho.edu.tw/) 屏东县
-　1065 $[吴凤科技大学](http://www.wfu.edu.tw) 嘉义县
-　1066 $[环球科技大学](http://www.twu.edu.tw) 云林县
-　1068 $[中州科技大学](http://www.ccut.edu.tw) 彰化县
-　1069 $[修平科技大学](http://www.hust.edu.tw)🕊️ 台中市
-　1070 $[长庚科技大学](http://www.cgust.edu.tw)🕊️ 桃园市
-　1071 $[台北城市科技大学](https://www.tpcu.edu.tw/) 台北市
-　1072 $[敏实科技大学](https://www.mitust.edu.tw/) 新竹县
-　1073 $[醒吾科技大学](http://www.hwu.edu.tw)🕊️ 新北市
-　1075 $[文藻外语大学](http://www.wzu.edu.tw)🕊️ 高雄市
-　1076 $[华夏科技大学](http://www.hwh.edu.tw) 新北市
-　1077 $[慈济科技大学](http://www.tcust.edu.tw) 花莲县
-　1078 $[致理科技大学](http://www.chihlee.edu.tw) 新北市
-　1080 $[宏国德霖科技大学](http://www.hdut.edu.tw) 新北市
-　1081 $[东方设计大学](http://www.tf.edu.tw)🕊️ 高雄市
-　1082 $[崇右影艺科技大学](http://www.cufa.edu.tw/) 基隆市
-　1083 $[台北海洋科技大学](https://www.tumt.edu.tw/) 新北市
-　1084 $[亚东科技大学](https://www.aeust.edu.tw/) 新北市
-　1148 $[大汉技术学院](http://www.dahan.edu.tw) 花莲县
-　1159 $[和春技术学院](http://www.fotech.edu.tw) 高雄市
-　1168 $[南亚技术学院](http://www.nanya.edu.tw) 桃园市
-　1183 $[黎明技术学院](http://www.lit.edu.tw) 新北市
-　1185 $[经国管理暨健康学院](http://www.cku.edu.tw) 基隆市
-　1188 $[大同技术学院](http://www.ttc.edu.tw) 嘉义市
-　1282 $[马偕医护管理专科学校](http://www.mkc.edu.tw) 台北市
-　1283 $[仁德医护管理专科学校](http://www.jente.edu.tw) 苗栗县
-　1284 $[树人医护管理专科学校](http://www.szmc.edu.tw) 高雄市
-　1285 $[慈惠医护管理专科学校](http://www.tzuhui.edu.tw) 屏东县
-　1286 $[耕莘健康管理专科学校](http://www.ctcn.edu.tw) 新北市
-　1287 $[敏惠医护管理专科学校](https://www.mhchcm.edu.tw/) 台南市
-　1289 $[育英医护管理专科学校](https://www.yuhing.edu.tw/) 高雄市
-　1291 $[圣母医护管理专科学校](http://www.smc.edu.tw) 宜兰县
-　1292 $[新生医护管理专科学校](http://ccwpress.hsc.edu.tw) 桃园市
-　1293 $[崇仁医护管理专科学校](http://www.cjc.edu.tw) 嘉义县
-</small>
-
-
-<div align="right" id="D6"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D4"><a href="#tupu" target="_top">↑ Top</a></div>
 
 成人高校名单
 ------------
@@ -540,7 +379,7 @@
 </small>
 
 
-<div align="right" id="D7"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D5"><a href="#tupu" target="_top">↑ Top</a></div>
 
 数据来源 🔢
 --------
@@ -557,11 +396,12 @@
 
 <h3>改革近况</h3>
 
+*	2024年1月，战略支援部队番号撤销，原属两所军校建制待公布，[新组建信息支援部队](http://www.81.cn/zt/2023nzt/flsxjjbnmbjkjcsjyljd/lhqj_244146/16302472.html)。
 *	2022年12月，中办国办印发《关于[深化现代职业教育体系建设改革](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202212/t20221222_1035691.html)的意见》，教育部举行专题[新闻发布会](http://www.moe.gov.cn/fbh/live/2022/55031/)。
 *	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
 *	2021年5月至7月，十九届中央第七轮巡视对教育部和[31所中管高校](https://www.ccdi.gov.cn/specialn/19zyxsgz/yw19zyxsgz/202104/t20210428_153257.html)党组织开展常规巡视。
 
-<div align="right" id="D8"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D6"><a href="#tupu" target="_top">↑ Top</a></div>
 
 近年高校变更
 ------------
@@ -575,12 +415,22 @@
 　　新增61所院校，其中本科院校4所：郑州美术学院、香港科技大学（广州）、海南比勒费尔德应用科学大学、重庆中医药学院。
 （本页已全部吸收）
 
-<div align="right" id="D9"><a href="#tupu" target="_top">↑ Top</a></div>
+
+<div align="right" id="D7"><a href="#tupu" target="_top">↑ Top</a></div>
+
+常见大学排行榜
+-------------
+
+*	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
+*	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
+
+
+<div align="right" id="D8"><a href="#tupu" target="_top">↑ Top</a></div>
 
 QA 问题解答
 -----------
 
-　　关于志愿填报和高考改革，请见 [gaokao](gaokao) 页面；　关于中央国有企业⚙，请见 [央企股](yangqi)🧧 页面
+　　关于志愿填报和高考改革，请见 [新高考](xingaokao) 页面；　关于中央国有企业⚙，请见 [央企股](yangqi)🧧 页面
 
 <h3>什么是211、985、双一流大学？</h3>
 
@@ -622,7 +472,7 @@ QA 问题解答
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.9.0	202404
+	高等院校三千所	Version 0.9.1	202404
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
