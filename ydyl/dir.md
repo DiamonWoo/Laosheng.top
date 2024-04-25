@@ -15,7 +15,7 @@
 +	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
 +	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，每个省都有的会展中心。（准备改版）
 
-+	./[jiaoyisuo](jiaoyisuo){:target="_top"} 💱 环球金融交易所　Globe Finance（等待设计，Beta）
++	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Globe Finance（新上线）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
@@ -53,7 +53,10 @@
 * 黎巴嫩[国家通讯社/NNA](https://www.nna-leb.gov.lb/en/) en、
 	约旦[佩特拉通讯社](https://www.petra.gov.jo/Include/Main.jsp?lang=en) en、
 	阿拉伯[叙利亚通讯社](https://sana.sy/en/) en
-* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)　更多外媒请见：[一带一路云媒体](./)
+* 伊朗[国家通讯社](https://zh.irna.ir/)📍 zh、
+	努尔新闻网[Nour](https://nournews.ir/Zh/)📍 zh、
+	卡塔尔[半岛电视台](https://chinese.aljazeera.net/palestine-israel-conflict/)📍巴以战争栏目 zh
+* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)📍 zh　更多外媒请见：[一带一路云媒体](./)
 
 
 一带一路官方网址 B&R Web from China
@@ -180,7 +183,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.2	202402
+	一带一路民间站 v3.2.3	202404
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
@@ -194,4 +197,4 @@ https://Laosheng.top
 ☁️🌧️🌤 ⛅ 🌩 ⊙💧🌞💃⏩🎦🔥🛳🏝🌴🐘🦏🦍🦓🦒⛄️🎎👳🗽⭐  
 💐⚜️🔱💮🏵🛡🏛🏚🏠🏡💒🏘🏢🏦🏨🏩🏬🏪🏥🏤🏣🏫🏰☂️  
 💱🏞🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵😐🤔🎭👥🏵🛡🕊️🗣️🗨️🕯️⏲️🕘  
-🔄⬇️↩️↪️↙️↘️↔️↖️☑️♐♏Ⓜ️🔃⤵️⤴️
+🔄⬇️↩️↪️↙️↘️↔️↖️☑️♐♏Ⓜ️🔃⤵️⤴️🐉
