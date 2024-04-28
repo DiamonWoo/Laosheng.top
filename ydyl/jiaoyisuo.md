@@ -137,7 +137,7 @@ Financial Exchange
 Systemically Important Banks (G-SIBs)
 
 　　2010年11月二十国集团(G20)首尔峰会批准了巴塞尔委员会起草的《第三版巴塞尔协议》，首次提出‘全球系统重要性银行’概念，并于2011年公布首批名单。按照资本补充能力，[金融稳定委员会](https://www.fsb.org)FSB把银行分成五档，每年更新名单，大约会有30家银行上榜。  
-　　2023年G-SIBs名单为29家，中国五大银行(中农工建交)全部入选。
+　　2023年G-SIBs名单为 **29** 家，中国五大银行(中农工建交)全部入选。
 
 五星级：空缺  
 四星级：1家　
@@ -154,7 +154,7 @@ Systemically Important Banks (G-SIBs)
 	Bank of China 中国银行📍、  
 　	英国 [Barclays](https://www.home.barclays/)巴克莱银行、
 	法国 [BNP Paribas](http://www.bnpParibas.com/)巴黎银行
-	/[中国](https://www.bnpparibas.com.cn/)、  
+	/[中国](https://www.bnpparibas.com.cn/)📍、  
 　	China Construction Bank 建设银行📍、
 	[Deutsche Bank](https://www.db.com/) 德意志银行、  
 　	美国 [Goldman Sachs](https://www.goldmansachs.com/)高盛
@@ -165,17 +165,20 @@ Systemically Important Banks (G-SIBs)
 	/[中文站](https://www.ubs.com/cn/sc.html)📍  
 一星级：15家  
 　	Bank of Communications 交通银行📍、
-	[Bank of New York Mellon](https://www.bnymellon.com/) 纽约梅隆银行、
+	[Bank of New York Mellon](https://www.bnymellon.com/) 纽约梅隆银行
+	/[中国办事处](https://www.bnymellon.com/cn/ch.html)📍、
 	法国 [Groupe BPCE](https://groupebpce.com/)BPCE银行集团、  
-　	法国 [Groupe Crédit Agricole](https://groupebpce.com/)农业信贷银行、
+　	法国 [Groupe Crédit Agricole](https://www.credit-agricole.com/)农业信贷银行、
 	[ING](https://www.ing.com/) 荷兰国际集团、
-	日本 [Mizuho FG](https://www.mizuho-fg.co.jp/)瑞穗金融集团、  
-　	美国 [Morgan Stanley](https://www.morganstanley.com/)摩根士丹利、
+	日本 [Mizuho FG](https://www.mizuho-fg.co.jp/)瑞穗金融集团
+	[中国业务](https://www.mizuhogroup.com/asia-pacific/china/cn)📍、  
+　	美国 [Morgan Stanley](https://www.morganstanley.com/)摩根士丹利
+	/[中国站](https://www.morganstanleychina.com/)📍、
 	[Royal Bank of Canada](https://www.rbc.com/) 加拿大皇家银行、
 	西班牙 [Santander](https://www.santander.com/)桑坦德银行、  
 　	法国[Société Générale](https://www.societegenerale.com/)兴业银行、
 	英国 [Standard Chartered](https://www.sc.com/)渣打银行
-	/[中国](https://www.sc.com/cn/)、
+	/[中国](https://www.sc.com/cn/)📍、
 	美国 [State Street](https://www.statestreet.com/)道富银行、  
 　	日本 [Sumitomo Mitsui FG](https://www.smfg.co.jp/)三井住友金融集团、
 	加拿大 [Toronto Dominion](https://www.td.com/)多伦多道明银行
@@ -186,11 +189,11 @@ Systemically Important Banks (G-SIBs)
 中国境内的外资银行 💳
 -----------------
 
-外资法人银行（41家，前3家由银保监会监管）：  
+　　外资法人银行41家（前3家由银保监会监管）：
+
 　[东亚银行](https://www.hkbea.com.cn "东亚银行（中国）有限公司 ")	-----
 　[汇丰银行](https://www.hsbc.com.cn "汇丰银行（中国）有限公司 ")🔼	-----
-　[渣打银行](https://www.sc.com "渣打银行（中国）有限公司 ")🔼	-----
-
+　[渣打银行](https://www.sc.com "渣打银行（中国）有限公司 ")🔼	-----  
 　<a title="蒙特利尔银行（中国）有限公司 ">蒙特利尔银行</a>
 　<a title="新联商业银行 ">新联商业银行</a>
 　<a title="德意志银行（中国）有限公司 ">德意志银行</a>🔼
@@ -230,11 +233,11 @@ Systemically Important Banks (G-SIBs)
 　<a title="玉山银行（中国）有限公司 ">玉山银行</a>（台资）
 [中信银行国际](https://www.cncbinternational.com/home/sc "中信银行国际（中国）有限公司 ")（中资）　
 
-外国及港澳台银行的中国分行（括注境内主报告行），（）留空的主报告行均为上海分行。
+　　境外银行的中国分行42家（括注境内主报告行），（）留空的主报告行均为上海分行。
 
-　　德国商业银行（） 巴克莱银行🔼（） [美国银行](https://www.bankofamerica.com)🔼（） 荷兰安置银行（） 比利时联合银行（） 挪威银行（） 加拿大丰业银行（广州分行） 桑坦德银行🔼（） 意大利裕信银行（） 瑞士信贷银行（） 意大利联合圣保罗银行（） 法国外贸银行（） 纽约梅隆银行🔼（） 德国西德银行（） 马来亚银行（） 富通银行（） 大众银行（香港）（深圳分行） 瑞典商业银行（） 印度国家银行（） 三井住友信托银行（） 北德意志州银行（） 北欧斯安银行（） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（） 西太平洋银行（） 西雅那银行（） 北欧银行（） 美联银行（） 台湾土地银行（） 第一商业银行（） 俄罗斯外贸银行（） 巴西银行（） 大邱银行（） 埃及国民银行（） 澳洲联邦银行（） 台湾中小企业银行（） 卡纳拉银行（） 印度尼西亚曼底利银行（） 韩国产业银行（） 台湾银行（） 联昌国际银行（） 哈比银行（乌鲁木齐分行）
+　德国商业银行（） 巴克莱银行🔼（） [美国银行](https://www.bankofamerica.com)🔼（） 荷兰安置银行（） 比利时联合银行（） 挪威银行（） 加拿大丰业银行（广州分行） 桑坦德银行🔼（） 意大利裕信银行（） 瑞士信贷银行（） 意大利联合圣保罗银行（） 法国外贸银行（） 纽约梅隆银行🔼（） 德国西德银行（） 马来亚银行（） 富通银行（） 大众银行（香港）（深圳分行） 瑞典商业银行（） 印度国家银行（） 三井住友信托银行（） 北德意志州银行（） 北欧斯安银行（） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（） 西太平洋银行（） 西雅那银行（） 北欧银行（） 美联银行（） 台湾土地银行（） 第一商业银行（） 俄罗斯外贸银行（） 巴西银行（） 大邱银行（） 埃及国民银行（） 澳洲联邦银行（） 台湾中小企业银行（） 卡纳拉银行（） 印度尼西亚曼底利银行（） 韩国产业银行（） 台湾银行（） 联昌国际银行（） 哈比银行（乌鲁木齐分行）
 
-中德合资银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001。
+　　中德合资银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001。
 
 
 ……
