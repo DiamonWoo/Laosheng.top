@@ -85,36 +85,30 @@ Stock Exchange Top25 2021
 *	英国 [伦敦证券交易所](https://www.londonstockexchange.com) LondonStockExchange
 *	#[印度国家证券交易所](http://www.nse-india.com) NSE
 *	加拿大 [多伦多证券交易所](https://www.tsx.com) TSX
-*	
-*	印度 [孟买证券交易所](https://www.bseindia.com/) ? 疑似故障
-*	德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
-	* 法兰克福证券交易所
-*	[瑞士证券交易所](https://www.six-group.com/en)🍴
-*	大韩民国 [韩国交易所](http://global.krx.co.kr/cn/)📍 KRX
-*	欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)
-*	澳大利亚 [澳洲证券交易所](https://www2.asx.com.au) ASX
-*	台湾地区 [台湾证券交易所](https://www.twse.com.tw/zh/)📍 TWSE
-*	[巴西证券交易所](https://www.b3.com.br/en_us/)🍴
-*	[南非证券交易所](https://www.jse.co.za)
-*	[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴
-*	
-*	[新加坡交易所](https://www.sgx.com/zh-hans/)📍 SGX　新交所
-	* 2016年收购 波罗的海交易所
-*	俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)
-*	[泰国证券交易所](https://classic.set.or.th/)🍴
-*	印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴
-*	[马来西亚证券交易所](https://www.bursamalaysia.com/cn/)📍 BursaMalaysia
+
+　印度 [孟买证券交易所](https://www.bseindia.com/) ? 疑似故障、
+　德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
+	/ 法兰克福证券交易所、  
+　[瑞士证券交易所](https://www.six-group.com/en)🍴、
+　[韩国交易所](http://global.krx.co.kr/cn/)📍 KRX、
+　欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)、  
+　澳大利亚 [澳洲证券交易所](https://www2.asx.com.au) ASX、
+　[台湾证券交易所](https://www.twse.com.tw/zh/)📍 TWSE、
+　[巴西证券交易所](https://www.b3.com.br/en_us/)🍴、  
+　[南非证券交易所](https://www.jse.co.za)、
+　[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴、
+　[新加坡交易所](https://www.sgx.com/zh-hans/)📍 SGX
+	/ 2016年收购 波罗的海交易所、  
+　俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)、
+　[泰国证券交易所](https://classic.set.or.th/)🍴、
+　印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴、
+　[马来西亚证券交易所](https://www.BursaMalaysia.com/cn/)📍
 
 
 更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
 [成员名单](https://www.world-exchanges.org/membership-events)
 
-+ [瑞士证券交易所](https://www.six-group.com/en/)🍴
-+ [哈萨克斯坦证券交易所](https://kase.kz/en/)🍴
-+ 越南[胡志明市证券交易所](https://www.hsx.vn/)
-+ [尼日利亚交易所集团](https://ngxgroup.com/)🍴
-+ [菲律宾证券交易所](https://www.pse.com.ph/)
-+ []()
+　　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)　
 
 
 <h2 id="D5">港澳台金融交易所 📍</h2>
@@ -157,16 +151,16 @@ Systemically Important Banks
 	[HSBC](https://www.hsbc.com/) 汇丰
 	/[汇丰香港](https://www.hsbc.com.hk/zh-cn/ "香港上海汇丰银行有限公司")📍  
 二星级：10家  
-　	中国农业银行📍 Agricultural Bank of China、
-	中国银行📍 Bank of China、  
+　	Agricultural Bank of China 中国农业银行📍、
+	Bank of China 中国银行📍、  
 　	#[Barclays](https://www.home.barclays/) 巴克莱银行、
 	#[BNP Paribas](http://www.bnpparibas.com/en/) 法国巴黎银行
 	/#[中国](https://www.bnpparibas.com.cn/)、  
-　	建设银行📍 China Construction Bank、
+　	China Construction Bank 建设银行📍、
 	#[Deutsche Bank](https://www.db.com/) 德意志银行、  
 　	[Goldman Sachs](https://www.goldmansachs.com/) 高盛
 	/[大中华区](https://www.goldmansachs.com/worldwide/greater-china/)📍、
-	工商银行📍 Industrial and Commercial Bank of China、  
+	Industrial and Commercial Bank of China 工商银行📍、  
 　	#[Mitsubishi UFJ FG](https://www.mufg.jp/) 三菱UFJ金融集团、
 	#[UBS](https://www.ubs.com/global/en.html) 瑞银集团
 	/[中文站](https://www.ubs.com/cn/sc.html)📍  
@@ -194,16 +188,16 @@ Systemically Important Banks
 
 外资法人银行（41家，前3家由银保监会监管）：  
 　[东亚银行](https://www.hkbea.com.cn "东亚银行（中国）有限公司 ")	-----
-　🔼[汇丰银行](https://www.hsbc.com.cn "汇丰银行（中国）有限公司 ")	-----
+　[汇丰银行](https://www.hsbc.com.cn "汇丰银行（中国）有限公司 ")🔼	-----
 　[渣打银行](https://www.sc.com "渣打银行（中国）有限公司 ")	-----
 
 　<a title="蒙特利尔银行（中国）有限公司 ">蒙特利尔银行</a>
 　<a title="新联商业银行 ">新联商业银行</a>
-　<a title="德意志银行（中国）有限公司 ">德意志银行</a>
+　<a title="德意志银行（中国）有限公司 ">德意志银行</a>🔼
 　<a title="法国兴业银行（中国）有限公司 ">法国兴业银行</a>
 　<a title="国民银行（中国）有限公司 ">国民银行</a>
 　<a title="韩亚银行（中国）有限公司 ">韩亚银行</a>
-　<a href="https://www.jpmorganchina.com.cn/zh/about-us" title="摩根大通银行（中国）有限公司">摩根大通银行</a>
+　<a href="https://www.jpmorganchina.com.cn/zh/about-us" title="摩根大通银行（中国）有限公司">摩根大通银行</a>🔼
 　<a title="瑞士银行（中国）有限公司 ">瑞士银行</a>
 　<a title="新韩银行（中国）有限公司 ">新韩银行</a>
 　<a title="友利银行（中国）有限公司 ">友利银行</a>
@@ -211,11 +205,11 @@ Systemically Important Banks
 　<a title="澳大利亚和新西兰银行（中国）有限公司 ">澳大利亚和新西兰银行</a>
 　<a href="https://www.uobchina.com.cn" title="大华银行（中国）有限公司 ">大华银行</a>
 　<a title="东方汇理银行（中国）有限公司 ">东方汇理银行</a>
-　<a title="法国巴黎银行（中国）有限公司 ">法国巴黎银行</a>
+　<a title="法国巴黎银行（中国）有限公司 ">法国巴黎银行</a>🔼
 　<a title="富邦华一银行有限公司 ">富邦华一银行</a>（台资）
 　<a title="国泰世华银行（中国）有限公司 ">国泰世华银行</a>（台资）
 　<a href="https://www.hangseng.com.cn" title="恒生银行（中国）有限公司 ">恒生银行</a>
-　<a href="https://www.citibank.com.cn" title="花旗银行（中国）有限公司 ">花旗银行</a>
+　<a href="https://www.citibank.com.cn" title="花旗银行（中国）有限公司 ">花旗银行</a>🔼
 　<a title="华美银行（中国）有限公司 ">华美银行</a>
 　<a title="华侨永亨银行（中国）有限公司 ">华侨永亨银行</a>
 　<a href="https://www.ncbchina.cn" title="南洋商业银行（中国）有限公司 ">南洋商业银行</a>（中资）
@@ -229,18 +223,18 @@ Systemically Important Banks
 　<a title="首都银行（中国）有限公司 ">首都银行</a>
 　<a title="永丰银行（中国）有限公司 ">永丰银行</a>（台资）
 　<a title="彰银商业银行有限公司 ">彰银商业银行</a>
-　<a title="摩根士丹利国际银行（中国）有限公司 ">摩根士丹利国际银行</a>
+　<a title="摩根士丹利国际银行（中国）有限公司 ">摩根士丹利国际银行</a>🔼
 　<a title="大新银行（中国）有限公司 ">大新银行</a>
 　<a title="华商银行 ">华商银行</a>（中资）
 　<a title="开泰银行（中国）有限公司 ">开泰银行</a>
 　<a title="玉山银行（中国）有限公司 ">玉山银行</a>（台资）
 [中信银行国际](https://www.cncbinternational.com/home/sc "中信银行国际（中国）有限公司 ")（中资）　
 
-住房储蓄银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001，中德合资
-
 外国及港澳台银行的中国分行（括注境内主报告行）	
 
-　　德国商业银行（上海分行） 巴克莱银行（上海分行） 🔼[美国银行](https://www.bankofamerica.com)（上海分行） 荷兰安置银行（上海分行） 比利时联合银行（上海分行） 挪威银行（上海分行） 加拿大丰业银行（广州分行） 桑坦德银行（上海分行） 意大利裕信银行（上海分行） 瑞士信贷银行（上海分行） 意大利联合圣保罗银行（上海分行） 法国外贸银行（上海分行） 纽约梅隆银行（上海分行） 德国西德银行（上海分行） 马来亚银行（上海分行） 富通银行（上海分行） 大众银行（香港）（深圳分行） 瑞典商业银行（上海分行） 印度国家银行（上海分行） 三井住友信托银行（上海分行） 北德意志州银行（上海分行） 北欧斯安银行（上海分行） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（上海分行） 西太平洋银行（上海分行） 西雅那银行（上海分行） 北欧银行（上海分行） 美联银行（上海分行） 台湾土地银行（上海分行） 第一商业银行（上海分行） 俄罗斯外贸银行（上海分行） 巴西银行（上海分行） 大邱银行（上海分行） 埃及国民银行（上海分行） 澳洲联邦银行（上海分行） 台湾中小企业银行（上海分行） 卡纳拉银行（上海分行） 印度尼西亚曼底利银行（上海分行） 韩国产业银行（上海分行） 台湾银行（上海分行） 联昌国际银行（上海分行） 哈比银行（乌鲁木齐分行）
+　　德国商业银行（上海分行） 巴克莱银行🔼（上海分行） [美国银行](https://www.bankofamerica.com)🔼（上海分行） 荷兰安置银行（上海分行） 比利时联合银行（上海分行） 挪威银行（上海分行） 加拿大丰业银行（广州分行） 桑坦德银行（上海分行） 意大利裕信银行（上海分行） 瑞士信贷银行（上海分行） 意大利联合圣保罗银行（上海分行） 法国外贸银行（上海分行） 纽约梅隆银行（上海分行） 德国西德银行（上海分行） 马来亚银行（上海分行） 富通银行（上海分行） 大众银行（香港）（深圳分行） 瑞典商业银行（上海分行） 印度国家银行（上海分行） 三井住友信托银行（上海分行） 北德意志州银行（上海分行） 北欧斯安银行（上海分行） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（上海分行） 西太平洋银行（上海分行） 西雅那银行（上海分行） 北欧银行（上海分行） 美联银行（上海分行） 台湾土地银行（上海分行） 第一商业银行（上海分行） 俄罗斯外贸银行（上海分行） 巴西银行（上海分行） 大邱银行（上海分行） 埃及国民银行（上海分行） 澳洲联邦银行（上海分行） 台湾中小企业银行（上海分行） 卡纳拉银行（上海分行） 印度尼西亚曼底利银行（上海分行） 韩国产业银行（上海分行） 台湾银行（上海分行） 联昌国际银行（上海分行） 哈比银行（乌鲁木齐分行）
+
+住房储蓄银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001，中德合资
 
 
 ……
