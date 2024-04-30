@@ -1,6 +1,6 @@
 中央有关部门集 🕰
 ================
-大萌 2021-2023 （待更新）	<base target="_blank">
+大萌 2021-2023，2024（更新中）	<base target="_blank">
 
 		一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
 
@@ -9,6 +9,7 @@
 　　**部门集**依据有关文件，汇编了党中央国务院、两会两院有关部门的官方网站、网络检索与互动平台、全国统一电话号码☎️、中央一级部门的所有免费数字报📰、直属院校🙋……　12345电话号码📞是国务院统一设立的地方政务服务便民热线，要求全国2021年实现7x24小时全天候、全部门覆盖。某些部门的其他热线号码将以双号并行或设置分中心的形式，与12345同时存在。12345电话默认接通当地座席，按市话计费，如需异地通话，请加拨长途区号。各地电话区号可见[千县网](qianxian)。
 
 　　中央有少数部门不设公开网站，比如中央军委、中央办公厅；还有中宣部，虽然每个所属的新闻媒体都有网站，但中宣部本身不设网站。　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。新冠病毒疫情以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。
+
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/中央有关部门集
 </div>
@@ -28,6 +29,7 @@
 改革近况
 -------
 
+		* 2024/2/22，全国社会工作部部长、信访局局长座谈会在京召开。
 		* 2023/5/19，国家金融监督管理总局 挂牌，网站沿用原银保监会。
 		* 2023/3/7，国家数据局 成立，由国务院发改委管理，网址待公布。
 		* 2023/3/7，国家信访局 升级为国务院直属机构，原属国务院办公厅。
@@ -225,10 +227,11 @@
 
 4.1 中共中央职能部门 1+5
 -----------------------
+
 	2018年《深化党和国家机构改革方案》
 	　推进职责相近的党政机关合并设立或合署办公，优化部门职责，提高党把方向、谋大局、定政策、促改革的能力和定力，确保党的领导全覆盖
 
-* 中共中央办公厅	　 中办[]()
+* 中央办公厅	　 中办[]()
 	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
 	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
@@ -236,7 +239,7 @@
 	- +【中央国家安全委员会办公室】
 	- 🙋直属高校（1所）：[北京电子科技学院](https://www.besti.edu.cn/) （北京丰台，培养保密与信息安全人才）
 
-* 中共中央组织部	　 中组部
+* 中央组织部	　 中组部
 	- [12371 共产党员网](http://www.12371.cn) / [党章党规](https://www.12371.cn/special/dnfg/)
 	- 中组部[介绍](http://news.12371.cn/dzybmbdj/zzb/) / [各省](https://news.12371.cn/zzgzdt/)组织工作
 	- 全国[党建网站联盟](http://dwlm.12371.cn/)地图	（中央部委/中管金融/中管企业/中管高校）
@@ -248,7 +251,7 @@
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
 
-* 中共中央宣传部	　 中宣部　[*直属中央媒体*](../fly)
+* 中央宣传部	　 中宣部　[*直属中央媒体*](../fly)
 	- ☎️ 12361 宣传舆情研究中心 服务电话
 	  - 学习强国[网站](https://www.xuexi.cn/) 和App，值班电话：010-55624303、010-55624311。
 	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
@@ -277,11 +280,16 @@
 	- [网站英文版](https://www.idcpc.org.cn/english/)
 	- [世界政党](https://www.idcpc.org.cn/wdzs/sjzd/)动态，各种选举与领导人新闻。
 
-* 中共中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/) 中国长安网
+* 中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/) 中国长安网
 	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
 	- ☎️ [12337](http://www.12337.gov.cn/) 政法干警违纪违法举报平台 政法队伍教育整顿/扫黑除恶专项斗争
 	- 微信公众号：中央政法委长安剑
 	- 📰[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
+
+* 中央社会工作部	　 网址未公布
+	- 领导全国信访工作、志愿者工作
+	- 北京日报：[社工部机构职能特点](https://www.ccps.gov.cn/xwpd/mtsd/202307/t20230717_158662.shtml)及央地对应关系答问
+
 
 <div id="4.2" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -417,44 +425,43 @@
 
 5.2 国务院直属事业单位
 --------------------
+
 * 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
 	- 《参考消息》、📰《中国证券报》等，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
 	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
+
 * 中央广播电视总台	　CMG 暂无官网
 	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
 	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
+
 * 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 📰[《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
 	- [中国天气网](http://www.weather.com.cn) 预报预警、雷达云图、天气新闻、气象科普……
 	  - 📠 400-6000-121 气象服务热线，咨询、建议、合作与投诉
 	  - 📠 12121 天气预报查询 
 	- 国家气象中心（[中央气象台](http://www.nmc.cn/)）降水预报、天气实况、城市预报、台风海洋……
 	- 华风气象传媒集团 ☁[中国气象频道](http://www.weathertv.cn/) 能直播吗？（央视《新闻联播》后的天气预报栏目）
+
 * 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
 	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
 	- 🙋直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
+
 * 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，📰[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
 	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
 	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
 	- 🙋直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
 	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
+
 * 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
 	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
 	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
 	- 中国工程[科技知识中心](http://www.ckcest.cn/)
 	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
-* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 银监会/保监会2018整合
-	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
-	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
-	- 全国36个派出机构
-* 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
-	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
-	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
-	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
 
 * 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) 📰[《中国经济时报》](http://jjsb.cet.com.cn)
 	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
 	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
 	- 国研网 [统计数据库](http://data.drcnet.com.cn/) 宏观经济、区域经济、重点行业、世界经济
+
 * 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
 	- [网上党校](https://wsdx.ccps.gov.cn/)
 
@@ -474,17 +481,12 @@
 	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
 	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
 	- 🙋 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
+
 * 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/) 市监总局
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
 	-  《中国市场监管报》、📰[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
 	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
 	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心
-	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】
-	- &【国家标准化管理[委员会](http://www.sac.gov.cn/)】	　 国家标准委
-	  - 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
-	  - 国务院[国家标准信息查询](http://www.gov.cn/fuwu/bzxxcx/bzh.htm)，可查国标、行标、地方标准。
-	  - [国家标准](http://openstd.samr.gov.cn/bzgk/gb/)全文公开系统 强制性国标超两千项，推荐性GB三万多项； 
-	  - [行业标准](http://hbba.sacinfo.org.cn/)信息服务平台 行业标准大约七万件，工信部独占四万七千件以上。
 	- 国家药品监督管理局	　 [NMPA.gov.cn](https://www.nmpa.gov.cn/) 药监局
 	  - 📰[《医药经济报》](http://news.yyjjb.com.cn)
 	  - 药品、医疗器械、化妆品[数据查询](https://www.nmpa.gov.cn/datasearch/) 网上药店
@@ -492,45 +494,70 @@
 	  - [政务服务](https://www.cnipa.gov.cn/col/col1510/) 专利公告、商标查询、地理标志、集成电路……
 	  - [公共服务](http://ggfw.cnipa.gov.cn:8010/PatentCMS_Center/) %专利检索与分析、代理查询、文献服务……
 	- 🙋 直属院校（1所）国家市场监督管理总局[行政学院](http://www.sasamr.org.cn/) 深圳市
+	- &【国家认证认可监督管理[委员会](http://www.cnca.gov.cn/)】
+	- &【国家标准化管理[委员会](http://www.sac.gov.cn/)】	　 国家标准委
+	  - 中国标准出版社 [中国标准在线服务网](https://www.spc.org.cn/) 有国外国际标准，部分收费。
+	  - 国务院[国家标准信息查询](http://www.gov.cn/fuwu/bzxxcx/bzh.htm)，可查国标、行标、地方标准。
+	  - [国家标准](http://openstd.samr.gov.cn/bzgk/gb/)全文公开系统 强制性国标超两千项，推荐性GB三万多项； 
+	  - [行业标准](http://hbba.sacinfo.org.cn/)信息服务平台 行业标准大约七万件，工信部独占四万七千件以上。
 
 * 🏆 国家体育总局	　 [Sport.gov.cn](http://www.sport.gov.cn/)⚽
 	- 🙋 直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
 	- 
 * 国家国际发展合作署　	 [CIDCA.gov.cn](http://www.cidca.gov.cn/)
+
 * 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
+
 * 国家税务总局	　 [ChinaTax.gov.cn](http://www.chinatax.gov.cn/)
 	- 📞 12366 [全纳税服务平台](https://12366.chinatax.gov.cn/) 设分中心
 	- 📠 010-61986755 [税收违法行为检举](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)，同时接受书信、传真等形式检举：涉嫌偷税，逃避追缴欠税，骗税，虚开、伪造、非法提供、非法取得发票。
+
 * 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
 	📰[《中国信息报》](http://www.zgxxb.com.cn/epaper)
 	- 📠 010-68512113 统计违法行为的举报，接受电子邮件和[网页举报](http://www.stats.gov.cn/tjfw/tsjb/)。	　 [统计督察情况](http://www.stats.gov.cn/ztjc/tjfzjs/tjdc/)
+
 * 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
 	- 📞 12393 [医疗保障服务平台](https://fuwu.nhsa.gov.cn/nationalHallSt/#/home) 双号并行 贵州省首家开通
 	- 📠 010-89061396，89061397 （工作时间）[打击欺诈骗保](http://www.nhsa.gov.cn/col/col73/)举报电话，网络举报通道请见【置顶】文章，微信平台已开通。
+
 * 国家机关事务管理局	　 [GGJ.gov.cn](http://www.ggj.gov.cn/)
 	- 中央机构采购网
+
 * 📡 国家广播电视总局	　 [NRTA.gov.cn](http://www.nrta.gov.cn/) 广电总局
 	- [政务服务平台](https://zw.nrta.gov.cn/) 电视剧审查、动画片审查、卫星地面接收 *2018年，电影管理职责划转中宣部*
 	- 广播电视播出机构名录： 2021年9月版、[2020年12月版](http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html)、2019年12月版。
+
 * 国家新闻出版署+⋙【中央宣传部】　	 [NPPA.gov.cn](http://www.nppa.gov.cn/)
 	- （国家版权局）
+
 * 国家宗教事务局 +⋙【中央统战部】　	 [SARA.gov.cn](http://www.sara.gov.cn/)
 	- 宗教基础信息查询 场所/院校
 
 * 国家反垄断局	　 [网址待公布](https://www.samr.gov.cn/xw/zj/202111/t20211118_336974.html) 2021年11月亮相，承办国务院反垄断委员会日常工作。
 	- 。。。
 
+* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 银监会/保监会2018整合
+	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
+	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
+	- 全国36个派出机构
+
+* 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
+	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
+	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
+	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
+
+
 <div id="5.4" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5.4 国务院26个部委 🏢
+5.4 国务院组成部门 🏢
 -----------------
-及〖部委管理的国家局〗17个
+部委26个 及〖部委管理的国家局〗17个
 
-	1982年《国务院组织法》第八条
-	　国务院各部、各委员会的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；
-	　在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。
+　　
+各部委对外名称并不是‘国务院某某部’，而是‘中华人民共和国某某部’，本页面简称为‘某某部’。十八大后，国务院的部门做过较大调整；二十大后，国务院继续落实[机构改革方案](https://www.gov.cn/xinwen/2023-03/11/content_5745977.htm)，国务院网站原‘组织机构’页面已经撤下，本页等待官方更新，暂时保持[原有部门顺序](https://www.zhihu.com/question/28026852)。
 
-　　十八大后，国务院的部门做了较大调整，目前下属26个部委（21部），各部委对外名称并不是‘国务院某某部’，而是‘中华人民共和国某某部’，本页面简称为‘某某部’。 *2021/4/14，国务院部委段落(3.1)严格按照官网排序*，各部门排序依据可参见[知乎](https://www.zhihu.com/question/28026852)。 
+		2023年《国务院组织法》第十一条
+		　国务院组成部门的设立、撤销或者合并，经总理提出，由全国人民代表大会决定；在全国人民代表大会闭会期间，由全国人民代表大会常务委员会决定。国务院组成部门确定或者调整后，由全国人民代表大会或者全国人民代表大会常务委员会公布。
 
 * 外交部	　 [FMPRC.gov.cn](https://www.fmprc.gov.cn)
 	- ☎️ 12308 全球领事保护与应急热线 （境外打回北京需加拨国际区号：+86-10-12308）
@@ -679,6 +706,7 @@
 	- [水知识](http://www.mwr.gov.cn/szs) 与 水情播报
 	- 📞 12314 全国涉水问题[监督举报](http://supe.mwr.gov.cn/) 水资源、、水利工程、水土保持、水库移民
 	- 
+
 * 🌻 农业农村部	　 [MOA.gov.cn](http://www.moa.gov.cn/)	📰[《农民日报》](http://szb.farmer.com.cn)  
 	- 📞 12316 全国农业系统公益服务电话 双号并行 
 	- 真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
@@ -686,6 +714,7 @@
 	- 📞 12317 全国扶贫监督举报平台电话 双号并行 <!-- [乡村振兴专栏](http://www.moa.gov.cn/ztzl/xczx/) -->
 	- 〖[国家乡村振兴局](http://www.cpad.gov.cn/)〗CPAD.gov.cn 	　2021年2月挂牌，原国务院扶贫办整体改组	　[乡村振兴促进法](http://www.moa.gov.cn/gk/zcfg/fl/202105/t20210507_6367254.htm)自2021年6月1日起施行。
 	- 与 国家林业和草原局 共同发布 《国家重点保护野生动物名录》。
+
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- ☎️ 12335 [中国外经贸企业服务网](http://12335.mofcom.gov.cn)　 涉外贸易
 	- [中国保护知识产权网](http://ipr.mofcom.gov.cn )	　 多双边知识产权条约
@@ -702,6 +731,7 @@ MCT，Ministry of Culture and Tourism
 	- 社会艺术水平[考级机构名单](https://zwfw.mct.gov.cn/shysspkjjg?)
 	- [云游中国](https://lyfw.mct.gov.cn/)国家5A级景区318家、中国[红色旅游网](http://www.redtourism.com.cn)、[长城国家文化公园](http://changcheng.ctnews.com.cn/)网、长征国家文化公园
 	- （+国家文物局）
+
 * 🏥 国家卫生健康委员会	　 [NHC.gov.cn](http://www.nhc.gov.cn ) 卫健委，（2013年卫生部撤销，2018年卫计委撤销） 📰[《健康报》](http://szb.jkb.com.cn/jkbpaper)
 	- 🚨 120 医疗专用急救电话	　 🚑
 	- [‘服务’栏目](http://www.nhc.gov.cn/wjw/fuw/fuwu.shtml)：基本药物目录，医生执业资格查询，食品安全国家标准 等
@@ -723,6 +753,7 @@ MCT，Ministry of Culture and Tourism
 * 🎖️ 退役军人事务部	　 [MVA.gov.cn](http://www.mva.gov.cn)
 	- 军队转业干部安置服务信息系统  	退役军人网上信访服务
 	- [中华英烈网](http://www.chinamartyrs.gov.cn)
+
 * 🚒 应急管理部	　 [MEM.gov.cn](http://www.mem.gov.cn )	　 📰[《中国应急管理报》](http://paper.aqsc.cn)
 	- 📞 12350 事故举报电话 双号并行
 	- 国家防汛抗旱总指挥部……
@@ -735,6 +766,7 @@ MCT，Ministry of Culture and Tourism
 	- [中国应急信息网](https://www.emerinfo.cn)灾情快报、救援现场 / 全球灾害数据平台	　 
 	*国家应急广播 请参见 3.5段落 广电总台部分*
 	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
+
 * 💹 中国人民银行	　 [PBC.gov.cn](http://www.pbc.gov.cn )
 	- [机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)：内设部门、上海总部、直属机构、分支机构。	　 拒收人民币/现金？依据[《中国人民银行公告〔2020〕第18号》](http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4153528/index.html)，请向就近的分支机构（全国36个分行/中心支行）电话举报。
 	- ＋【国家外汇管理局】	　 [Safe.gov.cn](https://www.safe.gov.cn)
@@ -750,9 +782,11 @@ MCT，Ministry of Culture and Tourism
 
 5.5 国务院直属特设机构
 ---------------------
+
 * 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国资委
 	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
 	- 中国钢铁新闻网 📰[《中国冶金报》](http://epaper.csteelnews.com)
+
 * 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
 	- 📰[《中华合作时报》](http://szb.zh-hz.com ) 
 
@@ -765,13 +799,14 @@ MCT，Ministry of Culture and Tourism
 
 编制依据
 --------
+
+* 2023年[《国务院组织法](https://www.gov.cn/yaowen/liebiao/202403/content_6938923.htm)
 * 1982年[《国务院组织法》](http://www.gov.cn/guoqing/2005-09/13/content_2616820.htm )
 * 2018年 国务院网站 [中共中央印发《深化党和国家机构改革方案》](http://www.gov.cn/zhengce/2018-03/21/content_5276191.htm )
 * 国发〔2018〕 [6号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277121.htm )、[7号文件](http://www.gov.cn/zhengce/content/2018-03/24/content_5277123.htm )国务院关于机构设置和国家局设置的通知
 * 关于12345号码归并的[国办发〔2020〕53号文件](http://www.gov.cn/zhengce/content/2021-01/06/content_5577419.htm)
 * 中国政府网[国务院组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm)页面
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)、共产党员网[党中央部门机构](http://news.12371.cn/dzybmbdj/)页面
-
 * 中央编办[全国党政机关事业单位互联网网站标识管理服务平台](http://bszs.conac.cn)
 * 民政部[中国社会组织公共服务平台](http://www.chinanpo.gov.cn)
 * 维基百科【机关报】条目、【人民团体】条目
@@ -797,15 +832,14 @@ MCT，Ministry of Culture and Tourism
 	老生常谈© 2019-2023 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.3.1	202308
+	中央有关部门集	v1.4.0	202404
 ```
 
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🚨🚓🚑🚒🚌🧑‍🤝‍🧑🌏
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top
