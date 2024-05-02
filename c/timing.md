@@ -1,6 +1,6 @@
 提名网站与落榜记
 ===============
-大萌 2020~2023<base target="_blank">
+大萌 2020~2024<base target="_blank">
 
 		逆水行舟，不进则退
 
@@ -102,6 +102,7 @@
 　　要登录要下载？网站上的弹窗很烦人，用Via、X…浏览器+某某猴子扩展+某个去弹窗脚本 = 世界终于安静了。
 
 *	浏览之器：Edge<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软出品，与谷歌同源">商业版</a>、#<a href="https://brave.com/zh" title="js元老新作品">Brave</a>
+*	火狐安卓古典分支 Fennec，[v68.11.0](https://ftp.mozilla.org/pub/mobile/releases/68.11.0/android-aarch64/)，有查看页面源代码菜单；新分支叫 Fenix。
 *	[Pocket](https://getpocket.com/add/)	跨设备的网页共享工具，已被Firefox内置
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
 
@@ -316,10 +317,10 @@
 
 
 
-	老生常谈© 2019-2023 大萌	　知识共享许可
+	老生常谈© 2019-2024 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202311
+	提名网站与落榜记	　202405
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
