@@ -28,7 +28,7 @@
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
 
-*	对中国公民免签国家数为：48个。近期签署互免签证的国家有：2024年1月 泰国、新加坡……
+*	对中国公民免签国家数为：49个。近期签署互免签证的国家有：2024年4月 格鲁吉亚，1月 泰国、新加坡……
 
 *	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
 
@@ -56,7 +56,7 @@
 * 伊朗[国家通讯社](https://zh.irna.ir/)📍 zh、
 	努尔新闻网[Nour](https://nournews.ir/Zh/)📍 zh、
 	卡塔尔[半岛电视台](https://chinese.aljazeera.net/palestine-israel-conflict/)📍巴以战争栏目 zh
-* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)📍 zh　更多外媒请见：[一带一路云媒体](./)
+* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)📍 zh，更多外媒请见：[一带一路云媒体](./)
 
 
 一带一路官方网址 B&R Web from China
