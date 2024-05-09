@@ -42,7 +42,8 @@
 
 *	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
 
-**特别关注**💥“巴以冲突”各方媒体：
+
+<h3>“巴以冲突”各方媒体 💥 CeaseFire !</h3>
 
 * 巴勒斯坦：[耶路撒冷报/Al-Quds](https://www.alquds.com/en) en、
 	[日子报/Al-Ayyam](https://www.al-ayyam.ps/)、
@@ -56,7 +57,9 @@
 * 伊朗[国家通讯社](https://zh.irna.ir/)📍 zh、
 	努尔新闻网[Nour](https://nournews.ir/Zh/)📍 zh、
 	卡塔尔[半岛电视台](https://chinese.aljazeera.net/palestine-israel-conflict/)📍巴以战争栏目 zh
-* [联合国专题新闻](https://news.un.org/zh/tags/bayichongtu)📍 zh，更多外媒请见：[一带一路云媒体](./)
+* 联合国[巴以冲突](https://news.un.org/zh/tags/bayichongtu)专题📍 zh、
+	伊斯兰合作[通讯社联盟](https://una-oic.org/zh-CN/News/palestinian/)巴勒斯坦专题📍 zh，
+	更多外媒请见：一带一路云媒体。
 
 
 一带一路官方网址 B&R Web from China
@@ -80,6 +83,19 @@
 　　国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
 
 
+一带一路工具网站 Web Help B&R
+-----------------------------
+
+YDYL 常用词汇：
+
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+　　ASR = Air Silk Road = 空中丝绸之路  
+<!-- *云媒体常用外语词汇*  
+　　电视直播：Live TV  /　　数字报：E-Paper…… -->
+
+
 <h3 id=ditu>一带一路地图网站 🗺</h3>
 　　天地图
 <a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
@@ -96,16 +112,6 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 　　**代理地图**：　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
 [地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
-
-一带一路常用词汇 YDYL
----------------
-
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = YDYL  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
-　　RCEP = Regional Comprehensive Economic Partnership = 区域全面经济伙伴关系  
-<!-- *云媒体常用外语词汇*  
-　　电视直播：  /　　数字报：…… -->
 
 <h3 id=fanyi>民间翻译网站 🎧</h3>
 　谷歌翻译
@@ -146,7 +152,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 
 
 种子数据 🔠：ISO国别码
------------
+----------------------
 
 　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
 
@@ -183,7 +189,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.3	202404
+	一带一路民间站 v3.2.4	202405
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
