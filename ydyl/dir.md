@@ -68,6 +68,9 @@
 一带一路官方网址 B&R Web from China
 ----------------------------------
 
+　　习近平外交思想 和
+	<a title="" href="http://cn.chinaDiplomacy.org.cn/">新时代中国外交</a>：全球发展倡议、安全倡议、文明倡议
+
 <a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
 /	<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
 /	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
