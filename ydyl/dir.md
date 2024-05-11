@@ -7,15 +7,18 @@
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
 +	./dir　　　　本目录页
+
 +	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
 +	./united　🌐 [国际组织四大类](united)——（专业性/区域性/联合国🇺🇳/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
+
 +	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024新版）
 
-+	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
-+	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，每个省都有的会展中心。（准备改版）
++	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（新上线）
 
-+	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Globe Finance（新上线）
++	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，对外交流重大展会、每个省都有的会展中心。（准备改版）
+
++	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
@@ -147,8 +150,8 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 * 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
 * 谷歌 Chrome	曾经是翻译效果最好的浏览器，支持英文视频实时中文字幕，但202210之后谷歌关闭中国翻译服务，访问困难。  
 	谷歌浏览器<a title="v97 约97MB.exe" href="https://google.cn/chrome/?standalone=1">完整安装包</a>for Win平台
-* 腾讯 QQ浏览器	可翻译英、日、韩三种语言。
-* 微信内置浏览器 较新版可以翻译多种语言。
+* 火狐 Firefox	安装 TWP 扩展可以翻译几十种语言，提供手机端。
+* 腾讯 QQ浏览器	曾经只能翻译三种语言：英、日、韩；语种应在增加（微信内置浏览器类似）。
 
 
 种子数据 🔠：ISO国别码
@@ -189,7 +192,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.4	202405
+	一带一路民间站 v3.2.5	202405
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
