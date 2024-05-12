@@ -69,7 +69,7 @@
 ----------------------------------
 
 　　习近平外交思想 和
-	<a title="" href="http://cn.chinaDiplomacy.org.cn/">新时代中国外交</a>：全球发展倡议、安全倡议、文明倡议
+	<a title="中国互联网新闻中心/中国国际问题研究院" href="http://cn.chinaDiplomacy.org.cn/">新时代中国外交</a>：全球发展倡议、安全倡议、文明倡议
 
 <a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
 /	<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
@@ -164,7 +164,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 
 　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、海关代码、互联网顶级域)的基础。
 
-　　ISO官网为国别代码提供五种数据：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他代码，请往[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网查询。
+　　ISO官网为国别代码提供五种格式：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他格式，可到[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网用2字母代码查询。
 
 　　中国建立了与ISO代码对应的推荐标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。国标官网未提供全文。
 
