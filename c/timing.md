@@ -56,6 +56,7 @@
 *	超能搜		<https://www.chaonengsou.com>
 *	#Quora		#<https://www.quora.com/about>国外问答社区，比知乎更早
 *	<del>天涯社区搜</del>	<https://search.tianya.cn/>
+*	360<a href="https://st.so.com/" title="360识图">识图</a> 已停服。
 
 
 2、云媒速览
@@ -178,6 +179,8 @@
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>  
 　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家
+
+　	#<a href="https://site.sciping.com/" title="202303的网页存档">科塔学术导航</a> 2023莫名[被拦截](https://web.archive.org/web/20230323160752/https://site.sciping.com/)
 
 
 8、财务自求 🍩
