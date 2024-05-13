@@ -8,17 +8,17 @@
 
 +	./dir　　　　本目录页
 
-+	./index　🌞 [一带一路云媒体](index)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
++	./index　🌞 [一带一路云媒体](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
-+	./united　🌐 [国际组织四大类](united)——（专业性/区域性/联合国🇺🇳/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
++	./united　🌐 [国际组织四大类](united.html)——（专业性/区域性/联合国🇺🇳/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
 
 +	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024新版）
 
 +	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（新上线）
 
-+	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui)，对外交流重大展会、每个省都有的会展中心。（准备改版）
++	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui.html)，对外交流重大展会、每个省都有的会展中心。（准备改版）
 
-+	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
++	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie.html)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
