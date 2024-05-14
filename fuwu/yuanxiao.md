@@ -35,10 +35,10 @@
 *	教育部[全国高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/)，分普通与成人两大类，提供大学名单模糊搜索，大概每年更新一次
 
 
-<h2 id='tupu'>中国高校层级图谱 👨‍🎓<sub>本页目录</sub></h2>
+<h2 id='tupu'>中国高校层级图谱 👨‍🎓 <sub>本页目录</sub></h2>
 
-*	[军事院校](#D81){:target="_top"}，44所，其中27所⭐面向普通高考招生
-*	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}，**2820**所 ▽，其中本科1275所
+*	[军事高等院校](#D81){:target="_top"}，44所，其中27所⭐向高考招生
+*	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}，**2820**所，其中本科1275所
 	* 部属本科高校， 114所🥇 含[中管高校](#D1){:target="_top"}❗31所，一般部本❕83所
 	* 省属本科高校， 737所🥈 <sup>（多为‘二本’）</sup>
 	* 　　民办本科， 424所 ¥，省教育厅主管 <sup>（含11所合作办学）</sup>
@@ -48,7 +48,7 @@
 *	[成人高等院校](#D4){:target="_top"}，252所，<small>高升专/专升本/高升本</small>，本页收录名单及部分网址。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/zjyxjbxx/)
-*	本页[数据来源](#D5){:target="_top"}：教育部等
+*	本页[数据来源](#D5){:target="_top"}：教育部等 Laosheng.top
 *	[近年高校变更](#D6){:target="_top"}、<sub>改革近况</sub>
 *	[问题解答](#D7){:target="_top"}：什么是211、985？什么是https？怎么学校网站打不开？
 *	民间[大学排行榜](#D8){:target="_top"}网站
@@ -97,9 +97,8 @@
 　　44所，有27所面向高考招生，标记⭐。　2023年[高考招生计划](http://www.81.cn/jx_208569/16229889.html)。
 　军事院校不列入下方‘各省普通高校’段落。
 
-　
-国防大学	<small> 中国人民解放军 军委直属 北京市/西安市/上海市/石家庄</small>  
-　0	[国防科技大学](http://www.nudt.edu.cn)	<small>⭐✊ 军委直属，[wb](https://m.weibo.cn/u/7127745503) 长沙市/南京市/武汉市/合肥市</small>  
+军委直属：国防大学　	<small>【中国人民解放军】北京市/西安市/上海市/石家庄</small>  
+军委直属：[国防科技大学](http://www.nudt.edu.cn)	<small>⭐✊ ，[wb](https://m.weibo.cn/u/7127745503) 长沙市/南京市/武汉市/合肥市</small>  
 　1	陆军指挥学院	<small>  南京市</small>
 　2	[陆军工程大学](http://www.aeu.edu.cn)	<small>⭐ [军校信息](http://www.81.cn/jx_208569/10137233.html) 南京市/石家庄/重庆市/武汉市/徐州市</small>
 　3	陆军步兵学院	<small>⭐ [军校信息](http://www.81.cn/jx_208569/10162475.html) 南昌市/石家庄</small>
@@ -111,7 +110,8 @@
 　9	陆军防化学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162375.html) 北京市</small>
 　10	[陆军军医大学](http://www.tmmu.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162476.html)，原第三军医大学 重庆市</small>
 　11	陆军军事交通学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162477.html) 天津市/镇江市/蚌埠市</small>
-　12	陆军勤务学院	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm) 重庆市/武汉市</small>  
+　12	陆军勤务学院	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm) 重庆市/武汉市</small>
+
 　13	海军指挥学院	<small>  南京市</small>
 　14	[海军工程大学](http://www.nue.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162409.html) 武汉市/天津市</small>
 　15	海军大连舰艇学院	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162405.html) 大连市</small>
@@ -120,8 +120,9 @@
 　18	[海军军医大学](http://ao.smmu.edu.cn)	<small>⭐✌️ [军校信息](https://www.81.cn/jx_208569/10162787.html)，原第二军医大学 上海市</small>
 　19	海军勤务学院	<small>  </small>
 　20	海军士官学校	<small>  蚌埠市</small>
+
 　21	空军指挥学院	<small>  </small>
-　22	[空军工程大学](http://afeu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162383.html)、[wb](https://m.weibo.cn/u/5193807838) 西安市</small>  
+　22	[空军工程大学](http://afeu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162383.html)、[wb](https://m.weibo.cn/u/5193807838) 西安市</small>
 　23	空军航空大学	<small>⭐ [军网简介](http://www.81.cn/kj/2015-08/06/content_6617753.htm) 长春市/蚌埠市</small>
 　24	空军预警学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10136745.html) 武汉市</small>
 　25	空军哈尔滨飞行学院	<small> [wb](https://weibo.com/hafeiyuan) 哈尔滨市</small>
@@ -130,13 +131,14 @@
 　28	[空军军医大学](http://www.fmmu.edu.cn)	<small>⭐✌️ [军校信息](https://www.81.cn/jx_208569/10162452.html)，原第四军医大学 西安市</small>
 　29	空军勤务学院	<small>  徐州市</small>
 　30	空军通信士官学校	<small>  大连市</small>
+
 　31	火箭军指挥学院	<small>  武汉市</small>
 　32	火箭军工程大学	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162462.html)、[wb](https://m.weibo.cn/u/6977918761) 西安市</small>
 　33	火箭军士官学校	<small>  青州市</small>  
 　34	<del>战略支援部队</del>航天工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10163459.html) 北京市</small>
 　35	<del>战略支援部队</del>信息工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162450.html) 郑州市/洛阳市</small>　新建制等待公布  
 
-　1	武警指挥学院	<small> 中国人民武装警察部队 </small>
+　1	武警指挥学院　	<small>【中国人民武装警察部队】</small>
 　2	武警工程大学	<small>⭐ [军网简介](http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm) 西安市</small>
 　3	武警警官学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162491.html) 成都市/福州市</small>
 　4	武警特种警察学院	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/08/content_7748187.htm) 北京市</small>
@@ -145,7 +147,7 @@
 　7	武警海警学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162455.html),有微信公众号 宁波市</small>
 
 
-<div align="right" id="D1"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D1">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 中管高校网站分页
 ----------------
@@ -186,7 +188,7 @@
 31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn '%FX打不开，安全连接失败')</b>	 LZU 甘肃 <sub>兰州市</sub>⠀	[院系页](http://www.lzu.edu.cn/static/jxdw/)⠀	[机构页](http://www.lzu.edu.cn/static/glfw/)⠀<small>	[招生办](https://zsb.lzu.edu.cn/) /	[图书馆](https://lib.lzu.edu.cn/) /	[校园网](https://its.lzu.edu.cn/)	⠀+兰州医学院+甘肃草原生态所。[机构知识库](https://ir.lzu.edu.cn/community-list)</small>  
 
 
-<div align="right" id="DS"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="DS">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 各省普通高等院校 🧳
 ----------------
@@ -265,8 +267,8 @@
 <h3 id='65'>新疆　<small>62所高校：0🥇 17🥈 2 ¥</small>	</h3>　<a  href='http://www.taru.edu.cn'>塔里木大学</a> 阿拉尔市  <i>兵团</i>　<a  href='http://www.shzu.edu.cn'>石河子大学</a> ✌️  <i>兵团，+农学院/医学院+兵团师专+兵团经校。</i>　<a  href='http://www.ylnu.edu.cn'>伊犁师范大学</a> 　<a title='曾用ip访问：http://219.247.64.111' href='http://www.cjc.edu.cn'>昌吉学院</a> 　<a  href='http://www.xjust.edu.cn'>新疆科技学院</a> 巴音郭楞蒙古自治州　<a  href='http://www.xjzfu.edu.cn'>新疆政法学院</a> ⚖️图木舒克市  <i>兵团</i>　<a  href='http://www.xju.edu.cn'>新疆大学</a> ✌️乌鲁木齐市  <i>+新疆工学院</i>　<a  href='http://www.xjau.edu.cn'>新疆农业大学</a> 乌鲁木齐市　<a  href='http://www.xjmu.edu.cn'>新疆医科大学</a> 乌鲁木齐市　<a  href='http://www.xjnu.edu.cn'>新疆师范大学</a> 乌鲁木齐市　<a  href='http://www.xjufe.edu.cn'>新疆财经大学</a> 乌鲁木齐市　<a  href='http://www.xjart.edu.cn'>新疆艺术学院</a> 乌鲁木齐市　<a  href='http://www.xjie.edu.cn'>新疆工程学院</a> 乌鲁木齐市　<a title='曾经无法连接' href='http://www.xjpcedu.cn'>新疆警察学院</a> 🛂乌鲁木齐市　¥ 新疆农业大学<a  >科学技术学院</a> 乌鲁木齐市 4165013559 <i>停止招生</i>　¥ <a title='曾经夜间维护' href='http://www.xjtsxy.cn'>新疆天山职业技术大学</a> 乌鲁木齐市　<a  href='https://www.xjsmc.edu.cn'>新疆第二医学院</a> 克拉玛依市　<a  href='http://www.xjit.edu.cn'>新疆理工学院</a> 阿克苏地区　<a  href='https://www.ksu.edu.cn'>喀什大学</a> <br>  
 	高职大专43所（4 ¥）：<small>　昌吉回族自治州 <a  href='http://www.xjnzy.edu.cn'>新疆农业职业技术学院</a> 　 <a  href='http://www.cjpt.edu.cn'>昌吉职业技术学院</a> 　 <a  href='http://www.ylzyjs.cn'>伊犁职业技术学院</a> 　 <a  href='http://www.xjbyxy.cn/xygk/xyjj.htm'>巴音郭楞职业技术学院</a> 　石河子市 <a  href='http://www.shzv.edu.cn'>新疆石河子职业技术学院</a>   <i>兵团</i>　伊犁哈萨克自治州 <a  href='http://www.xjyyedu.cn'>新疆应用职业技术学院</a> 　 <a  href='http://www.betltc.cn'>博尔塔拉职业技术学院</a> 　 <a  href='http://www.shzvce.cn'>石河子工程职业技术学院</a>   <i>兵团</i>　阿拉尔市 <a title='头条搜索。可用ip访问：1.13.3.19' href='https://www.tlmzy.com'>塔里木职业技术学院</a>   <i>兵团</i>　 <a  href='http://www.tmgxy.edu.cn'>铁门关职业技术学院</a>   <i>兵团</i>　 <a title='2023新校' href='http://www.bttmskzy.cn'>图木舒克职业技术学院</a>   <i>兵团</i>　 <a title='2023新校。另有同名学校' >可克达拉职业技术学院</a>  4165014826 <i>兵团[新闻](https://www.btzx.com.cn/web/2023/5/18/ARTI1684379535924738.html)</i>　 <a title='2023新校' href='http://www.xxzyjsxy.cn'>新星职业技术学院</a>   <i>兵团</i>　 <a title='2023新校' >昆玉职业技术学院</a>  4165014828 <i>兵团[卫视](https://www.btzx.com.cn/web/2023/4/1/VIDE1680322828126162.html)</i>　五家渠市 ¥ <a title='中文域名！' href='http://新疆科技职业技术学院.com'>新疆科技职业技术学院</a> 　 <a  href='http://www.uvu.edu.cn'>乌鲁木齐职业大学</a> 　乌鲁木齐市 <a  >新疆机电职业技术学院</a>  4165012513 <i>[高教云](https://heec.cahe.edu.cn/school/1910/jianjie)</i>　乌鲁木齐市 <a  href='http://www.xjqg.edu.cn'>新疆轻工职业技术学院</a> 　乌鲁木齐市 <a title='连接缓慢' href='http://www.xjjsxy.net'>新疆建设职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.xjjtedu.com'>新疆交通职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.xjvu.edu.cn'>新疆职业大学</a> 　乌鲁木齐市 <a  >新疆体育职业技术学院</a> 🏃 4165014416　乌鲁木齐市 <a title='连接困难？' href='http://www.xjei.edu.cn'>新疆师范高等专科学校</a> ？  <i>新疆教育学院</i>　乌鲁木齐市 <a  href='http://www.xjtzy.net'>新疆铁道职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.btc.edu.cn'>兴新职业技术学院</a>   <i>兵团</i>　乌鲁木齐市 <a title='新疆钢铁高级技工学校' >新疆工业职业技术学院</a> ⚙️ 4265051060 <i>宝钢集团</i>　乌鲁木齐市 <a title='2023新校' >新疆司法警官职业学院</a> 🛂 4165014805 <i>[法治新闻](http://www.legaldaily.com.cn/index/content/2023-05/30/content_8859628.html)</i>　乌鲁木齐市 ¥ <a  href='http://www.xjnyedu.com'>新疆能源职业技术学院</a> 　乌鲁木齐市 ¥ <a title='域名失效：www.xjxiandai.net' >新疆现代职业技术学院</a>  4165013726　乌鲁木齐市 ¥ <a  href='http://www.kxedu.net'>新疆科信职业技术学院</a> 　 <a  href='http://www.kzjsxy.edu.cn'>克拉玛依职业技术学院</a> 　 <a title='头条搜索' >吐鲁番职业技术学院</a>  4165014585 <i>推测网址：www.tlfzj.com</i>　 <a  href='http://www.hmzyedu.cn'>哈密职业技术学院</a> 　 <a  href='http://www.akszy.com'>阿克苏职业技术学院</a> 　 <a title='2023新校' href='http://www.akszy.edu.cn'>阿克苏工业职业技术学院</a> 　克州 <a  href='http://www.kzvtc.edu.cn'>克孜勒苏职业技术学院</a> 　 <a  >喀什职业技术学院</a>  4165014677　 <a title='2023新校' >喀什理工职业技术学院</a>  4165014824 <i>[招生计划](https://www.ts.cn/xwzx/kjxw/202306/t20230626_14348032.shtml)</i>　 <a title='夜间维护？8月已正常' href='http://www.htnc.edu.cn'>和田师范专科学校</a> 　和田地区 <a title='曾用域名失效：www.xjumc.cn' >新疆维吾尔医学专科学校</a>  4165011818 <i>[阳光高考](https://gaokao.chsi.com.cn/sch/schoolInfoMain--schId-921.dhtml)</i>　 <a  href='http://www.htpt.edu.cn'>和田职业技术学院</a> 　 <a  >塔城职业技术学院</a>  4165014740　 <a  href='http://www.altzyxy.com'>阿勒泰职业技术学院</a>  </small>　　<a href="#mulu" target="_top" title="回各省索引">▲</a>  
 
-
-<div align="right" id="D3"><a href="#tupu" target="_top">↑ Top</a></div>
+高等院校三千所——老生常谈
+<div align="right" id="D3">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 香港澳门普通高校 🏫
 --------------
@@ -319,7 +321,7 @@
 **台湾**　近150所高校（101 $），请见[新高考](xingaokao#D5)页面。
 
 
-<div align="right" id="D4"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D4">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 成人高校名单
 ------------
@@ -585,7 +587,7 @@
 </small>
 
 
-<div align="right" id="D5"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D5">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 数据来源 🔢
 --------
@@ -601,10 +603,11 @@
 *	201706，人民网：国防部公布43所调整改革后[军队院校名称](http://military.people.com.cn/n1/2017/0629/c1011-29372347.html)
 
 
-<div align="right" id="D6"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D6">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 近年高校变更
 ------------
+高等院校三千所——老生常谈
 
 <h3 >2023夏~2024年度</h3>
 　　本科院校变更14起，其中更名、改建或转设11所；新设置2所(新增学校标识码)：安徽公安学院、江西飞行学院；撤销1所成教本科：江西经济管理干部学院。  
@@ -623,10 +626,11 @@
 *	2021年5月至7月，十九届中央第七轮巡视对教育部和[31所中管高校](https://www.ccdi.gov.cn/specialn/19zyxsgz/yw19zyxsgz/202104/t20210428_153257.html)党组织开展常规巡视。
 
 
-<div align="right" id="D7"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D7">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 QA 问题解答
 -----------
+高等院校三千所——老生常谈
 
 　　关于志愿填报和高考改革，请见 [新高考](xingaokao)🕺 页面；　关于中央国有企业⚙，请见 [央企股](yangqi)🧧 页面
 
@@ -647,7 +651,7 @@ QA 问题解答
 
 <h3>什么是https安全连接？</h3>
 
-　　https是保障网页浏览安全的开放加密协议，是普通连接http的升级版，目前已逐渐普及。普通网页连接在浏览器地址栏显示为 http:// 前缀，这种连接在网络传输时能够被中间节点篡改，常见的是被人加入广告牟利，或进行词汇检查而中断。https解决了这个问题，并随着成本下降逐渐普及。特别是在金融领域，需要用户登录的网页几乎全部是https安全连接。
+　　https是保障网页浏览安全的开放加密协议，是普通连接http的升级版，目前已逐渐普及。普通网页连接在浏览器地址栏显示为 http:// 前缀，这种连接在网络传输时能够被中间节点篡改，常见的是被人加入广告牟利，或进行词汇检查而中断。https解决了这个问题，并随着成本下降逐渐普及。31所中管高校网站均支持https技术。
 
 　　比较好的做法是，网站会自动把普通网址跳转为安全连接。比如在浏览器地址栏键入： www.pku.edu.cn 后，首先浏览器会把网址自动补全为： http://www.pku.edu.cn ，收到访问请求后，北京大学的服务器再把网址跳转为： https://www.pku.edu.cn ，多一个 s 。最后这个过程被称为‘强制安全连接’。
 
@@ -669,7 +673,7 @@ QA 问题解答
 　大萌对本页展示的每一所学校网址都做了人工检查，对出现过访问困难的学校标记问号'？'，但仍然不排除有学校后续变更了网址而不知情的可能。如果读者发现，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)修正。
 
 
-<div align="right" id="D8"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="D8">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 民间大学排行榜
 -------------
@@ -679,11 +683,11 @@ QA 问题解答
 *	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
 *	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
 *	(深圳)[武书连](https://www.wurank.net)大学排名，始于中管院《中国大学评价》课题，1993年起发布。
-*	[U.S.News](https://www.usnews.com/education/best-global-universities/rankings "美式全球大学排名") 最早发起大学排名的《美国新闻与世界报道》网站
-*	泰晤士高等教育世界大学排名
-*	QS世界大学排名
+*	(美国)[U.S.News](https://www.usnews.com/education/best-global-universities/rankings "美式全球大学排名")🍴 最早发起大学排名的《美国新闻与世界报道》网站
+*	(英国)THE排名 [泰晤士高等教育](https://www.TimesHigherEducation.com)📍
+*	(英国)QS世界大学排名 [QS中国](https://www.QSchina.cn)📍
 
-　　在做这个网页的过程中，大萌有一个感觉，其实存在一种非常直观的大学网络排名——大学Web网站的水平。
+　　在做这个网页的过程中，大萌有一个感觉，其实存在一种普通人可判断的大学网络排名——大学Web网站的水平。
 
 　　名牌大学的网站都做得很好。网站内容的及时、设计的美观、功能的丰富、运行的稳定，都反应了一所大学的实力。大约有一半高校开设了计算机类专业，如果网站连https安全连接都没有提供，或者连手机端适配都做不好，这能是一所好大学吗。
 
@@ -695,7 +699,7 @@ QA 问题解答
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.9.4	202405
+	高等院校三千所	Version 0.9.5	202405
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
