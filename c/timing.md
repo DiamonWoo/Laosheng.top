@@ -170,11 +170,12 @@
 *	北京北新网	
 *	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
 
+　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
+
 *	维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App
 *	可可诗词 	<https://www.kekeshici.com>
-
-　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
+*	　<a title="中华古诗词，广东搜韵网" href="https://sou-yun.cn/">搜韵</a>
 
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>  
