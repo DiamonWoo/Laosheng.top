@@ -14,7 +14,7 @@
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/外交国别速查表
 </div>
 
-<h2 id="mulu" title="外交国别速查表">目录</h2>
+<h2 id="mulu" title="外交国别速查表">国别表目录</h2>
 LSIP进度　<br>
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、印度、沙特、土耳其……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、希腊、西班牙……</sub><br>
@@ -46,7 +46,8 @@ LSIP进度　<br>
 +	202208　收录249个ISO代码及其国别中英文名称，正在测试版式
 
 
-<h2 id="yz" title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
+<div align="right" id="yz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
 🇨🇳	+五常	[🏞](https://www.yidaiyilu.gov.cn大美中国 "国别美图")	CN⠀	<big><big>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</big></big>		⠀1949/10/1新中国成立！	[💐](https://www.mfa.gov.cn/web/zwjg_674741/zwsg_674743/ "中国使馆总目")	□	[wb](https://weibo.com/wjxlt "外交部微博")	[👥](https://www.mfa.gov.cn "外交部")	[🏢](https://www.gov.cn "The People's Republic of China")	⠀0086	CNY ¥<sup>	[人民币](https://cn.bing.com/search?q=1克黄金兑CNY)	首都：北京 ⭐</sup>  
 🇭🇰	⠀ ⠀	　	[🧭](http://HK.mofcom.gov.cn "经贸指南")	HK⠀	<small>	<a title="中国香港特别行政区" href="http://www.locpg.gov.cn/fwzn/xggk.htm">(中国)香港</a> 	Hong Kong	</small>		⠀1997/7/1回归	⠀[💐](http://locpg.gov.cn "中央驻港联络办")	□	[wb](https://weibo.com/newsgovhk "香港政府微博")	□	[🏢](https://www.gov.hk/sc "特区政府网站")	⠀00852	$<sup>	[港元](https://cn.bing.com/search?q=HKD兑CNY)	 - 0h ☆</sup>  
 🇲🇴	⠀ ⠀	　	[🧭](http://MO.mofcom.gov.cn "经贸指南")	MO⠀	<small>	<a title="中国澳门特别行政区" href="https://www.gcs.gov.mo/news/factSheet/zh-hant?1">(中国)澳门</a> 	Macao	</small>		⠀1999/12/20回归	⠀[💐](http://www.zlb.gov.cn/ "中央驻澳联络办")	□	[wb](https://weibo.com/6190786689 "澳门特区发布")	□	[🏢](https://www.gov.mo/zh-hant "特区政府网站")	⠀00853	P<sup>	[澳门币](https://cn.bing.com/search?q=MOP兑CNY)	 - 0h ☆</sup>  
@@ -381,13 +382,12 @@ LSIP进度　<br>
 
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
-
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 ```
 	老生常谈© 2019~2024 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://laosheng.top/ydyl/nations
+	https://Laosheng.top/ydyl/nations
 	外交国别速查表 V0.8.9	202405
 ```
 
