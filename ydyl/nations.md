@@ -100,7 +100,9 @@ LSIP进度　<br>
 🇵🇸	% &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/10153.htm "国别美图")	　	PS⠀	<sup>	<a title="巴勒斯坦国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676332/">巴勒斯坦</a> 	Palestine	</sup>		⠀1988/11/20建交	[💐](http://ps.china-office.gov.cn "中国大使馆")	⠀□	[wb](https://weibo.com/palembassy "驻华使馆微博")	⠀□	[🏢](http://www.gcc.gov.ps "State of Palestine")	⠀00970	د.ا<sup>	[约旦第纳尔](https://cn.bing.com/search?q=JOD兑CNY)	首都：耶路撒冷 -6h 💥 微博恢复更新</sup>  
 🇯🇴	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/10157.htm "国别美图")	[🧭](http://JO.mofcom.gov.cn "经贸指南")	JO⠀	<small>	<a title="约旦哈希姆王国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677268/">约旦</a> 	Jordan	</small>	↙️	⠀1977/4/7建交	[💐](http://JO.china-embassy.gov.cn "中国大使馆")	[🛡️](https://mfa.gov.jo/zh/embassy/BeijingZh "驻华使馆")	-	[👥](https://mfa.gov.jo/ "外交部")	[🏢](https://portal.jordan.gov.jo/ "Hashemite Kingdom of Jordan")	⠀00962	<sup>	[约旦第纳尔](https://cn.bing.com/search?q=JOD兑CNY)	首都：安曼 -6h </sup>  
 
-<h2 id="oz" title="ōu zhōu">欧洲 Europe　<a href="http://www.gditu.net/" title="谷地图">🌍</a></h2>
+
+<div align="right" id="oz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="ōu zhōu">欧洲 Europe　<a href="http://www.gditu.net/" title="谷地图">🌍</a></h2>
 🇷🇺	+五常 &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/1782.htm "国别美图")	[🧭](http://RU.mofcom.gov.cn "经贸指南")	RU⠀	<big><big>	<a title="俄罗斯联邦" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679110/">俄罗斯</a> 	Russia	</big></big>		⠀1949/10/2建交	[💐](http://RU.china-embassy.gov.cn "中国大使馆")	[🛡️](http://www.russchinatrade.ru "驻华使馆")	[wb](https://weibo.com/ezhuhua "驻华使馆微博")	[👥](https://mid.ru/cn/ "外交部")	[🏢](http://government.ru "Russian Federation")	⠀007	RUB₽<sup>	[俄罗斯卢布](https://cn.bing.com/search?q=RUB兑CNY)	首都：莫斯科（Москва） -5h </sup>  
 🇪🇪	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/10132.htm "国别美图")	[🧭](http://EE.mofcom.gov.cn "经贸指南")	EE⠀	<small>	<a title="爱沙尼亚共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_678820/">爱沙尼亚</a> 	Estonia	</small>		⠀1991/9/11建交	[💐](http://EE.china-embassy.gov.cn "中国大使馆")	[🛡️](https://beijing.mfa.ee/zh-hans/ "驻华使馆")	-	[👥](https://vm.ee/en "外交部")	[🏢](https://www.valitsus.ee/ "Republic of Estonia")	⠀00372	€<sup>	[欧元](https://cn.bing.com/search?q=EUR兑CNY)	首都：塔林 -5h </sup>  
 🇱🇻	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/10140.htm "国别美图")	[🧭](http://LV.mofcom.gov.cn "经贸指南")	LV⠀	<small>	<a title="拉脱维亚共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679330/">拉脱维亚</a> 	Latvia	</small>		⠀1991/9/12建交	[💐](http://LV.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www2.mfa.gov.lv/cn/ "驻华使馆")	-	[👥](https://www.mfa.gov.lv/lv "外交部")	[🏢](https://www.mk.gov.lv/lv "Republic of Latvia")	⠀00371	€<sup>	[欧元](https://cn.bing.com/search?q=EUR兑CNY)	首都：里加 -5h [投资发展署wb](https://weibo.com/MagneticLatvia)</sup>  
@@ -154,7 +156,9 @@ LSIP进度　<br>
 🇪🇸	+ ⠀	　	[🧭](http://ES.mofcom.gov.cn "经贸指南")	ES⠀		<a title="西班牙王国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679810/">西班牙</a> 	Spain		♏	⠀1973/3/9建交	[💐](http://ES.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.exteriores.gob.es/Embajadas/pekin/zh/ "驻华使馆")	[wb](https://weibo.com/embajadadeespana "驻华使馆微博")	[👥](https://www.exteriores.gob.es/ "外交部")	[🏢](https://www.lamoncloa.gob.es/ "Kingdom of Spain")	⠀0034	€<sup>	[欧元](https://cn.bing.com/search?q=EUR兑CNY)	首都：马德里 -8h [皇家足协](https://weibo.com/7400479820) ⚽</sup>  
 🇵🇹	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/00GDI1EM.html "国别美图")	[🧭](http://PT.mofcom.gov.cn "经贸指南")	PT⠀	<small>	<a title="葡萄牙共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/oz_678770/1206_679570/">葡萄牙</a> 	Portugal	</small>		⠀1979/2/8建交	[💐](http://PT.china-embassy.gov.cn "中国大使馆")	[🛡️](https://pequim.embaixadaportugal.mne.gov.pt/zh/ "驻华使馆")	[wb](https://weibo.com/consulateportugal "驻华使馆微博")	[👥](https://portaldiplomatico.mne.gov.pt/en/ "外交部")	[🏢](https://www.portugal.gov.pt/#有故障 "Portuguese Republic")	⠀00351	€<sup>	[欧元](https://cn.bing.com/search?q=EUR兑CNY)	首都：里斯本 -8h [C罗](https://weibo.com/5926318749) [国足](https://weibo.com/PortugalNationalTeam) ⚽</sup>  
 
-<h2 id="fz" title="fēi zhōu">非洲 Africa　d<a href="https://cn.bing.com/maps?cp=hqgwpcjjz3sy&lvl=4" title="限桌面模式">🌍</a></h2>
+
+<div align="right" id="fz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="fēi zhōu">非洲 Africa　d<a href="https://cn.bing.com/maps?cp=hqgwpcjjz3sy&lvl=4" title="限桌面模式">🌍</a></h2>
 🇪🇬	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2159.htm "国别美图")	[🧭](http://EG.mofcom.gov.cn "经贸指南")	EG⠀		<a title="阿拉伯埃及共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/">埃及</a> 	Egypt		↙️	⠀1956/5/30建交	[💐](http://EG.china-embassy.gov.cn "中国大使馆")	⠀□	[wb](https://weibo.com/etab "驻华使馆微博")	⠀□	[🏢](https://egypt.gov.eg/ "Arab Republic of Egypt")	⠀0020	£<sup>	[埃及镑](https://cn.bing.com/search?q=EGP兑CNY)	首都：开罗（Cairo） -6h </sup>  
 🇱🇾	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/59970.htm "国别美图")	[🧭](http://LY.mofcom.gov.cn "经贸指南")	LY⠀	<big>	<a title="利比亚国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678018/">利比亚</a> 	[Libya](https://cn.bing.com/search?q=Libya)	</big>		⠀1978/8/9建交	[💐](http://LY.china-embassy.gov.cn "中国大使馆")	⠀□	-	⠀□	⠀□	⠀00218	ل.د<sup>	[利比亚第纳尔](https://cn.bing.com/search?q=LYD兑CNY)	首都：的黎波里 -6h 💥 [央行](https://cbl.gov.ly/en/)</sup>  
 🇹🇳	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/59971.htm "国别美图")	[🧭](http://TN.mofcom.gov.cn "经贸指南")	TN⠀		<a title="突尼斯共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678598/">突尼斯</a> 	Tunisia		↩️	⠀1964/1/10建交	[💐](http://TN.china-embassy.gov.cn "中国大使馆")	⠀□	-	[👥](https://www.diplomatie.gov.tn/nc/ "外交部")	[🏢](http://fr.tunisie.gov.tn "Republic of Tunisia")	⠀00216	د.ت<sup>	[突尼斯第纳尔](https://cn.bing.com/search?q=TND兑CNY)	首都：突尼斯市 -7h [旅游局](https://weibo.com/nihaotunisia) ⚽</sup>  
@@ -215,7 +219,9 @@ LSIP进度　<br>
 🇱🇸	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/05Q2MD5Q.html "国别美图")	[🧭](http://LS.mofcom.gov.cn "经贸指南")	LS⠀	<small>	<a title="莱索托王国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677970/">莱索托</a> 	Lesotho	</small>		⠀1983/4/30建交	[💐](http://LS.china-embassy.gov.cn "中国大使馆")	⠀□	-	⠀□	[🏢](http://www.lesotho.gov.ls "Kingdom of Lesotho")	⠀00266	L<sup>	[莱索托洛蒂](https://cn.bing.com/search?q=LSLz兑CNY)	首都：马塞卢 -6h </sup>  
 🇸🇿	+ ⠀	　	　	SZ⠀	<small>	<a title="斯威士兰王国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678502/">斯威士兰</a> 	Eswatini	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	[🏢](http://www.gov.sz "Kingdom of Eswatini[i]")	⠀00268	<sup>	[里兰基尼](https://cn.bing.com/search?q=SZL兑CNY)	首都：姆巴巴纳 -6h </sup>  
 
-<h2 id="dyz" title="dà yáng zhōu">大洋洲 Ocean　d<a href="https://cn.bing.com/maps?&cp=j7j1xpthdt5b&lvl=3" title="限桌面模式">🌏</a></h2>
+
+<div align="right" id="dyz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="dà yáng zhōu">大洋洲 Ocean　d<a href="https://cn.bing.com/maps?&cp=j7j1xpthdt5b&lvl=3" title="限桌面模式">🌏</a></h2>
 🇺🇲	⠀ ⠀	　	　	UM⠀	<small>	<a title="共九个小岛礁">美国本土外小岛屿</a>	[United States Minor Outlying Islands](https://cn.bing.com/search?q=United States Minor Outlying Islands)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001	<sup>	⠀-	 -  </sup>  
 🇲🇵	⠀ ⠀	　	　	MP⠀	<sup>	北马里亚纳群岛(美国)	[Northern Mariana Islands](https://cn.bing.com/search?q=Northern Mariana Islands)	</sup>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001670	<sup>	⠀-	首都：塞班 +2h </sup>  
 🇬🇺	⠀ ⠀	　	　	GU⠀	<small>	关岛(美国)	[Guam](https://cn.bing.com/search?q=Guam)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001671	<sup>	⠀-	首都：哈加特纳 +2h </sup>  
@@ -286,7 +292,9 @@ LSIP进度　<br>
 🇦🇼	⠀ ⠀	　	　	AW⠀	<small>	<a title="荷兰王国成员">阿鲁巴 (荷兰)</a>	Aruba	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	[🏢](http://www.aruba.com "政府")	⠀00297	<sup>	⠀-	首都：阿鲁巴  </sup>  
 🇨🇼	⠀ ⠀	　	　	CW⠀	<small>	<a title="荷兰王国成员">库拉索 (荷兰)</a>	[Curaçao](https://cn.bing.com/search?q=Curaçao)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00599	<sup>	[荷属安的列斯盾](https://cn.bing.com/search?q=ANG兑CNY)	首都：威廉斯塔德  </sup>  
 
-<h2 id="nmz" title="nán měi zhōu">南美洲 South America　d<a href="https://cn.bing.com/maps?&cp=j3tcj483mtvw&lvl=5" title="限桌面模式">🌎</a></h2>
+
+<div align="right" id="nmz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="nán měi zhōu">南美洲 South America　d<a href="https://cn.bing.com/maps?&cp=j3tcj483mtvw&lvl=5" title="限桌面模式">🌎</a></h2>
 <!-- lā dīng měi zhōu 拉丁美洲 Latin America -->
 🇪🇨	+ &	　	[🧭](http://EC.mofcom.gov.cn "经贸指南")	EC⠀		<a title="厄瓜多尔共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681096/">厄瓜多尔</a> 	Ecuador		🔄	⠀1980/1/2建交	[💐](http://EC.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.cancilleria.gob.ec/map_maps/china/ "驻华使馆")	-	[👥](https://www.cancilleria.gob.ec/ "外交部")	[🏢](http://www.presidencia.gov.ec/#打不开 "Republic of Ecuador")	⠀00593	$<sup>	[美元](https://cn.bing.com/search?q=USD兑CNY)	首都：基多 -13h ⚽</sup>  
 🇨🇴	+ ⠀	　	[🧭](http://CO.mofcom.gov.cn "经贸指南")	CO⠀		<a title="哥伦比亚共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681072/">哥伦比亚</a> 	Colombia			⠀1980/2/7建交	[💐](http://CO.china-embassy.gov.cn "中国大使馆")	[🛡️](https://china.embajada.gov.co/ "驻华使馆")	-	⠀□	[🏢](https://www.gov.co/ "Republic of Colombia")	⠀0057	$<sup>	[哥伦比亚比索](https://cn.bing.com/search?q=COP兑CNY)	首都：波哥大 -13h </sup>  
@@ -303,32 +311,36 @@ LSIP进度　<br>
 🇨🇱	+ &	[🏞](https://www.yidaiyilu.gov.cn/p/72096.html "国别美图")	[🧭](http://CL.mofcom.gov.cn "经贸指南")	CL⠀		<a title="智利共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681216/">智利</a> 	Chile			⠀1970/12/15建交	[💐](http://CL.china-embassy.gov.cn "中国大使馆")	[🛡️](https://chile.gob.cl/en/china "驻华使馆")	-	[👥](https://www.gob.cl/ministerios/ministerio-de-relaciones-exteriores/ "外交部")	[🏢](https://www.gob.cl/ "Republic of Chile")	⠀0056	$<sup>	[智利比索](https://cn.bing.com/search?q=CLP兑CNY)	首都：圣地亚哥(Santiago) -13h </sup>  
 🇫🇰	⠀ ⠀	　	　	FK⠀	<small>	<a title="福克兰群岛／马尔维纳斯群岛">福克兰群岛 (英国)</a>	Falkland Islands / Malvinas	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	[🏢](http://www.falklands.gov.fk "政府")	⠀00500	£<sup>	[福克兰群岛镑](https://cn.bing.com/search?q=FKP兑CNY)	首都：斯坦利港  </sup>  
 
-<h2 id="njz" title="nán jí zhōu">南极洲 Antarctica</h2>
+
+<div align="right" id="njz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="nán jí zhōu">南极洲 Antarctica</h2>
 🇦🇶	⠀ ⠀	　	　	AQ⠀	<small>	<a title="覆盖南纬60度以南的南极地区">南极洲</a>	[Antarctica](https://cn.bing.com/search?q=Antarctica)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00672	<sup>	⠀-	 -  </sup>  
 🇧🇻	⠀ ⠀	　	　	BV⠀	<small>	<a title="挪威领土">布韦岛 (挪威)</a>	[Bouvet Island](https://cn.bing.com/search?q=Bouvet Island)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀0047	<sup>	⠀-	 -  </sup>  
 🇭🇲	⠀ ⠀	　	　	HM⠀	<small>	<a title="澳大利亚：赫德岛和麦克唐纳群岛">赫麦群岛 (澳大利亚)</a>	[HIMI](https://cn.bing.com/search?q=HIMI)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00672	<sup>	⠀-	 -  </sup>  
 🇬🇸	⠀ ⠀	　	　	GS⠀	<small>	<a title="英国：南乔治亚和南桑威奇群岛">乔桑群岛 (英国)</a>	[SGSSI](https://cn.bing.com/search?q=SGSSI)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00500	<sup>	⠀-	 -  </sup>  
 🇹🇫	⠀ ⠀	　	　	TF⠀	<small>	<a title="法属南部和南极领地">法属南部领地</a>	[French Southern Territories](https://cn.bing.com/search?q=French Southern Territories)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00262	<sup>	⠀-	 -  </sup>  
 
-<div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
-<h2 id="8" title="微软必应提供的世界地图">必应世界地图</h2>
+
+<div align="right" id="8">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="微软必应提供的世界地图">必应世界地图</h2>
 
 <table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
 <!-- <caption>微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
 </caption> -->
 <tbody><tr><td ><!-- 宽度原为500 -->
 	<iframe width="800" height="400" frameborder="0" 
-	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rmx47fhyfj9m&lvl=5&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rmx47fhyfj9m&lvl=3&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe>
 	<span style="white-space: nowrap; font-size: small; ">必应地图，可拖动，可缩放，d
-	<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">查看放大的地图</a>
+	<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=3&amp;FORM=MBEDLD">查看放大的地图</a>
 	</span>
 </td></tr></tbody>
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
-<div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
-<h2 id="9" >图例</h2>
+<div align="right" id="9">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+图例
+----
 <img align="right" src="nations-tuli-02.png">
 +	🇨🇳/CN　　国旗或地区旗帜emoji字符 / ISO国别代码2位字母
 +	+/ % 　　🇺🇳联合国的会员国 / 观察员国  
@@ -348,10 +360,9 @@ LSIP进度　<br>
 　　注3：部分货币符号没有收录，主要是阿拉伯文等难以显示/辨认的符号。  
 　　以前的[<del>2022旧版</del>](nations-2022)有一篇帮助文档可参考：《[从世界杯看国别表](https://laosheng.top/broad/2022/worldcup)🏆》。
 
-<div align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
-
-<h2 id="10" title="ISO 3166">数据来源</h2>
+<div align="right" id="10">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<h2 title="ISO 3166">数据来源</h2>
 
 *	中国建交国家名单来自[外交部/资料](https://www.mfa.gov.cn/web/ziliao_674904/2193_674977/)
 *	与中国互免签证的国家名单来自[中国领事服务网](http://cs.mfa.gov.cn/zggmcg/cgqz/qzxx_660462/)
@@ -377,7 +388,7 @@ LSIP进度　<br>
 	老生常谈© 2019~2024 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://laosheng.top/ydyl/nations
-	外交国别速查表 V0.8.8	202405
+	外交国别速查表 V0.8.9	202405
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
