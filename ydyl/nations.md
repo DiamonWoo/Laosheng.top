@@ -10,11 +10,10 @@
 
 　　大萌因此编纂了这份《外交国别速查表》，简称‘**国别表**’，结合联合国与中国外交部的官方表述，拟定全表249个国家或地区的中文译名，以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(LSIP)”形式提供快速查找服务。收录国别按各大洲分段，大致沿丝绸之路行进路线由近及远、上北下南排序，加权因素：国土面积、UN席位。　网页信息密集，用宽屏模式效果较好；请善用浏览器页内搜索；新手请阅读页面底部的‘图例’。
 
-<div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/外交国别速查表
-</div>
 
-<h2 id="mulu" title="外交国别速查表">国别表目录</h2>
+<div id="mulu" align="right">
+⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/外交国别速查表</div>
+<h2 title="七大洲国家或地区">国别表目录</h2>
 LSIP进度　<br>
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、印度、沙特、土耳其……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、希腊、西班牙……</sub><br>
@@ -381,8 +380,9 @@ LSIP进度　<br>
 　　国别表以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(**LSIP**)”形式收录以下全集：全体联合国会员国193个、中华人民共和国建交国183个（截至2024年1月）、一带一路签约国152个（截至2023年8月）、中国公民因私护照免签入境国46个（截至2024年2月）。
 
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
+
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
 
 ```
 	老生常谈© 2019~2024 大萌 知识共享许可
