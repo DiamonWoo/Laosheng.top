@@ -14,6 +14,13 @@
   + /falv/duben2　[大萌法律读本2](falv/duben2)，常用法选登
   + 中国政法区划集 (设计中) ……
 
+/fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
+
+  + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
+    + /fly/index2　📜️ [新闻云第二页](fly/index2.html)：教育台与科技报、县区级报纸与电视、图例与帮助。
+  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
+  + 一带一路云媒体 ……
+
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
 
   + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
@@ -21,13 +28,6 @@
    + /fuwu/yangqi　🧧 [央企股票全家福](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
   + /fuwu/qianxian　📑 [中国千县地名网](fuwu/qianxian)　全国近三千个县区的政府网址，按区划代码排序，2024新版❗
   + 法治政府部门集 ……
-
-/fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
-
-  + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
-    + /fly/index2　📜️ [新闻云第二页](fly/index2.html)：教育台与科技报、县区级报纸与电视、图例与帮助。
-  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
-  + 一带一路云媒体 ……
 
 /ydyl/dir ⠀[【一带一路】系列](ydyl/dir)，找到全世界。　💃 一带一路民间站
 
