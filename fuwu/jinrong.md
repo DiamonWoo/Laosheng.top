@@ -1,6 +1,6 @@
 个人理财金融圈 🥯
-=====================
-大萌　	202211-202404 草稿三	<base target="_blank">
+===================
+大萌　	202211-202405 草稿三	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
@@ -49,11 +49,11 @@
 *	国务院：
 	* / [发改委](https://www.ndrc.gov.cn/)🚩 / [商务部](http://www.mofcom.gov.cn/)🚩 / 税务总局🚩 / 海关总署🚩 / 市场监管总局🚩 / 国家统计局🚩 / 中国贸促会 [等部门](zhongyang)
 	* <del>金融稳定发展委员会</del>　（[201711](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)~202302）
-	* /**审计署**，审计国家财政收支、中央预算执行，中央审计委员会办公室设在审计署。
-	审计署[公告/报告](https://www.audit.gov.cn/n5/)。 
+	* /**国资委**，公布(实业类)[央企名录](yangqi) ⚙️，2022年98家。
 	* /**财政部**，公布[中央金融企业名单](#YJ){:target="_top"} 🀄，2022年27家。
 	  *	发行国债，公布中国国债、地方政府债券的[收益率曲线](http://gks.mof.gov.cn/gzsylqs/)
-	* /**国资委**，公布(实业类)[央企名录](yangqi) ⚙️，2022年98家。
+	* /**审计署**，审计国家财政收支、中央预算执行，中央审计委员会办公室设在审计署。
+	审计署[公告/报告](https://www.audit.gov.cn/n5/)。 
 
 /**中国人民银行**🚩　[PBC.gov.cn](http://www.pbc.gov.cn/)　人行（央妈，国家中央银行）  
 主管业务：外汇/黄金/货币政策。 
@@ -159,6 +159,8 @@ Banks，银保监会发布的2022年12月数据
 ¥<b>[恒丰银行](https://www.hfbank.com.cn "恒丰银行股份有限公司")</b>❗⠀95395	山东济南⠀[全国分行](https://www.hfbank.com.cn/gyhf/fzjg/)	⠀[收费标准](https://www.hfbank.com.cn/gryw/fwzf/)	⠀[个人投资](https://www.hfbank.com.cn/gryw/lcgg/): 	理财	/基金	⠀[网页登录](https://my.hfbank.com.cn/CCBIS/V6/STY1/CN/login.jsp)	<sup></sup>  
 
 
+地方城商行与民营银行
+------------------
 城市商业银行 124家（地方性集体所有制银行）
 
 [北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	　
@@ -348,6 +350,9 @@ Banks，银保监会发布的2022年12月数据
 13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
 
 
+财保与人保
+---------
+
 财产保险公司94家 ㊖💼、人身保险公司 113家💼
 
 
@@ -355,9 +360,6 @@ Banks，银保监会发布的2022年12月数据
 
 主要金融交易所 📊
 -------------
-
-（证券所、期货所、等……）
-
 
 * 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
 	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
@@ -401,7 +403,33 @@ Banks，银保监会发布的2022年12月数据
 
 - 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 ……  
 
-　<i>港澳台与其他交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
+
+期货公司与证券公司
+-----------------
+
+
+　<i>港澳台与境外交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
+
+<h3 id="D61">国内其他交易所</h3>
+Exchanges
+
+*	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
+*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
+*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
+*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
+*	[天津产权交易中心](https://www.tpre.cn)
+*	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
+*	[天津国际矿业权交易所](http://www.cmextj.com)
+*	(天津)[渤海商品交易所](https://www.boce.cn/)
+*	[天津文化艺术品交易所](http://www.tjcae.com)
+*	[天津排放权交易所](https://www.chinatcx.com.cn)
+*	[上海钻石交易所](https://www.cnsde.com/)
+*	[上海环境能源交易所](https://www.cneeex.com)
+*	[广州碳排放交易所](https://www.cnemission.com/)　广碳所，广州交易所集团
+
+疑似已关闭交易所：  
+　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+
 
 
 <div id="Dcan" align="right"><a href="#" target="_top">↑ Top</a></div>
@@ -421,11 +449,12 @@ Banks，银保监会发布的2022年12月数据
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.7.1	202403
+	个人理财金融圈 Version 0.7.2	202405
 	https://laosheng.top/fuwu/jinrong
 ```
 
-💰💹💳💵📈	📉📊🧮 👑👛💼👔🛍️🚼👶🤗🎳📅🀄 📊🔔🟨㊖⊛👤♟♟♙㊣Ⓑ✪ü❃
+🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻  
+🥮🍪🥞🥮🫓🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙㊣Ⓑ✪ü❃
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
