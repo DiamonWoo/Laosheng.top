@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404  草稿	<base target="_blank">
+大萌　202307，202404~05  草稿	<base target="_blank">
 
 
 　　writing……（还在学习、收集中）
@@ -15,28 +15,7 @@
 
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金融交易所
-</div>
-
-
-世界三大黄金市场 🟨
----------------
-Gold Market
-
-　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。下面对中文网页标记图钉符号📍。
-
-*	英国伦敦现货黄金市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金价](https://www.lbma.org.uk/cn/prices-and-data#/)，报价单位：美元/盎司
-*	美国#[纽约商品交易所](https://www.cmegroup.com/cn-s/)📍，COMEX，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)，报价单位：美元/盎司  
-	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
-*	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，提供黄金期货[挂牌基准价](https://www.shfe.com.cn/products/au/)，报价单位：人民币/克；  
-	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)
-
-　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
-
-　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
-　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 = 人民币每克金价。（28.35/7=4.05）
-
-　　更多信息可见[世界黄金协会](https://china.gold.org/our-offices)📍，该会总部在伦敦，在上海、北京有办事处。
+⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金融交易所</div>
 
 
 全球主要外汇市场 💱
@@ -67,6 +46,30 @@ Foreign Exchange Market
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
 
+
+世界三大黄金市场 🟨
+---------------
+Gold Market
+
+　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。下面对中文网页标记图钉符号📍。
+
+*	英国伦敦现货黄金市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
+*	美国#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
+	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
+*	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，提供黄金期货[挂牌基准价](https://www.shfe.com.cn/products/au/)，报价单位：人民币/克；  
+	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)
+
+　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
+
+　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
+　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
+
+　　国内可以看到国际黄金价格的商业网站有：
+*	[新浪黄金](https://wap.cj.sina.cn/metal.html)手机版、[桌面版](https://finance.sina.com.cn/nmetal/)内容繁多
+*	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
+*	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
+
+　　更多信息可见[世界黄金协会](https://china.gold.org/our-offices)📍，该会总部在伦敦，在上海、北京有办事处。
 
 
 证券交易所排行榜 📊
@@ -110,9 +113,10 @@ Stock Exchange Top25 2021
 　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
 
 
+<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
+
 <h2 id="D5">港澳台金融交易所 📍</h2>
 Financial Exchange
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
 
 * 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
   　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
@@ -261,7 +265,7 @@ Systemically Important Banks (G-SIBs)
 	老生常谈 © 2019-2023 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.4 	202404
+	环球金融交易所	v0.4.5 	202405
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
