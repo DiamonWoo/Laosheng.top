@@ -1,21 +1,33 @@
-个人理财金融圈 🥯
-===================
+个人理财金融圈 🥯 Finance
+=================
 大萌　	202211-202405 草稿三	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
 　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[<sup>(1)</sup>](#Dcan){:target="_top"}_。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
 
-　　认识金融体系，首先要认识金融央企，这是中国金融业的主动脉。金融央企名单由财政部公布[<sup>(2)</sup>](#Dcan){:target="_top"}_。　其次，要认识身边的各种营业厅：银行、保险、证券……等等，理论与实践结合。大萌正在摸索一种快速查看本地区各种金融机构的页面形式。
+　　想要认清金融体系，可没那么容易。党的二十大后，国务院成立国家金监总局，监管除证监会业务外的所有金融业务，扫除了监管盲区，使得从监管角度认识中国金融业务全貌成为可能。大萌尝试以监管机构为顶点，描绘一幅中央及各地各业金融机构的层级图谱。先认识金融央企，这是中国金融业的主动脉；再认识各种金融业务的全国大型机构，建立全局意识；最后认识身边的各种营业厅：银行、保险、证券……等，理论联系实践。
 
-　　**金融圈**尝试以“集成网页”，囊括中国金融监管体系，收录网址包括：中央金融企业、主要商业银行、保险集团及公司、公募基金管理人、各地证券营业厅……　网页设计仍未定稿，欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>。
+　　为了帮助读者快速了解当地金融机构，**金融圈**尝试对地方金融机构作分省、分类表格，目前收录网址包括五类：城商行、保险公司、期货公司、证券公司、信托公司。这些公司会在法律允许的地域设立营业部。投资有风险，入市需谨慎。　　
 
-<div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈
-</div>
+<div id="mulu" align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈</div>
 
-金融圈LSIP进度
--------------
+<金融圈>目录
+-----------
+
++	中国金融监管体系 /[改革近况](#gg){:target="_top"}
++	中央金融企业 🀄 	  [27家](#yj){:target="_top"}
++	全国性[商业银行](#bank){:target="_top"} 💳	6+12家=18
++	[保险集团](#sure){:target="_top"}与中介 💼	13+5家=18
++	主要金融交易所 📊	   [8家](#ex){:target="_top"}
++	[**各地金融机构分布**](#local){:target="_top"}	 5xx家  
+	（💳城商行民营行/💼保险公司/🎰期货公司/📈证券公司/📤信托公司）
++	[港澳台](#ex2){:target="_top"}金融交易所 📊
++	国内[其他交易所](#ex3){:target="_top"} 
++	[数据来源](#data){:target="_top"}	/参考文献
+
+<h3><金融圈>收录进度</h3>
 
 		设计LC：待定 	　本页正在进行第三次改版，暂未确定收录范围。
 
@@ -26,21 +38,9 @@
 +	2022年11月，收录一行两会三所、125家城商行等网址。草稿一，v0.3.0~v0.3.9
 
 
-改革近况
---------
+<div id="tupu" align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
-*	2024-04-08，二十届中央第三轮[巡视对象34家](http://politics.people.com.cn/n1/2024/0408/c1001-40211758.html)，金融单位占一半，本页正在标记🚩。
-*	2023-05-19，『国家金融监管总局』正式挂牌，原银保监会网站更名。
-*	2023-03-27，二十届中央第一轮巡视将对对光大集团/人保集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记⛳)党委开展巡视“回头看”。
-*	2023-03-16，中央印发《党和国家机构改革方案》，将组建国家金融监督管理总局，不再保留银保监会。
-*	2021-01-06，财政部更新“[中央金融企业名录](http://jrs.mof.gov.cn/gongzuotongzhi/202102/t20210219_3658752.htm)”为27家，新增国家农担公司。 
-*	2020-12-　，黑龙江省农垦总局改制为北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
-*	2020-07-　，财政部印发《[中央金融企业名录管理暂行规定](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)》及名录26家。
-
-
-<div id="tupu" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
-
-中国金融监管体系 🔱 Finance
+中国金融监管体系 🔱
 ---------------
 
 *	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)
@@ -90,7 +90,18 @@
 *	23个会管单位：上交所 等8个金融交易所、中国证券业协会 等4个行业协会……
 *	本页收录：[主要金融交易所 ▼](#jiao){:target="_top"}📊
 
-<div id="YJ" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<h3 id="gg">改革近况</h3>
+
+*	2024-04-08，二十届中央第三轮[巡视对象34家](http://politics.people.com.cn/n1/2024/0408/c1001-40211758.html)，金融单位占一半，本页正在标记🚩。
+*	2023-05-19，『国家金融监管总局』正式挂牌，原银保监会网站更名。
+*	2023-03-27，二十届中央第一轮巡视将对对光大集团/人保集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记⛳)党委开展巡视“回头看”。
+*	2023-03-16，中央印发《党和国家机构改革方案》，将组建国家金融监督管理总局，不再保留银保监会。
+*	2021-01-06，财政部更新“[中央金融企业名录](http://jrs.mof.gov.cn/gongzuotongzhi/202102/t20210219_3658752.htm)”为27家，新增国家农担公司。 
+*	2020-12-　，黑龙江省农垦总局改制为北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
+*	2020-07-　，财政部印发《[中央金融企业名录管理暂行规定](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)》及名录26家。
+
+
+<div id="YJ" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 中央金融企业 🀄
 --------------
@@ -128,7 +139,7 @@
 27	[中国银河金控❗](https://www.china-galaxy.com.cn){:id="27"} 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
 
 
-<div id="Dyin" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
+<div id="bank" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 中国主要商业银行 💳
 --------------
@@ -158,9 +169,98 @@ Banks，银保监会发布的2022年12月数据
 ¥<b>[浙商银行](http://www.czbank.com "浙商银行股份有限公司")</b>⠀95527	浙江杭州⠀[全国分行](http://www.czbank.com/cn/map/)	⠀[收费标准](http://www.czbank.com/cn/rate/jgfwsc1/)	⠀[个人投资](http://www.czbank.com/cn/product/): 	理财	/基金	⠀[网页登录](https://perbank.czbank.com/PERBANK/logon.jsp)	<sup></sup>  
 ¥<b>[恒丰银行](https://www.hfbank.com.cn "恒丰银行股份有限公司")</b>❗⠀95395	山东济南⠀[全国分行](https://www.hfbank.com.cn/gyhf/fzjg/)	⠀[收费标准](https://www.hfbank.com.cn/gryw/fwzf/)	⠀[个人投资](https://www.hfbank.com.cn/gryw/lcgg/): 	理财	/基金	⠀[网页登录](https://my.hfbank.com.cn/CCBIS/V6/STY1/CN/login.jsp)	<sup></sup>  
 
+<i>中国境内的外资法人银行请见[环球金融交易所](../ydyl/jiaoyisuo)</i>
 
-地方城商行与民营银行
+
+<div id="sure" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+保险集团与中介 💼
+----------------
+
+　十三家保险集团：
+
+1、🀄[中国人保集团](https://www.picc.com)⠀95518⠀中国人民保险集团股份有限公司⠀PICC  
+2、🀄[中国人寿集团](https://www.chinalife.com.cn)⠀95519⠀中国人寿保险（集团）公司⠀  
+3、🀄[中国再保集团](http://www.chinare.com.cn)❗⠀⠀中国再保险（集团）股份有限公司⠀  
+4、🀄[太平保险集团](http://www.cntaiping.com)⠀95589⠀中国太平保险集团有限责任公司⠀  
+5、[太平洋保险集团](http://www.cpic.com.cn)⠀95500⠀中国太平洋保险（集团）股份有限公司⠀  
+6、[中华保险集团](http://www.cic.cn)⠀95585⠀中华联合保险集团股份有限公司⠀  
+7、[中国平安集团](http://www.pingan.com)⠀95511⠀中国平安保险（集团）股份有限公司⠀PINGAN，混合所有制企业，全球保险集团第一  
+8、[阳光保险集团](http://www.sinosig.com)⠀95510⠀阳光保险集团股份有限公司⠀  
+9、[华泰保险集团](http://www.ehuatai.com)⠀95509⠀华泰保险集团股份有限公司⠀  
+10、[泰康保险集团](https://www.taikang.com)⠀95522⠀泰康保险集团股份有限公司⠀  
+11、[大家保险集团](http://www.djbx.com)⠀95569⠀大家保险集团有限责任公司⠀  
+12、[富德保险控股](http://www.funde-ins.com)⠀⠀富德保险控股股份有限公司⠀  
+13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
+
+　五家保险中介公司：
+
+
+
+财保与人保
+---------
+
+财产保险公司94家 ㊖💼、人身保险公司 113家💼
+
+
+<div id="ex" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+主要金融交易所 📊
+-------------
+
+* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
+	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
+	超2100家上市公司，[股票代码](http://www.sse.com.cn/assortment/stock/list/share/)60xxxx、
+	近450支[基金](http://www.sse.com.cn/assortment/fund/list/)
+* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
+	[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）、
+	超2700家上市公司，[股票代码](https://www.szse.cn/market/product/stock/list/)00xxxx~30xxxx、
+	近600支[基金](https://www.szse.cn/market/product/list/all/)
+* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
+	十几种[债券](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）、
+	超 120家上市公司，[股票代码](http://www.bse.cn/nq/listedcompany.html)43xxxx~8xxxxx、
+
+* 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
+* 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
+    * 上海国际能源交易中心
+* 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
+* 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
+* 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
+
+- 证券公司 📈全国约140家，网站导航由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
+- 期货公司 📉全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
+　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
+- 上市公司 全国超5000家 ……
+
+监管以下业务（债券/股票/基金/期货+x）：  
+- 债券　Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
+  - 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
+  - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
+  - 北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）十几种债券
+
+- **股票　Stock** (股本证券)　A股(人民币普通股票)至2022年11月，总市值近80万亿。
+  - 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
+  - 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
+  - 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
+
+- 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
+  - 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+  - 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
+  - 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
+
+- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 ……  
+
+
+<div id="local" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+各地各类地方金融机构
 ------------------
+
+城商行与民营银行、保险公司、期货公司、证券公司、信托公司
+
+本段落不包含：全国性商业银行、全国性保险集团，两者有独立段落。
+
+
 城市商业银行 124家（地方性集体所有制银行）
 
 [北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	　
@@ -325,92 +425,39 @@ Banks，银保监会发布的2022年12月数据
 	202212：农村商业银行（1645家） 农村合作银行（23家） 村镇银行（1645家） 农村信用社（548家） 农村资金互助社（37家）
 	202206：农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
 
-<i>中国境内的外资法人银行请见[环球金融交易所](../ydyl/jiaoyisuo)</i>
 
 
-<div id="Dbao" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
 
-保险机构法人名单 💼
---------------
+<div id="ex2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-　十三家保险集团：
+港澳台金融交易所 📍
+------------------
+Financial Exchange
 
-1、🀄[中国人保集团](https://www.picc.com)⠀95518⠀中国人民保险集团股份有限公司⠀PICC  
-2、🀄[中国人寿集团](https://www.chinalife.com.cn)⠀95519⠀中国人寿保险（集团）公司⠀  
-3、🀄[中国再保集团](http://www.chinare.com.cn)❗⠀⠀中国再保险（集团）股份有限公司⠀  
-4、🀄[太平保险集团](http://www.cntaiping.com)⠀95589⠀中国太平保险集团有限责任公司⠀  
-5、[太平洋保险集团](http://www.cpic.com.cn)⠀95500⠀中国太平洋保险（集团）股份有限公司⠀  
-6、[中华保险集团](http://www.cic.cn)⠀95585⠀中华联合保险集团股份有限公司⠀  
-7、[中国平安集团](http://www.pingan.com)⠀95511⠀中国平安保险（集团）股份有限公司⠀PINGAN，混合所有制企业，全球保险集团第一  
-8、[阳光保险集团](http://www.sinosig.com)⠀95510⠀阳光保险集团股份有限公司⠀  
-9、[华泰保险集团](http://www.ehuatai.com)⠀95509⠀华泰保险集团股份有限公司⠀  
-10、[泰康保险集团](https://www.taikang.com)⠀95522⠀泰康保险集团股份有限公司⠀  
-11、[大家保险集团](http://www.djbx.com)⠀95569⠀大家保险集团有限责任公司⠀  
-12、[富德保险控股](http://www.funde-ins.com)⠀⠀富德保险控股股份有限公司⠀  
-13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
+* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
+  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
+  * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
+  * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
+  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+  * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
+  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
+  * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
+  * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
+* [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
+* 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
+
+* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
+  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
+* [台湾期货交易所](https://www.taifex.com.tw/cht/index)
+* [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
+
+　<i>境外主要交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
 
 
-财保与人保
----------
+<div id="ex3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-财产保险公司94家 ㊖💼、人身保险公司 113家💼
-
-
-<div id="jiao" align="right"><a href="#tupu" target="_top">↑ Top</a></div>
-
-主要金融交易所 📊
+国内其他交易所
 -------------
-
-* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
-	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
-	超2100家上市公司，[股票代码](http://www.sse.com.cn/assortment/stock/list/share/)60xxxx、
-	近450支[基金](http://www.sse.com.cn/assortment/fund/list/)
-* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
-	[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）、
-	超2700家上市公司，[股票代码](https://www.szse.cn/market/product/stock/list/)00xxxx~30xxxx、
-	近600支[基金](https://www.szse.cn/market/product/list/all/)
-* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
-	十几种[债券](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）、
-	超 120家上市公司，[股票代码](http://www.bse.cn/nq/listedcompany.html)43xxxx~8xxxxx、
-
-* 〖[中国金融期货交易所](http://www.cffex.com.cn)〗　**中金所**
-* 〖[上海期货交易所](https://www.shfe.com.cn)〗 上期所
-    * 上海国际能源交易中心
-* 〖[郑州商品交易所](http://www.czce.com.cn)〗 郑商所
-* 〖[大连商品交易所](http://www.dce.com.cn)〗 大商所
-* 〖[广州期货交易所](http://www.gfex.com.cn)〗 广期所
-
-- 证券公司 📈全国约140家，网站导航由[中国证券业协会](https://www.sac.net.cn/wlzf/hfjgxxgs/)提供，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
-- 期货公司 📉全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
-　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
-- 上市公司 全国超5000家 ……
-
-监管以下业务（债券/股票/基金/期货+x）：  
-- 债券　Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-  - 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-  - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
-  - 北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）十几种债券
-
-- **股票　Stock** (股本证券)　A股(人民币普通股票)至2022年11月，总市值近80万亿。
-  - 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
-  - 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
-  - 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
-
-- 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-  - 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-  - 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
-  - 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
-
-- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 ……  
-
-
-期货公司与证券公司
------------------
-
-
-　<i>港澳台与境外交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
-
-<h3 id="D61">国内其他交易所</h3>
 Exchanges
 
 *	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
@@ -431,15 +478,26 @@ Exchanges
 　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
 
 
+<div id="data" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-<div id="Dcan" align="right"><a href="#" target="_top">↑ Top</a></div>
-
-参考文献
+数据来源
 --------
+
+*	银行业机构法人名单
+*	保险机构法人名单
+*	期货公司名录
+*	证券公司名录
+*	证券业协会网站
+*	期货业协会网站
+
+
+<h3>参考文献</h3>
 
 * [1] 2023-03-15，[21世纪经济报道](https://www.21jingji.com/article/20230315/herald/f8509a6635bf12cf706c1faae9c400e3.html)李愿：经历洗礼的银行理财：投资者数量接近1亿，需协同发力做好投资者教育
 
 * [2] 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
+
+
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
@@ -453,7 +511,7 @@ Exchanges
 	https://laosheng.top/fuwu/jinrong
 ```
 
-🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻  
+🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻📤  
 🥮🍪🥞🥮🫓🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙㊣Ⓑ✪ü❃
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
