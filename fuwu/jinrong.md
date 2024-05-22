@@ -1,10 +1,10 @@
-个人理财金融圈 🥯 Finance
+个人理财金融圈 🥯 Finance Circles
 =================
 大萌　	202211-202405 草稿三	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告
 
-　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[<sup>(1)</sup>](#Dcan){:target="_top"}_。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
+　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[<sup>(1)</sup>](#wen){:target="_top"}_。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国金融体系的顶层设计，有助于投资者选择适合产品，降低理财风险。
 
 　　想要认清金融体系，可没那么容易。党的二十大后，国务院成立国家金监总局，监管除证监会业务外的所有金融业务，扫除了监管盲区，使得从监管角度认识中国金融业务全貌成为可能。大萌尝试以监管机构为顶点，描绘一幅中央及各地各业金融机构的层级图谱。先认识金融央企，这是中国金融业的主动脉；再认识各种金融业务的全国大型机构，建立全局意识；最后认识身边的各种营业厅：银行、保险、证券……等，理论联系实践。
 
@@ -18,22 +18,58 @@
 -------------
 
 +	中国金融监管体系 /[改革近况](#gg){:target="_top"}
-+	中央金融企业 🀄 	  [27家](#yj){:target="_top"}
++	中央金融企业 🀄 	  [27家](#zh){:target="_top"}
 +	全国性[商业银行](#bank){:target="_top"} 💳	6+12家=18
-+	[保险集团](#sure){:target="_top"}与中介 💼	13+5家=18
++	[保险集团](#sure){:target="_top"}与经纪 💼	13+x家
 +	主要金融交易所 📊	   [8家](#ex){:target="_top"}
-+	[**各地金融机构分布**](#local){:target="_top"}	 5xx家  
-	（💳城商行民营行/💼保险公司/🎰期货公司/📈证券公司/📤信托公司）
++	[**各地金融机构分布**](#local){:target="_top"}	🍕 5xx家  
+	（💳城商行民营行/💼财险与寿险公司/🎰期货公司/📈证券公司/📤信托公司）
 +	[港澳台](#ex2){:target="_top"}金融交易所 📊
 +	国内[其他交易所](#ex3){:target="_top"} 
 +	[数据来源](#data){:target="_top"}	/参考文献
 
+<h3 id="分省">各地金融机构分省索引</h3>
+
+　<a href="#11" target="_top">11-北京</a>
+　<a href="#12" target="_top">12-天津</a>
+　<a href="#13" target="_top">13-河北</a>
+　<a href="#14" target="_top">14-山西</a>
+　<a href="#15" target="_top">15-内蒙古</a>
+　<a href="#21" target="_top">21-辽宁</a>
+　<a href="#22" target="_top">22-吉林</a>
+　<a href="#23" target="_top">23-黑龙江</a>
+　<a href="#31" target="_top">31-上海</a>
+　<a href="#32" target="_top">32-江苏</a>
+　<a href="#33" target="_top">33-浙江</a>
+　<a href="#34" target="_top">34-安徽</a>
+　<a href="#35" target="_top">35-福建</a>
+　<a href="#36" target="_top">36-江西</a>
+　<a href="#37" target="_top">37-山东</a>
+　<a href="#41" target="_top">41-河南</a>
+　<a href="#42" target="_top">42-湖北</a>
+　<a href="#43" target="_top">43-湖南</a>
+　<a href="#44" target="_top">44-广东</a>
+　<a href="#45" target="_top">45-广西</a>
+　<a href="#46" target="_top">46-海南</a>
+　<a href="#50" target="_top">50-重庆</a>
+　<a href="#51" target="_top">51-四川</a>
+　<a href="#52" target="_top">52-贵州</a>
+　<a href="#53" target="_top">53-云南</a>
+　<a href="#54" target="_top">54-西藏</a>
+　<a href="#61" target="_top">61-陕西</a>
+　<a href="#62" target="_top">62-甘肃</a>
+　<a href="#63" target="_top">63-青海</a>
+　<a href="#64" target="_top">64-宁夏</a>
+　<a href="#65" target="_top">65-新疆</a>
+　71-台湾　81-香港　82-澳门
+　各省按身份证号前两位排序　▼
+
+		本页正在施工中…… 分省列表尚未完成
+
 <h3>〖金融圈〗收录进度</h3>
 
-		设计LC：待定 	　本页正在进行第三次改版，暂未确定收录范围。
-
 +	2024年3月，第三稿进行中……
-+	2023年8月，正在重构，第三稿。v0.6.6~v0.6.9
++	2023年8月，启动重构，第三稿。v0.6.6~v0.6.9
 +	2023年4月，收录金融央企27家网站群、全部保险公司名单（237家）。稿二，v0.5.0~v0.6.5
 +	2022年12月，收录六大国有商业银行、12家全国性股份制商业银行分页网址。v0.4.0~v0.4.6
 +	2022年11月，收录一行两会三所、125家城商行等网址。草稿一，v0.3.0~v0.3.9
@@ -43,6 +79,8 @@
 
 中国金融监管体系 🔱
 ---------------
+
+　　党的二十大以来，中央统筹谋划，国务院落实执行，2023年5月，金监总局正式挂牌，形成了‘一行、一局、一会’的监管格局，填补了以往‘分业监管’的空白，实现了金融监管全覆盖。
 
 *	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)
 *	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 、
@@ -102,12 +140,12 @@
 *	2020-07-　，财政部印发《[中央金融企业名录管理暂行规定](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)》及名录26家。
 
 
-<div id="YJ" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 中央金融企业 🀄
 --------------
 
-　27家，财政部2022年1月公布，部分企业有银保监会分配的机构编码。
+　27家，财政部2022年1月公布，部分企业没有银保监会(金监总局)分配的机构编码。
 
 1	[<b>中投</b>](http://www.china-inv.cn){:id="1"} ‼️ 	⠀CIC	<small>[网站群](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	<b>主权财富基金</b>，子公司：[中央汇金](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)，控参股18家金融机构，标记❗。</small>  
 2	[国开行❗](http://www.cdb.com.cn){:id="2"} 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
@@ -146,7 +184,7 @@
 --------------
 Banks，银保监会发布的2022年12月数据
 
-　国有大型商业银行（6家）<sub>及栏目页</sub>
+　　国有大型商业银行（6家）<sub>及栏目页</sub>
 
 🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀个人投资: 	[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	/[基金](https://www.icbc.com.cn/ICBC/网上基金/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
 🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[个人投资](https://ewealth.abchina.com): 	[理财](https://ewealth.abchina.com/fs/filter/)	/[基金](https://ewealth.abchina.com/fund/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
@@ -155,7 +193,7 @@ Banks，银保监会发布的2022年12月数据
 🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226): 	[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	/基金	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
 👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[个人投资](https://www.psbc.com/cn/grfw/tzlc/): 	[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	/[基金](https://www.psbc.com/cn/grfw/tzlc/jj/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
-全国性股份制商业银行（12家，其中4家¥非国有控股）<sub>及栏目页</sub>
+　　全国性股份制商业银行（12家，其中4家¥非国有控股）<sub>及栏目页</sub>
 
 🀄<b>[中信银行](https://www.citicbank.com "中信银行股份有限公司")</b>⠀95558	北京朝阳⠀[全国分行](https://www.citicbank.com/about/branches/)	⠀收费标准	⠀[个人投资](https://www.citicbank.com/personal/investment/): 	理财	/基金	⠀[网页登录](https://i.bank.ecitic.com/perbank6/signIn.do)	<sup></sup>  
 🀄<b>[光大银行](https://www.cebbank.com "中国光大银行股份有限公司")</b>❗⠀95595	北京西城⠀[全国分行](https://www.cebbank.com/eportal/ui?pageId=484657)	⠀[收费标准](https://www.cebbank.com/site/fwjgml34/)	⠀个人投资: 	[理财](https://www.cebbank.com/site/gryw/yglc/lccp49/)	/[基金](https://www.cebbank.com/site/gryw/jj/)	⠀[网页登录](https://e.cebbank.com/per/prePerlogin.do?_locale=zh_CN)	<sup>[光大理财](https://www.cebwm.com/wealth/grlc/index.html)</sup>  
@@ -175,7 +213,7 @@ Banks，银保监会发布的2022年12月数据
 
 <div id="sure" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-保险集团与中介 💼
+保险集团与经纪 💼
 ----------------
 
 　十三家保险集团：
@@ -194,7 +232,8 @@ Banks，银保监会发布的2022年12月数据
 12、[富德保险控股](http://www.funde-ins.com)⠀⠀富德保险控股股份有限公司⠀  
 13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
 
-　五家保险中介公司：
+　保险经济公司：约500家。
+金监总局的许可证信息，查不到分公司 ！
 
 
 
@@ -249,12 +288,15 @@ Banks，银保监会发布的2022年12月数据
 
 <div id="local" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-各地金融机构分布
+各地金融机构分布 🍕
 ---------------
 
-　　目前只收录五类常见的金融机构：城商行与民营银行、保险公司、期货公司、证券公司、信托公司
+　　全国性商业银行、大型保险集团，是普通人比较熟悉的，因为人们的水电缴费、工资房贷、出行保险常和这些机构有关，他们也被允许在全国各地开设分行/分公司，人们容易见到。　而另一些金融机构的知名度没这么大，一是法律限制，只被允许在当地或临近城市营业，比如城商行；二是公司设立在CBD高高的写字楼内部，远离百姓的生活区，人们很少看到，比如信托公司。
 
-　　本段落不包含：全国性商业银行、全国性保险集团，两者有独立段落。
+　　本段落针对后一种情况，收录五类金融机构：一百多家💳城商行与民营行、一百多家💼财险与寿险保险公司、一百多家🎰期货公司、一百多家📈证券公司、六十八家📤信托公司。 根据被管辖区(机构注册地)的行政区划代码，按顺序分省排列。他们分别由金监总局、证监会在各地的派出机构监管。
+
+　　一家机构在一个城市开始分公司后，还可以再开设众多营业部，以扩大经营触角。不管是大机构还是小机构，他们开设的营业部/营业网点都必须在监管机构登记。金监总局提供网页查询合法的银行业与保险业[许可证信息](https://xkz.nfra.gov.cn/)，能查到各种营业网点。　本段落只收录总公司，不收录营业部。
+
 
 
 城市商业银行 124家（地方性集体所有制银行）
@@ -494,12 +536,11 @@ Exchanges
 *	期货业协会网站
 
 
-<h3>参考文献</h3>
+<h3 id="wen">参考文献</h3>
 
 * [1] 2023-03-15，[21世纪经济报道](https://www.21jingji.com/article/20230315/herald/f8509a6635bf12cf706c1faae9c400e3.html)李愿：经历洗礼的银行理财：投资者数量接近1亿，需协同发力做好投资者教育
 
 * [2] 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
-
 
 
 
@@ -514,8 +555,8 @@ Exchanges
 	https://laosheng.top/fuwu/jinrong
 ```
 
-🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻📤  
-🥮🍪🥞🥮🫓🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙㊣Ⓑ✪ü❃
+🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻📤🥜  
+🥮🍪🥞🥮🫓🍕🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙㊣Ⓑ✪ü❃
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
