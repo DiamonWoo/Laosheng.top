@@ -111,21 +111,16 @@
 主管业务：银行业、保险业、信托业、其他金融业务。 　原“银保监会”域名cbirc.gov.cn继续有效。
 
 *	🧮中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)（“中央结算公司”于2016年全资发起设立）
-*	💳 **银行  Bank**  超4000家，总资产超**360万亿**。　其中3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
+*	💳 银行  Bank  超4000家，总资产超**360万亿**。　其中3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
 	* [全国性商业银行 ▼](#bank){:target="_top"}：国有商行 6家、全国股份制银行 12家、民营银行 17家、城市商业银行 125家
 *	💼 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
 	* [保险集团与公司 ▼](#sure){:target="_top"}：保险集团 13家、直接监管的保险公司 43家
 *	信托机构 Fiduciary  68家，总资产约30万亿。　
-*	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……），查询合法的银行业与保险业[许可证信息](https://xkz.nfra.gov.cn/)，能查到各地营业网点。
+*	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……），在[许可证信息](https://xkz.nfra.gov.cn/)栏目，能查到各类各地的营业网点。
 
 /**证监会**🚩　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会  
-主管业务：期货、股票、债券、基金：
--	期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
--	**股票 Stock** (股本证券)　A股(人民币普通股票)至2022年11月，总市值近80万亿。
--	**债券 Bond** (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超**144万亿**。
--	基金 Fund　2022年6月，公募基金超10000支，规模超26万亿。　中国证券投资基金业协会 发布[公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
-*	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布‘证券公司名录’、‘期货公司名录’。
-另有[辖区机构名录]可看各地机构名录和统计；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。证监会一共有23个会管单位。
+主管业务：期货、股票、债券、基金。
+*	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。证监会一共有23个会管单位：
 *	📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所、深交所 等)
 *	4个行业协会：中国证券业协会、中国期货业协会、中国上市公司协会、中国证券投资基金业协会
 *	2个教科机构：中证金融研究院、资本市场学院
@@ -134,6 +129,11 @@
 	- [📈 证券公司 ▼](#local){:target="_top"} 全国约140家，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
 	- [🎰 期货公司 ▼](#local){:target="_top"} 全国约150家，最新名录请看：证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，
 	- 上市公司 全国超5000家 ……
+-	期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
+-	股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
+-	债券 Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超**144万亿**。
+-	基金 Fund　2022年6月，公募基金超10000支，规模超26万亿。　中国证券投资基金业协会 发布[公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
+
 
 <div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -181,7 +181,7 @@ Banks
 
 　　根据金监总局发布的《银行业金融机构法人名单》，全国各类银行有四千多家，其中数量最大的是‘农村商业银行’与‘村镇银行’，二者合计超过三千家。以今年公布的2023年12月数据，各类银行业机构统计如下：
 
-		　　机构类型	计数			　　机构类型　	计数		　　机构类型　	计数
+		　　机构类型　	计数		　　机构类型　	计数		　　机构类型　	计数
 		开发性金融机构	1		　农村商业银行	1607		企业集团财务公司	241
 		　　政策性银行	2		　　农村信用社	499		　消费金融公司	31
 		国有大型商业银行	6		　农村合作银行	23		　汽车金融公司　	25
@@ -379,7 +379,7 @@ Financial Exchange
 港澳台金融交易所 📍
 ------------------
 
-香港特区政府/[香港金融管理局](https://www.hkma.gov.hk/gb_chi) HKMA，Hong Kong Monetary Authority，简称金管局
+香港特区政府 / [香港金融管理局](https://www.hkma.gov.hk/gb_chi) HKMA，Hong Kong Monetary Authority，简称金管局
 *	【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
   　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
 	* 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
@@ -391,7 +391,7 @@ Financial Exchange
 	* [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
 * [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 
-澳门特区政府/[澳门金融管理局](https://www.amcm.gov.mo)
+澳门特区政府 / [澳门金融管理局](https://www.amcm.gov.mo)
 *	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
 
 台湾金融监督管理委员会，简称“[金管会](https://www.fsc.gov.tw)”
