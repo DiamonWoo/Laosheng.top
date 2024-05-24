@@ -16,7 +16,7 @@
 <h3 id="gg">改革近况</h3>
 
 *	2024-05-　，国家金监总局启用新域名：nfra.gov.cn 。
-*	2024-04-08，二十届中央第三轮[巡视对象34家](http://politics.people.com.cn/n1/2024/0408/c1001-40211758.html)，金融单位占一半，本页正在标记🚩。
+*	2024-04-08，二十届中央第三轮[巡视对象34家](http://politics.people.com.cn/n1/2024/0408/c1001-40211758.html)，以金融机构为主，本页正在标记🚩。
 *	2023-05-19，『国家金融监管总局』正式挂牌，沿用原银保监会域名 cbirc.gov.cn 。
 *	2023-03-27，二十届中央第一轮巡视将对对光大集团/人保集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记⛳)党委开展巡视“回头看”。
 *	2023-03-16，中央印发《党和国家机构改革方案》，将组建国家金融监督管理总局，不再保留银保监会。
@@ -31,7 +31,7 @@
 
 +	中国金融[监管体系](#tixi){:target="_top"} /	中央金融企业 🀄 [27家](#zh){:target="_top"}
 	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12家=18
-	+ [保险集团](#sure){:target="_top"}与经纪 💼	13+x家
+	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43家
 	+ 主要金融交易所 📊	   [8家](#ex){:target="_top"}
 	+ [**地方代表性金融机构**](#local){:target="_top"}	🍕 5xx家  
 	（💳城商行民营行/💼财险与寿险公司/🎰期货公司/📈证券公司/📤信托公司）
@@ -47,20 +47,20 @@
 　<a href="#13" target="_top">13-河北</a>
 　<a href="#14" target="_top">14-山西</a>
 　<a href="#15" target="_top">15-内蒙古</a>
-　<a href="#21" target="_top">21-辽宁</a>
+　<a href="#21" target="_top">21-辽宁</a>/<small>大连</small>
 　<a href="#22" target="_top">22-吉林</a>
 　<a href="#23" target="_top">23-黑龙江</a>
 　<a href="#31" target="_top">31-上海</a>
 　<a href="#32" target="_top">32-江苏</a>
-　<a href="#33" target="_top">33-浙江</a>
+　<a href="#33" target="_top">33-浙江</a>/<small>宁波</small>
 　<a href="#34" target="_top">34-安徽</a>
-　<a href="#35" target="_top">35-福建</a>
+　<a href="#35" target="_top">35-福建</a>/<small>厦门</small>
 　<a href="#36" target="_top">36-江西</a>
-　<a href="#37" target="_top">37-山东</a>
+　<a href="#37" target="_top">37-山东</a>/<small>青岛</small>
 　<a href="#41" target="_top">41-河南</a>
 　<a href="#42" target="_top">42-湖北</a>
 　<a href="#43" target="_top">43-湖南</a>
-　<a href="#44" target="_top">44-广东</a>
+　<a href="#44" target="_top">44-广东</a>/<small>深圳</small>
 　<a href="#45" target="_top">45-广西</a>
 　<a href="#46" target="_top">46-海南</a>
 　<a href="#50" target="_top">50-重庆</a>
@@ -112,8 +112,8 @@
 	* 上海黄金交易所　Sge.com.cn　🟨黄金储备近2000吨，约￥0.8万亿。发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　
 	* 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
-/**金监总局**🚩　[CBIRC.gov.cn](http://www.cbirc.gov.cn/)　国家金融监督管理总局  
-主管业务：银行业、保险业、其他金融业务。 沿用原“银保监会”域名，公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)。
+/**金监总局**🚩　[NFRA.gov.cn](http://www.nfra.gov.cn/)　国家金融监督管理总局  
+主管业务：银行业、保险业、其他金融业务。 原“银保监会”域名cbirc.gov.cn继续有效，公布[各类机构名单](http://www.cbirc.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)。
 
 *	🧮中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)（“中央结算公司”于2016年全资发起设立）
 
@@ -129,8 +129,9 @@
 /**证监会**🚩　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
 主管业务：债券、股票、基金、期货。
 *	资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)
-*	合法机构名录、辖区机构名录
-*	23个会管单位：上交所 等8个金融交易所、中国证券业协会 等4个行业协会……
+*	【统计信息】：[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布‘证券公司名录’、‘期货公司名录’。
+另有[辖区机构名录]可看各地机构名录和统计。
+*	23个会管单位：含 8个交易所(上交所 等)、4个行业协会(中国证券业协会 等)……
 *	本页收录：[主要金融交易所 ▼](#jiao){:target="_top"}📊
 
 
@@ -176,9 +177,16 @@
 
 全国性商业银行 💳
 -------------
-Banks，银保监会发布的2022年12月数据
+Banks
 
-　　国有大型商业银行（6家）<sub>及栏目页</sub>
+　　根据金监总局发布的《银行业金融机构法人名单》，全国各类银行有四千多家，其中数量最大的是‘农村商业银行’与‘村镇银行’，二者合计超过三千家。以今年公布的2023年12月数据，各类银行业机构统计如下：
+
+	机构类型：	开发性金融机构	政策性银行	国有大型商业银行	股份制商业银行	城市商业银行	民营银行	信托公司	外资法人银行	农村商业银行	农村信用社	农村合作银行	农村资金互助社	村镇银行	企业集团财务公司	消费金融公司	汽车金融公司	金融租赁公司	金融资产管理公司	货币经纪公司	直销银行	贷款公司	住房储蓄银行	其他金融机构	总计
+	　　计数：	1	2	6	12	125	19	67	41	1607	499	23	30	1636	241	31	25	70	5	6	2	1	1	40	4490
+
+　　在全国范围内知名度较大的是‘国有大型商业银行’6家与‘股份制商业银行’12家，他们可以在全国开设分行/分公司，受理个人业务，受到总局直接监管。这两类名单十分稳定，下方分段列出。
+
++	国有大型商业银行（6家）<sub>及栏目页</sub>
 
 🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀个人投资: 	[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	/[基金](https://www.icbc.com.cn/ICBC/网上基金/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
 🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[个人投资](https://ewealth.abchina.com): 	[理财](https://ewealth.abchina.com/fs/filter/)	/[基金](https://ewealth.abchina.com/fund/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
@@ -187,7 +195,7 @@ Banks，银保监会发布的2022年12月数据
 🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[个人投资](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226): 	[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	/基金	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
 👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[个人投资](https://www.psbc.com/cn/grfw/tzlc/): 	[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	/[基金](https://www.psbc.com/cn/grfw/tzlc/jj/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
-　　全国性股份制商业银行（12家）<sub>及栏目页</sub>
++	全国性股份制商业银行（12家）<sub>及栏目页</sub>
 
 🀄<b>[中信银行](https://www.citicbank.com "中信银行股份有限公司")</b>⠀95558	北京朝阳⠀[全国分行](https://www.citicbank.com/about/branches/)	⠀收费标准	⠀[个人投资](https://www.citicbank.com/personal/investment/): 	理财	/基金	⠀[网页登录](https://i.bank.ecitic.com/perbank6/signIn.do)	<sup></sup>  
 🀄<b>[光大银行](https://www.cebbank.com "中国光大银行股份有限公司")</b>❗⠀95595	北京西城⠀[全国分行](https://www.cebbank.com/eportal/ui?pageId=484657)	⠀[收费标准](https://www.cebbank.com/site/fwjgml34/)	⠀个人投资: 	[理财](https://www.cebbank.com/site/gryw/yglc/lccp49/)	/[基金](https://www.cebbank.com/site/gryw/jj/)	⠀[网页登录](https://e.cebbank.com/per/prePerlogin.do?_locale=zh_CN)	<sup>[光大理财](https://www.cebwm.com/wealth/grlc/index.html)</sup>  
@@ -209,10 +217,18 @@ Banks，银保监会发布的2022年12月数据
 
 <div id="sure" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-保险集团与经纪 💼
+保险集团与公司 💼
 ----------------
 
-　十三家保险集团：
+　　根据金监总局发布的《保险机构法人名单》，全国有两百多家保险公司（比银行业少多了），其中最主要的是保险集团、财险公司、寿险公司，三类合计超过一半。以今年公布的2023年12月数据，各类保险机构统计如下：
+
+	机构类型：	政策性保险公司	保险集团（控股）公司	财险公司	寿险公司	养老保险公司	健康险公司	再保险公司	保险资产管理公司	养老保险-参照资管公
+司管理	其他	合计
+	　　计数：	1	13	88	75	9	7	7	34	1	3	238
+
+　　在上述三类主要的保险机构中，一共有56家受到总局的直接监管，其他保险机构的监管责任单位是各省地监管局。以下分段列出总局监管的保险机构：
+
++　　十三家保险集团：
 
 1、🀄[中国人保集团](https://www.picc.com)⠀95518⠀中国人民保险集团股份有限公司⠀PICC  
 2、🀄[中国人寿集团](https://www.chinalife.com.cn)⠀95519⠀中国人寿保险（集团）公司⠀  
@@ -228,7 +244,57 @@ Banks，银保监会发布的2022年12月数据
 12、[富德保险控股](http://www.funde-ins.com)⠀⠀富德保险控股股份有限公司⠀  
 13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
 
-　　金监总局公布的《保险机构法人名单》大约有两百多家，除此之外还会发布一个《保险中介机构法人名单》，有两千五百多家！可能是因为保险难卖，专门搞了好多**卖**保险的公司。🙄
++　　23家受总局监管的财险公司❕㊖：
+
+　[中国人民财产保险](https://property.picc.com '中国人民财产保险股份有限公司')
+　[中国大地财产保险](http://www.ccic-net.com.cn '中国大地财产保险股份有限公司')
+　[中华联合财产保险](http://e.cic.cn '中华联合财产保险股份有限公司')
+　[中国太平洋财产保险](http://www.cpic.com.cn/cx '中国太平洋财产保险股份有限公司')
+　[中国平安财产保险](http://property.pingan.com '中国平安财产保险股份有限公司')
+　[天安财产保险](http://www.95505.com.cn '天安财产保险股份有限公司')
+　[太平财产保险](http://caixian.cntaiping.com '太平财产保险有限公司')
+　[太平洋安信农业保险](https://www.aaic.com.cn '太平洋安信农业保险股份有限公司')
+　[安华农业保险](http://www.ahic.com.cn '安华农业保险股份有限公司')
+　[阳光财产保险](https://www.4000-000-000.com/ '阳光财产保险股份有限公司')
+　[阳光农业相互保险公司](http://www.samic.com.cn '阳光农业相互保险公司')
+　[中国人寿财产保险](http://www.chinalife-p.com.cn '中国人寿财产保险股份有限公司')
+　[国元农业保险](http://www.gynybx.com.cn '国元农业保险股份有限公司')
+　[华泰财产保险](http://pc.ehuatai.com '华泰财产保险有限公司')
+　[众安在线财产保险](http://www.zhongan.com '众安在线财产保险股份有限公司')
+　[中原农业保险](https://zyic.com '中原农业保险股份有限公司')
+　[泰康在线财产保险](https://www.tk.cn '泰康在线财产保险股份有限公司')
+　[深圳比亚迪财产保险]( '深圳比亚迪财产保险有限公司')
+　[众惠财产相互保险社](https://www.pubmi.org '众惠财产相互保险社')
+　[汇友财产相互保险社](https://www.heromutual.com '汇友财产相互保险社')
+　[大家财产保险](https://property.djbx.com '大家财产保险有限责任公司')
+　[中国融通财产保险](https://www.crtic.com '中国融通财产保险有限公司')
+　[中国渔业互助保险社]( '中国渔业互助保险社')
+
++　　20家受总局监管的寿险公司❕☯：
+
+　[中国人寿](https://www.e-chinalife.com/ '中国人寿保险股份有限公司')
+　[中国太平洋人寿](https://life.cpic.com.cn/ '中国太平洋人寿保险股份有限公司')
+　[中国平安人寿](https://life.pingan.com/ '中国平安人寿保险股份有限公司')
+　[新华人寿](https://www.newchinalife.com/ '新华人寿保险股份有限公司')
+　[太平人寿](https://life.cntaiping.com/ '太平人寿保险有限公司')
+　[工银安盛人寿](https://www.icbc-axa.com/ '工银安盛人寿保险有限公司')
+　[中信保诚人寿](https://www.citic-prudential.com.cn/ '中信保诚人寿保险有限公司')
+　[友邦人寿](https://e.aia.com.cn/ '友邦人寿保险有限公司')
+　[富德生命人寿](http://www.sino-life.com '富德生命人寿保险股份有限公司')
+　[小康人寿](https://www.livit-life.com/ '小康人寿保险有限责任公司')
+　[君康人寿](https://jklife.com/ '君康人寿保险股份有限公司')
+　[中国人民人寿](http://www.picclife.cn '中国人民人寿保险股份有限公司')
+　[国华人寿](http://www.95549.cn '国华人寿保险股份有限公司')
+　[阳光人寿](http://www.sinosig.com '阳光人寿保险股份有限公司')
+　[中邮人寿](http://www.chinapost-life.com '中邮人寿保险股份有限公司')
+　[大家人寿](https://life.djbx.com/ '大家人寿保险股份有限公司')
+　[前海人寿](http://www.foresealife.com '前海人寿保险股份有限公司')
+　[渤海人寿](http://www.bohailife.net/ '渤海人寿保险股份有限公司')
+　[泰康人寿](https://www.taikanglife.com/ '泰康人寿保险有限责任公司')
+　[信美人寿相互保险社](https://www.trustlife.com/ '信美人寿相互保险社')
+
+
+　　除了‘保险机构’之外，总局还会发布一个《保险**中介机构**法人名单》，有两千五百多家！可能是因为保险难卖，专门搞了好多**卖**保险的公司。🙄
 
 　　这里给大家介绍一个反向操作的机构类型：保险经纪公司，专门帮助大家**买**保险的公司。他们会从多家保险公司中选择适合你的保险产品，帮助设计保险方案，协助理赔。全国大约500家，这里给大家举几个例子：
 
@@ -536,12 +602,11 @@ Exchanges
 数据来源
 --------
 
-*	银行业机构法人名单
-*	保险机构法人名单
-*	期货公司名录
-*	证券公司名录
+*	国家金监总局发布的《银行业机构法人名单》、《保险机构法人名单》
+*	证监会发布的《期货公司名录》、《证券公司名录》
 *	证券业协会网站
 *	期货业协会网站
+*	[中国信托业协会](http://www.xtxh.net/xtxh/memberslist/index.htm)
 
 
 <h3 id="jin">〖金融圈〗收录进度</h3>
@@ -566,12 +631,13 @@ Exchanges
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.7.3	202405
+	个人理财金融圈 Version 0.7.4	202405
 	https://laosheng.top/fuwu/jinrong
 ```
 
 🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻📤🥜  
-🥮🍪🥞🥮🫓🍕🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙㊣Ⓑ✪ü❃
+🥮🍪🥞🥮🫓🍕🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙  
+❀❁㊡☯㊣Ⓑ✪ü❃☢㋡◍㊉㊏
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
