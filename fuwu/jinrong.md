@@ -8,7 +8,7 @@
 
 　　想要认清金融体系，可没那么容易。党的二十大后，国务院成立国家金监总局，监管除证监会业务外的所有金融业务，扫除了监管盲区，使得从监管角度认识中国金融业务全貌成为可能。大萌尝试以监管机构为顶点，描绘一幅中央及各地各业金融机构的**代表性名册**。　先认识金融央企，这是中国金融业的主动脉；再认识各种金融业务的全国大型机构，建立全局意识；最后认识身边的各种营业厅：银行、保险、证券……等，理论联系实践。
 
-　　为了帮助读者快速了解当地金融机构，**金融圈**尝试对地方金融机构作分省、分类表格，目前收录网址包括五类：城商行、保险公司、期货公司、证券公司、信托公司。这些公司会在法律允许的地域设立营业部。投资有风险，入市需谨慎。　　
+　　为了帮助读者快速了解当地金融机构，**金融圈**尝试对地方金融机构作分省、分类列表，目前收录网址包括五类：城商行、保险公司、期货公司、证券公司、信托公司。这些公司会在法律允许的地域设立营业部。投资有风险，入市需谨慎。　　
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/个人理财金融圈</div>
@@ -32,17 +32,16 @@
 +	中国金融[监管体系](#tixi){:target="_top"} /	中央金融企业 🀄 [27家](#zh){:target="_top"}
 	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12家=18
 	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43家
-	+ 主要金融交易所 📊	   [8家](#ex){:target="_top"}
-	+ [**地方代表性金融机构**](#local){:target="_top"}	🍕 5xx家  
+	+ [**地方代表性金融机构**](#local){:target="_top"}	🍕 6xx家  
 	（💳城商行民营行/💼财险与寿险公司/🎰期货公司/📈证券公司/📤信托公司）
+	+ 主要[金融交易所](#ex){:target="_top"} 📊	   8家
 	+ [港澳台](#ex2){:target="_top"}金融交易所 📊
 	+ 国内[其他交易所](#ex3){:target="_top"} 
 +	[数据来源](#data){:target="_top"}　	/收录进度 /参考文献
 
 **地方代表性金融机构--分省索引：**
 
-　
-<a href="#11" target="_top">11-北京</a>
+　<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a>
 　<a href="#14" target="_top">14-山西</a>
@@ -86,9 +85,8 @@
 
 　　党的二十大以来，中央统筹谋划，国务院落实执行，2023年5月，金监总局正式挂牌，形成了‘一行、一局、一会’的监管格局，填补了以往‘分业监管’的空白，实现了金融监管全覆盖。
 
-*	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)
-*	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml) 、
-	全国政协[经济委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jjwyh/)
+*	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)、中央审计委员会
+*	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml)/全国政协[经济委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jjwyh/)
 *	国务院：
 	* / [发改委](https://www.ndrc.gov.cn/)🚩 / [商务部](http://www.mofcom.gov.cn/)🚩 / 税务总局🚩 / 海关总署🚩 / 市场监管总局🚩 / 国家统计局🚩 / 中国贸促会 [等部门](zhongyang)
 	* <del>金融稳定发展委员会</del>　（[201711](http://www.gov.cn/guowuyuan/2017-11/08/content_5238161.htm)~202302）
@@ -104,32 +102,38 @@
 *	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
 *	人行管理的国家局：
 	* 国家外汇管理局🚩　[Safe.gov.cn](https://www.safe.gov.cn/)　💰 外汇局，外汇储备约$3万亿美元。
-	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*各国货币的名称可见[世界国别速查表](../ydyl/nations)*
+	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*各国货币的名称可见[外交国别速查表](../ydyl/nations)*
 *	人行组建或批准组建的交易机构：
 	* 上海黄金交易所　Sge.com.cn　🟨黄金储备近2000吨，约￥0.8万亿。发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　
 	* 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
-/**金监总局**🚩　[NFRA.gov.cn](http://www.nfra.gov.cn/)　国家金融监督管理总局  
+/**金监总局**🚩　[NFRA.gov.cn](http://www.nfra.gov.cn/) 国家金融监督管理总局  
 主管业务：银行业、保险业、信托业、其他金融业务。 　原“银保监会”域名cbirc.gov.cn继续有效。
 
 *	🧮中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)（“中央结算公司”于2016年全资发起设立）
-*	💳 银行  Bank  超4000家，总资产超360万亿。　其中3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
+*	💳 **银行  Bank**  超4000家，总资产超**360万亿**。　其中3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
 	* [全国性商业银行 ▼](#bank){:target="_top"}：国有商行 6家、全国股份制银行 12家、民营银行 17家、城市商业银行 125家
 *	💼 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
 	* [保险集团与公司 ▼](#sure){:target="_top"}：保险集团 13家、直接监管的保险公司 43家
 *	信托机构 Fiduciary  68家，总资产约30万亿。　
-*	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……），可查[各类机构名单](http://www.nfra.gov.cn/cn/view/pages/zhengwuxinxi/zhengfuxinxi.html?signIndex=2#1)。查询合法的银行业与保险业[许可证信息](https://xkz.nfra.gov.cn/)，能查到各地营业网点。
+*	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……），查询合法的银行业与保险业[许可证信息](https://xkz.nfra.gov.cn/)，能查到各地营业网点。
 
-/**证监会**🚩　[CSRC.gov.cn](http://www.csrc.gov.cn/)　中国证券监督管理委员会  
-主管业务：期货、股票、债券、基金。
-
+/**证监会**🚩　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会  
+主管业务：期货、股票、债券、基金：
+-	期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
+-	**股票 Stock** (股本证券)　A股(人民币普通股票)至2022年11月，总市值近80万亿。
+-	**债券 Bond** (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超**144万亿**。
+-	基金 Fund　2022年6月，公募基金超10000支，规模超26万亿。　中国证券投资基金业协会 发布[公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
 *	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布‘证券公司名录’、‘期货公司名录’。
 另有[辖区机构名录]可看各地机构名录和统计；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。证监会一共有23个会管单位。
 *	📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所、深交所 等)
 *	4个行业协会：中国证券业协会、中国期货业协会、中国上市公司协会、中国证券投资基金业协会
 *	2个教科机构：中证金融研究院、资本市场学院
 *	9个监管相关公司：中证数据有限责任公司、中证商品指数有限责任公司、中国证券登记结算有限责任公司、中国证券投资者保护基金有限责任公司、中国证券金融股份有限公司、中国期货市场监控中心有限责任公司、全国中小企业股份转让系统有限责任公司、中证信息技术服务有限责任公司、中证中小投资者服务中心有限责任公司。
-
+*	🍕 各省地证监局/分局监管：期货公司、证券公司等其他证券业机构
+	- [📈 证券公司 ▼](#local){:target="_top"} 全国约140家，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
+	- [🎰 期货公司 ▼](#local){:target="_top"} 全国约150家，最新名录请看：证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，
+	- 上市公司 全国超5000家 ……
 
 <div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -222,6 +226,7 @@ Banks
 
 保险集团与公司 💼
 ----------------
+Insurance
 
 　　根据金监总局发布的《保险机构法人名单》，全国有两百多家保险公司（比银行少），其中最主要的是保险集团、财险公司、寿险公司，三类合计超过一半。以今年公布的2023年12月数据，各类保险机构统计如下：
 
@@ -302,7 +307,7 @@ Banks
 　❕☯[信美人寿相互保险社](https://www.trustlife.com/ '信美人寿相互保险社')
 
 　　除了‘保险机构’之外，总局还会发布一个《保险**中介机构**法人名单》，有两千五百多家！可能是因为保险难卖，专门搞了好多**卖**保险的公司。🙄  
-　　这里给大家介绍一个反向操作的机构类型：保险经纪公司，专门帮助大家**买**保险的公司。他们会从多家保险公司中选择适合你的保险产品，帮助设计保险方案，协助理赔。全国大约500家，这里给大家举几个例子：
+　　大萌给大家介绍一个反向操作的机构类型：保险经纪公司，专门帮助大家**买**保险的公司。他们会从多家保险公司中选择适合你的保险产品，帮助设计保险方案，协助理赔。全国大约500家，这里举几个例子：
 
 　　[江泰保险经纪](https://www.jiangtai.com/)股份有限公司、
 [明亚](https://www.mingya.com.cn)保险经纪、
@@ -314,24 +319,52 @@ Banks
 [达信(中国)保险经纪](https://www.marsh.com/cn/)有限公司
 [水滴保](https://www.sdbao.com)-水滴旗下保险经纪平台
 
+
+<div id="local" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+地方代表性金融机构 🍕
+----------------
+
+　　根据是否由金监总局、证监会直接监管，大萌把繁多的金融机构分为两大类：全国性和地方性。
+　由金监总局直接监管的银行与保险机构、由证监会直接监管的交易所，知名度很大，因为水电缴费、工资房贷、出行保险、买债炒股……常和这些机构有关，他们也会在全国各地开设分行/分公司，人们容易见到。
+　由金监总局各省地派出机构监管的小银行、由各省地证监局/分局监管的证券业公司，人们就比较陌生。一是法律限制，他们只被允许在当地或临近城市营业，比如城商行；二是公司设立在CBD高高的写字楼内部，远离百姓的生活区，比如信托公司。
+
+　　对于地方性的金融机构，大萌选取了有代表性的五个类别，收录他们的名单与网址：一百多家💳城商行与民营行、一百多家💼财险与寿险公司、一百多家🎰期货公司、一百多家📈证券公司、六十八家📤信托公司。 根据被管辖区(机构注册地)的行政区划代码，按顺序分省排列。他们分别由金监总局、证监会在各地的派出机构监管。
+
+		
+		地方金融机构名录正在施工……
+		。。。
+
+
+- 城市商业银行 124家（地方性集体所有制银行）、民营银行 19家（民企）　全称均为“某某银行股份有限公司”
+- 财产保险公司94家 ㊖💼、人身保险公司 113家💼
+- 证券公司 📈全国约140家，
+- 期货公司 📉全国约150家，
+- 信托公司  68家
+
+
 <div id="ex" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 主要金融交易所 📊
--------------
+------------------
+Financial Exchange
 
-　　　证监会直接监管的8个交易所。　期货公司、证券公司等其他证券业机构，由各省地证监局/分局监管。
+　　　证监会直接监管的8个交易所。　
 
-* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)  
-	超50000支[债券](http://www.sse.com.cn/assortment/bonds/list/)、
-	超2100家上市公司，[股票代码](http://www.sse.com.cn/assortment/stock/list/share/)60xxxx、
-	近450支[基金](http://www.sse.com.cn/assortment/fund/list/)
-* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)  
-	[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）、
-	超2700家上市公司，[股票代码](https://www.szse.cn/market/product/stock/list/)00xxxx~30xxxx、
-	近600支[基金](https://www.szse.cn/market/product/list/all/)
-* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)  
-	十几种[债券](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）、
-	超 120家上市公司，[股票代码](http://www.bse.cn/nq/listedcompany.html)43xxxx~8xxxxx、
+* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
+	- 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
+	- [债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支
+	- [基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+
+* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+	- 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)~30xxxx
+	- [国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
+	- [基金列表](https://www.szse.cn/market/product/list/all/)近600支
+
+* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
+	- 上市公司超 120家　8xxxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)/43xxxx　全国中小企业股份转让系统
+	- [债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/公司债）
+	- 可转债
 
 * 〖[**中金所**](http://www.cffex.com.cn)〗　中国金融期货交易所
 * 〖[上期所](https://www.shfe.com.cn)〗 上海期货交易所
@@ -341,245 +374,31 @@ Banks
 * 〖[广期所](http://www.gfex.com.cn)〗 广州期货交易所
 
 
-
-- 证券公司 📈全国约140家，含中央汇金参股的：银河证券❗、申万宏源❗、中金公司❗、中信建投❗。
-- 期货公司 📉全国约150家，最新名录请看　证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，  
-　　　其他期货角色成员可看[中国期货业协会](http://www.cfachina.org/informationpublicity/hygs/)的会员公告。
-- 上市公司 全国超5000家 ……
-
-监管以下业务（债券/股票/基金/期货+x）：  
-- 债券　Bond (债务证券)　据人行发布2022年10月[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额超144万亿。
-  - 上交所[债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支债券
-  - 深交所[国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
-  - 北交所[债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/可转债）十几种债券
-
-- **股票　Stock** (股本证券)　A股(人民币普通股票)至2022年11月，总市值近80万亿。
-  - 上交所　上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
-  - 深交所　上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)30xxxx
-  - 北交所　上市公司超 120家　43xxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)8xxxxx　　全国中小企业股份转让系统
-
-- 基金　Fund　2022年6月，公募基金超10000支，规模超26万亿。
-  - 上交所[基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-  - 深交所[基金列表](https://www.szse.cn/market/product/list/all/)近600支
-  - 中国证券投资基金业协会 [公募基金月均规模排名](https://www.amac.org.cn/researchstatistics/datastatistics/mutualfundindustrydata/)Top20（易方达/华夏/广发……）
-
-- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 ……  
-
-
-<div id="local" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-地方代表性金融机构 🍕
-----------------
-
-　　根据是否由金监总局、证监会直接监管，大萌把繁多的金融机构分为两大类：全国性和地方性。
-　由金监总局直接监管的银行与保险机构、由证监会直接监管的交易所，知名度很大，因为水电缴费、工资房贷、出行保险、买债炒股……常和这些机构有关，他们也会在全国各地开设分行/分公司，人们容易见到。
-　由金监总局各省地派出机构监管的小银行、由各省地证监局/分局监管的证券业公司，人们就比较陌生。一是法律限制，他们只被允许在当地或临近城市营业，比如城商行；二是公司设立在CBD高高的写字楼内部，远离百姓的生活区，人们很少看到，比如信托公司。
-
-　　本段针对后一种情况，收录有代表性的五类金融机构：一百多家💳城商行与民营行、一百多家💼财险与寿险公司、一百多家🎰期货公司、一百多家📈证券公司、六十八家📤信托公司。 根据被管辖区(机构注册地)的行政区划代码，按顺序分省排列。他们分别由金监总局、证监会在各地的派出机构监管。
-
-　　一家机构在一个城市开始分公司后，还可以再开设众多营业部，以扩大经营触角。不管是大机构还是小机构，他们开设的营业部/营业网点都必须在监管机构登记。金监总局提供网页，证监会可能也有类似的查询。。。　本段落只收录总公司，不收录营业部。
-
-		
-		本段正在施工中…… 地方金融机构名录尚未完成
-
-
-　　城市商业银行 124家（地方性集体所有制银行）
-
-[北京银行](https://www.bankofbeijing.com.cn "北京银行股份有限公司 ")	　
-[天津银行](https://www.bankoftianjin.com "天津银行股份有限公司 ")	　
-[河北银行](http://www.hebbank.com "河北银行股份有限公司 ")	　
-[保定银行](http://www.bd-bank.com.cn "保定银行股份有限公司 ")	　
-[沧州银行](http://ebank.bankcz.com "沧州银行股份有限公司 ")	　
-[承德银行](http://www.chengdebank.com "承德银行股份有限公司 ")	　
-[邯郸银行](http://www.hdcb.cn "邯郸银行股份有限公司 ")	　
-[衡水银行](http://www.hengshuibank.com "衡水银行股份有限公司 ")	　
-[廊坊银行](http://www.lccb.com.cn "廊坊银行股份有限公司 ")	　
-[秦皇岛银行](http://www.qhdbank.cn "秦皇岛银行股份有限公司 ")	　
-[唐山银行](http://www.ts-bank.cn "唐山银行股份有限公司 ")	　
-[邢台银行](http://www.xtbank.com "邢台银行股份有限公司 ")	　
-[张家口银行](http://www.zjkccb.com "张家口银行股份有限公司 ")	　
-
-[山西银行](https://www.shxibank.com "山西银行股份有限公司 ")	　
-[晋商银行](http://www.jshbank.com "晋商银行股份有限公司 ")	　
-[内蒙古银行](http://www.boimc.com.cn "内蒙古银行股份有限公司 ")	　
-[蒙商银行](http://www.bsb.com.cn "蒙商银行股份有限公司 ")	　
-[鄂尔多斯银行](http://www.ordosbank.com "鄂尔多斯银行股份有限公司 ")	　
-[乌海银行](http://www.wuhaicb.com "乌海银行股份有限公司 ")	　
-[辽沈银行](https://www.liaoshen-bank.com "辽沈银行股份有限公司 ")	　
-[盛京银行](http://www.shengjingbank.com.cn "盛京银行股份有限公司 ")	　
-[锦州银行](http://www.jinzhoubank.com "锦州银行股份有限公司 ")	　
-[鞍山银行](http://www.bankofas.com "鞍山银行股份有限公司 ")	　
-[本溪银行](http://www.bankofbx.com "本溪银行股份有限公司 ")	　
-[朝阳银行](http://www.cycb.com "朝阳银行股份有限公司 ")	　
-[丹东银行](http://www.dandongbank.com "丹东银行股份有限公司 ")	　
-[抚顺银行](http://www.bankoffs.com.cn "抚顺银行股份有限公司 ")	　
-[阜新银行](http://www.fuxinbank.com "阜新银行股份有限公司 ")	　
-[葫芦岛银行](http://www.bankofhld.com "葫芦岛银行股份有限公司 ")	　
-[盘锦银行](http://www.bankofpj.com "盘锦银行股份有限公司 ")	　
-[大连银行](http://www.bankofdl.com "大连银行股份有限公司 ")	　
-[铁岭银行](http://www.bankoftieling.com "铁岭银行股份有限公司 ")	　
-[营口银行](http://www.bankofyk.com "营口银行股份有限公司 ")	　
-[吉林银行](http://www.jlbank.com.cn "吉林银行股份有限公司 ")	　
-[哈尔滨银行](http://www.hrbcb.com.cn "哈尔滨银行股份有限公司 ")	　
-[龙江银行](http://www.lj-bank.com "龙江银行股份有限公司 ")	　
-
-[上海银行](http://www.bosc.cn "上海银行股份有限公司 ")	　
-[徽商银行](http://www.hsbank.com.cn "徽商银行股份有限公司 ")	　
-[江苏银行](http://www.jsbchina.cn "江苏银行股份有限公司 ")	　
-[南京银行](http://www.njcb.com.cn "南京银行股份有限公司 ")	　
-[苏州银行](http://www.suzhoubank.com "苏州银行股份有限公司 ")	　
-[江苏长江商业银行](http://cjccb.com "江苏长江商业银行股份有限公司 ")	　
-[杭州银行](http://www.hzbank.com.cn "杭州银行股份有限公司 ")	　
-[湖州银行](http://www.hzccb.net "湖州银行股份有限公司 ")	　
-[嘉兴银行](http://www.jxccb.com "嘉兴银行股份有限公司 ")	　
-[金华银行](http://www.jhccb.com.cn "金华银行股份有限公司 ")	　
-[绍兴银行](http://www.sxccb.com "绍兴银行股份有限公司 ")	　
-[台州银行](http://www.tzbank.com "台州银行股份有限公司 ")	　
-[温州银行](http://www.wzbank.cn "温州银行股份有限公司 ")	　
-[浙江稠州商业银行](http://www.czcb.com.cn "浙江稠州商业银行股份有限公司 ")	　
-[浙江民泰商业银行](http://www.mintaibank.com "浙江民泰商业银行股份有限公司 ")	　
-[浙江泰隆商业银行](http://www.zjtlcb.com "浙江泰隆商业银行股份有限公司 ")	　
-[宁波银行](http://www.nbcb.com.cn "宁波银行股份有限公司 ")	　
-[宁波东海银行](http://www.ndhb.cn "宁波东海银行股份有限公司 ")	　
-[宁波通商银行](http://www.ncbank.cn "宁波通商银行股份有限公司 ")	　
-
-[福建海峡银行](http://www.fjhxbank.com "福建海峡银行股份有限公司 ")	　
-[泉州银行](http://www.qzccbank.com "泉州银行股份有限公司 ")	　
-[厦门银行](http://www.xmccb.com "厦门银行股份有限公司 ")	　
-[厦门国际银行](http://www.xib.com.cn "厦门国际银行股份有限公司 ")	　
-[江西银行](http://www.jx-bank.com "江西银行股份有限公司 ")	　
-[赣州银行](http://www.gzccb.com "赣州银行股份有限公司 ")	　
-[九江银行](http://www.jjccb.com "九江银行股份有限公司 ")	　
-[上饶银行](http://www.srbank.cn "上饶银行股份有限公司 ")	　
-
-[青岛银行](http://www.qdccb.com "青岛银行股份有限公司 ")	　
-[齐鲁银行](http://www.qlbchina.com "齐鲁银行股份有限公司 ")	　
-[德州银行](http://www.dzbchina.com "德州银行股份有限公司 ")	　
-[东营银行](http://www.dyccb.net "东营银行股份有限公司 ")	　
-[济宁银行](http://www.jn-bank.com "济宁银行股份有限公司 ")	　
-[莱商银行](http://www.lsbankchina.com "莱商银行股份有限公司 ")	　
-[临商银行](https://www.lsbchina.com "临商银行股份有限公司 ")	　
-[齐商银行](https://www.qsbank.cc "齐商银行股份有限公司 ")	　
-[日照银行](https://www.bankofrizhao.com.cn "日照银行股份有限公司 ")	　
-[泰安银行](https://www.taccb.com.cn "泰安银行股份有限公司 ")	　
-[威海市商业银行](https://www.whccb.com "威海市商业银行股份有限公司 ")	　
-[潍坊银行](http://www.bankwf.com "潍坊银行股份有限公司 ")	　
-[烟台银行](http://www.yantaibank.net "烟台银行股份有限公司 ")	　
-[枣庄银行](http://www.zzbank.cc "枣庄银行股份有限公司 ")	　
-
-[中原银行](http://www.zybank.com.cn "中原银行股份有限公司 ")	　
-[郑州银行](http://www.zzbank.cn "郑州银行股份有限公司 ")	　
-[华融湘江银行](http://www.hrxjbank.com.cn "华融湘江银行股份有限公司 ")	　
-[长沙银行](http://www.cscb.cn "长沙银行股份有限公司 ")	　
-[汉口银行](http://www.hkbchina.com "汉口银行股份有限公司 ")	　
-[湖北银行](http://www.hubeibank.cn "湖北银行股份有限公司 ")	　
-
-[广州银行](http://www.gzcb.com.cn "广州银行股份有限公司 ")	　
-[东莞银行](http://www.dongguanbank.cn "东莞银行股份有限公司 ")	　
-[广东华兴银行](http://www.ghbank.com.cn "广东华兴银行股份有限公司 ")	　
-[广东南粤银行](http://www.gdnybank.com "广东南粤银行股份有限公司 ")	　
-[珠海华润银行](http://www.crbank.com.cn "珠海华润银行股份有限公司 ")	　
-[广西北部湾银行](http://www.bankofbbg.com "广西北部湾银行股份有限公司 ")	　
-[桂林银行](http://www..guilinbank.com.cn "桂林银行股份有限公司 ")	　
-[柳州银行](http://www.lzccb.com "柳州银行股份有限公司 ")	　
-[海南银行](http://www.hnbankchina.com.cn "海南银行股份有限公司 ")	　
-
-[重庆三峡银行](http://www.ccqtgb.com "重庆三峡银行股份有限公司 ")	　
-[重庆银行](http://www.cqcbank.com "重庆银行股份有限公司 ")	　
-[四川银行](https://ebank.pzhccb.com/web_pibs "四川银行股份有限公司 ")	　
-[成都银行](http://www.bocd.com.cn "成都银行股份有限公司 ")	　
-[达州银行](http://www.dzccb.com.cn "达州银行股份有限公司 ")	　
-[长城华西银行](http://www.gwbank.com.cn "长城华西银行股份有限公司 ")	　
-[乐山市商业银行](http://www.lsccb.com "乐山市商业银行股份有限公司 ")	　
-[泸州银行](http://www.lzccb.cn "泸州银行股份有限公司 ")	　
-[绵阳市商业银行](http://www.mycc-bank.com "绵阳市商业银行股份有限公司 ")	　
-[四川天府银行](http://www.tf.cn "四川天府银行股份有限公司 ")	　
-[遂宁银行](http://www.snccb.com "遂宁银行股份有限公司 ")	　
-[雅安市商业银行](http://www.yaccb.cn "雅安市商业银行股份有限公司 ")	　
-[宜宾市商业银行](http://www.ybccb.com "宜宾市商业银行股份有限公司 ")	　
-[自贡银行](http://www.zgbank.com.cn "自贡银行股份有限公司 ")	　
-
-[贵阳银行](http://www.bankgy.cn "贵阳银行股份有限公司 ")	　
-[贵州银行](http://www.bgzchina.com "贵州银行股份有限公司 ")	　
-[富滇银行](http://www.fudian-bank.com "富滇银行股份有限公司 ")	　
-[曲靖市商业银行](http://www.qjccb.com "曲靖市商业银行股份有限公司 ")	　
-[云南红塔银行](http://www.ynhtbank.com "云南红塔银行股份有限公司 ")	　
-[西藏银行](http://www.xzbc.com.cn "西藏银行股份有限公司 ")	　
-
-[西安银行](http://www.xacbank.com "西安银行股份有限公司 ")	　
-[长安银行](http://www.ccabchina.com "长安银行股份有限公司 ")	　
-[甘肃银行](http://www.gsbankchina.com "甘肃银行股份有限公司 ")	　
-[兰州银行](http://www.lzbank.com "兰州银行股份有限公司 ")	　
-[青海银行](http://www.bankqh.com "青海银行股份有限公司 ")	　
-[宁夏银行](http://www.bankofnx.com.cn "宁夏银行股份有限公司 ")	　
-[石嘴山银行](http://www.szsccb.com "石嘴山银行股份有限公司 ")	　
-[乌鲁木齐银行](http://www.uccb.com.cn "乌鲁木齐银行股份有限公司 ")	　
-[昆仑银行](http://www.klb.cn "昆仑银行股份有限公司 ")	　
-[哈密市商业银行](http://www.hmccb.com "哈密市商业银行股份有限公司 ")	　
-[库尔勒银行](http://www.xjkccb.cn "库尔勒银行股份有限公司 ")	　
-[新疆汇和银行](http://www.bohuihe.com "新疆汇和银行股份有限公司 ")	　
-[新疆银行](http://www.xjbank.com "新疆银行股份有限公司 ")	　
-
-
-　　民营银行 19家（民企）　全称均为“某某银行股份有限公司”，由地方银保监局监管。
-
-　
-¥[天津金城银行](https://www.kcbebank.com "天津银保监局")	<sup>B0655H212000001 </sup>
-　¥[上海华瑞银行](https://www.shrbank.com "上海银保监局")	<sup>B0606H231000001 </sup>
-　¥[浙江网商银行](https://www.mybank.cn "浙江银保监局")杭州	<sup>B0675H233010001 阿里银行</sup>
-　¥浙江[温州民商银行](https://www.ms-bank.cn "温州银保监分局")	<sup>B0651H233030001 </sup>
-　¥广东[深圳前海微众银行](https://webank.com "深圳银保监局")	<sup>B0593H244030001 腾讯银行</sup>
-　¥湖南[三湘银行](https://www.csxbank.com "湖南银保监局")长沙	<sup>B1519H243010001 </sup>
-　¥[重庆富民银行](https://www.fbank.com "重庆银保监局")	<sup>B1191H250000001 </sup>
-　¥[四川新网银行](https://www.xwbank.com "四川银保监局")成都	<sup>B1544H251010001 </sup>
-　¥[北京中关村银行](https://www.zgcbank.com "北京银保监局")	<sup>B1611H211000001 </sup>
-　¥[吉林亿联银行](https://www.yillionbank.com "吉林银保监局")长春	<sup>B1600H222010001 </sup>
-　¥湖北[武汉众邦银行](https://www.z-bank.com "湖北银保监局")	<sup>B1596H242010001 </sup>
-　¥[福建华通银行](https://www.onebank.com.cn "福建银保监局")福州平潭	<sup>B1563H235010001 </sup>
-　¥山东[威海蓝海银行](https://www.wegobank.cn "威海银保监分局")	<sup>B1606H237100001 </sup>
-　¥[江苏苏宁银行](http://www.suningbank.com "江苏银保监局")南京	<sup>B1621H232010001 https故障</sup>
-　¥广东[梅州客商银行](https://www.kshbank.cn "梅州银保监分局")	<sup>B1627H244140001 </sup>
-　¥[安徽新安银行](http://www.xa-bank.com "安徽银保监局")合肥	<sup>B1686H234010001 https故障</sup>
-　¥辽宁[振兴银行](https://www.newupbank.com "辽宁银保监局")沈阳	<sup>B1661H221010001 </sup>
-　¥江西[裕民银行](https://www.ymbank.com "江西银保监局")南昌	<sup>B1877H236010001 </sup>
-　¥浙江[无锡锡商银行](https://www.wxsbank.com "无锡银保监分局")	<sup>B1949H332020001 正在拍卖股权？</sup>
-
-
-	202212：农村商业银行（1645家） 农村合作银行（23家） 村镇银行（1645家） 农村信用社（548家） 农村资金互助社（37家）
-	202206：农村商业银行（1427家） 农村合作银行（33家） 村镇银行（1616家） 农村信用社（812家） 农村资金互助社（45家）
-
-
-财产保险公司94家 ㊖💼、人身保险公司 113家💼
-
-期货公司 14?家
-
-证券公司 1xx家
-
-信托公司  68家
-
-
 <div id="ex2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 港澳台金融交易所 📍
 ------------------
-Financial Exchange
 
-* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
+香港特区政府/[香港金融管理局](https://www.hkma.gov.hk/gb_chi) HKMA，Hong Kong Monetary Authority，简称金管局
+*	【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
   　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
-  * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
-  * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
-  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
-  * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
-  * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
-  * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
-  * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
+	* 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
+	* 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
+	* [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+	* 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
+	* 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
+	* 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
+	* [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
 * [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
-* 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
 
-* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
+澳门特区政府/[澳门金融管理局](https://www.amcm.gov.mo)
+*	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
+
+台湾金融监督管理委员会，简称“[金管会](https://www.fsc.gov.tw)”
+*	【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
   　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
-* [台湾期货交易所](https://www.taifex.com.tw/cht/index)
-* [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
+*	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
+*	[柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
 　<i>境外主要交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
 
@@ -642,13 +461,13 @@ Exchanges
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.7.4	202405
+	个人理财金融圈 Version 0.7.5	202405
 	https://laosheng.top/fuwu/jinrong
 ```
 
-🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆💸🪙🏻📤🥜  
-🥮🍪🥞🥮🫓🍕🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳📅🀄 ⊛👤♟♟♙  
-❀❁㊡☯㊣Ⓑ✪ü❃☢㋡◍㊉㊏
+🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆  
+🥮🍪🥞🥮🫓🍕🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳🀄  
+💸🪙🏻📤🥜⊛👤♟♙❀❁㊡☯㊣Ⓑ✪ü❃☢㋡◍㊉㊏
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
