@@ -8,7 +8,7 @@
 
 　　党的二十大后，国务院成立国家金监总局，监管除证券业之外的所有金融业务，扫除了监管盲区，使得从监管角度认识中国金融业全貌成为可能。根据是否由派出机构监管，大萌把金融机构分为两层：**中央监管**和**地方监管**。　由中央监管的大银行、保险集团，分支机构开遍全国，人们的水电缴费、工资房贷、出行保险…和这些机构息息相关；而由中央派出机构（地方监管局/证监局）监管的金融机构，虽然数量众多但知名度较低，一是法律限制他们只能在当地或临近城市开设网点，比如城商行；二是公司设立在CBD高高的写字楼内部，远离百姓的生活区，宛如[《城中之城》](https://s.weibo.com/weibo/#城中之城#)。
 
-　　对于地方监管的金融机构，大萌尝试选取了老百姓参与较多的五类场所：城商行、保险公司、信托公司、证券公司、期货公司，收录他们的法人名单与网址，分省列出。只要是这五类机构，不管是中央管的还是地方管的，**金融圈**页面都能查到。　先认识金融央企，这是中国金融业的主动脉；再认识中央管的全国大型机构，建立全局意识；最后认识身边的各种营业厅：银行、保险、证券……等，理论联系实践。认清了中国的金融体系，是否投资更有底气呢？祝大家投有所得。新客请使用电脑观看本页面。
+　　对于地方监管的金融机构，大萌尝试选取了老百姓参与较多的五类场所：城商行、保险公司、信托公司、证券公司、期货公司，收录他们的法人名单与网址，分省列出。只要是这五类机构，不管是中央管的还是地方管的，**金融圈**页面都能查到。　先认识金融央企，这是中国金融业的主动脉；再认识中央管的全国大型机构，建立全局意识；最后认识身边的各种营业厅：银行、保险、证券……等，理论联系实践。认清中国金融监管体系，是否投资更有底气？祝大家投有所得。新客请使用电脑观看本页面。
 
 　　投资有风险，入市需谨慎。　　
 
@@ -39,6 +39,9 @@
 	+ [港澳台](#ex2){:target="_top"}金融交易所 📊
 	+ 国内[其他交易所](#ex3){:target="_top"} 
 +	[数据来源](#data){:target="_top"}　	/收录进度 /参考文献
++	❗：中国主权财富基金投资参股的金融机构
++	🚩/⛳：中央正在巡视的对象/已经巡视的对象
+
 
 **地方监管的金融机构--分省索引：**
 
@@ -112,16 +115,22 @@
 *	🧮中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)（“中央结算公司”于2016年全资发起设立）
 *	💳 银行  Bank  超4000家，总资产超**360万亿**。　其中3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
 	* [全国性商业银行 ▼](#bank){:target="_top"}：国有商行 6家、全国股份制银行 12家、民营银行 17家、城市商业银行 125家
+	* 📤 信托机构 Fiduciary  68家，总资产约30万亿。　
+	* 其他银行业金融机构 400多家（资管公司、财务公司、租赁公司……）
+	* 银行业[金融机构网点](https://xkz.nfra.gov.cn/jr/)查询，有‘金融许可证’的合法网点。
 *	💼 保险机构 Insurance 200多家，总资产约20万亿（财险/寿险）
 	* [保险集团与公司 ▼](#sure){:target="_top"}：保险集团 13家、直接监管的保险公司 43家
-*	📤 信托机构 Fiduciary  68家，总资产约30万亿。　
-*	其他非银行金融机构 400多家（资管公司、财务公司、租赁公司……），在[许可证信息](https://xkz.nfra.gov.cn/)页面，能查到各类各地的营业网点。
+	* [保险机构网点](https://xkz.nfra.gov.cn/bx/)查询，有‘保险许可证’的合法网点。
+	* [保险中介机构](https://xkz.nfra.gov.cn/zj/)查询，有‘保险中介许可证’的合法网点。
 
 /**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会🚩  
 主管业务：期货、股票、债券、基金。
 *	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。证监会一共有23个会管单位：
 *	📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所🚩、深交所🚩 等)
-*	4个行业协会：中国证券业协会、中国期货业协会、中国上市公司协会、中国证券投资基金业协会
+*	4个行业协会：中国[证券业协会](https://www.sac.net.cn)、
+中国[期货业协会](https://www.cfachina.org)、
+中国[上市公司协会](https://www.capco.org.cn)、
+中国[证券投资基金业](https://www.amac.org.cn)协会
 *	2个教科机构：中证[金融研究院](https://www.cifcm.cn/)、[资本市场学院](http://www.ccmi.edu.cn)
 *	9家相关公司：[中国证券金融](http://www.csf.com.cn)股份有限公司、
 [中证数据](https://www.csdata.cn)、
@@ -139,7 +148,7 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、
 -	期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
 -	股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
 -	债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2023年超**155万亿**。
--	基金 Fund　2022年6月，公募基金超10000支，规模超26万亿，来自 中国证券投资基金业协会 的[统计数据](https://www.amac.org.cn/sjtj/) Top10（易方达/华夏/广发……）
+-	基金 Fund　2022年6月，公募基金过万支，规模超26万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发……
 
 
 <div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -419,12 +428,12 @@ Financial Exchange
 
 　　　证监会直接监管的8个交易所。　
 
-* 【[上交所](http://www.sse.com.cn)】 上海证券交易所 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
+* 【[上交所](http://www.sse.com.cn)】 上海证券交易所🚩 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
 	- 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
 	- [债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支
 	- [基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
 
-* 【[深交所](https://www.szse.cn/)】 深圳证券交易所 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+* 【[深交所](https://www.szse.cn/)】 深圳证券交易所🚩 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
 	- 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)~30xxxx
 	- [国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
 	- [基金列表](https://www.szse.cn/market/product/list/all/)近600支
@@ -519,9 +528,8 @@ Exchanges
 <h3 id="wen">参考文献</h3>
 
 * [1] 2023-03-15，[21世纪经济报道](https://www.21jingji.com/article/20230315/herald/f8509a6635bf12cf706c1faae9c400e3.html)李愿：经历洗礼的银行理财：投资者数量接近1亿，需协同发力做好投资者教育
-
 * [2] 2020-07-17，财政部网站[财金〔2020〕69号](http://jrs.mof.gov.cn/zhengcefabu/cqgl/202007/t20200715_3550190.htm)文：关于印发《中央金融企业名录管理暂行规定》的通知
-
+* [3] 中华人民共和国商业银行法、保险法、证券法
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
