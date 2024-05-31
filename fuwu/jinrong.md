@@ -1,6 +1,6 @@
 个人理财金融圈 🥯 Finance Circles
 =================
-大萌　	202211-202405 第三稿	<base target="_blank">
+大萌　	202211-202406 第三稿	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告第一部分
 
@@ -19,6 +19,7 @@
 
 *	2024-05-　，国家金监总局启用新域名：nfra.gov.cn 。
 *	2024-04-08，二十届中央第三轮[巡视对象34家](https://www.ccdi.gov.cn/toutiaon/202404/t20240418_342220.html)，以金融机构为主，本页收录25家，标记🚩。
+*	2024-03-　，国家农担公司启用新域名：nacga.cn ，旧域名 guojianongdan.cn 失效。
 *	2023-05-19，『国家金融监管总局』正式挂牌，沿用原银保监会域名 cbirc.gov.cn 。
 *	2023-03-27，二十届中央第一轮巡视将对对光大集团等[5家中管金融企业](https://www.ccdi.gov.cn/toutiaon/202303/t20230327_255227.html)(标记⛳)党委开展巡视“回头看”。
 *	2023-03-16，中央印发《党和国家机构改革方案》，将组建国家金融监督管理总局，不再保留银保监会。
@@ -183,7 +184,7 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、
 21	[中国农再](http://www.china-agrore.com) 	⠀　　	- - - <small>	⠀北京  	⠀中国农业再保险股份有限公司⠀000248	</small>  
 22	[中国政企合作基金](http://cpppf.org) 	⠀　　	- - - <small>	⠀北京  	⠀中国政企合作投资基金股份有限公司⠀	</small>  
 23	[国家融资担保基金](https://www.gjrdjj.com) 	⠀　　	<small>[网站群](https://www.gjrdjj.com/system/agency.html)	⠀北京  	⠀国家融资担保基金有限责任公司⠀	</small>  
-24	[国家农担公司](http://guojianongdan.cn) 	⠀　　	<small>[网站群](http://guojianongdan.cn/about/member.html)	⠀北京  	⠀国家农业信贷担保联盟有限责任公司⠀	</small>  
+24	[国家农担公司](https://www.nacga.cn) 	⠀　　	<small>[网站群](https://www.nacga.cn/about/members.html)	⠀北京  	⠀国家农业信贷担保联盟有限责任公司⠀	</small>  
 25	[中国再保❗](https://www.chinare.com.cn) 	⠀ChinaRe	<small>[网站群](https://www.chinare.com.cn/zhzjt/566050/gpxx/gsylb/)	⠀北京  	⠀中国再保险（集团）股份有限公司⠀000007	</small>  
 26	[中国建投❗](http://www.jic.cn) 	⠀JIC	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
 27	[中国银河金控❗](https://www.china-galaxy.com.cn) 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
@@ -203,7 +204,7 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、
 -------------
 Banks
 
-　　根据金监总局发布的《银行业金融机构法人名单》，全国各类银行有四千多家，其中数量最大的是‘农村商业银行’与‘村镇银行’，二者合计超过三千家。其中‘国有大型商业银行’6家与‘股份制商业银行’12家受到总局直接监管，在全国开设分行/分公司，受理个人业务。这两类名单十分稳定，本段收录法人名单与网址。　以今年公布的2023年12月数据，各类银行业机构统计如下：
+　　根据金监总局发布的《银行业金融机构法人名单》，全国各类银行有四千多家，其中数量最大的是‘农村商业银行’与‘村镇银行’，二者合计超过三千家。其中‘国有大型商业银行’6家与‘股份制商业银行’12家受到总局直接监管，在全国开设分行/分公司，受理个人业务。这两类名单十分稳定，本段收录网址与栏目页。　以今年公布的2023年12月数据，各类银行业机构统计如下：
 
 		　　机构类型　	计数		　　机构类型　	计数		　　机构类型　	计数
 		开发性金融机构	1		　农村商业银行	1607		企业集团财务公司	241
@@ -218,10 +219,10 @@ Banks
 *	国有大型商业银行（6家）<sub>及栏目页</sub>
 
 🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀[外汇](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[黄金](https://www.icbc.com.cn/column/1438058319654043686.html)⠀[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
-🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇](https://www.abchina.comhttps://ewealth.abchina.com/ForeignExchange/)⠀[黄金](https://www.abchina.comhttps://ewealth.abchina.com/Gold/)⠀[理财](https://www.abchina.comhttps://ewealth.abchina.com/fs/filter/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
-🀄<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>❗⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇](https://www.boc.cn/sourcedb/whpj/)⠀黄金⠀⠀[理财](https://www.boc.cn/fimarkets)	⠀[网页登录](https://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
-🀄<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>❗⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[外汇](http://forex2.ccb.com/chn/forex/exchange-quotations.shtml)⠀[黄金](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)⠀[理财](http://finance.ccb.com/cn/finance/product.html)	⠀[网页登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
-🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[[外汇](https://www.bankcomm.com/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)⠀黄金⠀⠀[理财](https://www.bankcomm.com/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
+🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇](https://www.abchina.comhttps://ewealth.abchina.com/ForeignExchange/)⠀[黄金](https://www.abchina.comhttps://ewealth.abchina.com/Gold/)⠀[理财](https://ewealth.abchina.com/fs/filter/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
+🀄<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>❗⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇](https://www.boc.cn/sourcedb/whpj/)⠀黄金⠀[理财](https://www.boc.cn/fimarkets)	⠀[网页登录](https://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
+🀄<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>❗⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[外汇](http://forex2.ccb.com/chn/forex/exchange-quotations.shtml)⠀[黄金](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)⠀[理财](http://finance1.ccb.com/cn/finance/index.html)	⠀[网页登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
+🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[外汇](https://www.bankcomm.com/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)⠀黄金⠀[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
 👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[黄金](https://www.psbc.com/cn/grfw/tzlc/gjs/cpxx_204/gjsjc/)⠀[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
 *	全国性股份制商业银行（12家）<sub>及栏目页</sub>
