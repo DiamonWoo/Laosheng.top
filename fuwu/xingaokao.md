@@ -16,14 +16,6 @@
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面。　页面还在设计中……
 
 
-<h3>改革近况</h3>
-
-*	2022年12月，中办国办印发《关于[深化现代职业教育体系建设改革](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202212/t20221222_1035691.html)的意见》，教育部举行专题[新闻发布会](http://www.moe.gov.cn/fbh/live/2022/55031/)。
-*	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
-
-*	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
-
-
 教育部门常用网址
 ----------------
 
@@ -33,7 +25,7 @@
 
 　教育部官网[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
 	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
+　指定[阳光高考网](https://gaokao.chsi.com.cn/)/学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
 
 　各省教育厅/局官网 <sup>省招办/考试院</sup>：
 
@@ -72,6 +64,12 @@
 　71-[台湾教育部门](https://www.edu.tw)
 　81-[香港教育局](https://www.edb.gov.hk/sc)
 　82-[澳门教育及青年发展局](https://www.dsedj.gov.mo)
+
+<h3>改革近况</h3>
+
+*	2022年12月，中办国办印发《关于[深化现代职业教育体系建设改革](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202212/t20221222_1035691.html)的意见》，教育部举行专题[新闻发布会](http://www.moe.gov.cn/fbh/live/2022/55031/)。
+*	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
+*	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
 
 
 
