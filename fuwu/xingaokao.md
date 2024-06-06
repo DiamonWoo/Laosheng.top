@@ -7,11 +7,11 @@
 
 　　根据新旧高考模式的不同，2024年高考全国共有五类试卷，**预测**分布如下：
 <img align='right' title='新高考改革进程图' src='xingaokao.png' alt='2024高考五类试卷'>
-*	1、全国甲卷：四川、西藏
-*	2、全国乙卷：内蒙古、陕西、宁夏、青海、新疆
-*	3、新课标I卷：冀鲁苏浙，闽粤湘鄂（8个省）
-*	4、新课标II卷：辽吉黑，甘、晋、豫、渝、徽、赣、云贵桂琼（13个省）
-*	5、自主命题：京、津、沪
+*	1、全国甲卷：四川、西藏（藏青色）
+*	2、全国乙卷：内蒙/陕西/宁夏，青海、新疆
+*	3、新课标I卷：冀鲁苏浙，闽粤湘鄂（海青色）
+*	4、新课标II卷：辽吉黑，甘、晋、豫、渝、徽、赣、云贵桂琼（13省，淡绿色）
+*	5、全自主命题：京、津、沪（红色）
 
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面。　页面还在设计中……
 
@@ -25,7 +25,7 @@
 
 　教育部官网[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
 	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/)/学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
+　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
 
 　各省教育厅/局官网 <sup>省招办/考试院</sup>：
 
