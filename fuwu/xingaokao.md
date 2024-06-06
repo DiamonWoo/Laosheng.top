@@ -1,15 +1,14 @@
-人生之路新高考 🕺
+人生之路新高考 🕺 <sup>一山更比一山高</sup>
 ================
-大萌	　202308，202404（草稿）
+大萌	　202308，202404（草稿）<base target="_blank">
 
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面。
 
+　　页面还在设计中……
 
 	（缺个高考改革进程图）
 
-　　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
-　　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)。
-
+<big>6月7日、8日、9日 进行 **普通高等学校招生**全国统一考试，简称‘高考’</big>
 
 
 <h3>改革近况</h3>
@@ -27,7 +26,10 @@
 　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
 	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
 
-　各省教育厅/局/考试院：
+　教育部官网[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)专题；
+　指定[阳光高考网](https://gaokao.chsi.com.cn/)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)。
+
+　各省教育厅/局官网 <sup>省招办/考试院</sup>：
 
 　11-北京[市教委](http://jw.beijing.gov.cn)	<sup>[考试院](https://www.bjeea.cn)</sup>
 　12-天津[市教委](https://jy.tj.gov.cn)	<sup>[考试院](http://www.zhaokao.net)</sup>
@@ -67,8 +69,8 @@
 
 
 
-QA 问题解答
------------
+QA 高考志愿常见问题
+-----------------
 
 <h3>高考志愿到底填什么？</h3>
 　高考志愿需要填写某某学校的某某专业。　志愿的最小单位不是学校，而是学校内某个具体专业(组)。
@@ -94,7 +96,7 @@ QA 问题解答
 
 <div align="right" id="D5"><a href="#tupu" target="_top">↑ Top</a></div>
 
-台湾普通高校 🏫
+台湾普通高校名单 🏫
 ---------------
 
 　　台高校近150所，过去曾有约一百所院校面向大陆招生，请注意政策变化。台湾教育制度与大陆有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。
@@ -264,11 +266,14 @@ QA 问题解答
 
 
 
-
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高考改革进程图	Version Beta	202404
+	人生之路新高考	Version Beta	202404
 	https://Laosheng.top/fuwu/gaokao
 ```
+
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
+
 🥉🏫🔢🧳 🔠📎
