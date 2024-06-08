@@ -40,11 +40,11 @@
 〖工具页面〗<br>
   + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
   + /c/timing ⠀[提名网站和落榜记](c/timing)
-  + 从地名图学习SQLite数据库，中国千县地名库[待更新](fuwu/diming4SQLite)……
 
 〖衍生项目〗<br>
   + /yan/LSIP，[大规模集成网页](https://diamonwoo.github.io/LSIP)，集成超过1000个超链接的网页。
   + /yan/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重（没空写）
+  + /yan/qianxian，[中国千县地名库](https://diamonwoo.github.io/qianxian)，县级行政区划代码的sqlite数据库，从千县网学习SQLite数据库（待更新）
   + «发现软件之海»培训课程，规划中……
 
 
@@ -88,7 +88,6 @@
 
 “排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](c/helpweb "老生常谈站点的浏览帮助")
 
-
 		节约时间，就是爱护生命。
 
 
@@ -103,6 +102,6 @@
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.2.3 202403
+	https://Laosheng.top	v3.2.4 202406
 
 🎁💎🎅🛍💐🎀🥳☎
