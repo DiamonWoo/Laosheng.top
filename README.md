@@ -19,29 +19,29 @@
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
     + /fly/index2　📜️ [新闻云第二页](fly/index2.html)：教育台与科技报、县区级报纸与电视、图例与帮助。
   + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
-  + 一带一路云媒体 ……
+  + 中文财经云媒体 ……
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
 
-  + /fuwu/zhongyang 🕰 [中央有关部门集](fuwu/zhongyang)，政令畅通一盘棋。 全国统一服务电话📞；政府政协人大两院，电话/报纸/留言板
   + /fuwu/yuanxiao　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，助力考生选大学。　军校、中管、部本、省本、高职、成教，中国高校层级图谱。
-   + /fuwu/yangqi　🧧 [央企股票全家福](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
+  + /fuwu/yangqi　🧧 [央企股票全家福](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
+  + /fuwu/zhengfa 🏢 <a href="fuwu/fazhi" target="fazhiye" title="省地级法治部门">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
   + /fuwu/qianxian　📑 [中国千县地名网](fuwu/qianxian)　全国近三千个县区的政府网址，按区划代码排序，2024新版❗
-  + 法治政府部门集 ……
+  + 个人理财金融圈 ……
 
 /ydyl/dir ⠀[【一带一路】系列](ydyl/dir)，找到全世界。　💃 一带一路民间站
 
   + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。
-  + /ydyl/jiaoyihui　💫 [老生常谈交易会](ydyl/jiaoyihui)，广交会、进博会等中国主要对外开放平台；每个月都有的电影节🎞️
+  + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，突出网站支持语言。(新版)
   + /ydyl/nations　🗺 [外交国别速查表](ydyl/nations)：国家概况、ISO代码、政府网址、双方使馆……2024新版❗
-  + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，突出网站支持语言。(新版)  
+  + /ydyl/jiaoyihui　💫 [老生常谈交易会](ydyl/jiaoyihui)，广交会、进博会等中国主要对外开放平台；每个月都有的电影节🎞️
    🚄🚃☁🚃☁……
 
-〖工具页面〗<br>
+〖工具页面〗
   + /index2 🚩 [老生常谈排行榜](index2.html "大浪淘沙，精选网站"){:target="_blank"} ，帮我更快找到网站。致力于收集健康/免费/可浏览器直接访问的网站。
   + /c/timing ⠀[提名网站和落榜记](c/timing)
 
-〖衍生项目〗<br>
+〖衍生项目〗
   + /yan/LSIP，[大规模集成网页](https://diamonwoo.github.io/LSIP)，集成超过1000个超链接的网页。
   + /yan/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重（没空写）
   + /yan/qianxian，[中国千县地名库](https://diamonwoo.github.io/qianxian)，县级行政区划代码的sqlite数据库，从千县网学习SQLite数据库（待更新）
@@ -62,7 +62,7 @@
 　　请大家对大萌[依法鼓励](https://Laosheng.top/c/author "联系作者")，为民族复兴贡献力量！(✿◡‿◡)
 
 
-更多老生[常谈…](c/)
+更多[老生常谈…](c/)
 -------------
 
 + 建站[小笔记](broad/blog.txt "建站心得")
@@ -102,6 +102,6 @@
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.2.4 202406
+	https://Laosheng.top	v3.2.5 202406
 
 🎁💎🎅🛍💐🎀🥳☎
