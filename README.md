@@ -42,10 +42,10 @@
   + /c/timing ⠀[提名网站和落榜记](c/timing)
 
 〖衍生项目〗
-  + /yan/LSIP，[大规模集成网页](https://diamonwoo.github.io/LSIP)，集成超过1000个超链接的网页。
-  + /yan/[cqcc](https://diamonwoo.github.io/cqcc)，服务网站查缺查重（没空写）
-  + /yan/qianxian，[中国千县地名库](https://diamonwoo.github.io/qianxian)，县级行政区划代码的sqlite数据库，从千县网学习SQLite数据库（待更新）
-  + «发现软件之海»培训课程，规划中……
+  + [/yan](yan)　为减轻主站负担，衍生出几个独立项目：
+    + LSIP，大规模集成网页，集成超过1000个超链接的网页。
+    + qianxian，中国千县地名库，县级行政区划代码的sqlite数据库，从千县网学习SQLite数据库（待更新）
+    + ……
 
 
 　　老生常谈网站诞生于新冠疫情期间，由作者大萌于2020年发布。网站不嵌广告、不发红包，努力保持阅读舒适度，争取在尊重知识产权方面做出表率。　希望读者能帮助转发、测试与反馈，如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)。 在这个被App割裂的互联网，让我们重新发现万维网（WWW）的价值。
@@ -96,12 +96,12 @@
 
 　　感谢Github为“老生常谈”提供网站托管与markdown文档编译；感谢谋智开发者网络(MDN)提供web技术文档；感谢W3C北航总部提供w3school早期教程。 LaoSheng.top 网站努力建设中！  
 
-![感谢Github支持本站](thanks4github.png)<!-- http://loucypher.github.io/images/octocat.png -->
-![谋智开发者网络](thanks4MDN.png)
-![W3C北航总部](thanks4W3C.png)
+![感谢Github支持本站](yan/thanks4github.png)<!-- http://loucypher.github.io/images/octocat.png -->
+![谋智开发者网络](yan/thanks4MDN.png)
+![W3C北航总部](yan/thanks4W3C.png)
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.2.5 202406
+	https://Laosheng.top	v3.2.6 202406
 
 🎁💎🎅🛍💐🎀🥳☎
