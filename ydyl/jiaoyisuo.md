@@ -1,22 +1,35 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~05  草稿	<base target="_blank">
+大萌　202307，202404~06	<base target="_blank">
 
-
-　　writing……（还在学习、收集中）
+		创造财富并改善基础设施互联互通 —— AIIB亚投行
 
 　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
-　　金融市场是各种国际势力角逐的战场，主要有：黄金市场、外汇市场、证券市场，时间上分现货、期货，地点上分场内、场外。
+　　金融市场是各种国际势力角逐的战场，主要有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外。
 …… 本页食材正在准备，上酸菜~~
 
 　　疑问1：哪个网站有纽约外汇市场的当天汇率？我只找到美联储网页，是上周的汇率。
 
+　　writing……（还在学习、收集中）
 
 
-<div align="right">
+<div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金融交易所</div>
 
+<h3>〖环球金〗目录</h3>
+
+*	[外汇市场](#forex){:target="_top"}
+*	世界三大[黄金市场](#gold){:target="_top"}
+*	[证券交易所](#ex){:target="_top"}排行榜
+	* [港澳台](#ex2){:target="_top"}金融交易所
+*	美国政府[金融有关部门](#usa){:target="_top"}
+*	[G-SIBs银行](#bank){:target="_top"}
+	* 境内[外资银行](#bank2){:target="_top"}
+*	[参考文献](#can){:target="_top"}
+
+
+<div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 全球主要外汇市场 💱
 ---------------
@@ -46,6 +59,7 @@ Foreign Exchange Market
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
 
+<div align="right" id="gold">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 世界三大黄金市场 🟨
 ---------------
@@ -71,6 +85,7 @@ Gold Market
 
 　　更多信息可见[世界黄金协会](https://china.gold.org/our-offices)📍，该会总部在伦敦，在上海、北京有办事处。
 
+<div align="right" id="ex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 证券交易所排行榜 📊
 ---------------
@@ -113,7 +128,7 @@ Stock Exchange Top25 2021
 　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
 
 
-<div align="right"><a href="#mu" target="_top">↑ Top</a></div>
+<div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h2 id="D5">港澳台金融交易所 📍</h2>
 Financial Exchange
@@ -135,6 +150,23 @@ Financial Exchange
 * [台湾期货交易所](https://www.taifex.com.tw/cht/index)
 * [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
+
+
+<div align="right" id="usa">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
+美国金融有关部门 💱
+---------------
+USA Gov financial authorities
+
+　　美国是当今世界唯一的超级大国，其国内政策对全球金融界影响巨大。为了方便读者观察美国的金融政策，这里列举美国联邦政府和金融关系较大的部门网站。
+
+
+
+
+
+
+
+<div align="right" id="bank">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 全球系统重要性银行 🔼
 -----------------
@@ -189,6 +221,7 @@ Systemically Important Banks (G-SIBs)
 	/[中文版](https://zh.td.com/)📍、
 	美国 [Wells Fargo](https://www.wellsfargo.com/)富国银行
 
+<div align="right" id="bank2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 中国境内的外资银行 💳
 -----------------
@@ -242,9 +275,9 @@ Systemically Important Banks (G-SIBs)
 　德国商业银行（） 巴克莱银行🔼（） [美国银行](https://www.bankofamerica.com)🔼（） 荷兰安置银行（） 比利时联合银行（） 挪威银行（） 加拿大丰业银行（广州分行） 桑坦德银行🔼（） 意大利裕信银行（） 瑞士信贷银行（） 意大利联合圣保罗银行（） 法国外贸银行（） 纽约梅隆银行🔼（） 德国西德银行（） 马来亚银行（） 富通银行（） 大众银行（香港）（深圳分行） 瑞典商业银行（） 印度国家银行（） 三井住友信托银行（） 北德意志州银行（） 北欧斯安银行（） 招商永隆银行（深圳分行） 上海商业银行（深圳分行） 瑞典银行（） 西太平洋银行（） 西雅那银行（） 北欧银行（） 美联银行（） 台湾土地银行（） 第一商业银行（） 俄罗斯外贸银行（） 巴西银行（） 大邱银行（） 埃及国民银行（） 澳洲联邦银行（） 台湾中小企业银行（） 卡纳拉银行（） 印度尼西亚曼底利银行（） 韩国产业银行（） 台湾银行（） 联昌国际银行（） 哈比银行（乌鲁木齐分行）
 
 　　中德合资银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001。
-
-
 ……
+
+<div align="right" id="can">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 参考文献
 --------
@@ -262,10 +295,10 @@ Systemically Important Banks (G-SIBs)
 　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出建议</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
 ```
-	老生常谈 © 2019-2023 大萌  知识共享
+	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.5 	202405
+	环球金融交易所	v0.4.6 	202406
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
