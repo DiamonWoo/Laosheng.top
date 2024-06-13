@@ -2,9 +2,10 @@
 =================
 大萌　202307，202404~06	<base target="_blank">
 
-		创造财富并改善基础设施互联互通 —— AIIB亚投行
+		create wealth and improve infrastructure connectivity. —— AIIB
+		创造财富，并改善基础设施连通性。 —— 亚投行
 
-　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
+　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
 　　金融市场是各种国际势力角逐的战场，主要有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外。
 …… 本页食材正在准备，上酸菜~~
@@ -19,14 +20,14 @@
 
 <h3>〖环球金〗目录</h3>
 
-*	[外汇市场](#forex){:target="_top"}
-*	世界三大[黄金市场](#gold){:target="_top"}
-*	[证券交易所](#ex){:target="_top"}排行榜
+*	[外汇市场](#forex){:target="_top"} 💱
+*	世界三大[黄金市场](#gold){:target="_top"} 🟨
+*	[证券交易所](#ex){:target="_top"}排行榜 📊
 	* [港澳台](#ex2){:target="_top"}金融交易所
-*	美国政府[金融有关部门](#usa){:target="_top"}
-*	[G-SIBs银行](#bank){:target="_top"}
+*	美国政府[金融有关部门](#usa){:target="_top"} 🏛️
+*	[G-SIBs银行](#bank){:target="_top"} 🔼
 	* 境内[外资银行](#bank2){:target="_top"}
-*	[参考文献](#can){:target="_top"}
+*	[参考文献](#can){:target="_top"} 
 
 
 <div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
@@ -35,7 +36,7 @@
 ---------------
 Foreign Exchange Market
 
-　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（[BIS](https://www.bis.org)）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按中国时区，列出全球主要外汇市场的开、收盘的时间：　<sub>英美澳等国有夏时制，暂未标出，请注意修正。</sub>
+　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（[BIS](https://www.bis.org)）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按中国时区，列出全球主要外汇市场的开、收盘的时间：
 
 *	新西兰惠灵顿： 04：00-12：00
 *	澳大利亚悉尼：06：00-14：00　[澳大利亚储备银行](https://www.rba.gov.au/statistics/frequency/exchange-rates.html)统计近3日最新汇率
@@ -47,6 +48,7 @@ Foreign Exchange Market
 *	**英国伦敦**： 16：30-23：30　[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
 *	**美国纽约**： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布上周？美元汇率
 *	[加拿大中央银行](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/)公布每日外汇利率
+　<sup>英美澳等国有夏时制，暂未标出，请注意修正。</sup>
 
 　　2022年12月，中国延长外汇交易时间，由北京时间9:30-16:30调整至北京时间9:30-23:30，外币拆借交易系统运行时间由北京时间7:00-19:00调整至7:00-23:30；2023年12月，银行间外币对及外币货币市场交易时间由7:00-23:30调整至为7:00-次日3:00。市场连续交易，中间不休市。
 
@@ -130,7 +132,7 @@ Stock Exchange Top25 2021
 
 <div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
-<h2 id="D5">港澳台金融交易所 📍</h2>
+<h3 >港澳台金融交易所 📍</h3>
 Financial Exchange
 
 * 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
@@ -154,7 +156,7 @@ Financial Exchange
 
 <div align="right" id="usa">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
-美国金融有关部门 💱
+美国金融有关部门 🏛️
 ---------------
 USA Gov financial authorities
 
@@ -221,10 +223,10 @@ Systemically Important Banks (G-SIBs)
 	/[中文版](https://zh.td.com/)📍、
 	美国 [Wells Fargo](https://www.wellsfargo.com/)富国银行
 
+
 <div align="right" id="bank2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
-中国境内的外资银行 💳
------------------
+<h3>中国境内的外资银行 💳</h3>
 
 　　外资法人银行41家（前3家由银保监会监管）：
 
