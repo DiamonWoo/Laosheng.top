@@ -2,12 +2,11 @@
 =================
 大萌　202307，202404~06	<base target="_blank">
 
-		create wealth and improve infrastructure connectivity. —— AIIB
-		创造财富，并改善基础设施连通性。 —— 亚投行
+		create wealth and improve infrastructure connectivity. —— AIIB 亚投行 创造财富，并改善基础设施连通性。
 
 　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
-　　金融市场是各种国际势力角逐的战场，主要有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外。
+　　金融交易所是各种国际势力角逐的战场，主要有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外。
 …… 本页食材正在准备，上酸菜~~
 
 　　疑问1：哪个网站有纽约外汇市场的当天汇率？我只找到美联储网页，是上周的汇率。
@@ -160,11 +159,27 @@ Financial Exchange
 ---------------
 USA Gov financial authorities
 
-　　美国是当今世界唯一的超级大国，其国内政策对全球金融界影响巨大。为了方便读者观察美国的金融政策，这里列举美国联邦政府和金融关系较大的部门网站。
+　　美国是当今世界唯一的超级大国，其国内政策对全球金融界影响巨大。为了方便读者观察美国的金融政策，这里列举美国联邦政府(中央政府)中，和金融关系较大的部门网站。　按照‘三权分立’的原则，美国联邦政府分为：立法、司法、行政三个分支，其中以总统为首的行政分支规模最为庞大。
 
+*	立法机构：国会（众议院/参议院/[国会大厦](https://www.aoc.gov/)/国会图书馆……）
+*	司法机构：各级法院（[最高法院](https://www.SupremeCourt.gov/)/上诉法院/地方法院……）
+*	行政机构：🏛️（类似于中国的国务院）
+	* 总统/副总统
+	* [总统办公室](https://www.whitehouse.gov/)（白宫办公厅/国家安全委员会/贸易代表署……）
+	* 联邦行政部门，15个部门：国务部(管外交)、**财政部**、国防部、司法部、内政部、
+	农业部、**商务部、劳工部**、卫生与公众服务部、住房与城市发展部、
+	运输部、能源部、教育部、退伍军人事务部、国土安全部。
+	* 独立行政机构（CIA/**美联储**/国家航天局……）
 
+国务部 [State](https://www.state.gov/)，现任国务卿：布林肯。
 
+**财政部** [Treasury](https://home.treasury.gov/)，现任部长：耶伦♀。公布国债收益率。
 
+**商务部** [Commerce](https://www.commerce.gov/)，现任部长：雷蒙多♀。
+
+**劳工部** [Labor](https://www.dol.gov/)，发布CPI（消费者物价指数）。
+
+**美联储** [Federal Reserve](https://www.FederalReserve.gov/ 'Fed 联邦储备系统') ，美国中央银行，制定货币政策，管理利率基准。
 
 
 
@@ -300,7 +315,7 @@ Systemically Important Banks (G-SIBs)
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.6 	202406
+	环球金融交易所	v0.4.7 	202406
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
