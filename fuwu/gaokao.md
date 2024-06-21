@@ -20,13 +20,13 @@
 
 　　从各省考试院的公告，或者以下两个综合性网站，可以看到全国的高考志愿填报日程与录取批次。
 总体上看下来，大萌感觉：2024年的志愿填报时间更集中，批次更简化。大部分省份合并了本一批和本二批，6月底填报本科志愿，7月底填报专科志愿。
-教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供志愿填报咨询。
+教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。
 江西、浙江多省向考生提供模拟志愿填报服务。
 
 *	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)
 *	CERNET市场化运营网站'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
-<img title='志愿填报日程表' src='tianzhiyuan-2024.png' alt='2024高考志愿填报各省时间'>
+<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='75%' alt='2024高考志愿填报各省时间'>
 
 
 教育部门常用网址
@@ -49,7 +49,7 @@
 　15-内蒙古[教育厅](https://jyt.nmg.gov.cn)	<sup>[考试院](https://www.nm.zsks.cn)</sup>
 　21-辽宁[教育厅](https://jyt.ln.gov.cn)	<sup>[考试院](https://www.lnzsks.com)</sup>
 　22-吉林[教育厅](http://jyt.jl.gov.cn)	<sup>[考试院](http://www.jleea.edu.cn)</sup>
-　23-黑龙江[教育厅](http://jyt.hlj.gov.cn)	<sup>[考试院](https://www.lzk.hl.cn)</sup>
+　23-黑龙江[教育厅](http://jyt.hlj.gov.cn)	<sup>[考试院](https://www.hljea.org.cn)</sup>
 　31-上海[市教委](https://edu.sh.gov.cn)	<sup>[考试院](https://www.shmeea.edu.cn)</sup>
 　32-江苏[教育厅](http://jyt.jiangsu.gov.cn)	<sup>[考试院](https://www.jseea.cn)</sup>
 　33-浙江[教育厅](http://jyt.zj.gov.cn)	<sup>[考试院](https://www.zjzs.net)</sup>
@@ -292,7 +292,7 @@ QA 高考志愿常见问题
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.2	202406
+	人生之路新高考	V0.3.3	202406
 	https://Laosheng.top/fuwu/gaokao
 ```
 
