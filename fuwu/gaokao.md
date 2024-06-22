@@ -26,7 +26,7 @@
 *	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)
 *	CERNET市场化运营'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
-<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='50%' alt='2024高考志愿填报各省时间'>
+<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='60%' alt='2024高考志愿填报各省时间'>
 
 
 教育部门常用网址
@@ -40,40 +40,40 @@
 	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
 　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
 
-　各省教育厅/局官网 <sup>省招办/考试院</sup>：
+　各省<sup>教育厅/局官网</sup>	省招办/考试院：
 
-　11-北京[市教委](http://jw.beijing.gov.cn)	<sup>[考试院](https://www.bjeea.cn)</sup>
-　12-天津[市教委](https://jy.tj.gov.cn)	<sup>[考试院](http://www.zhaokao.net)</sup>
-　13-河北[教育厅](http://www.hee.gov.cn)	<sup>[考试院](http://www.hebeea.edu.cn)</sup>
-　14-山西[教育厅](http://jyt.shanxi.gov.cn)	<sup>[考试院](http://www.sxkszx.cn)</sup>
-　15-内蒙古[教育厅](https://jyt.nmg.gov.cn)	<sup>[考试院](https://www.nm.zsks.cn)</sup>
-　21-辽宁[教育厅](https://jyt.ln.gov.cn)	<sup>[考试院](https://www.lnzsks.com)</sup>
-　22-吉林[教育厅](http://jyt.jl.gov.cn)	<sup>[考试院](http://www.jleea.edu.cn)</sup>
-　23-黑龙江[教育厅](http://jyt.hlj.gov.cn)	<sup>[考试院](https://www.hljea.org.cn)</sup>
-　31-上海[市教委](https://edu.sh.gov.cn)	<sup>[考试院](https://www.shmeea.edu.cn)</sup>
-　32-江苏[教育厅](http://jyt.jiangsu.gov.cn)	<sup>[考试院](https://www.jseea.cn)</sup>
-　33-浙江[教育厅](http://jyt.zj.gov.cn)	<sup>[考试院](https://www.zjzs.net)</sup>
-　34-安徽[教育厅](http://jyt.ah.gov.cn)	<sup>[考试院](https://www.ahzsks.cn)</sup>
-　35-福建[教育厅](http://jyt.fujian.gov.cn)	<sup>[考试院](https://www.eeafj.cn)</sup>
-　36-江西[教育厅](http://jyt.jiangxi.gov.cn)	<sup>[考试院](http://www.jxeea.cn)</sup>
-　37-山东[教育厅](http://edu.shandong.gov.cn)	<sup>[考试院](https://www.sdzk.cn)</sup>
-　41-河南[教育厅](http://jyt.henan.gov.cn)	<sup>[考试院](http://www.heao.com.cn)</sup>
-　42-湖北[教育厅](http://jyt.hubei.gov.cn)	<sup>[考试院](http://www.hbea.edu.cn)</sup>
-　43-湖南[教育厅](http://jyt.hunan.gov.cn)	<sup>[考试院](http://www.hneao.edu.cn)</sup>
-　44-广东[教育厅](http://edu.gd.gov.cn)	<sup>[考试院](http://eea.gd.gov.cn)</sup>
-　45-广西[教育厅](http://jyt.gxzf.gov.cn)	<sup>[考试院](http://www.gxeea.cn)</sup>
-　46-海南[教育厅](http://edu.hainan.gov.cn)	<sup>[考试院](http://ea.hainan.gov.cn)</sup>
-　50-重庆[市教委](http://jw.cq.gov.cn)	<sup>[考试院](https://www.cqksy.cn)</sup>
-　51-四川[教育厅](http://edu.sc.gov.cn)	<sup>[考试院](http://www.sceea.cn)</sup>
-　52-贵州[教育厅](http://jyt.guizhou.gov.cn)	<sup>[考试院](http://zsksy.guizhou.gov.cn)</sup>
-　53-云南[教育厅](https://jyt.yn.gov.cn)	<sup>[考试院](http://www.ynzs.cn)</sup>
-　54-西藏[教育厅](http://edu.xizang.gov.cn)	<sup>[考试院](http://zsks.edu.xizang.gov.cn)</sup>
-　61-陕西[教育厅](http://jyt.shaanxi.gov.cn)	<sup>[考试院](http://www.sneac.com)</sup>
-　62-甘肃[教育厅](http://jyt.gansu.gov.cn)	<sup>[考试院](http://www.ganseea.cn)</sup>
-　63-青海[教育厅](http://jyt.qinghai.gov.cn)	<sup>[考试院](http://www.qhjyks.com)</sup>
-　64-宁夏[教育厅](http://jyt.nx.gov.cn)	<sup>[考试院](http://www.nxjyks.cn)</sup>
-　65-新疆[教育厅](http://jyt.xinjiang.gov.cn) / 
-[兵团教育局](http://btjyj.xjbt.gov.cn)	<sup>[考试院](http://www.xjzk.gov.cn)</sup>  
+　11-北京<sup>[市教委](http://jw.beijing.gov.cn)</sup>	[考试院](https://www.bjeea.cn)
+　12-天津<sup>[市教委](https://jy.tj.gov.cn)</sup>	[考试院](http://www.zhaokao.net)
+　13-河北<sup>[教育厅](http://www.hee.gov.cn)</sup>	[考试院](http://www.hebeea.edu.cn)
+　14-山西<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	[考试院](http://www.sxkszx.cn)
+　15-内蒙古<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	[考试院](https://www.nm.zsks.cn)
+　21-辽宁<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	[考试院](https://www.lnzsks.com)
+　22-吉林<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	[考试院](http://www.jleea.edu.cn)
+　23-黑龙江<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	[考试院](https://www.hljea.org.cn)
+　31-上海<sup>[市教委](https://edu.sh.gov.cn)</sup>	[考试院](https://www.shmeea.edu.cn)
+　32-江苏<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	[考试院](https://www.jseea.cn)
+　33-浙江<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	[考试院](https://www.zjzs.net)
+　34-安徽<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	[考试院](https://www.ahzsks.cn)
+　35-福建<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	[考试院](https://www.eeafj.cn)
+　36-江西<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	[考试院](http://www.jxeea.cn)
+　37-山东<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	[考试院](https://www.sdzk.cn)
+　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)
+　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[考试院](http://www.hbea.edu.cn)
+　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	[考试院](http://www.hneao.edu.cn)
+　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)
+　45-广西<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	[考试院](http://www.gxeea.cn)
+　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试院](http://ea.hainan.gov.cn)
+　50-重庆<sup>[市教委](http://jw.cq.gov.cn)</sup>	[考试院](https://www.cqksy.cn)
+　51-四川<sup>[教育厅](http://edu.sc.gov.cn)</sup>	[考试院](http://www.sceea.cn)
+　52-贵州<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	[考试院](http://zsksy.guizhou.gov.cn)
+　53-云南<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	[考试院](http://www.ynzs.cn)
+　54-西藏<sup>[教育厅](http://edu.xizang.gov.cn)</sup>	[考试院](http://zsks.edu.xizang.gov.cn)
+　61-陕西<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>	[考试院](http://www.sneac.com)
+　62-甘肃<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>	[考试院](http://www.ganseea.cn)
+　63-青海<sup>[教育厅](http://jyt.qinghai.gov.cn)</sup>	[考试院](http://www.qhjyks.com)
+　64-宁夏<sup>[教育厅](http://jyt.nx.gov.cn)</sup>	[考试院](http://www.nxjyks.cn)
+　65-新疆<sup>[教育厅](http://jyt.xinjiang.gov.cn) / 
+[兵团教育局](http://btjyj.xjbt.gov.cn)</sup>	[考试院](http://www.xjzk.gov.cn)  
 　71-[台湾教育部门](https://www.edu.tw)
 　81-[香港教育局](https://www.edb.gov.hk/sc)
 　82-[澳门教育及青年发展局](https://www.dsedj.gov.mo)
@@ -292,7 +292,7 @@ QA 高考志愿常见问题
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.3	202406
+	人生之路新高考	V0.3.4	202406
 	https://Laosheng.top/fuwu/gaokao
 ```
 
