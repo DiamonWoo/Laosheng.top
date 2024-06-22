@@ -24,9 +24,9 @@
 江西、浙江多省向考生提供模拟志愿填报服务。
 
 *	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)
-*	CERNET市场化运营网站'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
+*	CERNET市场化运营'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
-<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='75%' alt='2024高考志愿填报各省时间'>
+<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='50%' alt='2024高考志愿填报各省时间'>
 
 
 教育部门常用网址
