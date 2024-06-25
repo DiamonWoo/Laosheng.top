@@ -39,7 +39,7 @@
 
 　　总体上看下来，大萌感觉：2024年的志愿填报时间更集中，6月底填报本科志愿，7月底填报专科志愿；批次更简化，很多省份合并了本一批和本二批，一般分三个批次**填报志愿**：提前批、本科批、专科批。招不满学校会再次向考生**征集志愿**。
 
-<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' alt='2024高考志愿填报各省时间'>
+<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' align='center'>
 
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
@@ -54,7 +54,7 @@
 	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
 　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
 
-　各省<sup>教育厅/局官网</sup>	省招办/考试院：
+　各省<sup>教育厅/局</sup>	考试院/高招办：
 
 　11-北京<sup>[市教委](http://jw.beijing.gov.cn)</sup>	[考试院](https://www.bjeea.cn)
 　12-天津<sup>[市教委](https://jy.tj.gov.cn)</sup>	[考试院](http://www.zhaokao.net)
@@ -100,8 +100,8 @@
 
 <div align="right" id="qa"><a href="#mulu" target="_top">↑ Top</a></div>
 
-QA 高考志愿常见问题
------------------
+QA 高考志愿常见问题 💬
+-------------------
 
 <h3>高考志愿到底填什么？</h3>
 　高考志愿需要填写某某学校的某某专业。　志愿的最小单位不是学校，而是学校内某个具体专业(组)。
@@ -570,8 +570,9 @@ QA 高考志愿常见问题
 参考文献
 --------
 
-*	2024-06-07 [中国教育在线](https://gaokao.eol.cn/news/202406/t20240607_2615074.shtml)：全国乙卷没了，2024年高考各省份试卷类型是什么？
-
+*	20240607　[中国教育在线](https://gaokao.eol.cn/news/202406/t20240607_2615074.shtml)：全国乙卷没了，2024年高考各省份试卷类型是什么？
+*	20240612　大皖新闻发布于腾讯网：[安徽高考考生志愿网上填报办法](https://new.qq.com/rain/a/20240612A03IVH00)公布，此文件在省考试院官网没有找到。
+*	20240624　四川省教育考试院发布：2024年普通高校[在川招生专业及名额](https://plan.sceea.cn/lkjh.html)介绍，图片版
 
 
 ```
