@@ -39,7 +39,7 @@
 
 　　总体上看下来，大萌感觉：2024年的志愿填报时间更集中，6月底填报本科志愿，7月底填报专科志愿；批次更简化，很多省份合并了本一批和本二批，一般分三个批次**填报志愿**：提前批、本科批、专科批。招不满学校会再次向考生**征集志愿**。
 
-<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' align="middle" />
+<img align='right' title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' alt='各省填报志愿日程表' />
 
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
