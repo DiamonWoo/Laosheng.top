@@ -16,8 +16,20 @@
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面**新高考**。  
 　　页面还在设计中……
 
+<h3 id="mulu">〖新高考〗目录</h3>
 
-各省志愿填报日程简表
++	各省志愿填报[日程简表](#ri){:target="_top"} 📅
++	[教育部](#moe){:target="_top"} 门常用网址 🏢
++	QA 高考志愿[常见问题](#qa){:target="_top"} 💬
++	[台湾普通高校](#tw){:target="_top"}网站 🏫
++	[成人高校](#cj){:target="_top"}名单 🌃
++	参考文献 
+
+<div align="right" id="ri">
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/人生之路新高考
+</div>
+
+各省志愿填报日程简表 📅
 --------------------
 
 　　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。
@@ -29,8 +41,9 @@
 
 <img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' alt='2024高考志愿填报各省时间'>
 
+<div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
-教育部门常用网址
+教育部门常用网址 🏢
 ----------------
 
 　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
@@ -46,9 +59,9 @@
 　11-北京<sup>[市教委](http://jw.beijing.gov.cn)</sup>	[考试院](https://www.bjeea.cn)
 　12-天津<sup>[市教委](https://jy.tj.gov.cn)</sup>	[考试院](http://www.zhaokao.net)
 　13-河北<sup>[教育厅](http://www.hee.gov.cn)</sup>	[考试院](http://www.hebeea.edu.cn)
-　14-山西<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	[考试院](http://www.sxkszx.cn)
-　15-内蒙古<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	[考试院](https://www.nm.zsks.cn)
-　21-辽宁<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	[考试院](https://www.lnzsks.com)
+　14-山西<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	[招考中心](http://www.sxkszx.cn)
+　15-内蒙古<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	[招考中心](https://www.nm.zsks.cn)
+　21-辽宁<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	[高招办](https://www.lnzsks.com)
 　22-吉林<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	[考试院](http://www.jleea.edu.cn)
 　23-黑龙江<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	[考试院](https://www.hljea.org.cn)
 　31-上海<sup>[市教委](https://edu.sh.gov.cn)</sup>	[考试院](https://www.shmeea.edu.cn)
@@ -59,11 +72,11 @@
 　36-江西<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	[考试院](http://www.jxeea.cn)
 　37-山东<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	[考试院](https://www.sdzk.cn)
 　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)
-　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[考试院](http://www.hbea.edu.cn)
+　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[高招办](http://www.hbea.edu.cn)
 　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	[考试院](http://www.hneao.edu.cn)
 　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)
 　45-广西<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	[考试院](http://www.gxeea.cn)
-　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试院](http://ea.hainan.gov.cn)
+　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)
 　50-重庆<sup>[市教委](http://jw.cq.gov.cn)</sup>	[考试院](https://www.cqksy.cn)
 　51-四川<sup>[教育厅](http://edu.sc.gov.cn)</sup>	[考试院](http://www.sceea.cn)
 　52-贵州<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	[考试院](http://zsksy.guizhou.gov.cn)
@@ -85,7 +98,7 @@
 *	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
 *	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
 
-
+<div align="right" id="qa"><a href="#mulu" target="_top">↑ Top</a></div>
 
 QA 高考志愿常见问题
 -----------------
@@ -112,7 +125,7 @@ QA 高考志愿常见问题
 
 
 
-<div align="right" id="D5"><a href="#tupu" target="_top">↑ Top</a></div>
+<div align="right" id="tw"><a href="#mulu" target="_top">↑ Top</a></div>
 
 台湾普通高校名单 🏫
 ---------------
@@ -283,13 +296,13 @@ QA 高考志愿常见问题
 </small>
 
 
+<div align="right" id="cj"><a href="#mulu" target="_top">↑ Top</a></div>
 
-<div align="right" id="D4">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
-
-成人高校名单
+成人高校名单 🌃
 ------------
+（不含港澳台）
 
-　　252-1所，含15所部属 ❕，2所民办 ¥：108 上海医药、197 广东新华。
+　　249所，含15所部属 ❕，2所民办 ¥：108 上海医药、197 广东新华。
 
 　　202404数据较2023年减少2所：<del>江西经济管理干部学院 4236051285、福建对外经济贸易职业技术学院 4135013771</del>
 
@@ -552,7 +565,7 @@ QA 高考志愿常见问题
 <h3 >近年撤销学校标识码</h3>
 *	江西经济管理干部学院	4236051285	江西省	南昌市	成教本科		202312设置江西飞行学院，本科
 
-
+<div align="right" id="ck"><a href="#mulu" target="_top">↑ Top</a></div>
 
 参考文献
 --------
@@ -564,7 +577,7 @@ QA 高考志愿常见问题
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.5	202406
+	人生之路新高考	V0.3.6	202406
 	https://Laosheng.top/fuwu/gaokao
 ```
 
