@@ -2,13 +2,11 @@
 =================
 大萌	2022-2024	<base target="_blank">
 
-		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年于北京，习近平
+		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年北京，习近平
 
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
 +	./dir　　　　本目录页
-
-+	./index　🌞 [一带一路云媒体](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
 +	./united　🌐 [国际组织四大类](united.html)——（专业性/区域性/联合国🇺🇳/中方发起）：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
 
@@ -16,9 +14,11 @@
 
 +	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（新上线）
 
-+	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui.html)，对外交流重大展会、每个省都有的会展中心。（准备改版）
++	./index　🌞 [一带一路云媒体](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
 +	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie.html)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
+
++	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui.html)，对外交流重大展会、每个省都有的会展中心。（准备改版）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
@@ -31,7 +31,7 @@
 一带一路外交动态 Diplomatic Dynamics
 -----------------------------------
 
-*	对中国公民免签国家数为：49个。近期签署互免签证的国家有：2024年4月 格鲁吉亚，1月 泰国、新加坡……
+*	对中国公民**普通护照**免签的国家：48个（互免+单免）。近期签署互免签证的国家有：2024年4月 格鲁吉亚，1月 泰国、新加坡……
 
 *	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
 
@@ -119,7 +119,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 [地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
 
-<h3 id=fanyi>民间翻译网站 🎧</h3>
+<h3 id=fanyi>YDYL民间翻译网站 🎧</h3>
 　谷歌翻译
 #<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
@@ -195,7 +195,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.5	202405
+	一带一路民间站 v3.2.6	202406
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
