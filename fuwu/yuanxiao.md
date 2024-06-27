@@ -329,7 +329,7 @@
 　13 $[香港珠海学院](http://www.chuhai.edu.hk)🔖 
 　14 [香港高等教育科技学院](http://www.thei.edu.hk)🔖 
 　15 $[东华学院](http://www.twc.edu.hk)🔖 
-　16 $[明爱专上学院](http://www.cihe.edu.hk) 
+　16 $[圣方济各大学](https://www.sfu.edu.hk/sc/) <sub>202401由‘明爱专上学院’更名</sub> 
 　17 $[明德学院](http://www.centennialcollege.hku.hk) 
 　18 $[宏恩基督教学院](http://www.gcc.edu.hk) 
 　19 $[港专学院](http://www.hkct.edu.hk) 
@@ -362,7 +362,7 @@
 
 *	20240621，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202406/t20240621_1136990.html)》，分普通高校和成人高校两个.xls文件。
 *	20230619，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202306/t20230619_1064976.html)》，分普通高校和成人高校两个.xls文件。
-*	2022年6月，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html)》，分普通高校和成人高校两个.xls文件。
+*	20220617，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202206/t20220617_638352.html)》，分普通高校和成人高校两个.xls文件。
 *	202203，教育部批准在内地招生的[澳门高等院校](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A20/202203/t20220310_606145.html)
 *	202109，教育部批准在内地招生的[香港高等院校](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A20/202109/t20210923_566126.html)
 *	香港教育局--教育制度及政策--[專上教育院校](http://www.edb.gov.hk/sc/edu-system/postsecondary/local-higher-edu/institutions/index.html)
