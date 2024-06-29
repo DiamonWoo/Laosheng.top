@@ -1,12 +1,13 @@
 人生之路新高考 🕺 <sup>一山更比一山高</sup>
 ================
-大萌	　202308，202404、06（草稿）<base target="_blank">
+大萌	　202308，202406~	<base target="_blank">
 
 
 　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。全国有7个省份仍采用五科（语数外、文综、理综）全国统一命题；有21个省份采取新高考模式，语/数/外 全国统一命题，其余科目由各省自行出题，俗称‘3+X’。某些地方会有考试科目延长到6月10日。高考总分通常为750分，上海市为660分。
 
 　　根据**新高考**改革进程的推进，全国共有五类高考试卷，分布如下：
 <img align='right' title='新高考改革进程图' src='xingaokao.png' alt='2024高考五类试卷'>
+
 *	1、全国甲卷：内蒙/陕西/宁夏，青海、四川（深蓝）
 *	2、全国乙卷：无
 *	3、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣渝（12省，浅青）
@@ -34,25 +35,24 @@
 
 　　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。
 
-*	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)
+*	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup>滞后</sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup>已全</sup>
 *	<small>CERNET市场化运营</small>'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
-　　总体上看下来，大萌感觉：2024年的志愿填报时间更集中，6月底填报本科志愿，7月底填报专科志愿；批次更简化，很多省份合并了本一批和本二批，一般分三个批次**填报志愿**：提前批、本科批、专科批。招不满学校会再次向考生**征集志愿**。
+　　各省看下来，大萌感觉 2024年的志愿填报时间更集中，批次更简化，很多省份合并了本一批和本二批，一般分三个批次**填报志愿**：提前批、本科批、专科批；6月底填报提前批/本科批，7月底填报专科批；少数省份只填报两次，甚至一次。招不满学校会再次向考生**征集志愿**。
 
-<img align='right' title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' alt='各省填报志愿日程表' />
+　　<small>
+各省的颜色不同，表示不同的试卷类型，与上面的地图颜色相同。
+　西藏是6月27日中午才在考试院官网公布填报志愿时间，这是全国最后一个，河北山西这个时候都已经完成了提前批的填报。
+　注意，并不是所有关键信息都会公布在网站。比如安徽省的志愿填报时间，用文件下达到中学、用短信通知到考生，但没有公开在考试院的网站。
+</small>
+
+<img align='right' title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' alt='各省填报志愿日程表' />	<!--  -->
+
 
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
 教育部门常用网址 🏢
 ----------------
-
-　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
-　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
-	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
-
-　教育部官网[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
-	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
 
 　各省<sup>教育厅/局</sup>	考试院/高招办：
 
@@ -91,6 +91,15 @@
 　71-[台湾教育部门](https://www.edu.tw)
 　81-[香港教育局](https://www.edb.gov.hk/sc)
 　82-[澳门教育及青年发展局](https://www.dsedj.gov.mo)
+
+　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
+　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
+	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
+
+　教育部官网[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
+	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
+　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
+
 
 <h3>改革近况</h3>
 
@@ -302,13 +311,8 @@ QA 高考志愿常见问题 💬
 ------------
 （不含港澳台）
 
-　　249所，含15所部属 ❕，2所民办 ¥：108 上海医药、197 广东新华。
+　　249所，含15所部属 ❕，2所民办 ¥：108 上海医药、197 广东新华。<small>
 
-　　202404数据较2023年减少2所：<del>江西经济管理干部学院 4236051285、福建对外经济贸易职业技术学院 4135013771</del>
-
-　　20230619教育部名单较2022年减少2所：<del>山西省吕梁市教育学院 4214050197、四川科技职工大学 4251050081</del>。
-
-<small>
 　1	北京市海淀区职工大学	<i>中关村学院</i>
 　2	北京市东城区职工业余大学
 　3	北京市崇文区职工大学
@@ -565,6 +569,10 @@ QA 高考志愿常见问题 💬
 <h3 >近年撤销学校标识码</h3>
 *	江西经济管理干部学院	4236051285	江西省	南昌市	成教本科		202312设置江西飞行学院，本科
 
+*	202404数据较2023年减少2所：<del>江西经济管理干部学院 4236051285、福建对外经济贸易职业技术学院 4135013771</del>
+*	20230619教育部名单较2022年减少2所：<del>山西省吕梁市教育学院 4214050197、四川科技职工大学 4251050081</del>。
+
+
 <div align="right" id="ck"><a href="#mulu" target="_top">↑ Top</a></div>
 
 参考文献
@@ -578,7 +586,7 @@ QA 高考志愿常见问题 💬
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.6	202406
+	人生之路新高考	V0.3.7	202406
 	https://Laosheng.top/fuwu/gaokao
 ```
 
