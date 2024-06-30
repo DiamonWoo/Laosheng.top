@@ -122,15 +122,18 @@
 -------------------
 
 * [总工会](http://www.acftu.org/)	　 中华全国总工会
+	- 📠 [12351](https://www.12351.cn) 职工维权服务热线
 	- 中国工会[普法网](https://ghpf.acftu.org/)
 	- [中工网](http://www.workercn.cn/) 📰[《工人日报》](http://media.workercn.cn)
 	- 🙋直属高校（1所）：[中国劳动关系学院](https://www.culr.edu.cn)，前身为前身是1946年晋察冀边区行政干部学校
 * [共青团](http://www.gqt.org.cn/)　	 中国共产主义青年团
+	- 📠 12355 [青少年服务台](https://www.gqt.org.cn/xxgk/tngz_gfxwj/gfxwj/202210/t20221013_790065.htm)，“倾听心声、维护权益，专业服务、关爱成长”
 	- 📰[《中国青年报》](http://zqb.cyol.com)
 	- 少年先锋队 全国学联
 	- 🙋直属高校（1所）：[中央团校](https://www.zytx.org.cn) &【中国青年政治学院】，前身为1932年在江西瑞金创办的列宁团校
 	  - 党性教育基地：大别山干部学院、红旗渠干部学院、焦裕禄干部学院、浙江红船干部学院、浙江大陈岛干部学院、延安干部培训学院、沂蒙干部学院、遵义师范学院、小平干部学院。
 * [全国妇联](http://www.women.org.cn/)	　 中华全国妇女联合会
+	- 📠 12338 [妇女维权](https://www.women.org.cn/2024/01/10/99675249.html)公益服务热线
 	- 📰[《中国妇女报》](http://paper.cnwomen.com.cn)
 	- 🙋直属高校（1所）：[中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
 * [中国科协](https://cast.org.cn )	　 中国科学技术协会 CAST.org.cn
@@ -772,6 +775,8 @@ MCT，Ministry of Culture and Tourism
 	- ＋【国家外汇管理局】	　 [Safe.gov.cn](https://www.safe.gov.cn)
 	外汇券于1995年1月1日停止使用。
 	- [信用中国网](https://www.creditchina.gov.cn )💳 （与发改委共同指导）
+	- [中国金融新闻网](https://www.financialnews.com.cn/)/金融时报[📰](https://epaper.financialnews.com.cn/jrsb/)、
+	[中国钱币博物馆](http://www.cnm.com.cn)
 
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
 	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
@@ -818,8 +823,8 @@ MCT，Ministry of Culture and Tourism
 
 * 📰 提供网上免费阅读的数字报 	 　*暂计54个*
 * ☎️ 国家机关电话号码	 　*暂计19个*
-* 📞 地方政府12345电话热线及并行号码、分中心号码	 　*暂计22个*
-* 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计24个*
+* 📞 12345电话热线及并行号码、分中心号码	 　*暂计21个*
+* 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计14个*
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->
 * 〖国务院部委管理的国家局〗
@@ -832,7 +837,7 @@ MCT，Ministry of Culture and Tourism
 	老生常谈© 2019-2023 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.0	202404
+	中央有关部门集	v1.4.1	202407
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
