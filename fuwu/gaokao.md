@@ -10,7 +10,7 @@
 
 *	1、全国甲卷：内蒙/陕西/宁夏，青海、四川（深蓝）
 *	2、全国乙卷：无
-*	3、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣渝（12省，浅青）
+*	3、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣渝（12省，青色）
 *	4、新课标II卷：辽吉黑，甘/疆/藏，山西、广西、云贵琼（11省，浅绿）
 *	5、全自主命题：京、津、沪（红色）
 
@@ -21,6 +21,7 @@
 
 +	各省志愿填报[日程简表](#ri){:target="_top"} 📅
 +	[教育部](#moe){:target="_top"} 门常用网址 🏢
++	民间[大学排行榜](#pai){:target="_top"}
 +	QA 高考志愿[常见问题](#qa){:target="_top"} 💬
 +	[台湾普通高校](#tw){:target="_top"}网站 🏫
 +	[成人高校](#cj){:target="_top"}名单 🌃
@@ -106,6 +107,22 @@
 *	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
 *	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
 
+
+<div align="right" id="pai"><a href="#mulu" target="_top">↑ Top</a></div>
+
+<h3>民间大学排行榜</h3>
+
+　　这里列出一些常见的大学排名网站，他们能够提供更多角度的学校筛选方式。
+
+*	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
+*	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
+*	(深圳)[武书连](https://www.wurank.net)大学排名，始于中管院《中国大学评价》课题，1993年起发布。
+*	(草根)中国大学层级图谱：[高等院校三千所](.yuanxiao)，中国高等院校名单和网址全集。
+*	(美国)[U.S.News](https://www.usnews.com/education/best-global-universities/rankings "美式全球大学排名")🍴 最早发起大学排名的《美国新闻与世界报道》网站
+*	(英国)THE排名 [泰晤士高等教育](https://www.TimesHigherEducation.com)📍
+*	(英国)QS世界大学排名 [QS中国](https://www.QSchina.cn)📍
+
+
 <div align="right" id="qa"><a href="#mulu" target="_top">↑ Top</a></div>
 
 QA 高考志愿常见问题 💬
@@ -130,7 +147,6 @@ QA 高考志愿常见问题 💬
 *	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
 *	(北京)中国教育在线/高考网的[模拟志愿填报](https://mnzy.gaokao.cn/)，可以提前熟悉高考志愿填写，查看院校往年录取分数。
 *	[国防部](http://www.mod.gov.cn/gfbw/gffw/zs/)网站招生栏目每年会发布军校招生简章
-
 
 
 <div align="right" id="tw"><a href="#mulu" target="_top">↑ Top</a></div>
@@ -585,7 +601,7 @@ QA 高考志愿常见问题 💬
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.7	202406
+	人生之路新高考	V0.3.8	202407
 	https://Laosheng.top/fuwu/gaokao
 ```
 
