@@ -47,7 +47,7 @@
 　注意，并不是所有关键信息都会公布在网站。比如安徽省的志愿填报时间，用文件下达到中学、用短信通知到考生，但没有公开在考试院的网站。
 </small>
 
-<img align='right' title='志愿填报日程表' src='tianzhiyuan-2024.png' width='72%' alt='各省填报志愿日程表' />	<!--  -->
+<img align='right' title='志愿填报日程表' src='tianzhiyuan-2024.png' width='70%' alt='各省填报志愿日程表' />	<!--  -->
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
@@ -73,7 +73,7 @@
 　37-山东<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	[考试院](https://www.sdzk.cn)
 　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)
 　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[高招办](http://www.hbea.edu.cn)
-　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	[考试院](http://www.hneao.edu.cn)
+　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/)	[信息港](https://www.hneeb.cn)
 　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)
 　45-广西<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	[考试院](http://www.gxeea.cn)
 　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)
