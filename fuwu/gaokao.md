@@ -3,7 +3,7 @@
 大萌	　202308，202406~	<base target="_blank">
 
 
-　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。全国有7个省份仍采用五科（语数外、文综、理综）全国统一命题；有21个省份采取新高考模式，语/数/外 全国统一命题，其余科目由各省自行出题，俗称‘3+X’。某些地方会有考试科目延长到6月10日。高考总分通常为750分，上海市为660分。
+　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。全国有7个省份仍采用五科（语数外、文综、理综）全国统一命题；有21个省份采取新高考模式，语/数/外 全国统一命题，其余科目由各省自主命题，物理、历史二选一，化/生/地/政四选二，俗称‘3+1+2’。某些地方会有考试科目延长到6月10日。高考总分通常为750分，上海市为660分。
 
 　　根据**新高考**改革进程的推进，全国共有五类高考试卷，分布如下：
 <img align='right' title='新高考改革进程图' src='xingaokao.png' alt='2024高考五类试卷'>
@@ -47,7 +47,7 @@
 　注意，并不是所有关键信息都会公布在网站。比如安徽省的志愿填报时间，用文件下达到中学、用短信通知到考生，但没有公开在考试院的网站。
 </small>
 
-<img align='right' title='志愿填报日程表' src='tianzhiyuan-2024.png' width='70%' alt='各省填报志愿日程表' />	<!--  -->
+<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='70%' alt='各省填报志愿日程表' />	<!--  align='right' -->
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
@@ -73,7 +73,7 @@
 　37-山东<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	[考试院](https://www.sdzk.cn)
 　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)
 　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[高招办](http://www.hbea.edu.cn)
-　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/)	[信息港](https://www.hneeb.cn)
+　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	/[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/) / [信息港](https://www.hneeb.cn)
 　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)
 　45-广西<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	[考试院](http://www.gxeea.cn)
 　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)
@@ -601,7 +601,7 @@ QA 高考志愿常见问题 💬
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.8	202407
+	人生之路新高考	V0.3.9	202407
 	https://Laosheng.top/fuwu/gaokao
 ```
 
