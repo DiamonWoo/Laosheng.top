@@ -13,8 +13,8 @@
 
 <div id="mulu" align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/外交国别速查表</div>
+
 <h2 title="七大洲国家或地区">国别表目录</h2>
-LSIP进度　<br>
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、印度、沙特、土耳其……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、希腊、西班牙……</sub><br>
 <a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、摩洛哥、尼日利亚、南非……</sub><br>
@@ -24,7 +24,7 @@ LSIP进度　<br>
 <a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
 8 <a href="#8" target="_top">必应世界地图</a>　<sub>微软必应提供的世界地图</sub><br>
 9 <a href="#9" target="_top">图例</a>　<sub>emoji图标说明</sub><br>
-10 <a href="#10" target="_top">数据来源</a>　<sub>鸣谢、统计</sub><br>
+10 <a href="#10" target="_top">数据来源</a>　<sub>鸣谢、统计、参考文献</sub>
 
 
 <h2 id="0" title="LC=链接计数">国别表LSIP进度</h2>
@@ -75,7 +75,7 @@ LSIP进度　<br>
 🇱🇰	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2072.htm "国别美图")	[🧭](http://LK.mofcom.gov.cn "经贸指南")	LK⠀	<small>	<a title="斯里兰卡民主社会主义共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676884/">斯里兰卡</a> 	Sri Lanka	</small>		⠀1957/2/7建交	[💐](http://LK.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.beijing.embassy.gov.lk/cn "驻华使馆")	[wb](https://weibo.com/srilankacggz "驻华使馆微博")	⠀□	[🏢](https://www.gov.lk/ "Democratic Socialist Republic of Sri Lanka[u]")	⠀0094	Rs<sup>	[斯里兰卡卢比](https://cn.bing.com/search?q=LKR兑CNY)	首都：科伦坡（Colombo） 0h </sup>  
 🇲🇻	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2100.htm "国别美图")	　	MV⠀	<sup>	<a title="马尔代夫共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676692/">马尔代夫</a> 	Maldives	</sup>	🔄	⠀1972/10/14建交	[💐](http://MV.china-embassy.gov.cn "中国大使馆")	⠀□	-	⠀□	[🏢](http://www.maldivesinfo.gov.mv "Republic of Maldives")	⠀00960	.ރ<sup>	[拉菲亚](https://cn.bing.com/search?q=MVR兑CNY)	首都：马利 -7h </sup>  
 🇲🇳	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/1380.htm "国别美图")	[🧭](http://MN.mofcom.gov.cn "经贸指南")	MN⠀	<big>	<a title="蒙古国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676740/">蒙古</a> 	Mongolia	</big>		⠀1949/10/16建交	[💐](http://MN.china-embassy.gov.cn "中国大使馆")	[🛡️](https://beijing.embassy.mn/chn/ "驻华使馆")	[wb](https://weibo.com/7567719354 "驻华使馆微博")	[👥](https://mfa.gov.mn/en/ "外交部")	[🏢](http://www.pmis.gov.mn "Mongolia")	⠀00976	₮<sup>	[图格里克](https://cn.bing.com/search?q=MNT兑CNY)	首都：乌兰巴托 0h [中蒙博览会](https://weibo.com/u/6334167491)</sup>  
-🇰🇿	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/1600.htm "国别美图")	[🧭](http://KZ.mofcom.gov.cn "经贸指南")	KZ⠀	<big>	<a title="哈萨克斯坦共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676500/">哈萨克斯坦</a> 	Kazakhstan	</big>	🔄	⠀1992/1/3建交	[💐](http://KZ.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.gov.kz/memleket/entities/mfa-beijing?lang=zh "驻华使馆")	[wb](https://weibo.com/kazembassy "驻华使馆微博")	[👥](https://www.gov.kz/memleket/entities/mfa?lang=en "外交部")	[🏢](https://www.gov.kz/ "Republic of Kazakhstan")	⠀00997	₸<sup>	[哈萨克斯坦坚戈](https://cn.bing.com/search?q=KZT兑CNY)	首都：努尔苏丹 -5h [哈通社](https://weibo.com/informkz) [今日丝路](https://weibo.com/7415670580)</sup>  
+🇰🇿	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/1600.htm "国别美图")	[🧭](http://KZ.mofcom.gov.cn "经贸指南")	KZ⠀	<big>	<a title="哈萨克斯坦共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676500/">哈萨克斯坦</a> 	Kazakhstan	</big>	🔄	⠀1992/1/3建交	[💐](http://KZ.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.gov.kz/memleket/entities/mfa-beijing?lang=zh "驻华使馆")	[wb](https://weibo.com/kazembassy "驻华使馆微博")	[👥](https://www.gov.kz/memleket/entities/mfa?lang=en "外交部")	[🏢](https://www.gov.kz/ "Republic of Kazakhstan")	⠀00997	₸<sup>	[哈萨克斯坦坚戈](https://cn.bing.com/search?q=KZT兑CNY)	首都：阿斯塔纳(努尔苏丹) -5h [哈通社](https://weibo.com/informkz) [今日丝路](https://weibo.com/7415670580)</sup>  
 🇰🇬	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/1978.htm "国别美图")	[🧭](http://KG.mofcom.gov.cn "经贸指南")	KG⠀		<a title="吉尔吉斯共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676548/">吉尔吉斯斯坦</a> 	Kyrgyzstan			⠀1992/1/5建交	[💐](http://KG.china-embassy.gov.cn "中国大使馆")	[🛡️](https://mfa.gov.kg/en/embassies/all "驻华使馆")	-	[👥](https://mfa.gov.kg/en "外交部")	[🏢](https://www.gov.kg/ky "Kyrgyz Republic")	⠀00996	с<sup>	[吉尔吉斯斯坦索姆](https://cn.bing.com/search?q=KGS兑CNY)	首都：比什凯克 -5h 驻华使馆网址过长</sup>  
 🇹🇯	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2321.htm "国别美图")	[🧭](http://TJ.mofcom.gov.cn "经贸指南")	TJ⠀		<a title="塔吉克斯坦共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_676908/">塔吉克斯坦</a> 	Tajikistan			⠀1992/1/4建交	[💐](http://TJ.china-embassy.gov.cn "中国大使馆")	[🛡️](https://tajikembassychina.org/zh/ "驻华使馆")	-	[👥](https://mfa.tj/en/main "外交部")	[🏢](https://www.parlament.tj/ "Republic of Tajikistan")	⠀00992	ЅМ<sup>	[索莫尼](https://cn.bing.com/search?q=TJS兑CNY)	首都：杜尚别 -5h [总统](http://president.tj/)</sup>  
 🇺🇿	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2007.htm "国别美图")	[🧭](http://UZ.mofcom.gov.cn "经贸指南")	UZ⠀		<a title="乌兹别克斯坦共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677052/">乌兹别克斯坦</a> 	Uzbekistan		↩️	⠀1992/1/2建交	[💐](http://UZ.china-embassy.gov.cn "中国大使馆")	⠀□	-	[👥](https://mfa.uz/en "外交部")	[🏢](https://www.gov.uz/ "Republic of Uzbekistan")	⠀00998	so'm<sup>	[乌兹别克斯坦索姆](https://cn.bing.com/search?q=UZS兑CNY)	首都：塔什干 -5h </sup>  
@@ -380,6 +380,11 @@ LSIP进度　<br>
 
 　　国别表以“[大规模集成网页](https://diamonwoo.github.io/LSIP/)(**LSIP**)”形式收录以下全集：全体联合国会员国193个、中华人民共和国建交国183个（截至2024年1月）、一带一路签约国152个（截至2023年8月）。
 
+<h3 >参考文献</h3>
+*	20221024 [央广网](https://china.cnr.cn/gdgg/20221024/t20221024_526041243.shtml)：哈萨克斯坦首都几多变迁，记者盘点“冷都”阿斯塔纳
+
+
+
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -389,7 +394,7 @@ LSIP进度　<br>
 	老生常谈© 2019~2024 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/nations
-	外交国别速查表 V0.9.1	202406
+	外交国别速查表 V0.9.1	202407
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
