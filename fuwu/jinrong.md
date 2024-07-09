@@ -1,6 +1,6 @@
 个人理财金融圈 🥯 Finance Circles
 =================
-大萌　	202211-202406 第三稿	<base target="_blank">
+大萌　	202211-202407 第三稿	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告第一部分
 
@@ -31,10 +31,10 @@
 〖金融圈〗目录 与 图例
 -------------
 
-+	中国金融[监管体系](#tixi){:target="_top"} /	中央金融企业 🀄 [27家](#zh){:target="_top"}
++	中国金融[监管体系](#tixi){:target="_top"} /	[中央金融](#zh){:target="_top"}企业 🀄 27家
 	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12家=18
 	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43家❕
-	+ [**地方监管的金融机构**](#local){:target="_top"}	🍕 6xx家  
+	+ **地方监管的**[部分金融机构](#local){:target="_top"}	🍕 6xx家  
 	（💳城商行￥民营行/财险㊖与☯寿险公司/📤信托公司/📈证券公司/🎰期货公司）
 	+ 主要[金融交易所](#ex){:target="_top"} 📊	   8家
 	+ [港澳台](#ex2){:target="_top"}金融交易所 📊
@@ -85,7 +85,7 @@
 中国金融监管体系 🔱
 ---------------
 
-　　党的二十大以来，中央统筹谋划，国务院落实执行，2023年5月，金监总局正式挂牌，形成了‘一行、一局、一会’的监管格局，填补了以往‘分业监管’的空白，实现了金融监管全覆盖。
+　　党的二十大以来，中央统筹谋划，国务院落实执行，2023年5月，金监总局正式挂牌，形成了‘**一行一局一会**’的监管格局，填补了以往‘分业监管’的空白，实现了金融监管全覆盖。
 
 *	**中央金融委员会、中央金融工作委员会**、中央[财经委员会](https://www.12371.cn/special/cjw/)、中央审计委员会
 *	全国人大[财政经济委员会](http://www.npc.gov.cn/npc/c34377/czjjwyh.shtml)/全国政协[经济委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jjwyh/)
@@ -126,30 +126,23 @@
 
 /**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会🚩  
 主管业务：期货、股票、债券、基金。
-*	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。证监会一共有23个会管单位：
-*	📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所🚩、深交所🚩 等)
-*	4个行业协会：中国[证券业协会](https://www.sac.net.cn)、
-中国[期货业协会](https://www.cfachina.org)、
-中国[上市公司协会](https://www.capco.org.cn)、
-中国[证券投资基金业](https://www.amac.org.cn)协会
-*	2个教科机构：中证[金融研究院](https://www.cifcm.cn/)、[资本市场学院](http://www.ccmi.edu.cn)
-*	9家相关公司：[中国证券金融](http://www.csf.com.cn)股份有限公司、
-[中证数据](https://www.csdata.cn)、
-中证[商品指数](http://www.ccidx.com)、
-CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、
-中国[证券投资者保护基金](https://www.sipf.com.cn)、
-中国[期货市场监控中心](http://www.cfmmc.com/)、
-全国[中小企业股份转让系统](https://www.neeq.com.cn)、
-中证[信息技术服务](http://www.csits.org.cn)、
-中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司。
+*	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。
+	- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
+	- 股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
+	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2023年超**155万亿**。
+	- 基金 Fund　2022年6月，公募基金过万支，规模超26万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发……
+*	证监会一共有23个会管单位：
+	* 📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所🚩、深交所🚩 等)
+	* 4个行业协会：中国[证券业协会](https://www.sac.net.cn)、中国[期货业协会](https://www.cfachina.org)、
+中国[上市公司协会](https://www.capco.org.cn)、中国[证券投资基金业](https://www.amac.org.cn)协会
+	* 2个教科机构：中证[金融研究院](https://www.cifcm.cn/)、[资本市场学院](http://www.ccmi.edu.cn)
+	* 9家相关公司：[中国证券金融](http://www.csf.com.cn)股份有限公司、[中证数据](https://www.csdata.cn)、中证[商品指数](http://www.ccidx.com)、
+CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资者保护基金](https://www.sipf.com.cn)、中国[期货市场监控中心](http://www.cfmmc.com/)、
+全国[中小企业股份转让系统](https://www.neeq.com.cn)、中证[信息技术服务](http://www.csits.org.cn)、中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司。
 *	🍕 各省地证监局监管：证券业机构
 	- [📈 证券公司 ▼](#local){:target="_top"} 全国约140家，有4家为中央汇金参股。
 	- [🎰 期货公司 ▼](#local){:target="_top"} 全国约150家，最新名录请看：证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，
 	- 上市公司 全国超5000家 ……
--	期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
--	股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
--	债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2023年超**155万亿**。
--	基金 Fund　2022年6月，公募基金过万支，规模超26万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发……
 
 
 <div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -546,13 +539,9 @@ Exchanges
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.7.9	202406
+	个人理财金融圈 Version 0.8.0	202407
 	https://laosheng.top/fuwu/jinrong
 ```
-
-🥯💰🟨💳💼㊖💹📈📊🗰💵📉🧮🏗🎰🎲📅📆  
-🥮🍪🥞🥮🫓🍕🧇🧀🛎👑🔔👛👔🛍️🤗🏺🎳🀄  
-💸🪙🏻📤🥜⊛👤♟♙❀❁㊡☯㊣Ⓑ✪ü❃☢㋡◍㊉㊏
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
