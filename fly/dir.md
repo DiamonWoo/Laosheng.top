@@ -6,11 +6,11 @@
 
 **/fly**	　这里是民间网站‘老生常谈’的【云媒体】系列网页，大萌在此收录能够**用浏览器直接观看**的正规新闻媒体网址。国内媒体收录到地市级，国际媒体收录到国家级，帮大家找到有源新闻。详细页面如下：
 
-+	/dir　　本目录页
-	+ /index　☁️ [中国新闻云媒体](.){:target="_blank"}，畅游神州只需浏览器。（默认页）  
-　　　　收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
-	+ /index2　📜️ [新闻云第二页](index2)：云媒体图例说明与统计、教育台与科技报、县区级报纸与电视。
-	+ /waixuan　🔥 [中央外宣云媒体](waixuan)，全球吃瓜学外语。ChinaDaily、中国外文局、十大世界语言、解放军官方微博……
++	./dir　　本目录页
+	+ ./index　☁️ [中国新闻云媒体](.){:target="_blank"}，党和人民在一起。（默认页）  
+　　　　畅游神州只需浏览器！收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
+	+ ./index2　📜️ [新闻云第二页](index2)：云媒体图例说明与统计、教育台与科技报、县区级报纸与电视。
+	+ ./waixuan　🔥 [中央外宣云媒体](waixuan)，全球吃瓜学外语。ChinaDaily、中国外文局、十大世界语言、解放军官方微博……
 	+ 中文财经云媒体（准备中）　此外，【服务】系列网页也有少量政府部门免费云媒体。
 
 +	🌞 一带一路云媒体，世界风云收眼底。收录在【[一带一路](../ydyl/dir)】系列  
@@ -22,6 +22,17 @@
 ⏩老生常谈/全球免费<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>
 </div>
 <p align="center"><b>为游子找到乡音，为奋斗者找到乐土，为投资者找到信源。</b></p>
+
+
+近年发展
+--------
+
+　　 2023年夏，由中国记协主办，中国搜索承建的“<a title="" href="https://jzzjsjk.chinaso.com">记者之家数据库</a>”网站开通，提供：
+	<a title="新闻作品最高奖" href="https://jzzjsjk.chinaso.com/list/news-award">中国新闻奖</a>🏆、
+	<a title="新闻工作者最高奖" href="https://jzzjsjk.chinaso.com/list/changjiang-award">长江韬奋奖</a>、好记者讲好故事、媒体社会责任报告、中国新媒体研究报告 
+等历年数据查询。
+
+　　2021年10月，中央网信办发布新版《互联网新闻信息稿源单位名单》，含<a title="网信办提供pdf下载" href="http://www.cac.gov.cn/2021-10/18/c_1636153133379560.htm">1358家稿源单位</a>。
 
 
 什么是云媒体？ Cloud Media
@@ -41,7 +52,7 @@
 
 　　首先要找到名录，知道有什么媒体，然后找媒体的网站；然后要认识该媒体使用的语言，如果是常见的世界语言还好办，如果是一些小语种，就考验翻译工具的能力了；最后要有一定的网络技术能力，当网站连不上的时候，要能判断是网站不存在还是别的原因。<br>
 　　大萌遇到的难点概括起来，要过三关：线索关、语言关、技术关。<br>
-　　举个例子，比如找白俄罗斯和缅甸的云媒体。首先，他们都有国家通讯社吧？网址是什么？能连上吗？用的语言好认识吗？大家可以自己尝试一下。友情提示：白俄罗斯语接近俄语但不同，缅甸文是一堆小圆圈。<br>
+　　举个例子，比如找白俄罗斯和缅甸的云媒体。首先，他们都有国家通讯社吧？网址是什么？能连上吗？用的语言好认识吗？大家可以自己尝试一下。小提示：白俄罗斯语接近俄语但不同，缅甸文是一堆小圆圈。<br>
 　　第一次访问欧洲网站，你会遇到一些提问，关于cookie的
 ……
 
@@ -49,7 +60,7 @@
 　　互联网上除了电视台官网自己提供的直播网站之外，还存在大量的第三方转播网站。但是很多转播网站都不长久，大萌概括原因有三：一是被转播的电视台不允许对方转播，通常是出于版权保护；二是电视节目的内容在跨越国境时不受当地欢迎，被网关拦截；三是视频内容的网络成本较高，电视转播站如果没有恰当的技术和足够的资金，支撑不了多久。<br>
 　　这里收录一些看上去比较持久的网站：<br>
 　　<a title="收录了三四千个台" href="https://eja.tv/" target="_blank">EJA.tv</a>　　收录了全球三千多大小电视台节目，可大致按语言和国别分类<br>
-　　<a title="？" href="http://www.tvquanqiu.com/as/" target="_blank">TV看全球</a>　　来自山西的电视台汇编网站，与本站类似。<br>
+　　<a title="2024网站已挂" href="http://www.tvquanqiu.com/as/" target="_blank"><del>TV看全球</del></a>　　来自山西的电视台汇编网站，与本站类似。<br>
 　　<a title="？" href="https://www.yupptv.com/" target="_blank">YuppTV.com</a>　　印度最大的本土流媒体
 
 
@@ -77,11 +88,8 @@ Ideal Software Form of Cloud Media
 	全球免费云媒体 v3.1.1	202407
 ```
 
-<table align="right"><tbody><tr>
-<td align="right"><pre>
-	点击二维码<a href="https://Laosheng.top" title="老生常谈，节约您的搜索时间"><img src="../indexQR-Blue.png"></a>
-	“在浏览器打开”<a href="https://Laosheng.top" title="老生常谈">https://Laosheng.top</a></pre>
-</td></tr></tbody></table>
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
