@@ -14,8 +14,8 @@
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/高等院校三千所
 </div>
 
-高校所LSIP进度
-----------
+<h3>高校所LSIP进度</h3>
+
 		　完成LC = 2872　	V0.9.9　202407
 		　设计LC = 2927　	=27+2868+32　军+普+港澳
 		　完成率 = 　98.1%	已实际完成
@@ -39,20 +39,21 @@
 
 <h2 id='tupu'>中国高校层级图谱 👨‍🎓 <sub>本页目录</sub></h2>
 
-*	[军事高等院校](#D81){:target="_top"}，44所，其中27所⭐向高考招生
-*	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}，**2868**所，其中本科1308所
-	* 部属本科高校， 114所🥇 <sup>含[中管高校](#D1){:target="_top"}❗31所，一般部本❕83所</sup>
-	* 省属本科高校， 770所🥈 <sup>（多为‘二本’）</sup>
-	* 　　民办本科， 424所 ¥ <sup>（含12所境外合作）</sup><small>省教育厅主管</small>
-	* 　　专科院校，1560所：<small>部属❕4所，省属1165所，民办¥391所</small><sup>（含3所境外合作）</sup>
-*	[港澳普通高校](#D3){:target="_top"}，**32**所，其中21所🔖向高考招生  
-以上合计 2944所，202406数据！Laosheng.top
+*	[军事高等院校](#D81){:target="_top"} 44所，其中27所⭐向高考招生
+*	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2868**所，其中本科1308所
+	* 部属本科高校 114所🥇 <sup>含[中管高校](#D1){:target="_top"}❗31所，一般部本❕83所</sup>
+	* 省属本科高校 770所🥈 <sup>（多为‘二本’）</sup>
+	* 　　民办本科 424所 ¥ <sup>（含12所境外合作）</sup><small>省教育厅主管</small>
+	* 　　专科院校1560所：<small>部属❕4所，省属1165所，民办¥391所</small><sup>（含3所境外合作）</sup>
+*	[港澳普通高校](#D3){:target="_top"} 32所，其中21所🔖向高考招生  
+以上合计 2944所，2024数据！Laosheng.top
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)
 *	[数据来源](#D4){:target="_top"}与变更：改革近况、[近年院校变更](#D42){:target="_top"}
 *	[院校标记](#D7){:target="_top"}与问答：什么是211、985？什么是https？怎么学校网站打不开？〖[后记](#D8){:target="_top"}〗
+
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
@@ -116,7 +117,7 @@
 <div align="right" id="D1">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 中管高校网站分页
-----------------
+------------
 
 　　在114所中央部委直属的普通高校中有31所‘中管高校’（标记❗），书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》。
 　　所有中管高校均为985和双一流建设高校，网站表现出较高水准，域名与网页路径稳定，这里列出他们的主要页面。各校按十九届中央巡视公告排序：
@@ -196,14 +197,13 @@
 　<a href="#63" target="_top">63-青海</a>
 　<a href="#64" target="_top">64-宁夏</a>
 　<a href="#65" target="_top">65-新疆</a>
-　71-台湾　81-香港　82-澳门
-　各省按身份证号前两位排序　▼
+　71-台湾　81-香港　82-澳门　各省按身份证号前两位排序　▼
 
 　　<small>上面条件都相同的院校，按照‘学校标识码’排序。比如：北京工商大学	4111010011、首都师范大学	4111010028。
 这个标识码可以在教育部官网（数据来源第一项）查询，只有当一所学校没有发现有效网址，本页才会显示 学校标识码，比如：¥ 天津师范大学 津沽学院 4112013896。
 *学校标识码看起来像是学校在教育部登记的先后顺序。*</small>
 
-202407**各省统计如下：**
+202406**各省统计如下：**
 
 	　各省高校	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	层级合计
 	部属本科🥇	39	3	4	0	0	5	2	3	9	10	1	2	2	0	3	1	8	2	3	0	0	2	6	0	0	0	6	2	0	1	0	🥇 114
@@ -308,6 +308,7 @@
 高职大专42所（4 ¥）：<small>　 <a  href='http://www.cjpt.edu.cn'>昌吉职业技术学院</a> 　 <a  href='http://www.ylzyjs.cn'>伊犁职业技术学院</a> 　 <a  href='http://www.xjbyxy.cn/xygk/xyjj.htm'>巴音郭楞职业技术学院</a> 　石河子市 <a  href='http://www.shzv.edu.cn'>新疆石河子职业技术学院</a> ✪　伊犁哈萨克自治州 <a  href='http://www.xjyyedu.cn'>新疆应用职业技术学院</a> 　 <a  href='http://www.betltc.cn'>博尔塔拉职业技术学院</a> 　 <a  href='http://www.shzvce.cn'>石河子工程职业技术学院</a> ✪　阿拉尔市 <a title='头条搜索。可用ip访问：1.13.3.19' href='https://www.tlmzy.com'>塔里木职业技术学院</a> ✪　 <a  href='http://www.tmgxy.edu.cn'>铁门关职业技术学院</a> ✪　 <a  href='http://www.bttmskzy.cn'>图木舒克职业技术学院</a> ✪  <i>2023新校</i>　 <a title='另有同名学校' href='http://www.ccdlvtc.com'>可克达拉职业技术学院</a> ✪  <i>2023新校</i>　 <a  href='http://www.xxzyjsxy.cn'>新星职业技术学院</a> ✪  <i>2023新校</i>　 <a  href='http://www.btkyzy.edu.cn'>昆玉职业技术学院</a> ✪  <i>[2023新校](https://www.btzx.com.cn/web/2023/4/1/VIDE1680322828126162.html)</i>　 <a  >双河职业技术学院</a> ✪ 4165014877 <i>[2024新校](https://www.gaokao.cn/school/3708/newsdetail/68002/214701)</i>　五家渠市 ¥ <a title='英文域名：xjkjzyjsxy.com' href='http://新疆科技职业技术学院.com'>新疆科技职业技术学院</a>   <i>中文域名！</i>　 <a  href='http://www.uvu.edu.cn'>乌鲁木齐职业大学</a> 　乌鲁木齐市 <a  >新疆机电职业技术学院</a>  4165012513 <i>[高教云](https://heec.cahe.edu.cn/school/1910/jianjie)</i>　乌鲁木齐市 <a  href='http://www.xjqg.edu.cn'>新疆轻工职业技术学院</a> 　乌鲁木齐市 <a title='连接缓慢' href='http://www.xjjsxy.net'>新疆建设职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.xjjtedu.com'>新疆交通职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.xjvu.edu.cn'>新疆职业大学</a> 　乌鲁木齐市 <a  >新疆体育职业技术学院</a> 🏃 4165014416　乌鲁木齐市 <a title='连接困难？' href='http://www.xjei.edu.cn'>新疆师范高等专科学校</a>   <i>新疆教育学院</i>　乌鲁木齐市 <a  href='http://www.xjtzy.net'>新疆铁道职业技术学院</a> 　乌鲁木齐市 <a  href='http://www.btc.edu.cn'>兴新职业技术学院</a> ✪　乌鲁木齐市 <a title='新疆钢铁高级技工学校' >新疆工业职业技术学院</a> ⚙️ 4265051060 <i>宝钢集团</i>　乌鲁木齐市 <a  >新疆司法警官职业学院</a> 🛂 4165014805 <i>[2023新校](https://sft.xinjiang.gov.cn/xjsft/tzgg/202405/5d36d4371199432ba566ab3af909d098.shtml)</i>　 <a title='域名停服，202406' href='http://www.wlmqjsxy.com'>乌鲁木齐职业技术学院</a> ？  <i>[2024新校](https://gaokao.chsi.com.cn/sch/schoolInfo--schId-5530951084,categoryId-5530951088,mindex-1.dhtml)</i>　乌鲁木齐市 ¥ <a  href='http://www.xjnyedu.com'>新疆能源职业技术学院</a> 　乌鲁木齐市 ¥ <a title='域名失效：www.xjxiandai.net' >新疆现代职业技术学院</a>  4165013726　乌鲁木齐市 ¥ <a  href='http://www.kxedu.net'>新疆科信职业技术学院</a> 　 <a  href='http://www.kzjsxy.edu.cn'>克拉玛依职业技术学院</a> 　 <a title='头条搜索' >吐鲁番职业技术学院</a>  4165014585 <i>推测网址：www.tlfzj.com</i>　 <a  href='http://www.hmzyedu.cn'>哈密职业技术学院</a> 　 <a  href='http://www.akszy.com'>阿克苏职业技术学院</a> 　 <a  href='http://www.akszy.edu.cn'>阿克苏工业职业技术学院</a>   <i>2023新校</i>　克州 <a  href='http://www.kzvtc.edu.cn'>克孜勒苏职业技术学院</a> 　 <a  >喀什职业技术学院</a>  4165014677　 <a title='上海教育援疆' >喀什理工职业技术学院</a>  4165014824 <i>[2023新校](https://www.thepaper.cn/newsDetail_forward_24637239)</i>　 <a  href='http://www.htpt.edu.cn'>和田职业技术学院</a> 　 <a  >塔城职业技术学院</a>  4165014740　 <a  href='http://www.altzyxy.com'>阿勒泰职业技术学院</a>  </small>　　<a href="#mulu" target="_top" title="回各省索引">▲</a>  
 
 　✪	圆环五星符号表示主管部门为新疆兵团　	（高等院校三千所——老生常谈）
+
 
 <div align="right" id="D3">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
@@ -467,7 +468,6 @@
 　大学的网址（尤其是域名）是不会轻易更换的。常见的更换域名情况多发生于学校升级，比如，一个民办学校开始用的是 abc.cn 这样的自购域名，随着办学资格的确定或升级，学校可以向CERNET（中国教育科研网）申请 abu.edu.cn 这样的域名。比较好的做法是，继续持有旧域名，把旧网址设置为自动跳转到新网址。但有的学校抛弃了旧域名，不管不顾被他人利用，给学校无形资产造成损失。大萌清查的过期域名主要是这一类。
 
 　大萌对本页展示的每一所学校网址都做了人工检查，对出现过访问困难的学校标记问号'？'，但仍然不排除有学校后续变更了网址而不知情的可能。如果读者发现，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)修正。
-
 
 <div align="right" id="D8">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
