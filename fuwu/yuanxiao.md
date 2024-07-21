@@ -4,9 +4,9 @@
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
-　　**高等院校**是大学/学院/高专/高职/职大的统称，是青年学子通过 普通**高考**/职教高考/成人自考 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)软科、(中管院)武书连、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些评分计算复杂、每年变化，除非是高教研究者，普通家庭要想记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
+　　**高等院校**是大学/学院/高专/高职/职大的统称，是青年学子通过 普通**高考**/职教高考/成人自考 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)软科、(中管院)武书连、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些评分计算复杂、每年变化，除非是高教研究者，普通家庭要记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
 
-　　我国大陆高等院校有约三千所，其中一半是大专（含高职），各级本科1200多所，余下还有成人高校约250所，这些学校都由教育部公布名单。另有44所军事院校，其中27所（2022年起）面向普通高考招生，大部分不设公开网站。香港与澳门两个特区也有部分院校通过高考招收内地考生。经过2000年前后的大学合并潮、2017年的军改、2022年的独立学院转设，但愿这些数字不会再有大幅变化。
+　　我国各类高等院校总数超过三千。军事高校有44所，部分面向普通高考招生，大部分不设公开网站。数量最大的是普通高校，本科超过1300所，高职(专科)超过1500所；成人高校有大约250所，这两类高校由教育部公布名单。另有港澳台三地的普通高校不超过200所，其中港澳部分高校面向大陆高考招生。经过2000年左右的大学合并潮、2017年起的军改、2022年起的独立学院转设，但愿这些数字不再大幅变化。
 
 　　‘高等院校三千所’网页将以‘[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)’形式收录中国高校名单全集和网址，按照 中管、部本、省本、专科 的顺序形成 **中国高校层级图谱**。　2024年本页更新时，转移了台湾高校、成人高校、民间大学排行榜 到‘[新高考](gaokao "高考改革进程图")’页面。请善用浏览器页内查找、统计功能，新手请在电脑上观看本页面。
 
@@ -16,14 +16,14 @@
 
 高校所LSIP进度
 ----------
-		　完成LC = 2752+180　	 V0.8.3
-		　设计LC = 3000　	=2820+180-x 　少数学校没有网站
-		　完成率 = 　97.7%	已实际完成
+		　完成LC = 2872　	V0.9.9　202407
+		　设计LC = 2927　	=27+2868+32　军+普+港澳
+		　完成率 = 　98.1%	已实际完成
 
-*	202407，修订今年变更但四五六月未在官网公开的院校，详情见‘近年高校变更’段落。
+*	202407，修订今年变更但四五六月未在官网公布的院校，详情见‘近年高校变更’段落。
 *	202406，增补20余所院校网址，院校无网址比例降到 2%。v0.9.8
 *	202406，教育部6月21日中午公布最新高校名录，院校数增加48所。v0.9.7
-*	202404，已更新近一年的变更数据，本科增加2所、专科增加12所。v0.9.3
+*	202404，已更新近9个月的变更数据，本科增加2所、专科增加12所。v0.9.3
 *	202404，已在页面标记985✊与211✌️，可见页底部介绍。v0.9.0
 *	202308，《高等院校三千所》学校网址应收尽收，收录当年高校数量恰好3000整。v0.8.6
 *	202308，对国企兴办的高职标记齿轮符号⚙️，已收录80余所。v0.8.5~v0.8.6
@@ -45,7 +45,7 @@
 	* 省属本科高校， 770所🥈 <sup>（多为‘二本’）</sup>
 	* 　　民办本科， 424所 ¥ <sup>（含12所境外合作）</sup><small>省教育厅主管</small>
 	* 　　专科院校，1560所：<small>部属❕4所，省属1165所，民办¥391所</small><sup>（含3所境外合作）</sup>
-	* [港澳普通高校 🏫](#D3){:target="_top"}，**32**所，其中21所🔖向高考招生  
+*	[港澳普通高校 🏫](#D3){:target="_top"}，**32**所，其中21所🔖向高考招生  
 以上合计 2944所（2024年6月数据！Laosheng.top）
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页。
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
@@ -53,51 +53,6 @@
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)
 *	[数据来源](#D5){:target="_top"}与变更：改革近况、[近年院校变更](#D6){:target="_top"}
 *	[院校标记](#D7){:target="_top"}与问答：什么是211、985？什么是https？怎么学校网站打不开？〖后记〗
-
-<h3 id="mulu">各省高校索引</h3>
-
-　<a href="#11" target="_top">11-北京</a>
-　<a href="#12" target="_top">12-天津</a>
-　<a href="#13" target="_top">13-河北</a>
-　<a href="#14" target="_top">14-山西</a>
-　<a href="#15" target="_top">15-内蒙古</a>
-　<a href="#21" target="_top">21-辽宁</a>
-　<a href="#22" target="_top">22-吉林</a>
-　<a href="#23" target="_top">23-黑龙江</a>
-　<a href="#31" target="_top">31-上海</a>
-　<a href="#32" target="_top">32-江苏</a>
-　<a href="#33" target="_top">33-浙江</a>
-　<a href="#34" target="_top">34-安徽</a>
-　<a href="#35" target="_top">35-福建</a>
-　<a href="#36" target="_top">36-江西</a>
-　<a href="#37" target="_top">37-山东</a>
-　<a href="#41" target="_top">41-河南</a>
-　<a href="#42" target="_top">42-湖北</a>
-　<a href="#43" target="_top">43-湖南</a>
-　<a href="#44" target="_top">44-广东</a>
-　<a href="#45" target="_top">45-广西</a>
-　<a href="#46" target="_top">46-海南</a>
-　<a href="#50" target="_top">50-重庆</a>
-　<a href="#51" target="_top">51-四川</a>
-　<a href="#52" target="_top">52-贵州</a>
-　<a href="#53" target="_top">53-云南</a>
-　<a href="#54" target="_top">54-西藏</a>
-　<a href="#61" target="_top">61-陕西</a>
-　<a href="#62" target="_top">62-甘肃</a>
-　<a href="#63" target="_top">63-青海</a>
-　<a href="#64" target="_top">64-宁夏</a>
-　<a href="#65" target="_top">65-新疆</a>
-　71-台湾　81-香港　82-澳门
-　各省按身份证号前两位排序　▼
-
-**各省统计如下：**
-
-	　各省高校	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	层级合计
-	部属本科🥇	39	3	4	0	0	5	2	3	9	10	1	2	2	0	3	1	8	2	3	0	0	2	6	0	0	0	6	2	0	1	0	🥇 114
-	省属本科🥈	23	16	38	27	15	37	24	25	22	40	38	31	21	29	43	38	28	30	39	28	5	17	30	22	24	4	29	20	5	3	19	🥈 770
-	民办本科 ¥	6	11	21	7	2	22	12	12	9	28	23	14	16	18	25	21	32	21	31	12	4	9	18	8	9	0	23	3	1	4	2	￥ 424
-	　　专科数	24	26	66	49	37	50	29	38	29	94	47	78	49	64	90	114	65	86	92	49	16	45	85	50	58	3	39	25	7	14	42	专 1560
-	各省小计：	92	56	129	83	54	114	67	78	69	172	109	125	88	111	161	174	133	139	165	89	25	73	139	80	91	7	97	50	13	22	63	总 2868
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
@@ -207,9 +162,55 @@
 　　同一层级的院校，按照所在**城市的代码**排序，省会城市排第一；  
 　　同一城市的院校，按**先公办、后民办**排序。
 
+<h3 id="mulu">各省高校索引</h3>
+
+　<a href="#11" target="_top">11-北京</a>
+　<a href="#12" target="_top">12-天津</a>
+　<a href="#13" target="_top">13-河北</a>
+　<a href="#14" target="_top">14-山西</a>
+　<a href="#15" target="_top">15-内蒙古</a>
+　<a href="#21" target="_top">21-辽宁</a>
+　<a href="#22" target="_top">22-吉林</a>
+　<a href="#23" target="_top">23-黑龙江</a>
+　<a href="#31" target="_top">31-上海</a>
+　<a href="#32" target="_top">32-江苏</a>
+　<a href="#33" target="_top">33-浙江</a>
+　<a href="#34" target="_top">34-安徽</a>
+　<a href="#35" target="_top">35-福建</a>
+　<a href="#36" target="_top">36-江西</a>
+　<a href="#37" target="_top">37-山东</a>
+　<a href="#41" target="_top">41-河南</a>
+　<a href="#42" target="_top">42-湖北</a>
+　<a href="#43" target="_top">43-湖南</a>
+　<a href="#44" target="_top">44-广东</a>
+　<a href="#45" target="_top">45-广西</a>
+　<a href="#46" target="_top">46-海南</a>
+　<a href="#50" target="_top">50-重庆</a>
+　<a href="#51" target="_top">51-四川</a>
+　<a href="#52" target="_top">52-贵州</a>
+　<a href="#53" target="_top">53-云南</a>
+　<a href="#54" target="_top">54-西藏</a>
+　<a href="#61" target="_top">61-陕西</a>
+　<a href="#62" target="_top">62-甘肃</a>
+　<a href="#63" target="_top">63-青海</a>
+　<a href="#64" target="_top">64-宁夏</a>
+　<a href="#65" target="_top">65-新疆</a>
+　71-台湾　81-香港　82-澳门
+　各省按身份证号前两位排序　▼
+
 　　<small>上面条件都相同的院校，按照‘学校标识码’排序。比如：北京工商大学	4111010011、首都师范大学	4111010028。
 这个标识码可以在教育部官网（数据来源第一项）查询，只有当一所学校没有发现有效网址，本页才会显示 学校标识码，比如：¥ 天津师范大学 津沽学院 4112013896。
 *学校标识码看起来像是学校在教育部登记的先后顺序。*</small>
+
+**各省统计如下：**
+
+	　各省高校	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	层级合计
+	部属本科🥇	39	3	4	0	0	5	2	3	9	10	1	2	2	0	3	1	8	2	3	0	0	2	6	0	0	0	6	2	0	1	0	🥇 114
+	省属本科🥈	23	16	38	27	15	37	24	25	22	40	38	31	21	29	43	38	28	30	39	28	5	17	30	22	24	4	29	20	5	3	19	🥈 770
+	民办本科 ¥	6	11	21	7	2	22	12	12	9	28	23	14	16	18	25	21	32	21	31	12	4	9	18	8	9	0	23	3	1	4	2	￥ 424
+	　　专科数	24	26	66	49	37	50	29	38	29	94	47	78	49	64	90	114	65	86	92	49	16	45	85	50	58	3	39	25	7	14	42	专 1560
+	各省小计：	92	56	129	83	54	114	67	78	69	172	109	125	88	111	161	174	133	139	165	89	25	73	139	80	91	7	97	50	13	22	63	总 2868
+
 
 <h3 id='11'>北京　<small>92所高校：39🥇 23🥈 6 ¥</small></h3>
 　❗<a title='教育部 五四运动' href='http://www.pku.edu.cn'><b>北京大学</b></a> 海淀区  <i></i>　❗<a title='教育部 庚子赔款' href='http://www.tsinghua.edu.cn'><b>清华大学</b></a> 海淀区  <i></i>　❗<a title='教育部 抗日烽火' href='http://www.ruc.edu.cn'><b>中国人民大学</b></a> 海淀区  <i></i>　❗<a title='教育部 京师大学堂师范馆' href='http://www.bnu.edu.cn'><b>北京师范大学</b></a> 海淀区  <i></i>　❗<a title='教育部' href='http://www.cau.edu.cn'><b>中国农业大学</b></a> 海淀区  <i></i>　❗<a title='工业和信息化部' href='http://www.bit.edu.cn'><b>北京理工大学</b></a> 海淀区  <i></i>　❗<a title='工业和信息化部 图书馆与网络中心网站不对外开放' href='http://www.buaa.edu.cn'><b>北京航空航天大学</b></a> 海淀区  <i></i>　<sup>国家卫健委</sup>❕<a title='加挂：清华大学医学部' href='http://www.cams.ac.cn'><b>北京协和医学院</b></a> 东城区  <i>清华大学医学部</i>　<sup>教育部</sup>❕<a  href='http://www.chntheatre.edu.cn'><b>中央戏剧学院</b></a> 💃东城区/昌平区　<sup>外交部</sup>❕<a  href='http://www.cfau.edu.cn'><b>外交学院</b></a> 西城区　<sup>公安部</sup>❕<a  href='http://www.cppsu.edu.cn'><b>中国人民公安大学</b></a> 🛂西城区　<sup>教育部</sup>❕<a  href='http://www.ccom.edu.cn'><b>中央音乐学院</b></a> ✌️🎵西城区　<sup>教育部</sup>❕<a  href='http://www.buct.edu.cn'><b>北京化工大学</b></a> ✌️朝阳区　<sup>教育部</sup>❕<a  href='http://www.bucm.edu.cn'><b>北京中医药大学</b></a> ✌️朝阳区  <i>+北京针灸骨伤学院</i>　<sup>教育部</sup>❕<a  href='http://www.cuc.edu.cn'><b>中国传媒大学</b></a> ✌️朝阳区　<sup>教育部</sup>❕<a  href='http://www.uibe.edu.cn'><b>对外经济贸易大学</b></a> ✌️朝阳区　<sup>教育部</sup>❕<a  href='http://www.cafa.edu.cn'><b>中央美术学院</b></a> 🎨朝阳区　<sup>中华妇女联合会</sup>❕<a  href='http://www.cwu.edu.cn'><b>中华女子学院</b></a> 朝阳区　<sup>中国社会科学院</sup>❕<a  href='https://www.ucass.edu.cn'><b>中国社会科学院大学</b></a> 朝阳区　<sup>中央办公厅</sup>❕<a  href='http://www.besti.edu.cn'><b>北京电子科技学院</b></a> 丰台区　<sup>教育部</sup>❕<a  href='http://www.njtu.edu.cn'><b>北京交通大学</b></a> ✌️海淀区　<sup>教育部</sup>❕<a  href='http://www.ustb.edu.cn'><b>北京科技大学</b></a> ✌️海淀区　<sup>教育部</sup>❕<a  href='http://www.bupt.edu.cn'><b>北京邮电大学</b></a> ✌️海淀区　<sup>教育部</sup>❕<a  href='http://www.bjfu.edu.cn'><b>北京林业大学</b></a> ✌️海淀区　<sup>教育部</sup>❕<a  href='http://www.bfsu.edu.cn'><b>北京外国语大学</b></a> ✌️海淀区　<sup>教育部</sup>❕<a  href='http://www.blcu.edu.cn'><b>北京语言大学</b></a> 海淀区　<sup>教育部</sup>❕<a  href='http://www.cufe.edu.cn'><b>中央财经大学</b></a> ✌️海淀区　<sup>教育部</sup>❕<a  href='http://www.uir.cn'><b>国际关系学院</b></a> 海淀区　<sup>国家体育总局</sup>❕<a  href='http://www.bsu.edu.cn'><b>北京体育大学</b></a> ✌️🏃海淀区　<sup>国家民委</sup>❕<a title='国家民族事务委员会' href='http://www.muc.edu.cn'><b>中央民族大学</b></a> ✊海淀区　<sup>教育部</sup>❕<a  href='http://www.cupl.edu.cn'><b>中国政法大学</b></a> ✌️⚖️海淀区　<sup>教育部</sup>❕<a  href='http://www.cumtb.edu.cn'><b>中国矿业大学（北京）</b></a> ✌️海淀区/昌平区　<sup>教育部</sup>❕<a  href='http://www.cup.edu.cn'><b>中国石油大学（北京）</b></a> ✌️海淀区/昌平区　<sup>教育部</sup>❕<a  href='http://www.cugb.edu.cn'><b>中国地质大学（北京）</b></a> ✌️海淀区　<sup>共青团中央</sup>❕<a  href='http://www.cyu.edu.cn'><b>中国青年政治学院</b></a> 海淀区　<sup>中华全国总工会</sup>❕<a  href='http://www.ciir.edu.cn'><b>中国劳动关系学院</b></a> 海淀区　<sup>中国科学院</sup>❕<a title='国科大，中科院的研究生部' href='http://www.ucas.ac.cn'><b>中国科学院大学</b></a> 海淀区　<sup>应急管理部</sup>❕<a  href='http://www.cfri.edu.cn'><b>中国消防救援学院</b></a> 昌平区　<sup>教育部</sup>❕<a  href='http://www.ncepu.edu.cn'><b>华北电力大学</b></a> ✌️昌平区　<a  href='http://www.bjut.edu.cn'>北京工业大学</a> ✌️朝阳区　<a  href='http://www.bift.edu.cn'>北京服装学院</a> 朝阳区/昌平区　<a  href='http://www.bisu.edu.cn'>北京第二外国语学院</a> 朝阳区　<a  href='http://www.ccmusic.edu.cn'>中国音乐学院</a> 🎵朝阳区　<a  href='http://www.bistu.edu.cn'>北京信息科技大学</a> 朝阳区/海淀区　<a  href='http://www.buu.edu.cn/col/col7/'>北京联合大学</a> 朝阳区　<a  href='http://www.bjpc.edu.cn'>北京警察学院</a> 🛂朝阳区/昌平区　<a  href='http://www.ccmu.edu.cn'>首都医科大学</a> 丰台区　<a  href='http://www.cueb.edu.cn'>首都经济贸易大学</a> 丰台区　<a title='2000年划转北京市，2014年与文旅部共建' href='http://www.nacta.edu.cn'>中国戏曲学院</a> 💃丰台区　<a  href='http://www.ncut.edu.cn'>北方工业大学</a> 石景山区　<a  href='http://www.sgit.edu.cn'>首钢工学院</a> 石景山区　<a  href='http://www.btbu.edu.cn'>北京工商大学</a> 海淀区　<a  href='http://www.cnu.edu.cn'>首都师范大学</a> 海淀区　<a title='北京国际奥林匹克学院。网站要求https访问' href='https://www.cupes.edu.cn'>首都体育学院</a> 🏃海淀区　<a  href='http://www.bfa.edu.cn'>北京电影学院</a> 💃海淀区　<a  href='http://www.bda.edu.cn'>北京舞蹈学院</a> 💃海淀区　¥ <a  href='http://www.bcu.edu.cn'>北京城市学院</a> 海淀区　<a  href='http://www.bwu.edu.cn'>北京物资学院</a> 通州区　¥ <a title='北京工商大学 嘉华学院' href='http://www.canvard.net.cn'>北京金融科技学院</a> 通州区  <i>2024转设</i>　¥ 北京工业大学<a  href='http://www.gengdan.cn'>耿丹学院</a> 顺义区　<a  href='http://www.bua.edu.cn'>北京农学院</a> 昌平区　<a  href='http://www.bigc.edu.cn'>北京印刷学院</a> 大兴区　<a  href='http://www.bucea.edu.cn'>北京建筑大学</a> 大兴区　<a  href='http://www.bipt.edu.cn'>北京石油化工学院</a> 大兴区　<a title='北京社会管理职业学院' href='http://www.bcsa.edu.cn'>民政职业大学</a> 大兴区  <i>2024升级，北京社会管理</i>　¥ 首都师范大学<a  href='http://www.kdcnu.com'>科德学院</a> 大兴区　¥ 北京第二外国语学院<a  href='http://www.bhi.edu.cn'>中瑞酒店管理学院</a> 大兴区　¥ 北京邮电大学<a  href='http://www.ccbupt.cn'>世纪学院</a> 延庆区 <br>  
@@ -391,7 +392,7 @@
 高等院校三千所——老生常谈
 
 <h4 >待定</h4>
-　　福耀科技大学，2024年暂未获准招生。
+　　福耀科技大学(暂名) [FYust](https://www.fyUST.org.cn)，2024年暂未获准招生。
 
 <h4 >2023夏~2024年度</h4>
 　　新增院校50所，撤销2所，合计增加48所。  
@@ -484,7 +485,7 @@
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 0.9.9	202407
+	高等院校三千所	Version 1.0.0RC	202407
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
