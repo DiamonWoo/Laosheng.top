@@ -152,37 +152,37 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资
 
 　27家，财政部2022年1月公布，部分企业没有银保监会(金监总局)分配的机构编码。
 
-1	[<b>中国投资</b>](http://www.china-inv.cn) ‼️ 	⠀CIC	<small>[子公司](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	2007年依照《公司法》设立的<b>主权财富基金</b>，中投公司注册资本2000亿美元</small>。  
+1	[<b>中国投资</b>](http://www.china-inv.cn) ‼️	CIC⠀	<small>[子公司](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	2007年依照《公司法》设立的<b>主权财富基金</b>，中投公司注册资本2000亿美元</small>。  
 	　　　子公司：中投国际、中投海外 开展境外投资业务。  
 	　　　子公司：[中央汇金投资](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)有限责任公司，由国务院授权控参股19家金融机构，标记❗。  
-2	[国开行❗](http://www.cdb.com.cn) 	⠀CDB	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
-3	[进出口银行](http://eximbank.gov.cn) 	⠀EXIMB	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京 🚩 	⠀中国进出口银行⠀A0003H111000001	</small>  
-4	[农发行](http://www.adbc.com.cn) 	⠀ADBC	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 ⛳ 	⠀中国农业发展银行⠀A0002H111000001	</small>  
-5	[工商银行❗](https://www.icbc.com.cn) 	⠀ICBC	<small>[网站群](https://www.icbc.com.cn/page/721853675948769300.html)	⠀北京 🚩 	⠀中国工商银行股份有限公司⠀B0001H111000001	</small>  
-6	[农业银行❗](https://www.abchina.com) 	⠀ABChina	<small>[网站群](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnzykggs/)	⠀北京 🚩 	⠀中国农业银行股份有限公司⠀B0002H111000001	</small>  
-7	[中国银行❗](https://www.boc.cn) 	⠀BOC	<small>[网站群](https://www.boc.cn/aboutboc/ab6/)	⠀北京 🚩 	⠀中国银行股份有限公司⠀B0003H111000001	</small>  
-8	[建设银行❗](http://www.ccb.com) 	⠀CCB	- - - <small>	⠀北京 🚩 	⠀中国建设银行股份有限公司⠀B0004H111000001	⠀[建行集团](http://group1.ccb.com/cn/group/company/company.html)</small>  
-9	[交通银行](https://www.bankcomm.com) 	⠀COMM	<small>[网站群](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/16356/2629241.shtml)	⠀上海市 🚩 	⠀交通银行股份有限公司⠀B0005H131000001	</small>  
-10	[中信集团](https://www.group.citic) 	⠀CITIC	<small>[网站群](https://www.group.citic/html/Diversified_Portfolio/)	⠀北京 🚩 	⠀中国中信集团有限公司⠀	</small>  
-11	[光大集团❗](https://www.ebchina.com) 	⠀EBChina	<small>[网站群](https://www.ebchina.com/ebchina/stgd/dcf/)	⠀北京 ⛳ 	⠀中国光大集团股份公司⠀	</small>  
-12	[中国人保](https://www.picc.com) 	⠀PICC	<small>[网站群](https://www.picc.com/gyrb/jtccy/)	⠀北京 ⛳ 	⠀中国人民保险集团股份有限公司⠀000001	⠀[wb](https://weibo.com/piccweibo)</small>  
-13	[中国人寿](https://www.chinalife.com.cn) 	⠀LIFE	<small>[网站群](https://www.chinalife.com.cn/chinalife/gywm/)	⠀北京 🚩 	⠀中国人寿保险（集团）公司⠀000004	</small>  
-14	[中国太平](http://www.cntaiping.com) 	⠀TaiPing	<small>[网站群](http://www.cntaiping.com/about-jtcy/)	⠀北京 🚩 	⠀中国太平保险集团有限责任公司⠀000065	</small>  
-15	[中国信保❗](https://sinosure.com.cn) 	⠀SINO	- - - <small>	⠀北京 🚩 	⠀中国出口信用保险公司⠀000011	</small>  
-16	[华融资管](https://www.chamc.com.cn) 	⠀Huarong	<small>[网站群](https://www.chamc.com.cn/gyhr/gsjg/)	⠀北京  	⠀中国华融资产管理股份有限公司⠀J0001H111000001	</small>  
-17	[长城资管](https://www.gwamcc.com) 	⠀　　	<small>[网站群](https://www.gwamcc.com/GroupLink.aspx)	⠀北京  	⠀中国长城资产管理股份有限公司⠀J0002H111000001	</small>  
-18	[东方资管](http://www.coamc.com.cn) 	⠀Orient	<small>[网站群](http://www.coamc.com.cn/dfzch/zzjg/kggs/)	⠀北京  	⠀中国东方资产管理股份有限公司⠀J0003H111000001	</small>  
-19	[信达资管](https://www.cinda.com.cn) 	⠀　　	<small>[网站群](https://www.cinda.com.cn/xdjt/xdjtpd/xdwzlj/list.shtml)	⠀北京  	⠀中国信达资产管理股份有限公司⠀J0004H111000001	</small>  
-20	[<b>中央结算公司</b>](http://www.ccdc.com.cn) ‼️ 	⠀CCDC	- - - <small>	⠀北京  	⠀中央国债登记结算有限责任公司⠀<b>国家金融基础设施</b>，下设：
+2	[国开行❗](http://www.cdb.com.cn) 	CDB⠀	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
+3	[进出口银行](http://eximbank.gov.cn) 	EXIMB⠀	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京 🚩 	⠀中国进出口银行⠀A0003H111000001	</small>  
+4	[农发行](http://www.adbc.com.cn) 	ADBC⠀	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 ⛳ 	⠀中国农业发展银行⠀A0002H111000001	</small>  
+5	[工商银行❗](https://www.icbc.com.cn) 	ICBC⠀	<small>[网站群](https://www.icbc.com.cn/page/721853675948769300.html)	⠀北京 🚩 	⠀中国工商银行股份有限公司⠀B0001H111000001	</small>  
+6	[农业银行❗](https://www.abchina.com) 	ABChina⠀	<small>[网站群](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnzykggs/)	⠀北京 🚩 	⠀中国农业银行股份有限公司⠀B0002H111000001	</small>  
+7	[中国银行❗](https://www.boc.cn) 	BOC⠀	<small>[网站群](https://www.boc.cn/aboutboc/ab6/)	⠀北京 🚩 	⠀中国银行股份有限公司⠀B0003H111000001	</small>  
+8	[建设银行❗](http://www.ccb.com) 	CCB⠀	- - - <small>	⠀北京 🚩 	⠀中国建设银行股份有限公司⠀B0004H111000001	⠀[建行集团](http://group1.ccb.com/cn/group/company/company.html)</small>  
+9	[交通银行](https://www.bankcomm.com) 	COMM⠀	<small>[网站群](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/16356/2629241.shtml)	⠀上海市 🚩 	⠀交通银行股份有限公司⠀B0005H131000001	</small>  
+10	[中信集团](https://www.group.citic) 	CITIC⠀	<small>[网站群](https://www.group.citic/html/Diversified_Portfolio/)	⠀北京 🚩 	⠀中国中信集团有限公司⠀	</small>  
+11	[光大集团❗](https://www.ebchina.com) 	EBChina⠀	<small>[网站群](https://www.ebchina.com/ebchina/stgd/dcf/)	⠀北京 ⛳ 	⠀中国光大集团股份公司⠀	</small>  
+12	[中国人保](https://www.picc.com) 	PICC⠀	<small>[网站群](https://www.picc.com/gyrb/jtccy/)	⠀北京 ⛳ 	⠀中国人民保险集团股份有限公司⠀000001	⠀[wb](https://weibo.com/piccweibo)</small>  
+13	[中国人寿](https://www.chinalife.com.cn) 	LIFE⠀	<small>[网站群](https://www.chinalife.com.cn/chinalife/gywm/)	⠀北京 🚩 	⠀中国人寿保险（集团）公司⠀000004	</small>  
+14	[中国太平](http://www.cntaiping.com) 	TaiPing⠀	<small>[网站群](http://www.cntaiping.com/about-jtcy/)	⠀北京 🚩 	⠀中国太平保险集团有限责任公司⠀000065	</small>  
+15	[中国信保❗](https://sinosure.com.cn) 	SINO⠀	- - - <small>	⠀北京 🚩 	⠀中国出口信用保险公司⠀000011	</small>  
+16	[华融资管](https://www.chamc.com.cn) 	Huarong⠀	<small>[网站群](https://www.chamc.com.cn/gyhr/gsjg/)	⠀北京  	⠀中国华融资产管理股份有限公司⠀J0001H111000001	</small>  
+17	[长城资管](https://www.gwamcc.com) 	GW⠀	<small>[网站群](https://www.gwamcc.com/GroupLink.aspx)	⠀北京  	⠀中国长城资产管理股份有限公司⠀J0002H111000001	</small>  
+18	[东方资管](http://www.coamc.com.cn) 	Orient⠀	<small>[网站群](http://www.coamc.com.cn/dfzch/zzjg/kggs/)	⠀北京  	⠀中国东方资产管理股份有限公司⠀J0003H111000001	</small>  
+19	[信达资管](https://www.cinda.com.cn) 	CinDa⠀	<small>[网站群](https://www.cinda.com.cn/xdjt/xdjtpd/xdwzlj/list.shtml)	⠀北京  	⠀中国信达资产管理股份有限公司⠀J0004H111000001	</small>  
+20	[<b>中央结算公司</b>](http://www.ccdc.com.cn) ‼️ 	CCDC⠀	- - - <small>	⠀北京  	⠀中央国债登记结算有限责任公司⠀<b>国家金融基础设施</b>，下设：
 	[中国债券信息网](https://www.chinaBond.com.cn)、
 	[中国理财网](https://www.chinawealth.com.cn)等	</small>  
 21	[中国农再](http://www.china-agrore.com) 	⠀　　	- - - <small>	⠀北京  	⠀中国农业再保险股份有限公司⠀000248	</small>  
 22	[中国政企合作基金](http://cpppf.org) 	⠀　　	- - - <small>	⠀北京  	⠀中国政企合作投资基金股份有限公司⠀	</small>  
 23	[国家融资担保基金](https://www.gjrdjj.com) 	⠀　　	<small>[网站群](https://www.gjrdjj.com/system/agency.html)	⠀北京  	⠀国家融资担保基金有限责任公司⠀	</small>  
 24	[国家农担公司](https://www.nacga.cn) 	⠀　　	<small>[网站群](https://www.nacga.cn/about/members.html)	⠀北京  	⠀国家农业信贷担保联盟有限责任公司⠀	</small>  
-25	[中国再保❗](https://www.chinare.com.cn) 	⠀ChinaRe	<small>[网站群](https://www.chinare.com.cn/zhzjt/566050/gpxx/gsylb/)	⠀北京  	⠀中国再保险（集团）股份有限公司⠀000007	</small>  
-26	[中国建投❗](http://www.jic.cn) 	⠀JIC	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
-27	[中国银河金控❗](https://www.china-galaxy.com.cn) 	⠀YinHe	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
+25	[中国再保❗](https://www.chinare.com.cn) ChinaRe	⠀	<small>[网站群](https://www.chinare.com.cn/zhzjt/566050/gpxx/gsylb/)	⠀北京  	⠀中国再保险（集团）股份有限公司⠀000007	</small>  
+26	[中国建投❗](http://www.jic.cn) 	JIC⠀	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
+27	[中国银河金控❗](https://www.china-galaxy.com.cn) 	YinHe⠀	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
 
 　　主权财富基金‘中投’旗下中央汇金公司持股21家公司，除开上述金融央企11家，还有其他段落出现的 6家：
 新华保险、中汇人寿保险、恒丰银行、湖南银行、中国银河证券、中信建投证券、申万宏源证券，此外还有 4家未在本页其他段落收录：
