@@ -1,6 +1,6 @@
 个人理财金融圈 🥯 Finance Circles
 =================
-大萌　	202211-202407 第三稿	<base target="_blank">
+大萌　	202211-202408 第三稿	<base target="_blank">
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告第一部分
 
@@ -28,18 +28,19 @@
 
 <div id="mulu" align="right">Laosheng.Top</div>
 
-〖金融圈〗目录 <sub>与 图例</sub>
+〖金融圈〗目录 <sup>与 图例</sup>
 -------------
 
 +	中国金融[监管体系](#tixi){:target="_top"} 🔱 /	[中央金融](#zh){:target="_top"}企业 🀄 27家
-	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12家=18
-	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43家❕
+	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12=18家中央监管
+	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43❕=56家中央监管
 	+ **地方监管的**[部分金融机构](#local){:target="_top"}	🍕 6xx家  
 	（💳城商行￥民营行/财险㊖与☯寿险公司/📤信托公司/📈证券公司/🎰期货公司）
 	+ 主要[金融交易所](#ex){:target="_top"} 📊	   8家
 	+ [港澳台](#ex2){:target="_top"}金融交易所 📊
 	+ 国内[其他交易所](#ex3){:target="_top"} 
 +	[数据来源](#data){:target="_top"}　	/收录进度 /参考文献
++	❕：　中央监管的部分金融机构
 +	❗：　中央汇金公司控参股的金融机构
 +	🚩/⛳：中央正在巡视的对象/已经巡视的对象
 
@@ -195,11 +196,12 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资
 
 <div id="bank" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-全国性商业银行 💳
+全国性商业银行 💳 <sup>及栏目页</sup>
 -------------
 Banks
 
-　　根据金监总局发布的《银行业金融机构法人名单》，全国各类银行有四千多家，其中数量最大的是‘农村商业银行’与‘村镇银行’，二者合计超过三千家。其中‘国有大型商业银行’6家与‘股份制商业银行’12家受到总局直接监管，在全国开设分行/分公司，受理个人业务。这两类名单十分稳定，本段收录网址与栏目页。　以今年公布的2023年12月数据，各类银行业机构统计如下：
+　　根据金监总局发布的《银行业金融机构法人名单》，全国各类银行有四千多家，其中数量最大的是‘农村商业银行’与‘村镇银行’，二者合计超过三千家。
+以今年公布的2023年12月数据，各类银行业机构统计如下：
 
 		　　机构类型　	计数		　　机构类型　	计数		　　机构类型　	计数
 		开发性金融机构	1		　农村商业银行	1607		企业集团财务公司	241
@@ -211,7 +213,9 @@ Banks
 		　　信托公司　	67		金融资产管理公司	5		　　贷款公司　	1
 		　外资法人银行	41		　其他金融机构	40		　　　　总计　	4490
 
-*	国有大型商业银行（6家）<sub>及栏目页</sub>
+　　其中‘国有大型商业银行’6家与‘股份制商业银行’12家受到**总局直接监管**，在全国开设分行/分公司，受理个人业务。这两类名单十分稳定，本段收录网址与栏目页。
+
+*	❕国有大型商业银行（6家）
 
 🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀[外汇](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[黄金](https://www.icbc.com.cn/column/1438058319654043686.html)⠀[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
 🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇](https://www.abchina.comhttps://ewealth.abchina.com/ForeignExchange/)⠀[黄金](https://www.abchina.comhttps://ewealth.abchina.com/Gold/)⠀[理财](https://ewealth.abchina.com/fs/filter/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
@@ -220,7 +224,7 @@ Banks
 🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[外汇](https://www.bankcomm.com/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)⠀黄金⠀[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
 👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[黄金](https://www.psbc.com/cn/grfw/tzlc/gjs/cpxx_204/gjsjc/)⠀[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
-*	全国性股份制商业银行（12家）<sub>及栏目页</sub>
+*	❕全国性股份制商业银行（12家）
 
 🀄<b>[中信银行](https://www.citicbank.com "中信银行股份有限公司")</b>⠀95558	北京朝阳⠀[全国分行](https://www.citicbank.com/about/branches/)	⠀收费标准	⠀[个人投资](https://www.citicbank.com/personal/investment/)	⠀[网页登录](https://i.bank.ecitic.com/perbank6/signIn.do)	<sup></sup>  
 🀄<b>[光大银行](https://www.cebbank.com "中国光大银行股份有限公司")</b>❗⠀95595	北京西城⠀[全国分行](https://www.cebbank.com/eportal/ui?pageId=484657)	⠀[收费标准](https://www.cebbank.com/site/fwjgml34/)	⠀[个人投资](https://www.cebbank.com/eportal/ui?pageId=15495552)	⠀[网页登录](https://e.cebbank.com/per/prePerlogin.do?_locale=zh_CN)	<sup>[光大理财](https://www.cebwm.com/wealth/grlc/index.html)</sup>  
@@ -252,7 +256,7 @@ Insurance
 		　养老保险公司	9		养老保险公司-参资管管理	1
 		政策性保险公司	1			其他	3	合计	238
 
-*	十三家保险集团：
+*	❕十三家保险集团：
 
 1、🀄[中国人保集团](https://www.picc.com)⠀95518⠀中国人民保险集团股份有限公司⠀PICC  
 2、🀄[中国人寿集团](https://www.chinalife.com.cn)⠀95519⠀中国人寿保险（集团）公司⠀  
@@ -268,7 +272,7 @@ Insurance
 12、[富德保险控股](http://www.funde-ins.com)⠀⠀富德保险控股股份有限公司⠀  
 13、[安联中国保险控股](https://www.allianzholding.cn)⠀⠀安联（中国）保险控股有限公司⠀Allianz，首家外资独资保险控股公司  
 
-*	23家受总局监管的财险公司❕㊖：
+*	❕23家受总局监管的财险公司㊖：
 
 　❕㊖[中国人民财产保险](https://property.picc.com '中国人民财产保险股份有限公司')
 　❕㊖[中国大地财产保险](http://www.ccic-net.com.cn '中国大地财产保险股份有限公司')
@@ -294,7 +298,7 @@ Insurance
 　❕㊖[中国融通财产保险](https://www.crtic.com '中国融通财产保险有限公司')
 　❕㊖[中国渔业互助保险社]( '中国渔业互助保险社')
 
-*	20家受总局监管的寿险公司❕☯：
+*	❕20家受总局监管的寿险公司☯：
 
 　❕☯[中国人寿](https://www.e-chinalife.com/ '中国人寿保险股份有限公司')
 　❕☯[中国太平洋人寿](https://life.cpic.com.cn/ '中国太平洋人寿保险股份有限公司')
@@ -429,7 +433,7 @@ Insurance
 ------------------
 Financial Exchange
 
-　　　证监会直接监管的8个交易所。　
+　　　❕证监会直接监管的8个交易所。　
 
 * 【[上交所](http://www.sse.com.cn)】 上海证券交易所🚩 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
 	- 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
