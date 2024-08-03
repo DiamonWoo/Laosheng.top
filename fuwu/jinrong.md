@@ -153,7 +153,7 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资
 　27家，财政部2022年1月公布，部分企业没有银保监会(金监总局)分配的机构编码。
 
 1	[<b>中国投资</b>](http://www.china-inv.cn) ‼️	CIC⠀	<small>[子公司](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	2007年依照《公司法》设立的<b>主权财富基金</b>，中投公司注册资本2000亿美元</small>。  
-	* 　　子公司：[中央汇金投资](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)有限责任公司，由国务院授权控参股国有金融机构，标记❗。  
+	* 　　子公司：[中央汇金](http://www.huijin-inv.cn)投资有限责任公司，由国务院授权[控参股](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)国有金融机构，标记❗。  
 	* 　　子公司：中投国际、中投海外 开展境外投资业务。  
 2	[国开行❗](http://www.cdb.com.cn) 	CDB⠀	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
 3	[进出口银行](http://eximbank.gov.cn) 	EXIMB⠀	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京 🚩 	⠀中国进出口银行⠀A0003H111000001	</small>  
@@ -184,7 +184,7 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资
 26	[中国建投❗](http://www.jic.cn) 	JIC⠀	<small>[网站群](http://www.jic.cn/html/about-jic/services/chanpinfuwuxiangqing/2893.html)	⠀北京  	⠀中国建银投资有限责任公司⠀	</small>  
 27	[中国银河金控❗](https://www.china-galaxy.com.cn) 	YinHe⠀	<small>[网站群](https://www.china-galaxy.com.cn/index.php?a=lists&catid=89)	⠀北京  	⠀中国银河金融控股有限责任公司⠀	</small>  
 
-　　主权财富基金‘中投’旗下中央汇金公司持股21家公司，除开上述金融央企11家，还有其他段落出现的 6家：
+　　主权财富基金‘中投’旗下**中央汇金**持股21家公司，除开上述金融央企11家，还有其他段落出现的 6家：
 新华保险、中汇人寿保险、恒丰银行、湖南银行、中国银河证券、中信建投证券、申万宏源证券，此外还有 4家未在本页其他段落收录：
 
 * [申万宏源集团](http://www.swhygh.com)股份有限公司❗
