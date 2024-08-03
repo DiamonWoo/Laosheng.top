@@ -153,8 +153,8 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资
 　27家，财政部2022年1月公布，部分企业没有银保监会(金监总局)分配的机构编码。
 
 1	[<b>中国投资</b>](http://www.china-inv.cn) ‼️	CIC⠀	<small>[子公司](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	2007年依照《公司法》设立的<b>主权财富基金</b>，中投公司注册资本2000亿美元</small>。  
-	　　　子公司：中投国际、中投海外 开展境外投资业务。  
-	　　　子公司：[中央汇金投资](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)有限责任公司，由国务院授权控参股19家金融机构，标记❗。  
+	* 　　子公司：[中央汇金投资](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)有限责任公司，由国务院授权控参股国有金融机构，标记❗。  
+	* 　　子公司：中投国际、中投海外 开展境外投资业务。  
 2	[国开行❗](http://www.cdb.com.cn) 	CDB⠀	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
 3	[进出口银行](http://eximbank.gov.cn) 	EXIMB⠀	<small>[网站群](http://eximbank.gov.cn/aboutExim/organization/ckfjj/)	⠀北京 🚩 	⠀中国进出口银行⠀A0003H111000001	</small>  
 4	[农发行](http://www.adbc.com.cn) 	ADBC⠀	<small>[网站群](http://www.adbc.com.cn/n4/n1305/)	⠀北京 ⛳ 	⠀中国农业发展银行⠀A0002H111000001	</small>  
@@ -173,9 +173,9 @@ CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资
 17	[长城资管](https://www.gwamcc.com) 	GW⠀	<small>[网站群](https://www.gwamcc.com/GroupLink.aspx)	⠀北京  	⠀中国长城资产管理股份有限公司⠀J0002H111000001	</small>  
 18	[东方资管](http://www.coamc.com.cn) 	Orient⠀	<small>[网站群](http://www.coamc.com.cn/dfzch/zzjg/kggs/)	⠀北京  	⠀中国东方资产管理股份有限公司⠀J0003H111000001	</small>  
 19	[信达资管](https://www.cinda.com.cn) 	CinDa⠀	<small>[网站群](https://www.cinda.com.cn/xdjt/xdjtpd/xdwzlj/list.shtml)	⠀北京  	⠀中国信达资产管理股份有限公司⠀J0004H111000001	</small>  
-20	[<b>中央结算公司</b>](http://www.ccdc.com.cn) ‼️ 	CCDC⠀	- - - <small>	⠀北京  	⠀中央国债登记结算有限责任公司⠀<b>国家金融基础设施</b>，下设：
-	[中国债券信息网](https://www.chinaBond.com.cn)、
-	[中国理财网](https://www.chinawealth.com.cn)等	</small>  
+20	[<b>中央结算公司</b>](http://www.ccdc.com.cn) ‼️ 	CCDC⠀	- - - <small>	⠀北京  	⠀中央国债登记结算有限责任公司⠀事实上的<b>国家金融基础设施</b>，中央结算注册资本125亿元</small>。  
+	* 　　[中国债券信息网](https://www.chinaBond.com.cn)、中债金融估值中心  
+	* 　　[中国理财网](https://www.chinawealth.com.cn)、信托登记、银登中心……等  
 21	[中国农再](http://www.china-agrore.com) 	⠀　　	- - - <small>	⠀北京  	⠀中国农业再保险股份有限公司⠀000248	</small>  
 22	[中国政企合作基金](http://cpppf.org) 	⠀　　	- - - <small>	⠀北京  	⠀中国政企合作投资基金股份有限公司⠀	</small>  
 23	[国家融资担保基金](https://www.gjrdjj.com) 	⠀　　	<small>[网站群](https://www.gjrdjj.com/system/agency.html)	⠀北京  	⠀国家融资担保基金有限责任公司⠀	</small>  
