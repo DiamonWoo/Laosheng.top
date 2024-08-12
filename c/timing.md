@@ -176,12 +176,14 @@
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App
 *	可可诗词 	<https://www.kekeshici.com>
 *	　<a title="中华古诗词，广东搜韵网" href="https://sou-yun.cn/">搜韵</a>
+*	[汉语国学](https://www.hanyuguoxue.com) 查字词、查成语（广东）
 
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>  
 　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家
 
-　	#<a href="https://site.sciping.com/" title="202303的网页存档">科塔学术导航</a> 2023莫名[被拦截](https://web.archive.org/web/20230323160752/https://site.sciping.com/)
+　#<a href="https://site.sciping.com/" title="202303的网页存档">科塔学术导航</a> 2023莫名[被拦截](https://web.archive.org/web/20230323160752/https://site.sciping.com/)  
+　%<a href="https://www.zdic.net/" title="查字词，查古文，近期广告增加">汉典</a> 202408因手机广告降权到提名页。
 
 
 8、财务自求 🍩
@@ -324,7 +326,7 @@
 	老生常谈© 2019-2024 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202405
+	提名网站与落榜记	　202408
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
