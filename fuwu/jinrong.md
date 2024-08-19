@@ -126,12 +126,13 @@
 	* [保险中介机构](https://xkz.nfra.gov.cn/zj/)查询，有‘保险中介许可证’的合法网点。
 
 /**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会🚩  
-主管业务：期货、股票、债券、基金。
+主管业务：债券、股票、基金、期货。
 *	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。
-	- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
+	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2023年超**155万亿**。其中国债……
 	- 股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
-	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2023年超**155万亿**。
 	- 基金 Fund　2022年6月，公募基金过万支，规模超26万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发……
+	- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
+
 *	证监会一共有23个会管单位：
 	* 📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所🚩、深交所🚩 等)
 	* 4个行业协会：中国[证券业协会](https://www.sac.net.cn)、中国[期货业协会](https://www.cfachina.org)、
@@ -140,6 +141,7 @@
 	* 9家相关公司：[中国证券金融](http://www.csf.com.cn)股份有限公司、[中证数据](https://www.csdata.cn)、中证[商品指数](http://www.ccidx.com)、
 CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资者保护基金](https://www.sipf.com.cn)、中国[期货市场监控中心](http://www.cfmmc.com/)、
 全国[中小企业股份转让系统](https://www.neeq.com.cn)、中证[信息技术服务](http://www.csits.org.cn)、中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司。
+
 *	🍕 各省地证监局监管：证券业机构
 	- [📈 证券公司 ▼](#local){:target="_top"} 全国约140家，有4家为中央汇金参股。
 	- [🎰 期货公司 ▼](#local){:target="_top"} 全国约150家，最新名录请看：证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，
@@ -243,11 +245,11 @@ Banks
 
 <div id="sure" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-保险集团与公司 💼
+保险集团与公司 💼 <sup>财险寿险</sup>
 ----------------
 Insurance
 
-　　根据金监总局发布的《保险机构法人名单》，全国有两百多家保险公司（比银行少一个数量级），其中最主要的是保险集团、财险公司、寿险公司，三类合计超过一半。这三类机构中，有56家受到总局的直接监管，本段收录法人名单与网址。　以今年公布的2023年12月数据，各类保险机构统计如下：
+　　根据金监总局发布的《保险机构法人名单》，全国有两百多家保险公司（比银行少一个数量级），其中最主要的是保险集团、财险公司、寿险公司，三类合计超过一半。这三类机构中，有56家受到**总局直接监管**，本段收录法人名单与网址。　以今年公布的2023年12月数据，各类保险机构统计如下：
 
 		　　　机构类型	计数			　机构类型	计数
 		保险集团控股公司	13			健康险公司	7
@@ -546,7 +548,7 @@ Exchanges
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.8.1	202408
+	个人理财金融圈 Version 0.8.2	202408
 	https://laosheng.top/fuwu/jinrong
 ```
 
