@@ -43,7 +43,7 @@
 +	❕：　中央监管的部分金融机构
 +	❗：　中央汇金公司控参股的金融机构
 +	🚩/⛳：中央正在巡视的对象/已经巡视的对象
-+	本页各种市值统计货币默认为人民币
++	　　本页各种市值统计货币默认为人民币
 
 **地方监管的金融机构--分省索引：**
 
@@ -112,7 +112,7 @@
 	* 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
 /**金监总局**　[NFRA.gov.cn](http://www.nfra.gov.cn/) 国家金融监督管理总局🚩  
-主管业务：银行业、保险业、信托业、其他金融业务。 　原“银保监会”域名cbirc.gov.cn继续有效。
+主管业务：银行业、信托业、保险业、其他金融业务。 　原“银保监会”域名cbirc.gov.cn继续有效。
 
 *	🧮中国理财网[理财产品查询](https://www.chinawealth.com.cn/zzlc/jsp/lccp.jsp) / [信息披露](https://xinxipilu.chinawealth.com.cn/)（“中央结算公司”于2016年全资发起设立）
 *	💳 银行  Bank  超4000家，总资产超**360万亿**。　其中3000多家地方银行（农商行/村镇银行……）、100多家外资银行或外国银行的中国分行……
@@ -127,6 +127,7 @@
 
 /**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会🚩  
 主管业务：债券、股票、基金、期货。
+*	💰中国投资者网[机构信息查询](https://www.investor.org.cn/information_inquiry/) / [投资者课堂](https://www.investor.org.cn/learning_center/) （证监会管理的公益网络服务平台）
 *	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。
 	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2024年6月约**165万亿**，其中国债约30万亿。
 	- 股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
@@ -140,7 +141,7 @@
 	* 2个教科机构：中证[金融研究院](https://www.cifcm.cn/)、[资本市场学院](http://www.ccmi.edu.cn)
 	* 9家相关公司：[中国证券金融](http://www.csf.com.cn)股份有限公司、[中证数据](https://www.csdata.cn)、中证[商品指数](http://www.ccidx.com)、
 CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资者保护基金](https://www.sipf.com.cn)、中国[期货市场监控中心](http://www.cfmmc.com/)、
-全国[中小企业股份转让系统](https://www.neeq.com.cn)、中证[信息技术服务](http://www.csits.org.cn)、中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司。
+全国[中小企业股份转让系统](https://www.neeq.com.cn)、中证[信息技术服务](http://www.csits.org.cn)（证标委[资本市场标准网](https://www.csisc.cn)）、中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司(中国投资者网)。
 
 *	🍕 各省地证监局监管：证券业机构
 	- [📈 证券公司 ▼](#local){:target="_top"} 全国约140家，有4家为中央汇金参股。
