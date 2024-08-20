@@ -43,7 +43,7 @@
 +	❕：　中央监管的部分金融机构
 +	❗：　中央汇金公司控参股的金融机构
 +	🚩/⛳：中央正在巡视的对象/已经巡视的对象
-
++	本页各种市值统计货币默认为人民币
 
 **地方监管的金融机构--分省索引：**
 
@@ -105,10 +105,10 @@
 *	人行总部位于北京市西城区，[上海总部](http://shanghai.pbc.gov.cn) 位于浦东新区。[机构设置](http://www.pbc.gov.cn/rmyh/105226/105442/index.html)页可见更多内设部门、分支机构。
 *	调查统计司发布：[金融统计数据](http://www.pbc.gov.cn/diaochatongjisi/116219/) 可查 M2货币发行总量 等各种宏观数据。
 *	人行管理的国家局：
-	* 💰 外汇局　[Safe.gov.cn](https://www.safe.gov.cn/) 国家外汇管理局🚩，外汇储备约$3万亿美元。
+	* 💰 外汇局　[Safe.gov.cn](https://www.safe.gov.cn/) 国家外汇管理局🚩，外汇储备约 3.2万亿$美元（约22万亿人民币）。
 	* 中国外汇交易中心(上海) 发布 [人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)　*各国货币的名称可见[外交国别速查表](../ydyl/nations)*
 *	人行组建或批准组建的交易机构：
-	* 上海黄金交易所　Sge.com.cn　🟨黄金储备近2000吨，约￥0.8万亿。发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　
+	* 上海黄金交易所　Sge.com.cn　🟨 黄金储备2024年近2200吨，约￥1.2万亿。发布以人民币计价的 [上海金基准价](https://www.sge.com.cn/sjzx/jzj)　
 	* 上海票据交易所　[票据信息披露](http://disclosure.shcpe.com.cn/#/dashboard) 商业汇票/企业用票/银行贴现
 
 /**金监总局**　[NFRA.gov.cn](http://www.nfra.gov.cn/) 国家金融监督管理总局🚩  
@@ -128,10 +128,10 @@
 /**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会🚩  
 主管业务：债券、股票、基金、期货。
 *	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。
-	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2023年超**155万亿**。其中国债……
+	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2024年6月约**165万亿**，其中国债约30万亿。
 	- 股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
-	- 基金 Fund　2022年6月，公募基金过万支，规模超26万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发……
-	- 期货 Futures　中国期货品种约100种，资金总量2021年底达1.2万亿。 	
+	- 基金 Fund　2022年6月公募基金过万支，2024年公募基金资产净值超30万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发……
+	- 期货 Futures　中国期货品种超100种，资金总量2024年5月底超1.6万亿。 	
 
 *	证监会一共有23个会管单位：
 	* 📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所🚩、深交所🚩 等)
