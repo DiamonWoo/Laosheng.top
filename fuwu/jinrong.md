@@ -120,7 +120,7 @@
 	* 📤 信托机构 Fiduciary  68家，总资产约30万亿。　
 	* 其他银行业金融机构 400多家（资管公司、财务公司、租赁公司……）
 	* 银行业[金融机构网点](https://xkz.nfra.gov.cn/jr/)查询，有‘金融许可证’的合法网点。
-*	💼 保险机构 Insurance 200多家，总资产约20万亿（㊖财险/☯寿险）
+*	💼 保险机构 Insurance 200多家，总资产约20万亿（财险㊖/寿险☯）
 	* [保险集团与公司 ▼](#sure){:target="_top"}：保险集团 13家、直接监管的保险公司 43家
 	* [保险机构网点](https://xkz.nfra.gov.cn/bx/)查询，有‘保险许可证’的合法网点。
 	* [保险中介机构](https://xkz.nfra.gov.cn/zj/)查询，有‘保险中介许可证’的合法网点。
@@ -128,12 +128,6 @@
 /**证监会**　[CSRC.gov.cn](http://www.csrc.gov.cn/) 中国证券监督管理委员会🚩  
 主管业务：债券、股票、基金、期货。
 *	💰中国投资者网[机构信息查询](https://www.investor.org.cn/information_inquiry/) / [投资者课堂](https://www.investor.org.cn/learning_center/) （证监会管理的公益网络服务平台）
-*	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。
-	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2024年6月约**165万亿**，其中国债约30万亿。
-	- 股票 Stock (股本证券)　A股(人民币普通股票)至2022年底，总市值近80万亿。
-	- 基金 Fund　2022年6月公募基金过万支，2024年公募基金资产净值超30万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发/嘉实/富国……
-	- 期货 Futures　中国期货品种超100种，资金总量2024年5月底超1.6万亿。 	
-
 *	证监会一共有23个会管单位：
 	* 📊 8个[主要金融交易所 ▼](#ex){:target="_top"}(上交所🚩、深交所🚩 等)
 	* 4个行业协会：中国[证券业协会](https://www.sac.net.cn)、中国[期货业协会](https://www.cfachina.org)、
@@ -141,23 +135,29 @@
 	* 2个教科机构：中证[金融研究院](https://www.cifcm.cn/)、[资本市场学院](http://www.ccmi.edu.cn)
 	* 9家相关公司：[中国证券金融](http://www.csf.com.cn)股份有限公司、[中证数据](https://www.csdata.cn)、中证[商品指数](http://www.ccidx.com)、
 CSDC 中国[证券登记结算](http://www.chinaclear.cn/)、中国[证券投资者保护基金](https://www.sipf.com.cn)、中国[期货市场监控中心](http://www.cfmmc.com/)、
-全国[中小企业股份转让系统](https://www.neeq.com.cn)、中证[信息技术服务](http://www.csits.org.cn)（证标委[资本市场标准网](https://www.csisc.cn)）、中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司(中国投资者网)。
+全国[中小企业股份转让系统](https://www.neeq.com.cn)、中证[信息技术服务](http://www.csits.org.cn)（证标委 [资本市场标准网](https://www.csisc.cn)）、中证[中小投资者服务中心](http://www.isc.com.cn)有限责任公司(中国投资者网)。
+
+*	【统计信息】栏目有[合法机构名录](http://www.csrc.gov.cn/csrc/c101969/zfxxgk_zdgk.shtml)会定期公布证券公司、期货公司；【专题专栏】栏目有资本市场[电子化信息披露平台](http://eid.csrc.gov.cn)。
+	- 债券 Bond (债务证券)　据人行发布的[金融市场运行情况](http://www.pbc.gov.cn/jinrongshichangsi/147160/147171/index.html)，债券市场托管余额2024年6月约**165万亿**，其中国债约30万亿。
+	- 股票 Stock (股本**证券**)📈　A股(人民币普通股票)至2022年底，总市值近80万亿。
+	- 基金 Fund 🥚　2022年6月公募基金过万支，2024年公募基金资产净值超30万亿，有[统计数据](https://www.amac.org.cn/sjtj/)显示公募基金规模排名前十位：易方达/华夏/广发/嘉实/富国……
+	- 期货 Futures 🎰　中国期货品种超100种，资金总量2024年5月底超1.6万亿。 	
 
 *	🍕 各省地证监局监管：证券业机构
 	- [📈 证券公司 ▼](#local){:target="_top"} 全国约140家，有4家为中央汇金参股。
-	- [🥚 公募基金管理人 ▼](#local){:target="_top"} 全国约150家。（数据准备中）
+	- [🥚 基金公司 ▼](#local){:target="_top"} 全国约150家，（公募基金管理人）
 	- [🎰 期货公司 ▼](#local){:target="_top"} 全国约150家，最新名录请看：证监会[信息公开>期货监管](http://www.csrc.gov.cn/csrc/c101901/zfxxgk_zdgk.shtml?channelid=32466b6908e248899f513af6ae32cb9d)，
 	- 上市公司 全国超5000家 ……
 
-
 <div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
 
 中央金融企业 🀄
 --------------
 
 　27家，财政部2022年1月公布，部分企业没有银保监会(金监总局)分配的机构编码。
 
-1	[<b>中国投资</b>](http://www.china-inv.cn) ‼️	CIC⠀	<small>[子公司](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	2007年依照《公司法》设立的<b>主权财富基金</b>，中投公司注册资本2000亿美元</small>。  
+1	[<b>中国投资</b>](http://www.china-inv.cn) ‼️	CIC⠀	<small>[子公司](http://www.china-inv.cn/china_inv/About_CIC/Who_We_Are.shtml)	⠀北京 ⛳ 	⠀中国投资有限责任公司⠀	2007年依照《公司法》设立的<b>主权财富基金</b>，中投注册资本2000亿美元</small>。  
 	* 　　子公司：[中央汇金](http://www.huijin-inv.cn)投资有限责任公司，由国务院授权[控参股](http://www.huijin-inv.cn/huijin-inv/Investments/Overview.shtml)国有金融机构，标记❗。  
 	* 　　子公司：中投国际、中投海外 开展境外投资业务。  
 2	[国开行❗](http://www.cdb.com.cn) 	CDB⠀	<small>[网站群](http://www.cdb.com.cn/gykh/zzjg/zgs/)	⠀北京 ⛳ 	⠀国家开发银行⠀G0001H111000001	⠀开发性金融机构，[wb](https://weibo.com/5294647313)</small>  
@@ -247,7 +247,7 @@ Banks
 
 <div id="sure" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-保险集团与公司 💼 <sup>财险寿险</sup>
+保险集团与公司 💼 <sup>财险㊖寿险☯</sup>
 ----------------
 Insurance
 
