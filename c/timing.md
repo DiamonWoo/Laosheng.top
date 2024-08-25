@@ -203,6 +203,7 @@
 *	$<a href="http://www.aisixiang.com/" title="法经管/人文社科">爱思想</a>　
 *	<a href="https://space.bilibili.com/1955809864" title="张捷财经观察 %Fx">张捷</a>财经
 *	<a title="央企股票全家福" href="https://Laosheng.top/fuwu/yangqi">央企股</a> 🧧
+<!-- https://www.qcc.com 企查查 国家市场监督总局 http://www.samr.gov.cn/fw/-->
 
 
 9、IT洁癖
@@ -246,6 +247,13 @@
 
 落榜记
 ======
+
+2024/8/25	#全页检查
+*	湾区日报<a href="https://wanqu.co/issues/" title="湾区日报，旧金山IT圈">WanQu.co</a>因停更半年多下榜。
+*	市监总局的机构码数服中心<a href="https://www.cods.org.cn/gscx/" title="全国组织机构统一社会信用代码 %">查机构</a>因常年拥堵下榜。
+*	90lrc<a href="https://www.90lrc.cn" title="歌词搜歌名">歌词</a>疑似停服。
+
+----
 
 2023/10/9	#第一段  
 	清理去年已经停服的网站：维基百科拷贝1<https://zh.wikipedia.wikimirror.org >、维基百科拷贝2	<https://kfd.me >、
