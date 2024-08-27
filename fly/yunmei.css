@@ -7,6 +7,7 @@
 /* v1.9.8 rgb(255,255,200) #EEEECC LightYellow #FFFFE0  Cornsilk #FFF8DC LightGoldenRodYellow #FAFAD2 */
 		/* margin-left:1em; 		rem反而更小，奇怪。	margin-left:3%;*/
 		margin: auto;			/* margin-right: 2%;大表格右侧仍未完整 */
+		padding-left:1em;		/* 内部空白左1格 */
 		line-height: 1.75; 		/*word-spacing:0;	letter-space:0;*/
 		}
 	h2 	{margin-bottom: 0.5% }		/* margin-top:2%;line-height: 1.2; */
@@ -41,8 +42,7 @@
 	{	width: 1280px; height: 720px;	/* width: 1280px; height: 720px; */
 	background-image: url(../ydyl/yidaiyilu-map-main.png);
 /* 	图片名的'单引号'是多余的，"双引号"效果一样。 */
-/* 	background-repeat: no-repeat;  */
- 	background-size: contain;
+ 	background-size: contain;	/* 	background-repeat: no-repeat;  */
 /* 	background-position: center; background-position: -150px -40px; */
 	}
 	table#其他国家
