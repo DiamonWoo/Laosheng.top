@@ -1,6 +1,7 @@
 高等院校三千所 👨‍🎓 <sup>助力考生选大学</sup>
 ================
 大萌	　202305-10，202404~07…（新）<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
