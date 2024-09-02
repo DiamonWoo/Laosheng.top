@@ -1,6 +1,7 @@
 一带一路民间站 💃
 =================
 大萌	2022-2024	<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/ydyl/dir" />
 
 		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年北京，习近平
 
@@ -17,8 +18,6 @@
 +	./index　🌞 [一带一路云媒体](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
 +	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie.html)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
-
-+	./jiaoyihui　💫 [老生常谈交易会](jiaoyihui.html)，对外交流重大展会、每个省都有的会展中心。（准备改版）
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
@@ -190,12 +189,12 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
 *	[哪些国家没参与一带一路倡议](https://cn.bing.com/search?q=哪些国家没参与一带一路倡议)？
 
-　　老生常谈，节约您的搜寻时间。欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出意见</a>，如发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
+　　老生常谈，节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.6	202406
+	一带一路民间站 v3.2.7	202409
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
