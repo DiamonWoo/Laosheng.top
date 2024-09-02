@@ -3,26 +3,25 @@
 <head>
 <base target="_blank">
 <link rel="stylesheet" href="../fly/yunmei.css">
-<link rel="icon" href="clouds-iconninja-48-.ico">
+<link rel="canonical" href="https://Laosheng.top/fuwu/bolanhui" />
 <meta charset="UTF-8">
-<meta name="keywords" content="开放,一带一路,博览会,影展,Trade Fair,movie EXPO,Film Festival,B&R">
-<meta name="description" content="中国主要对外交流平台：商品交易会与博览会、国际电影节">
+<meta name="keywords" content="博览会,交易会,EXPO,Trade Fair,B&R">
+<meta name="description" content="每个省都有的会展中心，中国主要对外交流平台">
 <meta name="viewport" content="width=720,initial-scale=1"> <!-- width=device-width -->
-<meta property="og:description" content="中国主要对外交流平台：交易会、博览会、国际展览" />
-<title>老生常谈：💫 交易会与电影节</title>
+<title>老生常谈博览会 💫</title>
 </head>
 
 <body style="max-width: 1440px;">
 <div class="you" id="top"><small>更新<a title="记录建站点滴" href="../broad/blog.txt" target="_self">小笔记</a>……　202312</small></div>
 <p><a href="../" title="网站首页" target="_top">老生常谈</a>＞
-<a href="https://Laosheng.top/ydyl/dir" title="一带一路系列" target="_top">一带一路</a>🌞＞ 交易会与电影节
+<a href="https://Laosheng.top/fuwu" title="服务系列" target="_top">服务</a>＞ 博览会 (草稿)
 </p>
 <div align="center" width="700px">以更高水平开放，促更高质量发展！
 </div>
 <!-- 中展集团 是贸促会直属企业 http://www.ciec-expo.com/ciec/ciecexpo/channels/2401.html -->
 
 <table width="700px" align="left" border="1" class="国际云" > 	<!-- width="760px" -->
-<caption><h2 style="background-color: IndianRed;">💫 主要商品交易会⠀ Trade Fair & EXPO</h2></caption>
+<caption><h2 style="background-color: IndianRed;">💫 每个省都有的会展中心</h2></caption>
 <tbody>
 <tr>
 	<th width="85">举办时间 ↑</th>
@@ -39,7 +38,7 @@
 	<td>广州</td>
 	<td>进出口商品交易会<br><small>春秋两季，每季三期</small></td>
 	<td><a href="https://www.cantonfair.org.cn/en-US" title="China Import and Export Fair"> Canton<br>Fair</td>
-	<td>#<a href="https://twitter.com/cantonfair" title="广交会的官方推特">tt</a></td>
+	<td>#<a href="https://X.com/cantonfair" title="广交会的官方推特%">X</a></td>
 	<td><a href="https://www.ciefc.com/cg/zhpq/" title="广交会展馆，海珠区琶洲岛小蛮腰以东">琶洲岛</td>
 	<td><b>1957</b></td>
 </tr><tr>
@@ -57,7 +56,7 @@
 	<td>贵州</td>
 	<td><a href="https://www.bigdata-expo.cn" title="中国国际">大数据产业博览会</a></td>
 	<td><a href="https://www.bigdata-expo.cn/" title="Big Data Expo">BigData</a></td>
-	<td><a href="https://weibo.com/u/7494121581" title="10万微博粉丝"><img src="../fly/weibo.ico" height="15"></a></td>
+	<td><a href="https://weibo.com/u/7494121581" title="10万微博粉丝"><img src="../fly/ico/weibo.ico" height="15"></a></td>
 	<td><a href="http://www.gyiecc.net/" title="贵阳国际生态会议中心">观山湖</a></td>
 	<td>2015</td>
 </tr><tr>
@@ -67,7 +66,7 @@
 	<td rowspan="2">深圳</td>
 	<td><a href="https://www.cnicif.com/" title="中国(深圳)国际文化产业博览交易会">文化产业博览交易会</a></td>
 	<td><a href="https://www.cnicif.com/#" title="The Top Cultural Fair in China">ICIF</a></td>
-	<td><a href="https://weibo.com/cnicif" title="6万微博粉丝"><img src="../fly/weibo.ico" height="12"></a></td>
+	<td><a href="https://weibo.com/cnicif" title="6万微博粉丝"><img src="../fly/ico/weibo.ico" height="12"></a></td>
 	<td><a href="https://www.shenzhen-world.com/scheduling/index.html" title="深圳国际会展中心%Fx，宝安机场北">宝安区</a></td>
 	<td>2004</td>
 </tr><tr>
@@ -76,7 +75,7 @@
 	<!-- <td>深圳</td> -->
 	<td>高新技术成果交易会</td>
 	<td><a href="https://www.chtf.com/english/" title="China Hi-Tech Fair">CHTF</a></td>
-	<td><a href="https://weibo.com/u/1829470104" title="40万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
+	<td><a href="https://weibo.com/u/1829470104" title="40万微博粉丝"><img src="../fly/ico/weibo.ico" height="18"></a></td>
 	<td><a href="https://www.szcec.com/Schedule/index2.html" title="深圳会展中心，市民广场南">福田区</a></td>
 	<td>1999</td>
 </tr><tr>
@@ -133,7 +132,7 @@
 	<td>昆明</td>
 	<td>中国-南亚博览会</td>
 	<td><a href="https://www.csa-expo.com/" title="China-South Asia Exposition">CSA EXP</a></td>
-	<td><a href="https://weibo.com/u/3192528534" title="10万微博粉丝"><img src="../fly/weibo.ico" height="15"></a></td>
+	<td><a href="https://weibo.com/u/3192528534" title="10万微博粉丝"><img src="../fly/ico/weibo.ico" height="15"></a></td>
 	<td><a href="https://www.kmicec.com/" title="滇池国际会展中心，官渡区">环湖东路</a></td>
 	<td>1995</td>
 </tr><tr>
@@ -142,7 +141,7 @@
 	<td>西安 &</td>
 	<td>丝绸之路国际博览会</td>
 	<td><a href="http://www.onlinew.com.cn/portal/index?language_type=2" title="Silk Road International Exposition">SRIE</a></td>
-	<td><a href="https://weibo.com/u/2633867991" title="丝博会暨西洽会"><img src="../fly/weibo.ico" height="12"></a></td>
+	<td><a href="https://weibo.com/u/2633867991" title="丝博会暨西洽会"><img src="../fly/ico/weibo.ico" height="12"></a></td>
 	<td><a href="https://xianicec.com" title="西安国际会展中心，会展一路">浐灞生态区</a></td>
 	<td>1997</td>
 </tr><tr>
@@ -169,7 +168,7 @@
 	<td><b>北京</b></td>
 	<td>服务贸易交易会</td>
 	<td>CIFTIS</td>
-	<td><a href="https://weibo.com/ciftis" title="30万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
+	<td><a href="https://weibo.com/ciftis" title="30万微博粉丝"><img src="../fly/ico/weibo.ico" height="18"></a></td>
 	<td><a href="https://www.cncc2.com/cn/events_calendar/" title="国家会议中心，奥林匹克森林公园">奥森公园</a></td>
 	<td>2012</td>
 </tr><tr>
@@ -178,7 +177,7 @@
 	<td>厦门</td>
 	<td><small>国际投资贸易洽谈会</small></td>
 	<td><a href="https://www.chinafair.org.cn/" title="China International Fair for Investment & Trade">CIFIT</a></td>
-	<td><a href="https://weibo.com/cifit" title="3万微博粉丝"><img src="../fly/weibo.ico" height="12"></a></td>
+	<td><a href="https://weibo.com/cifit" title="3万微博粉丝"><img src="../fly/ico/weibo.ico" height="12"></a></td>
 	<td><a href="https://www.xicec.com/" title="厦门国际会展中心，思明区会展路">前埔</a></td>
 	<td>1997</td>
 </tr><tr>
@@ -187,7 +186,7 @@
 	<td>南宁</td>
 	<td><a href="https://www.caexpo.org/" title="东博会10+1>11 %Fx">中国—东盟博览会</a></td>
 	<td><a href="https://www.caexpo.org/en-US" title="China-ASEAN Expo">CAEXPO</a></td>
-	<td><a href="https://weibo.com/u/1834719633" title="30万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
+	<td><a href="https://weibo.com/u/1834719633" title="30万微博粉丝"><img src="../fly/ico/weibo.ico" height="18"></a></td>
 	<td><a href="https://www.nicec.cn/" title="南宁国际会展中心，青秀区民族大道">竹排冲</a> </td>
 	<td>2004</td>
 </tr><tr>
@@ -206,7 +205,7 @@
 	<td>金华</td>
 	<td><small>义乌<a href="https://www.yiwufair.com/" title="中国义乌国际小商品（标准）博览会，浙江金华市义乌市(县级)">国际小商品</a>博览会</small></td>
 	<td><a href="https://en.yiwufair.com/" title="China Yiwu Fair">Yiwu</a></td>
-	<td><a href="https://weibo.com/yiwufair888" title="36万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
+	<td><a href="https://weibo.com/yiwufair888" title="36万微博粉丝"><img src="../fly/ico/weibo.ico" height="18"></a></td>
 	<td><a href="https://www.cccfair.cn" title="义乌国际博览中心，宗泽东路59号">江滨绿廊</a></td>
 	<td>1995</td>
 </tr><tr>
@@ -215,7 +214,7 @@
 	<td>上海</td>
 	<td>进口博览会</td>
 	<td><a href="https://www.ciie.org/zbh/en/" title="China International Import Expo">CIIE</a></td>
-	<td><a href="https://weibo.com/u/6513730494" title="80万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
+	<td><a href="https://weibo.com/u/6513730494" title="80万微博粉丝"><img src="../fly/ico/weibo.ico" height="18"></a></td>
 	<td><a href="https://www.neccsh.com/" title="国家会展中心，青浦区崧泽大道">虹桥商务区</a></td>
 	<td><b>2018</b></td>
 </tr><tr>
@@ -242,7 +241,7 @@
 	<td>北京</td>
 	<td><a href="https://www.cisce.org.cn/" title="中国国际">供应链促进</a><small>博览会</small></td>
 	<td><a href="https://en.cisce.org.cn/" title="China International Supply Chain Expo">CISCE</a></td>
-	<td><a href="https://weibo.com/7847483637" title="28万微博粉丝"><img src="../fly/weibo.ico" height="16"></a></td>
+	<td><a href="https://weibo.com/7847483637" title="28万微博粉丝"><img src="../fly/ico/weibo.ico" height="16"></a></td>
 	<td><a href="http://www.ciec-expo.com/" title="中国国际展览中心（顺义馆）">顺义机场西</a></td>
 	<td>2023</td>
 </tr><tr>
@@ -255,332 +254,47 @@
 	<td><a href="http://www.ciec-expo.com/" title="上海新国际博览中心，浦东新区龙阳路">浦东新区</a></td>
 	<td>1981</td>
 </tr>
-<tr>	<td colspan="8"><div align='left'>
+<tr>	<td colspan="8">
+<div align='left'>
 　　◐表示奇数年举办，◑表示偶数年举办。　 Laosheng.top/ydyl
-<br>
-　　本页收录的交易会/博览会需符合三个条件：1、固定举办城市；2、网站运行良好；3、设立公众开放日。有一些大型展会，虽然每年举办但没有固定城市，故未收录，比如：
-	<a href="https://cn.bing.com/search?q=中国国际园林博览会" title="国际园林博览会">园博会</a>、
-	<a href="https://cn.bing.com/search?q=全国图书交易博览会" title="图书交易博览会">书博会</a>、
-	<a href="https://cn.bing.com/search?q=中国跨境电商交易会" title="跨境电商交易会">跨交会</a>。
 </div>
+</td>	</tr>
+</tbody>
+</table>
 <!-- 合并单元格的写法：
 <tr>
   <td colspan="8"> </td>
 </tr>
 -->
-</td>	</tr>
-</tbody>
-</table>
 
 
-<table width="700px" border="1" class="国际云" > 	<!-- width="760px" -->
-<caption><h2 style="background-color: gold;">🎞️ 主要国际电影节⠀ Film Festival</h2></caption>
-<tbody>
-<tr>
-	<th width="88">举办时间 ↑</th>
-	<td width="35"><small>FIAPF</small></td>
-	<th width="70">最高奖</th>
-	<td width="70">举办地</td>
-	<th>　　　中zh📍</th>
-	<td width="60">英en🍴</td>
-	<td width="40"> 💬⠀</td>
-	<td width="65">more</td>
-	<td width="50">创办年</td>
-</tr><tr>
-	<td> 1月<sup> 约2周</sup></td>
-	<td>A</td>
-	<td>金孔雀</td>
-	<td>印度果阿</td>
-	<td>印度国际电影节</td>
-	<td><a href="https://www.iffigoa.org" title="International Film Festival of India">IFFI</a></td>
-	<td>-</td>
-	<td></td>
-	<td>1952</td>
-</tr><tr>
-	<td> 1月<sup>19~29</sup></td>
-	<td>-</td>
-	<td>-</td>
-	<td>美国</td>
-	<td>圣丹斯电影节</td>
-	<td><a href="https://festival.sundance.org/" title="Sundance Institute, 独立电影领域的风向标"><small>Sundance</small></a></td>
-	<td>-</td>
-	<td>犹他州</td>
-	<td>1984</td>
-</tr><tr>
-	<td> 2月<sup> 7~18</sup></td>
-	<td>A</td>
-	<td>金熊奖</td>
-	<td>德国</td>
-	<td><b>柏林国际电影节</b></td>
-	<td><a href="https://www.berlinale.de/en/home.html" title="Berlin International Film Festival">en</a></td>
-	<td> <a href="https://www.berlinale.de/" title="Berlinale">de</a> </td>
-	<td>-</td>
-	<td>1951</td>
-</tr><tr>
-	<td> 3月前后</td>
-	<td>-</td>
-	<td>金像奖</td>
-	<td>美国</td>
-	<td>奥斯卡颁奖典礼</td>
-	<td><a href="https://www.oscars.org" title="Academy Award of Merit">Oscars</a></td>
-	<td>-</td>
-	<td><b>好莱坞</b></td>
-	<td>1929</td>
-</tr><tr>
-	<td> 4月<sup>　中旬</sup></td>
-	<td>⭐</td>
-	<td>天坛奖</td>
-	<td>中国</td>
-	<td><a href="https://www.bjiff.com/" title="">北京国际电影节</a>📍</td>
-	<td><a href="https://www.bjiff.com/enHome/" title="">BJiFF</a></td>
-	<td>-</td>
-	<td><a href="https://weibo.com/bjiff" title="约100万微博粉丝"><img src="../fly/weibo.ico" height="21"></a></td>
-	<td >2011</td>
-</tr><tr>
-	<td> 5月<sup>10~21</sup></td>
-	<td>A</td>
-	<td>金棕榈</td>
-	<td>法国</td>
-	<td><b>戛纳国际电影节</b></td>
-	<td>#<a title="莫名被拦截" href="https://www.festival-cannes.com/en/">Cannes</a></td>
-	<td><span class="fa">⠀fr⠀</span></td>
-	<td><a title="坎城影展的配套交易活动" href="https://www.marchedufilm.com"><small>电影市场</small></a></td>
-	<td>1939</td>
-</tr><tr>
-	<td> 5月<sup>21日起</sup></td>
-	<td>-</td>
-	<td>-</td>
-	<td>中国香港</td>
-	<td><a href="https://www.hkiff.org.hk/" title="繁体中文">香港国际电影节</a>📍</td>
-	<td><a href="https://www.hkiff.org.hk/" title="原页面切换语言">HKIFF</a></td>
-	<td>-</td>
-	<td>-</td>
-	<td>1977</td>
-</tr><tr>
-	<td> 5月~6月</td>
-	<td>A</td>
-	<td>水晶奖</td>
-	<td>伊朗</td>
-	<td>黎明国际电影节</td>
-	<td><a href="https://www.fajriff.com/en/" title="法杰尔电影节">Fajr</a></td>
-	<td><a href="https://fajrfilmfestival.com" title="جشنواره فیلم فجر"><span class="ar">⠀ar⠀</span></a></td>
-	<td>德黑兰</td>
-	<td>1982</td>
-</tr><tr>
-	<td> 6月<sup>上旬</sup></td>
-	<td>A</td>
-	<td>金爵奖</td>
-	<td>中国</td>
-	<td><a href="https://www.siff.com/">上海国际电影节</a>📍</td>
-	<td><a href="https://www.siff.com/english/" title="">SIFF</a></td>
-	<td>-</td>
-	<td><a href="https://weibo.com/siff" title="50万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
-	<td>1993</td>
-</tr><tr>
-	<td> 7月<sup>16~29</sup></td>
-	<td>A</td>
-	<td>圣乔治奖</td>
-	<td>俄罗斯</td>
-	<td>莫斯科国际电影节</td>
-	<td><a href="https://45.moscowfilmfestival.ru/en" title="Moscow International Film Festival">Moscow</a></td>
-	<td><a href="https://45.moscowfilmfestival.ru/" title="Московский международный кинофестиваль">ru</a></td>
-	<td>-</td>
-	<td><b>1935</b></td>
-</tr><tr>
-	<td>农历七夕</td>
-	<td>🎋</td><!--  -->
-	<td><a href="http://movie.mtime.com/15557/" title="时光网上的《庐山恋》电影，1980年">庐山恋</a></td>
-	<td>中国九江</td>
-	<td><a href="https://www.1905.com/special/filmfest/lsgjaqdyz/" title="江西省九江市庐山"><small>庐山国际爱情电影周📍</small></a></td>
-	<td><a href="https://www.imdb.com/title/tt3508268/" title="IMDb电影资料库上的《庐山恋》">IMDb</a></td>
-	<td><a href="https://movie.douban.com/subject/1422067/" title="豆瓣网上的《庐山恋》电影">豆瓣</a></td>
-	<td><a href="https://s.weibo.com/weibo?q=庐山恋" title="微博上的庐山恋"><img src="../fly/weibo.ico" height="15"></a></td>
-	<td>1980</td>
-</tr><tr>
-	<td> 8月<sup>25~9.4</sup></td>
-	<td>A</td>
-	<td>美洲大奖</td>
-	<td>加拿大</td>
-	<td><small>蒙特利尔世界电影节</small></td>
-	<td><a href="https://www.MontrealinternationalFilmFestival.com/" title="域名更新">MTL</a></td>
-	<td>-</td>
-	<td>-</td>
-	<td>1977</td>
-</tr><tr>
-	<td> 8月<sup>30~9.9</sup></td>
-	<td>A</td>
-	<td>金狮奖</td>
-	<td>意大利</td>
-	<td><b>威尼斯国际电影节</b></td>
-	<td><a href="https://www.labiennale.org/en/" title="Venice Film Festival">Venice</a></td>
-	<td><a href="https://www.labiennale.org/" title="威尼斯双年展国际电影艺术展">it</a></td>
-	<td>最古老</td>
-	<td><b>1932</b></td>
-</tr><tr>
-	<td>秋季</td>
-	<td>-</td>
-	<td>金鹿奖</td>
-	<td>中国长春</td>
-	<td><a href="https://www.chinaccff.com/" title="吉林省长春市">长春电影节</a>📍</td>
-	<td>CCFF</td>
-	<td>-</td>
-	<td><a href="https://weibo.com/u/2715305503" title="50万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
-	<td>1992</td>
-</tr><tr>
-	<td>10月<sup>第1周起</sup></td>
-	<td>B</td>
-	<td>-</td>
-	<td>韩国</td>
-	<td>釜山国际电影节</td>
-	<td><a href="https://www.biff.kr/eng/" title="Busan International Film Festival">Busan</a></td>
-	<td><a href="https://www.biff.kr/kor/" title="釜山國際映畵祭">kr</a></td>
-	<td>-</td>
-	<td>1996</td>
-</tr><tr>
-	<td>10月<sup>28~11.5</sup></td>
-	<td>A</td>
-	<td>金麒麟</td>
-	<td>日本</td>
-	<td>东京国际电影节</td>
-	<td><a href="https://www.tiff-jp.net/" title="Tokyo International Film Festival">TiFF</a></td>
-	<td><a href="https://www.tiff-jp.net/ja/" title="東京国際映画祭">ja</a></td>
-	<td>Tokyo</td>
-	<td>1985</td>
-</tr><tr>
-	<td>10月~11月</td>
-	<td>-</td>
-	<td>-</td>
-	<td>山西平遥</td>
-	<td><a href="https://www.pyiffestival.com/" title="山西省晋中市平遥县">平遥国际电影展</a>📍</td>
-	<td><a href="https://www.pyiffestival.com/" title="Crouching Tiger Hidden Dragon">Pingyao</a></td>
-	<td>-</td>
-	<td><a href="https://weibo.com/u/6156584526" title="67万微博粉丝"><img src="../fly/weibo.ico" height="18"></a></td>
-	<td>2017</td>
-</tr><tr>
-	<td>10月<sup>25~29</sup></td>
-	<td>-</td>
-	<td>文荣奖</td>
-	<td>浙江横店</td>
-	<td><a href="https://www.hengdianysj.com" title="浙江省金华市横店镇">横店影视节</a>📍</td>
-	<td>-</td>
-	<td>-</td>
-	<td><a href="https://weibo.com/u/5087894369" title="12万微博粉丝"><img src="../fly/weibo.ico" height="15"></a></td>
-	<td>2012</td>
-</tr><tr>
-	<td>10月~12月</td>
-	<td>&</td>
-	<td>金丝路奖</td>
-	<td><small><a href="http://www.cnsriff.com" title="2016年在西安举行第三届">西安</a>/福州</small></td>
-	<td><a href="https://sriff.cn/cn/" title="每年在西安、福州轮流举行">丝绸之路国际电影节</a>📍</td>
-	<td><a href="https://sriff.cn/en/" title="Silk Road">Silk R</a></td>
-	<td>-</td>
-	<td><a href="https://weibo.com/5212847734" title="西安微博，6万粉丝"><img src="../fly/weibo.ico" height="12"></a> /
-	<a href="https://weibo.com/u/5886024312" title="福州微博，7万粉丝"><img src="../fly/weibo.ico" height="12"></a></td>
-	<td>2014</td>
-</tr><tr>
-	<td>11月</td>
-	<td>-</td>
-	<td>金马奖</td>
-	<td>中国台北</td>
-	<td><a href="https://www.goldenhorse.org.tw/" title="台湾省台北金馬影展">金马国际影展</a>📍</td>
-	<td><a href="https://www.goldenhorse.org.tw/?r=en" title="Taipei Golden Horse Film Festival">Horse</a></td>
-	<td>-</td>
-	<td>-</td>
-	<td>1980</td>
-</tr><tr>
-	<td>11月</td>
-	<td rowspan="2">-</td>
-	<!-- 2023年前旧域名 https://www.zgjjbhdyj.com/index.htm -->
-	<td><a href="https://www.cgrhfff.com" title="中国电影金鸡奖，2023新域名">金鸡奖</a></td>
-	<td>中国厦门</td>
-	<td rowspan="2">金鸡百花电影节📍</td>
-	<td><a href="https://www.cgrhfff.com/film_index.html" title="Golden Rooster Film Festival">Rooster</a></td>
-	<td rowspan="2">-</td>
-	<td rowspan="2"><a href="https://weibo.com/u/2715305503" title="360万微博粉丝"><img src="../fly/weibo.ico" height="24"></a></td>
-	<td>1981</td>
-</tr><tr>
-	<td>◑每两年</td>
-	<td><a href="https://bh.zgjjbhdyj.com/" title="大众电影百花奖，域名更新中">百花奖</a>❔</td>
-	<td>…武汉</td>
-	<td>Flowers</td>
-	<td>1962</td>
-	</tr>
-<tr>
-	<td>11月<sup> 6~25</sup></td>
-	<td>A</td>
-	<td><small>金树商陆奖</small></td>
-	<td>阿根廷</td>
-	<td>马德普拉塔电影节</td>
-	<td><a href="https://www.mardelplatafilmfest.com/38/en/" title="Mar del Plata">en</a></td>
-	<td><a href="https://www.mardelplatafilmfest.com/" title="Mar del Plata"><span class="xi">⠀es⠀</span></a></td>
-	<td>-</td>
-	<td>1989</td>
-</tr><tr>
-	<td>11月<sup>07~18</sup></td>
-	<td>A</td>
-	<td>金字塔</td>
-	<td>埃及</td>
-	<td>开罗国际电影节</td>
-	<td><a href="https://www.ciff.org.eg/" title="Cairo International Film Festival">Cairo</a></td>
-	<td><a href="https://www.ciff.org.eg/ar/" title="مهرجان القاهرة السينمائي الدولي"><span class="ar">⠀ar⠀</span></a></td>
-	<td>-</td>
-	<td>1976</td>
-</tr><tr>
-	<td>12月</td>
-	<td>-</td>
-	<td>金椰奖</td>
-	<td>中国</td>
-	<td><a href="https://www.hiiff.net" title="海影节">海南岛国际电影节</a>📍</td>
-	<td><a href="https://www.hiiff.net/enhiiff/" title="Hainan Island International Film Festival">HiiFF</a></td>
-	<td>-</td>
-	<td><a href="https://weibo.com/u/6723107481" title="240万微博粉丝"><img src="../fly/weibo.ico" height="24"></a></td>
-	<td>2018</td>
-</tr><tr>
-	<td>12月<sup>04~07</sup></td>
-	<td>-</td>
-	<td>金红棉</td>
-	<td>中国</td>
-	<td>广州<a href="https://gzdoc.cn" title="中国（广州）国际纪录片节">国际纪录片节</a>📍</td>
-	<td><a href="https://gzdoc.cn/en/" title="">GZDOC</a></td>
-	<td>-</td>
-	<td><a href="https://weibo.com/u/2789776850" title="2万微博粉丝"><img src="../fly/weibo.ico" height="12"></a></td>
-	<td>2003</td>
-</tr>
-<tr ><td colspan="9">
-　　电影节起源于欧洲（意大利威尼斯），90余年来，已发展出大大小小几百个电影节，其中竞赛流程获得国际电影制片人协会（<a href="https://fiapf.org/" title="总部设于法国巴黎">FIAPF</a>）认证的A-List，不足20个，在上表中标记为‘A’类。
-</td></tr>
-</tbody>
-</table>
+<h2 >老生常谈博览会 　 EXPO & Trade Fair</h2>
 
-<!--
-“金鸡奖、百花奖、华表奖并称中国电影“三大奖”。金鸡奖是学术奖，代表较高思想艺术水准；百花奖是观众奖，代表群众认可；华表奖是政府奖，具有国家导向与政府提倡”。
-——中国电影家协会主席吴贻弓，2004年09月20日，国际在线。
- <tr>
-	<td>每年9~1月</td>
-	<td>-</td>
-	<td>西安/福州</td>
-	<td>丝绸之路国际电影节</td>
-	<td><a href="" title=""></a></td>
-	<td>-</td>
-	<td>金丝路奖</td>
-	<td>-</td>
-	<td>2014</td>
-</tr> 
--->
-　　电影常用网站：CCTV电影频道，
-	节目表，
-	1905电影网；　
-	<img src="../fly/weibo.ico" height="24">：粉丝千万的<a href="https://s.weibo.com/user?q=电影" title="在微博上搜索包含‘电影’2字的帐户">电影相关微博</a>
+　　政府搭台，企业唱戏。兴建会展场馆，举办各种博览会/交易会，是各地政府的普遍做法。如今，每一个省会/首府，都有自己的国际会展中心，如表格所示（仍在收录）。
+<p>
+　　表格中收录的博览会/交易会需符合三个条件：1、固定举办城市；2、网站运行良好；3、设立公众开放日。有一些大型展会，虽然每年举办但没有固定城市，故未收录，比如：
+	<a href="https://cn.bing.com/search?q=中国国际园林博览会" title="国际园林博览会">园博会</a>、
+	<a href="https://cn.bing.com/search?q=全国图书交易博览会" title="图书交易博览会">书博会</a>、
+	<a href="https://cn.bing.com/search?q=中国跨境电商交易会" title="跨境电商交易会">跨交会</a>。
 <br>
+　　这些场馆，除了承担的国家级会展活动，平时也会举办各种中小型展览，以充分利用场地/设施。读者可以在表格中点击‘展馆more’的地点链接，进入展馆自己的官方网站，查看近期活动。
+</p>
 　　更多会展信息可见：世展网 shifair.com，去展网 qufair.com，聚展 jufair.com
-<br>
+
+
+<h3>中国主要对外交流平台</h3>
 　　广交会、海南消博会、北京服贸会、上海进博会#<a href="https://www.facebook.com/ciieonline.zht" title="进博会的Facebook页">FB</a> 称为中国“ 四大展会”，均由中国商务部与所在地省级政府联合主办。　数博会在国内有两个，除了表中贵州的大数据，还有<a href="https://www.fsicec.cn" title="福州海峡国际会展中心，仓山区南江滨西大道">福州会展</a>每年4月底举行的<a href="http://www.szzg.gov.cn/" title="2018年创办">数字中国</a>建设峰会。　还有一个起源于1929年的西湖博览会，<a href="http://ibaimahu.com/?go=11" title="白马湖会展中心，网站建设中">杭州方面</a>正在重启。
 
 
 <div class="you"><a href="#" target="_self" id="huo" >⏫ Top</a></div>
 
 
-<h2>共同创造——国际赛事与奖项 🥉</h2>
+
+
+
+
+
+<h3>共同创造——国际赛事与奖项 🥉</h3>
 
 　　亚洲运动会，由<a href="https://ocasia.org/games/" title="亚洲奥林匹克理事会">亚奥理事会</a>主办，每四年一届。1990年在北京举办第11届、2010年在广州举办第16届。第19届原定于2022年举办，因新冠疫情延期。<br>
 　　2023年9月23日〜10月8日，<big>中国杭州</big><a href="https://www.hangzhou2022.cn/" title="同爱同在">第19届亚运会</a>📍 10月22日〜28日，第4届亚残运会
@@ -615,11 +329,11 @@
 
 
 <h3>参考文献</h3>
-　　外交部 网站>><a title="国家和组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际和地区组织</a><br>
-　　自然资源部 >><a title="国家地理信息系统" href="https://map.tianditu.gov.cn/2020/">天地图网站</a>
+　　(学习中……)
+
 <div class="you"><a href="#" target="_self" id="tuli" >⏫ Top</a></div>
 
-<p>　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，发现网址错误，请<a href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>🙇！Comments Welcome !</p>
+<p>　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome</p>
 <hr>
 
 <table align="right">	<!-- border="1" cellpadding="4" -->
@@ -630,11 +344,16 @@
 </table>
 
 <small><pre>
-老生常谈© 2019-2023 Copyright by 大萌　知识共享
+老生常谈© 2019-2024 Copyright by 大萌　知识共享
 CC-BY-NC-ND-3.0	　可转载-需署名-非演绎-非营利
-交易会与电影节	https://Laosheng.Top/ydyl/jiaoyihui
-v0.3.4 202312	汇编/设计/制作：大萌
+老生常谈博览会	https://Laosheng.Top/fuwu/bolanhui
+v0.4.0 202409	汇编/设计/制作：大萌
 </pre></small>
-
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 </body>
 </html>
