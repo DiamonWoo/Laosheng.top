@@ -17,10 +17,9 @@
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
-  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan )：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
+  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
+  + /fly/dianying　🎞️ [老生常谈电影节](fly/dianying){:target="_blank"}，每个月都有的电影节。戛纳、奥斯卡、天坛奖……（正在收录）
   + 中文财经云媒体 （准备中）……
-  + 一带一路云媒体
-
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
 
@@ -35,7 +34,8 @@
   + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，突出网站支持语言。(新版)
   + /ydyl/nations　🗺 [外交国别速查表](ydyl/nations)：国家概况、ISO代码、政府网址、双方使馆……2024新版❗
   + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。
-  + /ydyl/dianyingjie　[老生常谈电影节](ydyl/dianyingjie) 🎞，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）  
+  + /ydyl/jiaoyisuo　💱 [环球金融交易所](ydyl/jiaoyisuo)　Global Financial Exchange（新上线）
+
    🚄🚃☁🚃☁……
 
 
@@ -64,7 +64,7 @@
 -------------
 
 + 建站[小笔记](broad/blog.txt "建站心得")
-+ 2024 0803 网站发布版本3.4：[黄洋界上](https://github.com/DiamonWoo/Laosheng.top/releases/tag/v3.4)。
++ 2024 0803 网站发布版本3.4：[黄洋界上](https://github.com/DiamonWoo/Laosheng.top/releases/tag/v3.4){:target="_blank"}。
 + 2024 [环球金](ydyl/jiaoyisuo)初夏上线，百年未有之大变局。
 
 + 2023 ‘老生常谈’的[成语本义](c/chengyu)，是千篇一律，还是真知灼见？
@@ -105,6 +105,6 @@
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.2.9 202408
+	https://Laosheng.top	v3.3.0 202409
 
-🎁💎🎅🛍💐🎀🥳☎
+🎁💎🎅🛍💐🎀🥳
