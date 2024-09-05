@@ -17,9 +17,9 @@
 
 +	./index　🌞 [一带一路云媒体](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
 
-+	./dianyingjie 🎞️ [老生常谈电影节](dianyingjie.html)，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… 国际赛事与奖项（正在收录）
-
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
+
++	美国千县政府网（规划中）　美国几十个州政府和几千个县镇政府网址。
 
 <div align="right">
 	⏩ 老生常谈
@@ -194,7 +194,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.7	202409
+	一带一路民间站 v3.2.8	202409
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
