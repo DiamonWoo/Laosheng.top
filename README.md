@@ -18,7 +18,7 @@
 
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
   + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
-  + /fly/dianying　🎞️ [老生常谈电影节](fly/dianying){:target="_blank"}，每个月都有的电影节。戛纳、奥斯卡、天坛奖……（正在收录）
+  + /fly/dianying　🎞️ 老生常谈电影节，每个月都有的电影节。戛纳、奥斯卡、天坛奖……（正在收录）
   + 中文财经云媒体 （准备中）……
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
