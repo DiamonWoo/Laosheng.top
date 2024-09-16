@@ -17,8 +17,8 @@
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
-  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}：China Daily、中国之声、GlobalTimes、《北京周报》、解放军微博阵列、十大世界语言……
-  + /fly/dianying　🎞️ 老生常谈电影节，每个月都有的电影节。戛纳、奥斯卡、天坛奖……（正在收录）
+  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}：ChinaDaily、中国之声、《北京周报》、解放军微博阵列、十大世界语言……新发布1.0版！
+  + /fly/dianying　🎞️ [老生常谈电影节](fly/dianying){:target="_blank"}，每个月都有的电影节。戛纳、奥斯卡、天坛奖……（正在收录）
   + 中文财经云媒体 （准备中）……
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
@@ -88,7 +88,7 @@
 
 “排行榜”和“云媒体”页面几乎每一个链接都有批注(指针提示)，在电脑浏览器上可显示，具体请见 [帮助页](c/helpweb "老生常谈站点的浏览帮助")
 
-如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)。
+本站在手机上优先适配 Via浏览器、Firefox(火狐)、微信内置浏览器，其他浏览器正在努力兼容中。
 
 
 		节约时间，就是爱护生命。
@@ -105,6 +105,6 @@
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.3.0 202409
+	https://Laosheng.top	v3.3.1 202409
 
 🎁💎🎅🛍💐🎀🥳
