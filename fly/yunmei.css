@@ -15,6 +15,7 @@
 	h3	{margin-bottom: 0%}
 /* 	img	{ vertical-align: middle;  }		解决图像偏高的问题 bottom*/
 
+	div	{ max-height:100%;}			/* 解决X浏览器等TextAutosizer问题 */
 	div.you	{text-align: right; }
 	div#top	{margin-bottom:-3%; }		/* div#tuli -3em*/
 	table#tuli
