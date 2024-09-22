@@ -202,8 +202,14 @@
 *	天涯法治论坛	<http://bbs.tianya.cn/list-law-1.shtml>
 *	$<a href="http://www.aisixiang.com/" title="法经管/人文社科">爱思想</a>　
 *	<a href="https://space.bilibili.com/1955809864" title="张捷财经观察 %Fx">张捷</a>财经
-*	<a title="央企股票全家福" href="https://Laosheng.top/fuwu/yangqi">央企股</a> 🧧
-<!-- https://www.qcc.com 企查查 国家市场监督总局 http://www.samr.gov.cn/fw/-->
+
+*	国家市场监督总局 http://www.samr.gov.cn/fw/
+*	国家企业信用信息公示系统 http://www.gsxt.gov.cn
+
+*	[企查查](https://www.qcc.com)
+/	[启信宝](https://www.qixin.com)
+/	🔎<a href="https://aiqicha.baidu.com/" title="免费查企业，百度提供">爱企查</a> %Fx
+	百度系的产品，搜索结果不给网址
 
 
 9、IT洁癖
