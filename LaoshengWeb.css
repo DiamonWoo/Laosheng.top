@@ -9,9 +9,12 @@ body	 {	background: 	#F5F5DC ; 	/* v1.9.9 #EEEECC ; Cornsilk #FFF8DC OldLace #FD
 	}
 img	{ vertical-align: middle;  }		/* 解决图像偏高的问题 bottom*/
 div.kuai {	float: left; 
-		margin:1em; 		/* 上一个值 1% */
+		margin:1em; 		/* 上一个值 1% margin-top: -0.5%; */
 		width:  462px ; 		/* 稳定值 452px */	/*480px 25% width: auto; min-width: 360px;*/
-		height: auto;	}	/*margin-top: -0.5%;*/
+		height: auto;		/* 218px; auto */
+		max-height:100%;		/* 能和上一行同用吗？	*/
+	/* 	min-height:1px;		谷歌浏览器不折行？失败 */
+}
 
 div#bao {	height: 468px; 	
 		line-height: 1.8; 	/* 此处行高仅对Fx有效 */
