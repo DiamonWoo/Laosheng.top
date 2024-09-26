@@ -33,7 +33,7 @@
 
   + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，突出网站支持语言。(新版)
   + /ydyl/nations　🗺 [外交国别速查表](ydyl/nations)：国家概况、ISO代码、政府网址、双方使馆……2024新版❗
-  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。
+  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。新发布1.0版！
   + /ydyl/jiaoyisuo　💱 [环球金融交易所](ydyl/jiaoyisuo)　Global Financial Exchange（新上线）
 
    🚄🚃☁🚃☁……
@@ -64,7 +64,7 @@
 -------------
 
 + 建站[小笔记](broad/blog.txt "建站心得")
-+ 2024 '外宣云'与'一带一路云'两个页面发布 1.0版，正式兼容 Safari等手机浏览器。
++ 2024 '外宣云'与'一带一路云'两个页面发布 1.0版，正式兼容 Safari等手机浏览器。📱
 + 2024 0803 网站发布版本3.4：[黄洋界上](https://github.com/DiamonWoo/Laosheng.top/releases/tag/v3.4){:target="_blank"}。
 + 2024 [环球金](ydyl/jiaoyisuo)初夏上线，百年未有之大变局。
 
