@@ -4,7 +4,7 @@
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告第一部分
 
-　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[<sup>(1)</sup>](#wen){:target="_top"}_。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国的金融体系，有助于投资者选择适合产品，降低理财风险。但这并不容易，仅银行与保险两业的法人名单就超过七千家，这还不算分行或分公司。庞杂的机构，如何理清关系？
+　　2022年，银行出售理财产品全面转向净值化，个人投资者接近1亿[<sup>(1)</sup>](#wen){:target="_top"}_。购买理财产品，是普通人分享改开成果、支援国家建设的一种金融渠道。认清中国的金融体系，有助于投资者选择适合产品，降低理财风险。但这并不容易，仅银行与保险两业的法人名单就超过七千家，这还不算分行或分公司。庞杂的机构，如何认清关系？
 
 　　党的二十大后，国务院成立国家金监总局，监管除证券业之外的所有金融业务，扫除了监管盲区，使得从监管角度认识中国金融业全貌成为可能。这是本页重写第三稿的基础。根据是否由派出机构监管，大萌把金融机构分为两层：**中央监管**和**地方监管**。　由中央监管的大银行、保险集团，分支机构开遍全国，人们的水电缴费、工资房贷、出行保险…和这些机构息息相关；而由中央派出机构（地方监管局/证监局）监管的金融机构，数量众多而知名度较低，一是法律限制他们只能在当地或某些城市开设网点，比如城商行；二是公司设立在CBD高高的写字楼内部，远离百姓的生活区，宛如[《城中之城》](https://s.weibo.com/weibo/%23城中之城%23)。
 
@@ -35,7 +35,7 @@
 +	中国金融[监管体系](#tixi){:target="_top"} 🔱 /	[中央金融](#zh){:target="_top"}企业 🀄 27家
 	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12=18家中央监管
 	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43❕=56家中央监管c
-	+ **地方监管的**[部分金融机构](#local){:target="_top"}	🍕 7xx家  
+	+ **地方监管的**[六类金融机构](#local){:target="_top"}	🍕 7xx家 　▼  
 	（💳城商行￥民营行/📤信托公司/财险㊖与寿险☯/📈证券公司/🥚基金管理人/🎰期货公司）
 	+ 主要[金融交易所](#ex){:target="_top"} 📊	   8家
 	+ [港澳台](#ex2){:target="_top"}金融交易所 📊
@@ -185,12 +185,12 @@ Banks
 
 *	❕国有大型商业银行（6家）
 
-🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀[外汇](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[黄金](https://www.icbc.com.cn/column/1438058319654043686.html)⠀[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
-🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇](https://www.abchina.comhttps://ewealth.abchina.com/ForeignExchange/)⠀[黄金](https://www.abchina.comhttps://ewealth.abchina.com/Gold/)⠀[理财](https://ewealth.abchina.com/fs/filter/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
+🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀[<b>外汇</b>](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[黄金](https://www.icbc.com.cn/column/1438058319654043686.html)⠀[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
+🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇](https://ewealth.abchina.com/ForeignExchange/)⠀[<b>黄金</b>](https://ewealth.abchina.com/Gold/)⠀[理财](https://ewealth.abchina.com/fs/filter/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
 🀄<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>❗⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇](https://www.boc.cn/sourcedb/whpj/)⠀黄金⠀[理财](https://www.boc.cn/fimarkets)	⠀[网页登录](https://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
-🀄<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>❗⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[外汇](http://forex2.ccb.com/chn/forex/exchange-quotations.shtml)⠀[黄金](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)⠀[理财](http://finance1.ccb.com/cn/finance/index.html)	⠀[网页登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
-🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀收费标准	⠀[外汇](https://www.bankcomm.com/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)⠀黄金⠀[理财](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
-👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[黄金](https://www.psbc.com/cn/grfw/tzlc/gjs/cpxx_204/gjsjc/)⠀[理财](https://www.psbc.com/cn/grfw/tzlc/lc/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
+🀄<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>❗⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[<b>外汇</b>](http://forex2.ccb.com/chn/forex/exchange-quotations.shtml)⠀[黄金](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)⠀[理财](http://finance1.ccb.com/cn/finance/index.html)	⠀[网页登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
+🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀[收费标准](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7924/2600718/2615550.shtml)	⠀[外汇](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml)⠀黄金⠀[<b>理财</b>](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
+👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[<del>黄金</del>](https://www.psbc.com/cn/grfw/tzlc/gjs/cpxx_204/gjsjc/)⠀[<b>理财</b>](https://www.psbc.com/cn/grfw/tzlc/lc/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
 
 *	❕全国性股份制商业银行（12家）
 
@@ -343,7 +343,7 @@ Insurance
 　<a href="#64" target="_top">64-宁夏</a>
 　<a href="#65" target="_top">65-新疆</a>
 　71-台湾　81-香港　82-澳门
-　各省按身份证号前两位排序　▼
+　各省按身份证号前两位排序　▽
 
 202312**各省统计如下**：
 
@@ -560,7 +560,7 @@ Exchanges
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.8.3	202408
+	个人理财金融圈 Version 0.8.4	202409
 	https://laosheng.top/fuwu/jinrong
 ```
 
