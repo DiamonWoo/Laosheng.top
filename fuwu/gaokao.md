@@ -3,13 +3,13 @@
 大萌	　202308，202406~	<base target="_blank">
 
 
-　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。全国有7个省份仍采用五科（语数外、文综、理综）全国统一命题；有21个省份采取新高考模式，语/数/外 全国统一命题，其余科目由各省自主命题，物理、历史二选一，化/生/地/政四选二，俗称‘3+1+2’。某些地方会有考试科目延长到6月10日。高考总分通常为750分，上海市为660分。
+　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。2024年全国有7个省份仍采用五科（语数外、文综、理综）全国统一命题；有21个省份采取新高考模式，语/数/外 全国统一命题，其余科目由各省自主命题，物理、历史二选一，化/生/地/政四选二，俗称‘3+1+2’。某些地方会有考试科目延长到6月10日。高考总分通常为750分，上海市为660分。
 
 　　根据**新高考**改革进程的推进，全国共有五类高考试卷，分布如下：
 <img align='right' title='新高考改革进程图' src='xingaokao.png' alt='2024高考五类试卷'>
 
 *	1、全国甲卷：内蒙/陕西/宁夏，青海、四川（深蓝）
-*	2、全国乙卷：无
+*	2、全国乙卷：2024年无
 *	3、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣渝（12省，青色）
 *	4、新课标II卷：辽吉黑，甘/疆/藏，山西、广西、云贵琼（11省，浅绿）
 *	5、全自主命题：京、津、沪（红色）
@@ -19,6 +19,7 @@
 
 <h3 id="mulu">〖新高考〗目录</h3>
 
++	人生通关考考考（图）
 +	各省志愿填报[日程简表](#ri){:target="_top"} 📅
 +	[教育部](#moe){:target="_top"} 门常用网址 🏢
 +	民间[大学排行榜](#pai){:target="_top"}
@@ -30,6 +31,9 @@
 <div align="right" id="ri">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/人生之路新高考
 </div>
+
+<img align='center' title='全国性考试日程表' src='kaokaokao.png' alt='人生通关考考考'>
+
 
 各省志愿填报日程简表 📅
 --------------------
@@ -43,7 +47,7 @@
 
 　　<small>
 各省的颜色不同，表示不同的试卷类型，与上面的地图颜色相同。
-　西藏是6月27日中午才在考试院官网公布填报志愿时间，这是全国最后一个，河北山西这个时候都已经完成了提前批的填报。
+　西藏在6月27日中午才在考试院官网公布填报志愿时间，是全国最后一个，河北山西这个时候都已经完成了提前批的填报。
 　注意，并不是所有关键信息都会公布在网站。比如安徽省的志愿填报时间，用文件下达到中学、用短信通知到考生，但没有公开在考试院的网站。
 </small>
 
@@ -59,21 +63,22 @@
 　11-北京<sup>[市教委](http://jw.beijing.gov.cn)</sup>	[考试院](https://www.bjeea.cn)
 　12-天津<sup>[市教委](https://jy.tj.gov.cn)</sup>	[考试院](http://www.zhaokao.net)
 　13-河北<sup>[教育厅](http://www.hee.gov.cn)</sup>	[考试院](http://www.hebeea.edu.cn)
-　14-山西<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	[招考中心](http://www.sxkszx.cn)
+　14-山西<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	<small>[招考中心](http://www.sxkszx.cn)/[教考中心](https://www.sxjyksfw.cn)</small>
 　15-内蒙古<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	[招考中心](https://www.nm.zsks.cn)
 　21-辽宁<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	[高招办](https://www.lnzsks.com)
 　22-吉林<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	[考试院](http://www.jleea.edu.cn)
 　23-黑龙江<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	[考试院](https://www.hljea.org.cn)
-　31-上海<sup>[市教委](https://edu.sh.gov.cn)</sup>	[考试院](https://www.shmeea.edu.cn)
-　32-江苏<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	[考试院](https://www.jseea.cn)
-　33-浙江<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	[考试院](https://www.zjzs.net)
+　31-上海<sup>[市教委](https://edu.sh.gov.cn)</sup>	[考试院](https://www.shmeea.edu.cn)<sup>有日程</sup>
+　32-江苏<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	[考试院](https://www.jseea.cn)<sup>有日历</sup>
+　33-浙江<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	[考试院](https://www.zjzs.net)<sup>当下考</sup>
 　34-安徽<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	[考试院](https://www.ahzsks.cn)
 　35-福建<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	[考试院](https://www.eeafj.cn)
 　36-江西<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	[考试院](http://www.jxeea.cn)
+
 　37-山东<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	[考试院](https://www.sdzk.cn)
 　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)
 　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[高招办](http://www.hbea.edu.cn)
-　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	/[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/) / [信息港](https://www.hneeb.cn)
+　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup> 	<small>[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/) / [信息港](https://www.hneeb.cn)</small>
 　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)
 　45-广西<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	[考试院](http://www.gxeea.cn)
 　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)
@@ -601,7 +606,7 @@ QA 高考志愿常见问题 💬
 ```
 	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.3.9	202407
+	人生之路新高考	V0.4.0	202409
 	https://Laosheng.top/fuwu/gaokao
 ```
 
