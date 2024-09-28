@@ -68,20 +68,21 @@
 　21-辽宁<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	[高招办](https://www.lnzsks.com)
 　22-吉林<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	[考试院](http://www.jleea.edu.cn)
 　23-黑龙江<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	[考试院](https://www.hljea.org.cn)
+
 　31-上海<sup>[市教委](https://edu.sh.gov.cn)</sup>	[考试院](https://www.shmeea.edu.cn)<sup>有日程</sup>
 　32-江苏<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	[考试院](https://www.jseea.cn)<sup>有日历</sup>
 　33-浙江<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	[考试院](https://www.zjzs.net)<sup>当下考</sup>
 　34-安徽<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	[考试院](https://www.ahzsks.cn)
 　35-福建<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	[考试院](https://www.eeafj.cn)
 　36-江西<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	[考试院](http://www.jxeea.cn)
-
 　37-山东<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	[考试院](https://www.sdzk.cn)
-　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)
-　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	[高招办](http://www.hbea.edu.cn)
-　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup> 	<small>[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/) / [信息港](https://www.hneeb.cn)</small>
-　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)
+　41-河南<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	[考试院](http://www.heao.com.cn)<sup>专题多</sup>
+　42-湖北<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	<small>[高招办](http://www.hbea.edu.cn)/[考试网](https://www.hbksw.com)</small><sup>院校库</sup>
+　43-湖南<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	<small>[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/)/[信息港](https://www.hneeb.cn)</small><sup>总报名</sup>
+　44-广东<sup>[教育厅](http://edu.gd.gov.cn)</sup>	[考试院](http://eea.gd.gov.cn)<sup>有日历</sup>
 　45-广西<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	[考试院](http://www.gxeea.cn)
-　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)
+　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)<sup>有日历</sup>
+
 　50-重庆<sup>[市教委](http://jw.cq.gov.cn)</sup>	[考试院](https://www.cqksy.cn)
 　51-四川<sup>[教育厅](http://edu.sc.gov.cn)</sup>	[考试院](http://www.sceea.cn)
 　52-贵州<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	[考试院](http://zsksy.guizhou.gov.cn)
