@@ -1,6 +1,10 @@
 人生之路新高考 🕺 <sup>一山更比一山高</sup>
 ================
-大萌	　202308，202406~	<base target="_blank">
+大萌	　202308，2024夏	<base target="_blank">
+
+		路漫漫其修远兮，吾将上下而求索 —— 战国《离骚》
+
+<img align='center' title='全国考试日程表' src='kaokaokao.png' alt='人生通关考考考'>
 
 
 　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。2024年全国有7个省份仍采用五科（语数外、文综、理综）全国统一命题；有21个省份采取新高考模式，语/数/外 全国统一命题，其余科目由各省自主命题，物理、历史二选一，化/生/地/政四选二，俗称‘3+1+2’。某些地方会有考试科目延长到6月10日。高考总分通常为750分，上海市为660分。
@@ -31,8 +35,6 @@
 <div align="right" id="ri">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/人生之路新高考
 </div>
-
-<img align='center' title='全国性考试日程表' src='kaokaokao.png' alt='人生通关考考考'>
 
 
 各省志愿填报日程简表 📅
@@ -84,9 +86,9 @@
 　46-海南<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	[考试局](http://ea.hainan.gov.cn)<sup>有日历</sup>
 
 　50-重庆<sup>[市教委](http://jw.cq.gov.cn)</sup>	[考试院](https://www.cqksy.cn)
-　51-四川<sup>[教育厅](http://edu.sc.gov.cn)</sup>	[考试院](http://www.sceea.cn)
+　51-四川<sup>[教育厅](http://edu.sc.gov.cn)</sup>	[考试院](http://www.sceea.cn)<sup>子站多</sup>
 　52-贵州<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	[考试院](http://zsksy.guizhou.gov.cn)
-　53-云南<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	[考试院](http://www.ynzs.cn)
+　53-云南<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	[考试院](http://www.ynzs.cn)<sup>首页全</sup>
 　54-西藏<sup>[教育厅](http://edu.xizang.gov.cn)</sup>	[考试院](http://zsks.edu.xizang.gov.cn)
 　61-陕西<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>	[考试院](http://www.sneac.com)
 　62-甘肃<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>	[考试院](http://www.ganseea.cn)
