@@ -26,14 +26,13 @@
 /	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>民间站
 </div>
 
-<p align="center" ><b>
-<big>人类命运共同体</big><br>
+<p align="center"><b>
 全球发展倡议、全球安全倡议、全球文明倡议
 </b></p>
 
 
-一带一路外交动态 Diplomatic Dynamics
------------------------------------
+外交动态 Diplomatic Dynamics
+---------------------------
 
 *	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
 *	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
