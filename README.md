@@ -4,7 +4,7 @@
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
 　　这里是民间网站[老生常谈](https://Laosheng.top)，以‘集成网页’为特色的**研究型导航网站**。 本站**收录**四大系列的官方**网址**：法律、政务（经济/民生）、新闻、全球化。这些官网有的是信息披露的法定媒体，有的是新闻信息的稿源单位。快速找到这些官网，有助于网民分辨信息真伪、节省学习时间，投入国家建设。
-<div align="center" style="background-color: yellow; color: red;">🎆💐热烈庆祝新中国🇨🇳成立75周年！💐🎆</div>
+<div align="center" style="background-color: gold; color: red;">🎆💐热烈庆祝新中国🇨🇳成立75周年！💐🎆<br></div>
 
 　　大萌为这些官方网址**设计**高质量的结构性目录，创作容易检索的[大规模集成网页](https://cn.bing.com/search?q=大规模集成网页){:target="_blank"}(LSIP)<sup>⇗</sup>。希望老生常谈网站能帮助网民“快速找到有效信息”，为“数字中国”描绘新时代的**知识图谱**。　本站摘要如下，详细内容请进入各系列页面：
 
