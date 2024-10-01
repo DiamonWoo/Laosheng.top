@@ -26,7 +26,7 @@
 /	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>民间站
 </div>
 
-<p algin='center'><b>
+<p align="center" ><b>
 <big>人类命运共同体</big><br>
 全球发展倡议、全球安全倡议、全球文明倡议
 </b></p>
