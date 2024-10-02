@@ -98,7 +98,7 @@ YDYL 常用词汇：
 　　电视直播：Live TV  /　　数字报：E-Paper…… -->
 
 
-<h3 id=ditu>一带一路地图网站 🗺</h3>
+<h3 id="ditu">一带一路地图网站 🗺</h3>
 　　天地图
 <a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
 <a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
@@ -110,12 +110,26 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 #<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
 #Waze、
 <a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
-
-　　**代理地图**：　目前缺少手机浏览器上能访问的、对中文用户友好的在线地图，原因复杂，无能为力。有一些民间网站采用了曲线救国的方法，存之备用。
+　	代理地图：有一些民间网站代理了多个地图数据源，存之备用。
 [地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
 
+　　微软提供的**必应世界地图**，国内仅存的允许手机浏览器访问的网页地图：
 
-<h3 id=fanyi>YDYL民间翻译网站 🎧</h3>
+<table align="right" border="1" style="" id="必应地图" title="地图可拖动和缩放">
+<!-- <caption>微软必应嵌入地图，可拖动，可缩放，d<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=5&amp;FORM=MBEDLD">桌面新窗口</a>
+</caption> -->
+<tbody><tr><td ><!-- 宽度原为500 -->
+	<iframe width="800" height="400" frameborder="0" 
+	src="https://cn.bing.com/maps/embed?h=400&w=800&cp=rmx47fhyfj9m&lvl=3&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+	</iframe>
+	<span style="white-space: nowrap; font-size: small; ">必应地图，可拖动，可缩放，d
+	<a id="largeMapLink" target="_blank" href="https://cn.bing.com/maps?cp=rmx47fhyfj9m&amp;sty=r&amp;lvl=3&amp;FORM=MBEDLD">查看放大的地图</a>
+	</span>
+</td></tr></tbody>
+</table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
+
+
+<h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
 　谷歌翻译
 #<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
 <a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
@@ -191,7 +205,7 @@ Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯
 ```
 	老生常谈© 2019~2024 大萌 
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.2.9	202410
+	一带一路民间站 v3.3.0	202410
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
