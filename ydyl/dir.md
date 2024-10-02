@@ -62,40 +62,53 @@
 	更多外媒请见：一带一路云媒体。
 
 
-一带一路官方网址 B&R Web from China
-----------------------------------
-
-　　习近平[外交思想和新时代](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")中国外交：全球发展倡议、全球安全倡议、全球文明倡议
-
-<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
-/	<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
-/	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
-/	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”
-
-　　外交部：<a title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交要闻</a>
-/	<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a>
-/	<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>领事保护热线
-
-　　商务部：<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">统计数据</a>
-/	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
-/	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
-
-　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线
-
-　　国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
-
-
 一带一路工具网站 Web Help B&R
 -----------------------------
 
-YDYL 常用词汇：
-
+YDYL 常用词汇：  
 　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
 　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
 　　ASR = Air Silk Road = 空中丝绸之路  
-<!-- *云媒体常用外语词汇*  
-　　电视直播：Live TV  /　　数字报：E-Paper…… -->
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）
+
+<!-- *云媒体常用外语词汇*　电视直播：Live TV  /　　数字报：E-Paper…… -->
+
+<h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
+　谷歌翻译
+#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
+<a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
+<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、
+网易<a title="网易出品，必属佳品" href="http://fanyi.youdao.com">有道翻译</a>、
+<a title="提供本地软件 %Fx" href="https://dict.eudic.net">欧陆词典</a>、
+<a title="欧洲Lingva翻译，%中文词典考验网络" href="https://lingvaNex.com/demo/">Lingva</a>%中、
+<!-- Vivaldi浏览器合作伙伴 -->
+<small>
+%<a title="网址可确定语言种类 %Fx" href="https://fanyi.baidu.com">百度翻译</a>、
+%<a title="曾经和谷歌联手的金山词霸 %Fx" href="https://www.iciba.com/fy">爱词霸</a>、
+%<a title="俄罗斯网站，英文界面 %Fx" href="https://translate.yandex.com">Yandex</a>、
+%<a title="深度翻译，来自德国科隆 %Fx" href="https://www.deepl.com/translator">DeepL</a>、
+%<a title="不兼容Fx古典浏览器，提供浏览器插件" href="https://fanyi.caiyunapp.com/">彩云小译</a>
+</small>
+<br>　
+Cambridge <a href="https://dictionary.cambridge.org/zhs/" title="中文界面">剑桥词典</a>、
+Oxford 牛津<a href="https://www.oed.com" title="%需注册">OED</a>/<a href="https://www.OxfordLearnersDictionaries.com/" title="">学习者词典</a>、
+Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯林斯词典</a>、
+朗文<a href="https://www.LDoceonline.com" title="没有中文词典">LongMan</a>
+……<a href="" title=""></a>
+<br>
+　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
+
+　标记百分号% 是指该翻译网站不兼容古典浏览器，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用，不再标记%；而‘爱词霸’则相反，降低了兼容性。
+
+<h4>能翻译网页的浏览器</h4>
+
+　　【网页翻译】是指一种浏览器‘内核级’功能，把网页显示的原始文字替换成机器翻译后的文字。这就像是一瞬间把网页变成了另一个语言的版本，能极大地加快浏览陌生语言网页的速度。
+
+* 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
+* 谷歌 Chrome	曾经是翻译效果最好的浏览器，支持英文视频实时中文字幕，但202210之后谷歌关闭中国翻译服务，访问困难。  
+	谷歌浏览器<a title="v97 约97MB.exe" href="https://google.cn/chrome/?standalone=1">完整安装包</a>for Win平台
+* 火狐 Firefox	安装 TWP扩展(Translate Web Pages)可以翻译几十种语言，提供手机端。
+* 腾讯 QQ浏览器	曾经只能翻译三种语言：英、日、韩；语种应在增加（微信内置浏览器类似）。
 
 
 <h3 id="ditu">一带一路地图网站 🗺</h3>
@@ -129,42 +142,27 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
 
 
-<h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
-　谷歌翻译
-#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
-<a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
-<a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、
-网易<a title="网易出品，必属佳品" href="http://fanyi.youdao.com">有道翻译</a>、
-<a title="提供本地软件 %Fx" href="https://dict.eudic.net">欧陆词典</a>、
-<a title="欧洲Lingva翻译，%中文词典考验网络" href="https://lingvaNex.com/demo/">Lingva</a>%中、
-<!-- Vivaldi浏览器合作伙伴 -->
-<small>
-%<a title="网址可确定语言种类 %Fx" href="https://fanyi.baidu.com">百度翻译</a>、
-%<a title="曾经和谷歌联手的金山词霸 %Fx" href="https://www.iciba.com/fy">爱词霸</a>、
-%<a title="俄罗斯网站，英文界面 %Fx" href="https://translate.yandex.com">Yandex</a>、
-%<a title="深度翻译，来自德国科隆 %Fx" href="https://www.deepl.com/translator">DeepL</a>、
-%<a title="不兼容Fx古典浏览器，提供浏览器插件" href="https://fanyi.caiyunapp.com/">彩云小译</a>
-</small>
-<br>　
-Cambridge <a href="https://dictionary.cambridge.org/zhs/" title="中文界面">剑桥词典</a>、
-Oxford 牛津<a href="https://www.oed.com" title="%需注册">OED</a>/<a href="https://www.OxfordLearnersDictionaries.com/" title="">学习者词典</a>、
-Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯林斯词典</a>、
-朗文<a href="https://www.LDoceonline.com" title="没有中文词典">LongMan</a>
-……<a href="" title=""></a>
-<br>
-　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
+一带一路官方网址 B&R Web from China
+----------------------------------
 
-　标记百分号% 是指该翻译网站不兼容古典浏览器，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用，不再标记%；而‘爱词霸’则相反，降低了兼容性。
+　　习近平[外交思想和新时代](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")中国外交：全球发展倡议、全球安全倡议、全球文明倡议
 
-<h3>能翻译网页的浏览器</h3>
+<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
+/	<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
+/	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
+/	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”
 
-　　【网页翻译】是指一种浏览器‘内核级’功能，把网页显示的原始文字替换成机器翻译后的文字。这就像是一瞬间把网页变成了另一个语言的版本，能极大地加快浏览陌生语言网页的速度。
+　　外交部：<a title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交要闻</a>
+/	<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a>
+/	<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>领事保护热线
 
-* 微软 Edge	能翻译几十种语言，提供多个电脑和手机平台。
-* 谷歌 Chrome	曾经是翻译效果最好的浏览器，支持英文视频实时中文字幕，但202210之后谷歌关闭中国翻译服务，访问困难。  
-	谷歌浏览器<a title="v97 约97MB.exe" href="https://google.cn/chrome/?standalone=1">完整安装包</a>for Win平台
-* 火狐 Firefox	安装 TWP 扩展可以翻译几十种语言，提供手机端。
-* 腾讯 QQ浏览器	曾经只能翻译三种语言：英、日、韩；语种应在增加（微信内置浏览器类似）。
+　　商务部：<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">统计数据</a>
+/	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
+/	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
+
+　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线
+
+　　国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
 
 
 种子数据 🔠：ISO国别码
@@ -216,7 +214,8 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🌤 ⛅🌞💃🎦🛳🏝🌴🐘🦏🦍🦓🦒⛄️🎎👳🗽⭐☂️  
+🌤 ⛅🌞💃🎦🛳🏝🌴🐘🦏🦍🦓🦒⛄️🎎👳🗽  
 🏛🏚🏠🏡💒🏘🏢🏦🏨🏩🏬🏪🏥🏤🏣🏫🏰  
-💱🏞🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵🎭👥🕊️🗣️🗨️🕯️  
-💐⚜️🔱💮🏵🛡🔄⬇️↩️↪️↙️↘️↔️↖️☑️♐♏Ⓜ️🔃⤵️⤴️🐉
+💱🏞🏔️🏕️🚩🖍️✏️✍️📝🔸&🕴️🤵🎭👥🕊️🗣️🗨  
+️🕯️⭐☂️💐⚜️🔱💮🏵🛡  
+🔄⬇️↩️↪️↙️↘️↔️↖️☑️♐♏Ⓜ️🔃⤵️⤴️🐉
