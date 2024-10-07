@@ -1,18 +1,17 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~06	<base target="_blank">
+大萌　202307，202404~06
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
 		create wealth and improve infrastructure connectivity. —— AIIB 亚投行：创造财富，并改善基础设施连通性。
 
 　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
 　　金融交易所是各种国际势力角逐的战场，主要有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外。
-…… 本页食材正在准备，上酸菜~~
-
-　　疑问1：哪个网站有纽约外汇市场的当天汇率？我只找到美联储网页，是上周的汇率。
+…… 本页食材正在准备，上酸菜~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)。
 
 　　writing……（还在学习、收集中）
-
 
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金融交易所</div>
@@ -23,7 +22,7 @@
 *	世界三大[黄金市场](#gold){:target="_top"} 🟨
 *	[证券交易所](#ex){:target="_top"}排行榜 📊
 	* [港澳台](#ex2){:target="_top"}金融交易所
-*	[G-SIBs银行](#bank){:target="_top"} 🔼
+*	[G-SIBs](#bank){:target="_top"} 🔼 重要性银行
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
 	* 美国[金融有关部门](#usa){:target="_top"} 🏛️
 *	[参考文献](#can){:target="_top"} 
@@ -58,7 +57,9 @@ Foreign Exchange Market
 　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
 [中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
-[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。  
+[中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。
+
+　　疑问：哪个网站有纽约外汇市场的当天汇率？我只找到美联储网页，是上周的汇率。
 
 <div align="right" id="gold">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -123,10 +124,10 @@ Stock Exchange Top25 2021
 　印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴、
 　[马来西亚证券交易所](https://www.BursaMalaysia.com/cn/)📍
 
-　　更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
+更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
 [成员名单](https://www.world-exchanges.org/membership-events)：
 
-　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
+　　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
 
 
 <div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
