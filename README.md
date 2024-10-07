@@ -1,5 +1,6 @@
 老生常谈 🇨🇳
 ========
+<link rel="canonical" href="https://Laosheng.top/fly/waixuan" />
 
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
