@@ -311,10 +311,8 @@ USA Gov financial authorities
 *	FSB：2023 List of [Global Systemically Important Banks](https://www.fsb.org/2023/11/2023-list-of-global-systemically-important-banks-g-sibs/) (G-SIBs)
 *	新浪金融研究院：[我国认定20家国内系统重要性银行](https://finance.sina.com.cn/jinrong/yh/2023-11-28/doc-imzwepzs7168282.shtml)
 
-　　（此页尚在施工中……）
-
 <h3 id="zibenlun3">《资本论》第三卷</h3>
-《Das_Kapital》III，1894。题为：资本主义生产的总过程。  
+《Das_Kapital》III，1894。题为：[资本主义生产的总过程](https://www.marxists.org/chinese/marx/capital/marxist.org-chinese-marx-capital-vol3-01.htm)。  
 分以下7篇：
 
 * 1 剩余价值转化为利润和剩余价值率转化为利润率
