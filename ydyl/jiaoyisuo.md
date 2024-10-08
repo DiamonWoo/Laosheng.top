@@ -25,7 +25,7 @@
 *	[G-SIBs](#bank){:target="_top"} 🔼 重要性银行
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
 	* 美国[金融有关部门](#usa){:target="_top"} 🏛️
-*	[参考文献](#can){:target="_top"} 
+*	[参考文献](#can){:target="_top"} 《资本论》III
 
 
 <div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
@@ -312,6 +312,19 @@ USA Gov financial authorities
 *	新浪金融研究院：[我国认定20家国内系统重要性银行](https://finance.sina.com.cn/jinrong/yh/2023-11-28/doc-imzwepzs7168282.shtml)
 
 　　（此页尚在施工中……）
+
+<h3 id="zibenlun3">《资本论》第三卷</h3>
+《Das_Kapital》III，1894。题为：资本主义生产的总过程。  
+分以下7篇：
+
+* 1 剩余价值转化为利润和剩余价值率转化为利润率
+* 2 利润转化为平均利润
+* 3 利润率趋向下降的规律
+* 4 商品资本和货币资本转化为商品经营资本和货币经营资本
+* 5 利润分为利息和企业主收入。生息资本
+* 6 超额利润转化为地租
+* 7 各种收入及其源泉
+
 
 　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出建议</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
