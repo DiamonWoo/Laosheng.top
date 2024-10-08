@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~06
+大萌　202307，202404~10
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -80,7 +80,8 @@ Gold Market
 　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
 　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
 
-　　国内可以看到国际黄金价格的商业网站有：
+看国际黄金价格的国内商业网站有：
+
 *	[新浪黄金](https://wap.cj.sina.cn/metal.html)手机版、[桌面版](https://finance.sina.com.cn/nmetal/)内容繁多
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
@@ -129,6 +130,10 @@ Stock Exchange Top25 2021
 
 　　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
 
+看全球证券行情的国内商业网站有：
+
+*	Sina新浪[行情中心](https://gu.sina.cn/#/world)手机版、[桌面版](https://vip.stock.finance.sina.com.cn/mkt/)
+*	[东方财富](https://wap.eastmoney.com/quote/global.html)行情中心手机版、[桌面版](https://quote.eastmoney.com/center/qqzs.html)
 
 <div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -314,7 +319,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.7 	202406
+	环球金融交易所	v0.4.8 	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
