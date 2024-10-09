@@ -120,6 +120,8 @@
 5、老生常谈
 ------------
 
++	<a href="https://jikipedia.com/hope" title="yyds 网络流行语">小鸡词典</a>🐤、
+	<a href="https://dig.chouti.com" title="不正经的资讯社区"><del>抽屉</del></a>
 +	奇趣网站收藏家 <https://fuun.fun/ > 	看看一些新鲜网站
 +	上海篱笆网 <https://www.libaclub.com/>	2002年创立，以装修论坛起家的上海本地生活论坛
 *	网易轻博客<a href="http://Lofter.com/view" title="网易轻博客">Lofter</a>
@@ -254,6 +256,10 @@
 落榜记
 ======
 
+2024/10/10	#第五段  
+*	小鸡词典🐥因迟迟没有官司的进展，服务也没有恢复，暂时下榜；  
+*	抽屉网在202405月宣布关停。
+
 2024/8/25	#全页检查
 *	湾区日报<a href="https://wanqu.co/issues/" title="湾区日报，旧金山IT圈">WanQu.co</a>因停更半年多下榜。
 *	市监总局的机构码数服中心<a href="https://www.cods.org.cn/gscx/" title="全国组织机构统一社会信用代码 %">查机构</a>因常年拥堵下榜。
@@ -340,7 +346,7 @@
 	老生常谈© 2019-2024 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202408
+	提名网站与落榜记	　202410
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
