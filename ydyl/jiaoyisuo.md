@@ -97,44 +97,49 @@ Stock Exchange Top25 2021
 
 　　按2021年市值排行。受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
-*	美国 [纽约证券交易所](https://www.nyse.com) NYSE	　道琼斯指数
-*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）Nasdaq	　纳指
+*	美国 [纽约证券交易所](https://www.nyse.com)🍴 NYSE	　道琼斯指数
+*	美国 [纳斯达克](https://www.nasdaq.com)🍴（纽约）Nasdaq	　纳指
 *	中国 [上海证券交易所](http://www.sse.com.cn)📍 SSE	　上证指数
 *	欧盟 [泛欧交易所](https://www.euroNext.com/zh/)🍴 EuroNext
 *	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX	　日经225
 *	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX	　恒生指数
 *	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE	　深证成指
-*	英国 [伦敦证券交易所](https://www.LondonStockExchange.com) London	　英国富时100
-*	#[印度国家证券交易所](http://www.nse-india.com) NSE
-*	加拿大 [多伦多证券交易所](https://www.tsx.com) TSX
+*	英国 [伦敦证券交易所](https://www.LondonStockExchange.com)🍴 London	　英国富时100
+*	#[印度国家证券交易所](http://www.nse-india.com)🍴 NSE
+*	加拿大 [多伦多证券交易所](https://www.tsx.com)🍴 TSX
 
-　印度 [孟买证券交易所](https://www.bseindia.com/)网页故障？、
+　　印度 [孟买证券交易所](https://www.bseindia.com/)🍴、
 　德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
-	/ 法兰克福证券交易所、  
+	/ 法兰克福证券交易所、
 　[瑞士证券交易所](https://www.six-group.com/en)🍴、
 　[韩国交易所](http://global.krx.co.kr/cn/)📍 KRX、
-　欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)、  
-　澳大利亚 [澳洲证券交易所](https://www2.asx.com.au) ASX、
+　欧盟纳斯达克[OMX北欧交易所](https://www.nasdaqomxnordic.com/)🍴、
+　澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)🍴 ASX、
 　[台湾证券交易所](https://www.twse.com.tw/zh/)📍 TWSE、
-　[巴西证券交易所](https://www.b3.com.br/en_us/)🍴、  
-　[南非证券交易所](https://www.jse.co.za)、
+　[巴西证券交易所](https://www.b3.com.br/en_us/)🍴、
+　[南非证券交易所](https://www.jse.co.za)🍴、
 　[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴、
 　[新加坡交易所](https://www.sgx.com/zh-hans/)📍 SGX
-	/ 2016年收购 波罗的海交易所、  
+	/ 2016年收购 波罗的海交易所、
 　俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)、
-　[泰国证券交易所](https://classic.set.or.th/)🍴、
+　[泰国证券交易所](https://www.set.or.th/en/home)🍴、
 　印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴、
 　[马来西亚证券交易所](https://www.BursaMalaysia.com/cn/)📍
 
 更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
 [成员名单](https://www.world-exchanges.org/membership-events)：
 
-　　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
+　　[瑞士证券](https://www.six-group.com/en/)交易所🍴、　[哈萨克斯坦证券](https://kase.kz/en/)交易所🍴、
+　越南[胡志明市证券](https://www.hsx.vn/)交易所🍴、　[尼日利亚交易所](https://ngxgroup.com/)集团🍴、
+　[菲律宾证券](https://www.pse.com.ph/)交易所🍴……　
 
-看全球证券行情的国内商业网站有：
+看全球证券行情的商业网站有：
 
-*	Sina新浪[行情中心](https://gu.sina.cn/#/world)手机版、[桌面版](https://vip.stock.finance.sina.com.cn/mkt/)
+*	Sina新浪[行情中心](https://gu.sina.cn/#/world)手机版、[桌面版](https://vip.stock.finance.sina.com.cn/mkt/)，
+	[环球股市](https://finance.sina.com.cn/money/globalindex/)
 *	[东方财富](https://wap.eastmoney.com/quote/global.html)行情中心手机版、[桌面版](https://quote.eastmoney.com/center/qqzs.html)
+*	investing 英为财情[全球股指](https://cn.investing.com/indices/major-indices)；
+	#[TradingView](https://cn.TradingView.com/markets/)
 
 <div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -331,7 +336,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.8 	202410
+	环球金融交易所	v0.4.9 	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
