@@ -25,10 +25,11 @@
 *	[G-SIBs](#bank){:target="_top"} 🔼 重要性银行
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
 	* 美国[金融有关部门](#usa){:target="_top"} 🏛️
-*	[参考文献](#can){:target="_top"} 《资本论》III
-
+*	[参考文献](#can){:target="_top"}
+	* 《资本论》III
 
 <div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 全球主要外汇市场 💱
 ---------------
@@ -96,14 +97,14 @@ Stock Exchange Top25 2021
 
 　　按2021年市值排行。受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
-*	美国 [纽约证券交易所](https://www.nyse.com) NYSE
-*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）Nasdaq
-*	中国 [上海证券交易所](http://www.sse.com.cn)📍 SSE
-*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)🍴 EuroNext
-*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX
-*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX
-*	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE
-*	英国 [伦敦证券交易所](https://www.londonstockexchange.com) LondonStockExchange
+*	美国 [纽约证券交易所](https://www.nyse.com) NYSE	　道琼斯指数
+*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）Nasdaq	　纳指
+*	中国 [上海证券交易所](http://www.sse.com.cn)📍 SSE	　上证指数
+*	欧盟 [泛欧交易所](https://www.euroNext.com/zh/)🍴 EuroNext
+*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX	　日经225
+*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX	　恒生指数
+*	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE	　深证成指
+*	英国 [伦敦证券交易所](https://www.LondonStockExchange.com) London	　英国富时100
 *	#[印度国家证券交易所](http://www.nse-india.com) NSE
 *	加拿大 [多伦多证券交易所](https://www.tsx.com) TSX
 
