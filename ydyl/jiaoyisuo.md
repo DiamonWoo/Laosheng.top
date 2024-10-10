@@ -104,7 +104,7 @@ Stock Exchange Top25 2021
 *	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX	　日经225
 *	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX	　恒生指数
 *	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE	　深证成指
-*	英国 [伦敦证券交易所](https://www.LondonStockExchange.com)🍴 London	　英国富时100
+*	英国 [伦敦证券交易所](https://www.LondonStockExchange.com)🍴 LSE	　富时100
 *	#[印度国家证券交易所](http://www.nse-india.com)🍴 NSE
 *	加拿大 [多伦多证券交易所](https://www.tsx.com)🍴 TSX
 
@@ -146,25 +146,24 @@ Stock Exchange Top25 2021
 <h3 >港澳台金融交易所 📍</h3>
 Financial Exchange
 
-* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
-  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
+* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】香港联交所/交易所/香港市场，
+　香港交易及结算所有限公司（HKEX），2000年合并‘联交所’与‘期交所’。
   * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
   * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
-  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息。
   * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
   * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
   * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
   * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
 * [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 * 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-
-* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
-  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
+* 【[台交所](https://www.twse.com.tw/zh/)】台证所/证交所，
+　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
 * [台湾期货交易所](https://www.taifex.com.tw/cht/index)
 * [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
-
 <div align="right" id="bank">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 全球系统重要性银行 🔼
 -----------------
@@ -188,10 +187,10 @@ Systemically Important Banks (G-SIBs)
 	Bank of China 中国银行📍、  
 　	英国 [Barclays](https://www.home.barclays/)巴克莱银行、
 	法国 [BNP Paribas](http://www.bnpParibas.com/)巴黎银行
-	/[中国](https://www.bnpparibas.com.cn/)📍、  
-　	China Construction Bank 建设银行📍、
-	[Deutsche Bank](https://www.db.com/) 德意志银行、  
-　	美国 [Goldman Sachs](https://www.goldmansachs.com/)高盛
+	/[中国](https://www.bnpparibas.com.cn/)📍、
+	China Construction Bank 建设银行📍、  
+　	[Deutsche Bank](https://www.db.com/) 德意志银行、
+	美国 [Goldman Sachs](https://www.goldmansachs.com/)高盛
 	/[大中华区](https://www.goldmansachs.com/worldwide/greater-china/)📍、
 	Industrial and Commercial Bank of China 工商银行📍、  
 　	日本 [Mitsubishi UFJ FG](https://www.mufg.jp/)三菱UFJ金融集团、
@@ -293,7 +292,7 @@ USA Gov financial authorities
 	运输部、能源部、教育部、退伍军人事务部、国土安全部。
 	* 独立行政机构（CIA/**美联储**/国家航天局……）
 
-国务部 [State](https://www.state.gov/)，现任国务卿：布林肯。
+**国务部** [State](https://www.state.gov/)（类似外交部），现任国务卿：布林肯。
 
 **财政部** [Treasury](https://home.treasury.gov/)，现任部长：耶伦♀。公布国债收益率。
 
