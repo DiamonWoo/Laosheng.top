@@ -7,11 +7,12 @@
 24小时滚动新闻
 --------------
 
-*	新浪财经[7x24财经新闻](https://finance.sina.com.cn/7x24/)
-*	[同花顺](https://news.10jqka.com.cn/realtimenews.html)财经直播
+*	[新浪财经](https://finance.sina.com.cn/7x24/)7x24财经新闻
+*	同花顺[财经直播](https://news.10jqka.com.cn/realtimenews.html)
 *	[东方财富](https://kuaixun.eastmoney.com/)全球财经快讯
-*	[中国新闻网](https://www.chinanews.com/cj/gd.shtml)财经
+*	中国新闻网[财经滚动](https://www.chinanews.com/cj/gd.shtml)
 *	[凤凰新闻](https://i.ifeng.com/crawler/1)中心
+*	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)
 
 
 中央媒体
@@ -54,7 +55,7 @@
 
 四川《每日财经新闻》wx
 [每经网 ](https://www.nbd.com.cn)
-[������](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
+[📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
 
 深圳证券时报/券商中国
 
@@ -315,4 +316,3 @@
 	https://Laosheng.top/fly/caijing
 	中文财经云媒体	alpha	202410
 ```
-
