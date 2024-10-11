@@ -1,15 +1,18 @@
-中文财经云媒体
+中文财经云媒体 💹
 ==============
-大萌	©202410
+大萌	© 202410
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fly/caijing" />
 
 		时间就是金钱
 
 24小时滚动新闻
 --------------
 
-*	[新浪财经](https://finance.sina.com.cn/7x24/)7x24财经新闻
-*	同花顺[财经直播](https://news.10jqka.com.cn/realtimenews.html)
+*	新浪财经[7*24小时](https://finance.sina.com.cn/7x24/)全球实时财经新闻
 *	[东方财富](https://kuaixun.eastmoney.com/)全球财经快讯
+*	同花顺7*24小时[全球财经直播](https://news.10jqka.com.cn/realtimenews.html)
+*	[格隆汇](https://www.gelonghui.com/live/)7x24小时市场快讯
 *	中国新闻网[财经滚动](https://www.chinanews.com/cj/gd.shtml)
 *	[凤凰新闻](https://i.ifeng.com/crawler/1)中心
 *	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)
