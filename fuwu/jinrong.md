@@ -1,6 +1,8 @@
 个人理财金融圈 🥯 Finance Circles
 =================
-大萌　	202211-202408 第三稿	<base target="_blank">
+大萌　	202211-202410 第三稿
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/jinrong" />
 
 		防范金融风险还须解决许多重大问题 ———— 党的二十大报告第一部分
 
@@ -35,11 +37,10 @@
 +	中国金融[监管体系](#tixi){:target="_top"} 🔱 /	[中央金融](#zh){:target="_top"}企业 🀄 27家
 	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12=18家中央监管
 	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43❕=56家中央监管c
+	+ 主要[金融交易所](#ex){:target="_top"} 📊	   8+1家
+	  + 国内[其他交易所](#ex2){:target="_top"} 
 	+ **地方监管的**[六类金融机构](#local){:target="_top"}	🍕 7xx家 　▼  
 	（💳城商行￥民营行/📤信托公司/财险㊖与寿险☯/📈证券公司/🥚基金管理人/🎰期货公司）
-	+ 主要[金融交易所](#ex){:target="_top"} 📊	   8家
-	+ [港澳台](#ex2){:target="_top"}金融交易所 📊
-	+ 国内[其他交易所](#ex3){:target="_top"} 
 +	[数据来源](#data){:target="_top"}　	/收录进度 /参考文献
 +	❕：　中央监管的部分金融机构
 +	❗：　中央汇金公司控参股的金融机构
@@ -187,7 +188,7 @@ Banks
 
 🀄<b>[工商银行](https://www.icbc.com.cn "中国工商银行股份有限公司")</b>❗⠀95588	⠀[全国分行](https://www.icbc.com.cn/ICBC/分支机构/default.htm)	⠀[收费标准](https://www.icbc.com.cn/ICBC/金融信息/资费公告/中国工商银行服务价目表电子银行2012版.htm)	⠀[<b>外汇</b>](https://www.icbc.com.cn/ICBC/金融信息/行情数据/人民币即期外汇牌价/)⠀[黄金](https://www.icbc.com.cn/column/1438058319654043686.html)⠀[理财](https://www.icbc.com.cn/ICBC/网上理财/default.htm)	⠀[网页登录](https://mybank.icbc.com.cn/)	<sup>[交易限额](https://www.icbc.com.cn/ICBC/html/download/wyfwxy/wsyh_jygz.htm)</sup>  
 🀄<b>[农业银行](https://www.abchina.com "中国农业银行股份有限公司")</b>❗⠀95599	⠀[全国分行](https://www.abchina.com/cn/AboutABC/nonghzx/fzjg/jnbranch_org/)	⠀[收费标准](https://www.abchina.com/cn/PublicPlate/sfbz/rmbjs/)	⠀[外汇](https://ewealth.abchina.com/ForeignExchange/)⠀[<b>黄金</b>](https://ewealth.abchina.com/Gold/)⠀[理财](https://ewealth.abchina.com/fs/filter/)	⠀[网页登录](https://perbank.abchina.com/EbankSite/startup.do)	<sup></sup>  
-🀄<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>❗⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇](https://www.boc.cn/sourcedb/whpj/)⠀黄金⠀[理财](https://www.boc.cn/fimarkets)	⠀[网页登录](https://ebsnew.boc.cn/)	<sup>[交易限额](https://www.boc.cn/ebanking/service/cs1/200810/t20081022_990706.html)</sup>  
+🀄<b>[中国银行](https://www.boc.cn "中国银行股份有限公司")</b>❗⠀95566	⠀[全国分行](https://www.boc.cn/aboutboc/ab6/200812/t20081211_143780.html)	⠀收费标准	⠀[外汇](https://www.boc.cn/sourcedb/whpj/)⠀黄金⠀[理财](https://www.boc.cn/fimarkets)	⠀[网页登录](https://ebsnew.boc.cn/)	<sup>[全球子站](https://www.boc.cn/custserv/cs1/201312/t20131230_2805579.html)</sup>  
 🀄<b>[建设银行](http://www.ccb.com "中国建设银行股份有限公司")</b>❗⠀95533	⠀[全国分行](http://www.ccb.com/cn/home/map/branchSearch.html)	⠀[收费标准](http://store.ccb.com/cn/public/20141027_1414371456.html)	⠀[<b>外汇</b>](http://forex2.ccb.com/chn/forex/exchange-quotations.shtml)⠀[黄金](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)⠀[理财](http://finance1.ccb.com/cn/finance/index.html)	⠀[网页登录](https://ebanking1.ccb.com.cn/)	<sup></sup>  
 🀄<b>[交通银行](https://www.bankcomm.com/BankCommSite "交通银行股份有限公司")</b>⠀95559	⠀[全国分行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7804/list.shtml?channelId=7804)	⠀[收费标准](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7924/2600718/2615550.shtml)	⠀[外汇](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml)⠀黄金⠀[<b>理财</b>](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7226/7266/7281/7282/list.shtml?channelId=7226)	⠀[网页登录](https://pbank.bankcomm.cn/personbank/index.html)	<sup></sup>  
 👔<b>[邮储银行](https://www.psbc.com "中国邮政储蓄银行股份有限公司")</b>⠀95580	⠀[全国分行](https://www.psbc.com/cn/fhpd/)	⠀[收费标准](https://www.psbc.com/cn/common/bjfw/fwjmb_531/)	⠀[外汇](https://www.psbc.com/cn/common/bjfw/whpjcx/)⠀[<del>黄金</del>](https://www.psbc.com/cn/grfw/tzlc/gjs/cpxx_204/gjsjc/)⠀[<b>理财</b>](https://www.psbc.com/cn/grfw/tzlc/lc/)	⠀[网页登录](https://pbank.psbc.com/perbank/)	<sup></sup>  
@@ -201,7 +202,7 @@ Banks
 ¥<b>[民生银行](https://www.cmbc.com.cn "中国民生银行股份有限公司")</b>⠀95568	北京西城⠀[全国分行](https://www.cmbc.com.cn/sy/lxwm/fxwz/)	⠀[收费标准](https://www.cmbc.com.cn/sy/khfw/fwjmb/zfzdjzfdj/)	⠀[个人投资](https://www.cmbc.com.cn/grkh/dxlc/cpcs/)	⠀[网页登录](https://nper.cmbc.com.cn/pweb/static/login.html)	<sup></sup>  
 <b>[华夏银行](https://www.hxb.com.cn "华夏银行股份有限公司")</b>⠀95577	北京东城⠀[全国分行](https://www.hxb.com.cn/jrhx/lxwm/lxfs/)	⠀收费标准	⠀[个人投资](https://www.hxb.com.cn/grjr/)	⠀[网页登录](https://sbank.hxb.com.cn/easybanking/jsp/login/login.jsp)	<sup></sup>  
 ¥<b>[平安银行](https://bank.pingan.com "平安银行股份有限公司")</b>⠀95511-3	广东深圳⠀[全国分行](https://b.pingan.com.cn/papb/ebank/pc-map/geren/fuwuwangdian/map.shtml)	⠀收费标准	⠀[个人投资](https://bank.pingan.com/geren/touzilicai/)	⠀[网页登录](https://bank.pingan.com.cn/m/main/)	<sup>[网站地图](https://bank.pingan.com/sitemap.shtml)</sup>  
-<b>[兴业银行](https://www.cib.com.cn "兴业银行股份有限公司")</b>⠀95561	福建福州⠀[全国分行](https://branch.cib.com.cn)	⠀[收费标准](https://www.cib.com.cn/cn/aboutCIB/about/charges/)	⠀[个人投资](https://www.cib.com.cn/cn/personal/wealth-management/)	⠀[网页登录](https://personalbank.cib.com.cn/pers/main/login.do)	<sup>[本地网点](https://map.cib.com.cn)</sup>  
+<b>[兴业银行](https://www.cib.com.cn "兴业银行股份有限公司")</b>⠀95561	福建福州⠀[全国分行](https://branch.cib.com.cn)	⠀[收费标准](https://www.cib.com.cn/cn/aboutCIB/about/charges/)	⠀[个人投资](https://wealth.cib.com.cn/)	⠀[网页登录](https://personalbank.cib.com.cn/pers/main/login.do)	<sup>[本地网点](https://map.cib.com.cn)</sup>  
 <b>[广发银行](http://www.cgbchina.com.cn "广发银行股份有限公司")</b>⠀95508	广东广州⠀[全国分行](http://www.cgbchina.com.cn/Channel/11830638)	⠀[收费标准](http://www.cgbchina.com.cn/Channel/19169905)	⠀[个人投资](http://www.cgbchina.com.cn/Channel/13225626)	⠀[网页登录](https://ebanks.cgbchina.com.cn/perbank/)	<sup></sup>  
 <b>[渤海银行](http://www.cbhb.com.cn "渤海银行股份有限公司")</b>⠀95541	天津河东⠀[全国分行](http://www.cbhb.com.cn/bhbank/S101/wangdianjiatm/)	⠀[收费标准](http://www.cbhb.com.cn/bhbank/S101/cbhbfwsfbz/)	⠀[个人投资](https://www.cbhb.com.cn/cbhbank/gryw/dxyw/dxlc/bylc/)	⠀[网页登录](https://ebank.cbhb.com.cn/pWeb)	<sup></sup>  
 ¥<b>[浙商银行](http://www.czbank.com "浙商银行股份有限公司")</b>⠀95527	浙江杭州⠀[全国分行](http://www.czbank.com/cn/map/)	⠀[收费标准](http://www.czbank.com/cn/rate/jgfwsc1/)	⠀[个人投资](http://www.czbank.com/cn/product/)	⠀[网页登录](https://perbank.czbank.com/PERBANK/logon.jsp)	<sup></sup>  
@@ -300,6 +301,69 @@ Insurance
 [华泰保险经纪](http://www.huatai-serv.com)、
 [达信(中国)保险经纪](https://www.marsh.com/cn/)有限公司、
 [水滴保](https://www.sdbao.com)-水滴旗下保险经纪平台
+
+<div id="ex" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+主要金融交易所 📊
+------------------
+Financial Exchange
+
+　　❕证监会直接监管的8个交易所。　
+
+* 【[上交所](http://www.sse.com.cn)】 上海证券交易所🚩 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
+	- 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
+	- [债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支
+	- [基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
+
+* 【[深交所](https://www.szse.cn/)】 深圳证券交易所🚩 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
+	- 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)~30xxxx
+	- [国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
+	- [基金列表](https://www.szse.cn/market/product/list/all/)近600支
+
+* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
+	- 上市公司超 120家　8xxxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)/43xxxx　全国中小企业股份转让系统
+	- [债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/公司债）
+	- 可转债
+
+* 〖**中金所**〗　[中国金融期货交易所](http://www.cffex.com.cn)
+* 〖上期所〗 [上海期货交易所](https://www.shfe.com.cn)
+    * 上海国际能源交易中心
+* 〖郑商所〗 [郑州商品交易所](http://www.czce.com.cn)
+* 〖大商所〗 [大连商品交易所](http://www.dce.com.cn)
+* 〖广期所〗 [广州期货交易所](http://www.gfex.com.cn)
+
+　　香港特区政府/[金融管理局](https://www.hkma.gov.hk/gb_chi)监管：
+
+* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港交易及结算所有限公司（HKEX）
+	- 上市公司约2600家　1-5位数字代号，(股本)[证券名单](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)，有市值信息与股价走势。
+	- [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+	- 2012年收购【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)
+	- [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
+
+　　<i>更多港澳台交易所、全球主要交易所，请见一带一路系列/[环球金](../ydyl/jiaoyisuo)页面</i>。
+
+<div id="ex2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+<h3>国内其他交易所</h3>Exchanges
+
+*	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
+*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
+*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
+*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
+*	[天津产权交易中心](https://www.tpre.cn)
+*	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
+*	[天津国际矿业权交易所](http://www.cmextj.com)
+*	(天津)[渤海商品交易所](https://www.boce.cn/)
+*	[天津文化艺术品交易所](http://www.tjcae.com)
+*	[天津排放权交易所](https://www.chinatcx.com.cn)
+*	[上海钻石交易所](https://www.cnsde.com/)
+*	[上海环境能源交易所](https://www.cneeex.com)
+*	[广州碳排放交易所](https://www.cnemission.com/)　广碳所，广州交易所集团
+
+疑似已关闭交易所：  
+　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+
 
 <div id="local" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -434,95 +498,12 @@ Insurance
 　💳乌鲁木齐银行　💳新疆银行　💳昆仑银行　💳哈密市商业银行　💳库尔勒银行　💳新疆汇和银行　📤华融国际信托　📤长城新盛信托　㊖中石油专属财产保险　📈申万宏源西部证券　📈申万宏源证券承销保荐　🎰云财富期货　🎰金石期货
 
 
-		网址是否加入待定，欢迎留言……
+		网址加入待定，欢迎留言……
 
 ----
 
-<div id="ex" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-主要金融交易所 📊
-------------------
-Financial Exchange
-
-　　　❕证监会直接监管的8个交易所。　
-
-* 【[上交所](http://www.sse.com.cn)】 上海证券交易所🚩 /沪市 SSE　[上证指数](http://www.sse.com.cn/market/price/trends/)
-	- 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
-	- [债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支
-	- [基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-
-* 【[深交所](https://www.szse.cn/)】 深圳证券交易所🚩 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
-	- 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)~30xxxx
-	- [国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
-	- [基金列表](https://www.szse.cn/market/product/list/all/)近600支
-
-* 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
-	- 上市公司超 120家　8xxxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)/43xxxx　全国中小企业股份转让系统
-	- [债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/公司债）
-	- 可转债
-
-* 〖**中金所**〗　[中国金融期货交易所](http://www.cffex.com.cn)
-* 〖上期所〗 [上海期货交易所](https://www.shfe.com.cn)
-    * 上海国际能源交易中心
-* 〖郑商所〗 [郑州商品交易所](http://www.czce.com.cn)
-* 〖大商所〗 [大连商品交易所](http://www.dce.com.cn)
-* 〖广期所〗 [广州期货交易所](http://www.gfex.com.cn)
-
-
-<div id="ex2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-港澳台金融交易所 📍
-------------------
-
-香港特区政府 / [香港金融管理局](https://www.hkma.gov.hk/gb_chi) HKMA，Hong Kong Monetary Authority，简称金管局
-*	【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
-  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
-	* 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
-	* 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
-	* [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
-	* 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
-	* 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
-	* 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
-	* [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
-* [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
-
-澳门特区政府 / [澳门金融管理局](https://www.amcm.gov.mo)
-*	澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-
-台湾金融监督管理委员会，简称“[金管会](https://www.fsc.gov.tw)”
-*	【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
-  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
-*	[台湾期货交易所](https://www.taifex.com.tw/cht/index)
-*	[柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
-
-　<i>境外主要交易所，请见[环球金融交易所](../ydyl/jiaoyisuo)页面</i>
-
-
-<div id="ex3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-国内其他交易所
--------------
-Exchanges
-
-*	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
-*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
-*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
-*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
-*	[天津产权交易中心](https://www.tpre.cn)
-*	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
-*	[天津国际矿业权交易所](http://www.cmextj.com)
-*	(天津)[渤海商品交易所](https://www.boce.cn/)
-*	[天津文化艺术品交易所](http://www.tjcae.com)
-*	[天津排放权交易所](https://www.chinatcx.com.cn)
-*	[上海钻石交易所](https://www.cnsde.com/)
-*	[上海环境能源交易所](https://www.cneeex.com)
-*	[广州碳排放交易所](https://www.cnemission.com/)　广碳所，广州交易所集团
-
-疑似已关闭交易所：  
-　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
-
-
 <div id="data" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
 
 数据来源
 --------
@@ -560,8 +541,8 @@ Exchanges
 ```
 	老生常谈© 2019-2024 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	个人理财金融圈 Version 0.8.4	202409
-	https://laosheng.top/fuwu/jinrong
+	个人理财金融圈 Version 0.8.5	202410
+	https://Laosheng.top/fuwu/jinrong
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
