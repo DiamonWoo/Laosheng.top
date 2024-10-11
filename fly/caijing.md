@@ -14,8 +14,13 @@
 *	同花顺7*24小时[全球财经直播](https://news.10jqka.com.cn/realtimenews.html)
 *	[格隆汇](https://www.gelonghui.com/live/)7x24小时市场快讯
 *	中国新闻网[财经滚动](https://www.chinanews.com/cj/gd.shtml)
-*	[凤凰新闻](https://i.ifeng.com/crawler/1)中心
+*	[金融界](https://m.jrj.com.cn/flash)flash
 *	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)
+*	https://www.fxwe.com/live
+*	https://www.123.com.cn/live/
+*	https://724.guzhang.com/	列举了消息来源
+*	http://live.caijingtt.com.cn/
+*	证券之星[快讯](https://express.stockstar.com/)
 
 
 中央媒体
