@@ -26,50 +26,6 @@
 	[环球金融](http://live.caijingtt.com.cn/)？主体不明……
 
 
-中央媒体
---------
-
-新华社：
-	中国[财富传媒](http://www.cfmgroup.com.cn)集团/[中国财富网](https://www.cfbond.com)
-	中国证券报
-	上海证券报
-	经济参考报
-	新华财经/中国金融信息网
-	
-
-人民日报：
-	(深圳)[证券时报](https://www.stcn.com)（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
-	
-
-经济日报：
-	中国经济网
-
-
-中国广播电视总台：
-	央视/CCTV-2 财经
-	央广/
-
-
-
-地方财经云媒体
---------------
-
-　北京商报社
-　江苏经济报社
-
-上海：
-	第一财经传媒
-
-广东：
-	南方财经全媒体集团
-
-四川：
-	《每日财经新闻》wx
-[每经网 ](https://www.nbd.com.cn)
-[📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
-	四川经济日报社
-
-
 国务院部门主管
 --------------
 
@@ -91,6 +47,48 @@
 	[中国经济时报📰](https://jjsb.cet.com.cn/) / [中国经济新闻网](https://www.cet.com.cn)
 
 
+中央媒体
+--------
+
+人民日报：
+	(深圳)[证券时报](https://www.stcn.com)（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
+	
+
+新华社：
+	中国[财富传媒](http://www.cfmgroup.com.cn)集团/[中国财富网](https://www.cfbond.com)
+	中国证券报
+	上海证券报
+	经济参考报
+	新华财经/中国金融信息网
+	
+
+中国广播电视总台：
+	央视/CCTV-2 财经
+	央广/
+
+经济日报：
+	中国经济网
+
+
+地方财经云媒体
+--------------
+
+　北京商报社
+　江苏经济报社
+
+上海：
+	第一财经传媒
+
+广东：
+	南方财经全媒体集团
+
+四川：
+	《每日财经新闻》wx
+[每经网 ](https://www.nbd.com.cn)
+[📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
+	四川经济日报社
+
+
 
 央企主管云媒体
 --------------
@@ -100,8 +98,8 @@
 
 
 
-境外中文云媒体
---------------
+境外中文财经
+------------
 
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
