@@ -1,12 +1,10 @@
-老生常谈 🇨🇳
+老生常谈 🍻
 ========
-<link rel="canonical" href="https://Laosheng.top/fly/waixuan" />
+<link rel="canonical" href="https://Laosheng.top" />
 
 		节约您的搜寻时间，老生常谈 ⚡ https://Laosheng.top
 
 　　这里是民间网站[老生常谈](https://Laosheng.top)，以‘集成网页’为特色的**研究型导航网站**。 本站**收录**四大系列的官方**网址**：法律、政务（经济/民生）、新闻、全球化。这些官网有的是信息披露的法定媒体，有的是网络新闻的稿源单位。快速找到这些官网，有助于网民分辨信息真伪、节省学习时间，投入国家建设。
-
-<p align="center" style="background-color: red; color: yellow;">💐 热烈庆祝新中国成立75周年！💐</p>
 
 　　大萌为这些官方网址**设计**高质量的结构性目录，创作容易检索的[大规模集成网页](https://cn.bing.com/search?q=大规模集成网页){:target="_blank"}(LSIP)<sup>⇗</sup>。希望老生常谈网站能帮助网民“快速找到有效信息”，为“数字中国”描绘新时代的**知识图谱**。　本站摘要如下，详细内容请进入各系列页面：
 
@@ -52,7 +50,7 @@
   + ……
 
 
-法律支持
+法律支持 🇨🇳
 --------
 
 　　**《中华人民共和国宪法》**[第二章](https://laosheng.top/falv/2018-xianfa.txt#第二章公民的基本权利和义务)/第四十七条/第二款：
@@ -61,6 +59,8 @@
 		给以鼓励和帮助。
 
 　　老生常谈网站诞生于新冠疫情初期，由作者大萌于2020年发布。网站不嵌广告、不发红包，努力保持阅读舒适度，争取在尊重知识产权方面做出表率。　请各方读者转发与评论，对大萌[依法鼓励](https://Laosheng.top/c/author "联系作者")！在这个被App割裂的互联网，让我们重新发现万维网（WWW）的价值。
+
+<p align="center" style="background-color: red; color: yellow;">💐 热烈庆祝新中国成立75周年！💐</p>
 
 
 更多[老生常谈…](c/)
@@ -106,6 +106,6 @@
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.3.5 202410
+	https://Laosheng.top	v3.3.6 202410
 
-🎁🎅🛍💎🎀🥳💐☕
+🎁🎅🛍💎🎀🥳💐☕🍸🍹🍺🍻🥂🍷🥃🍵🍇🍉
