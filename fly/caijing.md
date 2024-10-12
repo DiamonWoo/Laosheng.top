@@ -4,51 +4,64 @@
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/caijing" />
 
-		时间就是金钱
+		时间就是金钱 —— 本杰明·富兰克林
 
 24小时滚动新闻
 --------------
 
 *	新浪财经[7*24小时](https://finance.sina.com.cn/7x24/)全球实时财经新闻
 *	[东方财富](https://kuaixun.eastmoney.com/)全球财经快讯
-*	同花顺7*24小时[全球财经直播](https://news.10jqka.com.cn/realtimenews.html)
-*	[格隆汇](https://www.gelonghui.com/live/)7x24小时市场快讯
-*	中国新闻网[财经滚动](https://www.chinanews.com/cj/gd.shtml)
-*	[金融界](https://m.jrj.com.cn/flash)flash
-*	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)
-*	https://www.fxwe.com/live
-*	https://www.123.com.cn/live/
-*	https://724.guzhang.com/	列举了消息来源
-*	http://live.caijingtt.com.cn/
-*	证券之星[快讯](https://express.stockstar.com/)
+*	上海[财联社](https://www.cls.cn/telegraph)电报
+*	[金融界App](https://m.jrj.com.cn/flash) flash/[PC版](https://24h.jrj.com.cn/newsFlash)
+*	[鼓掌财经](https://724.guzhang.com)	有消息来源
+
+备选：  
+　	[同花顺](https://news.10jqka.com.cn/realtimenews.html)7*24小时、
+	[格隆汇](https://www.gelonghui.com/live/)、
+	[中国新闻网](https://www.chinanews.com/cj/gd.shtml)、
+	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)、
+	香港[富威FXWe](https://www.fxwe.com/live)交易社区、
+	[云掌财经](https://www.123.com.cn/live/)、
+	证券之星[快讯](https://express.stockstar.com/)、
+	[环球金融](http://live.caijingtt.com.cn/)？主体不明……
 
 
 中央媒体
 --------
 
-新华社
-	中国财富网/中国证券报/上海证券报/经济参考报/新华财经/
-	https://www.cfbond.com/
-
-人民日报
-	 证券时报（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
-	https://www.stcn.com/
-
-经济日报
+新华社：
+	中国[财富传媒](http://www.cfmgroup.com.cn)集团/[中国财富网](https://www.cfbond.com)
+	中国证券报
+	上海证券报
+	经济参考报
+	新华财经/中国金融信息网
 	
 
-总台央视
-	CCTV-2 财经
+人民日报：
+	(深圳)[证券时报](https://www.stcn.com)（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
+	
+
+经济日报：
+	中国经济网
+
+
+中国广播电视总台：
+	央视/CCTV-2 财经
+	央广/
+
+
+
 
 
 国务院部门
 ----------
 
 发改委
-商务部
 财政部
-中国人民银行
 审计署
+中国人民银行/金融时报
+商务部
+
 
 
 央企主管
@@ -61,11 +74,14 @@
 地方财经云媒体
 --------------
 
-四川《每日财经新闻》wx
+上海：	第一财经传媒
+
+广东：	南方财经全媒体集团
+
+四川：	《每日财经新闻》wx
 [每经网 ](https://www.nbd.com.cn)
 [📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
 
-深圳证券时报/券商中国
 
 
 参考文献
@@ -75,17 +91,17 @@
 *	创业板信息披露网站
 *	中国经济传媒协会	[会员介绍](http://www.acep.org.cn/hyjs/)：
 
-　经济日报社
-　人民网
-　新华网
-　中国经济网
-　《经济参考报》社
-　金融时报社
-　央广网
-　深圳证券时报社
-　新浪财经
-　上海第一财经传媒
-　南方财经全媒体集团
+　√经济日报社
+　√人民网
+　√新华网
+　√中国经济网
+　√《经济参考报》社
+　√金融时报社
+　√央广网
+　√证券时报社深圳
+　√新浪财经
+　√上海第一财经传媒
+　√南方财经全媒体集团
 　中国银行保险传媒
 　中国经济时报社
 　中国食品安全报社
