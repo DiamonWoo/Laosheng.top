@@ -6,6 +6,10 @@
 
 		时间就是金钱 —— 本杰明·富兰克林
 
+<div align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fly" target="_top">【云媒体】</a>/财经云</div>
+
+
 24小时滚动新闻
 --------------
 
@@ -89,7 +93,6 @@
 	四川经济日报社
 
 
-
 央企主管云媒体
 --------------
 
@@ -97,13 +100,11 @@
 	中国基金报
 
 
-
 境外中文财经
 ------------
 
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
-
 
 
 参考文献
@@ -353,7 +354,6 @@
 　中国民营科技实业家协会
 　速途网
 　金融界网
-
 
 
 ```
