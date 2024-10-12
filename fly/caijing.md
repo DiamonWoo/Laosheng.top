@@ -7,7 +7,7 @@
 		时间就是金钱 —— 本杰明·富兰克林
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fly" target="_top">【云媒体】</a>/财经云</div>
+⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/财经云</div>
 
 
 24小时滚动新闻
@@ -105,6 +105,9 @@
 
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
+
+
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 
 参考文献
@@ -355,6 +358,9 @@
 　速途网
 　金融界网
 
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
+
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
 	老生常谈 © 2019-2024 大萌  知识共享
