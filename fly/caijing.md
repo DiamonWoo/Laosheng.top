@@ -51,36 +51,60 @@
 
 
 
+地方财经云媒体
+--------------
+
+　北京商报社
+　江苏经济报社
+
+上海：
+	第一财经传媒
+
+广东：
+	南方财经全媒体集团
+
+四川：
+	《每日财经新闻》wx
+[每经网 ](https://www.nbd.com.cn)
+[📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
+	四川经济日报社
 
 
-国务院部门
-----------
+国务院部门主管
+--------------
 
 发改委
-财政部
 审计署
-中国人民银行/金融时报
+财政部
 商务部
 
+[中国人民银行](http://www.pbc.gov.cn)：
+	[金融时报📰 ](https://epaper.FinancialNews.com.cn)/[中国金融新闻网](https://www.financialNews.com.cn)
+
+国家[金监总局](https://www.cbirc.gov.cn)：
+	[中国银行保险报](http://www.cbimc.cn/)网
+
+中国[证监会](http://www.csrc.gov.cn)：
+	？
+
+国务院[发展研究中心](https://www.drc.gov.cn)：
+	[中国经济时报📰](https://jjsb.cet.com.cn/) / [中国经济新闻网](https://www.cet.com.cn)
 
 
-央企主管
---------
+
+央企主管云媒体
+--------------
 
 紫荆文化集团
 	中国基金报
 
 
-地方财经云媒体
+
+境外中文云媒体
 --------------
 
-上海：	第一财经传媒
-
-广东：	南方财经全媒体集团
-
-四川：	《每日财经新闻》wx
-[每经网 ](https://www.nbd.com.cn)
-[📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
+*	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
+*	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
 
 
 
@@ -91,23 +115,23 @@
 *	创业板信息披露网站
 *	中国经济传媒协会	[会员介绍](http://www.acep.org.cn/hyjs/)：
 
-　√经济日报社
-　√人民网
-　√新华网
-　√中国经济网
-　√《经济参考报》社
-　√金融时报社
-　√央广网
-　√证券时报社深圳
-　√新浪财经
-　√上海第一财经传媒
-　√南方财经全媒体集团
-　中国银行保险传媒
-　中国经济时报社
+　√	经济日报社
+　√	人民网
+　√	新华网
+　√	中国经济网
+　√	《经济参考报》社
+　√	金融时报社
+　√	央广网
+　√	证券时报社深圳
+　√	新浪财经
+　√	上海第一财经传媒
+　√	南方财经全媒体集团
+　√	中国银行保险传媒
+　√	中国经济时报社
 　中国食品安全报社
-　北京商报社
-　江苏经济报社
-　四川经济日报社
+　√	北京商报社
+　√	江苏经济报社
+　√	四川经济日报社
 　《中华建设》杂志社
 　中国发展改革报社
 　中国证券报
@@ -338,5 +362,5 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体	alpha	202410
+	中文财经云媒体	Beta	202410
 ```
