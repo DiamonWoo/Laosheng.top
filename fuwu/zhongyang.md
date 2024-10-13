@@ -1,6 +1,8 @@
 中央有关部门集 🕰
 ================
-大萌 2021-2023，2024（更新中）	<base target="_blank">
+大萌 2021-2023，2024（更新中）
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/zhongyang" />
 
 		一切国家机关和国家工作人员必须依靠人民的支持……接受人民的监督，努力为人民服务。（宪法第27条）
 
@@ -11,7 +13,7 @@
 　　中央有少数部门不设公开网站，比如中央军委、中央办公厅；还有中宣部，虽然每个所属的新闻媒体都有网站，但中宣部本身不设网站。　地方人民政府与国务院的机构设置基本对应，但并不完全一致。比较典型的是，国务院不设‘城管’，地方城管一般设在‘住建局’。新冠病毒疫情以来，各部门避免人群聚集，查验手续增加，这些不见面的联系群众渠道将发挥更大作用。
 
 <div align="right" id="mulu">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/中央有关部门集
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/部门集
 </div>
 
 有关部门总目
@@ -30,6 +32,7 @@
 -------
 
 		* 2024/2/22，全国社会工作部部长、信访局局长座谈会在京召开。
+		* 2023/8/15，中央科技委员会已经召开了第一次会议。
 		* 2023/5/19，国家金融监督管理总局 挂牌，网站沿用原银保监会。
 		* 2023/3/7，国家数据局 成立，由国务院发改委管理，网址待公布。
 		* 2023/3/7，国家信访局 升级为国务院直属机构，原属国务院办公厅。
@@ -433,7 +436,7 @@
 	- 《参考消息》、📰《中国证券报》等，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
 	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
 
-* 中央广播电视总台	　CMG 暂无官网
+* 中央广播电视总台	　[CMG总台之声](https://www.cctv.com/gyys/)/[总经理室](https://1118.cctv.com/chinese/)
 	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
 	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
 
@@ -487,7 +490,9 @@
 
 * 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/) 市监总局
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
-	-  《中国市场监管报》、📰[《中国质量报》](http://epaper.cqn.com.cn)、《中国消费者报》
+	- [《中国市场监管报》](http://pc.cmrnn.com.cn/)📰 / [官网](http://www.cmrnn.com.cn/)、
+	[《中国质量报》](http://epaper.cqn.com.cn)📰 / [官网](https://www.cqn.com.cn/)、
+	[《中国消费者报》](https://zxb.ccn.com.cn/)📰 / [官网](https://www.ccn.com.cn/)
 	- [我要查](http://www.samr.gov.cn/fw/wyc)：企业名录、[企业信用](http://www.gsxt.gov.cn/index.html)、直销网点、食品安全、医疗广告……
 	- 📠 400-807-6000 全国组织机构[统一社会信用代码](https://www.cods.org.cn)数据服务中心
 	- 国家药品监督管理局	　 [NMPA.gov.cn](https://www.nmpa.gov.cn/) 药监局
@@ -512,11 +517,12 @@
 * 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
 
 * 国家税务总局	　 [ChinaTax.gov.cn](http://www.chinatax.gov.cn/)
+	[《中国税务报》](http://www.ctaxnews.com.cn/node_34.html)📰
 	- 📞 12366 [全纳税服务平台](https://12366.chinatax.gov.cn/) 设分中心
 	- 📠 010-61986755 [税收违法行为检举](http://hd.chinatax.gov.cn/jzxx/sswfxw.html)，同时接受书信、传真等形式检举：涉嫌偷税，逃避追缴欠税，骗税，虚开、伪造、非法提供、非法取得发票。
 
 * 国家统计局	　 [Stats.gov.cn](http://www.stats.gov.cn/)
-	📰[《中国信息报》](http://www.zgxxb.com.cn/epaper)
+	[《中国信息报》](http://www.zgxxb.com.cn/)📰
 	- 📠 010-68512113 统计违法行为的举报，接受电子邮件和[网页举报](http://www.stats.gov.cn/tjfw/tsjb/)。	　 [统计督察情况](http://www.stats.gov.cn/ztjc/tjfzjs/tjdc/)
 
 * 国家医疗保障局	　 [NHSA.gov.cn](http://www.nhsa.gov.cn/) 医保局
@@ -539,10 +545,13 @@
 * 国家反垄断局	　 [网址待公布](https://www.samr.gov.cn/xw/zj/202111/t20211118_336974.html) 2021年11月亮相，承办国务院反垄断委员会日常工作。
 	- 。。。
 
-* 中国银行保险监督管理委员会	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 银监会/保监会2018整合
-	- ☎️ 12378 银行保险业务消费者投诉电话（工作时间）[互动交流](http://www.cbirc.gov.cn/cn/view/pages/hudongjiaoliu/hudongjiaoliu.html) 征求意见
-	- 银保监会 [在线服务](http://www.cbirc.gov.cn/cn/view/pages/zaixianfuwu/zaixianfuwu.html)
+* 国家金融监督管理总局	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 金监总局 2023年取代2018年整合的银保监会
+	- ☎️ 12363 银行业务投诉电话
+	- ☎️ 12378 银行/保险业务投诉电话
+	- ☎️ 12386 证券投资业务投诉电话
+	- 📠 010-66279113 信访举报咨询（工作时间）
 	- 全国36个派出机构
+	- 金融、保险、保险中介 [许可证查询](https://xkz.nfra.gov.cn/)
 
 * 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
 	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
@@ -582,7 +591,7 @@
 	- 📰[《中国改革报》](http://www.cfgw.net.cn/epaper)、📰[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
 	- 国家信息中心[]()	　 [中国经济信息网](https://www.cei.cn)（中经网）、[一带一路网](http://www.zgydyl.org)
 	- 国家公用信息中心[]()	　 [信用中国网](https://www.creditchina.gov.cn/xinyongfuwu/)（与人民银行共同指导）
-	- 〖[国家能源局](http://www.nea.gov.cn)〗	　 📰[《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)
+	- 〖[国家能源局](http://www.nea.gov.cn)〗	　
 	  - ☎️ 12398 [电力监管投诉举报](http://www.nea.gov.cn/n_home/n_gzfw/rx12398)热线电话：乱收电费/偷电/违反《电力监管条例》
 	- 〖国家粮食和物资储备局〗
 
@@ -781,7 +790,8 @@ MCT，Ministry of Culture and Tourism
 * 🧮 审计署	　 [AUDIT.gov.cn](http://www.audit.gov.cn  ) 【中共中央审计委员会】办公室设在审计署
 	- [审计常用法律法规](http://www.audit.gov.cn/n6/n36/)
 	- 审计专业技术资格考试
-	- 中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)
+	- 中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)、
+	《中国审计报》
 
 <div id="5.5" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -821,10 +831,10 @@ MCT，Ministry of Culture and Tourism
 图例[]()
 ----
 
-* 📰 提供网上免费阅读的数字报 	 　*暂计54个*
+* 📰 提供网上免费阅读的数字报 	 　*暂计56个*
 * ☎️ 国家机关电话号码	 　*暂计19个*
 * 📞 12345电话热线及并行号码、分中心号码	 　*暂计21个*
-* 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计14个*
+* 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计15个*
 *  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->
 * 〖国务院部委管理的国家局〗
@@ -834,10 +844,10 @@ MCT，Ministry of Culture and Tourism
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
-	老生常谈© 2019-2023 大萌   知识共享许可
+	老生常谈© 2019-2024 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
-	https://laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.1	202407
+	https://Laosheng.top/fuwu/zhongyang
+	中央有关部门集	v1.4.2	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
