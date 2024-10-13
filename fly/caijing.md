@@ -36,34 +36,25 @@
 * [发改委](https://www.ndrc.gov.cn)：
 	[《中国改革报》](http://www.cfgw.net.cn/epaper/)📰
 	[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)📰、
-
 * [审计署](http://www.audit.gov.cn)：《中国审计报》
-
 * [财政部](http://www.mof.gov.cn)：
 	《中国财经报》[官网](http://www.cfen.com.cn) /
 	📰[三份电子报](http://www.cfen.com.cn/dzb)：《中国财经报》《中国会计报》《中国政府采购报》
-
 * [商务部](http://www.mofcom.gov.cn)：
 	[《国际商报》](http://epa.comnews.cn/)📰 /
 	[中国商务新闻网](https://www.comnews.cn/)
-
 * [中国人民银行](http://www.pbc.gov.cn)：
 	[《金融时报》](https://epaper.FinancialNews.com.cn)📰 /[中国金融新闻网](https://www.financialNews.com.cn)
-
 * 国家[金监总局](https://www.cbirc.gov.cn)：
 	[《中国银行保险报》](http://www.cbimc.cn/)网
-
 * 中国[证监会](http://www.csrc.gov.cn)：
 	*证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
-
 * [市监总局](http://www.samr.gov.cn/)：
 	[《中国市场监管报》](http://pc.cmrnn.com.cn/)📰 / [官网](http://www.cmrnn.com.cn/)、
 	[《中国质量报》](http://epaper.cqn.com.cn)📰 / [官网](https://www.cqn.com.cn/)、
 	[《中国消费者报》](https://zxb.ccn.com.cn/)📰 / [官网](https://www.ccn.com.cn/)
-
 * 国家[税务总局](http://www.chinatax.gov.cn/)：
 	[《中国税务报》](http://www.ctaxnews.com.cn/node_34.html)📰
-
 * 国务院[发展研究中心](https://www.drc.gov.cn)：
 	[中国经济时报📰](https://jjsb.cet.com.cn/) / [官网](https://www.cet.com.cn)
 
@@ -71,7 +62,7 @@
 
 财经类中央媒体
 --------------
-中央媒体指中宣部直接指导的媒体，2020年计18家。更多中央媒体请见*[新闻云](./)和[外宣云](./waixuan)*。
+中央媒体指2021年全国记协发布的会员名录中18家中央主要新闻单位，更多中央媒体请见*[新闻云](./)和[外宣云](./waixuan)*。
 
 人民日报社：
 	(深圳)[证券时报](https://www.stcn.com)（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
@@ -124,6 +115,36 @@
 
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
+
+	<a href="https://home.treasury.gov/" >美国财政部	</a>　
+	<a href="https://www.gov.uk/government/organisations/hm-treasury" >英国财政部	</a>　
+	<a href="https://www.mof.go.jp/" >日本财务省	</a>　
+	<a href="https://www.canada.ca/en/department-finance.html" >加拿大财政部	</a>　
+	<a href="https://treasury.gov.au/" >澳大利亚财政部	</a>　
+	<a href="http://mosf.go.kr/" >韩国财政与经济部	</a>　
+	<a href="https://finmin.nic.in/" >印度财政部	</a>　
+	<a href="http://www.min-financas.pt/" >葡萄牙财政部	</a>　
+	<a href="https://www.regjeringen.no/no/id4/" >挪威财政部	</a>　
+	<a href="https://www.mof.gov.my/" >马来西亚财政部	</a>　
+	<a href="http://www.dof.gov.ph/" >菲律宾财政部	</a>　
+	<a href="https://www.mof.go.th/th/home" >泰国财政部	</a>　
+	<a href="https://www.mof.gov.vn/webcenter/portal/btcvn" >越南财政部	</a>　
+	<a href="http://www.mof.gov.eg/" >埃及财政部	</a>　
+	<a href="https://www.mof.gov.np/" >尼泊尔财政部	</a>　
+	<a href="https://www.mof.gov.af/" >阿富汗财政部	</a>　
+	<a href="https://mof.gov.cy/gr/" >塞浦路斯财政部	</a>　
+	<a href="https://www.treasury.govt.nz/" >新西兰财政部	</a>　
+	<a href="https://www.mof.gov.sa/" >沙特阿拉伯财政部	</a>　
+	<a href="http://www.mof.gov.kw/" >科威特财政部	</a>　
+	<a href="http://www.mfinante.ro/" >罗马尼亚财政部	</a>　
+	<a href="http://www.finance.gov.lb/" >黎巴嫩财政部	</a>　
+	<a href="https://financa.gov.al/" >阿尔巴尼亚财政部	</a>　
+	<a href="https://www.mof.go.tz/" >坦桑尼亚财政部	</a>　
+	<a href="http://www.mof.gov.om/" >阿曼财政部	</a>　
+	<a href="https://www.mof.gov.bt/" >不丹财政部	</a>　
+	<a href="https://mof.gov.jm/" >牙买加财政部	</a>　
+	<a href="http://mof.gov.ps/" >巴勒斯坦财政部	</a>　
+	<a href="http://www.mof.gov.il/" >以色列财政部	</a>　
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
