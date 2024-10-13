@@ -20,43 +20,61 @@
 *	[鼓掌财经](https://724.guzhang.com)	有消息来源
 
 备选：  
-　	[同花顺](https://news.10jqka.com.cn/realtimenews.html)7*24小时、
+　	[同花顺](https://news.10jqka.com.cn/realtimenews.html)、
 	[格隆汇](https://www.gelonghui.com/live/)、
 	[中国新闻网](https://www.chinanews.com/cj/gd.shtml)、
 	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)、
 	香港[富威FXWe](https://www.fxwe.com/live)交易社区、
 	[云掌财经](https://www.123.com.cn/live/)、
 	证券之星[快讯](https://express.stockstar.com/)、
-	[环球金融](http://live.caijingtt.com.cn/)？主体不明……
+	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>…
 
 
 国务院部门主管
 --------------
 
-发改委
-审计署
-财政部
-商务部
+[发改委](https://www.ndrc.gov.cn)：
+	[《中国改革报》](http://www.cfgw.net.cn/epaper/)📰
+	[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)📰、
+
+[审计署](http://www.audit.gov.cn)：《中国审计报》
+
+[财政部](http://www.mof.gov.cn)：
+	《中国财经报》[官网](http://www.cfen.com.cn) /
+	📰[三份电子报](http://www.cfen.com.cn/dzb)：《中国财经报》《中国会计报》《中国政府采购报》
+
+[商务部](http://www.mofcom.gov.cn)：
+	[《国际商报》](http://epa.comnews.cn/)📰 /
+	[中国商务新闻网](https://www.comnews.cn/)
 
 [中国人民银行](http://www.pbc.gov.cn)：
-	[金融时报📰 ](https://epaper.FinancialNews.com.cn)/[中国金融新闻网](https://www.financialNews.com.cn)
+	[《金融时报》](https://epaper.FinancialNews.com.cn)📰 /[中国金融新闻网](https://www.financialNews.com.cn)
 
 国家[金监总局](https://www.cbirc.gov.cn)：
-	[中国银行保险报](http://www.cbimc.cn/)网
+	[《中国银行保险报》](http://www.cbimc.cn/)网
 
 中国[证监会](http://www.csrc.gov.cn)：
-	？
+	*证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
+
+[市监总局](http://www.samr.gov.cn/)：
+	[《中国市场监管报》](http://pc.cmrnn.com.cn/)📰 / [官网](http://www.cmrnn.com.cn/)、
+	[《中国质量报》](http://epaper.cqn.com.cn)📰 / [官网](https://www.cqn.com.cn/)、
+	[《中国消费者报》](https://zxb.ccn.com.cn/)📰 / [官网](https://www.ccn.com.cn/)
+
+国家[税务总局](http://www.chinatax.gov.cn/)：
+	[《中国税务报》](http://www.ctaxnews.com.cn/node_34.html)📰
 
 国务院[发展研究中心](https://www.drc.gov.cn)：
-	[中国经济时报📰](https://jjsb.cet.com.cn/) / [中国经济新闻网](https://www.cet.com.cn)
+	[中国经济时报📰](https://jjsb.cet.com.cn/) / [官网](https://www.cet.com.cn)
+
 
 
 中央媒体
 --------
 
-人民日报：
+人民日报社：
 	(深圳)[证券时报](https://www.stcn.com)（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
-	
+	[《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)📰
 
 新华社：
 	中国[财富传媒](http://www.cfmgroup.com.cn)集团/[中国财富网](https://www.cfbond.com)
@@ -366,5 +384,5 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体	Beta	202410
+	中文财经云媒体 v0.3.0	202410
 ```
