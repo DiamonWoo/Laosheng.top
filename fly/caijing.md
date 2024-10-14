@@ -29,39 +29,40 @@
 	证券之星[快讯](https://express.stockstar.com/)…
 
 
-国务院部门主管
+国务院部门主管 🏢
 --------------
 
 * [发改委](https://www.ndrc.gov.cn)：
-	[《中国改革报》](http://www.cfgw.net.cn/epaper/)📰
-	[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)📰、
-* [审计署](http://www.audit.gov.cn)：《中国审计报》
+	[中国改革报](http://www.cfgw.net.cn/epaper/)📰 、
+	[中国经济导报](http://www.ceh.com.cn/epaper/uniflows/html/)📰 、
+* [审计署](http://www.audit.gov.cn)：中国审计报
 * [财政部](http://www.mof.gov.cn)：
-	《中国财经报》[官网](http://www.cfen.com.cn) /
-	📰[三份电子报](http://www.cfen.com.cn/dzb)：《中国财经报》《中国会计报》《中国政府采购报》
+	中国财经报[官网](http://www.cfen.com.cn) /
+	📰[三份电子报](http://www.cfen.com.cn/dzb)：中国财经报、中国会计报、中国政府采购报
 * [商务部](http://www.mofcom.gov.cn)：
-	[《国际商报》](http://epa.comnews.cn/)📰 /
+	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
 * [中国人民银行](http://www.pbc.gov.cn)：
-	[《金融时报》](https://epaper.FinancialNews.com.cn)📰 /[中国金融新闻网](https://www.financialNews.com.cn)
+	[金融时报](https://epaper.FinancialNews.com.cn)📰 
+	[中国金融新闻网](https://www.financialNews.com.cn)
 * 国家[金监总局](https://www.cbirc.gov.cn)：
-	[《中国银行保险报》](http://www.cbimc.cn/)网
+	[中国银行保险报](http://www.cbimc.cn/)网
 * 中国[证监会](http://www.csrc.gov.cn)：
 	*证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
 * [市监总局](http://www.samr.gov.cn/)：
-	[《中国市场监管报》](http://pc.cmrnn.com.cn/)📰 / [官网](http://www.cmrnn.com.cn/)、
-	[《中国质量报》](http://epaper.cqn.com.cn)📰 / [官网](https://www.cqn.com.cn/)、
-	[《中国消费者报》](https://zxb.ccn.com.cn/)📰 / [官网](https://www.ccn.com.cn/)
+	[中国市场监管报](http://pc.cmrnn.com.cn/)📰 [官网](http://www.cmrnn.com.cn/)、
+	[中国质量报](http://epaper.cqn.com.cn)📰 [官网](https://www.cqn.com.cn/)、
+	[中国消费者报](https://zxb.ccn.com.cn/)📰 [官网](https://www.ccn.com.cn/)
 * 国家[税务总局](http://www.chinatax.gov.cn/)：
-	[《中国税务报》](http://www.ctaxnews.com.cn/node_34.html)📰
+	[中国税务报](http://www.ctaxnews.com.cn/node_34.html)📰
 * 国务院[发展研究中心](https://www.drc.gov.cn)：
-	[中国经济时报📰](https://jjsb.cet.com.cn/) / [官网](https://www.cet.com.cn)
+	[中国经济时报](https://jjsb.cet.com.cn/)📰 [官网](https://www.cet.com.cn)
 
 
-财经类中央媒体
+财经类中央媒体 🀄️
 --------------
 中央媒体指2021年全国记协发布的会员名录中18家中央主要新闻单位，更多中央媒体请见*[新闻云](./)和[外宣云](./waixuan)*。
-[官网]()📰
+
 
 * [人民日报](http://paper.people.com.cn/)社：
 	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)、
@@ -73,22 +74,23 @@
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)、
 	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)、
 	[经济参考报](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
-	《财经国家周刊》[官网](https://www.lwinst.com/)、
-	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)/《金融世界》？、
+	《财经国家周刊》[官网](https://www.lwinst.com/)、  
+　　	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
 	收藏投资导刊？
-	中国财富传媒集团/[中国财富网](https://www.cfbond.com)
+	[中国财富网](https://www.cfbond.com)
 
-* 中国广播电视[总台]()：
-	央视/财经频道[CCTV-2直播](https://www.yangshipin.cn/tv/home?pid=600001800)、
-	央广网/[财经频道](https://finance.cnr.cn)经济之声广播
+* 中国广播电视[总台](https://www.cctv.com/gyys/)：  
+	* 总台央视 财经频道[CCTV-2直播](https://www.yangshipin.cn/tv/home?pid=600001800)央视频网，
+	  《经济信息联播》[栏目点播](https://tv.cctv.com/lm/jjxxll)
+	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播
 
 * 经济日报社：
-	[数字报](http://paper.ce.cn/)📰、
+	[数字报](http://paper.ce.cn/)📰 
 	[中国经济网](http://www.ce.cn)
 
 
 
-地方财经云媒体
+地方财经云媒体 📑
 --------------
 
 　北京商报社
@@ -108,14 +110,16 @@
 	四川经济日报社
 
 
-央企主管云媒体
+央企主管云媒体 👔
 --------------
 
 紫荆文化集团：
-	中国基金报
+	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
+
+[官网]()📰
 
 
-境外中文财经网
+境外中文财经网 💱
 --------------
 
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
