@@ -26,8 +26,7 @@
 	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)、
 	香港[富威FXWe](https://www.fxwe.com/live)交易社区、
 	[云掌财经](https://www.123.com.cn/live/)、
-	证券之星[快讯](https://express.stockstar.com/)、
-	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>…
+	证券之星[快讯](https://express.stockstar.com/)…
 
 
 国务院部门主管
@@ -59,35 +58,41 @@
 	[中国经济时报📰](https://jjsb.cet.com.cn/) / [官网](https://www.cet.com.cn)
 
 
-
 财经类中央媒体
 --------------
 中央媒体指2021年全国记协发布的会员名录中18家中央主要新闻单位，更多中央媒体请见*[新闻云](./)和[外宣云](./waixuan)*。
+[官网]()📰
 
-人民日报社：
-	(深圳)[证券时报](https://www.stcn.com)（券商中国/国际金融报/期货日报/数据宝/创业资本汇/新财富）
-	[《中国能源报》](http://paper.people.com.cn/zgnyb/paperindex.htm)📰
+* [人民日报](http://paper.people.com.cn/)社：
+	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)、
+	[国际金融报](https://epaper.ifnews.com/web/paper/index )📰周报 [官网](https://www.ifnews.com)、
+	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)、
+	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》 [经济网](https://www.ceWeekly.cn)
 
-新华社：
-	中国[财富传媒](http://www.cfmgroup.com.cn)集团/[中国财富网](https://www.cfbond.com)
-	中国证券报
-	上海证券报
-	经济参考报
-	新华财经/中国金融信息网
-	
+* [新华社](http://www.news.cn)：　
+	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)、
+	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)、
+	[经济参考报](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
+	《财经国家周刊》[官网](https://www.lwinst.com/)、
+	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)/《金融世界》？、
+	收藏投资导刊？
+	中国财富传媒集团/[中国财富网](https://www.cfbond.com)
 
-中国广播电视总台：
-	央视/CCTV-2 财经
-	央广/
+* 中国广播电视[总台]()：
+	央视/财经频道[CCTV-2直播](https://www.yangshipin.cn/tv/home?pid=600001800)、
+	央广网/[财经频道](https://finance.cnr.cn)经济之声广播
 
-经济日报：
-	中国经济网
+* 经济日报社：
+	[数字报](http://paper.ce.cn/)📰、
+	[中国经济网](http://www.ce.cn)
+
 
 
 地方财经云媒体
 --------------
 
 　北京商报社
+
 　江苏经济报社
 
 上海：
@@ -106,7 +111,7 @@
 央企主管云媒体
 --------------
 
-紫荆文化集团
+紫荆文化集团：
 	中国基金报
 
 
@@ -143,9 +148,8 @@
 	<a href="http://www.mof.gov.om/" >阿曼财政部	</a>　
 	<a href="https://www.mof.gov.bt/" >不丹财政部	</a>　
 	<a href="https://mof.gov.jm/" >牙买加财政部	</a>　
-	<a href="http://mof.gov.ps/" >巴勒斯坦财政部	</a>　
-	<a href="http://www.mof.gov.il/" >以色列财政部	</a>　
-
+	<a href="http://mof.gov.ps/" >巴勒斯坦财政部	</a>？　
+	<a href="http://www.mof.gov.il/" >以色列财政部	</a>%　
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -153,8 +157,8 @@
 参考文献
 --------
 
-*	证券市场信息披露媒体
-*	创业板信息披露网站
+*	㊣ 证券市场信息披露媒体
+*	㊣ 创业板信息披露网站
 *	中国经济传媒协会	[会员介绍](http://www.acep.org.cn/hyjs/)：
 
 　√	经济日报社
@@ -398,6 +402,12 @@
 　速途网
 　金融界网
 
+
+其他备选媒体：
+	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、
+（券商中国//[期货日报](http://www.qhrb.com.cn/about)郑州/数据宝/创业资本汇/新财富）
+
+
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
@@ -406,5 +416,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.0	202410
+	中文财经云媒体 v0.3.1	202410
 ```
+
+㊎㊖㊬ ㊭ ㊮㊣ⓅⓟⓏ
