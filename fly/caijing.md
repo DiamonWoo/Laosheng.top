@@ -34,11 +34,11 @@
 
 * [发改委](https://www.ndrc.gov.cn)：
 	[中国改革报](http://www.cfgw.net.cn/epaper/)📰 、
-	[中国经济导报](http://www.ceh.com.cn/epaper/uniflows/html/)📰 、
+	[中国经济导报](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
 * [审计署](http://www.audit.gov.cn)：中国审计报
 * [财政部](http://www.mof.gov.cn)：
-	中国财经报[官网](http://www.cfen.com.cn) /
-	📰[三份电子报](http://www.cfen.com.cn/dzb)：中国财经报、中国会计报、中国政府采购报
+	中国财经报[官网](http://www.cfen.com.cn)
+	中国财经报、中国会计报、中国政府采购报，[三份电子报](http://www.cfen.com.cn/dzb)📰
 * [商务部](http://www.mofcom.gov.cn)：
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
@@ -70,7 +70,7 @@
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)、
 	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》 [经济网](https://www.ceWeekly.cn)
 
-* [新华社](http://www.news.cn)：　
+* 　[新华社](http://www.news.cn)：　
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)、
 	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)、
 	[经济参考报](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
@@ -79,10 +79,10 @@
 	收藏投资导刊？
 	[中国财富网](https://www.cfbond.com)
 
-* 中国广播电视[总台](https://www.cctv.com/gyys/)：  
-	* 总台央视 财经频道[CCTV-2直播](https://www.yangshipin.cn/tv/home?pid=600001800)央视频网，
-	  《经济信息联播》[栏目点播](https://tv.cctv.com/lm/jjxxll)
-	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播
+* 中央广播电视[总台](https://www.cctv.com/gyys/)：  
+	* 总台央视 财经频道[CCTV-2央视频](https://www.yangshipin.cn/tv/home?pid=600001800)直播 📺，
+	  《[经济信息联播](https://tv.cctv.com/lm/jjxxll)》栏目点播
+	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播 📻
 
 * 经济日报社：
 	[数字报](http://paper.ce.cn/)📰 
@@ -93,30 +93,48 @@
 地方财经云媒体 📑
 --------------
 
-　北京商报社
+* [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
 
-　江苏经济报社
+* 江苏经济报社
 
-上海：
-	第一财经传媒
+* 上海：
+	上海广电（SMG）旗下[第一财经](https://www.yicai.com/)传媒 /
+	[第一财经日报](https://www.yicai.com/epaper/pc/)📰 [官网](https://www.yicai.com/)、
+	第一财经[电视](https://www.yicai.com/tv/)直播 📺 广播 📻 FM90.9、 东方财经-浦东 📺、
+	《[yiMagazine](https://www.cbnweek.com)》杂志、
+	[YiCai](https://www.yicaiglobal.com/)一财全球🍴
 
-广东：
-	南方财经全媒体集团
+* 广东：
+	南方财经全媒体集团 [南方财经网](https://www.sfcCN.com)SFC /
+	[21世纪经济报道](https://epaper.21jingji.com/)📰 、[21经济网](https://www.21jingji.com/)、
+	广东广电[经济科教](https://www.gdtv.cn/tvChannelDetail/49)频道直播 📺、
+	[珠江经济台](https://www.gdtv.cn/audioChannelDetail/86)在线广播 📻 AM1062、
+	[投资快报](https://service.927953.com/cn/kuaibao/)📰 [财富动力](https://www.927953.com/)网、
+	[股市广播](https://www.927953.com/Broadcast/Radio.aspx) 📻 FM95.3
 
-四川：
-	《每日财经新闻》wx
-[每经网 ](https://www.nbd.com.cn)
-[📰](https://epaper.mrjjxw.com/)/[文字版](https://www.nbd.com.cn/newspapers/today)
-	四川经济日报社
+* 四川：
+	[四川经济日报](http://epaper.scjjrb.com/)📰 [官网](https://www.scjjrb.com)、
+	成都传媒集团
+	[每日经济新闻](https://epaper.mrjjxw.com/)📰 
+	[文字版](https://www.nbd.com.cn/newspapers/today)
+	[每经网 ](https://www.nbd.com.cn)
+
 
 
 央企主管云媒体 👔
 --------------
 
-紫荆文化集团：
+* 紫荆文化集团：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
 
-[官网]()📰
+📰 [官网]()
+
+<h3 >没有归类的财经类云媒体</h3>
+
+* %[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
+	[官网](http://gold.org.cn)
+* [期货日报](http://www.qhrb.com.cn/about)郑州
+
 
 
 境外中文财经网 💱
@@ -409,7 +427,7 @@
 
 其他备选媒体：
 	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、
-（券商中国//[期货日报](http://www.qhrb.com.cn/about)郑州/数据宝/创业资本汇/新财富）
+（券商中国///数据宝/创业资本汇/新财富）
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
@@ -420,7 +438,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.1	202410
+	中文财经云媒体 v0.3.2	202410
 ```
 
 ㊎㊖㊬ ㊭ ㊮㊣ⓅⓟⓏ
