@@ -86,14 +86,11 @@
 	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播 📻
 
 * 光明日报社：[光明财经](https://economy.gmw.cn)网
-
 * 经济日报社：
 	[数字报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
 	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
-
 * 中国日报社：
-	㊣ [C财经](https://caijing.chinadaily.com.cn)/[Business](https://www.chinadaily.com.cn/business)
-
+	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
 	[中新社财经](https://www.chinanews.com/finance/)
 
@@ -103,18 +100,22 @@
 --------------
 本段收录各省市财经类数字报 和 电视直播网址，关于地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*。
 
-
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
-
+* [<sup>山西经济日报</sup>](http://epaper.sxrb.com/index_sxjjrb.shtml)📰
 * [江苏经济报](https://jsjjb.xhby.net/)📰 
-
 * 上海：
 	上海广电（SMG）旗下[第一财经](https://www.yicai.com/)传媒 /
 	[第一财经日报](https://www.yicai.com/epaper/pc/)📰 [官网](https://www.yicai.com/)、
 	第一财经[电视](https://www.yicai.com/tv/)直播 📺 广播 📻 FM90.9、 东方财经-浦东 📺、
 	《[yiMagazine](https://www.cbnweek.com)》杂志、
 	[YiCai](https://www.yicaiglobal.com/)一财全球🍴
-
+* 浙江：
+	[科技金融时报](http://kjb.zjol.com.cn/)📰
+* 安徽：
+	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)
+* 山东：
+	[经济导报](http://jjdb.sdenews.com/)📰 [山东财经网](http://www.sdenews.com)、
+	济南[经济观察报](https://www.eeo.com.cn/epaper/eeocover/jjgcb/1.shtml)文字版免费
 * 广东：
 	南方财经全媒体集团 [南方财经网](https://www.sfcCN.com)SFC /
 	[21世纪经济报道](https://epaper.21jingji.com/)📰 、[21经济网](https://www.21jingji.com/)、
@@ -122,7 +123,6 @@
 	[珠江经济台](https://www.gdtv.cn/audioChannelDetail/86)在线广播 📻 AM1062、
 	[投资快报](https://service.927953.com/cn/kuaibao/)📰 [财富动力](https://www.927953.com/)网、
 	[股市广播](https://www.927953.com/Broadcast/Radio.aspx) 📻 FM95.3
-
 * 四川：
 	[四川经济日报](http://epaper.scjjrb.com/)📰 [官网](https://www.scjjrb.com)、
 	成都传媒集团
@@ -220,21 +220,21 @@
 　√	上海证券报社
 　√	证券日报社
 　新浪微博
-　中国新闻网
-　中国经济信息社
-　中国财经报社
+　√	中国新闻网
+　√	中国经济信息社
+　√	中国财经报社
 　中国能源传媒集团
 　财新传媒有限公司
 　中国市场监管报社
 　中国应急管理报社
-　中国审计报社
+　√	中国审计报社
 　中国海关传媒中心
 　南方都市报社
 　中国冶金报社
 　华夏时报
 　中国铁道建筑报社
 　中国信息报社
-　经济观察报社
+　√	经济观察报社
 　中信出版集团
 　和讯网
 　国际旅游岛商报社
@@ -243,9 +243,9 @@
 　西北信息报社
 　中国食品报社
 　中国交通报社
-　中国发展网
+　√	中国发展网
 　《中国海洋石油报》社
-　安徽经济报社
+　√	安徽经济报社
 　华人频道
 　健康时报社
 　《中国对外贸易》杂志社
@@ -274,7 +274,7 @@
 　农村信息报社
 　山西经济日报
 　中文产业控股集团
-　中国经济新闻联播网
+　√	中国经济新闻联播网
 　《祖国》杂志社
 　消费日报社
 　经济导报社
