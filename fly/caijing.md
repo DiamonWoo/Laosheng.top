@@ -35,7 +35,7 @@
 * [发改委](https://www.ndrc.gov.cn)：
 	[中国改革报](http://www.cfgw.net.cn/epaper/)📰 
 	[改革网](http://www.cfgw.net.cn) [发展网](http://www.chinadevelopment.com.cn/)、
-	[<sup>中国经济导报</sup>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
+　	[<sup>中国经济导报</sup>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
 * [审计署](http://www.audit.gov.cn)：中国审计报
 * [财政部](http://www.mof.gov.cn)：
 	中国财经报[官网](http://www.cfen.com.cn)
@@ -69,19 +69,19 @@
 * [人民日报](http://paper.people.com.cn/)社：
 	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
-	[国际金融报](https://epaper.ifnews.com/web/paper/index )📰周报 [官网](https://www.ifnews.com)、
-	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)、
-	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》 [经济网](https://www.ceWeekly.cn)
+	[国际金融报](https://epaper.ifnews.com/web/paper/index )📰周报 [官网](https://www.ifnews.com)、  
+　　	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
+	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>
+	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)
 
 * 　[新华社](http://www.news.cn)：　
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
 	<sup>[法定信披](https://newxinpi.cs.com.cn/)</sup>、
 	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)
 	<sup>[法定信披](https://xinpi.cnstock.com/p)</sup>、
-	㊣ [**经济参考报**](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
-	《财经国家周刊》[官网](https://www.lwinst.com/)、  
-　　	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
-	收藏投资导刊？
+	㊣ [**经济参考报**](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、  
+　　	《财经国家周刊》[官网](https://www.lwinst.com/)、
+	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
 	[中国财富网](https://www.cfbond.com)
 
 * 中央广播电视[总台](https://www.cctv.com/gyys/)：  
@@ -92,8 +92,9 @@
 * 光明日报社：[光明财经](https://economy.gmw.cn)网
 * 经济日报社：
 	[经济日报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
-	《[经济](https://www.jingji.com.cn/ebook/)》杂志📰 [经济网](https://www.jingji.com.cn)
-	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
+	《[经济](https://www.jingji.com.cn/ebook/)》杂志📰 
+	[经济网](https://www.jingji.com.cn)<sub>有同名</sub>
+　	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
@@ -152,6 +153,7 @@
 📰 [官网]()
 
 <h3 >暂未归类的财经类云媒体</h3>
+
 *	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
 *	《[财新周刊](https://weekly.caixin.com/)》 [官网](https://www.caixin.com)
 *	[中国产业经济信息网](http://www.cinic.org.cn) 中宣部主管、人民日报社代管、中国报业协会主办
