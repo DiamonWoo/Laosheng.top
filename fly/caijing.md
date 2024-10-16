@@ -46,6 +46,7 @@
 * [中国人民银行](http://www.pbc.gov.cn)：
 	㊣ [金融时报](https://epaper.FinancialNews.com.cn)📰 
 	[中国金融新闻网](https://www.financialNews.com.cn)
+	<sup>证券[市场信息披露](https://xp.financialnews.com.cn/sy/)平台</sup>
 * 国家[金监总局](https://www.cbirc.gov.cn)：
 	[中国银行保险报](http://www.cbimc.cn/)网
 * 中国[证监会](http://www.csrc.gov.cn)：
@@ -66,14 +67,17 @@
 
 
 * [人民日报](http://paper.people.com.cn/)社：
-	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)、
+	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
+	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
 	[国际金融报](https://epaper.ifnews.com/web/paper/index )📰周报 [官网](https://www.ifnews.com)、
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)、
 	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》 [经济网](https://www.ceWeekly.cn)
 
 * 　[新华社](http://www.news.cn)：　
-	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)、
-	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)、
+	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
+	<sup>[法定信披](https://newxinpi.cs.com.cn/)</sup>、
+	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)
+	<sup>[法定信披](https://xinpi.cnstock.com/p)</sup>、
 	㊣ [**经济参考报**](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
 	《财经国家周刊》[官网](https://www.lwinst.com/)、  
 　　	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
@@ -87,7 +91,8 @@
 
 * 光明日报社：[光明财经](https://economy.gmw.cn)网
 * 经济日报社：
-	[数字报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
+	[经济日报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
+	《[经济](https://www.jingji.com.cn/ebook/)》杂志📰 [经济网](https://www.jingji.com.cn)
 	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
@@ -104,21 +109,28 @@
 * [<sup>山西经济日报</sup>](http://epaper.sxrb.com/index_sxjjrb.shtml)📰
 * [江苏经济报](https://jsjjb.xhby.net/)📰 
 * 上海：
-	上海广电（SMG）旗下[第一财经](https://www.yicai.com/)传媒 /
+  *	上海广电（[SMG](https://www.smg.cn/review/202405/0165527.html)）——
+	[第一财经](https://www.yicai.com/)传媒 /
 	[第一财经日报](https://www.yicai.com/epaper/pc/)📰 [官网](https://www.yicai.com/)、
 	第一财经[电视](https://www.yicai.com/tv/)直播 📺 广播 📻 FM90.9、 东方财经-浦东 📺、
 	《[yiMagazine](https://www.cbnweek.com)》杂志、
-	[YiCai](https://www.yicaiglobal.com/)一财全球🍴
+	[YiCai](https://www.yicaiglobal.com/)一财全球🍴；
+  *	[上海报业](https://www.sumg.com.cn/qxmt/)——
+	[财联社](https://www.cls.cn/)、
+	<del>科创板日报</del>不是报纸
+
 * 浙江：
 	[科技金融时报](http://kjb.zjol.com.cn/)📰
 * 安徽：
 	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)
+* 江西：
+	[经济晚报](https://www.cnjjwb.com/index.php?s=szb)📰 [官网](https://www.cnjjwb.com)
 * 山东：
 	[经济导报](http://jjdb.sdenews.com/)📰 [山东财经网](http://www.sdenews.com)、
 	济南[经济观察报](https://www.eeo.com.cn/epaper/eeocover/jjgcb/1.shtml)文字版免费
 * 广东：
 	南方财经全媒体集团 [南方财经网](https://www.sfcCN.com)SFC /
-	[21世纪经济报道](https://epaper.21jingji.com/)📰 、[21经济网](https://www.21jingji.com/)、
+	[21世纪经济报道](https://epaper.21jingji.com/)📰 [21经济网](https://www.21jingji.com/)、
 	广东广电[经济科教](https://www.gdtv.cn/tvChannelDetail/49)频道直播 📺、
 	[珠江经济台](https://www.gdtv.cn/audioChannelDetail/86)在线广播 📻 AM1062、
 	[投资快报](https://service.927953.com/cn/kuaibao/)📰 [财富动力](https://www.927953.com/)网、
@@ -137,14 +149,15 @@
 
 * 紫荆文化集团：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
-
 📰 [官网]()
 
-<h3 >没有归类的财经类云媒体</h3>
-
-* %[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
+<h3 >暂未归类的财经类云媒体</h3>
+*	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
+*	《[财新周刊](https://weekly.caixin.com/)》 [官网](https://www.caixin.com)
+*	[中国产业经济信息网](http://www.cinic.org.cn) 中宣部主管、人民日报社代管、中国报业协会主办
+*	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
 	[官网](http://gold.org.cn)
-* [期货日报](http://www.qhrb.com.cn/about)郑州
+*	[期货日报](http://www.qhrb.com.cn/about)郑州
 
 
 
@@ -255,14 +268,14 @@
 　蚂蚁创客（北京）文化传播
 　界面·财联社
 　中国农机化导报社
-　经济晚报社
+　√	经济晚报社
 　政府采购信息报社
 　《江南论坛》杂志社
 　河北经济日报社
 　中国环境报社
 　《物流时代》杂志社
-　中国质量报
-　新金融观察报
+　√	中国质量报
+　新金融观察报？
 　《中华现代护理》杂志社
 　中华工商时报社
 　《中国民商》杂志社
@@ -277,7 +290,7 @@
 　√	中国经济新闻联播网
 　《祖国》杂志社
 　消费日报社
-　经济导报社
+　√	经济导报社
 　《西部大开发》杂志
 　《中国卫生经济》杂志社
 　中国工商出版社
@@ -289,7 +302,7 @@
 　中国建设报
 　中国消费者报
 　中国县域经济报社
-　中国会计报社
+　√	中国会计报社
 　中国联合商报社
 　云南经济日报
 　甘肃经济日报社
@@ -354,7 +367,7 @@
 　《中国邮政快递报》社
 　北京奇树文化有限公司
 　成都日报社
-　每日经济新闻
+　√	每日经济新闻
 　中国搜索信息科技股份
 　人民邮电报社
 　《中国经营报》社
@@ -388,7 +401,7 @@
 　无限娄底客户端
 　上游新闻
 　一点资讯
-　财联社
+　√	财联社
 　财新网
 　财经网
 　红星新闻
@@ -452,7 +465,16 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.3	202410
+	中文财经云媒体 v0.3.4	202410
 ```
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
 
 ㊎㊖㊬ ㊭ ㊮㊣ⓅⓟⓏ
