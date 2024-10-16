@@ -8,13 +8,12 @@
 
 　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
-　　金融交易所是各种国际势力角逐的战场，主要有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外。
-…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有中文[财经云](../fly/caijing)媒体提供各种财经资讯。
+　　金融交易所是各种国际势力角逐的战场，主要业务有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有中文[财经云](../fly/caijing)媒体提供各种市场资讯。
 
 　　writing……（还在学习、收集中）
 
 <div align="right" id="mulu">
-⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金融交易所</div>
+⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金</div>
 
 <h3>〖环球金〗目录</h3>
 
@@ -74,7 +73,7 @@ Gold Market
 *	美国#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
 *	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，提供黄金期货[挂牌基准价](https://www.shfe.com.cn/products/au/)，报价单位：人民币/克；  
-	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)
+	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)，[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时。
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
 
@@ -87,7 +86,7 @@ Gold Market
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 
-　　更多信息可见[世界黄金协会](https://china.gold.org/our-offices)📍，该会总部在伦敦，在上海、北京有办事处。
+　　更多黄金价格可见[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍，该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
 
 <div align="right" id="ex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -207,7 +206,7 @@ Systemically Important Banks (G-SIBs)
 	[中国业务](https://www.mizuhogroup.com/asia-pacific/china/cn)📍、  
 　	美国 [Morgan Stanley](https://www.morganstanley.com/)摩根士丹利
 	/[中国站](https://www.morganstanleychina.com/)📍、
-	[Royal Bank of Canada](https://www.rbc.com/) 加拿大皇家银行、
+	[Royal Bank of Canada](https://www.rbc.com/) 加拿大皇家银行📍、
 	西班牙 [Santander](https://www.santander.com/)桑坦德银行、  
 　	法国[Société Générale](https://www.societegenerale.com/)兴业银行、
 	英国 [Standard Chartered](https://www.sc.com/)渣打银行
@@ -329,13 +328,13 @@ USA Gov financial authorities
 * 7 各种收入及其源泉
 
 
-　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出建议</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.9 	202410
+	https://Laosheng.top/ydyl/jiaoyisuo
+	环球金融交易所	v0.5.0 	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
