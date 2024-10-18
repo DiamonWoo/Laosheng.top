@@ -42,9 +42,9 @@ Foreign Exchange Market
 *	**中国香港**： 09：00-16：00　[香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元在7.75~7.85兑1美元的区间内。
 *	**新加坡**　： 09：00-16：00　新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
 *	中国上海：**09:30-23:30~03:00**　中国外汇交易中心📍发布[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
-*	德国法兰克福：14：00-22：00　[**欧洲央行**](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)提供欧元参考汇率
+*	德国法兰克福：14：00-22：00　**欧洲央行**提供[欧元参考汇率](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)
 *	**英国伦敦**： 16：30-23：30　[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
-*	美国纽约： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布**每周**美元汇率（有即时汇率吗？）
+*	**美国纽约**： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布每周美元汇率（有即时汇率吗？）
 *	[加拿大中央银行](https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/)公布每日外汇利率
 　<sup>英美澳等国有夏时制，暂未标出，请注意修正。</sup>
 
@@ -53,8 +53,8 @@ Foreign Exchange Market
 　　
 [中国工商银行](https://www.icbc.com.cn/column/1438058341489590354.html)、
 [中国农业银行](https://ewealth.abchina.com/ForeignExchange/)、
-　[中国银行](https://www.boc.cn/sourcedb/whpj/)　、
-[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)☆、
+[中国银行](https://www.boc.cn/sourcedb/whpj/)、
+[中国建设银行](http://forex3.ccb.com/cn/forex/indexv3.html)、
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。
 
