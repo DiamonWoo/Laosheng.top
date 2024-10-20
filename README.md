@@ -60,7 +60,7 @@
 
 　　老生常谈网站诞生于新冠疫情初期，由作者大萌于2020年发布。网站不嵌广告、不发红包，努力保持阅读舒适度，争取在尊重知识产权方面做出表率。　请各方读者转发与评论，对大萌[依法鼓励](https://Laosheng.top/c/author "联系作者")！在这个被App割裂的互联网，让我们重新发现万维网（WWW）的价值。
 
-<p align="center" style="width:80%; background-color:red; color:yellow;">💐 庆祝新中国成立75周年！💐</p>
+<p align="center" style="background-color:red; color:yellow; align:center; max-width:80%;">💐 庆祝新中国成立75周年！💐</p>
 
 
 更多[老生常谈…](c/)
