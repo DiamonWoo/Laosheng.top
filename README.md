@@ -20,7 +20,7 @@
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
   + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}：ChinaDaily、中国之声、《北京周报》、解放军微博阵列、十大世界语言……新发布1.0版！
   + /fly/dianying　💐大众电影百花奖，[老生常谈电影节](fly/dianying){:target="_blank"}🎞️。每个月都有的电影节，戛纳、奥斯卡、天坛奖……（正在收录）
-  + 中文财经云媒体 （准备中）……
+  + 中文财经云媒体 （新上线）……
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
 
@@ -60,7 +60,7 @@
 
 　　老生常谈网站诞生于新冠疫情初期，由作者大萌于2020年发布。网站不嵌广告、不发红包，努力保持阅读舒适度，争取在尊重知识产权方面做出表率。　请各方读者转发与评论，对大萌[依法鼓励](https://Laosheng.top/c/author "联系作者")！在这个被App割裂的互联网，让我们重新发现万维网（WWW）的价值。
 
-<p align="center" style="background-color: red; color: yellow;">💐 热烈庆祝新中国成立75周年！💐</p>
+<p align="center" style="width:80%; background-color:red; color:yellow;">💐 庆祝新中国成立75周年！💐</p>
 
 
 更多[老生常谈…](c/)
@@ -106,6 +106,6 @@
 
 	老生常谈© 2019~2024 大萌  知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	https://Laosheng.top	v3.3.6 202410
+	https://Laosheng.top	v3.3.7 202410
 
 🎁🎅🛍💎🎀🥳💐☕🍸🍹🍺🍻🥂🍷🥃🍵🍇🍉
