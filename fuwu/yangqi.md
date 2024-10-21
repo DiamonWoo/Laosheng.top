@@ -1,6 +1,8 @@
 央企股票全家福 🧧 <sub>国计民生胆气足</sub>
 ================
-大萌	　202302-202312，202410	<base target="_blank">
+大萌	　202302-202312，202410
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/yangqi" />
 
 		你们尽管想象，我们负责实现 —— 国资小新评《流浪地球2》，20230130
 
@@ -11,7 +13,7 @@
 　　了解**央企股**就是了解中国经济。‘央企股’具体收录：四大类中央企业网站群、国资委央企名录、央企官网与微博、新闻出版机构/免费的数字报📰，以及：国资委央企旗下大约四百家上市公司的股票简称、代码与行情页📈、公司全名与官网。收录工作接近完成，欢迎提出意见。网页数据密集，请善用浏览器页内搜索。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股票全家福</div>
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/央企股</div>
 
 
 央企股LSIP进度
@@ -21,7 +23,6 @@
 		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预估值）
 		 完成率 ≈ 　92.1%
 
-+	20241018： 国资委组建[中国资源循环集团](http://www.sasac.gov.cn/n2588035/c31913785/content.html)，编号66，原66有研集团改为67，以此类推总数98。官网暂未公开，本页暂缓吸收。
 +	202312 　：国资委98-1家央企的网站群收录完成。v0.5.1~0.5.4
 +	202307~08：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
 +	202302~04：收录国资委主管央企98家，网站群尚缺一半；收录央企上市公司400余支股票，接近完成。v0.2.0~v0.4.6
@@ -29,6 +30,8 @@
 
 改革近况
 --------
+
+*	2024-10-18，新组建[资环集团](http://www.sasac.gov.cn/n2588035/c31913785/content.html)#66，原#66有研集团递增为#67，以此类推。实业央企总数恢复98。
 
 *	2023-11-23，华录集团[#93](#93)并入中国电科[#8](#8)，实业央企总数由98减为97家。
 *	2023-10-10，[二十届中央第二轮巡视](https://www.ccdi.gov.cn/toutiaon/202310/t20231021_301845.html)对26家中管企业、5家部委、国家铁路局/中铁集团 开展巡视。（标记🚩 31个，另有科技部/国防科工局不在本页收录范围）
@@ -144,7 +147,7 @@
 63⠀🏗	[中国建材](http://www.cnbm.com.cn){:id="63"} 	⠀CNBM <small>[网站群](http://www.cnbm.com.cn/CNBM/000000010009/)	⠀北京  	⠀[<b>15</b>家上市▽](#G63){:target="_top"}	⠀中国建材集团有限公司 	⠀- -	</small>  
 64⠀🧲	[中国有色集团](http://www.cnmc.com.cn){:id="64"} 	⠀CNMM <small>[网站群](http://www.cnmc.com.cn/cnmc/wzq/A002017Gone1.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G64){:target="_top"}	⠀中国有色矿业集团有限公司 	⠀- -	</small>  
 65⠀🧲	[中国稀土集团](https://www.regcc.cn){:id="65"} 	⠀CREG - - - <small>	⠀赣州市  	⠀[<b>1</b>家上市▽](#G65){:target="_top"}	⠀中国稀土集团有限公司 	⠀- -	⠀页底找[成员单位](https://www.regcc.cn/zgxtjt/zzjg/introduce.shtml)</small>  
-66⠀🧲	资环集团[](http://www.grinm.com){:id="66"} 新！- - - <small>	⠀天津市  	⠀中国资源循环集团有限公司 	⠀- -	</small>  
+66⠀♻️	资环集团[](http://www.grinm.com){:id="66"} 新！- - - <small>	⠀天津市  	⠀中国资源循环集团有限公司 	⠀[官网暂未公开](https://news.qq.com/rain/a/20241019A06RIR00)，本页暂缓吸收。- -	</small>  
 
 以下编号待+1：
 
@@ -886,10 +889,10 @@
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈© 2019-2023 大萌	知识共享许可
+	老生常谈© 2019-2024 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	央企股票全家福 V0.5.6	202410
 	https://Laosheng.top/fuwu/yangqi
