@@ -90,6 +90,8 @@
 6⠀💥	[兵器工业集团](http://www.norincogroup.com.cn){:id="6"} 	⠀NORINCO Group <small>[网站群](http://www.norincogroup.com.cn/col/col193/)	⠀北京 ⛳ 	⠀[<b>12</b>家上市▼](#G6){:target="_top"}	⠀中国兵器工业集团有限公司 	⠀[wb](https://weibo.com/n/兵工之声)	⠀兵器知识 等[兵工刊物](http://www.norincogroup.com.cn/col/col92/)</small>  
 7⠀💥	[兵器装备集团](https://www.csgc.com.cn){:id="7"} 	⠀CSGC <small>[网站群](https://www.csgc.com.cn/1073.html)	⠀北京 ⛳ 	⠀[<b>8</b>家上市▽](#G7){:target="_top"}	⠀中国兵器装备集团有限公司 	⠀[wb](https://weibo.com/n/中国兵器装备集团)	⠀[期刊杂志](https://www.csgc.com.cn/1090.html)/中国兵器报/[wb](https://weibo.com/zgbqb)</small>  
 8⠀✡	[中国电科](http://www.cetc.com.cn){:id="8"} 	⠀CETC <small>[网站群](http://www.cetc.com.cn/zgdk/1593105/1593109/index.html)	⠀北京 ⛳ 	⠀[<b>13</b>家上市▼](#G8){:target="_top"}	⠀中国电子科技集团有限公司 	⠀[wb](https://weibo.com/n/中国电科)	⠀[中国电科](http://www.cetc.com.cn/zgdk/1592571/1592919/index.html)报，[上市公司](http://www.cetc.com.cn/zgdk/1592544/1592565/index.html)股价</small>  
+<del>92⠀</del>📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀HuaLu - - - <small>	⠀大连市 🔄 	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	⠀[出版传媒](https://www.hualupm.com.cn)有限公司，202311并入中国电科[#8](#8){:target="_top"}</small>  
+
 9⠀🚀	[中国航发](https://www.aecc.cn){:id="9"} 	⠀AECC <small>[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	⠀北京 ⛳ 	⠀[<b>3</b>家上市▽](#G9){:target="_top"}	⠀中国航空发动机集团有限公司 	⠀- -	⠀下辖27家直属单位、3家主板上市公司</small>  
 10⠀💰	[中国融通集团](https://www.crtamg.com.cn){:id="10"} 	⠀CRTC <small>[网站群](https://www.crtamg.com.cn/ywly/zykf/)	⠀北京 ⛳ 	⠀[<b>0</b>家上市▼](#G10){:target="_top"}	⠀中国融通资产管理集团有限公司 	⠀- -	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)</small>  
 11⠀⛽	[中国石油](http://www.cnpc.com.cn){:id="11"} 	⠀CNPC <small>[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀北京 ⛳ 	⠀[<b>4</b>家上市▽](#G11){:target="_top"}	⠀中国石油天然气集团有限公司 	⠀[wb](https://weibo.com/n/中国石油)	⠀✆ 956100，[国际油价](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)，[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)</small>  
@@ -147,10 +149,9 @@
 63⠀🏗	[中国建材](http://www.cnbm.com.cn){:id="63"} 	⠀CNBM <small>[网站群](http://www.cnbm.com.cn/CNBM/000000010009/)	⠀北京  	⠀[<b>15</b>家上市▽](#G63){:target="_top"}	⠀中国建材集团有限公司 	⠀- -	</small>  
 64⠀🧲	[中国有色集团](http://www.cnmc.com.cn){:id="64"} 	⠀CNMM <small>[网站群](http://www.cnmc.com.cn/cnmc/wzq/A002017Gone1.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G64){:target="_top"}	⠀中国有色矿业集团有限公司 	⠀- -	</small>  
 65⠀🧲	[中国稀土集团](https://www.regcc.cn){:id="65"} 	⠀CREG - - - <small>	⠀赣州市  	⠀[<b>1</b>家上市▽](#G65){:target="_top"}	⠀中国稀土集团有限公司 	⠀- -	⠀页底找[成员单位](https://www.regcc.cn/zgxtjt/zzjg/introduce.shtml)</small>  
-66⠀♻️	资环集团[](http://www.grinm.com){:id="66"} 新！- - - <small>	⠀天津市  	⠀中国资源循环集团有限公司 	⠀[官网暂未公开](https://news.qq.com/rain/a/20241019A06RIR00)，本页暂缓吸收。- -	</small>  
+66⠀♻️	资环集团[](http://www.grinm.com){:id="66"}，新！- - - <small>	⠀天津市  	⠀中国资源循环集团有限公司 	⠀[官网暂未公开](https://news.qq.com/rain/a/20241019A06RIR00)，本页暂缓吸收。- -	</small>  
 
-以下编号待+1：
-
+以下序号待+1：  
 66⠀🧲	[有研集团](http://www.grinm.com){:id="66"} 	⠀GRINM - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G66){:target="_top"}	⠀中国有研科技集团有限公司 	⠀- -	⠀有色金属研究总院，[基地分布](https://www.grinm.com/2600.html)，[研究生院](https://www.grinm.com/1417.html)</small>  
 67⠀🏭	[矿冶集团](http://www.bgrimm.com){:id="67"} 	⠀BGRIMM <small>[网站群](http://www.bgrimm.com/wzq/)	⠀北京  	⠀[<b>2</b>家上市▽](#G67){:target="_top"}	⠀矿冶科技集团有限公司 	⠀- -	</small>  
 68⠀💡	[中智集团](http://www.ciic.com.cn){:id="68"} 	⠀CIIC <small>[网站群](http://www.ciic.com.cn/ciic/zzlj44/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G68){:target="_top"}	⠀中国国际技术智力合作集团有限公司 	⠀[wb](https://weibo.com/n/中智集团)	</small>  
@@ -177,7 +178,8 @@
 89⠀⛑️	[中国安能](https://www.china-an.cn){:id="89"} 	⠀AN - - - <small>	⠀北京  	⠀[<b>0</b>家上市▽](#G89){:target="_top"}	⠀中国安能建设集团有限公司 	⠀- -	⠀👮‍由武警水电部队整体转隶。一局二局三局，三峡船闸等[重大项目](https://www.china-an.cn/index.php/hydropowerEngineering.html)</small>  
 90⠀💰	[中国黄金](https://www.chinagoldgroup.com){:id="90"} 	⠀China Gold <small>[网站群](https://www.chinagoldgroup.com/2319.html)	⠀北京  	⠀[<b>1</b>家上市▼](#G90){:target="_top"}	⠀中国黄金集团有限公司 	⠀[wb](https://weibo.com/n/中国黄金ChinaGold)	⠀世界黄金协会成员，[中国黄金网](https://www.gold.org.cn/)/[报](http://epaper.gold.org.cn/zghjb/)📰/wb</small>  
 91⠀☢️	[中广核](http://www.cgnpc.com.cn){:id="91"} 	⠀CGN <small>[网站群](http://www.cgnpc.com.cn/cgn/c101045/lm_tt_one.shtml)	⠀深圳市  	⠀[<b>3</b>家上市▽](#G91){:target="_top"}	⠀中国广核集团有限公司 	⠀[wb](https://weibo.com/n/中国广核集团)	⠀原中国广东核电集团，华龙一号。8月7日公众开放日</small>  
-<del>92⠀</del>📼	[华录集团](http://www.hualu.com.cn){:id="92"} 	⠀HuaLu - - - <small>	⠀大连市 🔄 	⠀[<b>1</b>家上市▼](#G92){:target="_top"}	⠀中国华录集团有限公司 	⠀- -	⠀[出版传媒](https://www.hualupm.com.cn)有限公司，202311并入中国电科[#8](#8)</small>  
+编号递增到此为止。
+
 93⠀🎠	[华侨城集团](https://www.chinaOCT.com){:id="93"} 	⠀OCT <small>[网站群](https://www.chinaOCT.com/hqc/gyhqc/hqczzg/)	⠀深圳市  	⠀[<b>4</b>家上市▽](#G93){:target="_top"}	⠀华侨城集团有限公司 	⠀[wb](https://weibo.com/n/OCT华侨城)	⠀[上市公司名单](https://www.chinaoct.com/hqc/gyhqc/tzzzq/)</small>  
 94⠀🛢️	[南光集团](http://www.namkwong.com.mo){:id="94"} 	⠀Nam Kwong <small>[网站群](http://www.namkwong.com.mo/col/col1887/)	⠀中国澳门  	⠀[<b>0</b>家上市▼](#G94){:target="_top"}	⠀南光(集团)有限公司／中国南光集团有限公司 	⠀- -	</small>  
 95⠀✡	[中国电气装备](http://www.cee-group.cn){:id="95"} 	⠀CEE - - - <small>	⠀上海市  	⠀[<b>4</b>家上市▽](#G95){:target="_top"}	⠀中国电气装备集团有限公司 	⠀- -	⠀[行业期刊](http://www.cee-group.cn/fwpt/xyqk1.htm)：《[电瓷避雷器](http://www.dcblq.com)》等，网站建设中…</small>  
@@ -185,7 +187,8 @@
 97⠀💰	[中国国新](https://www.crhc.cn){:id="97"} 	⠀CRHC <small>[网站群](https://www.crhc.cn/sczqywz/A001014index_1.htm)	⠀北京  	⠀[<b>1</b>家上市▽](#G97){:target="_top"}	⠀中国国新控股有限责任公司 	⠀[wb](https://weibo.com/n/中国国新)	</small>  
 98⠀🧪	[中国中检](http://www.ccic.com){:id="98"} 	⠀CCIC <small>[网站群](http://www.ccic.com/ccic/lxwm/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G98){:target="_top"}	⠀中国检验认证(集团)有限公司 	⠀- -	</small>  
 
-202311，原第92家央企华录集团并入第8家中国电科，央企总数由98减为97家，本页面暂时保留原98家编号。
+202311，原第92家央企华录集团并入第8家中国电科，央企总数由98减为97家，本页面暂时保留原98家序号。  
+202410，新建央企资环集团，序号定位66，央企总数恢复为98家，本页面暂时未更新序号。
 
 
 <div id="tuli" align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
@@ -307,6 +310,8 @@
 [8▲](#8){:target="_top"}{:id="G8"}⠀	中瓷电子	[003031](http://webapi.cninfo.com.cn/#/company?companyid=003031)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[河北中瓷电子科技股份有限公司](http://www.sinopack.cc)</sub>  
 [8▲](#8){:target="_top"}{:id="G8"}⠀	东方通信	[600776](http://webapi.cninfo.com.cn/#/company?companyid=600776)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[东方通信股份有限公司](http://www.eastcom.com)</sub>  
 [8▲](#8){:target="_top"}{:id="G8"}⠀	东信和平	[002017](http://webapi.cninfo.com.cn/#/company?companyid=002017)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[东信和平科技股份有限公司](http://www.eastcompeace.com)</sub>  
+[92▲](#92){:target="_top"}{:id="G92"}⠀	易华录	[300212](http://webapi.cninfo.com.cn/#/company?companyid=300212)	<sub>⠀深市⠀创业板⠀A股	⠀待定连接	⠀[北京易华录信息技术股份有限公司](http://www.ehualu.com)</sub>  
+
 [9△](#9){:target="_top"}{:id="G9"}⠀	航发动力	[600893](http://webapi.cninfo.com.cn/#/company?companyid=600893)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中国航发动力股份有限公司](http://HFDL.AECC.CN)</sub>  
 [9△](#9){:target="_top"}{:id="G9"}⠀	航发控制	[000738](http://webapi.cninfo.com.cn/#/company?companyid=000738)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[中国航发动力控制股份有限公司](http://www.aaec.com.cn)</sub>  
 [9△](#9){:target="_top"}{:id="G9"}⠀	航发科技	[600391](http://webapi.cninfo.com.cn/#/company?companyid=600391)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[中国航发航空科技股份有限公司](http://ast.aecc.cn)</sub>  
@@ -593,6 +598,8 @@
 [64▲](#64){:target="_top"}{:id="G64"}⠀	中国有色矿业	[01258](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1258)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[中国有色矿业有限公司](http://www.cnmcl.net)</sub>  
 [65△](#65){:target="_top"}{:id="G65"}⠀	中国稀土	[000831](http://webapi.cninfo.com.cn/#/company?companyid=000831)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[中国稀土集团资源科技股份有限公司](http://www.cmreltd.com)</sub>  
 [65△](#65){:target="_top"}{:id="G65"}⠀	中国稀土	[00769](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=769)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[中国稀土控股有限公司](http://www.creh.com.hk)</sub>  
+
+以下序号待加1：  
 [66▲](#66){:target="_top"}{:id="G66"}⠀	有研新材	[600206](http://webapi.cninfo.com.cn/#/company?companyid=600206)	<sub>⠀沪市⠀主板⠀A股	⠀待定连接	⠀[有研新材料股份有限公司](http://www.griam.cn)</sub>  
 [66▲](#66){:target="_top"}{:id="G66"}⠀	有研粉材	[688456](http://webapi.cninfo.com.cn/#/company?companyid=688456)	<sub>⠀沪市⠀科创板⠀A股	⠀待定连接	⠀[有研粉末新材料股份有限公司](http://www.gripm.com)</sub>  
 [66▲](#66){:target="_top"}{:id="G66"}⠀	有研硅	[688432](http://webapi.cninfo.com.cn/#/company?companyid=688432)	<sub>⠀沪市⠀科创板⠀A股	⠀待定连接	⠀[有研半导体硅材料股份公司](http://www.gritek.com)</sub>  
@@ -659,7 +666,8 @@
 [91△](#91){:target="_top"}{:id="G91"}⠀	中国广核	[003816](http://webapi.cninfo.com.cn/#/company?companyid=003816)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[中国广核电力股份有限公司](http://www.cgnp.com.cn)</sub>  
 [91△](#91){:target="_top"}{:id="G91"}⠀	中广核电力	[01816](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1816)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[中国广核电力股份有限公司](http://www.cgnp.com.cn)</sub>  
 [91△](#91){:target="_top"}{:id="G91"}⠀	中广核新能源	[01811](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=1811)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[中国广核新能源控股有限公司](http://www.cgnne.com)</sub>  
-[92▲](#92){:target="_top"}{:id="G92"}⠀	易华录	[300212](http://webapi.cninfo.com.cn/#/company?companyid=300212)	<sub>⠀深市⠀创业板⠀A股	⠀待定连接	⠀[北京易华录信息技术股份有限公司](http://www.ehualu.com)</sub>  
+以上序号待加1。
+
 [93△](#93){:target="_top"}{:id="G93"}⠀	华侨城Ａ	[000069](http://webapi.cninfo.com.cn/#/company?companyid=000069)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[深圳华侨城股份有限公司](http://www.octholding.com)</sub>  
 [93△](#93){:target="_top"}{:id="G93"}⠀	深康佳Ａ	[000016](http://webapi.cninfo.com.cn/#/company?companyid=000016)	<sub>⠀深市⠀主板⠀A股	⠀待定连接	⠀[康佳集团股份有限公司](http://www.konka.com)</sub>  
 [93△](#93){:target="_top"}{:id="G93"}⠀	华侨城（亚洲）	[03366](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=3366)	<sub>⠀港股⠀主板⠀	⠀待定连接	⠀[华侨城（亚洲）控股有限公司](http://www.oct-asia.com)</sub>  
