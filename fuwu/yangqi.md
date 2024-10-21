@@ -1,6 +1,6 @@
 央企股票全家福 🧧 <sub>国计民生胆气足</sub>
 ================
-大萌	　202302-202312	<base target="_blank">
+大萌	　202302-202312，202410	<base target="_blank">
 
 		你们尽管想象，我们负责实现 —— 国资小新评《流浪地球2》，20230130
 
@@ -21,7 +21,8 @@
 		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预估值）
 		 完成率 ≈ 　92.1%
 
-+	202312：国资委98-1家央企的网站群收录完成。v0.5.1~0.5.4
++	20241018： 国资委组建[中国资源循环集团](http://www.sasac.gov.cn/n2588035/c31913785/content.html)，编号66，原66有研集团改为67，以此类推总数98。官网暂未公开，本页暂缓吸收。
++	202312 　：国资委98-1家央企的网站群收录完成。v0.5.1~0.5.4
 +	202307~08：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
 +	202302~04：收录国资委主管央企98家，网站群尚缺一半；收录央企上市公司400余支股票，接近完成。v0.2.0~v0.4.6
 
@@ -36,7 +37,7 @@
 *	2022-12-31，中国南水北调集团有限公司[#48](#48)列入国资委履行出资人职责企业名单（直接监管）。
 *	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武[#35](#35)，不再由国资委直接监管。
 *	2021-01 　，对外文化集团整体划转至紫荆文化集团。
-
+*	2020-12-　，黑龙江省农垦总局 改制为 北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
 
 <h2 id='tupu'>广义央企四大类 🌻👔🥯⚙️</h2>
 
@@ -143,6 +144,10 @@
 63⠀🏗	[中国建材](http://www.cnbm.com.cn){:id="63"} 	⠀CNBM <small>[网站群](http://www.cnbm.com.cn/CNBM/000000010009/)	⠀北京  	⠀[<b>15</b>家上市▽](#G63){:target="_top"}	⠀中国建材集团有限公司 	⠀- -	</small>  
 64⠀🧲	[中国有色集团](http://www.cnmc.com.cn){:id="64"} 	⠀CNMM <small>[网站群](http://www.cnmc.com.cn/cnmc/wzq/A002017Gone1.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G64){:target="_top"}	⠀中国有色矿业集团有限公司 	⠀- -	</small>  
 65⠀🧲	[中国稀土集团](https://www.regcc.cn){:id="65"} 	⠀CREG - - - <small>	⠀赣州市  	⠀[<b>1</b>家上市▽](#G65){:target="_top"}	⠀中国稀土集团有限公司 	⠀- -	⠀页底找[成员单位](https://www.regcc.cn/zgxtjt/zzjg/introduce.shtml)</small>  
+66⠀🧲	资环集团[](http://www.grinm.com){:id="66"} 新！- - - <small>	⠀天津市  	⠀中国资源循环集团有限公司 	⠀- -	</small>  
+
+以下编号待+1：
+
 66⠀🧲	[有研集团](http://www.grinm.com){:id="66"} 	⠀GRINM - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G66){:target="_top"}	⠀中国有研科技集团有限公司 	⠀- -	⠀有色金属研究总院，[基地分布](https://www.grinm.com/2600.html)，[研究生院](https://www.grinm.com/1417.html)</small>  
 67⠀🏭	[矿冶集团](http://www.bgrimm.com){:id="67"} 	⠀BGRIMM <small>[网站群](http://www.bgrimm.com/wzq/)	⠀北京  	⠀[<b>2</b>家上市▽](#G67){:target="_top"}	⠀矿冶科技集团有限公司 	⠀- -	</small>  
 68⠀💡	[中智集团](http://www.ciic.com.cn){:id="68"} 	⠀CIIC <small>[网站群](http://www.ciic.com.cn/ciic/zzlj44/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G68){:target="_top"}	⠀中国国际技术智力合作集团有限公司 	⠀[wb](https://weibo.com/n/中智集团)	</small>  
@@ -886,7 +891,7 @@
 ```
 	老生常谈© 2019-2023 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 version 0.5.5	202401
+	央企股票全家福 V0.5.6	202410
 	https://Laosheng.top/fuwu/yangqi
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
