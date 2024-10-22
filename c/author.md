@@ -1,12 +1,19 @@
 老生常谈 联系作者
 ================
-大萌	2024	<base target="_blank">
+大萌	2024
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/c/author" />
 
 		我们现在抓创新不问出身，能为国家作出贡献就是最重要的。——习近平，202104福州
 
 　　如果对网站有什么批评建议，或者要‘依法鼓励’，请到Xoyondo[给我留言](https://xoyondo.com/mb/yY8PqZMjKUgdcpn){:target="_blank"}；如果发现网址错误，或者要推荐网站，请到另一个Xoyondo页面[提交评论](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)。无需注册，马上发表。如果您不想公开内容，可以给我发电子邮件。电子邮件是古老、可靠的联系方式，通常几秒钟可以送达。不过我可能几天才收一次[eMail](https://outlook.live.com/mail/0/)。
 
 + diamonw2019![邮件后缀加载中](./mail-2020.png)
+
+<div align="right">
+⏩老生/<a href="https://Laosheng.top/c/" target="_top">常谈</a>/联系作者
+</div>
+<p align="center"><b>想干事、能干事、干成事</b></p>
 
 
 五年小结 ✍
@@ -23,7 +30,6 @@
 　　所以，如果你希望网站做得更好，那就帮忙转发吧！喜欢网站的读者越多，这个网站就能做的越好！
 
 
-
 战略合作 🍵🍵
 --------
 
@@ -33,10 +39,9 @@
 +	一带一路城市集	　一带一路沿线各国节点城市政府网址
 
 
-
 		老生常谈 © 2019-2024	大萌
 		https://laosheng.top/c/author
-		联系作者  v3.3.3	202409
+		联系作者  v3.3.7	202410
 
 回到首页  
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
