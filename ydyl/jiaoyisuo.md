@@ -66,15 +66,16 @@ Foreign Exchange Market
 ---------------
 Gold Market
 
-　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。下面对中文网页标记图钉符号📍。
+　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。下面对国外的中文网页标记图钉符号📍。
 
-*	英国伦敦现货黄金市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
-*	美国#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
+*	英国伦敦现货市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
+*	美国纽约期货市场，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
-*	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，在[延时行情](https://www.shfe.com.cn/products/au/)页可以看到 金(Au年月/克)、银(Ag年月)、铜(Cu年月)的期货报价。  
-	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、
+*	中国市场（SGE & SHFE）：
+	 * 上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、
 [延时行情](https://www.sge.com.cn/sjzx/yshqbg)、
-黄金场内交易型基金(ETF)净值，[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时。
+黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
+	 * 上海期货交易所，SHFE，在[延时行情](https://www.shfe.com.cn/products/au/)页可以看到 金(Au年月/克)、银(Ag)、铜(Cu)的期货报价。
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
 
@@ -92,6 +93,8 @@ Gold Market
 　　[农业银行](https://ewealth.abchina.com/Gold/)、
 	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
 	招商银行[小屏版](https://m.cmbchina.com/goldrate.html)……
+	上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，
+	[民生银行](https://www.cmbc.com.cn/grkh/gjs/jcj/)积存金提供24小时交易。
 
 <div align="right" id="ex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
