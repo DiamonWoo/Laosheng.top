@@ -71,8 +71,10 @@ Gold Market
 *	英国伦敦现货黄金市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
 *	美国#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所，提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
-*	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，提供黄金期货[挂牌基准价](https://www.shfe.com.cn/products/au/)，报价单位：人民币/克；  
-	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、黄金场内交易型基金[(ETF)净值](https://www.sge.com.cn/sjzx/goldEtf?)，[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时。
+*	中国[上海期货交易所](https://www.shfe.com.cn/about/)，SHFE，在[延时行情](https://www.shfe.com.cn/products/au/)页可以看到 金(Au年月/克)、银(Ag年月)、铜(Cu年月)的期货报价。  
+	上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、
+[延时行情](https://www.sge.com.cn/sjzx/yshqbg)、
+黄金场内交易型基金(ETF)净值，[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时。
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
 
@@ -86,7 +88,7 @@ Gold Market
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 
 　　更多黄金价格可见[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍，该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
-　　向访客公布黄金实时报价的银行有：  
+　	向访客公布黄金实时报价的银行有：  
 　　[农业银行](https://ewealth.abchina.com/Gold/)、
 	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
 	招商银行[小屏版](https://m.cmbchina.com/goldrate.html)……
