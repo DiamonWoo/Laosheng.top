@@ -79,8 +79,12 @@ Gold Market
 　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
 　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
 
-看国际黄金价格的国内商业网站有：
+向访客公布黄金实时报价的银行有：  
+　　[农业银行](https://ewealth.abchina.com/Gold/)、
+	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
+	招商银行[小屏版](https://m.cmbchina.com/goldrate.html)……
 
+看国际黄金价格的国内商业网站有：  
 *	[新浪黄金](https://wap.cj.sina.cn/metal.html)手机版、[桌面版](https://finance.sina.com.cn/nmetal/)内容繁多
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
@@ -333,7 +337,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.0 	202410
+	环球金融交易所	v0.5.1 	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
