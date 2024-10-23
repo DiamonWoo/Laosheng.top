@@ -6,7 +6,7 @@
 
 		时间就是金钱 —— 本杰明·富兰克林
 
-　　在近千家“中国[新闻云](./)媒体”中，有一类专业媒体数量突出：财经类。这一类媒体有不少名称相似，容易混淆。比如：有‘证券时报’‘证券日报’，还有‘经济时报’‘经济晚报’‘经济日报’；网站有《中国经济周刊》的‘经济网’，有《经济》杂志的‘经济网’，完全重名。
+　　在近千家“中国[新闻云](./)媒体”中，有一类专业的媒体数量很突出：财经类。这一类媒体有不少名称相似，容易混淆。比如有：‘经济晚报’‘经济日报’‘经济导报’‘中国经济导报’‘中国经济时报’；网站有《中国经济周刊》的‘经济网’，有《经济》杂志的‘经济网’，完全重名。
 
 　　当你对一个财经媒体名字迷糊时，如果能有一篇结构性目录查阅就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，突出显示数字报📰 与 电视直播📺，大致分为：中央主管、部委主管、地方主管。
 
@@ -35,8 +35,8 @@
 	证券之星[快讯](https://express.stockstar.com/)…
 
 <h3>暂未归类的财经云媒体</h3>
-<small>
 
+<small>
 *	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
 	[官网](http://gold.org.cn)
 *	紫荆文化集团 👔：
@@ -59,7 +59,6 @@
 　　	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
 	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)
-
 * 　[新华社](http://www.news.cn)：　
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
 	<sup>[法定信披](https://newxinpi.cs.com.cn/)</sup>、
@@ -69,12 +68,10 @@
 　　	《财经国家周刊》[官网](https://www.lwinst.com/)、
 	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
 	[中国财富网](https://www.cfbond.com)
-
 * 中央广播电视[总台](https://www.cctv.com/gyys/)：  
 	* 总台央视 财经频道[CCTV-2央视频](https://www.yangshipin.cn/tv/home?pid=600001800)直播 📺，
 	  《[经济信息联播](https://tv.cctv.com/lm/jjxxll)》栏目点播
 	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播 📻
-
 * 光明日报社：[光明财经](https://economy.gmw.cn)网
 * 经济日报社：
 	[经济日报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
@@ -94,11 +91,12 @@
 * [发改委](https://www.ndrc.gov.cn)：
 	[中国改革报](http://www.cfgw.net.cn/epaper/)📰 
 	[改革网](http://www.cfgw.net.cn) [发展网](http://www.chinadevelopment.com.cn/)、
-　	[<sup>中国经济导报</sup>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
+	[<small>中国经济导报</small>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
 * [审计署](http://www.audit.gov.cn)：中国审计报
 * [财政部](http://www.mof.gov.cn)：
-	中国财经报[官网](http://www.cfen.com.cn)
-	中国财经报、中国会计报、中国政府采购报，[三份电子报](http://www.cfen.com.cn/dzb)📰
+	[中国财经报](http://www.cfen.com.cn/dzb)📰
+	[官网](http://www.cfen.com.cn)
+	（中国会计报📰、中国政府采购报📰）
 * [商务部](http://www.mofcom.gov.cn)：
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
@@ -117,7 +115,7 @@
 * 国家[税务总局](http://www.chinatax.gov.cn/)：
 	[中国税务报](http://www.ctaxnews.com.cn/node_34.html)📰
 * 国务院[发展研究中心](https://www.drc.gov.cn)：
-	[<sup>中国经济时报</sup>](https://jjsb.cet.com.cn/)📰 [官网](https://www.cet.com.cn)
+	[<small>中国经济时报</small>](https://jjsb.cet.com.cn/)📰 [官网](https://www.cet.com.cn)
 
 
 地方财经云媒体 📑
@@ -125,7 +123,7 @@
 本段收录各省市财经类数字报 和 电视直播网址，关于地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*。
 
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
-* [<sup>山西经济日报</sup>](http://epaper.sxrb.com/index_sxjjrb.shtml)📰
+* [山西经济日报](http://epaper.sxrb.com/index_sxjjrb.shtml)📰
 * [江苏经济报](https://jsjjb.xhby.net/)📰 
 * 上海：
   *	上海广电（[SMG](https://www.smg.cn/review/202405/0165527.html)）——
@@ -137,7 +135,6 @@
   *	[上海报业](https://www.sumg.com.cn/qxmt/)——
 	[财联社](https://www.cls.cn/)、
 	<del>科创板日报</del>不是报纸
-
 * 浙江：
 	[科技金融时报](http://kjb.zjol.com.cn/)📰
 * 安徽：
@@ -167,9 +164,12 @@
 境外中文财经网 💱
 --------------
 
+*	俄[今日俄罗斯](https://jinrieluosi.cn/mediagroup/)媒体集团📍 /
+	[俄新社](https://ria.ru)
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
 
+	[俄罗斯财政部](http://government.ru/department/69/events/)？
 	<a href="https://home.treasury.gov/" >美国财政部	</a>　
 	<a href="https://www.gov.uk/government/organisations/hm-treasury" >英国财政部	</a>　
 	<a href="https://www.mof.go.jp/" >日本财务省	</a>　
