@@ -6,7 +6,7 @@
 
 		时间就是金钱 —— 本杰明·富兰克林
 
-　　在近千家“中国[新闻云](./)媒体”中，有一类专业媒体数量突出：财经类。这一类媒体有不少名称相似，容易混淆。比如：有‘证券时报’‘证券日报’，还有‘经济时报’‘经济晚报’‘经济日报’；网站有《中国经济周刊》的‘经济网’，有《经济日报》的‘经济网’，完全重名。
+　　在近千家“中国[新闻云](./)媒体”中，有一类专业媒体数量突出：财经类。这一类媒体有不少名称相似，容易混淆。比如：有‘证券时报’‘证券日报’，还有‘经济时报’‘经济晚报’‘经济日报’；网站有《中国经济周刊》的‘经济网’，有《经济》杂志的‘经济网’，完全重名。
 
 　　当你对一个财经媒体名字迷糊时，如果能有一篇结构性目录查阅就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，突出显示数字报📰 与 电视直播📺，大致分为：中央主管、部委主管、地方主管。
 
@@ -23,16 +23,29 @@
 *	[东方财富](https://kuaixun.eastmoney.com/)全球财经快讯
 *	上海[财联社](https://www.cls.cn/telegraph)电报
 *	[金融界App](https://m.jrj.com.cn/flash) flash /[电脑版](https://24h.jrj.com.cn/newsFlash)
-*	[鼓掌财经](https://724.guzhang.com)	聚合网站
+*	香港[富威FXWe](https://www.fxwe.com/live)交易社区
 
 备选：  
 　	[同花顺](https://news.10jqka.com.cn/realtimenews.html)、
-	[格隆汇](https://www.gelonghui.com/live/)、
-	[中国新闻网](https://www.chinanews.com/cj/gd.shtml)、
 	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)、
-	香港[富威FXWe](https://www.fxwe.com/live)交易社区、
+	[中国新闻网](https://www.chinanews.com/cj/gd.shtml)、
+	[格隆汇](https://www.gelonghui.com/live/)、
 	[云掌财经](https://www.123.com.cn/live/)、
+	[鼓掌财经](https://724.guzhang.com)（聚合）、
 	证券之星[快讯](https://express.stockstar.com/)…
+
+<h3>暂未归类的财经云媒体</h3>
+<small>
+
+*	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
+	[官网](http://gold.org.cn)
+*	紫荆文化集团 👔：
+	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
+*	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
+*	《[财新周刊](https://weekly.caixin.com/)》 [官网](https://www.caixin.com)
+*	中宣部主管、人民日报社代管 [**中国产业经济信息网**](http://www.cinic.org.cn) 中国报业协会主办
+*	[期货日报](http://www.qhrb.com.cn/about) 郑州
+</small>
 
 
 财经类中央媒体 🀄️
@@ -149,20 +162,6 @@
 	[每经网 ](https://www.nbd.com.cn)
 
 📰 [官网]()
-
-
-暂未归类的财经云媒体
-----------------
-
-* 紫荆文化集团 👔：
-	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
-*	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
-*	《[财新周刊](https://weekly.caixin.com/)》 [官网](https://www.caixin.com)
-*	中宣部主管、人民日报社代管 [**中国产业经济信息网**](http://www.cinic.org.cn) 中国报业协会主办
-*	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
-	[官网](http://gold.org.cn)
-*	[期货日报](http://www.qhrb.com.cn/about) 郑州
-
 
 
 境外中文财经网 💱
@@ -310,7 +309,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.5	202410
+	中文财经云媒体 v0.3.6	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
