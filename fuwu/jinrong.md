@@ -35,10 +35,10 @@
 -------------
 
 +	中国金融[监管体系](#tixi){:target="_top"} 🔱
-	+ 全国性[商业银行](#bank){:target="_top"} 💳	6+12=18家中央监管
-	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43❕=56家中央监管c
-	+ 主要[金融交易所](#ex){:target="_top"} 📊 	 8+1家
-	  + 国内[其他交易所](#ex2){:target="_top"}
+	+ 全国性[商业银行](#bank){:target="_top"} 💳	 6+12 =18家中央监管
+	+ [保险集团](#sure){:target="_top"}与公司 💼	13+43❕=56家中央监管
+	+ 主要[金融交易所](#ex){:target="_top"} 📊 	 8+1 家
+	  + 国内其他交易所
 	+ [中央金融](#zh){:target="_top"}企业 🀄  	27家（财政部公布）
 	+ **地方监管的**[六类金融机构](#local){:target="_top"}	🍕 7xx家 　▼  
 	（💳城商行￥民营行/📤信托公司/财险㊖与寿险☯/📈证券公司/🥚基金管理人/🎰期货公司）
@@ -269,17 +269,14 @@ Financial Exchange
 	- 上市公司超2100家　60xxxx[股票列表](http://www.sse.com.cn/assortment/stock/list/share/)
 	- [债券列表](http://www.sse.com.cn/assortment/bonds/list/)超50000支
 	- [基金列表](http://www.sse.com.cn/assortment/fund/list/)近450支
-
 * 【[深交所](https://www.szse.cn/)】 深圳证券交易所🚩 /深市 SZSE　[深证成指](http://www.szse.cn/market/trend/index.html?code=399001)
 	- 上市公司超2700家　00xxxx[股票列表](https://www.szse.cn/market/product/stock/list/)~30xxxx
 	- [国债列表](https://www.szse.cn/market/product/bond/tb/)（金融债、公司信用债……）
 	- [基金列表](https://www.szse.cn/market/product/list/all/)近600支
-
 * 【[北交所](http://www.bse.cn)】 北京证券交易所 /京市 BSE　[北证50](http://www.bse.cn/market_data/bse_indices/bse_bz50.html)
 	- 上市公司超 120家　8xxxxx[股票列表](http://www.bse.cn/nq/listedcompany.html)/43xxxx　全国中小企业股份转让系统
 	- [债券列表](http://www.bse.cn/nq/nqzqlistgb.html)（国债/地方债/公司债）
 	- 可转债
-
 * 〖**中金所**〗　[中国金融期货交易所](http://www.cffex.com.cn)
 * 〖上期所〗 [上海期货交易所](https://www.shfe.com.cn)
     * 上海国际能源交易中心
@@ -297,14 +294,9 @@ Financial Exchange
 
 　　<i>更多港澳台交易所、全球主要交易所，请见一带一路系列/[环球金](../ydyl/jiaoyisuo)页面</i>。
 
-<div id="ex2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
 <h3>国内其他交易所</h3>
 
 *	[北京金融资产交易所](https://www.cfae.cn)　2010年　[北金所]
-*	[全国中小企业股份转让系统](http://www.neeq.com.cn)　（全国OTC）
-*	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名
-*	天津金融资产交易所　2010年　[天金所](https://www.tjfae.com)　（区域OTC）
 *	[天津产权交易中心](https://www.tpre.cn)
 *	[天津滨海柜台交易市场](https://tjotc.cn)　（区域OTC）
 *	[天津国际矿业权交易所](http://www.cmextj.com)
@@ -316,7 +308,13 @@ Financial Exchange
 *	[广州碳排放交易所](https://www.cnemission.com/)　广碳所，广州交易所集团
 
 疑似已关闭交易所：  
-　　~~北京大宗商品交易所 http://www.bjbce.com 、天津贵金属交易所、上海有色金属交易中心、广东省贵金属交易所~~
+　　<del>北京大宗商品交易所 http://www.bjbce.com 、
+	[北京绿色交易所](https://cbeex.com.cn)　2020年由环境交易所改名、
+	[全国中小企业股份转让系统](http://www.neeq.com.cn)（全国OTC）、
+	天津贵金属交易所、
+	天津金融资产交易所 2010年[天金所](https://www.tjfae.com)（区域OTC）、
+	上海有色金属交易中心、广东省贵金属交易所
+</del>
 
 <div id="zh" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
