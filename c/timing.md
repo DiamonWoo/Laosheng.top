@@ -120,6 +120,7 @@
 5、老生常谈
 ------------
 
++	<a href="https://huxiu.com" title="科创资讯平台，2012年北京">虎嗅</a>
 +	<a href="https://jikipedia.com/hope" title="yyds 网络流行语">小鸡词典</a>🐤、
 	<a href="https://dig.chouti.com" title="不正经的资讯社区"><del>抽屉</del></a>
 +	奇趣网站收藏家 <https://fuun.fun/ > 	看看一些新鲜网站
@@ -129,7 +130,6 @@
 	不允许非员工发帖。
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 *	搜房网[业主论坛](https://bbs.fang.com)
-*	[NGA BBS](https://ngabbs.com) 精英玩家俱乐部，艾泽拉斯国家地理/魔兽世界/星际争霸
 +	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
 
 
@@ -191,13 +191,8 @@
 8、财务自求 🍩
 ------------
 
-*	第一财经 <https://www.yicai.com >	上海文广影视集团(SMG)
-	 - 第一财经电视 <https://www.yicai.com/tv> 东方财经-浦东 
-*	财经网 <https://www.caijing.com.cn>	北京《财经》杂志网站
-*	财新网 <https://m.caixin.com/m/ >	原创财经新媒体/很多文章收费
 *	<a href="https://zhihe.com/main/information/1" title="法律新媒体">智合</a>
 *	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体，网页较为笨重。
-*	<a href="https://www.gelonghui.com/live" title="深圳格隆汇快讯">格隆汇</a>
 *	<a href="https://www.itslaw.com/" title="法律案例检索平台">无讼</a> 	2021年春停止服务，页面显示‘数据库升级中’。
 　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 *	<a href="https://www.zhihu.com/people/xing-qiu-yan-jiu-suo" title="探索极致风光">星球研究所</a>	2021年停止更新
@@ -272,7 +267,7 @@
 盘搜<http://www.pansou.com >。
 
 2023/7/27 	#第五段  
-	海南凯迪 早已关停。
+	海南凯迪 早已关停。（202410发现恢复，关闭了原有猫眼看人等栏目）
 
 2023/6/3  	#第七段  
 	古诗词原连接 http://chinagsc.com 失效，换上名气更大的搜韵；
