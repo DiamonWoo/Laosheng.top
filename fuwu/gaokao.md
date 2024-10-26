@@ -153,6 +153,7 @@ QA 高考志愿常见问题 💬
 
 <h3>高考志愿填报 参考网站</h3>
 
+*	教育部阳光高考[专业知识库](https://gaokao.chsi.com.cn/zyk/zybk/)，可搜索开设某个专业的所有高校。
 *	教育部[国家智慧教育](https://www.smartedu.cn/)公共服务平台，考生可以提前了解专业课程内容。
 *	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
 *	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
