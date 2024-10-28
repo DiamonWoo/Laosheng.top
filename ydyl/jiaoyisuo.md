@@ -6,11 +6,11 @@
 
 		create wealth and improve infrastructure connectivity. —— AIIB 亚投行：创造财富，并改善基础设施连通性。
 
-　　金融是将全世界人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
+　　有什么东西把全世界人类联系在一起？航运、航空、艺术与媒体、无线电与互联网，还有吗？还有：金融。
 
-　　金融交易所是各种国际势力角逐的战场，主要业务有：外汇市场、黄金市场、证券市场，时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有中文[财经云](../fly/caijing)媒体提供各种市场资讯。
+　　金融是将全人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
-　　writing……（还在学习、收集中）
+　　金融交易所是各种国际势力角逐的战场，业务上有：外汇、黄金、证券（股票与债券），时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有 中文[财经云](../fly/caijing)媒体 提供各种市场资讯。　writing……（还在学习、收集中）
 
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金</div>
@@ -66,12 +66,12 @@ Foreign Exchange Market
 ---------------
 Gold Market
 
-　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。下面对国外的中文网页标记图钉符号📍。
+　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。有中文的网页标记图钉符号📍（国内略）。
 
 *	英国伦敦现货市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
 *	美国纽约期货市场，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
-*	中国市场（SGE & SHFE）：
+*	中国市场📍（SGE & SHFE）：
 	 * 上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、
 [延时行情](https://www.sge.com.cn/sjzx/yshqbg)、
 黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
@@ -343,7 +343,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.1 	202410
+	环球金融交易所	v0.5.2 	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
