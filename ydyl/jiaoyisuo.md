@@ -6,7 +6,7 @@
 
 		create wealth and improve infrastructure connectivity. —— AIIB 亚投行：创造财富，并改善基础设施连通性。
 
-　　有什么东西把全世界人类联系在一起？航运、航空、艺术与媒体、无线电与互联网，还有吗？还有：金融。
+　　有什么东西把全世界人类联系在一起？航运航空、艺术与媒体、无线电与互联网，还有吗？还有：金融。比如，当年浦东还是一片片荒地，靠的国务院1986年‘九四专项’批文，向世界银行、亚洲开发银行、[IMF](united.html)筹资32亿美元，建设了南浦大桥、虹桥宾馆、上海地铁一号线、固定电话扩容……等一批市政基础设施项目，至今还在发挥作用。
 
 　　金融是将全人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
@@ -323,6 +323,7 @@ USA Gov financial authorities
 *	全球主要外汇交易时段：FxGoPlus[普拉斯财经](https://www.fxgoplus.com/major-forex-trading-sessions/)、inVesting[英为财情](https://cn.investing.com/tools/market-hours)
 *	FSB：2023 List of [Global Systemically Important Banks](https://www.fsb.org/2023/11/2023-list-of-global-systemically-important-banks-g-sibs/) (G-SIBs)
 *	新浪金融研究院：[我国认定20家国内系统重要性银行](https://finance.sina.com.cn/jinrong/yh/2023-11-28/doc-imzwepzs7168282.shtml)
+*	20181017，《第一财经》孙维维：32年前首创扩大利用外资，[14亿美元建上海“头号工程”](https://www.yicai.com/news/100040880.html)
 
 <h3 id="zibenlun3">《资本论》第三卷</h3>
 《Das_Kapital》III，1894。题为：[资本主义生产的总过程](https://www.marxists.org/chinese/marx/capital/marxist.org-chinese-marx-capital-vol3-01.htm)。  
