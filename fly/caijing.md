@@ -8,7 +8,7 @@
 
 　　在近千家“中国[新闻云](./)媒体”中，有一类专业的媒体数量很突出：财经类。这一类媒体有不少名称相似，容易混淆。比如有：‘经济晚报’‘经济日报’‘经济导报’‘中国经济导报’‘中国经济时报’；网站有《中国经济周刊》的‘经济网’，有《经济》杂志的‘经济网’，完全同名；《中国证券报》的官网叫‘中证网’，《上海证券报》的官网不叫‘上证网’而是‘中国证券网’……
 
-　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，突出标记数字报📰 与 电视直播📺，大致分为：中央主管、部委主管、地方主管。
+　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，突出标记 数字报📰 与 电视直播📺，大致分为：中央主管、部委主管、地方主管。
 
 　　读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。
 
@@ -26,11 +26,13 @@
 *	香港[富威FXWe](https://www.fxwe.com/live)交易社区
 
 备选：  
-　	浙江[同花顺](https://news.10jqka.com.cn/realtimenews.html)、
-	广州[金十数据](https://www.jin10.com) <sup>有日历</sup>、
+　	浙江[同花顺](https://news.10jqka.com.cn/realtimenews.html)
+<sup>投资<a href='https://stock.10jqka.com.cn/fincalendar.shtml'>日历</a></sup>、
+	广州[金十数据](https://www.jin10.com)
+<sup>财经<a href='https://rili.jin10.com'>日历</a></sup>、
 	中国日报[财经滚动](https://caijing.chinadaily.com.cn/finance/)、
 	[中国新闻网](https://www.chinanews.com/cj/gd.shtml)、
-	证券之星[快讯](https://express.stockstar.com/) <sup>上海</sup>、
+	<sub>上海</sub>证券之星[快讯](https://express.stockstar.com/)、
 	深圳[格隆汇](https://www.gelonghui.com/live/)、
 	安徽[云掌财经](https://www.123.com.cn/live/)、
 	湖北[鼓掌财经](https://724.guzhang.com) <sup>聚合</sup>
@@ -46,6 +48,7 @@
 	《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
 *	中宣部主管、人民日报社代管、中国报业协会主办的：[**中国产业经济信息网**](http://www.cinic.org.cn) 有很多行业报纸链接。
 *	[期货日报](http://www.qhrb.com.cn/about) 郑州
+
 </small>
 
 
@@ -94,7 +97,7 @@
 	[改革网](http://www.cfgw.net.cn)、
 	[中国发展网](http://www.chinadevelopment.com.cn/)、
 	[<small>中国经济导报</small>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
-* [审计署](http://www.audit.gov.cn)：中国审计报、《审计观察》杂志（二者均有微信号）
+* [审计署](http://www.audit.gov.cn)：中国审计报、《审计观察》杂志 <sup>有微信号</sup>
 * [财政部](http://www.mof.gov.cn)：
 	[中国财经报](http://www.cfen.com.cn/dzb)📰
 	（中国会计报📰、中国政府采购报📰）
