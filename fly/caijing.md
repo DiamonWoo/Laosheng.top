@@ -10,7 +10,7 @@
 
 　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，突出标记 数字报📰 与 电视直播📺，大致分为：中央主管、部委主管、地方主管。
 
-　　读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。
+　　读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/财经云</div>
@@ -39,17 +39,15 @@
 …
 
 <h4>暂未归类的财经云媒体</h4>
-<small>
+
 *	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
 	[官网](http://gold.org.cn)、
 	紫荆文化集团 👔：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
 *	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
-	《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
-*	中宣部主管、人民日报社代管、中国报业协会主办的：[**中国产业经济信息网**](http://www.cinic.org.cn) 有很多行业报纸链接。
+	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
+*	中宣部主管、人民日报社代管、中国报业协会主办的：[**中国产业经济信息网**](http://www.cinic.org.cn)，有很多行业报纸链接
 *	[期货日报](http://www.qhrb.com.cn/about) 郑州
-
-</small>
 
 
 财经类中央媒体 🀄️
@@ -59,11 +57,11 @@
 * [人民日报](http://paper.people.com.cn/)社：
 	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
-	[国际金融报](https://epaper.ifnews.com/web/paper/index )📰周报 [官网](https://www.ifnews.com)、  
+	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️周报 [官网](https://www.ifnews.com)、  
 　　	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
 	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)
-* 　[新华社](http://www.news.cn)：　
+* [新华通讯社](http://www.news.cn)：
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
 	<sup>[法定信披](https://newxinpi.cs.com.cn/)</sup>、
 	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)
@@ -100,25 +98,25 @@
 * [审计署](http://www.audit.gov.cn)：中国审计报、《审计观察》杂志 <sup>有微信号</sup>
 * [财政部](http://www.mof.gov.cn)：
 	[中国财经报](http://www.cfen.com.cn/dzb)📰
-	（中国会计报📰、中国政府采购报📰）
+	（中国会计报🗞️、中国政府采购报📰）
 	[官网](http://www.cfen.com.cn)
 * [商务部](http://www.mofcom.gov.cn)：
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
 * [中国人民银行](http://www.pbc.gov.cn)：
-	㊣ [金融时报](https://epaper.FinancialNews.com.cn)📰 
+	㊣ [金融时报](https://epaper.FinancialNews.com.cn)🗞️
 	[中国金融新闻网](https://www.financialNews.com.cn)
 	<sup>证券[市场信息披露](https://xp.financialnews.com.cn/sy/)平台</sup>
 * 国家[金监总局](https://www.cbirc.gov.cn)：
-	[中国银行保险报](http://www.cbimc.cn/)网
+	[中国银行保险报](http://www.cbimc.cn/)网（？）
 * 中国[证监会](http://www.csrc.gov.cn)：
 	*证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
 * [市监总局](http://www.samr.gov.cn/)：
 	[中国市场监管报](http://pc.cmrnn.com.cn/)📰 [官网](http://www.cmrnn.com.cn/)、
 	[中国质量报](http://epaper.cqn.com.cn)📰 [官网](https://www.cqn.com.cn/)、
-	[中国消费者报](https://zxb.ccn.com.cn/)📰 [官网](https://www.ccn.com.cn/)
+	[中国消费者报](https://zxb.ccn.com.cn/)📰 [官网](https://www.ccn.com.cn/) （新）
 * 国家[税务总局](http://www.chinatax.gov.cn/)：
-	[中国税务报](http://www.ctaxnews.com.cn/node_34.html)📰
+	[中国税务报](http://www.ctaxnews.com.cn/node_34.html)🗞️
 * 国务院[发展研究中心](https://www.drc.gov.cn)：
 	[<small>中国经济时报</small>](https://jjsb.cet.com.cn/)📰 [官网](https://www.cet.com.cn)
 * 中国社科院[工业经济研究所](http://gjs.cass.cn)：
@@ -127,7 +125,7 @@
 
 地方财经云媒体 📑
 --------------
-本段收录各省市财经类数字报 和 电视直播网址，关于地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*。
+本段收录各省市财经类数字报 和 电视直播网址。
 
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
 * [河北经济日报](http://epaper.hbjjrb.com/)📰 [官网](http://www.hbjjrb.com)
@@ -155,18 +153,18 @@
 	济南[经济观察报](https://www.eeo.com.cn/epaper/eeocover/jjgcb/1.shtml)文字版免费
 * [河南商报](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰 [官网](https://www.shangbw.com)
 * 广东：
-	南方财经全媒体集团 [南方财经网](https://www.sfcCN.com)SFC /
+  *	南方财经全媒体集团/[南方财经网](https://www.sfcCN.com)SFC ——
 	[21世纪经济报道](https://epaper.21jingji.com/)📰 [21经济网](https://www.21jingji.com/)、
-	广东广电[经济科教](https://www.gdtv.cn/tvChannelDetail/49)频道直播 📺、
+	[投资快报](https://service.927953.com/cn/kuaibao/)📰 [财富动力](https://www.927953.com/)网
+  *	广东广电——[经济科教](https://www.gdtv.cn/tvChannelDetail/49)频道直播 📺、
 	[珠江经济台](https://www.gdtv.cn/audioChannelDetail/86)在线广播 📻 AM1062、
-	[投资快报](https://service.927953.com/cn/kuaibao/)📰 [财富动力](https://www.927953.com/)网、
 	[股市广播](https://www.927953.com/Broadcast/Radio.aspx) 📻 FM95.3
-	* [深圳商报](https://szsb.sznews.com/)📰 深圳新闻网[财经](https://www.sznews.com/banking/)栏目、
+  *	[深圳商报](https://szsb.sznews.com/)📰 深圳新闻网[财经](https://www.sznews.com/banking/)栏目、
 	  [香港商报](http://www.hkcd.com.hk/pdf/)📰 
 * [云南经济日报](http://jjrbpaper.yunnan.cn/)📰 [官网](http://www.jjrbnet.com)
 * 四川：
-	[四川经济日报](http://epaper.scjjrb.com/)📰 [官网](https://www.scjjrb.com)、
-	成都传媒集团
+	[四川经济日报](http://epaper.scjjrb.com/)📰 [官网](https://www.scjjrb.com)
+  *	成都传媒集团
 	[每日经济新闻](https://epaper.mrjjxw.com/)📰 
 	[文字版](https://www.nbd.com.cn/newspapers/today)
 	[每经网 ](https://www.nbd.com.cn)
@@ -182,6 +180,7 @@
 	[俄新社](https://ria.ru)
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
+*	Investing.com 中文版[英为财情](https://cn.investing.com/markets/)📍
 
 	[俄罗斯财政部](http://government.ru/department/69/events/)？
 	<a href="https://home.treasury.gov/" >美国财政部	</a>　
@@ -220,7 +219,7 @@
 参考文献 <sup>与图例</sup>
 --------
 
-*	📰 此前文字链接为数字报
+*	📰 此前文字链接为数字报，🗞️收费的数字报，© 收费的杂志
 *	📺 此前链接为电视直播网址
 *	📻 此前链接为广播在线收听网址
 *	㊣ [证券市场信息披露](http://www.csrc.gov.cn/csrc/c101950/c1047981/content.shtml)的法定媒体
@@ -323,7 +322,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.7	202410
+	中文财经云媒体 v0.3.8	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -335,4 +334,4 @@
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
 
-㊎㊖㊬ ㊭ ㊮㊣ⓅⓟⓏ
+㊎㊖㊬ ㊭ ㊮㊣ⓅⓟⓏ©
