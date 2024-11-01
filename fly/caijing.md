@@ -42,7 +42,7 @@
 
 *	[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)🗞️
 	[官网](http://gold.org.cn)、
-	紫荆文化集团 👔：
+	央企 👔 紫荆文化集团：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
 *	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
 	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
@@ -72,7 +72,7 @@
 	㊣ [**经济参考报**](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
   *	中国经济信息社——
 	(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
-  *	©《财经国家周刊》[智库](https://www.lwinst.com/)
+  *	©《[财经国家](http://paper.news.cn/bkdy/cjgj.htm)周刊》 瞭望[智库](https://www.lwinst.com/)
 * 中央广播电视[总台](https://www.cctv.com/gyys/)：  
 	* 总台央视 财经频道[CCTV-2央视频](https://www.yangshipin.cn/tv/home?pid=600001800)直播 📺，
 	  《[经济信息联播](https://tv.cctv.com/lm/jjxxll)》栏目点播
@@ -89,8 +89,6 @@
 	[中新网-财经](https://www.chinanews.com/finance/)、
 	[中新经纬](https://www.jwview.com)网
 
-<div id="buwei" align="right"><a href="#" target="_top">↑ Top</a></div>
-
 
 国务院部委主管 🏢
 --------------
@@ -100,11 +98,11 @@
 	[改革网](http://www.cfgw.net.cn)、
 	[中国发展网](http://www.chinadevelopment.com.cn/)、
 	[<small>中国经济导报</small>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
-* [审计署](http://www.audit.gov.cn)：中国审计报、《审计观察》杂志 <sup>有微信号</sup>
+* [审计署](http://www.audit.gov.cn)：中国审计报、《审计观察》杂志 <sup>有微信</sup>
 * [财政部](http://www.mof.gov.cn)：
-	[中国财经报](http://www.cfen.com.cn/dzb)📰
-	（中国会计报🗞️、中国政府采购报📰）
-	[官网](http://www.cfen.com.cn)
+	[中国财经报](http://114.118.9.73/epaper/)📰 [官网](http://www.cfen.com.cn)
+	（[中国政府采购报](http://114.118.9.73:81/zcb/epaper/)📰 、
+	[中国会计报](http://www.cfen.com.cn/dzb)🗞️）
 * [商务部](http://www.mofcom.gov.cn)：
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
@@ -116,7 +114,7 @@
 * 国家[金监总局](https://www.cbirc.gov.cn)：
 	[中国银行保险报](http://www.cbimc.cn/)网（？）
 * 中国[证监会](http://www.csrc.gov.cn)：
-	*证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
+	<small><i>证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)</i></small>
 * [市监总局](http://www.samr.gov.cn/)：
 	[中国市场监管报](http://pc.cmrnn.com.cn/)📰 [官网](http://www.cmrnn.com.cn/)、
 	[中国质量报](http://epaper.cqn.com.cn)📰 [官网](https://www.cqn.com.cn/)、
@@ -144,12 +142,12 @@
 	[**第一财经**](https://www.yicai.com)
 	[日报](https://www.yicai.com/epaper/pc/)📰/
 	[电视](https://www.yicai.com/tv/) %📺 /
+	[广播](https://www.yicai.com/tv/#ycgb) 📻 FM90.9 /
+	[杂志](https://www.cbnweek.com)yiMagazine、
+	[YiCai](https://www.yicaiglobal.com/)一财全球🍴、
 	[东方财经](https://www.yicai.com/tv/#dfcj)-浦东 %📺 /
-	[广播](https://www.yicai.com/tv/#ycgb) 📻 FM90.9、  
-　	《[yiMagazine](https://www.cbnweek.com)》杂志、
-	[YiCai](https://www.yicaiglobal.com/)一财全球🍴；
   *	[上海报业](https://www.sumg.com.cn/qxmt/)——
-	[财联社](https://www.cls.cn/)、
+	[**财联社**](https://www.cls.cn/)、
 	[新民晚报](http://paper.xinmin.cn/index/xmwb/)📰 、
 	<del>科创板日报</del>不是报纸
 * 浙江：
@@ -173,6 +171,8 @@
 	[股市广播](https://www.927953.com/Broadcast/Radio.aspx) 📻 FM95.3
   *	[深圳商报](https://szsb.sznews.com/)📰 深圳新闻网[财经](https://www.sznews.com/banking/)栏目、
 	  [香港商报](http://www.hkcd.com.hk/pdf/)📰 
+* 海南：
+	[国际旅游岛](https://www.hndnews.com/)商报📰 <sup>原海南经济报</sup>[椰网](http://paper.hndnews.com/)
 * [云南经济日报](http://jjrbpaper.yunnan.cn/)📰 [官网](http://www.jjrbnet.com)
 * 四川：
 	[四川经济日报](http://epaper.scjjrb.com/)📰 [官网](https://www.scjjrb.com)
@@ -180,6 +180,9 @@
 	[**每日经济新闻**](https://epaper.mrjjxw.com/)📰 
 	[文字版](https://www.nbd.com.cn/newspapers/today)
 	[每经网 ](https://www.nbd.com.cn)
+* 重庆：
+	[重庆商报](https://e.chinacqsb.com/)📰 [上游新闻](https://www.chinacqsb.com)
+
 * [甘肃经济日报](https://szb.gansudaily.com.cn/gsjjrb/)📰 [每日甘肃网](https://www.gansudaily.com.cn)
 
 []()📰 🗞️官网[]()
@@ -278,7 +281,7 @@
 　√经济观察报社		　《中国信息界》杂志社		　新甘肃
 　中信出版集团		　《物流技术与应用》杂志社		　湖南红网新媒体集团
 　和讯网		　《中国会展》杂志社		　越牛新闻
-　国际旅游岛商报社		　第一环保网		　闪电新闻客户端
+　√国际旅游岛商报社		　第一环保网		　闪电新闻客户端
 　中国剪报社		　中国上市公司网		　齐鲁壹点
 　北京万方医道信息科技		　中国传媒导航网		　叶檀财经
 　西北信息报社		　中国视频网		　天目新闻
