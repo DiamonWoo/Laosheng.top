@@ -1,6 +1,6 @@
 中文财经云媒体 💹 <sup>美好生活爱自己</sup>
 ==============
-大萌	© 202410（正在收录）
+大萌	© 202410-11（正在收录）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/caijing" />
 
@@ -8,9 +8,9 @@
 
 　　在近千家“中国[新闻云](./)媒体”中，有一类专业的媒体数量很突出：财经类。这一类媒体有不少名称相似，容易混淆。比如有：‘经济晚报’‘经济日报’‘经济导报’‘中国经济导报’‘中国经济时报’；网站有《中国经济周刊》的‘经济网’，有《经济》杂志的‘经济网’，完全同名；《中国证券报》的官网叫‘中证网’，《上海证券报》的官网不叫‘上证网’而是‘中国证券网’……
 
-　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，突出标记 数字报📰 与 电视直播📺，大致分为：中央主管、部委主管、地方主管。
+　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，大致分为：**中央主管、部委主管、地方主管**。
 
-　　读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*
+　　“财经云”突出标记：数字报📰 与 电视直播📺，更多图例请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/财经云</div>
@@ -40,7 +40,7 @@
 
 <h4>暂未归类的财经云媒体</h4>
 
-*	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)📰 
+*	%[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)🗞️
 	[官网](http://gold.org.cn)、
 	紫荆文化集团 👔：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
@@ -55,31 +55,32 @@
 中央媒体选自[新闻云](./)第一段，指2021年全国记协发布的会员名录中18家中央主要新闻单位。
 
 * [人民日报](http://paper.people.com.cn/)社：
-	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
+  *	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
-	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️周报 [官网](https://www.ifnews.com)、  
-　　	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
-	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>
+	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️(周)[官网](https://www.ifnews.com)
+  *	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
+	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>、
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)
 * [新华通讯社](http://www.news.cn)：
+  *	[中国财富网](https://www.cfbond.com)——
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
 	<sup>[法定信披](https://newxinpi.cs.com.cn/)</sup>、
 	㊣ [上海证券报](https://paper.cnstock.com/)📰 [中国证券网](https://www.cnstock.com)
 	<sup>[法定信披](https://xinpi.cnstock.com/p)</sup>、
-	㊣ [**经济参考报**](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、  
-　　	《财经国家周刊》[官网](https://www.lwinst.com/)、
-	中国经济信息社(中经社)/(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
-	[中国财富网](https://www.cfbond.com)
+	㊣ [**经济参考报**](http://dz.jjckb.cn/www/pages/webpage2009)📰 [官网](http://jjckb.xinhuanet.com)、
+  *	中国经济信息社——
+	(新华财经)[中国金融信息网](https://www.cnfin.com)《金融世界》？
+	《财经国家周刊》[官网](https://www.lwinst.com/)
 * 中央广播电视[总台](https://www.cctv.com/gyys/)：  
 	* 总台央视 财经频道[CCTV-2央视频](https://www.yangshipin.cn/tv/home?pid=600001800)直播 📺，
 	  《[经济信息联播](https://tv.cctv.com/lm/jjxxll)》栏目点播
 	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播 📻
 * 光明日报社：[光明财经](https://economy.gmw.cn)网
 * 经济日报社：
-	[经济日报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
+  *	[经济日报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
 	《[经济](https://www.jingji.com.cn/ebook/)》杂志📰 
 	[经济网](https://www.jingji.com.cn)<sub>有同名</sub>
-　	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
+  *	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
@@ -170,7 +171,7 @@
 	[每经网 ](https://www.nbd.com.cn)
 * [甘肃经济日报](https://szb.gansudaily.com.cn/gsjjrb/)📰 [每日甘肃网](https://www.gansudaily.com.cn)
 
-📰 [官网]()
+[]()📰 🗞️官网[]()
 
 
 境外中文财经网 💱
@@ -219,11 +220,11 @@
 参考文献 <sup>与图例</sup>
 --------
 
-*	📰 此前文字链接为数字报，🗞️收费的数字报，© 收费的杂志
+*	📰 此前文字链接为数字报，🗞️收费的数字报
+*	㊣ [证券市场信息披露](http://www.csrc.gov.cn/csrc/c101950/c1047981/content.shtml)的法定媒体
+，© 收费的杂志
 *	📺 此前链接为电视直播网址
 *	📻 此前链接为广播在线收听网址
-*	㊣ [证券市场信息披露](http://www.csrc.gov.cn/csrc/c101950/c1047981/content.shtml)的法定媒体
-	/ 创业板信息披露网站
 *	中国经济传媒协会	[会员介绍](http://www.acep.org.cn/hyjs/)：
 
 　√经济日报社		　√经济导报社		　√《中国经营报》社
