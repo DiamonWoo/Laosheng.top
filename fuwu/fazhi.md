@@ -9,20 +9,22 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
 　　‘法治政府部门集’页面简称‘法门集’，收录网址的部门包括：立法、司法、执法（即：人大/两院/公安）、政法委与司法厅局、纪检监察部门；省级部门增加收录：省政协、审计厅、药监局、监狱管理局；还有半官方的 <small>法学会、律师协会</small>。　另有简称‘公检法’的第二页面，收录 **县区级** 公检法网址ⒼⒿⒻ。通过各省的箭头图标 ↘↖，两个页面可以互相跳转，请注意浏览器的窗口切换。
 
 　　收录工作正在进行，由于个人能力有限，大萌欢迎读者制作改进版本。本页面特意采用了允许改编的GPL 3.0版权许可证（和Linux内核许可证相同，与知识共享的BY-SA协议兼容），欢迎<a href="https://laosheng.top/c/author">提出意见</a>。
+
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法治政府部门集
-</div>
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法门集</div>
+
 
 <h2>中央法治部门</h2>与 全国统一服务电话号码
 
-🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdh14j2c/)　[代表名单页](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/)　[法律法规页](https://flk.npc.gov.cn)<sup>🔸</sup>　　🟨[全国政协](http://www.cppcc.gov.cn)　[十四届大会](http://www.cppcc.gov.cn/zxww/14j1cdhzt/home/)　[委员名单](http://www.cppcc.gov.cn/zxww/newcppcc/zxqgwyh/)　[历次大会](http://www.cppcc.gov.cn/zxww/newcppcc/hyhd/)  
-　⚔️[最高检](https://www.spp.gov.cn)<sup>🔸</sup>ⓜ/[weibo](https://weibo.com/sppcn#最高人民检察院)⠀☏ 12309　⚖️[最高法](https://www.court.gov.cn)<sup>🔸</sup>/[weibo](https://weibo.com/zuigaofa#最高人民法院)⠀☏ 12368⠀<sub>[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '名单全，网址不全')</sub>　　[中央政法委](https://www.chinapeace.gov.cn)<sup>🔸</sup>ⓜ/[weibo](https://weibo.com/changan#中国长安网)⠀☏ 12337⠀[<small>中国法学会</small>](https://www.chinalaw.org.cn)  
-　[中央纪委国家监委](https://www.ccdi.gov.cn)<sup>🔸</sup>ⓜ　[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)⠀☎️12388　wx：[<small>微信大厅</small>](http://weixin.ccdi.gov.cn/h5/qrcode)
+🟥[全国人大](http://www.npc.gov.cn)：[十四届代表大会](http://www.npc.gov.cn/npc/c2434/dbdh14j2c/)　[代表名单页](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/)　[法律法规页](https://flk.npc.gov.cn)　　🟨[全国政协](http://www.cppcc.gov.cn)　[十四届大会](http://www.cppcc.gov.cn/zxww/14j1cdhzt/home/)　[委员名单](http://www.cppcc.gov.cn/zxww/newcppcc/zxqgwyh/)　[历次大会](http://www.cppcc.gov.cn/zxww/newcppcc/hyhd/)  
+　[中央纪委国家监委](https://www.ccdi.gov.cn)ⓜ　[巡视巡察页](https://www.ccdi.gov.cn/xsxcn/)　[审查调查页](https://www.ccdi.gov.cn/scdcn/)⠀☎️12388　wx：[<small>微信大厅</small>](http://weixin.ccdi.gov.cn/h5/qrcode)  
+　⚔️[最高检](https://www.spp.gov.cn)ⓜ/[weibo](https://weibo.com/sppcn#最高人民检察院)⠀☏ 12309　⚖️[最高法](https://www.court.gov.cn)/[weibo](https://weibo.com/zuigaofa#最高人民法院)⠀☏ 12368⠀<sub>[地方法院名单](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml '名单全，网址不全')</sub>
 
-🟦[中央人民政府](https://www.gov.cn)<sup>🔸</sup>ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  …… 更多部门请见[中央有关部门集](../fuwu/zhongyang)  
-　[司法部](https://www.moj.gov.cn)<sup>🔸</sup>　☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　[<small>中华全国律师协会</small>](http://www.acla.org.cn)  
-　[公安部](https://www.mps.gov.cn)<sup>🔸</sup>ⓜ　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html) ☏ 12389　🛂<small>weibo：[治安局](https://weibo.com/dshcsh#中国警方在线)　[交管局](https://weibo.com/gabjgj#公安部交通管理局)　[刑侦局](https://weibo.com/gabxzj#公安部刑侦局)</small>  
+　中央政法委$[中国长安网](http://www.chinapeace.gov.cn)ⓜ/[weibo](https://weibo.com/changan#中国长安网)⠀☏ 12337[举报平台](http://jyzd.12337.gov.cn/)政法干警/扫黑除恶⠀[<small>中国法学会</small>](https://www.chinalaw.org.cn)
 
+🟦[中央人民政府](https://www.gov.cn)ⓜ 　[全国统一服务电话](http://www.gov.cn/fuwu/)📞 12345  …… 更多部门请见[中央有关部门集](../fuwu/zhongyang)  
+　[司法部](https://www.moj.gov.cn)　☏[12348法律服务站](http://12348.moj.gov.cn/)ⓜ　[<small>中华全国律师协会</small>](http://www.acla.org.cn)  
+　[公安部](https://www.mps.gov.cn)ⓜ　[警民互动页](https://www.mps.gov.cn/n2254536/hudong_index.html) ☏ 12389[举报中心](https://www.12389.gov.cn)公安督察　🛂<small>weibo：[治安局](https://weibo.com/dshcsh#中国警方在线)　[交管局](https://weibo.com/gabjgj#公安部交通管理局)　[刑侦局](https://weibo.com/gabxzj#公安部刑侦局)</small>  
 
 <h3 id="mulu">35个省级单位目录</h3>
 <small>按身份证号前两位排序： </small>
@@ -70,6 +72,7 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
 		设计LC = 4062 ≤ 31×16 + (16×3-2+26)×3 + (333+2)×10 + x　（省+直辖市+地级市）
 		完成率 ≤  72.45%
 
+*	202411	本页地方数据暂停更新，请等待新页面‘中国政法区划集’上线。
 *	202403	⚠发现河北、山西、浙江、江西大批量的法院域名变更，等待更新。
 *	202403	检查各省人大网址变更。
 *	202403	补充白杨市、台港澳政府网址，更新安徽六地市的审查调查页路径。
@@ -675,16 +678,16 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
  <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港</a>
 　+852♾　<sub>1997年回归祖国</sub></h3>
 
-全国人大[香港代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/xgdbtmd14/)　　[香港立法会](https://www.legco.gov.hk/)<sup>🔸</sup>　	[律政司](https://www.doj.gov.hk/)<sup>🔸</sup>　	[香港法院](https://www.judiciary.hk/)<sup>🔸</sup>  
-[香港廉政公署](https://www.icac.org.hk/)<sup>🔸</sup> 　	[香港政府](https://www.gov.hk/)<sup>🔸</sup> 　	[香港警务处](https://www.police.gov.hk/)<sup>🔸</sup> 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
+全国人大[香港代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/xgdbtmd14/)　　[香港立法会](https://www.legco.gov.hk/)　	[律政司](https://www.doj.gov.hk/)　	[香港法院](https://www.judiciary.hk/)  
+[香港廉政公署](https://www.icac.org.hk/) 　	[香港政府](https://www.gov.hk/) 　	[香港警务处](https://www.police.gov.hk/) 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
   
 
 <h3 id="82" title="820000">82 
  <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门</a>
 　+853♾　<sub>1999年回归祖国</sub></h3>
 
-全国人大[澳门代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/amdbtmd14/)　　[澳门立法会](https://www.al.gov.mo/)<sup>🔸</sup>　	[检察院](https://www.mp.gov.mo/)<sup>🔸</sup>　	[澳门法院](https://www.court.gov.mo/)<sup>🔸</sup>  
-[澳门廉政公署](https://www.ccac.org.mo/)<sup>🔸</sup> 　[澳门政府](https://www.gov.mo/)<sup>🔸</sup> 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
+全国人大[澳门代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/amdbtmd14/)　　[澳门立法会](https://www.al.gov.mo/)　	[检察院](https://www.mp.gov.mo/)　	[澳门法院](https://www.court.gov.mo/)  
+[澳门廉政公署](https://www.ccac.org.mo/) 　[澳门政府](https://www.gov.mo/) 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
 
 
 <h3>编辑后记</h3>
@@ -694,17 +697,18 @@ GPL3.0　大萌　2022-2024	<base target="_blank">
 
 <h4>技术标记图例(备用)</h4>
 
-+	🔸¹ 支持https安全连接 🔒Ⓢ
 +	ⓜ² 优化适配手机浏览器 📱🔹
 +	💬³ 开放网页留言功能 
++	$　不支持https安全连接
++	<del>🔸¹ 支持https安全连接 🔒Ⓢ</del>
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
 
-　　老生常谈，节约您的搜寻时间。欢迎<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">提出宝贵意见</a>，如果发现网址<a href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">错误请指出</a>，谢谢！🙇
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
 	老生常谈© 2019-2023 大萌　CC 3.0
-	法治政府部门集 v0.9.9 　202403
+	法治政府部门集 v0.9.11 　202403-11
 	https://laosheng.top/fuwu/fazhi
 	GPL 3.0  可转发-可衍生-相同方式授权
 ```
