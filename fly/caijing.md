@@ -10,7 +10,7 @@
 
 　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，大致分为：**中央主管、部委主管、地方主管**。
 
-　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*
+　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/财经云</div>
@@ -79,7 +79,8 @@
   *	[经济日报](http://paper.ce.cn/)📰 [中国经济网](http://www.ce.cn)、
 	《[经济](https://www.jingji.com.cn/ebook/)》杂志📰 
 	[经济网](https://www.jingji.com.cn)<sub>有同名</sub>
-  *	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)
+  *	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)、
+	<del>[中国建材报](http://www.cbmd.cn/actrice/11573.html)</del>2024休刊
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
@@ -135,7 +136,8 @@
 　中国消费者报	　消费日报	　中国质量报	
 　贸促会 [中国贸易报](http://www.chinatradenews.com.cn/epaper/)📰 [新闻网](https://www.chinatradenews.com.cn)
 
-　中电新闻网	
+　中电新闻网？国家能源局[CPTV](https://www.cptv.com.cn/)📼中国电力电视台
+	中国[能源新闻网](https://www.cpnn.com.cn)	
 　中国煤炭报？[中煤地质报](http://digital.zmdxw.com/)📰  	
 　[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)🗞️[官网](http://gold.org.cn)	
 　中国矿业报	　中国冶金报	　中国有色金属报	
@@ -145,14 +147,20 @@
 　中国交通报	　中国航空报	　中国航天报	
 　中国船舶报	　中国海洋报	　中国远洋报	
 　人民铁道报	　中国水运报	　中国水利报	
-　中国建材报	　中国铁道建筑报	
-　中国建设报	　中华建筑报	　建筑时报	
+　🀄 <del>中国建材报</del>	
+　⚙中国[铁道建筑报](http://paper.crcc.cn/)📰 [中国铁建](https://www.crcc.cn/)	
+　住建部：中国建设报🗞️[官网](http://www.chinaJSB.cn)	
+　中华建筑报[]()📰 [官网](http://www.zhjzbs.com)	
+　[建筑时报](http://dzb.jzsbs.com/epaper/jzsb/pc/layout)📰 [官网](https://www.jzsbs.com/)	
 
 　中国纺织报	　中国服饰报	　中国包装报	
 　中国医药报	　中国食品报	　华夏酒报	
 　中国电子报	　通信产业报	　中国知识产权报	
-　绿色时报	　中国高新技术产业导报	
-　中国社会报	　中国城乡金融报	
+　[中国绿色时报](http://www.greentimes.com/greentimepaper/paperindex.htm)📰 
+	[林业新闻网](http://www.greentimes.com/)
+　[中国高新技术产业导报](http://paper.chinahightech.com/)📰 
+	[中国高新网](http://www.chinahightech.com)
+　民政部：中国社会报[]()？	　中国城乡金融报	
 
 []()📰 🗞️官网[]()
 
