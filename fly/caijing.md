@@ -40,7 +40,7 @@
 
 <h4>暂未归类的财经云媒体</h4>
 
-*	央企 👔 紫荆文化集团：
+*	央企 🌻 紫荆文化集团：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
 *	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
 	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
@@ -144,14 +144,21 @@
 　中国石油报	　中国化工报	　中国石化报	
 　国土资源报	　中国气象报	　中国安全生产报	
 
-　中国交通报	　中国航空报	　中国航天报	
-　中国船舶报	　中国海洋报	　中国远洋报	
-　人民铁道报	　中国水运报	　中国水利报	
-　🀄 <del>中国建材报</del>	
-　⚙中国[铁道建筑报](http://paper.crcc.cn/)📰 [中国铁建](https://www.crcc.cn/)	
-　住建部：中国建设报🗞️[官网](http://www.chinaJSB.cn)	
+　<sup>交通部</sup>中国交通报[官网](https://www.zgjtb.com/2024-09/26/content_433085.html)📼	/
+　[中国水运报](https://www.zgsyb.com/column.html?cid=3011)🗞️[官网](https://www.zgsyb.com/)	
+　<sup>国铁集团</sup>👔[人民铁道报](https://peoplerail.com/newszb/index.htm)📰 [官网](https://www.peoplerail.com/)	
+　⚙[中国航空报](https://ep.cannews.com.cn/publish/zghkb7/)📰 [官网](https://www.cannews.com.cn/)	
+　⚙[中国航天报](http://szb.htgjjl.com/htb/)📰 [官网](http://www.csn.spacechina.com/)	
+　⚙中国船舶报 [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAgMIUJyF_7cyCzxaVrM9xV3QPIAdW423HAezLkyDsOvY/?)	？
+　⚙中国[远洋海运报](https://newspaper.coscoshipping.com/)📰 [官网](https://www.coscoshipping.com)	
+　<sup>自然部海洋局</sup>中国海洋报？	
+　<sup>水利部</sup>[中国水利报](https://www.chinawater.com.cn/zgslb/)🗞️[官网](https://www.chinawater.com.cn)	
+
+　<sup>住建部</sup>中国建设报🗞️[官网](http://www.chinaJSB.cn)	
 　中华建筑报[]()📰 [官网](http://www.zhjzbs.com)	
 　[建筑时报](http://dzb.jzsbs.com/epaper/jzsb/pc/layout)📰 [官网](https://www.jzsbs.com/)	
+　🀄 <del>中国建材报</del>	
+　⚙中国[铁道建筑报](http://paper.crcc.cn/)📰 [中国铁建](https://www.crcc.cn/)	
 
 　中国纺织报	　中国服饰报	　中国包装报	
 　中国医药报	　中国食品报	　华夏酒报	
@@ -160,7 +167,7 @@
 	[林业新闻网](http://www.greentimes.com/)
 　[中国高新技术产业导报](http://paper.chinahightech.com/)📰 
 	[中国高新网](http://www.chinahightech.com)
-　民政部：中国社会报[]()？	　中国城乡金融报	
+　<sup>民政部</sup>中国社会报[]()？	　中国城乡金融报	
 
 []()📰 🗞️官网[]()
 
@@ -278,7 +285,8 @@
 *	㊣ [证券市场信息披露](http://www.csrc.gov.cn/csrc/c101950/c1047981/content.shtml)的法定媒体
 ，© 杂志收费
 *	📺 此前链接为电视直播网址，%📺 登录才能看
-*	📻 此前链接为广播在线收听网址
+*	📻 此前链接为广播在线收听，📼 有视频点播
+*	⚙ 齿轮后方为国资委管理央企，参见：*[央企股](../fuwu/yangqi)*
 *	中国产业经济信息网 54-1家行业报理事单位。
 *	中国经济传媒协会 [会员介绍](http://www.acep.org.cn/hyjs/)
 	（打勾者已在上方收录，部分媒体已关停）：
