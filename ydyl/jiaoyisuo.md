@@ -6,7 +6,7 @@
 
 		create wealth and improve infrastructure connectivity. —— AIIB 亚投行：创造财富，并改善基础设施连通性。
 
-　　有什么东西把全世界人类联系在一起？航运航空、艺术与媒体、无线电与互联网，还有吗？还有：金融。比如，当年浦东还是一片片荒地，靠的国务院1986年‘九四专项’批文，向世界银行、亚洲开发银行、[IMF](united.html)筹资32亿美元，建设了南浦大桥、虹桥宾馆、上海地铁一号线、固定电话扩容……等一批市政基础设施项目，至今还在发挥作用。
+　　有什么东西把全世界人类联系在一起？航运航空、艺术与媒体、无线电与互联网，还有吗？还有：金融。比如，当年浦东还是一片片荒地，靠的国务院1986年‘九四专项’批文，向世界银行、亚洲开发银行、[IMF](united.html "国际货币基金组织")筹资32亿美元，建设了南浦大桥、虹桥宾馆、上海地铁一号线、固定电话扩容……等一批市政基础设施项目，至今还在发挥作用。
 
 　　金融是将全人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
@@ -41,7 +41,7 @@ Foreign Exchange Market
 *	**日本东京**： 08：00-14：30　[日本银行](https://www.boj.or.jp/statistics/market/forex/fxdaily/)公布每日外汇行情，pdf格式
 *	**中国香港**： 09：00-16：00　[香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元在7.75~7.85兑1美元的区间内。
 *	**新加坡**　： 09：00-16：00　新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
-*	中国上海：**09:30-23:30~03:00**　中国外汇交易中心📍发布[人民币汇率中间价](https://www.chinamoney.com.cn/chinese/bkccpr/)
+*	中国上海：**09:30-23:30~03:00**　中国外汇交易中心📍发布[人民币外汇即期报价](https://www.chinamoney.com.cn/chinese/mkdatapfx/)
 *	德国法兰克福：14：00-22：00　**欧洲央行**提供[欧元参考汇率](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)
 *	**英国伦敦**： 16：30-23：30　[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
 *	**美国纽约**： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布每周美元汇率（有即时汇率吗？）
