@@ -56,10 +56,10 @@
 * [人民日报](http://paper.people.com.cn/)社：
   *	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
-	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️(周)[官网](https://www.ifnews.com)
+	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️<sub>周报</sub>[官网](https://www.ifnews.com)
   *	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
 	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>、
-	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)
+	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰<sub>周报</sub> [官网](https://www.cnenergynews.cn)
   *	<sup>代管</sup>中国报业协会主办：[中国产业经济信息网](http://www.cinic.org.cn)，理事单位包括50余家国家级行业报
 * [新华通讯社](http://www.news.cn)：
   *	[中国财富网](https://www.cfbond.com)——
@@ -81,7 +81,7 @@
 	《[经济](https://www.jingji.com.cn/ebook/)》杂志📰 
 	[经济网](https://www.jingji.com.cn)<sub>有同名</sub>
   *	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)、
-	<del>[中国建材报](http://www.cbmd.cn/actrice/11573.html)</del>2024休刊
+	<del>[中国建材报](http://www.cbmd.cn/actrice/11573.html)</del>202401休刊
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
@@ -94,8 +94,8 @@
 
 * [发改委](https://www.ndrc.gov.cn)：
 	[中国改革报](http://www.cfgw.net.cn/epaper/)📰 
-	[改革网](http://www.cfgw.net.cn)、
-	[中国发展网](http://www.chinadevelopment.com.cn/)、
+	[改革网](http://www.cfgw.net.cn) /
+	<small>[中国发展网](http://www.chinadevelopment.com.cn/)</small>、
 	[<small>中国经济导报</small>](http://www.ceh.com.cn/epaper/uniflows/html/)📰 
 * [审计署](http://www.audit.gov.cn)：中国审计报、《审计观察》杂志 <sup>有微信</sup>
 * [财政部](http://www.mof.gov.cn)：
@@ -115,13 +115,13 @@
 * 中国[证监会](http://www.csrc.gov.cn)：
 	<small><i>证券市场信息披露的[七家法定媒体](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)</i></small>
 * [市监总局](http://www.samr.gov.cn/)：
-	[中国市场监管报](http://pc.cmrnn.com.cn/)📰 [官网](http://www.cmrnn.com.cn/)、
+	[中国市场监管报](http://pc.cmrnn.com.cn/)📰 [官网](http://www.cmrnn.com.cn/)<sub>原中国工商报</sub>、
 	[中国质量报](http://epaper.cqn.com.cn)📰 [官网](https://www.cqn.com.cn/)、
 	[中国消费者报](https://zxb.ccn.com.cn/)📰 [官网](https://www.ccn.com.cn/) （新）
 * 国家[税务总局](http://www.chinatax.gov.cn/)：
 	[中国税务报](http://www.ctaxnews.com.cn/node_34.html)🗞️
 * 国家[统计局](https://www.stats.gov.cn)：
-	[中国信息报](http://www.zgxxb.com.cn/)📰 
+	[**中国信息报**](http://www.zgxxb.com.cn/)📰 
 * 国务院[发展研究中心](https://www.drc.gov.cn)：
 	[<small>中国经济时报</small>](https://jjsb.cet.com.cn/)📰 [官网](https://www.cet.com.cn)
 * 中国社科院[工业经济研究所](http://gjs.cass.cn)：
@@ -138,7 +138,7 @@
 　<sup>中国企业联合会</sup>[中国企业报](http://epaper.zqcn.com.cn/)📰 [官网](https://www.zqbao.com.cn)	
 　<sup>工信部/中国[工业经济联合会](http://www.cfie.org.cn/index/index/info.html?id=6)</sup>
 [中国工业报](http://dzb.cinn.cn/)📰 [官网](https://www.cinn.cn)	
-　🏢中国工商报	201812改名：中国市场监管报
+　🏢中国工商报	
 　[**中国商报**](http://paper.zgswcn.com/)📰 [官网](https://www.zgswcn.com)	
 　🏢国际商报	
 　🏢中国质量报	
@@ -158,7 +158,7 @@
 
 　<sup>交通部</sup>中国交通报[官网](https://www.zgjtb.com/2024-09/26/content_433085.html)📼	
 、[中国水运报](https://www.zgsyb.com/column.html?cid=3011)🗞️[官网](https://www.zgsyb.com/)	
-　<sup>国铁集团</sup>👔[人民铁道报](https://peoplerail.com/newszb/index.htm)📰 [官网](https://www.peoplerail.com/)	
+　<sup>国铁集团</sup>👔[**人民铁道报**](https://peoplerail.com/newszb/index.htm)📰 [官网](https://www.peoplerail.com/)	
 　⚙[中国航空报](https://ep.cannews.com.cn/publish/zghkb7/)📰 [官网](https://www.cannews.com.cn/)	
 　⚙[中国航天报](http://szb.htgjjl.com/htb/)📰 [官网](http://www.csn.spacechina.com/)	
 　⚙中国船舶报 [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAgMIUJyF_7cyCzxaVrM9xV3QPIAdW423HAezLkyDsOvY/?)	？
@@ -291,7 +291,7 @@
 <div id="tuli" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 
-图例 <sup>与参考文献</sup>
+参考文献 <sup>与图例</sup>
 --------
 
 *	📰 此前文字链接为数字报，🗞️收费的数字报
@@ -301,7 +301,7 @@
 *	📻 此前链接为广播在线收听，📼 有视频点播
 *	⚙ 齿轮后方为国资委管理央企，参见：*[央企股](../fuwu/yangqi)*
 *	中国产业经济信息网 54-1家[行业报理事单位](http://www.cinic.org.cn)
-	（打勾者已在上方收录，部分媒体已变更）：  
+	（打勾者已在上方收录，部分媒体已变更）：
 <small>
 　√中国贸易报	　中国煤炭报	　√中国黄金报	
 　中国审计报	　中国包装报	　√中国高新技术产业导报	
@@ -321,10 +321,10 @@
 　国土资源报	　国际商报	　√中国商报	
 　√中国水运报	　中国电子报	　中国知识产权报	
 　中国工商报	　中国有色金属报
-</small>  
+</small>
 
 *	中国经济传媒协会 [会员介绍](http://www.acep.org.cn/hyjs/)
-	（打勾者已在上方收录，部分媒体已关停）：  
+	（打勾者已在上方收录，部分媒体已关停）：
 <small>
 　√经济日报社		　√经济导报社		　√《中国经营报》社
 　√人民网		　《西部大开发》杂志	　商讯杂志社
