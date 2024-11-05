@@ -130,29 +130,41 @@
 
 　　中宣部主管、人民日报社代管、中国报业协会主办的：[**中国产业经济信息网**](http://www.cinic.org.cn)，理事单位包括53家国家级行业报。（正在收录链接）
 
-　中国审计报	　中国档案报	　中国剪报	
-　中国税务报	　中国企业报	　中国工业报	
-　中国工商报	　中国商报	　国际商报	
-　中国消费者报	　消费日报	　中国质量报	
-　贸促会 [中国贸易报](http://www.chinatradenews.com.cn/epaper/)📰 [新闻网](https://www.chinatradenews.com.cn)
+　🏢中国审计报	
+　<sup>中办/国家档案馆</sup>[中国档案报](http://www.zgdazxw.com.cn/ofd/reader?file=DAB.ofd)📰 ☆**OFD格式** [资讯网](http://www.zgdazxw.com.cn/2024-06/12/content_500436.html)	
+　<sup>常州</sup>中国剪报<sub>有[微信](http://weixin.qq.com/q/02s05ixA8jd7H19vxGhD96)</sub>	
+　🏢中国税务报	
+　<sup>中国企业联合会</sup>[中国企业报](http://epaper.zqcn.com.cn/)📰 [官网](https://www.zqbao.com.cn)	
+　<sup>工信部/中国[工业经济联合会](http://www.cfie.org.cn/index/index/info.html?id=6)</sup>
+[中国工业报](http://dzb.cinn.cn/)📰 [官网](https://www.cinn.cn)	
+　🏢中国工商报	201812改名：中国市场监管报
+　[**中国商报**](http://paper.zgswcn.com/)📰 [官网](https://www.zgswcn.com)	
+　🏢国际商报	
+　🏢中国质量报	
+　🏢中国消费者报	
+　<sup>国资委/中国[轻工业联合会](http://www.cnlic.org.cn/footers/footer-qsydw.html)</sup>
+[消费日报](http://dzb.xfrb.com.cn/)📰 [官网](http://www.xfrb.com.cn/)<i>原轻工业报</i>	
+、[中国食品报](http://www.cnfood.cn/electronic?qdate=)📰 [官网](http://www.cnfood.cn)	
+　<sup>贸促会</sup>[中国贸易报](http://www.chinatradenews.com.cn/epaper/)📰 [新闻网](https://www.chinatradenews.com.cn)
 
-　中电新闻网？国家能源局[CPTV](https://www.cptv.com.cn/)📼中国电力电视台
-	中国[能源新闻网](https://www.cpnn.com.cn)	
+　<sup>发改委/国家能源局</sup>中国能源电视台[CPTV](https://www.cptv.com.cn/)📼	[新闻网](https://www.cpnn.com.cn)	
+、[中国电力报](https://www.cpnn.com.cn/epaper/)📰 [传媒集团](http://www.cpmg.com.cn)
 　中国煤炭报？[中煤地质报](http://digital.zmdxw.com/)📰  	
 　[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)🗞️[官网](http://gold.org.cn)	
 　中国矿业报	　中国冶金报	　中国有色金属报	
 　中国石油报	　中国化工报	　中国石化报	
 　国土资源报	　中国气象报	　中国安全生产报	
 
-　<sup>交通部</sup>中国交通报[官网](https://www.zgjtb.com/2024-09/26/content_433085.html)📼	/
-　[中国水运报](https://www.zgsyb.com/column.html?cid=3011)🗞️[官网](https://www.zgsyb.com/)	
+　<sup>交通部</sup>中国交通报[官网](https://www.zgjtb.com/2024-09/26/content_433085.html)📼	
+、[中国水运报](https://www.zgsyb.com/column.html?cid=3011)🗞️[官网](https://www.zgsyb.com/)	
 　<sup>国铁集团</sup>👔[人民铁道报](https://peoplerail.com/newszb/index.htm)📰 [官网](https://www.peoplerail.com/)	
 　⚙[中国航空报](https://ep.cannews.com.cn/publish/zghkb7/)📰 [官网](https://www.cannews.com.cn/)	
 　⚙[中国航天报](http://szb.htgjjl.com/htb/)📰 [官网](http://www.csn.spacechina.com/)	
 　⚙中国船舶报 [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAgMIUJyF_7cyCzxaVrM9xV3QPIAdW423HAezLkyDsOvY/?)	？
 　⚙中国[远洋海运报](https://newspaper.coscoshipping.com/)📰 [官网](https://www.coscoshipping.com)	
-　<sup>自然部海洋局</sup>中国海洋报？	
 　<sup>水利部</sup>[中国水利报](https://www.chinawater.com.cn/zgslb/)🗞️[官网](https://www.chinawater.com.cn)	
+　<sup>自然资源部/海洋局</sup>中国海洋报？	
+　<sup>自然资源部/林草局</sup>[中国绿色时报](http://www.greentimes.com/greentimepaper/paperindex.htm)📰 [林业新闻网](http://www.greentimes.com/)
 
 　<sup>住建部</sup>中国建设报🗞️[官网](http://www.chinaJSB.cn)	
 　中华建筑报[]()📰 [官网](http://www.zhjzbs.com)	
@@ -161,13 +173,13 @@
 　⚙中国[铁道建筑报](http://paper.crcc.cn/)📰 [中国铁建](https://www.crcc.cn/)	
 
 　中国纺织报	　中国服饰报	　中国包装报	
-　中国医药报	　中国食品报	　华夏酒报	
+　中国医药报	　华夏酒报	
 　中国电子报	　通信产业报	　中国知识产权报	
-　[中国绿色时报](http://www.greentimes.com/greentimepaper/paperindex.htm)📰 
-	[林业新闻网](http://www.greentimes.com/)
+
 　[中国高新技术产业导报](http://paper.chinahightech.com/)📰 
 	[中国高新网](http://www.chinahightech.com)
-　<sup>民政部</sup>中国社会报[]()？	　中国城乡金融报	
+　<sup>民政部</sup>中国社会报[]()？	
+　<sup>农业银行</sup>💳中国城乡金融报？	
 
 []()📰 🗞️官网[]()
 
@@ -374,9 +386,7 @@
 
 
 其他备选媒体：
-	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、
-（券商中国///数据宝/创业资本汇/新财富）
-
+	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、（券商中国///数据宝/创业资本汇/新财富）
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -386,7 +396,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.9	202411
+	中文财经云媒体 v0.3.10	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
