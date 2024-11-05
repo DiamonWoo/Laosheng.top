@@ -46,7 +46,7 @@
 	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
 *	[期货日报](http://www.qhrb.com.cn/about) 郑州
 
-<div id="zhongyang" align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id="zhongyang" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 
 财经类中央媒体 🀄️
@@ -60,6 +60,7 @@
   *	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
 	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>、
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰周报 [官网](https://www.cnenergynews.cn)
+  *	<sup>代管</sup>中国报业协会主办：[中国产业经济信息网](http://www.cinic.org.cn)，理事单位包括50余家国家级行业报
 * [新华通讯社](http://www.news.cn)：
   *	[中国财富网](https://www.cfbond.com)——
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
@@ -128,7 +129,7 @@
 
 <h4>国家级行业报</h4>
 
-　　中宣部主管、人民日报社代管、中国报业协会主办的：[**中国产业经济信息网**](http://www.cinic.org.cn)，理事单位包括53家国家级行业报。（正在收录链接）
+　　以‘中国产业经济信息网’的理事单位为基础，收录国家级行业云媒体。已在上方🀄和🏢收录的不再给链接。
 
 　🏢中国审计报	
 　<sup>中办/国家档案馆</sup>[中国档案报](http://www.zgdazxw.com.cn/ofd/reader?file=DAB.ofd)📰 ☆**OFD格式** [资讯网](http://www.zgdazxw.com.cn/2024-06/12/content_500436.html)	
@@ -183,7 +184,7 @@
 
 []()📰 🗞️官网[]()
 
-<div id="difang" align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id="difang" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 
 地方财经云媒体 📑
@@ -287,7 +288,7 @@
 	<a href="http://mof.gov.ps/" >巴勒斯坦财政部	</a>？　
 	<a href="http://www.mof.gov.il/" >以色列财政部	</a>%　
 
-<div id="tuli" align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id="tuli" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 
 图例 <sup>与参考文献</sup>
@@ -299,10 +300,32 @@
 *	📺 此前链接为电视直播网址，%📺 登录才能看
 *	📻 此前链接为广播在线收听，📼 有视频点播
 *	⚙ 齿轮后方为国资委管理央企，参见：*[央企股](../fuwu/yangqi)*
-*	中国产业经济信息网 54-1家行业报理事单位。
-*	中国经济传媒协会 [会员介绍](http://www.acep.org.cn/hyjs/)
-	（打勾者已在上方收录，部分媒体已关停）：
+*	中国产业经济信息网 54-1家[行业报理事单位](http://www.cinic.org.cn)
+	（打勾者已在上方收录，部分媒体已变更）：  
+<small>
+　√中国贸易报	　中国煤炭报	　√中国黄金报	
+　中国审计报	　中国包装报	　√中国高新技术产业导报	
+　√中国档案报	　中国气象报	　中国剪报	
+　中国船舶报	　中国消费者报	　√中国建设报	
+　中国社会报	　√人民铁道报	　√中国航空报	
+　中国水利报	　√中国航天报	　中国医药报	
+　中国矿业报	　中国煤炭报	　√中国建材报	
+　√中华建筑报	　中国工业报	　中国交通报	
+　中国化工报	　建筑时报	　中国安全生产报	
+　华夏酒报	　通信产业报	　√中国食品报	
+　中国企业报	　中国石油报	　√中国税务报	
+　中国服饰报	　√绿色时报	　√中国铁道建筑报	
+　？中电新闻网	　中国纺织报	　中国石化报	
+　中国海洋报	　√消费日报	　中国城乡金融报	
+　中国冶金报	　√中国质量报	　？中国远洋报	
+　国土资源报	　国际商报	　√中国商报	
+　√中国水运报	　中国电子报	　中国知识产权报	
+　中国工商报	　中国有色金属报
+</small>  
 
+*	中国经济传媒协会 [会员介绍](http://www.acep.org.cn/hyjs/)
+	（打勾者已在上方收录，部分媒体已关停）：  
+<small>
 　√经济日报社		　√经济导报社		　√《中国经营报》社
 　√人民网		　《西部大开发》杂志	　商讯杂志社
 　√新华网		　《中国品牌》杂志社	　《中国卫生经济》杂志社
@@ -383,7 +406,7 @@
 　√中国经济新闻联播网	　√每日经济新闻 	　中国民营科技实业家协会
 　《祖国》杂志社	　中国搜索信息科技股份	　速途网
 　消费日报社		　人民邮电报社		　√金融界网
-
+</small>
 
 其他备选媒体：
 	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、（券商中国///数据宝/创业资本汇/新财富）
@@ -396,7 +419,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.3.10	202411
+	中文财经云媒体 v0.4.1	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
