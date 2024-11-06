@@ -1,6 +1,7 @@
 一带一路民间站 💃
 =================
-大萌	2022-2024	<base target="_blank">
+大萌	2022-2024
+<base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/dir" />
 
 		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年北京，习近平
@@ -34,6 +35,7 @@
 外交动态 Diplomatic Dynamics
 ---------------------------
 
+*	中方对外单向免签国迅速增加，本页正在收录……
 *	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
 *	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
 *	加入一带一路国家数为：152个。近期签署合作文件的国家有：2023年11月(中东)约旦、7月(高加索)格鲁吉亚……
@@ -42,6 +44,15 @@
 *	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
 *	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
 
+<h3>美国总统大选实时计票地图</h3>
+
+　　[凤凰新闻](https://ishare.ifeng.com/loc/usavote2024?)手机版、
+	<small>美国[有线电视新闻网CNN](https://edition.cnn.com)</small> /[专题页](https://edition.cnn.com/election/2024/results/president?)、
+	美联社[Ap News](https://apnews.com/) /%[详细页](https://apnews.com/projects/election-results-2024/)、
+	今日美国[USA TODAY](https://www.usaToday.com) /%[详细页](https://www.usaToday.com/elections/results/2024-11-05/president?)
+
+　　<small>选举日11月5日起，几大美国新闻网站均在首页刊出实时计票地图，但详情页面在国内访问缓慢，疑似负载过重或主动拒绝国外访问
+。</small>
 
 <h3>“巴以冲突”各方媒体 💥 CeaseFire !</h3>
 
@@ -201,9 +212,10 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 　　老生常谈，节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈© 2019~2024 大萌 
+	老生常谈© 2019~2024	Copyright by 大萌
+	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.3.0	202410
+	一带一路民间站 v3.3.1	202411
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
