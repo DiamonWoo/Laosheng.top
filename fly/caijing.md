@@ -56,11 +56,11 @@
 * [人民日报](http://paper.people.com.cn/)社：
   *	㊣ [证券时报](https://epaper.stcn.com/)📰(总部深圳) [官网](https://www.stcn.com/)
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
-	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️<sub>周报</sub>[官网](https://www.ifnews.com)
+	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️<sub>周报</sub> [官网](https://www.ifnews.com)
   *	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
 	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>、
 	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰<sub>周报</sub> [官网](https://www.cnenergynews.cn)
-  *	<sup>代管</sup>中国报业协会主办：[中国产业经济信息网](http://www.cinic.org.cn)，理事单位包括50余家国家级行业报
+  *	<sup>代管</sup>中国报业协会主办：[中国产业经济信息网](http://www.cinic.org.cn)，理事单位包括50余家国家级行业报 ▼
 * [新华通讯社](http://www.news.cn)：
   *	[中国财富网](https://www.cfbond.com)——
 	㊣ [中国证券报](https://epaper.cs.com.cn/zgzqb/)📰 [中证网](https://www.cs.com.cn)
@@ -129,7 +129,7 @@
 
 <h4>国家级行业报</h4>
 
-　　以‘中国产业经济信息网’的理事单位为基础，收录国家级行业云媒体。已在上方🀄和🏢收录的不再给链接。
+　　以人民日报‘中国产业经济信息网’的理事单位为基础，已在上方🀄和🏢收录的不再给链接。
 
 　🏢中国审计报	
 　<sup>中办/国家档案馆</sup>[中国档案报](http://www.zgdazxw.com.cn/ofd/reader?file=DAB.ofd)📰 ☆**OFD格式** [资讯网](http://www.zgdazxw.com.cn/2024-06/12/content_500436.html)	
@@ -151,10 +151,18 @@
 　<sup>发改委/国家能源局</sup>中国能源电视台[CPTV](https://www.cptv.com.cn/)📼	[新闻网](https://www.cpnn.com.cn)	
 、[中国电力报](https://www.cpnn.com.cn/epaper/)📰 [传媒集团](http://www.cpmg.com.cn)
 　中国煤炭报？[中煤地质报](http://digital.zmdxw.com/)📰  	
-　[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)🗞️[官网](http://gold.org.cn)	
-　中国矿业报	　中国冶金报	　中国有色金属报	
-　中国石油报	　中国化工报	　中国石化报	
-　国土资源报	　中国气象报	　中国安全生产报	
+　⚙[中国黄金报](http://epaper.gold.org.cn/dnis/client/zhongguohjb/index.jsp)🗞️[官网](http://gold.org.cn)	
+　<sup>资源部/地质调查局</sup>[中国矿业报](http://epaper.zgkyb.com/)📰 [矿业界](https://www.zgkyb.com/)	
+　<sup>国资委/中国钢铁工业协会</sup>[中国冶金报](http://epaper.csteelnews.com/)📰 [中国钢铁新闻网](http://www.cSteelNews.com)	
+　<sup>国资委/中国有色金属工业协会</sup>[<small>中国有色金属报</small>](https://paper.cnmn.com.cn/)📰 [官网](https://www.cnmn.com.cn/)	
+　⚙[**中国石油报**](http://epaper.cnpc.com.cn/zgsyb/)📰 [新闻中心](http://news.cnpc.com.cn)	
+　⚙[中国化工报](http://mpaper.ccin.com.cn:81/pc/index)🗞️ [中化新闻](http://www.ccin.com.cn)
+	化工电视台[CINTV](http://www.ccin.com.cn/c/tv_index)📼
+　⚙[中国石化报](http://enews.sinopecnews.com.cn/zgshb/)📰 [新闻网](http://www.sinopecnews.com.cn)	
+　<sup>应急管理部</sup>中国安全生产报	
+　<sup>资源部</sup>[中国自然资源报](https://www.iziran.net/epaper-home.html)🗞️
+	<sub>原国土资源报</sub> [i自然](https://www.iziran.net)	
+　<sup>中国气象局</sup>[中国气象报](http://epaper.zgqxb.com.cn/)📰 [新闻网](http://www.zgqxb.com.cn)	
 
 　<sup>交通部</sup>中国交通报[官网](https://www.zgjtb.com/2024-09/26/content_433085.html)📼	
 、[中国水运报](https://www.zgsyb.com/column.html?cid=3011)🗞️[官网](https://www.zgsyb.com/)	
@@ -419,7 +427,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.4.1	202411
+	中文财经云媒体 v0.4.2	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
