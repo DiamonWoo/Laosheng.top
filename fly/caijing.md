@@ -36,17 +36,15 @@
 	湖北[鼓掌财经](https://724.guzhang.com) <sup>聚合</sup>
 …
 
-<div align='right'>
 <h3>财经云目录</h3>
 
-+	24小时滚动新闻
-+	财经类[中央媒体](#zhongyang)🀄️
-+	[部委主管](#buwei)🏢
-+	[地方主管](#difang)📑
-+	👷‍[全国性行业报](#hangye)
-+	[境外中文](#jingwai)财经网
-+	参考文献[与图例](#tuli)
-</div>
+*	24小时滚动新闻
+*	财经类[中央媒体](#zhongyang)🀄️
+*	[部委主管](#buwei)🏢
+*	[地方主管](#difang)📑
+*	👷‍[全国性行业报](#hangye)
+*	[境外中文](#jingwai)财经网
+*	参考文献[与图例](#tuli)
 
 <h4>暂未归类的财经云媒体</h4>
 
@@ -154,7 +152,7 @@
 
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
 * [河北经济日报](http://epaper.hbjjrb.com/)📰 [官网](http://www.hbjjrb.com)
-* [~河南商报~](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰已停更 [官网](https://www.shangbw.com)
+* [~~河南商报~~](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰已停更 [官网](https://www.shangbw.com)
 * [山西经济日报](http://epaper.sxrb.com/index_sxjjrb.shtml)📰、
 	山西广电[市场信息报](http://sz.scxxb.com.cn/)📰 [官网](http://scxxb.com.cn)
 * 山东：
@@ -218,14 +216,14 @@
 * [甘肃经济日报](https://szb.gansudaily.com.cn/gsjjrb/)📰 [每日甘肃网](https://www.gansudaily.com.cn)
 * [西藏商报](https://e.xzxw.com/xzsb/index.html)📰 [官网](https://www.xzxw.com)
 
-[]()📰 🗞️官网[]()
-
 <div id="hangye" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 
 全国性行业报 👷‍
 ------------
 以行业新闻网会员单位为基础，已在上方🀄和🏢收录的不再给链接。
+
+[]()📰 🗞️官网[]()
 
 　🀄 中国纺织报	
 　🀄 <del>中国服饰报</del>	
