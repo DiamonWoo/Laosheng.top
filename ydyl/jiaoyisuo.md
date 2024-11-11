@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~10
+大萌　202307，202404~11
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -23,7 +23,8 @@
 	* [港澳台](#ex2){:target="_top"}金融交易所
 *	[G-SIBs](#bank){:target="_top"} 🔼 重要性银行
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
-	* 美国[金融有关部门](#usa){:target="_top"} 🏛️
+	* [美国金融](#usa){:target="_top"}有关部门 🏛️
+*	区域性[国际金融机构](#finance){:target="_top"} 💰
 *	[参考文献](#can){:target="_top"}
 	* 《资本论》III
 
@@ -41,7 +42,7 @@ Foreign Exchange Market
 *	**日本东京**： 08：00-14：30　[日本银行](https://www.boj.or.jp/statistics/market/forex/fxdaily/)公布每日外汇行情，pdf格式
 *	**中国香港**： 09：00-16：00　[香港金融管理局](https://www.hkma.gov.hk/gb_chi/data-publications-and-research/data-and-statistics/daily-monetary-statistics/)📍保证港元在7.75~7.85兑1美元的区间内。
 *	**新加坡**　： 09：00-16：00　新加坡[金融管理局](https://www.mas.gov.sg/statistics/exchange-rates)统计新加坡元汇率
-*	中国上海：**09:30-23:30~03:00**　中国外汇交易中心📍发布[人民币外汇即期报价](https://www.chinamoney.com.cn/chinese/mkdatapfx/)
+*	中国上海：**09:30-23:30~03:00**　[中国外汇交易中心](https://www.chinamoney.com.cn/)📍发布人民币外汇[即期报价](https://www.chinamoney.com.cn/chinese/mkdatapfx/)
 *	德国法兰克福：14：00-22：00　**欧洲央行**提供[欧元参考汇率](https://www.ecb.europa.eu/stats/euro-exchange-rates/html/index.en.html)
 *	**英国伦敦**： 16：30-23：30　[英格兰银行](https://www.bankofengland.co.uk/boeapps/database/Rates.asp?)提供英镑的每日即期汇率
 *	**美国纽约**： 20：00-04：00　[美联储](https://www.federalreserve.gov/releases/h10/current/)发布每周美元汇率（有即时汇率吗？）
@@ -58,7 +59,7 @@ Foreign Exchange Market
 [中国交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7161/8091/list.shtml?channelId=7158)、
 [中国邮政储蓄银行](https://www.psbc.com/cn/common/bjfw/whpjcx/)。
 
-　　疑问：哪家美国银行网站有当天（或即时）对人民币的汇率？
+　　疑问：美国哪家银行网站有当天对人民币的(即时)汇率？
 
 <div align="right" id="gold">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -72,10 +73,8 @@ Gold Market
 *	美国纽约期货市场，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
 *	中国市场📍（SGE & SHFE）：
-	 * 上海黄金交易所，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、
-[延时行情](https://www.sge.com.cn/sjzx/yshqbg)、
-黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
-	 * 上海期货交易所，SHFE，在[延时行情](https://www.shfe.com.cn/products/au/)页可以看到 金(Au年月/克)、银(Ag)、铜(Cu)的期货报价。
+	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、延时行情、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
+	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
 
@@ -149,9 +148,7 @@ Stock Exchange Top25 2021
 *	investing 英为财情[全球股指](https://cn.investing.com/indices/major-indices)；
 	#[TradingView](https://cn.TradingView.com/markets/)
 
-<div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-<h3 >港澳台金融交易所 📍</h3>
+<h3 id="ex2">港澳台金融交易所 📍</h3>
 Financial Exchange
 
 * 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】香港联交所/交易所/香港市场，
@@ -226,10 +223,7 @@ Systemically Important Banks (G-SIBs)
 	/[中文版](https://zh.td.com/)📍、
 	美国 [Wells Fargo](https://www.wellsfargo.com/)富国银行
 
-
-<div align="right" id="bank2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-<h3>中国境内的外资银行 💳</h3>
+<h3 id="bank2">中国境内的外资银行 💳</h3>
 
 　　外资法人银行41家（前3家由银保监会监管）：
 
@@ -282,10 +276,7 @@ Systemically Important Banks (G-SIBs)
 　　中德合资银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001。
 ……
 
-
-<div align="right" id="usa">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-<h3>美国金融有关部门 🏛️</h3>
+<h3 id="usa">美国金融有关部门 🏛️</h3>
 USA Gov financial authorities
 
 　　美国是当今世界唯一的超级大国，其国内政策对全球金融界影响巨大。为了方便读者观察美国的金融政策，这里列举美国联邦政府(中央政府)中，和金融关系较大的部门网站。　按照‘三权分立’的原则，美国联邦政府分为：立法、司法、行政三个分支，其中以总统为首的行政分支规模最为庞大。
@@ -310,8 +301,24 @@ USA Gov financial authorities
 
 **美联储** [Federal Reserve](https://www.FederalReserve.gov/ 'Fed 联邦储备系统') ，美国中央银行，制定货币政策，管理利率基准。
 
+<div align="right" id="finance">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
+
+区域性国际金融机构 💰
+-----------------
+Regional international financial institutions
+
+*	EIB [欧洲投资银行](https://www.eib.org/) European lnvestment Bank
+*	EBRD 欧洲[复兴开发银行](https://www.ebrd.com/) European Bank for Reconstruction and Development
+*	ADB [亚洲开发](https://www.adb.org)银行 Asian Development Bank
+*	ADB [非洲开发](https://www.afdb.org/)银行 African Development Bank
+*	IADB (泛美)[美洲开发](https://www.iadb.org/)银行 Inter-American Development Bank
+*	CDB [加勒比](https://www.caribank.org)开发银行 Caribbean Development Bank
+
+*参见：[国际组织四大类](united)*
 
 <div align="right" id="can">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 参考文献
 --------
@@ -344,7 +351,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.2 	202410
+	环球金融交易所	v0.5.3 	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
