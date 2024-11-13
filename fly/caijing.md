@@ -1,4 +1,4 @@
-中文财经云媒体 💹 <sup>美好生活爱自己</sup>
+中文财经云媒体 💹 <sup>宣讲新质生产力</sup>
 ==============
 大萌	© 202410-11（正在设计）
 <base target="_blank">
@@ -8,7 +8,7 @@
 
 　　在近千家“中国[新闻云](./)媒体”中，有一类专业的媒体数量很突出：财经类。这一类媒体有不少名称相似，容易混淆。比如有：‘经济晚报’‘经济日报’‘经济导报’‘中国经济导报’‘中国经济时报’；网站有《中国经济周刊》的‘经济网’，有《经济》杂志的‘经济网’，完全同名；《中国证券报》的官网叫‘中证网’，《上海证券报》的官网不叫‘上证网’而是‘中国证券网’…😵…
 
-　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，大致分为：**中央直管、部委主管、地方主管**。
+　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，大致分为：**中央直管、部委主管、地方主管**。在一条条的财经新闻背后，是一行行的实业生产，本页同时收录全国性的**行业云**媒体。
 
 　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*。
 
@@ -156,7 +156,7 @@
 	山西广电[市场信息报](http://sz.scxxb.com.cn/)📰 [官网](http://scxxb.com.cn)
 * 山东：
 	[经济导报](http://jjdb.sdenews.com/)📰 [山东财经网](http://www.sdenews.com)
-  *	济南[经济观察报](https://www.eeo.com.cn/epaper/eeocover/jjgcb/1.shtml)🗞️文字版免费
+  *	济南 eeo[经济观察报](https://www.eeo.com.cn/epaper/eeocover/jjgcb/1.shtml)🗞️文字版免费
   *	[青岛财经日报](http://epaper.qdcaijing.com)📰 [官网](http://www.qdcaijing.com)
 * 江苏：新华报业[江苏经济报](https://jsjjb.xhby.net/)📰 、
 	[新苏商](http://xinsushang.xhby.net/)📰 、
@@ -167,9 +167,9 @@
 	[日报](https://www.yicai.com/epaper/pc/)📰/
 	[电视](https://www.yicai.com/tv/) %📺 /
 	[广播](https://www.yicai.com/tv/#ycgb) 📻 FM90.9 /
-	[杂志](https://www.cbnweek.com) yiMagazine、
+	[杂志](https://www.cbnweek.com)、
 	[YiCai](https://www.yicaiglobal.com/)一财全球🍴、
-	<small>[东方财经](https://www.yicai.com/tv/#dfcj)-浦东 %📺</small>
+	<small>浦东[东方财经](https://www.yicai.com/tv/#dfcj)%📺</small>
   *	[上海报业](https://www.sumg.com.cn/qxmt/)——
 	[界面](https://www.jiemian.com/)新闻-
 	[**财联社**](https://www.cls.cn/) /
@@ -181,7 +181,7 @@
 * 安徽：
 	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)
 * 江西：日报社 -
-	[江西商报](https://jxbw.jxnews.com.cn/szb/)📰 大图 [官网](https://jxbw.jxnews.com.cn)、
+	[江西商报](https://jxbw.jxnews.com.cn/szb/)📰* 大图 [官网](https://jxbw.jxnews.com.cn)、
 	[**经济晚报**](https://www.cnjjwb.com/index.php?s=szb)📰 [官网](https://www.cnjjwb.com)
 * 福建：日报集团[东南网](http://www.fjsen.com) -
 	[海丝商报](https://hssb.fjdaily.com/)📰 、
@@ -592,7 +592,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.4.5	202411
+	中文财经云媒体 v0.4.6	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
