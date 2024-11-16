@@ -34,7 +34,7 @@
 <h3>简目</h3>
 
 *	外交动态 / 巴以冲突 /美国大选
-*	[官方网址](#D2){:target="_top"} / [种子数据](#iso){:target="_top"} / 2022卡塔尔⚽
+*	[官方网址](#news1){:target="_top"} / [种子数据](#iso){:target="_top"} / 2022卡塔尔⚽
 *	工具网站 / [翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"} / 延申
 
 
@@ -80,7 +80,7 @@
 
 
 一带一路官方网址 B&R Web from China
-----------------------------------
+-----------------------------------
 
 　　习近平[外交思想和新时代](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")中国外交：全球发展倡议、全球安全倡议、全球文明倡议
 
@@ -101,14 +101,13 @@
 
 　　国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
 
-<h3>地方一带一路网站</h3>
-
-陕西[](http://snydyl.shaanxi.gov.cn)？
-[甘肃](https://ydyl.gansu.gov.cn/gsydyl/)、
-[江苏](https://ydyl.jiangsu.gov.cn)、
-[浙江](https://zjydyl.zj.gov.cn)、
-[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
-[湖南](http://ydyl.hunan.gov.cn)
+　　<b>地方一带一路网站</b>：
+	陕西[](http://snydyl.shaanxi.gov.cn)？
+	[甘肃](https://ydyl.gansu.gov.cn/gsydyl/)、
+	[江苏](https://ydyl.jiangsu.gov.cn)、
+	[浙江](https://zjydyl.zj.gov.cn)、
+	[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
+	[湖南](http://ydyl.hunan.gov.cn)
 
 <h3 id="iso">种子数据 🔠：ISO国别码</h3>
 
@@ -219,7 +218,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
 *	[哪些国家没参与一带一路倡议](https://cn.bing.com/search?q=哪些国家没参与一带一路倡议)？
 
-　　老生常谈，节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
 	老生常谈© 2019~2024	Copyright by 大萌
