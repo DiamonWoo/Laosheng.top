@@ -75,7 +75,7 @@ Gold Market
 *	中国市场📍（SGE & SHFE）：
 	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、延时行情、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
-*	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DMGC](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。  
+*	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DGCX](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。  
 	疑问：详细价格在哪里？
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
