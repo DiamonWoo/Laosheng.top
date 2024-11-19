@@ -21,7 +21,7 @@
 *	世界三大[黄金市场](#gold){:target="_top"} 🟨
 *	[证券交易所](#ex){:target="_top"}排行榜 📊
 	* [港澳台](#ex2){:target="_top"}金融交易所
-*	[G-SIBs](#bank){:target="_top"} 🔼 重要性银行
+*	[G-SIBs](#bank){:target="_top"} 全球系统重要性银行 🔼
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
 	* [美国金融](#usa){:target="_top"}有关部门 🏛️
 *	区域性[国际金融机构](#finance){:target="_top"} 💰
@@ -67,7 +67,7 @@ Foreign Exchange Market
 ---------------
 Gold Market
 
-　　三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。这些市场决定了黄金的国际价格，大萌发现，前两家老外的官网，竟然都有中文页面，虽然某个网站被限制了访问。有中文的网页标记图钉符号📍（国内略）。
+　　黄金是天然货币，世界通行，除了现货交易，还有期货交易、场外交易(OTC)、基金交易(ETC)，这些交易互相影响黄金的价格。曾经，三家最大的黄金交易中心占据了全球交易量的九成，分别是：伦敦现货市场（LBMA）、纽约期货市场（COMEX）、上海黄金市场（SGE & SHFE）。近年，亚洲黄金需求增长，迪拜黄金及商品交易所（DGCX）有望进入前三。大萌发现，前两家老外的官网，竟然都有中文页面，已标记图钉符号📍，虽然部分被限制访问。
 
 *	英国伦敦现货市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
 *	美国纽约期货市场，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
@@ -75,6 +75,8 @@ Gold Market
 *	中国市场📍（SGE & SHFE）：
 	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、延时行情、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
+*	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DMGC](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。  
+	疑问：详细价格在哪里？
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
 
@@ -323,6 +325,7 @@ Regional international financial institutions
 参考文献
 --------
 
+*	20241119，[财联社报道](https://www.cls.cn/detail/1862851)，DMCC：阿联酋将成为全球黄金贸易新枢纽。
 *	20240222，《长江日报》在[人民号网站的文章](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=40005153)：“不在餐桌旁，就在菜单上”，布林肯言论暴露美式霸权逻辑。附视频。
 *	2022年第23期[《中国外汇》](http://www.chinaforex.com.cn/index.php/cms/item-view-id-52044.shtml)刊文：聚焦2022全球外汇市场调查。
 *	20221231，人行就[延长外汇交易时间](https://www.gov.cn/zhengce/2022-12/31/content_5734385.htm)答记者问。
@@ -351,7 +354,7 @@ Regional international financial institutions
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.3 	202411
+	环球金融交易所	v0.5.4 	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
