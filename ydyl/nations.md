@@ -35,6 +35,7 @@
 		设计LC ≈ 1530　= 183×8 + (249-183)	建交国约8个链接+未建交1个链接
 		完成率 ≈   95.5%
 
++	202411　中方第6次扩大来华免签入境国：保加利亚、罗马尼亚、日本等9国，本页正在吸收。
 +	202411　中方第5次扩大来华免签入境国：挪威、斯洛伐克、韩国等9国，本页已吸收。
 +	202409　中方宣布对 丹麦/葡萄牙/希腊/塞浦路斯/斯洛文尼亚 来华免签入境，本页已吸收。v0.9.3
 +	202406　中方宣布对 澳大利亚、新西兰、波兰 来华免签入境；南美洲厄瓜多尔暂停中方入境免签。v0.9.1
@@ -271,6 +272,8 @@
 
 
 <h2 title="běi měi zhōu">北美洲　North America　d<a href="https://cn.bing.com/maps?&cp=rnvxpq41tcwf&lvl=3" title="限桌面模式">🌎</a></h2>
+<img title="北美洲" src="ditu/meizhou-north-580.png" width="480px"  align="left" />
+<img title="中美洲" src="ditu/meizhou-mid-580h.png" width="480px" />
 
 🇬🇱	⠀ ⠀	　	　	GL⠀	<big>	<a title="丹麦海外属地，世界最大岛">格陵兰 (丹麦)</a>	[Greenland](https://cn.bing.com/search?q=Greenland)	</big>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00299	<sup>	⠀-	首都：努克 -5h [自治议会](https://naalakkersuisut.gl/)</sup>  
 🇵🇲	⠀ ⠀	　	　	PM⠀	<sup>	<a title="法国：圣皮埃尔和密克隆">圣皮埃尔和密克隆 (法国)</a>	[Saint Pierre and Miquelon](https://cn.bing.com/search?q=Saint Pierre and Miquelon)	</sup>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00508	<sup>	⠀-	 -  </sup>  
@@ -314,11 +317,10 @@
 🇦🇼	⠀ ⠀	　	　	AW⠀	<small>	<a title="荷兰王国成员">阿鲁巴 (荷兰)</a>	Aruba	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	[🏢](http://www.aruba.com "政府")	⠀00297	<sup>	⠀-	首都：阿鲁巴  </sup>  
 🇨🇼	⠀ ⠀	　	　	CW⠀	<small>	<a title="荷兰王国成员">库拉索 (荷兰)</a>	[Curaçao](https://cn.bing.com/search?q=Curaçao)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00599	<sup>	[荷属安的列斯盾](https://cn.bing.com/search?q=ANG兑CNY)	首都：威廉斯塔德  </sup>  
 
-<img src="ditu/meizhou-mid-gg-580h.png" align="center" title="北美洲加勒比海地区" />
-
 
 <h2 id="nmz" title="nán měi zhōu">南美洲 South America　d<a href="https://cn.bing.com/maps?&cp=j3tcj483mtvw&lvl=5" title="限桌面模式">🌎</a></h2>
 <!-- lā dīng měi zhōu 拉丁美洲 Latin America -->
+<img title="北美洲" src="ditu/meizhou-south-580.png" width="480px"  align="right" />
 
 🇪🇨	+ &	　	[🧭](http://EC.mofcom.gov.cn "经贸指南")	EC⠀		<a title="厄瓜多尔共和国，202406暂停中方免签" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681096/">厄瓜多尔</a> 	Ecuador		♏	⠀1980/1/2建交	[💐](http://EC.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.cancilleria.gob.ec/map_maps/china/ "驻华使馆")	-	[👥](https://www.cancilleria.gob.ec/ "外交部")	[🏢](http://www.presidencia.gov.ec/#打不开 "Republic of Ecuador")	⠀00593	$<sup>	[美元](https://cn.bing.com/search?q=USD兑CNY)	首都：基多 -13h ⚽</sup>  
 🇨🇴	+ ⠀	　	[🧭](http://CO.mofcom.gov.cn "经贸指南")	CO⠀		<a title="哥伦比亚共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681072/">哥伦比亚</a> 	Colombia			⠀1980/2/7建交	[💐](http://CO.china-embassy.gov.cn "中国大使馆")	[🛡️](https://china.embajada.gov.co/ "驻华使馆")	-	⠀□	[🏢](https://www.gov.co/ "Republic of Colombia")	⠀0057	$<sup>	[哥伦比亚比索](https://cn.bing.com/search?q=COP兑CNY)	首都：波哥大 -13h </sup>  
@@ -390,6 +392,7 @@
 
 <h3 >参考文献</h3>
 
+*	《人人都懂物联网》系列教程：地理学基础/[七大洲五大洋](https://getiot.tech/geo/continents-and-oceans/)
 *	20221024 [央广网](https://china.cnr.cn/gdgg/20221024/t20221024_526041243.shtml)：哈萨克斯坦首都几多变迁，记者盘点“冷都”阿斯塔纳
 
 
@@ -401,7 +404,7 @@
 	老生常谈© 2019~2024 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/nations
-	外交国别速查表 V0.9.4	202411
+	外交国别速查表 V0.9.5	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
