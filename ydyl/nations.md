@@ -54,7 +54,7 @@
 
 
 <h2 title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
-<img src="ditu/asia-gg-1050x580.png" align="center" title="谷歌地球俯视亚洲" />
+<img src="ditu/asia-gg-big.png" align="center" title="谷歌地球俯视亚洲" />
 
 🇨🇳	+五常	[🏞](https://www.yidaiyilu.gov.cn大美中国 "国别美图")	CN⠀	<big><big>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</big></big>		⠀1949/10/1新中国成立！	[💐](https://www.mfa.gov.cn/web/zwjg_674741/zwsg_674743/ "中国使馆总目")	□	[wb](https://weibo.com/wjxlt "外交部微博")	[👥](https://www.mfa.gov.cn "外交部")	[🏢](https://www.gov.cn "The People's Republic of China")	⠀0086	CNY ¥<sup>	[人民币](https://cn.bing.com/search?q=1克黄金兑CNY)	首都：北京 ⭐</sup>  
 🇭🇰	⠀ ⠀	　	[🧭](http://HK.mofcom.gov.cn "经贸指南")	HK⠀	<small>	<a title="中国香港特别行政区" href="http://www.locpg.gov.cn/fwzn/xggk.htm">(中国)香港</a> 	Hong Kong	</small>		⠀1997/7/1回归	⠀[💐](http://locpg.gov.cn "中央驻港联络办")	□	[wb](https://weibo.com/newsgovhk "香港政府微博")	□	[🏢](https://www.gov.hk/sc "特区政府网站")	⠀00852	$<sup>	[港元](https://cn.bing.com/search?q=HKD兑CNY)	 - 0h ☆</sup>  
@@ -358,7 +358,7 @@
 	　　　　+五常 为5个安理会常任理事国
 +	&/🏞/🧭　一带一路签约国 / 国别美图页 / 经贸指南页
 +	🔁/↩️　　双方互免签证 23个 / 对中方免签 25个
-+	⬇️/♏　　允许中方落地签 / 来华免签 28个
++	⬇️/♏　　允许中方落地签 / 来华免签 28+9个
 +	💐/🛡 wb　中国使领馆 / 外方驻华使馆 微博
 +	👥/🏢　　该国外交部 / 中央政府（总统府/内阁等）
 +	0033　　　国际长途电话区号
