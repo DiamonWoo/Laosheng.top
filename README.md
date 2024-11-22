@@ -20,7 +20,7 @@
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
-  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}，各省ICC：ChinaDaily、中国之声、《北京周报》、解放军微博阵列……新发布1.0版！
+  + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}，地方外宣 ICC：ChinaDaily、中国之声、《北京周报》、解放军微博阵列……新发布1.0版！
   + /fly/dianying　💐大众电影百花奖，[老生常谈电影节](fly/dianying){:target="_blank"}🎞️。每个月都有的电影节，戛纳、奥斯卡、天坛奖……（正在收录）
   + 中文财经云媒体 （新上线）……
 
