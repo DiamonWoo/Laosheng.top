@@ -90,13 +90,13 @@ Gold Market
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 
-　　更多黄金价格可见[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍，该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
-　	向访客公布黄金实时报价的银行有：  
-　　[农业银行](https://ewealth.abchina.com/Gold/)、
+　　上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，[民生银行](https://www.cmbc.com.cn/grkh/gjs/jcj/)积存金提供24小时交易。更多黄金价格可见[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍，该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。向访客公布黄金实时报价的银行有：  
+　　[工商银行](https://www.icbc.com.cn/column/1438058327061184578.html)%、
+	[农业银行](https://ewealth.abchina.com/Gold/)、
 	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
-	招商银行[小屏版](https://m.cmbchina.com/goldrate.html)……
-	上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，
-	[民生银行](https://www.cmbc.com.cn/grkh/gjs/jcj/)积存金提供24小时交易。
+	[交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7165/7178/list.shtml?channelId=7158) / [小屏](https://m.bankcomm.com/wap/shtml/wap/cn/15539/15678/15679/list.shtml?channelId=15539)、
+	招商银行[小屏版](https://m.cmbchina.com/goldrate.html)、
+	[恒生银行](https://www.hangSeng.com/zh-cn/personal/rates/)……  
 
 <div align="right" id="ex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -397,7 +397,7 @@ Regional international financial institutions
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.5 	202411
+	环球金融交易所	v0.5.5	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
