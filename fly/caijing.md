@@ -38,7 +38,7 @@
 
 <h3 id='mulu'>财经云目录</h3>
 
-　24小时滚动新闻 /　🀄️经类[中央媒体](#zhongyang){:target="_top"}
+　24小时滚动新闻 /　🀄️[中央媒体](#zhongyang){:target="_top"}
 /　🏢[部委主管](#buwei){:target="_top"}
 /　📑[地方主管](#difang){:target="_top"}
 /　👷‍[全国性行业报](#hangye){:target="_top"}
@@ -437,7 +437,6 @@
 　	长庆石油报
 　	青海石油报
 
-
 <div id="jingwai" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
@@ -449,6 +448,7 @@
 *	英#[Financial Times](https://www.ft.com)/#[FT](https://www.ftChinese.com)金融时报
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
 *	Investing.com 中文版[英为财情](https://cn.investing.com/markets/)📍
+	/ [比特币](https://cn.investing.com/crypto/bitcoin)
 
 	[俄罗斯财政部](http://government.ru/department/69/events/)？
 	<a href="https://home.treasury.gov/" >美国财政部	</a>　
@@ -493,7 +493,7 @@
 *	📺 此前链接为电视直播网址，%📺 登录才能看
 *	📻 此前链接为广播在线收听，📼 有视频点播
 *	⚙ 齿轮后方为国资委管理央企，参见：*[央企股](../fuwu/yangqi)*
-*	人民日报社旗下‘**产经网**’ [行业报理事单位](http://www.cinic.org.cn)
+*	人民日报社旗下‘**产经网**’ 行业报[理事单位](http://www.cinic.org.cn)
 	（53家，部分媒体已更名/停更）
 *	**中国行业报协会** [理事单位](https://acin.org.cn/协会简介)近150家。
 *	**中国经济传媒协会** [会员介绍](http://www.acep.org.cn/hyjs/)
