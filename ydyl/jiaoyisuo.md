@@ -67,7 +67,7 @@ Foreign Exchange Market
 ---------------
 Gold Market
 
-　　黄金是天然货币，世界通行，除了现货交易，还有期货交易、场外交易(OTC)、基金交易(ETC)，这些交易互相影响黄金的价格。曾经，三家最大的黄金交易中心占据了全球交易量的九成，分别是：纽约期货市场（COMEX）、伦敦现货市场（LBMA）、上海黄金市场（SGE & SHFE）。近年，亚洲黄金需求增长，阿联酋的DMCC宣称自己的黄金交易量成为全球第二。大萌发现，几家老外的官网，竟然都有中文页面，已标记图钉符号📍，虽然部分被限制访问。
+　　黄金是天然货币，世界通行，除了现货交易，还有期货交易、场外交易(OTC)、基金交易(ETC)，这些交易互相影响黄金的价格。能排进前三的市场至少有五家。　曾经，三家最大的黄金市场占据了全球交易量的九成，分别是：纽约期货市场（COMEX）、伦敦现货市场（LBMA）、上海黄金市场（SGE & SHFE）。近年，亚洲黄金需求增长，阿联酋的DMCC宣称自己的黄金交易量成为全球第二。有几家老外的官网支持中文，已标记图钉符号📍，部分被限制访问。
 
 *	美国纽约期货市场，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
@@ -75,13 +75,14 @@ Gold Market
 *	中国市场📍（SGE & SHFE）：
 	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、延时行情、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
+*	香港[金银业贸易场](http://www.cgse.com.hk/)，报价单位多样，安士=盎司(oz)。
 *	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DGCX](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。  
 	疑问：详细价格在哪里？
 
-　　请注意单位换算。 1 盎司(oz) = 28.3495231 克(g) ≈ 28.35 克
+　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g)
 
-　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
-　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
+　　比如，某日伦敦金报价：2608美元/盎司，约等于 92美元/克，若按美元兑人民币7比1计，等于 644元/克；若按汇率7.2计，则等于662.4元/克。可见黄金在境内外存在利差。假设美元汇率7.0不变，可简化为：  
+　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
 
 看国际黄金价格的国内商业网站有：
 
@@ -162,7 +163,7 @@ Financial Exchange
   * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
   * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
   * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
-* [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
+* [香港金银业贸易场](http://www.cgse.com.hk/)　曾与伦敦/苏黎世/纽约并列世界四大金市
 * 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
 * 【[台交所](https://www.twse.com.tw/zh/)】台证所/证交所，
 　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
@@ -396,7 +397,7 @@ Regional international financial institutions
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.4 	202411
+	环球金融交易所	v0.5.5 	202411
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
