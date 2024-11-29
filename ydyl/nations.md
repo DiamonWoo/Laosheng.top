@@ -15,21 +15,18 @@
 <div id="mulu" align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/国别表</div>
 
-
-<h2 title="七大洲国家或地区">国别表目录</h2>
+<h3 title="七大洲国家或地区">国别表目录</h3>
 <a href="#yz" target="_top">1-亚洲</a>🌏　<sub>中国、印度、沙特、土耳其……</sub><br>
 <a href="#oz" target="_top">2-欧洲</a>　<sub>俄罗斯、法国、希腊、西班牙……</sub><br>
 <a href="#fz" target="_top">3-非洲</a>🌍　<sub>埃及、摩洛哥、尼日利亚、南非……</sub><br>
 <a href="#dyz" target="_top">4-大洋洲</a>　<sub>澳大利亚、汤加、新西兰……</sub><br>
 <a href="#bmz" target="_top">5-北美洲</a>🌎　<sub>美国、墨西哥、巴拿马、古巴……</sub><br>
 <a href="#nmz" target="_top">6-南美洲</a>　<sub>阿根廷、巴西、委内瑞拉……</sub><br>
-<a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub>
-<br>
-8 <a href="#8" target="_top">图例</a>　<sub>emoji图标说明、统计</sub><br>
+<a href="#njz" target="_top">7-南极洲</a>　<sub> 布韦岛…</sub><br>
+8 图例　<sub>emoji<a href="#8" target="_top">图标说明</a>、统计</sub><br>
 9 <a href="#9" target="_top">数据来源</a>　<sub>鸣谢、参考文献</sub>
 
-
-<h2 id="0" title="LC=链接计数">国别表LSIP进度</h2>
+<h3 id="0" title="LC=链接计数">国别表LSIP进度</h3>
 
 		收录LC = 1462				v0.8.3
 		设计LC ≈ 1530　= 183×8 + (249-183)	建交国约8个链接+未建交1个链接
@@ -357,7 +354,7 @@
 +	+/ % 　　🇺🇳联合国的会员国 / 观察员国  
 	　　　　+五常 为5个安理会常任理事国
 +	&/🏞/🧭　一带一路签约国 / 国别美图页 / 经贸指南页
-+	🔁/⬇️　　双方互免签证 23个 / 允许中方落地签
++	🔁/⬇️　　与中方互免 23个 / 允许中方落地签
 +	↩️/♏　　对中方免签 25个 / 来华免签 28+9个
 +	💐/🛡 wb　中国使领馆 / 外方驻华使馆 微博
 +	👥/🏢　　该国外交部 / 中央政府（总统府/内阁等）
@@ -384,6 +381,7 @@
 *	中国建交国家名单来自[外交部/资料](https://www.mfa.gov.cn/web/ziliao_674904/2193_674977/)
 *	与中国互免签证的国家名单来自[中国领事服务网](http://cs.mfa.gov.cn/zggmcg/cgqz/qzxx_660462/)
 *	一带一路签约国家名单来自[中国一带一路网](https://www.yidaiyilu.gov.cn/country)国别栏目
+*	地图来自maps.google.com的地球视角
 
 　本页数据尽力和官方网站一致，偶有个别数据滞后或超前。
 
