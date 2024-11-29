@@ -65,8 +65,9 @@
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
 	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️<sub>周报</sub> [官网](https://www.ifnews.com)
   *	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
-	[经济网](https://www.ceWeekly.cn) <sub>跟经济日报社旗下网站同名</sub>、
-	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰<sub>周报</sub> [官网](https://www.cnenergynews.cn)
+	[经济网](https://www.ceWeekly.cn) <sub>有同名</sub>、
+	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰<sub>周报</sub> [官网](https://www.cnenergynews.cn)、
+	[中国汽车报](https://ys.cnAutoNews.com/)📰 [官网](http://www.cnAutoNews.com)
   *	<sup>代管</sup>中国报业协会主办：[中国产业经济信息网](http://www.cinic.org.cn)，理事单位包括50余家国家级行业报 ▼
 * [新华通讯社](http://www.news.cn)：
   *	[中国财富网](https://www.cfbond.com)——
@@ -449,7 +450,7 @@
 *	美[彭博中国](https://www.bloombergchina.com) #[BloomBerg](https://www.bloomberg.com)
 *	Investing.com 中文版[英为财情](https://cn.investing.com/markets/)📍
 	/ [比特币](https://cn.investing.com/crypto/bitcoin)
-*	Mitrade 投资慧眼 [市场行情](https://www.mitrade.com/cn/insights/markets)📍
+*	Mitrade 投资慧眼 #[市场行情](https://www.mitrade.com/cn/insights/markets)📍
 
 	[俄罗斯财政部](http://government.ru/department/69/events/)？
 	<a href="https://home.treasury.gov/" >美国财政部	</a>　
