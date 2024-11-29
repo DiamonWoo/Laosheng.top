@@ -1,4 +1,4 @@
-中文财经云媒体 💹 <sup>宣讲新质生产力</sup>
+中文财经云媒体 💹 <sup>全国行业数字报</sup>
 ==============
 大萌	© 202410-11（正在设计）
 <base target="_blank">
@@ -62,7 +62,7 @@
 	<sup>中国资本[市场信息披露](https://www.stcn.com/xinpi/)平台</sup>、
 	[国际金融报](https://epaper.ifnews.com/web/paper/index )🗞️<sub>周报</sub> [官网](https://www.ifnews.com)
   *	[中国能源报](http://paper.people.com.cn/zgnyb/paperindex.htm)📰<sub>周报</sub> [官网](https://www.cnenergynews.cn)、
-	[中国汽车报](https://ys.cnAutoNews.com/)📰 [官网](http://www.cnAutoNews.com)、
+	[中国汽车报](https://ys.cnAutoNews.com/)🗞️ [官网](http://www.cnAutoNews.com)、
 	《[中国经济周刊](https://www.CEweekly.cn/magazine/)》
 	[经济网](https://www.ceWeekly.cn) <sub>有同名</sub>
   *	<sup>代管</sup>中国报业协会主办：[中国产业经济信息网](http://www.cinic.org.cn)，理事单位包括50余家国家级行业报 ▼
@@ -119,7 +119,7 @@
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
 * [中国人民银行](http://www.pbc.gov.cn)：
-	㊣ [<del>金融时报</del>](https://epaper.FinancialNews.com.cn)🗞️ <sub>改wx小程序</sub>
+	㊣ [<del>金融时报</del>](https://epaper.FinancialNews.com.cn)🗞️ <sub>已停服转wx</sub>
 	[中国**金融**新闻网](https://www.financialNews.com.cn)
 	<sup>[证信披露](https://xp.financialnews.com.cn/sy/)</sup>、
 	《[中国金融](http://www.cnfinance.cn/magzi/)》杂志
@@ -149,7 +149,7 @@
 
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
 * [河北经济日报](http://epaper.hbjjrb.com/)📰 [官网](http://www.hbjjrb.com)
-* [~~河南商报~~](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰已停更 [官网](https://www.shangbw.com)
+* [河南商报](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰 [官网](https://www.shangbw.com)
 * [山西经济日报](http://epaper.sxrb.com/index_sxjjrb.shtml)📰、
 	山西广电[市场信息报](http://sz.scxxb.com.cn/)📰 [官网](http://scxxb.com.cn)
 * 山东：
