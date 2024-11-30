@@ -1,6 +1,6 @@
 中文财经云媒体 💹 <sup>全国行业数字报</sup>
 ==============
-大萌	© 202410-11（正在设计）
+大萌	© 202410-12（正在收录）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/caijing" />
 
@@ -156,9 +156,13 @@
 	[经济导报](http://jjdb.sdenews.com/)📰 [山东财经网](http://www.sdenews.com)
   *	济南 eeo[经济观察报](https://www.eeo.com.cn/epaper/eeocover/jjgcb/1.shtml)🗞️文字版免费
   *	[青岛财经日报](http://epaper.qdcaijing.com)📰 [官网](http://www.qdcaijing.com)
-* 江苏：新华报业[江苏经济报](https://jsjjb.xhby.net/)📰 、
+* 江苏：[新华报业](https://www.xhby.net)-[江苏经济报](https://jsjjb.xhby.net/)📰 、
 	[新苏商](http://xinsushang.xhby.net/)📰 、
-	<sup>常州</sup>中国剪报<sub>有[微信](http://weixin.qq.com/q/02s05ixA8jd7H19vxGhD96)</sub>
+	<sup>南京</sup>
+	[江苏商报](http://jssb.njdaily.cn/)📰 [南报网](http://njdaily.cn)、
+	大众证券报🗞️[官网](http://www.dzzq.com.cn)、
+	<sup>常州</sup>中国剪报<sub>有[微信](http://weixin.qq.com/q/02s05ixA8jd7H19vxGhD96)</sub>、
+	
 * 上海：
   *	上海文广[SMG](https://www.smg.cn/review/202405/0165527.html)——
 	[**第一财经**](https://www.yicai.com)
@@ -175,7 +179,9 @@
 	[科创板日报](https://www.chinastarmarket.cn)网、
 	[新民晚报](http://paper.xinmin.cn/index/xmwb/)📰 
 * 浙江：
-	[科技金融时报](http://kjb.zjol.com.cn/)📰
+	[科技金融时报](http://kjb.zjol.com.cn/)📰[浙江在线](http://www.zjol.com.cn)、
+	[温州商报](http://szb.66wz.com/newspaper?mediaKey=wzjb)📰 [温州新闻网](https://www.66wz.com/)、
+	[现代金报](http://epaper.cnnb.com.cn/xdjb/)📰 [中国宁波网](http://www.cnnb.com.cn)
 * 安徽：
 	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)
 * 江西：日报社 -
@@ -209,7 +215,8 @@
 	[重庆商报](https://e.chinacqsb.com/)📰 [上游新闻](https://www.chinacqsb.com)
 * 云南：日报社 -
 	[云南经济日报](http://jjrbpaper.yunnan.cn/)📰 [官网](http://www.jjrbnet.com)
-* 陕西：西安[城市经济导报](https://epaper.xiancn.com/csjjdb/)📰 周报 [官网](https://www.xiancn.com)
+* 陕西：[华商报](http://ehsb.hspress.net/)📰 [官网](https://www.hsw.cn)、
+	[城市经济导报](https://epaper.xiancn.com/csjjdb/)📰  [西安新闻网](https://www.xiancn.com)
 * [甘肃经济日报](https://szb.gansudaily.com.cn/gsjjrb/)📰 [每日甘肃网](https://www.gansudaily.com.cn)
 * [西藏商报](https://e.xzxw.com/xzsb/index.html)📰 [官网](https://www.xzxw.com)
 
@@ -591,7 +598,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.4.7	202411
+	中文财经云媒体 v0.4.8	202412
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
