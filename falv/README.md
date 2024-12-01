@@ -36,10 +36,11 @@
 
 *	央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
 *	中央电视台-[社会与法治频道](https://tv.cctv.com/live/cctv12) CCTV-12
-*	[《人民公安报》](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)📰 [中国警察网](https://www.cpd.com.cn)、
-	[《检察日报》](http://newspaper.jcrb.com)📰 [正义网](https://www.jcrb.com)、
-	[《人民法院报》](https://www.rmfyb.com/)📰 [中国法院网](https://www.chinacourt.org/)
-*	政法委/司法部[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)
+*	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)、
+	《[检察日报](http://newspaper.jcrb.com)》📰 [正义网](https://www.jcrb.com)、
+	《[人民法院报](https://www.rmfyb.com/)》📰 [中国法院网](https://www.chinacourt.org/)
+*	政法委/司法部-[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)、
+	[中国法学会](https://www.chinalaw.org.cn/)-《[民主与法制时报](http://e.mzyfz.com/paper/index_2331.html)》📰 [官网](http://www.mzyfz.com)
 *	[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
 
 []()📰 🗞️官网[]()
