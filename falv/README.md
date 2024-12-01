@@ -8,7 +8,7 @@
 
 **/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在此索引中国法律体系、制作高质量法律文本，帮大家找到有用法律。详细内容如下：
 
-+	./fahai　☸️ [法海寻踪](fahai){:target="_top"}，发现免费的法律文本，在茫茫法海找到有用的法律法规。
++	./fahai　☸️ [法海寻踪术](fahai){:target="_top"}，发现免费的法律文本，在茫茫法海找到有用的法律法规。
 +	./duben　📚 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
 	+ [读本1](duben1){:target="_top"} 八部大法：　立法、监察、诉讼法、行政、刑法、民法典
 	+ [读本2](duben2){:target="_top"} 常用法：　治安、传染病、噪声防治……
@@ -31,6 +31,20 @@
 *	【[北法库](https://www.pkulaw.com/law)】 　起源于北京大学法律系的北大法宝网提供
 
 
+学法云媒体
+---------
+
+*	央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
+*	中央电视台-[社会与法治频道](https://tv.cctv.com/live/cctv12) CCTV-12
+*	[《人民公安报》](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)📰 [中国警察网](https://www.cpd.com.cn)、
+	[《检察日报》](http://newspaper.jcrb.com)📰 [正义网](https://www.jcrb.com)、
+	[《人民法院报》](https://www.rmfyb.com/)📰 [中国法院网](https://www.chinacourt.org/)
+*	政法委/司法部[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)
+*	[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
+
+[]()📰 🗞️官网[]()
+
+
 中国法律体系概览
 -----------------
 
@@ -48,7 +62,6 @@
 	- 吉林省法学会 　 	[我国现行法律目录](http://www.jlfxhw.com/flml/index.jhtml )
 
 *各省人大、政府网站请见[《有关部门》](../fuwu/){:target="_top"}页面*
-
 
 
 快问快答
@@ -85,20 +98,11 @@
 -	[市场经济必然是法治经济](http://zjrb.zjol.com.cn/html/2006-05/12/content_95276.htm "时任省委书记习近平发文")——哲欣(习近平)，2006年5月12日《浙江日报》头版“之江新语”专栏。
 
 
-学法云媒体
----------
-
-*	[《人民法院报》](http://rmfyb.chinacourt.org)、 [《检察日报》](http://newspaper.jcrb.com)、[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
-*	央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
-*	中央电视台-[社会与法治频道](https://tv.cctv.com/live/cctv12) CCTV-12
-
-
-
 专题导游 与 类似项目
 ------------------
 
 +	“法律面前人人平等”这句话有法律依据吗？
-+	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}
++	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}（待更新，有2023修正案）
 *	知识产权的相关法律和有关部门
 
 　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
@@ -107,14 +111,13 @@
 *	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
 
 
-
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇
 
 ```
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.1.0	202410
+	大萌望海楼 v3.1.1	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
