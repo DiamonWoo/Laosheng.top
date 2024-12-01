@@ -38,13 +38,14 @@
 
 　　我很满意 😋
 
-
 ```
 		老生常谈 © 2019~2023 大萌 创作共用3.0
 		CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
 		Laosheng.top/ydyl/union_of_human_fate
 		人类命运共同体的英文翻译
 ```
+
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
