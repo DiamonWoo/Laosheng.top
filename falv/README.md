@@ -34,16 +34,63 @@
 学法云媒体
 ---------
 
-*	央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
-*	中央电视台-[社会与法治频道](https://tv.cctv.com/live/cctv12) CCTV-12
-*	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)、
+*	CCTV-1 央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
+*	CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)
+*	[]()📰 🗞️官网[]()
+*	国务院/[司法部](https://www.moj.gov.cn)：
+	[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)，
+	[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报
+*	国务院/[公安部](https://www.mps.gov.cn)：
+	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)
+*	[最高检](https://www.spp.gov.cn)：
 	《[检察日报](http://newspaper.jcrb.com)》📰 [正义网](https://www.jcrb.com)、
+*	[最高法](https://www.court.gov.cn)：
 	《[人民法院报](https://www.rmfyb.com/)》📰 [中国法院网](https://www.chinacourt.org/)
-*	政法委/司法部-[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)、
-	[中国法学会](https://www.chinalaw.org.cn/)-《[民主与法制时报](http://e.mzyfz.com/paper/index_2331.html)》📰 [官网](http://www.mzyfz.com)
+*	[中国法学会](https://www.chinalaw.org.cn/)：
+	《[民主与法制时报](http://e.mzyfz.com/paper/index_2331.html)》📰 [官网](http://www.mzyfz.com)
 *	[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
 
-[]()📰 🗞️官网[]()
+地方法治报 29家（数字为刊号）：
+
+　11-0102	法制晚报	/北京青年报社
+　12-0005	天津政法报	
+　13-0079	河北法治报	
+　14-0070	山西法治报	
+　15-0025	内蒙古法制报	
+　21-0105	辽宁法治报	
+　22-0021	北方法制报	/吉林日报
+　23-0021	黑龙江法制报	
+　31-0011	上海法治报	
+　32-0135	江苏法治报	
+　33-0118	浙江法治报	
+　34-0079	安徽法治报	
+　35-0071	福建法治报	
+　36-0064	新法治报	/江西日报社
+　37-0010	山东法制报	
+　41-0113	河南法治报	
+　43-0068	湖南法治报	
+　45-0023	广西法治日报	
+　46-0034	法治时报	/海南日报
+　50-0035	重庆法治报	
+　51-0133	四川法治报	
+　52-0042	贵州法治报	
+　53-0053	云南法制报	
+　54-0013	西藏法制报	
+　61-0073	西部法治报	/陕西日报社
+　62-0078	甘肃法治报	
+　63-0029	青海法治报	
+　64-0020	宁夏法治报	
+　65-0086	新疆法治报	
+
+政法类高校学报 7家：
+
+　11-0825/（G）	中国政法大学校报	
+　31-0819/（G）	上大法学院报	
+　41-0853/（G）	河南财经政法大学报	
+　42-0806/（G）	中南财经政法大学报	
+　50-0818/（G）	西南政法大学报	
+　61-0816/（G）	西北政法大学报	
+　62-0818/（G）	甘肃政法大学报	
 
 
 中国法律体系概览
@@ -118,7 +165,7 @@
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.1.1	202412
+	大萌望海楼 v3.1.2	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
