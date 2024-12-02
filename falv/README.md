@@ -27,18 +27,19 @@
 --------
 
 *	【[国法库](https://flk.npc.gov.cn/)】 　全国人大常委会办公厅维护最权威国家法律、法规库
-*	【[高法库](https://www.chinacourt.org/law.shtml)】 　最高人民法院主管中国法院网提供
-*	【[北法库](https://www.pkulaw.com/law)】 　起源于北京大学法律系的北大法宝网提供
+*	【[高法库](https://www.chinacourt.org/law.shtml)】 　最高法主管中国法院网提供
+*	【[北法库](https://www.pkulaw.com/law)】 　源于北京大学法律系的北大法宝网提供
 
+　　另有 [行政法规库](http://www.gov.cn/zhengce/xzfgk/) 和 [党纪法规库](https://www.ccdi.gov.cn/fgk/index)
 
-学法云媒体
----------
+学法云媒体 ☀️
+----------
 
-*	CCTV-1 央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 每日中午12.35首播
-*	CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)
+*	🀄️ CCTV-1  央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 📺 每日中午12.35首播
+*	🀄️ CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)📺
 *	[]()📰 🗞️官网[]()
 *	国务院/[司法部](https://www.moj.gov.cn)：
-	[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)，
+	🀄️[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)，
 	[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报
 *	国务院/[公安部](https://www.mps.gov.cn)：
 	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)
@@ -50,30 +51,30 @@
 	《[民主与法制时报](http://e.mzyfz.com/paper/index_2331.html)》📰 [官网](http://www.mzyfz.com)
 *	中华全国律师协会：[中国律师网](https://www.acla.org.cn)
 	《中国律师》杂志
-*	[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
+*	🀄️[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
 
-地方法治报 29家（数字为刊号） 📰：
+📑 地方法治报 29家（数字为刊号）：
 
 　11-0102	<del>法制晚报</del>	/北京青年报社
 　12-0005	天津政法报	
-　13-0079	河北法治报	
+　13-0079	[河北法治报](https://szbz.hbfzb.com/)📰 	[官网](https://www.hbfzb.com)
 　14-0070	山西法治报	
 　15-0025	内蒙古法制报	
 　21-0105	辽宁法治报	
 　22-0021	北方法制报[官网](http://www.bffzb.com/)	/吉林日报
 　23-0021	黑龙江法制报	
-　31-0011	上海法治报	
-　32-0135	江苏法治报	
-　33-0118	浙江法治报	
-　34-0079	安徽法治报	
-　35-0071	福建法治报	
+　31-0011	[上海法治报](http://www.shfzb.com.cn/shfzb/paperindex.htm)📰 	
+　32-0135	[江苏法治报](http://jsfzb.xhby.net/)📰 	
+　33-0118	[浙江法治报](https://zjfzb.zjol.com.cn/paperindex.htm)📰 	
+　34-0079	[安徽法治报](https://szb.ahnews.com.cn/fzb/pc/layout)📰 	
+　35-0071	福建法治报 	[海峡法治在线](http://www.hxfzzx.com/)
 　36-0064	[新法治报](https://www.xepaper.com/xfzb/paperindex.htm)📰 	/江西日报社
 　37-0010	山东法制报	
 　41-0113	河南法治报	
 　43-0068	湖南法治报	
 　45-0023	广西法治日报	
 　46-0034	[法治时报](http://szb.hnfazhi.com/)📰 	/海南日报
-　50-0035	重庆法治报	
+　50-0035	[重庆法治报](https://szb.cqfzb.net/)📰 	[官网](https://www.cqfzb.net)
 　51-0133	四川法治报	
 　52-0042	贵州法治报	
 　53-0053	云南法制报	
@@ -84,13 +85,13 @@
 　64-0020	宁夏法治报	
 　65-0086	新疆法治报	
 
-政法类高校学报 7家：
+👨‍🎓 政法类高校报纸 7家：
 
-　11-0825/（G）	中国政法大学校报	
+　11-0825/（G）	<sup>教育部</sup>❕[中国政法大学校报](https://newspaper.cupl.edu.cn/)	
 　31-0819/（G）	上大法学院报	
 　41-0853/（G）	河南财经政法大学报	
-　42-0806/（G）	中南财经政法大学报	
-　50-0818/（G）	西南政法大学报	
+　42-0806/（G）	<sup>教育部</sup>❕[中南财经政法大学报](https://xuebao.zuel.edu.cn)	
+　50-0818/（G）	[西南政法大学报](https://qks.swupl.edu.cn/xb/)	
 　61-0816/（G）	西北政法大学报	
 　62-0818/（G）	甘肃政法大学报	
 
@@ -111,14 +112,14 @@
 	- 新华通讯社 　 	[新华网2020全国两会专题](http://www.xinhuanet.com/politics/2020lh )
 	- 吉林省法学会 　 	[我国现行法律目录](http://www.jlfxhw.com/flml/index.jhtml )
 
-*各省市的 人大/政府/公检法网站请见[《法门集》](../fuwu/fazhi)页面*
+*各省市的 人大/政府/公检法网站请见【有关部门】系列的[《法门集》](../fuwu/fazhi)页面*
 
 
 快问快答 💬
 --------
 
 * 问：普通人要学多少法律知识？  
-  答：了解法律体系，通读核心法律，掌握检索途径。  ~~了解现有法治环境，做出合理预期。~~
+  答：认识法律体系，通读核心法律，掌握检索途径。  ~~了解现有法治环境，做出合理预期。~~
 
 * 问：打官司首先要注意什么？  
   答：诉讼时效与管辖权。 <!-- 按三部诉讼法分为三种时效。民法三年，刑法五年~二十年，行政诉讼更短、分得更细。 -->
@@ -132,8 +133,8 @@
 <!-- + [自己打官司要做什么准备？]() （准备中）-->
 
 
-依法治国时间表
--------------
+依法治国时间表 🔔
+--------------
 
 -	2022年1月，[司法部](http://www.moj.gov.cn/pub/sfbgw/jgsz/jgszjgtj/ggflfwglj/ggflfwgljtjxw/202204/t20220407_452300.html)印发《全国公共法律服务体系建设规划（2021-2025年）》。
 -	2021年8月，中共中央 国务院印发[《法治政府建设实施纲要（2021－2025年）》](http://www.gov.cn/zhengce/2021-08/11/content_5630802.htm)。
@@ -149,7 +150,7 @@
 
 
 专题导游 与 类似项目
-------------------
+--------------------
 
 +	“法律面前人人平等”这句话有法律依据吗？
 +	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}（待更新，有2023修正案）
@@ -178,4 +179,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🗄️📃📑☸️♎⚖️🌅☀️📕📘📗📙📖🖨️📚
+🗄️📃📑☸️♎⚖️🌅☀️📕📘📗📙📖🖨️📚⛱️
