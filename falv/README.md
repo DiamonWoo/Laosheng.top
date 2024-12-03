@@ -68,8 +68,8 @@
 　33-0118	[浙江法治报](https://zjfzb.zjol.com.cn/paperindex.htm)📰 	
 　34-0079	[安徽法治报](https://szb.ahnews.com.cn/fzb/pc/layout)📰 	
 　35-0071	福建法治报 [海峡法治在线](http://www.hxfzzx.com/)	
-　36-0064	**[新法治报](https://www.xepaper.com/xfzb/paperindex.htm)**📰 /江西日报社	
-　37-0010	[山东法制报](https://sdgonggao.cn/?m=home&c=Lists&a=index&tid=2)🗞️	
+　36-0064	**[新法治报](https://www.xepaper.com/xfzb/paperindex.htm)**📰 [官网](http://www.jxlaw.com.cn)/江西日报社	
+　37-0010	[山东法制报](http://paper.dzwww.com/sdfzb/)📰 [官网](https://sdgonggao.cn/)？	
 　41-0113	[河南法治报](https://newpaper.dahe.cn/jrab/paperindex.htm)📰 	
 　43-0068	[湖南法治报](https://epaper.voc.com.cn/fzzb/paperindex.htm)📰 [官网](http://www.efaw.cn)	
 　45-0023	[广西法治日报](http://ipaper.pagx.cn/)📰 	
@@ -77,13 +77,13 @@
 　50-0035	[重庆法治报](https://szb.cqfzb.net/)📰 [官网](https://www.cqfzb.net)	
 　51-0133	[四川法治报](https://dzb.scfzbs.com/)📰 [官网](https://www.scfzbs.com)	
 　52-0042	[贵州法治报](https://szb.fzshb.cn/)📰 [官网](https://www.fzshb.cn/)	
-　53-0053	[云南法制报](https://www.ynfzb.cn/Column.aspx?ColId=353)*📰 	
+　53-0053	[云南法制报](https://www.ynfzb.cn/Column.aspx?ColId=353)^📰 	
 　54-0013	[西藏法制报](https://e.xzxw.com/fzb/)📰 	
 　61-0073	**[西部法治报](https://esb.xbfzb.com/paperindex.htm)**📰 /陕西日报社	
 　62-0078	[甘肃法治报](https://szb.gansudaily.com.cn/gsfzb)📰 	
 　63-0029	[青海法治报](https://www.qhfzb.com/epaper/pc/layout/)📰 [官网](https://www.qhfzb.com)	
 　64-0020	[宁夏法治报](https://szb.nxrb.cn/nxfzb/)📰 	
-　65-0086	[新疆法治报](https://www.xjfzb.com/fzb/)*📰 	
+　65-0086	[新疆法治报](https://www.xjfzb.com/fzb/)^📰 	
 
 👨‍🎓 政法类高校报纸 7家：
 
