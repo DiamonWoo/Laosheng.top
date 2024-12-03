@@ -76,24 +76,24 @@
 　46-0034	[法治时报](http://szb.hnfazhi.com/)📰 /海南日报	
 　50-0035	[重庆法治报](https://szb.cqfzb.net/)📰 [官网](https://www.cqfzb.net)	
 　51-0133	[四川法治报](https://dzb.scfzbs.com/)📰 [官网](https://www.scfzbs.com)	
-　52-0042	[贵州法治报](https://szb.fzshb.cn/)📰 	
-　53-0053	云南法制报	
-　54-0013	西藏法制报	
+　52-0042	[贵州法治报](https://szb.fzshb.cn/)📰 [官网](https://www.fzshb.cn/)	
+　53-0053	[云南法制报](https://www.ynfzb.cn/Column.aspx?ColId=353)*📰 	
+　54-0013	[西藏法制报](https://e.xzxw.com/fzb/)📰 	
 　61-0073	**[西部法治报](https://esb.xbfzb.com/paperindex.htm)**📰 /陕西日报社	
-　62-0078	甘肃法治报	
-　63-0029	青海法治报	
-　64-0020	宁夏法治报	
-　65-0086	新疆法治报	
+　62-0078	[甘肃法治报](https://szb.gansudaily.com.cn/gsfzb)📰 	
+　63-0029	[青海法治报](https://www.qhfzb.com/epaper/pc/layout/)📰 [官网](https://www.qhfzb.com)	
+　64-0020	[宁夏法治报](https://szb.nxrb.cn/nxfzb/)📰 	
+　65-0086	[新疆法治报](https://www.xjfzb.com/fzb/)*📰 	
 
 👨‍🎓 政法类高校报纸 7家：
 
 　11-0825/（G）	<sup>教育部</sup>❕[中国政法大学校报](https://newspaper.cupl.edu.cn/)	
 　31-0819/（G）	上大法学院报	
-　41-0853/（G）	河南财经政法大学报	
+　41-0853/（G）	[河南财经政法大学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)📰 	
 　42-0806/（G）	<sup>教育部</sup>❕[中南财经政法大学报](https://xuebao.zuel.edu.cn)	
 　50-0818/（G）	[西南政法大学报](https://qks.swupl.edu.cn/xb/)	
-　61-0816/（G）	西北政法大学报	
-　62-0818/（G）	甘肃政法大学报	
+　61-0816/（G）	[西北政法大学报](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339)*📰 	
+　62-0818/（G）	[甘肃政法大学报](https://gszf.chinajournal.net.cn/)📰 	
 
 
 中国法律体系概览 ♎
