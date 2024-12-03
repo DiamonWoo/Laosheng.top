@@ -1,12 +1,12 @@
-大萌望海楼，找法不用愁 🗼
-====================
+大萌望海楼 🗼 <sup>学法数字报</sup>
+=================
 大萌	2019-2024
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/falv/" />
 
 		市场经济必然是法治经济———哲欣，2006
 
-**/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在此索引中国法律体系、制作高质量法律文本，帮大家找到有用法律。详细内容如下：
+**/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在此概览中国法律体系，探讨检索法条的门径，制作高质量法律文本，和大家一起学法、用法。详细内容如下：
 
 +	./fahai　☸️ [法海寻踪术](fahai){:target="_top"}，发现免费的法律文本，在茫茫法海找到有用的法律法规。
 +	./duben　📚 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
@@ -37,12 +37,17 @@
 
 *	🀄️ CCTV-1  央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 📺 每日中午12.35首播
 *	🀄️ CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)📺
+*	开设法治频道的省台📺：
+	[黑龙江](https://www.hljtv.com/live/folder424/)、
+	[河南](https://static.hntv.tv/kds/#/)、
+	[山西](https://www.sxrtv.com/tv/) <sub>需要手动选台</sub>
 *	[]()📰 🗞️官网[]()
 *	国务院/[司法部](https://www.moj.gov.cn)：
 	🀄️[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)，
 	[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报
 *	国务院/[公安部](https://www.mps.gov.cn)：
 	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)
+	/ [影视剧](https://media.cpd.com.cn)🎞
 *	[最高检](https://www.spp.gov.cn)：
 	《[检察日报](http://newspaper.jcrb.com)》📰 [正义网](https://www.jcrb.com)、
 *	[最高法](https://www.court.gov.cn)：
@@ -168,7 +173,7 @@
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.1.3	202412
+	大萌望海楼 v3.1.4	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
