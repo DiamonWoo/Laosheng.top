@@ -92,19 +92,25 @@
 
 <h3>👨‍🎓 政法类本科院校（学报/校报）：</h3>
 
-　<sup>教育部</sup>❕中国政法大学✌️⚖️海淀区	11-0825/（G）[校报](https://newspaper.cupl.edu.cn/)	
-　<sup>教育部</sup>❕中南财经政法大学✌️⚖️武汉市	42-0806/（G）[校报](https://xuebao.zuel.edu.cn)	
-　<sup>公安部</sup>❕中国人民公安大学 🛂西城区	[PPSUC](https://www.ppsuc.edu.cn)
+　<sup>教育部</sup>❕[中国政法大学](https://www.cupl.edu.cn/kxyj1.htm)✌️⚖️海淀区
+	11-0825/（G）[校报](https://newspaper.cupl.edu.cn/)📰	
+　<sup>教育部</sup>❕[中南财经政法大学](https://xuebao.zuel.edu.cn)✌️⚖️武汉市
+	42-0806/（G）[校报](https://znufe.ihwrm.com/)📰	
+　<sup>公安部</sup>❕中国人民公安大学 🛂西城区	[PPSUC](https://www.ppsuc.edu.cn)？
 　<sup>公安部</sup>❕中国人民警察大学 🛂廊坊市	[CPPU](https://www.cppu.edu.cn/kxyj1/xbjs1.htm)
-　<sup>公安部</sup>❕中国刑事警察学院 🛂沈阳市	[学报](https://www.cipuc.edu.cn/kxyj/xsqk.htm)
-　<sup>司法部</sup>❕中央司法警官学院 🛂保定市	[学报](https://bjb.cicp.edu.cn)
-　山东政法学院⚖️济南市	[学报](https://xbbjb.sdupsl.edu.cn)	
-　华东政法大学⚖️长宁区	[学报](https://journal.ecupl.edu.cn/ch/index.aspx)？	
-　上海政法学院⚖️青浦区	[学报](https://www.shupl.edu.cn/xbbjb/2262/list.htm)📰	
-　河南财经政法大学⚖️郑州市	41-0853/（G）[校报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)📰 	
-　西南政法大学⚖️沙坪坝区	50-0818/（G）[校报](https://qks.swupl.edu.cn/xb/)	
-　西北政法大学⚖️西安市	61-0816/（G）[校报](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339)^📰 	
-　甘肃政法大学⚖️兰州市	62-0818/（G）[校报](https://gszf.chinajournal.net.cn/)📰 	
+　<sup>公安部</sup>❕[中国刑事警察学院](https://www.cipuc.edu.cn/kxyj/xsqk.htm) 🛂沈阳市	
+　<sup>司法部</sup>❕[中央司法警官学院](https://bjb.cicp.edu.cn) ⚖️保定市	
+　[山东政法学院](https://xbbjb.sdupsl.edu.cn)⚖️济南市	
+　[华东政法大学](https://www.ecupl.edu.cn/622/list.htm)⚖️长宁区 	
+　[上海政法学院](https://www.shupl.edu.cn/xbbjb/2262/list.htm)⚖️青浦区	
+　[河南财经政法大学](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)⚖️郑州市
+	41-0853/（G）[校报](https://hnufe.ihwrm.com/)📰 	
+　[西南政法大学](https://qks.swupl.edu.cn/)⚖️沙坪坝区
+	50-0818/（G）校报[]()	
+　[西北政法大学](https://flkx.nwupl.edu.cn)⚖️西安市
+	61-0816/（G）[校报](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339)^📰 	
+　[甘肃政法大学](https://gszf.chinajournal.net.cn/)⚖️兰州市
+	62-0818/（G）[校报](https://gszf.ihwrm.com/)📰 	
 　新疆政法学院✪⚖️图木舒克市	[XJZFU](https://www.xjzfu.edu.cn)	
 　　*此段为不完全收录，更多公检法类专门院校请见[高校所](../fuwu/yuanxiao)*
 
