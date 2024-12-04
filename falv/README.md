@@ -58,7 +58,7 @@
 	《中国律师》杂志
 *	🀄️[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
 
-📑 地方法治报 29-1家（数字为刊号）：
+<h3>📑 地方法治报 29-1家（数字为刊号）：</h3>
 
 　11-0102	<del>法制晚报</del>	/北京青年报社
 　12-0005	天津政法报	
@@ -90,15 +90,23 @@
 　64-0020	[宁夏法治报](https://szb.nxrb.cn/nxfzb/)📰 	
 　65-0086	[新疆法治报](https://www.xjfzb.com/fzb/)^📰 	
 
-👨‍🎓 政法类高校报纸 7家：
+<h3>👨‍🎓 政法类本科院校（学报/校报）：</h3>
 
-　11-0825/（G）	<sup>教育部</sup>❕[中国政法大学校报](https://newspaper.cupl.edu.cn/)	
-　31-0819/（G）	上大法学院报	
-　41-0853/（G）	[河南财经政法大学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)📰 	
-　42-0806/（G）	<sup>教育部</sup>❕[中南财经政法大学报](https://xuebao.zuel.edu.cn)	
-　50-0818/（G）	[西南政法大学报](https://qks.swupl.edu.cn/xb/)	
-　61-0816/（G）	[西北政法大学报](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339)*📰 	
-　62-0818/（G）	[甘肃政法大学报](https://gszf.chinajournal.net.cn/)📰 	
+　<sup>教育部</sup>❕中国政法大学✌️⚖️海淀区	11-0825/（G）[校报](https://newspaper.cupl.edu.cn/)	
+　<sup>教育部</sup>❕中南财经政法大学✌️⚖️武汉市	42-0806/（G）[校报](https://xuebao.zuel.edu.cn)	
+　<sup>公安部</sup>❕中国人民公安大学 🛂西城区	[PPSUC](https://www.ppsuc.edu.cn)
+　<sup>公安部</sup>❕中国人民警察大学 🛂廊坊市	[CPPU](https://www.cppu.edu.cn/kxyj1/xbjs1.htm)
+　<sup>公安部</sup>❕中国刑事警察学院 🛂沈阳市	[学报](https://www.cipuc.edu.cn/kxyj/xsqk.htm)
+　<sup>司法部</sup>❕中央司法警官学院 🛂保定市	[学报](https://bjb.cicp.edu.cn)
+　山东政法学院⚖️济南市	[学报](https://xbbjb.sdupsl.edu.cn)	
+　华东政法大学⚖️长宁区	[学报](https://journal.ecupl.edu.cn/ch/index.aspx)？	
+　上海政法学院⚖️青浦区	[学报](https://www.shupl.edu.cn/xbbjb/2262/list.htm)📰	
+　河南财经政法大学⚖️郑州市	41-0853/（G）[校报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)📰 	
+　西南政法大学⚖️沙坪坝区	50-0818/（G）[校报](https://qks.swupl.edu.cn/xb/)	
+　西北政法大学⚖️西安市	61-0816/（G）[校报](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339)^📰 	
+　甘肃政法大学⚖️兰州市	62-0818/（G）[校报](https://gszf.chinajournal.net.cn/)📰 	
+　新疆政法学院✪⚖️图木舒克市	[XJZFU](https://www.xjzfu.edu.cn)	
+　　*此段为不完全收录，更多公检法类专门院校请见[高校所](../fuwu/yuanxiao)*
 
 
 中国法律体系概览 ♎
@@ -167,13 +175,13 @@
 *	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
 
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/c/author)🙇
 
 ```
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.1.4	202412
+	大萌望海楼 v3.1.5	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
