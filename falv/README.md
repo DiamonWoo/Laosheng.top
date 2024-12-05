@@ -6,16 +6,15 @@
 
 		市场经济必然是法治经济———哲欣，2006
 
-**/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在此概览中国法律体系，探讨检索法条的门径，制作高质量法律文本，和大家一起学法、用法。详细内容如下：
+**/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在这里探讨检索法条的门径，制作高质量法律文本，列举政法类高校资源，和大家一起学法、用法。详细内容如下：
 
 +	./fahai　☸️ [法海寻踪术](fahai){:target="_top"}，发现免费的法律文本，在茫茫法海找到有用的法律法规；深入学习法律。
 +	./duben　📚 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
 	+ [读本1](duben1){:target="_top"} 八部大法：　立法、监察、诉讼法、行政、刑法、民法典
 	+ [读本2](duben2){:target="_top"} 常用法：　治安、传染病、噪声防治……
 +	./[index2](./index2){:target="_top"}　现行有效的《中国法律简目》。因‘国法库’做得越来越好，本项目暂停。
-
 +	法治政府部门集，地市以上法律有关部门，千县公检法……收录在本站[【服务】](../fuwu)系列
-+	中国政法区划集，超大规模集成网页，设计中……将收录：行政区划+司法区划+部分经济区划，目前已有‘法门集’和‘公检法’两个基础页面。
++	中国政法区划集，超大规模集成网页，设计中……将收录：行政区划+司法区划+部分经济区划，目前已有‘[法门集](../fuwu/fazhi)’和‘公检法’两个基础页面。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top" title="大萌望海楼">【法律】</a>系列
@@ -31,6 +30,8 @@
 *	【[北法库](https://www.pkulaw.com/law)】 　源于北京大学法律系的北大法宝网提供
 
 　　另有 [行政法规库](http://www.gov.cn/zhengce/xzfgk/) 和 [党纪法规库](https://www.ccdi.gov.cn/fgk/index)
+
+<p align="center" style="background-color:red; color:yellow; ">🇨🇳 12月4日是第11个国家宪法日</p>
 
 
 中国法律体系概览 ♎
@@ -160,13 +161,13 @@
 *	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
 
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/c/author)🙇
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/c/author)🙇 Comments Welcome
 
 ```
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.1.6	202412
+	大萌望海楼 v3.1.7	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
