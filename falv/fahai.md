@@ -72,41 +72,42 @@
 
 3、法学深造
 -----------
-（草稿）
 
-<h3>👨‍🎓 ❗中管高校法学院（xx/31）：</h3>
+　　在【[法律](..)】系列的目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
 
-　1 北京大学 [法学院](http://www.pku.edu.cn/department.html)
-　2 清华大学 [法学院](http://www.tsinghua.edu.cn/yxsz.htm)
-　3 中国人民大学 [法学院](http://www.ruc.edu.cn/cn/departments/marxism.html)
-　4 北京师范大学 [法学院](http://www.bnu.edu.cn/xbyx/)
-　5 复旦大学 [法学院](http://www.fudan.edu.cn/489/list.htm)
-　6 上海交通大学 [法学院](http://)
-　7 西安交通大学 [法学院](http://www.xjtu.edu.cn/yxsz.htm)
-　8 中国科学技术大学 [法学院](http://www.ustc.edu.cn/yxjs.htm)
-　9 中国农业大学 [法学院](http://www.cau.edu.cn/xybm/)
-　10 北京理工大学 [法学院](http://www.bit.edu.cn/gbxxgk/gbgljg/)
-　11 北京航空航天大学 [法学院](http://www.buaa.edu.cn/jgsz/jxkyjg.htm)
-　12 西北工业大学 [法学院](http://www.nwpu.edu.cn/xysz.htm)
-　13 哈尔滨工业大学 [法学院](http://www.hit.edu.cn/11589/list.htm)
-　14 浙江大学 [法学院](http://www.zju.edu.cn/599/list.htm)
-　15 南京大学 [法学院](http://www.nju.edu.cn/yxbm.htm)
-　16 四川大学 [法学院](http://www.scu.edu.cn/zzjg/xysz.htm)
-　17 南开大学 [法学院](http://www.nankai.edu.cn/212/list.htm)
-　18 天津大学 [法学院](http://www.tju.edu.cn/tdgk/jgsz/xy_b_.htm)
-　19 武汉大学 [法学院](http://www.whu.edu.cn/jgsz/yxsz.htm)
-　20 中山大学 [法学院](http://www.sysu.edu.cn/yxsz.htm)
-　21 西北农林科技大学 [法学院](http://www.nwsuaf.edu.cn/xxsw/)
-　22 吉林大学 [法学院](http://www.jlu.edu.cn/jgsz/yxsz.htm)
-　23 华中科技大学 [法学院](http://www.hust.edu.cn/yxsz.htm)
-　24 山东大学 [法学院](http://www.sdu.edu.cn/jgsz/xysz.htm)
-　25 东南大学 [法学院](http://www.seu.edu.cn/28438/list.htm)
-　26 厦门大学 [法学院](http://www.xmu.edu.cn/xbyx/rwyysxb.htm)
-　27 同济大学 [法学院](http://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm)
-　28 中南大学 [法学院](http://www.csu.edu.cn/xyxk1/ejxy.htm)
-　29 大连理工大学 [法学院](http://www.dlut.edu.cn/xbyx/dllszxq.htm)
-　30 重庆大学 [法学院](http://www.cqu.edu.cn/jgsz/jxkyjg.htm)
-　31 兰州大学 [法学院](http://www.lzu.edu.cn/static/jxdw/)
+<h3>👨‍🎓 ❗中管高校法学院（25所/31）：</h3>
+
+　1 北京大学 [法学院](https://www.law.pku.edu.cn/)
+　2 清华大学 [法学院](https://www.law.tsinghua.edu.cn/)
+　3 中国人民大学 [法学院](http://www.law.ruc.edu.cn/)
+　4 北京师范大学 [法学院](https://law.bnu.edu.cn/)
+　5 复旦大学 [法学院](https://law.fudan.edu.cn/)
+　6 上海交通大学 [法学院](https://law.sjtu.edu.cn/)
+　7 西安交通大学 [法学院](http://fxy.xjtu.edu.cn/)
+　8 [中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无
+　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无
+　10 北京理工大学 [法学院](https://law.bit.edu.cn/)
+　11 北京航空航天大学 <del>[法学院](https://fxy.buaa.edu.cn/ "禁止校外访问")</del>🛇
+　12 [西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无
+　13 [哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无
+　14 浙江大学 光华[法学院](http://www.ghls.zju.edu.cn/ghlscn/)
+　15 南京大学 [法学院](https://law.nju.edu.cn/)
+　16 四川大学 [法学院](https://law.scu.edu.cn/)
+　17 南开大学 [法学院](https://law.nankai.edu.cn/)
+　18 天津大学 [法学院](https://law.tju.edu.cn/)
+　19 武汉大学 [法学院](https://law.whu.edu.cn/)
+　20 中山大学 [法学院](https://law.sysu.edu.cn/)
+　21 [西北农林科技大学](http://www.nwsuaf.edu.cn/xxsw/) 无
+　22 吉林大学 [法学院](https://law.jlu.edu.cn/)
+　23 华中科技大学 [法学院](https://law.hust.edu.cn/)
+　24 山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)
+　25 东南大学 [法学院](https://law.seu.edu.cn/)
+　26 厦门大学 [法学院](https://law.xmu.edu.cn/)
+　27 同济大学 [法学院](https://law.tongji.edu.cn/)
+　28 中南大学 [法学院](https://law.csu.edu.cn/)
+　29 [大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无
+　30 重庆大学 [法学院](https://law.cqu.edu.cn/)
+　31 兰州大学 [法学院](https://laws.lzu.edu.cn/)
 
 <h3>👨‍🎓 政法类本科院校（学报/校报）：</h3>
 
@@ -141,13 +142,12 @@
 
 4、国家法考与公安警校
 ---------------------
-（草稿）
 
-　　从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’等多个二级学科类。
+　　从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’等多个二级学科类。其中公安类专业在高考录取时通常享有提前录取权。
 
 <h3>国家法考⚖️</h3>
 
-　　国家‘法考’全称为‘国家统一法律职业资格考试’，由司法部[国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)组织实施。
+　　从2018年开始，国家司法考试改称为‘国家统一法律职业资格考试’，由司法部[国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)组织实施。如果你想当律师，或者考上公务员，要担任法官、检察官、公证员、法律顾问、仲裁员（法律类）及政府部门中从事行政处罚决定审核、行政复议、行政裁决的人员必须通过法律职业资格考试。
 
 <h3>全国53家公安警校🛂</h3>
 
@@ -235,11 +235,11 @@
 	包含人大代表选举与机构组织类法律、国家象征类法律、军事国防与外事外交类法律、纪律监察类法律。🇨🇳
 
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇 Comments Welcome
 
 ```
-	老生常谈 © 2019~2024 大萌  创作共用3.0
-	CC-BY-NC-ND-3.0 	可转载-原署名-非演绎
+	老生常谈 © 2019~2024 大萌  知识共享
+	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/falv/fahai
 	法海寻踪术	v0.6.6	202412
 ```
