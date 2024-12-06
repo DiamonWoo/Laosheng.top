@@ -1,4 +1,4 @@
-法海寻踪术 ☸️
+法海求索 ☸️
 =============
 大萌	2020-2024
 <base target="_blank">
@@ -8,10 +8,10 @@
 
 　　当人们遇到事情想找法律的时候，很可能会面对浩繁的法律望海兴叹：到底要找哪一部法律？**法海寻踪**就是帮助人们在茫茫法海快速找到有用的那部法律、那款条文的指南。法律初学者首先发现免费的法律文本，找到可靠的法律文本检索入口，<del>通过[中国法律简目](index2.html)看到现行有效法律的全貌</del>，再进一步通过《大萌法律读本》学习重点法律的全文，最终掌握自行检索法律条文和法规文件的技能。
 
-　　如果你想更深入学习法律，可以考虑通过‘法考’拿到法律职业资格证，或者报考法律专业院校深造。
+　　如果你想更深入学习法律，可以考虑通过‘法考’拿到法律职业资格证，或者报考法律专业院校深造。本页收录政法类、公安类、司法警察类高等院校网址。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/法海寻踪
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/法海
 </div>
 
 
@@ -74,12 +74,41 @@
 	- 上海开放法律联盟 [OpenLaw裁判文书检索](https://openlaw.cn/)，2014年成立，只有文书，不提供法规。
 
 
-3、法学深造
+3、国家法考 ⚖
 -----------
+
+　　从2018年开始，国家司法考试改称为‘国家统一法律职业资格考试’，由司法部[国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)组织实施。如果你想当律师，或者考上公务员，要担任法官、检察官、公证员、法律顾问、仲裁员（法律类）及政府部门中从事行政处罚决定审核、行政复议、行政裁决的人员必须通过法律职业资格考试。
+
+
+4、《中国法律简目》
+------------------
+（项目暂停）
+
+　　大萌将对现行有效的约三百部法律进行**归类**，对每一部法律附加全文网址，对重点法律制作*可阅读和打印的高质量文本*，形成：[《中国法律简目》](index2.html "大萌望海楼"){:target="_top"}。
+
+　　归类，是人类对事物的归纳方法之一，从不同的角度，可以得到不同的类别。从法律的来源网站，可以看到按照立法角度的分类。法律之间有纵向的联系，比如某某法根据某某法制定；也能看到横向的联系，比如某某行为情节将涉及某某法律。一纵一横，成为‘法网’。
+
+　　归类数据，从信息学的角度，是树状结构，所以，对法律仅作归类并不能反映各法律之间的网状联系。而Web网页是天然的网状结构，大萌根据自己对法律的学习，从当事人的角度，将法律归为以下四大类，便于认识法律，并在大类之间加入超链接，呈现“法网”：
+
++ m📙 [民事民生类](index2.html#m-民事民生类 "法治基石，助力百姓"){:target="_top"}，《民法典》2021年元旦正式生效！ (提供全文)  
+	包含婚姻家庭继承/物权合同侵权责任内容的大部头《民法典》是该类法律的核心；此外还包括：调解诉讼的程序类法律，保护妇幼残等特定人群的法律，广告法电商法等保护消费者的法律。
+
++ s📗 [生产行政类](index2.html#s-行政生产类 "各行各业，按部就班"){:target="_top"}，数量最多的法律。  
+	该大类涉及：政府管理、企业生产、资源保护，以及程序类法律。行政诉讼法（民告官）、许可法、处罚法……等等
+
++ x📘 [刑事检察类](index2.html#x-刑事检察类 "大国重典，仍在修正"){:target="_top"}，1997年新中国第四版刑法，后经十余次修正。 (全文准备中)  
+	以《刑法》及其修正案为核心，包括：刑事诉讼法、人民警察法、律师法……等等
+
++ y🌅 [依宪治国类](index2.html#z-依宪治国类 "依宪治国，立国之本"){:target="_top"}，依宪治国，依宪执政。  
+	包含人大代表选举与机构组织类法律、国家象征类法律、军事国防与外事外交类法律、纪律监察类法律。🇨🇳
+
+
+5、法学院与警校 👨‍🎓
+-----------------
 
 　　在【[法律](.)】系列的目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
 
-<h3>👨‍🎓 ❗中管高校法学院（25所/31）：</h3>
+<h3>❗中管高校法学院（25所/31）</h3>
 
 　1 北京大学[法学院](https://www.law.pku.edu.cn/)
 　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)
@@ -113,72 +142,67 @@
 　30 重庆大学[法学院](https://law.cqu.edu.cn/)
 　31 兰州大学[法学院](https://laws.lzu.edu.cn/)
 
-<h3>👨‍🎓 政法类本科院校（学报/校报）：</h3>
+<h3>⚖ 政法类本科院校 学报/校报</h3>
 
-　<sup>教育部</sup>❕[中国政法大学](https://www.cupl.edu.cn/kxyj1.htm)✌️⚖️海淀区
+　<sup>教育部</sup>❕[中国政法大学](https://www.cupl.edu.cn/kxyj1.htm)✌️海淀区
 	11-0825/(G)[校报](https://newspaper.cupl.edu.cn/)📰	
-　<sup>教育部</sup>❕[中南财经政法大学](https://www.zuel.edu.cn)✌️⚖️武汉市
+　<sup>教育部</sup>❕[中南财经政法大学](https://www.zuel.edu.cn)✌️武汉市
 	[学报](https://xuebao.zuel.edu.cn)
 	42-0806/(G)[校报](https://znufe.ihwrm.com/)📰	
 　<sup>公安部</sup>❕中国人民公安大学 🛂西城区	[PPSUC](https://www.ppsuc.edu.cn)？
 　<sup>公安部</sup>❕中国人民警察大学 🛂廊坊市	[CPPU](https://www.cppu.edu.cn/kxyj1/xbjs1.htm)
 　<sup>公安部</sup>❕[中国刑事警察学院](https://www.cipuc.edu.cn/kxyj/xsqk.htm) 🛂沈阳市	
-　<sup>司法部</sup>❕[中央司法警官学院](https://bjb.cicp.edu.cn) ⚖️保定市	
-　[山东政法学院](https://www.sdupsl.edu.cn)⚖️济南市
+　<sup>司法部</sup>❕[中央司法警官学院](https://bjb.cicp.edu.cn) 保定市  
+　[山东政法学院](https://www.sdupsl.edu.cn) 济南市
 	[学报](https://xbbjb.sdupsl.edu.cn)	
-　[华东政法大学](https://www.ecupl.edu.cn/622/list.htm)⚖️长宁区 	
-　[上海政法学院](https://www.shupl.edu.cn)⚖️青浦区
+　[华东政法大学](https://www.ecupl.edu.cn/622/list.htm) 长宁区 	
+　[上海政法学院](https://www.shupl.edu.cn) 青浦区
 	[学报](https://www.shupl.edu.cn/xbbjb/2262/list.htm)
-　[河南财经政法大学](https://www.huel.edu.cn)⚖️郑州市
+　[河南财经政法大学](https://www.huel.edu.cn) 郑州市
 	[学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)
 	41-0853/(G)[校报](https://hnufe.ihwrm.com/)📰 	
-　[西南政法大学](https://www.swupl.edu.cn)⚖️沙坪坝区
+　[西南政法大学](https://www.swupl.edu.cn) 沙坪坝区
 	[学报](https://qks.swupl.edu.cn)
 	50-0818/(G)校报[]()	
-　[西北政法大学](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339)⚖️西安市
+　[西北政法大学](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339) 西安市
 	61-0816/(G)^📰
 	[学报](https://flkx.nwupl.edu.cn)	
-　[甘肃政法大学](https://www.gsupl.edu.cn/tsqk1.htm)⚖️兰州市
+　[甘肃政法大学](https://www.gsupl.edu.cn/tsqk1.htm) 兰州市
 	62-0818/(G)[校报](https://gszf.ihwrm.com/)📰 	
-　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm)✪⚖️图木舒克市	
+　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市	
+
 　　*此段为不完全收录，更多公检法类专门院校请见[高校所](../fuwu/yuanxiao)*
 
-
-4、国家法考与公安警校
----------------------
+<h3>🛂 全国53所公安/司法🛃警校</h3>
 
 　　从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’等多个二级学科类。其中公安类专业在高考录取时通常享有提前录取权。
 
-<h3>⚖️国家法考</h3>
-
-　　从2018年开始，国家司法考试改称为‘国家统一法律职业资格考试’，由司法部[国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)组织实施。如果你想当律师，或者考上公务员，要担任法官、检察官、公证员、法律顾问、仲裁员（法律类）及政府部门中从事行政处罚决定审核、行政复议、行政裁决的人员必须通过法律职业资格考试。
-
-<h3>🛂全国53家公安警校</h3>
-
 　❕[中国人民公安大学](http://www.cppsu.edu.cn)
-　❕[中国人民警察大学](http://www.cppu.edu.cn)
-　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn)
-　❕[中国刑事警察学院](http://www.cipuc.edu.cn)
+　❕[中国人民警察大学](http://www.cppu.edu.cn)廊坊
+　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn)保定
+　❕[中国刑事警察学院](http://www.cipuc.edu.cn)沈阳
 　❕[南京警察学院](http://www.forestpolice.net)
-　❕[郑州警察学院](http://www.rpc.edu.cn)
+　❕[郑州警察学院](http://www.rpc.edu.cn)  
 　[北京警察学院](http://www.bjpc.edu.cn)
 　[天津公安警官职业学院](http://www.tjjingyuan.cn)
 　[河北公安警察职业学院](http://www.hebsjy.com)
-　[河北司法警官职业学院](http://www.jjgxy.com.cn)
+　[河北司法警官职业学院](http://www.jjgxy.com.cn)邯郸
 　[山西警察学院](http://www.sxpc.edu.cn)
-　[山西警官职业学院](http://www.sxpolice.org)
+　[山西警官职业学院](http://www.sxpolice.org)🛃
 　[内蒙古警察职业学院](http://www.imppc.cn)
-　[辽宁警察学院](http://www.lnpc.cn)
+　[辽宁警察学院](http://www.lnpc.cn)大连
 　[吉林警察学院](http://www.jljcxy.com)
 　[吉林司法警官职业学院](http://www.jlsfjy.cn)
 　[黑龙江司法警官职业学院](http://www.hljsfjy.org.cn)
 　[黑龙江公安警官职业学院](http://www.hlpolice.gov.cn)
 　[上海公安学院](http://www.shpc.edu.cn)
 　[江苏警官学院](http://www.jspi.cn)
+　[江苏司法警官职业学院](http://www.jssfjy.cn)
 　[浙江警察学院](http://www.zjpc.edu.cn)
-　[浙江警官职业学院](http://www.zjjy.edu.cn)
-　[安徽警官职业学院](http://www.ahjgxy.edu.cn)
+　[浙江警官职业学院](http://www.zjjy.edu.cn)🛃
+　[安徽公安学院](http://gaxy.ahpc.edu.cn)
 　[安徽公安职业学院](http://www.ahgaxy.com.cn)
+　[安徽警官职业学院](http://www.ahjgxy.edu.cn)🛃
 　[福建警察学院](http://www.fjpsc.edu.cn)
 　[江西警察学院](http://www.jxga.edu.cn)
 　[江西司法警官职业学院](http://www.jxsfjy.cn)
@@ -187,15 +211,15 @@
 　[河南警察学院](http://www.hnp.edu.cn)
 　[河南司法警官职业学院](http://www.hnsfjy.edu.cn)
 　[湖北警官学院](http://www.hbpa.edu.cn)
-　[武汉警官职业学院](http://www.whpa.cn)
+　[武汉警官职业学院](http://www.whpa.cn)🛃
 　[湖南警察学院](http://www.hnpolice.com)
 　[湖南司法警官职业学院](http://www.hnsfjy.cn)
 　[广东警官学院](http://www.gdppla.edu.cn)
 　[广东司法警官职业学院](http://www.gdjpvc.edu.cn)
 　[广西警察学院](http://www.gxjcxy.com)
 　[重庆警察学院](http://www.cqpc.edu.cn)
-　[四川警察学院](http://www.scpolicec.edu.cn)
-　[四川司法警官职业学院](http://www.sjpopc.net)
+　[四川警察学院](http://www.scpolicec.edu.cn)泸州
+　[四川司法警官职业学院](http://www.sjpopc.net)德阳
 　[贵州警察学院](http://www.gzpc.edu.cn)
 　[云南警官学院](http://www.ynpc.edu.cn)
 　[云南司法警官职业学院](http://www.yncpu.net)
@@ -206,32 +230,6 @@
 　[宁夏警官职业学院](http://www.nsjy.com.cn)
 　[新疆警察学院](http://www.xjpcedu.cn)
 　新疆司法警官职业学院[]()
-　[安徽公安学院](http://gaxy.ahpc.edu.cn)
-　[江苏司法警官职业学院](http://www.jssfjy.cn)
-
-
-5、《中国法律简目》
-------------------
-（项目暂停）
-
-　　大萌将对现行有效的约三百部法律进行**归类**，对每一部法律附加全文网址，对重点法律制作*可阅读和打印的高质量文本*，形成：[《中国法律简目》](index2.html "大萌望海楼"){:target="_top"}。
-
-　　归类，是人类对事物的归纳方法之一，从不同的角度，可以得到不同的类别。从法律的来源网站，可以看到按照立法角度的分类。法律之间有纵向的联系，比如某某法根据某某法制定；也能看到横向的联系，比如某某行为情节将涉及某某法律。一纵一横，成为‘法网’。
-
-　　归类数据，从信息学的角度，是树状结构，所以，对法律仅作归类并不能反映各法律之间的网状联系。而Web网页是天然的网状结构，大萌根据自己对法律的学习，从当事人的角度，将法律归为以下四大类，便于认识法律，并在大类之间加入超链接，呈现“法网”：
-
-+ m📙 [民事民生类](index2.html#m-民事民生类 "法治基石，助力百姓"){:target="_top"}，《民法典》2021年元旦正式生效！ (提供全文)  
-	包含婚姻家庭继承/物权合同侵权责任内容的大部头《民法典》是该类法律的核心；此外还包括：调解诉讼的程序类法律，保护妇幼残等特定人群的法律，广告法电商法等保护消费者的法律。
-
-+ s📗 [生产行政类](index2.html#s-行政生产类 "各行各业，按部就班"){:target="_top"}，数量最多的法律。  
-	该大类涉及：政府管理、企业生产、资源保护，以及程序类法律。行政诉讼法（民告官）、许可法、处罚法……等等
-
-+ x📘 [刑事检察类](index2.html#x-刑事检察类 "大国重典，仍在修正"){:target="_top"}，1997年新中国第四版刑法，后经十余次修正。 (全文准备中)  
-	以《刑法》及其修正案为核心，包括：刑事诉讼法、人民警察法、律师法……等等
-
-+ y🌅 [依宪治国类](index2.html#z-依宪治国类 "依宪治国，立国之本"){:target="_top"}，依宪治国，依宪执政。  
-	包含人大代表选举与机构组织类法律、国家象征类法律、军事国防与外事外交类法律、纪律监察类法律。🇨🇳
-
 
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇 Comments Welcome
@@ -240,7 +238,7 @@
 	老生常谈 © 2019~2024 大萌  知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/falv/fahai
-	法海寻踪术	v0.6.6	202412
+	法海寻踪术	v0.6.7	202412
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
