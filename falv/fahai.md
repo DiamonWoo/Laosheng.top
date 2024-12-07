@@ -92,75 +92,73 @@
 　　中华全国律师协会：[中国律师网](https://www.acla.org.cn)
 
 
-5、法学院与警校 👨‍🎓
+5、政法类高等院校 👨‍🎓
 -----------------
 
 　　在【[法律](.)】系列的目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
 
 <h3>❗中管高校法学院（25所/31）</h3>
 
-　1 北京大学[法学院](https://www.law.pku.edu.cn/)
-　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)
-　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)
-　4 北京师范大学[法学院](https://law.bnu.edu.cn/)
-　5 复旦大学[法学院](https://law.fudan.edu.cn/)
-　6 上海交通大学[法学院](https://law.sjtu.edu.cn/)
-　7 西安交通大学[法学院](http://fxy.xjtu.edu.cn/)
-　8 [中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无
-　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无
-　10 北京理工大学[法学院](https://law.bit.edu.cn/)
-　11 北京航空航天大学<del>[法学院](https://fxy.buaa.edu.cn/ "禁止校外访问")</del>🛇
-　12 [西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无
-　13 [哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无
-　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)
-　15 南京大学[法学院](https://law.nju.edu.cn/)
-　16 四川大学[法学院](https://law.scu.edu.cn/)
-　17 南开大学[法学院](https://law.nankai.edu.cn/)
-　18 天津大学[法学院](https://law.tju.edu.cn/)
-　19 武汉大学[法学院](https://law.whu.edu.cn/)
-　20 中山大学[法学院](https://law.sysu.edu.cn/)
-　21 [西北农林科技大学](http://www.nwsuaf.edu.cn/xxsw/) 无
-　22 吉林大学[法学院](https://law.jlu.edu.cn/)
-　23 华中科技大学[法学院](https://law.hust.edu.cn/)
-　24 山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)
-　25 东南大学[法学院](https://law.seu.edu.cn/)
-　26 厦门大学[法学院](https://law.xmu.edu.cn/)
-　27 同济大学[法学院](https://law.tongji.edu.cn/)
-　28 中南大学[法学院](https://law.csu.edu.cn/)
-　29 [大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无
-　30 重庆大学[法学院](https://law.cqu.edu.cn/)
+　1 北京大学[法学院](https://www.law.pku.edu.cn/)  
+　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)  
+　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)  
+　4 北京师范大学[法学院](https://law.bnu.edu.cn/)  
+　5 复旦大学[法学院](https://law.fudan.edu.cn/)  
+　6 上海交通大学[法学院](https://law.sjtu.edu.cn/)  
+　7 西安交通大学[法学院](http://fxy.xjtu.edu.cn/)  
+　8 [中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
+　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无  
+　10 北京理工大学[法学院](https://law.bit.edu.cn/)  
+　11 北京航空航天大学<del>[法学院](https://fxy.buaa.edu.cn/ "禁止校外访问")</del>🛇  
+　12 [西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
+　13 [哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
+　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)  
+　15 南京大学[法学院](https://law.nju.edu.cn/)  
+　16 四川大学[法学院](https://law.scu.edu.cn/)  
+　17 南开大学[法学院](https://law.nankai.edu.cn/)  
+　18 天津大学[法学院](https://law.tju.edu.cn/)  
+　19 武汉大学[法学院](https://law.whu.edu.cn/)  
+　20 中山大学[法学院](https://law.sysu.edu.cn/)  
+　21 [西北农林科技大学](http://www.nwsuaf.edu.cn/xxsw/) 无  
+　22 吉林大学[法学院](https://law.jlu.edu.cn/)  
+　23 华中科技大学[法学院](https://law.hust.edu.cn/)  
+　24 山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)  
+　25 东南大学[法学院](https://law.seu.edu.cn/)  
+　26 厦门大学[法学院](https://law.xmu.edu.cn/)  
+　27 同济大学[法学院](https://law.tongji.edu.cn/)  
+　28 中南大学[法学院](https://law.csu.edu.cn/)  
+　29 [大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无  
+　30 重庆大学[法学院](https://law.cqu.edu.cn/)  
 　31 兰州大学[法学院](https://laws.lzu.edu.cn/)
 
-<h3>⚖ 政法类本科院校 学报/校报</h3>
+　　中管高校都是综合类大学，没有专业类大学，下面给出政法类的专业大学，参照‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名。
+
+<h3>⚖ 政法类专业院校（学报/校报）</h3>
 
 　<sup>教育部</sup>❕[中国政法大学](https://www.cupl.edu.cn/kxyj1.htm)✌️海淀区
-	11-0825/(G)[校报](https://newspaper.cupl.edu.cn/)📰	
+	11-0825/(G)[校报](https://newspaper.cupl.edu.cn/)📰  
 　<sup>教育部</sup>❕[中南财经政法大学](https://www.zuel.edu.cn)✌️武汉市
 	[学报](https://xuebao.zuel.edu.cn)
-	42-0806/(G)[校报](https://znufe.ihwrm.com/)📰	
-　<sup>公安部</sup>❕中国人民公安大学 🛂西城区	[PPSUC](https://www.ppsuc.edu.cn)？
-　<sup>公安部</sup>❕中国人民警察大学 🛂廊坊市	[CPPU](https://www.cppu.edu.cn/kxyj1/xbjs1.htm)
-　<sup>公安部</sup>❕[中国刑事警察学院](https://www.cipuc.edu.cn/kxyj/xsqk.htm) 🛂沈阳市	
-　<sup>司法部</sup>❕[中央司法警官学院](https://bjb.cicp.edu.cn) 保定市  
-　[山东政法学院](https://www.sdupsl.edu.cn) 济南市
-	[学报](https://xbbjb.sdupsl.edu.cn)	
-　[华东政法大学](https://www.ecupl.edu.cn/622/list.htm) 长宁区 	
-　[上海政法学院](https://www.shupl.edu.cn) 青浦区
-	[学报](https://www.shupl.edu.cn/xbbjb/2262/list.htm)
-　[河南财经政法大学](https://www.huel.edu.cn) 郑州市
-	[学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)
-	41-0853/(G)[校报](https://hnufe.ihwrm.com/)📰 	
+	42-0806/(G)[校报](https://znufe.ihwrm.com/)📰  
 　[西南政法大学](https://www.swupl.edu.cn) 沙坪坝区
 	[学报](https://qks.swupl.edu.cn)
-	50-0818/(G)校报[]()	
+	50-0818/(G)校报[]()  
+　[华东政法大学](https://www.ecupl.edu.cn/622/list.htm) 长宁区  
 　[西北政法大学](https://nwupl.edu.cn/info/iList.jsp?cat_id=12339) 西安市
 	61-0816/(G)^📰
-	[学报](https://flkx.nwupl.edu.cn)	
+	[学报](https://flkx.nwupl.edu.cn)  
+　[上海政法学院](https://www.shupl.edu.cn) 青浦区
+	[学报](https://www.shupl.edu.cn/xbbjb/2262/list.htm)  
 　[甘肃政法大学](https://www.gsupl.edu.cn/tsqk1.htm) 兰州市
-	62-0818/(G)[校报](https://gszf.ihwrm.com/)📰 	
-　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市	
+	62-0818/(G)[校报](https://gszf.ihwrm.com/)📰   
+　[山东政法学院](https://www.sdupsl.edu.cn) 济南市
+	[学报](https://xbbjb.sdupsl.edu.cn)  
+　[河南财经政法大学](https://www.huel.edu.cn) 郑州市
+	[学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)
+	41-0853/(G)[校报](https://hnufe.ihwrm.com/)📰  
+　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市	（数字为刊号）
 
-　　*此段为不完全收录，更多公检法类专门院校请见[高校所](../fuwu/yuanxiao)*
+　　*此段仅收录本科，且为不完全收录，更多政法类专业院校请见[高校所](../fuwu/yuanxiao)*
 
 <h3>🛂 全国公安/司法警校</h3>
 
@@ -168,11 +166,11 @@
 
 公安类警校36所：
 
-　<sup>公安部</sup>❕[中国人民公安大学](http://www.cppsu.edu.cn "网站夜间关闭")
-　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn) 廊坊
-　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn) 沈阳
-　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)
-　<sup>公安部</sup>❕[郑州警察学院](http://www.rpc.edu.cn)
+　<sup>公安部</sup>❕[中国人民公安大学](http://www.cppsu.edu.cn "网站夜间关闭")  
+　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn) 廊坊  
+　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn) 沈阳  
+　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)  
+　<sup>公安部</sup>❕[郑州警察学院](http://www.rpc.edu.cn)  
 　[北京警察学院](http://www.bjpc.edu.cn)
 　[天津公安警官职业学院](http://www.tjjingyuan.cn)
 　[河北公安警察职业学院](http://www.hebsjy.com)
@@ -207,7 +205,7 @@
 
 司法类警校17所：
 
-　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn) 保定
+　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn) 保定  
 　[河北司法警官职业学院](http://www.jjgxy.com.cn) 邯郸
 　[山西警官职业学院](http://www.sxpolice.org)<sub>司法</sub>
 　[吉林司法警官职业学院](http://www.jlsfjy.cn)
