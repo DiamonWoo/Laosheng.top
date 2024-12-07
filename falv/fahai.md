@@ -15,8 +15,8 @@
 </div>
 
 
-1、法律文本的演变
----------------
+1、法律文本的演变 💿
+-----------------
 
 　　在计算机普及之前，法律文本是以纸质媒体向社会公开的：文件通知印发/报纸刊登/书店出售单行本或汇编手册等。当文本内容大到一定程度，查找法律条文就变得非常费劲。后来，计算机的发展解决了这一问题，法律文本出现了电子载体。一些专业机构，会定期发行<法律汇编光盘>，几十万字的法律文本检索可以在十几秒钟内完成。但是每年至少几千元的订阅费，使得这种光盘只在法律从业机构中流行，距离普通人很遥远。再后来，互联网普及，新闻媒体、立法机关、司法机关的网站成为了法律文本公开的第一渠道，不仅可以做到及时公开、快速检索，而且成本趋近于零，使得法律成为百姓可用的普惠资源。
 
@@ -168,9 +168,9 @@
 
 公安类警校36所：
 
-　<sup>公安部</sup>❕[中国人民公安大学](http://www.cppsu.edu.cn)
-　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn)廊坊
-　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn)沈阳
+　<sup>公安部</sup>❕[中国人民公安大学](http://www.cppsu.edu.cn "网站夜间关闭")
+　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn) 廊坊
+　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn) 沈阳
 　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)
 　<sup>公安部</sup>❕[郑州警察学院](http://www.rpc.edu.cn)
 　[北京警察学院](http://www.bjpc.edu.cn)
@@ -178,14 +178,14 @@
 　[河北公安警察职业学院](http://www.hebsjy.com)
 　[山西警察学院](http://www.sxpc.edu.cn)
 　[内蒙古警察职业学院](http://www.imppc.cn)
-　[辽宁警察学院](http://www.lnpc.cn)大连
+　[辽宁警察学院](http://www.lnpc.cn) 大连
 　[吉林警察学院](http://www.jljcxy.com)
 　[黑龙江公安警官职业学院](http://www.hlpolice.gov.cn)
 　[上海公安学院](http://www.shpc.edu.cn)
 　[江苏警官学院](http://www.jspi.cn)
 　[浙江警察学院](http://www.zjpc.edu.cn)
-　[安徽公安职业学院](http://www.ahgaxy.com.cn)
-　[安徽公安学院](http://gaxy.ahpc.edu.cn)
+　[安徽公安职业学院](https://www.ahpc.edu.cn)
+　[安徽公安学院](http://gaxy.ahpc.edu.cn) 2024新校
 　[福建警察学院](http://www.fjpsc.edu.cn)
 　[江西警察学院](http://www.jxga.edu.cn)
 　[山东警察学院](http://www.sdpc.edu.cn)
@@ -195,7 +195,7 @@
 　[广东警官学院](http://www.gdppla.edu.cn)
 　[广西警察学院](http://www.gxjcxy.com)
 　[重庆警察学院](http://www.cqpc.edu.cn)
-　[四川警察学院](http://www.scpolicec.edu.cn)泸州
+　[四川警察学院](http://www.scpolicec.edu.cn) 泸州
 　[贵州警察学院](http://www.gzpc.edu.cn)
 　[云南警官学院](http://www.ynpc.edu.cn)
 　西藏警官高等专科学校[](http://)
@@ -205,16 +205,15 @@
 　[宁夏警官职业学院](http://www.nsjy.com.cn)
 　[新疆警察学院](http://www.xjpcedu.cn)
 
-
 司法类警校17所：
 
-　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn)保定
-　[河北司法警官职业学院](http://www.jjgxy.com.cn)邯郸
+　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn) 保定
+　[河北司法警官职业学院](http://www.jjgxy.com.cn) 邯郸
 　[山西警官职业学院](http://www.sxpolice.org)<sub>司法</sub>
 　[吉林司法警官职业学院](http://www.jlsfjy.cn)
 　[黑龙江司法警官职业学院](http://www.hljsfjy.org.cn)
-　[江苏司法警官职业学院](http://www.jssfjy.cn)2024分院改建
-　[浙江警官职业学院](http://www.zjjy.edu.cn)<sub>司法</sub>
+　[江苏司法警官职业学院](http://www.jssfjy.cn) 2024分院改建
+　[浙江警官职业学院](http://www.zjjy.edu.cn)？<sub>司法</sub>
 　[安徽警官职业学院](http://www.ahjgxy.edu.cn)<sub>司法</sub>
 　[江西司法警官职业学院](http://www.jxsfjy.cn)
 　[山东司法警官职业学院](http://www.sdsfjy.com)
@@ -222,9 +221,9 @@
 　[武汉警官职业学院](http://www.whpa.cn)<sub>司法</sub>
 　[湖南司法警官职业学院](http://www.hnsfjy.cn)
 　[广东司法警官职业学院](http://www.gdjpvc.edu.cn)
-　[四川司法警官职业学院](http://www.sjpopc.net)德阳
+　[四川司法警官职业学院](http://www.sjpopc.net) 德阳
 　[云南司法警官职业学院](http://www.yncpu.net)
-　新疆司法警官职业学院[](http://)[2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)
+　新疆司法警官职业学院[](http://) [2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)
 
 
 参考文献
