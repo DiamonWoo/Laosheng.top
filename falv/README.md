@@ -8,7 +8,7 @@
 
 **/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在这里探讨检索法条的门径，制作高质量法律文本，列举政法类高校资源，和大家一起学法、用法。详细内容如下：
 
-+	./fahai　☸️ [法海寻踪术](fahai){:target="_top"}，发现免费的法律文本，在茫茫法海找到有用的法律法规；深入学习法律。
++	./fahai　☸️ [法海求索](fahai){:target="_top"}，在茫茫法海找到有用的法律法规；用文本检索，到庭审旁听，进高校深造。
 +	./duben　📚 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
 	+ [读本1](duben1){:target="_top"} 八部大法：　立法、监察、诉讼法、行政、刑法、民法典
 	+ [读本2](duben2){:target="_top"} 常用法：　治安、传染病、噪声防治……
@@ -31,7 +31,7 @@
 
 　　另有 [行政法规库](http://www.gov.cn/zhengce/xzfgk/) 和 [党纪法规库](https://www.ccdi.gov.cn/fgk/index)
 
-<p align="center" style="background-color:red; color:yellow; ">🇨🇳 12月4日是第11个国家宪法日</p>
+<p align="center" style="background-color:red; color:yellow; ">12月4日是第11个国家宪法日</p>
 
 
 中国法律体系概览 ♎
@@ -130,8 +130,21 @@
 -	[市场经济必然是法治经济](http://zjrb.zjol.com.cn/html/2006-05/12/content_95276.htm "时任省委书记习近平发文")——哲欣(习近平)，2006年5月12日《浙江日报》头版“之江新语”专栏。
 
 
-快问快答 💬
+专题导游
 --------
+
++	“法律面前人人平等”这句话有法律依据吗？
++	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}（待更新，有2023修正案）
+*	知识产权的相关法律和有关部门
+
+<h3>延申阅读</h3>
+
+　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
+
+*	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
+*	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
+
+<h3>快问快答 💬</h3>
 
 * 问：普通人要学多少法律知识？  
   答：认识法律体系，通读核心法律，掌握检索途径。  ~~了解现有法治环境，做出合理预期。~~
@@ -146,19 +159,6 @@
   答：尝试拨打电话12348，向当地公职律师免费咨询。网站报纸电话线，[有关部门在身边](../fuwu){:target="_top"}
 
 <!-- + [自己打官司要做什么准备？]() （准备中）-->
-
-
-专题导游 与 类似项目
---------------------
-
-+	“法律面前人人平等”这句话有法律依据吗？
-+	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}（待更新，有2023修正案）
-*	知识产权的相关法律和有关部门
-
-　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
-
-*	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
-*	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
 
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/c/author)🙇 Comments Welcome
@@ -178,4 +178,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🗄️📃📑☸️♎⚖️🌅☀️📕📘📗📙📖🖨️📚⛱️
+🇨🇳 🗄️📃📑☸️♎⚖️🌅☀️📕📘📗📙📖🖨️📚⛱️
