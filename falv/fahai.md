@@ -63,6 +63,16 @@
 -	中央纪委国家监委　[党纪法规库](http://www.ccdi.gov.cn/fgk/index ) 栏目，不确定是否完整，除提供国家法律法规外，还提供党内法规。
 -	中央组织部 12371共产党员网 [宪法法律](http://www.12371.cn/special/falv ) 栏目，不确定是否完整，另有[党章党规]栏目。
 
+
+3、庭审观摩 👨‍⚖️
+-----------
+
+　　纸上得来终觉浅，不妨开庭去旁听。法院大部分案件是公开审理，允许大家进入法庭旁听，依据是《人民法院法庭规则》第九条：公开的庭审活动，公民都可以旁听。一般来说，您只需要携带身份证，接受安全检查，提前15分钟进入法庭，现场不能录音录像，手机需要静音。少数情况有更严格的要求。
+
+　　如果你不方便到现场，也可以在[中国庭审公开网](https://tingshen.court.gov.cn/)上观看庭审直播。
+
+　　如果你想了解近期有哪些案件进行庭审，请查询[当地法院](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml)的现场公告、网络公告，或者到最高法的[中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww//ktgg)搜索等待开庭的案件。不过后者有很多省市搜不到信息，比如北京、河北、福建等。
+
 ### 裁判文书与真实案例
 
 　　遇事找法用法，除了找法律条文外，还有另外一条路：找到和自己遇到事情类似的案件判决。最高法在2013年开通的[**中国裁判文书网**](https://wenshu.court.gov.cn/)给老百姓查判例带来极大方便，三年后即成长为全球最大裁判文书网，目前文书总量已超过一亿篇。文书网本身是免费的（要求注册），而把裁判文书和法律法规结合起来的网站，一般是部分内容收费的。其中多是民间网站，收录部分如下：
@@ -74,20 +84,12 @@
 	- 上海开放法律联盟 [OpenLaw裁判文书检索](https://openlaw.cn/)，2014年成立，只有文书，不提供法规。
 
 
-3、庭审观摩 👨‍⚖️
------------
-
-　　法院大部分案件是公开审理，允许大家进入法庭旁听，依据是《人民法院法庭规则》第九条：公开的庭审活动，公民都可以旁听。一般来说，您只需要携带身份证，接受安全检查，提前15分钟进入法庭，现场不能录音录像，手机需要静音。少数情况有更严格的要求。
-
-　　如果你不方便到现场，也可以在[中国庭审公开网](https://tingshen.court.gov.cn/)上观看庭审直播。
-
-　　如果你想了解近期有哪些案件进行庭审，请查询[当地法院](https://www.chinacourt.org/courtlist/list/id/MwQA.shtml)的现场公告、网络公告，或者到最高法的[中国审判流程信息公开网](https://splcgk.court.gov.cn/gzfwww//ktgg)搜索等待开庭的案件。不过后者有很多省市搜不到信息，比如北京、河北、福建等。
-
-
 4、国家法考 ⚖
 -----------
 
 　　从2018年开始，国家司法考试改称为‘国家统一法律职业资格考试’，由司法部[国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)组织实施。如果你想当律师，或者考上公务员，要担任法官、检察官、公证员、法律顾问、仲裁员（法律类）及政府部门中从事行政处罚决定审核、行政复议、行政裁决的人员必须通过法律职业资格考试。
+
+　　中华全国律师协会：[中国律师网](https://www.acla.org.cn)
 
 
 5、法学院与警校 👨‍🎓
@@ -160,63 +162,75 @@
 
 　　*此段为不完全收录，更多公检法类专门院校请见[高校所](../fuwu/yuanxiao)*
 
-<h3>🛂 全国53所公安/司法🛃警校</h3>
+<h3>🛂 全国公安/司法警校</h3>
 
 　　从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’等多个二级学科类。其中公安类专业在高考录取时通常享有提前录取权。
 
-　❕[中国人民公安大学](http://www.cppsu.edu.cn)
-　❕[中国人民警察大学](http://www.cppu.edu.cn)廊坊
-　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn)保定
-　❕[中国刑事警察学院](http://www.cipuc.edu.cn)沈阳
-　❕[南京警察学院](http://www.forestpolice.net)
-　❕[郑州警察学院](http://www.rpc.edu.cn)  
+公安类警校36所：
+
+　<sup>公安部</sup>❕[中国人民公安大学](http://www.cppsu.edu.cn)
+　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn)廊坊
+　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn)沈阳
+　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)
+　<sup>公安部</sup>❕[郑州警察学院](http://www.rpc.edu.cn)
 　[北京警察学院](http://www.bjpc.edu.cn)
 　[天津公安警官职业学院](http://www.tjjingyuan.cn)
 　[河北公安警察职业学院](http://www.hebsjy.com)
-　[河北司法警官职业学院](http://www.jjgxy.com.cn)邯郸
 　[山西警察学院](http://www.sxpc.edu.cn)
-　[山西警官职业学院](http://www.sxpolice.org)🛃
 　[内蒙古警察职业学院](http://www.imppc.cn)
 　[辽宁警察学院](http://www.lnpc.cn)大连
 　[吉林警察学院](http://www.jljcxy.com)
-　[吉林司法警官职业学院](http://www.jlsfjy.cn)
-　[黑龙江司法警官职业学院](http://www.hljsfjy.org.cn)
 　[黑龙江公安警官职业学院](http://www.hlpolice.gov.cn)
 　[上海公安学院](http://www.shpc.edu.cn)
 　[江苏警官学院](http://www.jspi.cn)
-　[江苏司法警官职业学院](http://www.jssfjy.cn)
 　[浙江警察学院](http://www.zjpc.edu.cn)
-　[浙江警官职业学院](http://www.zjjy.edu.cn)🛃
-　[安徽公安学院](http://gaxy.ahpc.edu.cn)
 　[安徽公安职业学院](http://www.ahgaxy.com.cn)
-　[安徽警官职业学院](http://www.ahjgxy.edu.cn)🛃
+　[安徽公安学院](http://gaxy.ahpc.edu.cn)
 　[福建警察学院](http://www.fjpsc.edu.cn)
 　[江西警察学院](http://www.jxga.edu.cn)
-　[江西司法警官职业学院](http://www.jxsfjy.cn)
 　[山东警察学院](http://www.sdpc.edu.cn)
-　[山东司法警官职业学院](http://www.sdsfjy.com)
 　[河南警察学院](http://www.hnp.edu.cn)
-　[河南司法警官职业学院](http://www.hnsfjy.edu.cn)
 　[湖北警官学院](http://www.hbpa.edu.cn)
-　[武汉警官职业学院](http://www.whpa.cn)🛃
 　[湖南警察学院](http://www.hnpolice.com)
-　[湖南司法警官职业学院](http://www.hnsfjy.cn)
 　[广东警官学院](http://www.gdppla.edu.cn)
-　[广东司法警官职业学院](http://www.gdjpvc.edu.cn)
 　[广西警察学院](http://www.gxjcxy.com)
 　[重庆警察学院](http://www.cqpc.edu.cn)
 　[四川警察学院](http://www.scpolicec.edu.cn)泸州
-　[四川司法警官职业学院](http://www.sjpopc.net)德阳
 　[贵州警察学院](http://www.gzpc.edu.cn)
 　[云南警官学院](http://www.ynpc.edu.cn)
-　[云南司法警官职业学院](http://www.yncpu.net)
-　西藏警官高等专科学校[]()
+　西藏警官高等专科学校[](http://)
 　[陕西警察学院](http://www.sxjgxy.edu.cn)
 　[甘肃警察学院](http://www.gsjcxy.edu.cn)
 　[青海警官职业学院](http://www.qhjyedu.com)
 　[宁夏警官职业学院](http://www.nsjy.com.cn)
 　[新疆警察学院](http://www.xjpcedu.cn)
-　新疆司法警官职业学院[]()
+
+
+司法类警校17所：
+
+　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn)保定
+　[河北司法警官职业学院](http://www.jjgxy.com.cn)邯郸
+　[山西警官职业学院](http://www.sxpolice.org)<sub>司法</sub>
+　[吉林司法警官职业学院](http://www.jlsfjy.cn)
+　[黑龙江司法警官职业学院](http://www.hljsfjy.org.cn)
+　[江苏司法警官职业学院](http://www.jssfjy.cn)2024分院改建
+　[浙江警官职业学院](http://www.zjjy.edu.cn)<sub>司法</sub>
+　[安徽警官职业学院](http://www.ahjgxy.edu.cn)<sub>司法</sub>
+　[江西司法警官职业学院](http://www.jxsfjy.cn)
+　[山东司法警官职业学院](http://www.sdsfjy.com)
+　[河南司法警官职业学院](http://www.hnsfjy.edu.cn)
+　[武汉警官职业学院](http://www.whpa.cn)<sub>司法</sub>
+　[湖南司法警官职业学院](http://www.hnsfjy.cn)
+　[广东司法警官职业学院](http://www.gdjpvc.edu.cn)
+　[四川司法警官职业学院](http://www.sjpopc.net)德阳
+　[云南司法警官职业学院](http://www.yncpu.net)
+　新疆司法警官职业学院[](http://)[2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)
+
+
+参考文献
+--------
+
+*	20231018 [高等教育数字局](https://baijiahao.baidu.com/s?id=1780099160978148202)在百家号的文章：全国51所公安和司法警官高校名单公布
 
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇 Comments Welcome
