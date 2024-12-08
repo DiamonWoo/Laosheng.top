@@ -6,16 +6,16 @@
 
 		办事依法、遇事找法、解决问题用法、化解矛盾靠法——20180824，中央全面依法治国委员会第一次会议
 
-　　当人们遇到事情想找法律的时候，很可能会面对浩繁的法律望海兴叹：到底哪一句法条对我有用？**法海求索**就是想帮助人们在茫茫法海快速找到有用的那部法律、那款条文。法律初学者首先发现免费的法律文本，找到可靠的法律文本检索入口，<del>通过[中国法律简目](index2.html)看到现行有效法律的全貌</del>，再进一步通过《大萌法律读本》学习重点法律的全文，最终掌握自行检索法律条文和法规文件的技能。
+　　当人们遇到事情想找法律的时候，很可能会面对浩繁的法律望海兴叹：到底哪一句法条对我有用？**法海求索**就是想帮助人们在茫茫法海快速找到有用的那部法律、那款条文。初学者首先发现免费的法律文本，找到可靠的法律文本检索入口，<del>通过[中国法律简目](index2.html)看到现行有效法律的全貌</del>，再进一步通过《大萌法律读本》学习重点法律的全文，最终掌握自行检索法律条文和法规文件的技能。
 
 　　如果这些还不够，你需要更深入学习法律。可以考虑通过‘法考’拿到法律职业资格证，或者报考法律专业院校深造。本页收录政法类、公安类、司法警察类高等院校网址。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/法海求索
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/法海
 </div>
 
 <h3 id="mulu">简目</h3>
-　
+
 　1 文本演变
 　2 [法律检索](#2){:target="_top"}
 　3 [庭审](#3){:target="_top"}
@@ -113,14 +113,17 @@
 5、政法类高等院校 👨‍🎓
 -----------------
 
-　　在【[法律](.)】系列的目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
+　　在【望海楼】目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
+从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’、‘社会学’、‘民族学’、‘马克思主义理论’等多个二级学科类。
+其中公安类专业在高考录取时通常享有提前录取权。更多院校请见[高校所](../fuwu/yuanxiao)
+
 <div id="5.1" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>❗中管高校法学院（25所/31）</h3>
 
 　1 北京大学[法学院](https://www.law.pku.edu.cn/)  
 　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)  
-　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)  
+　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)　[出版物](http://www.law.ruc.edu.cn/home/yj/?id=44501)《法学家》等  
 　4 北京师范大学[法学院](https://law.bnu.edu.cn/)  
 　5 复旦大学[法学院](https://law.fudan.edu.cn/)  
 　6 上海交通大学[法学院](https://law.sjtu.edu.cn/)  
@@ -131,9 +134,10 @@
 　11 北京航空航天大学<del>[法学院](https://fxy.buaa.edu.cn/ "禁止校外访问")</del>🛇  
 　12 [西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
 　13 [哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
-　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)  
-　15 南京大学[法学院](https://law.nju.edu.cn/)  
-　16 四川大学[法学院](https://law.scu.edu.cn/)  
+　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)　[学术成果](http://www.ghls.zju.edu.cn/ghlscn/13589/list.htm)、法律诊所  
+　15 南京大学[法学院](https://law.nju.edu.cn/)　[学术活动](https://law.nankai.edu.cn/xshd/list.htm)  
+　16 四川大学[法学院](https://law.scu.edu.cn/)　本科[教学大纲](https://law.scu.edu.cn/jyjx/bkjx/jxdg.htm)、
+	[学术刊物](https://law.scu.edu.cn/kxyj/xskw.htm)《民商法争鸣》  
 　17 南开大学[法学院](https://law.nankai.edu.cn/)  
 　18 天津大学[法学院](https://law.tju.edu.cn/)  
 　19 武汉大学[法学院](https://law.whu.edu.cn/)  
@@ -142,12 +146,12 @@
 　22 吉林大学[法学院](https://law.jlu.edu.cn/)  
 　23 华中科技大学[法学院](https://law.hust.edu.cn/)  
 　24 山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)  
-　25 东南大学[法学院](https://law.seu.edu.cn/)  
-　26 厦门大学[法学院](https://law.xmu.edu.cn/)  
+　25 东南大学[法学院](https://law.seu.edu.cn/)　[学院期刊](http://dnfx.cbpt.cnki.net)《东南法学》  
+　26 厦门大学[法学院](https://law.xmu.edu.cn/)　[至善法学大讲堂](https://law.xmu.edu.cn/xssw/zsfxdjt1.htm)  
 　27 同济大学[法学院](https://law.tongji.edu.cn/)  
 　28 中南大学[法学院](https://law.csu.edu.cn/)  
 　29 [大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无  
-　30 重庆大学[法学院](https://law.cqu.edu.cn/)  
+　30 重庆大学[法学院](https://law.cqu.edu.cn/)　[学术成果](https://law.cqu.edu.cn/xsjj1/xscg.htm)  
 　31 兰州大学[法学院](https://laws.lzu.edu.cn/)
 
 　　中管高校都是综合类大学，没有专业类大学，下面给出政法类的专业大学，参照‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名。
@@ -177,15 +181,21 @@
 　[河南财经政法大学](https://www.huel.edu.cn) 郑州市
 	[学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)
 	41-0853/(G)[校报](https://hnufe.ihwrm.com/)📰  
-　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市	（数字为刊号）
+　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市	（数字为刊号）  
+<small>
+　[北京政法职业学院](http://www.bcpl.cn) 
+　[河北政法职业学院](http://www.helc.edu.cn) 
+　[辽宁政法职业学院](http://https://www.lacpj.org.cn) ？+成教牌子
+　[海南政法职业学院](http://www.hnplc.com)
+</small>
 
-　　*此段仅收录本科，且为不完全收录，更多政法类专业院校请见[高校所](../fuwu/yuanxiao)*
+　　*此段收录校名中包含‘政法’二字的院校，全国14所，含2所教育部属、8所本科、4所专科。*
 
 <div id="5.3" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>🛂 全国公安/司法警校</h3>
 
-　　从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’等多个二级学科类。其中公安类专业在高考录取时通常享有提前录取权。
+　　公安类院校包含：5所公安部属、23所本科、8所专科。
 
 <b>公安类警校36所</b>：
 
@@ -195,17 +205,12 @@
 　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)  
 　<sup>公安部</sup>❕[郑州警察学院](http://www.rpc.edu.cn)  
 　[北京警察学院](http://www.bjpc.edu.cn)
-　[天津公安警官职业学院](http://www.tjjingyuan.cn)
-　[河北公安警察职业学院](http://www.hebsjy.com)
 　[山西警察学院](http://www.sxpc.edu.cn)
-　[内蒙古警察职业学院](http://www.imppc.cn)
 　[辽宁警察学院](http://www.lnpc.cn) 大连
 　[吉林警察学院](http://www.jljcxy.com)
-　[黑龙江公安警官职业学院](http://www.hlpolice.gov.cn)
 　[上海公安学院](http://www.shpc.edu.cn)
 　[江苏警官学院](http://www.jspi.cn)
 　[浙江警察学院](http://www.zjpc.edu.cn)
-　[安徽公安职业学院](https://www.ahpc.edu.cn)
 　[安徽公安学院](http://gaxy.ahpc.edu.cn) 2024新校
 　[福建警察学院](http://www.fjpsc.edu.cn)
 　[江西警察学院](http://www.jxga.edu.cn)
@@ -219,12 +224,19 @@
 　[四川警察学院](http://www.scpolicec.edu.cn) 泸州
 　[贵州警察学院](http://www.gzpc.edu.cn)
 　[云南警官学院](http://www.ynpc.edu.cn)
-　西藏警官高等专科学校[](http://)
-　[陕西警察学院](http://www.sxjgxy.edu.cn)
-　[甘肃警察学院](http://www.gsjcxy.edu.cn)
+　[陕西警察学院](http://www.sxjgxy.edu.cn) 2024升级
+　[甘肃警察学院](http://www.gsjcxy.edu.cn) 2024升级
+　[新疆警察学院](http://www.xjpcedu.cn)  
+<small>
+　[天津公安警官职业学院](http://www.tjjingyuan.cn)
+　[河北公安警察职业学院](http://www.hebsjy.com)
+　[内蒙古警察职业学院](http://www.imppc.cn)
+　[黑龙江公安警官职业学院](http://www.hlpolice.gov.cn)
+　[安徽公安职业学院](http://www.ahpc.edu.cn)
+　西藏警官高等专科学校[](http://) [招生就业](http://xzjx.xzeduc.cn/)
 　[青海警官职业学院](http://www.qhjyedu.com)
 　[宁夏警官职业学院](http://www.nsjy.com.cn)
-　[新疆警察学院](http://www.xjpcedu.cn)
+</small>
 
 <b>司法类警校17所</b>：
 
@@ -234,7 +246,7 @@
 　[山西警官职业学院](http://www.sxpolice.org)<sub>司法</sub>
 　[吉林司法警官职业学院](http://www.jlsfjy.cn)
 　[黑龙江司法警官职业学院](http://www.hljsfjy.org.cn)
-　[江苏司法警官职业学院](http://www.jssfjy.cn) 2024分院改建
+　[江苏司法警官职业学院](http://www.jssfjy.cn) 2024改建
 　[浙江警官职业学院](http://www.zjjy.edu.cn)？<sub>司法</sub>
 　[安徽警官职业学院](http://www.ahjgxy.edu.cn)<sub>司法</sub>
 　[江西司法警官职业学院](http://www.jxsfjy.cn)
@@ -245,9 +257,10 @@
 　[广东司法警官职业学院](http://www.gdjpvc.edu.cn)
 　[四川司法警官职业学院](http://www.sjpopc.net) 德阳
 　[云南司法警官职业学院](http://www.yncpu.net)
-　新疆司法警官职业学院[](http://) [2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)</small>
+　新疆司法警官职业学院[](http://) [2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)
+</small>
 
-　　除第一所为部属本科院校，其余均为专科院校，隶属各省司法厅。
+　　除第一所为部属本科院校，其余均为专科院校，由各省司法厅主管。
 
 <div id="6" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -264,7 +277,7 @@
 	老生常谈 © 2019~2024 大萌  知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/falv/fahai
-	法海求索	v0.6.8	202412
+	法海求索	v0.6.9	202412
 ```
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
