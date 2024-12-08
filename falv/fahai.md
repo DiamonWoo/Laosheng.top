@@ -15,16 +15,16 @@
 </div>
 
 <h3 id="mulu">简目</h3>
-
+　
 　1 文本演变
 　2 [法律检索](#2){:target="_top"}
 　3 [庭审](#3){:target="_top"}
 　4 [法考](#4){:target="_top"}
-　5 政法类高校：
+　5 政法类高校:
 	[法学院](#5.1){:target="_top"}
 /	[政法院校](#5.2){:target="_top"}
 /	[公安警校](#5.3){:target="_top"}
-　[参考文献](#6){:target="_top"}
+　参考[文献](#6){:target="_top"}
 
 
 1、法律文本的演变 💿
@@ -187,9 +187,9 @@
 
 　　从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’等多个二级学科类。其中公安类专业在高考录取时通常享有提前录取权。
 
-公安类警校36所：
+<b>公安类警校36所</b>：
 
-　<sup>公安部</sup>❕[中国人民公安大学](http://www.cppsu.edu.cn "网站夜间关闭")  
+　<sup>公安部</sup>❕[中国人民公安大学](http://www.ppsuc.edu.cn "网站夜间关闭")  
 　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn) 廊坊  
 　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn) 沈阳  
 　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)  
@@ -226,9 +226,10 @@
 　[宁夏警官职业学院](http://www.nsjy.com.cn)
 　[新疆警察学院](http://www.xjpcedu.cn)
 
-司法类警校17所：
+<b>司法类警校17所</b>：
 
 　<sup>司法部</sup>❕[中央司法警官学院](http://www.cicp.edu.cn) 保定  
+<small>
 　[河北司法警官职业学院](http://www.jjgxy.com.cn) 邯郸
 　[山西警官职业学院](http://www.sxpolice.org)<sub>司法</sub>
 　[吉林司法警官职业学院](http://www.jlsfjy.cn)
@@ -244,9 +245,11 @@
 　[广东司法警官职业学院](http://www.gdjpvc.edu.cn)
 　[四川司法警官职业学院](http://www.sjpopc.net) 德阳
 　[云南司法警官职业学院](http://www.yncpu.net)
-　新疆司法警官职业学院[](http://) [2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)
+　新疆司法警官职业学院[](http://) [2023新校](https://sft.xinjiang.gov.cn/xjsft/jgsz/information_class.shtml)</small>
 
-<div id="6" align="right"><a href="#mulu" target="_top">Top</a>↑</div>
+　　除第一所为部属本科院校，其余均为专科院校，隶属各省司法厅。
+
+<div id="6" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 参考文献
