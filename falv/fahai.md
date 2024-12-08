@@ -131,7 +131,7 @@
 　8 [中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
 　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无  
 　10 北京理工大学[法学院](https://law.bit.edu.cn/)  
-　11 北京航空航天大学<del>[法学院](https://fxy.buaa.edu.cn/ "禁止校外访问")</del>🛇  
+　11 北京航空航天大学[法学院](https://fxy.buaa.edu.cn/) 🛇 限制校外访问  
 　12 [西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
 　13 [哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
 　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)　[学术成果](http://www.ghls.zju.edu.cn/ghlscn/13589/list.htm)、法律诊所  
@@ -154,11 +154,12 @@
 　30 重庆大学[法学院](https://law.cqu.edu.cn/)　[学术成果](https://law.cqu.edu.cn/xsjj1/xscg.htm)  
 　31 兰州大学[法学院](https://laws.lzu.edu.cn/)
 
-　　中管高校都是综合类大学，没有专业类大学，下面给出政法类的专业大学，参照‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名。
-
 <div id="5.2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>⚖ 政法类专业院校（学报/校报）</h3>
+
+　　上方中管高校都是综合类大学，下面给出政法类的专业大学，参照‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名。
+此段收录校名中包含‘政法’二字的院校，全国14所，含2所教育部属、8所本科、4所专科。
 
 　<sup>教育部</sup>❕[中国政法大学](https://www.cupl.edu.cn/kxyj1.htm)✌️海淀区
 	11-0825/(G)[校报](https://newspaper.cupl.edu.cn/)📰  
@@ -185,11 +186,9 @@
 <small>
 　[北京政法职业学院](http://www.bcpl.cn) 
 　[河北政法职业学院](http://www.helc.edu.cn) 
-　[辽宁政法职业学院](http://https://www.lacpj.org.cn) ？+成教牌子
+　[辽宁政法职业学院](http://https://www.lacpj.org.cn)+成教
 　[海南政法职业学院](http://www.hnplc.com)
 </small>
-
-　　*此段收录校名中包含‘政法’二字的院校，全国14所，含2所教育部属、8所本科、4所专科。*
 
 <div id="5.3" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -233,7 +232,7 @@
 　[内蒙古警察职业学院](http://www.imppc.cn)
 　[黑龙江公安警官职业学院](http://www.hlpolice.gov.cn)
 　[安徽公安职业学院](http://www.ahpc.edu.cn)
-　西藏警官高等专科学校[](http://) [招生就业](http://xzjx.xzeduc.cn/)
+　西藏警官高等专科学校[]() [招生就业](http://xzjx.xzeduc.cn/)
 　[青海警官职业学院](http://www.qhjyedu.com)
 　[宁夏警官职业学院](http://www.nsjy.com.cn)
 </small>
