@@ -8,7 +8,7 @@
 
 　　当人们遇到事情想找法律的时候，很可能会面对浩繁的法律望海兴叹：到底哪一句法条对我有用？**法海求索**就是想帮助人们在茫茫法海快速找到有用的那部法律、那款条文。初学者首先发现免费的法律文本，找到可靠的法律文本检索入口，<del>通过[中国法律简目](index2.html)看到现行有效法律的全貌</del>，再进一步通过《大萌法律读本》学习重点法律的全文，最终掌握自行检索法律条文和法规文件的技能。
 
-　　如果这些还不够，你需要更深入学习法律。可以考虑通过‘法考’拿到法律职业资格证，或者报考法律专业院校深造。本页收录政法类、公安类、司法警察类高等院校网址。
+　　如果这些还不够，你需要更深入学习法律。可以考虑通过‘法考’拿到法律职业资格证，或者报考法律专业院校深造。本页收录政法类、公安类、司法警察类高等院校网址。更多院校信息请见[高校所](../fuwu/yuanxiao)。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/法海
@@ -17,7 +17,7 @@
 <h3 id="mulu">简目</h3>
 
 　1 文本演变
-　2 [法律检索](#2){:target="_top"}
+　2 [法条检索](#2){:target="_top"}
 　3 [庭审](#3){:target="_top"}
 　4 [法考](#4){:target="_top"}
 　5 政法类高校:
@@ -39,8 +39,8 @@
 <div id="2" align="right"><a href="#" target="_top">Top</a>↑</div>
 
 
-2、法律文本的来源与检索
----------------
+2、法条的来源与检索
+-------------------
 
 　　由于法律性文件是可以自由转载，不受版权类法律制约的，所以，在全国人大的法律库开通之前，就已经有不少政府和民间的法律数据库网站在运行。目前，免费提供**全面**法律法规的网站，大萌发现了三家，分别简称为：【国法库】、【高法库】、【北法库】。
 
@@ -83,7 +83,7 @@
 3、庭审观摩 👨‍⚖️
 -----------
 
-　　纸上得来终觉浅，不妨开庭去旁听。法院大部分案件是公开审理，允许大家进入法庭旁听，依据是《人民法院法庭规则》第九条：公开的庭审活动，公民都可以旁听。一般来说，您只需要携带身份证，接受安全检查，提前15分钟进入法庭，现场不能录音录像，手机需要静音。少数情况有更严格的要求。
+　　纸上得来终觉浅，不妨开庭去旁听。法院大部分案件是公开审理，允许大家进入法庭旁听，依据是《人民法院法庭规则》第九条：公开的庭审活动，公民都可以旁听。一般来说，您只需要携带身份证，接受安全检查，提前15分钟进入法庭。现场不能录音录像，手机需要静音，少数情况有更严格的要求。
 
 　　如果你不方便到现场，也可以在[中国庭审公开网](https://tingshen.court.gov.cn/)上观看庭审直播。
 
@@ -115,19 +115,19 @@
 
 　　在【望海楼】目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
 从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’、‘社会学’、‘民族学’、‘马克思主义理论’等多个二级学科类。
-其中公安类专业在高考录取时通常享有提前录取权。更多院校请见[高校所](../fuwu/yuanxiao)
+其中公安类专业在高考录取时通常享有提前录取权。
 
 <div id="5.1" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>❗中管高校法学院（25所/31）</h3>
 
-　1 北京大学[法学院](https://www.law.pku.edu.cn/)  
-　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)  
+　1 北京大学[法学院](https://www.law.pku.edu.cn/)？  
+　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)　双月刊《[清华法学](https://qhfx.cbpt.cnki.net/)》  
 　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)　[出版物](http://www.law.ruc.edu.cn/home/yj/?id=44501)《法学家》等  
-　4 北京师范大学[法学院](https://law.bnu.edu.cn/)  
-　5 复旦大学[法学院](https://law.fudan.edu.cn/)  
+　4 北京师范大学[法学院](https://law.bnu.edu.cn/)　[学术研究](https://law.bnu.edu.cn/xsyj/xsz/)  
+　5 复旦大学[法学院](https://law.fudan.edu.cn/)　[高级律师学院](https://sail.fudan.edu.cn/)  
 　6 上海交通大学[法学院](https://law.sjtu.edu.cn/)  
-　7 西安交通大学[法学院](http://fxy.xjtu.edu.cn/)  
+　7 西安交通大学[法学院](http://fxy.xjtu.edu.cn/)　[时评专论](http://fxy.xjtu.edu.cn/index/spzl.htm)　丝绸之路[国际法与比较法](https://sriicl.xjtu.edu.cn/)研究所  
 　8 [中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
 　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无  
 　10 北京理工大学[法学院](https://law.bit.edu.cn/)  
@@ -143,7 +143,7 @@
 　19 武汉大学[法学院](https://law.whu.edu.cn/)  
 　20 中山大学[法学院](https://law.sysu.edu.cn/)  
 　21 [西北农林科技大学](http://www.nwsuaf.edu.cn/xxsw/) 无  
-　22 吉林大学[法学院](https://law.jlu.edu.cn/)  
+　22 吉林大学[法学院](https://law.jlu.edu.cn/)　[科研动态](https://law.jlu.edu.cn/index/kydt.htm)《当代法学》  
 　23 华中科技大学[法学院](https://law.hust.edu.cn/)  
 　24 山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)  
 　25 东南大学[法学院](https://law.seu.edu.cn/)　[学院期刊](http://dnfx.cbpt.cnki.net)《东南法学》  
@@ -152,14 +152,15 @@
 　28 中南大学[法学院](https://law.csu.edu.cn/)  
 　29 [大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无  
 　30 重庆大学[法学院](https://law.cqu.edu.cn/)　[学术成果](https://law.cqu.edu.cn/xsjj1/xscg.htm)  
-　31 兰州大学[法学院](https://laws.lzu.edu.cn/)
+　31 兰州大学[法学院](https://laws.lzu.edu.cn/)　[机构知识库](https://ir.lzu.edu.cn/handle/262010/126822)
 
 <div id="5.2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>⚖ 政法类专业院校（学报/校报）</h3>
 
-　　上方中管高校都是综合类大学，下面给出政法类的专业大学，参照‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名。
-此段收录校名中包含‘政法’二字的院校，全国14所，含2所教育部属、8所本科、4所专科。
+　　上方中管高校都是综合类大学，下面给出政法类的专业大学，以校名中包含‘政法’二字为收录口径，
+参照‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名。
+全国14所，含10所本科、4所专科，本科中有2所教育部属。同时收录院校的学报或校报，数字为刊号。
 
 　<sup>教育部</sup>❕[中国政法大学](https://www.cupl.edu.cn/kxyj1.htm)✌️海淀区
 	11-0825/(G)[校报](https://newspaper.cupl.edu.cn/)📰  
@@ -182,7 +183,7 @@
 　[河南财经政法大学](https://www.huel.edu.cn) 郑州市
 	[学报](https://szfg.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=szfg)
 	41-0853/(G)[校报](https://hnufe.ihwrm.com/)📰  
-　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市	（数字为刊号）  
+　[新疆政法学院](https://kyc.xjzfu.edu.cn/xshd/list.htm) ✪图木舒克市  
 <small>
 　[北京政法职业学院](http://www.bcpl.cn) 
 　[河北政法职业学院](http://www.helc.edu.cn) 
@@ -194,11 +195,11 @@
 
 <h3>🛂 全国公安/司法警校</h3>
 
-　　公安类院校包含：5所公安部属、23所本科、8所专科。
+　　公安类院校包含：28所本科、8所专科，本科有5所为公安部属。
 
 <b>公安类警校36所</b>：
 
-　<sup>公安部</sup>❕[中国人民公安大学](http://www.ppsuc.edu.cn "网站夜间关闭")  
+　<sup>公安部</sup>❕[中国人民公安大学](http://www.ppsuc.edu.cn) 网站日间开放  
 　<sup>公安部</sup>❕[中国人民警察大学](http://www.cppu.edu.cn) 廊坊  
 　<sup>公安部</sup>❕[中国刑事警察学院](http://www.cipuc.edu.cn) 沈阳  
 　<sup>公安部</sup>❕[南京警察学院](http://www.forestpolice.net)  
