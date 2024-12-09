@@ -119,42 +119,42 @@
 
 <div id="5.1" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
-<h3>中管高校法学院（25所/31）</h3>
+<h3>❗中管高校法学院（25所/31）</h3>
 
 　　中管高校多为教育部属大学，标注者除外。
 
-　1 ❗北京大学[法学院](https://www.law.pku.edu.cn/)？  
-　2 ❗清华大学[法学院](https://www.law.tsinghua.edu.cn/)　双月刊《[清华法学](https://qhfx.cbpt.cnki.net/)》  
-　3 ❗中国人民大学[法学院](http://www.law.ruc.edu.cn/)　[出版物](http://www.law.ruc.edu.cn/home/yj/?id=44501)《法学家》等  
-　4 ❗北京师范大学[法学院](https://law.bnu.edu.cn/)　[学术研究](https://law.bnu.edu.cn/xsyj/xsz/)  
-　5 ❗复旦大学[法学院](https://law.fudan.edu.cn/)　[高级律师学院](https://sail.fudan.edu.cn/)  
-　6 ❗上海交通大学[法学院](https://law.sjtu.edu.cn/)  
-　7 ❗西安交通大学[法学院](http://fxy.xjtu.edu.cn/)　[时评专论](http://fxy.xjtu.edu.cn/index/spzl.htm)　丝绸之路[国际法与比较法](https://sriicl.xjtu.edu.cn/)研究所  
-　8 <sup>中科院</sup>❗[中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
-　9 ❗[中国农业大学](http://www.cau.edu.cn/xybm/) 无  
-　10 <sup>工信部</sup>❗北京理工大学[法学院](https://law.bit.edu.cn/)  
-　11 <sup>工信部</sup>❗北京航空航天大学[法学院](https://fxy.buaa.edu.cn/) 🛇 限制校外访问  
-　12 <sup>工信部</sup>❗[西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
-　13 <sup>工信部</sup>❗[哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
-　14 ❗浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)　[学术成果](http://www.ghls.zju.edu.cn/ghlscn/13589/list.htm)、法律诊所  
-　15 ❗南京大学[法学院](https://law.nju.edu.cn/)　[学术活动](https://law.nankai.edu.cn/xshd/list.htm)  
-　16 ❗四川大学[法学院](https://law.scu.edu.cn/)　本科[教学大纲](https://law.scu.edu.cn/jyjx/bkjx/jxdg.htm)、
+　1 北京大学[法学院](https://www.law.pku.edu.cn/)？  
+　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)　双月刊《[清华法学](https://qhfx.cbpt.cnki.net/)》  
+　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)　[出版物](http://www.law.ruc.edu.cn/home/yj/?id=44501)《法学家》等  
+　4 北京师范大学[法学院](https://law.bnu.edu.cn/)　[学术研究](https://law.bnu.edu.cn/xsyj/xsz/)  
+　5 复旦大学[法学院](https://law.fudan.edu.cn/)　[高级律师学院](https://sail.fudan.edu.cn/)  
+　6 上海交通大学[法学院](https://law.sjtu.edu.cn/)  
+　7 西安交通大学[法学院](http://fxy.xjtu.edu.cn/)　[时评专论](http://fxy.xjtu.edu.cn/index/spzl.htm)　丝绸之路[国际法与比较法](https://sriicl.xjtu.edu.cn/)研究所  
+　8 <sup>中科院</sup>[中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
+　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无  
+　10 <sup>工信部</sup>北京理工大学[法学院](https://law.bit.edu.cn/)  
+　11 <sup>工信部</sup>北京航空航天大学[法学院](https://fxy.buaa.edu.cn/) 🛇 限制校外访问  
+　12 <sup>工信部</sup>[西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
+　13 <sup>工信部</sup>[哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
+　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)　[学术成果](http://www.ghls.zju.edu.cn/ghlscn/13589/list.htm)、法律诊所  
+　15 南京大学[法学院](https://law.nju.edu.cn/)　[学术活动](https://law.nankai.edu.cn/xshd/list.htm)  
+　16 四川大学[法学院](https://law.scu.edu.cn/)　本科[教学大纲](https://law.scu.edu.cn/jyjx/bkjx/jxdg.htm)、
 	[学术刊物](https://law.scu.edu.cn/kxyj/xskw.htm)《民商法争鸣》  
-　17 ❗南开大学[法学院](https://law.nankai.edu.cn/)  
-　18 ❗天津大学[法学院](https://law.tju.edu.cn/)  
-　19 ❗武汉大学[法学院](https://law.whu.edu.cn/)  
-　20 ❗中山大学[法学院](https://law.sysu.edu.cn/)  
-　21 ❗[西北农林科技大学](http://www.nwsuaf.edu.cn/xxsw/) 无  
-　22 ❗吉林大学[法学院](https://law.jlu.edu.cn/)　[科研动态](https://law.jlu.edu.cn/index/kydt.htm)《当代法学》  
-　23 ❗华中科技大学[法学院](https://law.hust.edu.cn/)  
-　24 ❗山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)  
-　25 ❗东南大学[法学院](https://law.seu.edu.cn/)　[学院期刊](http://dnfx.cbpt.cnki.net)《东南法学》  
-　26 ❗厦门大学[法学院](https://law.xmu.edu.cn/)　[至善法学大讲堂](https://law.xmu.edu.cn/xssw/zsfxdjt1.htm)  
-　27 ❗同济大学[法学院](https://law.tongji.edu.cn/)  
-　28 ❗中南大学[法学院](https://law.csu.edu.cn/)  
-　29 ❗[大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无  
-　30 ❗重庆大学[法学院](https://law.cqu.edu.cn/)　[学术成果](https://law.cqu.edu.cn/xsjj1/xscg.htm)  
-　31 ❗兰州大学[法学院](https://laws.lzu.edu.cn/)　[机构知识库](https://ir.lzu.edu.cn/handle/262010/126822)
+　17 南开大学[法学院](https://law.nankai.edu.cn/)  
+　18 天津大学[法学院](https://law.tju.edu.cn/)  
+　19 武汉大学[法学院](https://law.whu.edu.cn/)  
+　20 中山大学[法学院](https://law.sysu.edu.cn/)  
+　21 [西北农林科技大学](http://www.nwsuaf.edu.cn/xxsw/) 无  
+　22 吉林大学[法学院](https://law.jlu.edu.cn/)　[科研动态](https://law.jlu.edu.cn/index/kydt.htm)《当代法学》  
+　23 华中科技大学[法学院](https://law.hust.edu.cn/)  
+　24 山东大学 青岛校区[法学院](https://www.law.sdu.edu.cn/)  
+　25 东南大学[法学院](https://law.seu.edu.cn/)　[学院期刊](http://dnfx.cbpt.cnki.net)《东南法学》  
+　26 厦门大学[法学院](https://law.xmu.edu.cn/)　[至善法学大讲堂](https://law.xmu.edu.cn/xssw/zsfxdjt1.htm)  
+　27 同济大学[法学院](https://law.tongji.edu.cn/)  
+　28 中南大学[法学院](https://law.csu.edu.cn/)  
+　29 [大连理工大学](http://www.dlut.edu.cn/xbyx/dllszxq.htm) 无  
+　30 重庆大学[法学院](https://law.cqu.edu.cn/)　[学术成果](https://law.cqu.edu.cn/xsjj1/xscg.htm)  
+　31 兰州大学[法学院](https://laws.lzu.edu.cn/)　[机构知识库](https://ir.lzu.edu.cn/handle/262010/126822)
 
 <div id="5.2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
