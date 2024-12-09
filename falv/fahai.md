@@ -121,21 +121,23 @@
 
 <h3>❗中管高校法学院（25所/31）</h3>
 
-　　中管高校多为教育部属大学，标注者除外。
+　　31所中管高校多为教育部属大学，标注者除外。有6所不设法学院，标注‘无’。
 
-　1 北京大学[法学院](https://www.law.pku.edu.cn/)？  
+　1 北京大学[法学院](https://www.law.pku.edu.cn/)　《[中外法学](http://journal.pkulaw.cn/)》期刊、
+	[北大法律信息网](https://www.chinalawinfo.com/)、
+	[北大法宝](https://www.pkulaw.com/)  
 　2 清华大学[法学院](https://www.law.tsinghua.edu.cn/)　双月刊《[清华法学](https://qhfx.cbpt.cnki.net/)》  
 　3 中国人民大学[法学院](http://www.law.ruc.edu.cn/)　[出版物](http://www.law.ruc.edu.cn/home/yj/?id=44501)《法学家》等  
 　4 北京师范大学[法学院](https://law.bnu.edu.cn/)　[学术研究](https://law.bnu.edu.cn/xsyj/xsz/)  
 　5 复旦大学[法学院](https://law.fudan.edu.cn/)　[高级律师学院](https://sail.fudan.edu.cn/)  
 　6 上海交通大学[法学院](https://law.sjtu.edu.cn/)  
 　7 西安交通大学[法学院](http://fxy.xjtu.edu.cn/)　[时评专论](http://fxy.xjtu.edu.cn/index/spzl.htm)　丝绸之路[国际法与比较法](https://sriicl.xjtu.edu.cn/)研究所  
-　8 <sup>中科院</sup>[中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
+　8 <sup>中科院</sup>❗[中国科学技术大学](http://www.ustc.edu.cn/yxjs.htm) 无  
 　9 [中国农业大学](http://www.cau.edu.cn/xybm/) 无  
-　10 <sup>工信部</sup>北京理工大学[法学院](https://law.bit.edu.cn/)  
-　11 <sup>工信部</sup>北京航空航天大学[法学院](https://fxy.buaa.edu.cn/) 🛇 限制校外访问  
-　12 <sup>工信部</sup>[西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
-　13 <sup>工信部</sup>[哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
+　10 <sup>工信部</sup>❗北京理工大学[法学院](https://law.bit.edu.cn/)  
+　11 <sup>工信部</sup>❗北京航空航天大学[法学院](https://fxy.buaa.edu.cn/) 🛇 限制校外访问  
+　12 <sup>工信部</sup>❗[西北工业大学](http://www.nwpu.edu.cn/xysz.htm) 无  
+　13 <sup>工信部</sup>❗[哈尔滨工业大学](http://www.hit.edu.cn/11589/list.htm) 无  
 　14 浙江大学[光华法学院](http://www.ghls.zju.edu.cn/ghlscn/)　[学术成果](http://www.ghls.zju.edu.cn/ghlscn/13589/list.htm)、法律诊所  
 　15 南京大学[法学院](https://law.nju.edu.cn/)　[学术活动](https://law.nankai.edu.cn/xshd/list.htm)  
 　16 四川大学[法学院](https://law.scu.edu.cn/)　本科[教学大纲](https://law.scu.edu.cn/jyjx/bkjx/jxdg.htm)、
