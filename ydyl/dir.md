@@ -146,31 +146,34 @@ YDYL 常用词汇：
 <!-- *云媒体常用外语词汇*　电视直播：Live TV  /　　数字报：E-Paper…… -->
 
 <h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
-　谷歌翻译
-#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
-<a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
+
+* 国际站点：
+　谷歌翻译#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
+	<a title="微软不舍得轻易拿出来的翻译入口" href="https://cn.bing.com/translator">微软翻译</a>、
+	塞浦路斯<a title="欧洲Lingva翻译，2024升级支持中文界面，Vivaldi浏览器合作伙伴" href="https://LingvaNex.com/zh-hans/translate/">Lingva</a>、
+	德国<a title="深度翻译，来自德国科隆" href="https://www.deepl.com/translator">DeepL</a>、
+	俄罗斯#<a title="俄罗斯网站，英文界面" href="https://translate.yandex.com">Yandex</a>、
+
+* Cambridge <a href="https://dictionary.cambridge.org/zhs/" title="中文界面">剑桥词典</a>、
+	Oxford 牛津<a href="https://www.oed.com" title="%需注册">OED</a>
+/	<a href="https://www.OxfordLearnersDictionaries.com/" title="">学习者词典</a>、
+	Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯林斯词典</a>、
+	朗文<a href="https://www.LDoceonline.com" title="没有中文词典">LongMan</a>……<a href="" title=""></a>
+
+* 国内站点：
+　网易<a title="网易出品，必属佳品" href="http://www.youdao.com">有道</a>词典
+/	<a title="网易出品，必属佳品" href="http://fanyi.youdao.com">翻译</a>、
+金山<a title="曾经和谷歌联手的金山词霸 %Fx" href="https://www.iciba.com">爱词霸</a>
+/	<a title="词霸翻译" href="https://www.iciba.com/fy">翻译</a>、
+欧陆<a title="提供本地软件 %Fx" href="https://dict.eudic.net">词典</a>
+/	<a title="欧陆翻译" href="https://dict.eudic.net/home/translation">翻译</a>、
 <a title="API开放" href="https://fanyi.sogou.com">搜狗翻译</a>、
-网易<a title="网易出品，必属佳品" href="http://fanyi.youdao.com">有道翻译</a>、
-<a title="提供本地软件 %Fx" href="https://dict.eudic.net">欧陆词典</a>、
-<a title="欧洲Lingva翻译，%中文词典考验网络" href="https://lingvaNex.com/demo/">Lingva</a>%中、
-<!-- Vivaldi浏览器合作伙伴 -->
-<small>
 %<a title="网址可确定语言种类 %Fx" href="https://fanyi.baidu.com">百度翻译</a>、
-%<a title="曾经和谷歌联手的金山词霸 %Fx" href="https://www.iciba.com/fy">爱词霸</a>、
-%<a title="俄罗斯网站，英文界面 %Fx" href="https://translate.yandex.com">Yandex</a>、
-%<a title="深度翻译，来自德国科隆 %Fx" href="https://www.deepl.com/translator">DeepL</a>、
-%<a title="不兼容Fx古典浏览器，提供浏览器插件" href="https://fanyi.caiyunapp.com/">彩云小译</a>
-</small>
-<br>　
-Cambridge <a href="https://dictionary.cambridge.org/zhs/" title="中文界面">剑桥词典</a>、
-Oxford 牛津<a href="https://www.oed.com" title="%需注册">OED</a>/<a href="https://www.OxfordLearnersDictionaries.com/" title="">学习者词典</a>、
-Collins <a href="https://www.collinsdictionary.com/zh/" title="中文界面">柯林斯词典</a>、
-朗文<a href="https://www.LDoceonline.com" title="没有中文词典">LongMan</a>
-……<a href="" title=""></a>
-<br>
+<a title="提供浏览器插件，不兼容Fx古典浏览器" href="https://fanyi.caiyunapp.com/">彩云小译</a>、
+
 　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
 
-　标记百分号% 是指该翻译网站不兼容古典浏览器，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用，不再标记%；而‘爱词霸’则相反，降低了兼容性。
+　标记百分号% 指网站有一些兼容性问题，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用；而‘爱词霸’则相反，降低了兼容性。
 
 <h4>能翻译网页的浏览器</h4>
 
@@ -224,7 +227,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.3.2	202411
+	一带一路民间站 v3.3.3	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
