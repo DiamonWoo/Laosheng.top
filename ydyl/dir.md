@@ -137,13 +137,12 @@
 一带一路工具网站 Web Help B&R
 -----------------------------
 
-YDYL 常用词汇：  
+常用词汇：  
 　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
 　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
 　　ASR = Air Silk Road = 空中丝绸之路  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）
-
-<!-- *云媒体常用外语词汇*　电视直播：Live TV  /　　数字报：E-Paper…… -->
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+　　电视直播：Live TV　/　数字报：E-Paper …
 
 <h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
 
@@ -171,8 +170,7 @@ YDYL 常用词汇：
 %<a title="网址可确定语言种类 %Fx" href="https://fanyi.baidu.com">百度翻译</a>、
 <a title="提供浏览器插件，不兼容Fx古典浏览器" href="https://fanyi.caiyunapp.com/">彩云小译</a>、
 
-　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
-
+　　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
 　标记百分号% 指网站有一些兼容性问题，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用；而‘爱词霸’则相反，降低了兼容性。
 
 <h4>能翻译网页的浏览器</h4>
@@ -186,19 +184,27 @@ YDYL 常用词汇：
 * 腾讯 QQ浏览器	曾经只能翻译三种语言：英、日、韩；语种应在增加（微信内置浏览器类似）。
 
 <h3 id="ditu">一带一路地图网站 🗺</h3>
-　　天地图
-<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
-<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>/
-d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-<a title="微软必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
-d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
+
+* 国内站点：
+　天地图<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
+	<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>
+/	d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
 <a href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
-<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
-#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
-#Waze、
-<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景_  
-　	代理地图：有一些民间网站代理了多个地图数据源，存之备用。
-[地球在线](https://www.earthol.com)、[智图在线](http://maps.bimw.cn/geoq/)、[谷地图](http://www.gditu.net/)  
+d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
+（[腾讯地图](https://map.qq.com/)不提供国外区划）
+
+* 国际站点：
+　微软<a title="必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
+	俄罗斯<a title="俄罗斯地图，en" href="https://yandex.com/maps/?ll=90.000000%2C25.000000&amp;z=3">Yandex</a>、
+	#<a title="最牛地图！网址定位经纬度" href="https://www.google.com/maps/@27,100,3z">Google地图</a>/星球/街景、
+	<a title="用户上传的街景照片" href="https://www.openstreetmap.org/">OpenStreetMap</a>开放街景、
+	#Waze
+
+* 代理站点：
+　有一些民间网站代理了多个地图数据源，存之备用。
+	[地球在线](https://www.earthol.com)、
+	[智图在线](http://maps.bimw.cn/geoq/)、
+	[谷地图](http://www.gditu.net/)
 
 　　微软提供的**必应世界地图**，国内仅存的允许手机浏览器访问的网页地图：
 
@@ -227,7 +233,7 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.3.3	202412
+	一带一路民间站 v3.3.4	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
