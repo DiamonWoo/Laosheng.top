@@ -185,13 +185,14 @@
 
 <h3 id="ditu">一带一路地图网站 🗺</h3>
 
-* 国内站点：
-　天地图<a title="国家地理信息公共服务平台 传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>/
-	<a title="在菜单中选择 丝绸之路" href="https://zhfw.tianditu.gov.cn/">专题版</a>
-/	d<a title="天地图欧洲区域，限桌面访问" href="https://map.tianditu.gov.cn/share/3ab5d295b5d04152b51e6c54d4e358c5/">欧洲</a>、
-<a href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
-d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
-（[腾讯地图](https://map.qq.com/)不提供国外区划）
+* 国内站点：　<sup>自然资源部</sup>
+	<a title="国家地理信息公共服务平台" href="https://map.tianditu.gov.cn/">天地图</a>
+/	<a title="2020传统版" href="https://map.tianditu.gov.cn/2020/">极速版</a>
+/	<a title="可选菜单中 丝绸之路 图层" href="https://zhfw.tianditu.gov.cn/">专题</a>、
+	[中科星图](https://online.geovisearth.com/)地球视角、
+	<a href="https://amap.com/place/B01370T819" title="阿里巴巴旗下">高德地图</a>、
+	d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com/@12340000,4001000,6z">百度地图</a>街景、
+	[360地图](https://map.360.cn/)、（[腾讯](https://map.qq.com/)不提供国外地图）
 
 * 国际站点：
 　微软<a title="必应的地图网站，全球中文地图" href="https://cn.bing.com/maps">必应地图</a>、
@@ -203,8 +204,8 @@ d<a title="%排斥手机，请用桌面模式浏览" href="https://map.baidu.com
 * 代理站点：
 　有一些民间网站代理了多个地图数据源，存之备用。
 	[地球在线](https://www.earthol.com)、
-	[智图在线](http://maps.bimw.cn/geoq/)、
-	[谷地图](http://www.gditu.net/)
+	[卫星在线](http://www.wxno.com/)、
+	[谷地图](http://www.gditu.net/)	<!-- [智图在线](http://maps.bimw.cn/geoq/) -->
 
 　　微软提供的**必应世界地图**，国内仅存的允许手机浏览器访问的网页地图：
 
