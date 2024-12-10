@@ -224,7 +224,10 @@
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
 *	[ipip](https://www.ipip.net/ip.html)；	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国；
 	[站长之家](https://ip.tool.chinaz.com/)的ip查询等工具；
-*	从境外看ip的网站：<https://iplocation.com>、<https://whatismyipaddress.com/>
+*	从境外看ip的网站：[ipLocation](https://ipLocation.com)、
+	[ip2Location](https://www.ip2Location.com)、
+	[WhatisMyipA](https://WhatisMyipAddress.com/)、
+	[check-host](https://check-host.net/ip-info)
 
 *	[ITDog](https://www.itdog.cn/http/) 蜀，[VSping](https://www.vsping.com/) 蜀，
 	[拔测](https://www.boce.com/hijack/) 闽，[帝恩思](https://www.dns.com/wangzhanjiance) 闽，ChinaZ.com ，
@@ -232,6 +235,7 @@
 	[17测](http://17ce.com/) 沪
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
+*	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
 
 
 10、名站导航
@@ -250,6 +254,9 @@
 
 落榜记
 ======
+
+*	<a title="手机端疑被挂马，南京西祠胡同论坛" href="https://www.xici.net/">%<del>西祠</de></a>
+
 
 2024/10/10	#第五段  
 *	小鸡词典🐥因迟迟没有官司的进展，服务也没有恢复，暂时下榜；  
