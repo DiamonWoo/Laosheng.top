@@ -18,16 +18,18 @@
 <h3>24小时滚动新闻</h3>
 
 *	新浪财经[7*24小时](https://finance.sina.com.cn/7x24/)全球
-*	[东方财富](https://kuaixun.eastmoney.com/)全球财经快讯
+*	[东方财富](https://kuaixun.eastmoney.com/)全球直播
+/	[手机版](https://wap.eastmoney.com/kuaixun/index.html)
 *	上海[财联社](https://www.cls.cn/telegraph)电报
-*	北京[金融界App](https://m.jrj.com.cn/flash) flash /[电脑版](https://24h.jrj.com.cn/newsFlash)
+*	广州[金十数据](https://www.jin10.com)
+	<sup>财经<a href='https://rili.jin10.com'>日历</a></sup>、
 *	香港[富威FXWe](https://www.fxwe.com/live)交易社区
 
 备选：  
 　	浙江[同花顺](https://news.10jqka.com.cn/realtimenews.html)
 <sup>投资<a href='https://stock.10jqka.com.cn/fincalendar.shtml'>日历</a></sup>、
-	广州[金十数据](https://www.jin10.com)
-<sup>财经<a href='https://rili.jin10.com'>日历</a></sup>、
+	北京[金融界App](https://m.jrj.com.cn/flash) flash
+/	[电脑版](https://24h.jrj.com.cn/newsFlash)、
 	<sub>上海</sub>证券之星[快讯](https://express.stockstar.com/)、
 	深圳[格隆汇](https://www.gelonghui.com/live/)、
 	安徽[云掌财经](https://www.123.com.cn/live/)、
@@ -225,7 +227,7 @@
 
 全国行业数字报 👷‍
 --------------
-收录全国性行业报纸，已在上方🀄和🏢收录的不再给链接。
+收录全国性行业报纸，已在上方🀄和🏢收录的不再给链接。（正在重构）
 
 []()📰 🗞️官网[]()
 
