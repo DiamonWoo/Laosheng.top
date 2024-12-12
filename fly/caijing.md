@@ -117,6 +117,8 @@
 	[**中国财经报**](http://114.118.9.73/epaper/)📰 [官网](http://www.cfen.com.cn)
 	（[中国政府采购报](http://114.118.9.73:81/zcb/epaper/)📰 、
 	[中国会计报](http://www.cfen.com.cn/dzb)🗞️）
+/	<sup>中国总会计师协会</sup>
+	[财会信报](http://www.ckxb.cn/shuzibao/)🖺 
 * [商务部](http://www.mofcom.gov.cn)：
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
