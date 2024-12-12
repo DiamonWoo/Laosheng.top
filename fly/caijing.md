@@ -117,8 +117,6 @@
 	[**中国财经报**](http://114.118.9.73/epaper/)📰 [官网](http://www.cfen.com.cn)
 	（[中国政府采购报](http://114.118.9.73:81/zcb/epaper/)📰 、
 	[中国会计报](http://www.cfen.com.cn/dzb)🗞️）
-/	<sup>中国总会计师协会</sup>
-	[财会信报](http://www.ckxb.cn/shuzibao/)🖺 
 * [商务部](http://www.mofcom.gov.cn)：
 	[国际商报](http://epa.comnews.cn/)📰 
 	[中国商务新闻网](https://www.comnews.cn/)
@@ -151,6 +149,8 @@
 --------------
 本段收录各省财经类数字报 和 电视直播网址，不是每一个省份都有。
 
+* 吉林：[今日财富报](https://szb.caifujilin.com)📰 [官网](http://caifujilin.com)
+* 内蒙古：<sup>中国总会计师协会</sup>[财会信报](http://www.ckxb.cn/shuzibao/)🖺
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
 * [河北经济日报](http://epaper.hbjjrb.com/)📰 [官网](http://www.hbjjrb.com)
 * [河南商报](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰 [官网](https://www.shangbw.com)
@@ -165,8 +165,7 @@
 	<sup>南京</sup>
 	[江苏商报](http://jssb.njdaily.cn/)📰 [南报网](http://njdaily.cn)、
 	大众证券报🗞️[官网](http://www.dzzq.com.cn)、
-	<sup>常州</sup>中国剪报<sub>有[微信](http://weixin.qq.com/q/02s05ixA8jd7H19vxGhD96)</sub>、
-	
+	<sup>苏州</sup>[城市商报](https://newspaper-pc.suzhou-news.cn/e_papers?paper_id=csz8d)📰 
 * 上海：
   *	上海文广[SMG](https://www.smg.cn/review/202405/0165527.html)——
 	[**第一财经**](https://www.yicai.com)
@@ -187,9 +186,10 @@
 	[温州商报](http://szb.66wz.com/newspaper?mediaKey=wzjb)📰 [温州新闻网](https://www.66wz.com/)、
 	[现代金报](http://epaper.cnnb.com.cn/xdjb/)📰 [中国宁波网](http://www.cnnb.com.cn)
 * 安徽：
-	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)
+	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)、
+	<sup>省工商联</sup>[**工商导报**](https://www.gsdbs.com/)📰 [安徽经济新闻网](http://www.ahenews.com.cn)
 * 江西：日报社 -
-	[江西商报](https://jxbw.jxnews.com.cn/szb/)📰* 大图 [官网](https://jxbw.jxnews.com.cn)、
+	[江西商报](https://jxbw.jxnews.com.cn/szb/)🖺 [官网](https://jxbw.jxnews.com.cn)、
 	[**经济晚报**](https://www.cnjjwb.com/index.php?s=szb)📰 [官网](https://www.cnjjwb.com)
 * 福建：日报集团[东南网](http://www.fjsen.com) -
 	[海丝商报](https://hssb.fjdaily.com/)📰 、
@@ -221,7 +221,8 @@
 	[云南经济日报](http://jjrbpaper.yunnan.cn/)📰 [官网](http://www.jjrbnet.com)
 * 陕西：[华商报](http://ehsb.hspress.net/)📰 [官网](https://www.hsw.cn)、
 	[城市经济导报](https://epaper.xiancn.com/csjjdb/)📰  [西安新闻网](https://www.xiancn.com)
-* [甘肃经济日报](https://szb.gansudaily.com.cn/gsjjrb/)📰 [每日甘肃网](https://www.gansudaily.com.cn)
+* [甘肃经济日报](https://szb.gansudaily.com.cn/gsjjrb/)📰 [每日甘肃网](https://www.gansudaily.com.cn)、
+	<sup>读者杂志</sup>华夏理财
 * [西藏商报](https://e.xzxw.com/xzsb/index.html)📰 [官网](https://www.xzxw.com)
 
 <div id="hangye" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -602,7 +603,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.4.8	202412
+	中文财经云媒体 v0.4.9	202412
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
