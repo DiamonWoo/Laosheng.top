@@ -89,10 +89,11 @@
 	[经济网](https://www.jingji.com.cn)<sub>有同名</sub>
   *	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)、
 	[农村金融时报](http://epaper.zhgnj.com/)📰 [农金网](http://www.zhgnj.com)
+  *	[中国县域经济报](https://www.xyshjj.cn/newsepaper/)📰 [官网](https://www.xyshjj.cn/)
+、	<del>[中国建材报](http://www.cbmd.cn/actrice/11573.html)</del>202401休刊
   *	[中国纺织报](http://paper.ctn1986.com/fzb/paperindex.htm)📰 [CTN1986](https://www.ctn1986.com)	
 、	<del>中国服饰报</del>
 、	中国花卉报🛇 [官网](https://www.china-flower.com)
-、	<del>[中国建材报](http://www.cbmd.cn/actrice/11573.html)</del>202401休刊
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
@@ -181,9 +182,9 @@
 	[蓝鲸财经](https://www.Lanjinger.com)网 /
 	[科创板日报](https://www.chinastarmarket.cn)网、
 	[新民晚报](http://paper.xinmin.cn/index/xmwb/)📰 
-* 浙江：
-	[科技金融时报](http://kjb.zjol.com.cn/)📰[浙江在线](http://www.zjol.com.cn)、
-	[温州商报](http://szb.66wz.com/newspaper?mediaKey=wzjb)📰 [温州新闻网](https://www.66wz.com/)、
+* 浙江：[浙江在线](http://www.zjol.com.cn)、
+	<sup>杭州</sup>[每日商报](https://hzdaily.hangzhou.com.cn/mrsb/)、
+	<sup>温州</sup>[科技金融时报](http://szb.66wz.com/newspaper?mediaKey=wzjb)📰 [官网](https://www.66wz.com/)、
 	[现代金报](http://epaper.cnnb.com.cn/xdjb/)📰 [中国宁波网](http://www.cnnb.com.cn)
 * 安徽：
 	[安徽经济报](https://szb.ahjjw.com.cn/)📰 [官网](https://www.ahjjw.com.cn)、
@@ -301,6 +302,9 @@
 　[**华夏酒报**](https://www.shm.com.cn/szb/hxjb/paper/pc/layout/index.html)📰 [中国酒业新闻网](http://www.cnWineNews.com)	
 　<sup>农业银行</sup>💳中国城乡金融报？	
 
+　<sup>卫健委</sup>[健康报](https://faxing.jkb.com.cn/)📰 [官网](https://www.jkb.com.cn/)
+、	<sup>药监局/南方医药经济所</sup>[**医药经济报**](http://news.yyjjb.com.cn/)📰 [官网](http://www.yyjjb.com.cn)
+/	[21世纪药店](https://21cnyd.menet.com.cn/)📰 [米内网](https://www.menet.com.cn/home/about)
 
 将以行业新闻网142家理事单位为基础，正在收录：
 
@@ -499,7 +503,7 @@
 --------
 
 *	📰 此前文字链接为数字报，🗞️收费的数字报
-*	㊣ [证券市场信息披露](http://www.csrc.gov.cn/csrc/c101950/c1047981/content.shtml)的法定媒体
+*	㊣ 资本/证券[市场信息披露](http://www.csrc.gov.cn/csrc/c101950/c1047981/content.shtml)的法定媒体
 ，© 杂志收费
 *	📺 此前链接为电视直播网址，%📺 登录才能看
 *	📻 此前链接为广播在线收听，📼 有视频点播
