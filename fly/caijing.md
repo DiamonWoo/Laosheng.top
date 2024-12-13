@@ -89,7 +89,7 @@
 	[经济网](https://www.jingji.com.cn)<sub>有同名</sub>
   *	㊣ [证券日报](http://epaper.zqrb.cn/)📰 [官网](http://www.zqrb.cn)、
 	[农村金融时报](http://epaper.zhgnj.com/)📰 [农金网](http://www.zhgnj.com)
-  *	[中国县域经济报](https://www.xyshjj.cn/newsepaper/)📰 [官网](https://www.xyshjj.cn/)
+  *	[中国县域经济报](http://h5.newaircloud.com/epaper?sid=zgxyjjb)📰 [官网](https://www.xyshjj.cn/)
 、	<del>[中国建材报](http://www.cbmd.cn/actrice/11573.html)</del>202401休刊
   *	[中国纺织报](http://paper.ctn1986.com/fzb/paperindex.htm)📰 [CTN1986](https://www.ctn1986.com)	
 、	<del>中国服饰报</del>
@@ -164,7 +164,7 @@
 * 江苏：[新华报业](https://www.xhby.net)-[江苏经济报](https://jsjjb.xhby.net/)📰 、
 	[新苏商](http://xinsushang.xhby.net/)📰 、
 	<sup>南京</sup>
-	[江苏商报](http://jssb.njdaily.cn/)📰 [南报网](http://njdaily.cn)、
+	%[江苏商报](http://jssb.njdaily.cn/)📰 [南报网](http://njdaily.cn)、
 	大众证券报🗞️[官网](http://www.dzzq.com.cn)、
 	<sup>苏州</sup>[城市商报](https://newspaper-pc.suzhou-news.cn/e_papers?paper_id=csz8d)📰 
 * 上海：
@@ -303,7 +303,7 @@
 　<sup>农业银行</sup>💳中国城乡金融报？	
 
 　<sup>卫健委</sup>[健康报](https://faxing.jkb.com.cn/)📰 [官网](https://www.jkb.com.cn/)
-、	<sup>药监局/南方医药经济所</sup>[**医药经济报**](http://news.yyjjb.com.cn/)📰 [官网](http://www.yyjjb.com.cn)
+、	<sup>药监局/南方所</sup>[**医药经济报**](http://news.yyjjb.com.cn/)📰 [官网](http://www.yyjjb.com.cn)
 /	[21世纪药店](https://21cnyd.menet.com.cn/)📰 [米内网](https://www.menet.com.cn/home/about)
 
 将以行业新闻网142家理事单位为基础，正在收录：
