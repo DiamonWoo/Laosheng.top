@@ -12,9 +12,9 @@
 	+ ./index　🌥 [中国新闻云媒体](.)，党和人民在一起。（默认页）  
 　　　　畅游神州只需浏览器！收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
 	  + ./[index2](index2)　<small>新闻云第二页：云媒体图例说明与统计、教育台与科技报、县区级报纸与电视。</small>
-	+ ./waixuan　🔥 [中央外宣云媒体](waixuan){:target="_top"}，文明古国在崛起。　ChinaDaily、中国外文局、各省国际传播中心 ICC、解放军官方微博……
-	+ ./dianying　💐大众电影百花奖，[老生常谈电影节](dianying)📽，每个月都有的电影节。　戛纳、奥斯卡、天坛奖…… （正在收录）
 	+ ./caijing　💹 [中文财经云媒体](caijing)，全国行业数字报。　（新上线）
+	+ ./dianying　💐大众电影百花奖，[老生常谈电影节](dianying)📽，每个月都有的电影节。　戛纳、奥斯卡、天坛奖…… （正在收录）
+	+ ./waixuan　🔥 [中央外宣云媒体](waixuan){:target="_top"}，文明古国在崛起。　ChinaDaily、中国外文局、各省国际传播中心 ICC、解放军官方微博……
 
 +	🌞 [一带一路云媒体](../ydyl/)，世界风云收眼底。　收录在【一带一路】系列  
 　　丝绸之路国家的主要媒体：报纸、电视、通讯社；收录习主席发表署名文章的海外报纸56家。
@@ -24,7 +24,7 @@
 <div align="right">
 ⏩老生常谈/全球免费<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>
 </div>
-<p align="center"><b>为游子找到乡音，为奋斗者找到乐土，为投资者找到信源。</b></p>
+<p align="center"><b>为游子找到乡音，为奋斗者找到乐土，为投资者找到信源</b></p>
 
 
 近期热点
@@ -118,7 +118,7 @@ Ideal Software Form of Cloud Media
 
 <h3>那些关闭的新闻App</h3>
 
-*	2025年1月1日起，[上海报业集团]()将关停5款客户端：<del>文汇App、新民App、周到App、东方新闻App、翱翔新闻App</del>，共用全新的上观新闻客户端。
+*	2025年1月1日起，[上海报业集团](http://www.zgjx.cn/2024-11/12/c_1310787243.htm)将关停5款客户端：<del>文汇App、新民App、周到App、东方新闻App、翱翔新闻App</del>，共用：上观新闻App。
 *	浙报集团关闭：<del>浙江新闻App、天目新闻App、小时新闻App</del>，整合为：潮新闻App
 *	山东省的大众报业集团关闭：<del>海报新闻App、齐鲁壹点App</del>，融合为：大众App
 *	江西省的南昌市融媒体中心关闭：<del>爱南昌App、掌上南昌App</del>，只保留：南昌头条App
@@ -136,6 +136,8 @@ Ideal Software Form of Cloud Media
 --------
 
 *	2024-11-11 爱济南客户端 [百家号文章](https://baijiahao.baidu.com/s?id=1815408233362806969)：破釜沉舟，上报集团官宣关停5款客户端
+*	2024-06-24 南方周末 [腾讯号文章](https://news.qq.com/rain/a/20240624A04JWQ00)：政务新媒体洗牌，5年后再现关停潮
+*	2019-06-05 中国政府网 转载 [人民网文章](https://www.gov.cn/xinwen/2019-06/05/content_5397615.htm)：关停政务新媒体，既是减负，也是回归
 
 
 
@@ -143,7 +145,7 @@ Ideal Software Form of Cloud Media
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/fly/dir
-	全球免费云媒体 v3.1.8	202411
+	全球免费云媒体 v3.1.9	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
