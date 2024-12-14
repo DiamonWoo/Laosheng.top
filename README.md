@@ -1,4 +1,4 @@
-老生常谈 🥂
+老生常谈 🥧
 ========
 <link rel="canonical" href="https://Laosheng.top" />
 
@@ -20,7 +20,7 @@
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
-  + /fly/caijing　💹 中文财经云媒体，全国行业数字报（新上线）
+  + /fly/caijing　💹 中文财经云媒体，[全国行业数字报](fly/caijing)（新上线）
   + /fly/waixuan　🔥 [中央外宣云媒体](fly/waixuan ){:target="_blank"}，地方外宣ICC：中国之声、ChinaDaily、《北京周报》、解放军微博阵列……新发布1.0版！
   + /fly/dianying　💐大众电影百花奖，老生常谈电影节📽️。每个月都有的电影节……（正在收录）
 
@@ -108,4 +108,4 @@
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	202412	v3.4.1	https://Laosheng.top
 
-🎁🎅🛍💎🎀🥳💐🍸🍹🍺🍻🥂🍷🥃☕🍵🥣🍇🍉🍰🧀
+🎁🎅🛍💎🎀🥳💐🍸🍹🍺🍻🥂🍷🥃☕🍵🥣🍝🍜 🍇🍉🍰🧀🥧
