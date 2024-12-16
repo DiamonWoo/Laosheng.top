@@ -97,7 +97,8 @@
 * 中国日报社：
 	㊣ [C财经](https://caijing.chinadaily.com.cn) / [Business](https://www.chinadaily.com.cn/business)
 * 中国新闻社：
-	[财经新闻](https://www.chinanews.com/cj/gd.shtml)、
+	[中国新闻](http://epaper.chinanews.com/)📰 [官网](https://www.chinanews.com.cn)、
+	[财经滚动](https://www.chinanews.com/cj/gd.shtml)、
 	[中新财经](https://www.chinanews.com/finance/)、
 	[中新经纬](https://www.jwview.com)网
 
