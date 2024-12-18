@@ -14,10 +14,12 @@
 	  + ./[index2](index2)　<small>新闻云第二页：云媒体图例说明与统计、教育台与科技报、县区级报纸与电视。</small>
 	+ ./caijing　💹 [中文财经云媒体](caijing)，全国行业数字报。　（新上线）
 	+ ./dianying　💐大众电影百花奖，[老生常谈电影节](dianying)📽，每个月都有的电影节。　戛纳、奥斯卡、天坛奖…… （正在收录）
+	+ ./[shaonian](shaonian)　少年学习报刊室，面向少年儿童的报纸、期刊列表。
 	+ ./waixuan　🔥 [中央外宣云媒体](waixuan){:target="_top"}，文明古国在崛起。　ChinaDaily、中国外文局、各省国际传播中心 ICC、解放军官方微博……
 
 +	🌞 [一带一路云媒体](../ydyl/)，世界风云收眼底。　收录在【一带一路】系列  
 　　丝绸之路国家的主要媒体：报纸、电视、通讯社；收录习主席发表署名文章的海外报纸56家。
++	☀️ [法治社会云媒体](../falv/)，收录在【大萌望海楼】系列　学法云媒体，各地法治报
 +	看不过来？请往‘排行榜’看简版的『[云媒速览](../index2.html)』
 +	[看新闻只需浏览器](../c/app-browser-diff.txt){:target="_top"}，私人消息才用App。
 
@@ -145,7 +147,7 @@ Ideal Software Form of Cloud Media
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/fly/dir
-	全球免费云媒体 v3.1.9	202412
+	全球免费云媒体 v3.2.0	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
