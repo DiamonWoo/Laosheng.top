@@ -34,11 +34,6 @@
 	安徽[云掌财经](https://www.123.com.cn/live/)、
 	湖北[鼓掌财经](https://724.guzhang.com) <sup>聚合</sup>…
 
-<h3 >官方查询链接</h3>
-
-*	国家新闻出版署 > [报纸报社查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/)
-*	国家广电总局 > [播出机构名录](https://www.nrta.gov.cn/col/col69/)
-
 <h3 id='mulu'>财经云 简目</h3>
 
 　24小时滚动新闻 /　🀄️[中央媒体](#zhongyang){:target="_top"}
@@ -603,6 +598,11 @@
 
 其他备选媒体：
 	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、（券商中国///数据宝/创业资本汇/新财富）
+
+<h3 >官方查询链接</h3>
+
+*	国家新闻出版署 > [报纸报社查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/)
+*	国家广电总局 > [播出机构名录](https://www.nrta.gov.cn/col/col69/)
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
