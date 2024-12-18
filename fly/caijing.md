@@ -25,8 +25,7 @@
 	<sup>财经<a href='https://rili.jin10.com'>日历</a></sup>、
 *	香港[富威FXWe](https://www.fxwe.com/live)交易社区
 
-备选：  
-　	浙江[同花顺](https://news.10jqka.com.cn/realtimenews.html)
+备选：　浙江[同花顺](https://news.10jqka.com.cn/realtimenews.html)
 <sup>投资<a href='https://stock.10jqka.com.cn/fincalendar.shtml'>日历</a></sup>、
 	北京[金融界App](https://m.jrj.com.cn/flash) flash
 /	[电脑版](https://24h.jrj.com.cn/newsFlash)、
@@ -35,7 +34,12 @@
 	安徽[云掌财经](https://www.123.com.cn/live/)、
 	湖北[鼓掌财经](https://724.guzhang.com) <sup>聚合</sup>…
 
-<h3 id='mulu'>财经云目录</h3>
+<h3 >官方查询链接</h3>
+
+*	国家新闻出版署 > [报纸报社查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/)
+*	国家广电总局 > [播出机构名录](https://www.nrta.gov.cn/col/col69/)
+
+<h3 id='mulu'>财经云 简目</h3>
 
 　24小时滚动新闻 /　🀄️[中央媒体](#zhongyang){:target="_top"}
 /　🏢[部委主管](#buwei){:target="_top"}
@@ -50,7 +54,6 @@
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
 *	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
 	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
-*	[期货日报](http://www.qhrb.com.cn/about) 郑州
 
 <div id="zhongyang" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -155,7 +158,8 @@
 * 内蒙古：<sup>中国总会计师协会</sup>[财会信报](http://www.ckxb.cn/shuzibao/)🖺
 * [北京商报](https://epaper.bbtnews.com.cn/epaper/)📰 [官网](https://www.bbtnews.com.cn)
 * [河北经济日报](http://epaper.hbjjrb.com/)📰 [官网](http://www.hbjjrb.com)
-* [河南商报](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰 [官网](https://www.shangbw.com)
+* [河南商报](https://newpaper.dahe.cn/hnsb/paperindex.htm)📰 [官网](https://www.shangbw.com)、
+	郑州市 [期货日报](http://paper.7h365.com/Members/MemberIndex)🗞️[官网](http://www.qhrb.com.cn/about)
 * [山西经济日报](http://epaper.sxrb.com/index_sxjjrb.shtml)📰、
 	山西广电[市场信息报](http://sz.scxxb.com.cn/)📰 [官网](http://scxxb.com.cn)
 * 山东：
@@ -608,7 +612,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.4.9	202412
+	中文财经云媒体 v0.5.0	202412
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
