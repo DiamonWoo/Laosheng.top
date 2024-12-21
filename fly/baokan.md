@@ -18,8 +18,8 @@
 　　[刊号](#kanhao){:target="_top"}，
 	📰[报纸](#baozhi){:target="_top"}、期刊：
 	🔭[少儿科学](#qikan){:target="_top"}
-	/ ✍[学习辅导](#fudao){:target="_top"}
-	/ 🖼[动漫画报](#huabao){:target="_top"}，
+	/ 🖼[动漫画报](#huabao){:target="_top"}
+	/ ✍[学习辅导](#fudao){:target="_top"}，
 	[参考文献](#cankao){:target="_top"}
 
 <div id="kanhao" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -38,9 +38,9 @@
 
 *	国家新闻出版署：[报纸查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/)、
 	[期刊查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/qkan/)
-*	共青团中央/中国少年儿童新闻出版总社：[报纸](https://www.ccppg.cn/books/bz/)、
+*	共青团中央 / 中国少年儿童新闻出版总社：[报纸](https://www.ccppg.cn/books/bz/)、
 	[期刊](https://www.ccppg.cn/books/qk/)、
-	[中少十一刊](http://data.xmst.org:1234/readonline/paper.aspx)在线阅读
+	[中少快乐阅读](http://data.xmst.org:1234/readonline/paper.aspx)
 
 <div id="baozhi" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -225,7 +225,7 @@
 
 <div id="huabao" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-<h3 id='huabao'>动漫画报类 🖼</h3>
+<h3 >动漫画报类 🖼</h3>
 
 |	主管主办　|	刊号	|期刊名称	|
 |----------------:|-------------|---------------|
@@ -439,7 +439,7 @@
 *	202101 腾讯视频：老电影《报童》经典[主题曲《卖报歌》](https://v.qq.com/x/page/b3217bqcw7p.html)
 *	201708 人民网：“为革命保护视力” 那些年你做的[眼保健操](http://jysh.people.cn/n1/2017/0822/c404390-29486667.html)
 *	201605 人民网：总局向全国少年儿童[推荐61种2016年优秀报刊](http://culture.people.com.cn/n1/2016/0531/c87423-28396990.html)？
-*	201106 中国政府网：新闻出版总署向少年儿童[推荐25种优秀少儿报刊](https://www.gov.cn/gzdt/2011-06/01/content_1874625.htm)☆
+*	201106 中国政府网：新闻出版总署向少年儿童[推荐25种优秀少儿报刊](https://www.gov.cn/gzdt/2011-06/01/content_1874625.htm) （已在表格中加粗显示）
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
