@@ -2,7 +2,7 @@
 ==============
 大萌	© 202412（正在收录）
 <base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/fly/shaonian" />
+<link rel="canonical" href="https://Laosheng.top/fly/baokan" />
 
 		啦啦啦! 啦啦啦! 我是卖报的小行家 —— 卖报歌（1933年安娥词）
 
@@ -17,9 +17,9 @@
 
 　　[刊号](#kanhao){:target="_top"}，
 	📰[报纸](#baozhi){:target="_top"}、期刊：
-	🔭[少儿科学](#qikan){:target="_top"}
-	/ 🖼[动漫画报](#huabao){:target="_top"}
-	/ ✍[学习辅导](#fudao){:target="_top"}，
+	[少儿科学](#qikan){:target="_top"}🔭
+	/ [动漫画报](#huabao){:target="_top"}🖼
+	/ [学习辅导](#fudao){:target="_top"}✍，
 	[参考文献](#cankao){:target="_top"}
 
 <div id="kanhao" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -42,13 +42,15 @@
 	[期刊](https://www.ccppg.cn/books/qk/)、
 	[中少快乐阅读](http://data.xmst.org:1234/readonline/paper.aspx)
 
+　　另外还有一个‘邮发代号’不需要记忆。这是中国邮政为全国发行报刊配的编码，比如云南的《漫画派对》期刊，邮发代号是：64-1。由于基层邮局已经普及电脑网络，只要记住准确的报刊名称，刊号与邮发代号都能从邮局的电脑上查到。
+
 <div id="baozhi" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 少年儿童报纸 📰
 ------------
 
-　　80种，大致按地区排序。
+　　79种，大致按地区排序。
 
 |	主管主办	|	刊号  | 	报纸名称|
 |----------------------:|-------------|-----------------|
@@ -57,7 +59,6 @@
 |	共青团中央	|11-0231	|中国儿童画报
 |	共青团中央	|11-0155	|中国中学生报
 |	共青团中央	|11-0072	|中国少年英语报
-|	中国日报社	|11-0019	|21世纪英文报（英文）
 |	中国日报社	|11-0117	|二十一世纪学生英文报
 |	人民文学+湖北日报|	11-0052|	帅作文
 |	共青团北京市委	|11-0181	|中学时事报
@@ -450,7 +451,7 @@
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/baokan
-	少年学习报刊亭 v0.3.1	202412
+	少年学习报刊亭 v0.3.2	202412
 ```
 
 
