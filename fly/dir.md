@@ -12,10 +12,11 @@
 	+ ./index　🌥 [中国新闻云媒体](.)，党和人民在一起。（默认页）  
 　　　　畅游神州只需浏览器！收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
 	  + ./[index2](index2)　<small>新闻云第二页：云媒体图例说明与统计、教育台与科技报、县区级报纸与电视。</small>
-	+ ./baokan　少年学习[报刊亭](baokan) 🌝，面向少年儿童的报纸、期刊列表。(目标：2025)
-	+ ./caijing　💹 [中文财经云媒体](caijing)，全国行业数字报。　（新上线）
-	+ ./dianying　💐大众电影百花奖，[老生常谈电影节](dianying)📽，每个月都有的电影节。　戛纳、奥斯卡、天坛奖…… （正在收录）
-	+ ./waixuan　🔥 [中央外宣云媒体](waixuan){:target="_top"}，文明古国在崛起。　ChinaDaily、中国外文局、各省国际传播中心 ICC、解放军官方微博……
+	+ ./baokan　少年学习[报刊亭](baokan){:target="_top"} 🌝，面向少年儿童的报纸、期刊列表。(目标：2025)
+	+ ./caijing　💹 [中文财经云媒体](caijing){:target="_top"}，全国行业数字报。　（正在收录）
+	+ ./dianying　💐大众电影百花奖，[老生常谈电影节](dianying)📽，每个月都有的电影节。　戛纳、奥斯卡、天坛奖…… （创作中）
+	+ ./[jiankang](jiankang){:target="_top"}　健康之路云媒体，体育运动、医疗保健、长寿生活……
+	+ ./waixuan　🔥 [中央外宣云媒体](waixuan)，文明古国在崛起。　ChinaDaily、中国外文局、各省国际传播中心 ICC、解放军官方微博……
 
 +	☀️ 法治社会云媒体，收录在【大萌[望海楼](../falv/)】系列　学法云媒体，各地法治报
 +	🌞 [一带一路云媒体](../ydyl/)，世界风云收眼底。　收录在【一带一路】系列  
@@ -29,8 +30,13 @@
 <p align="center"><b>为游子找到乡音，为奋斗者找到乐土，为投资者找到信源</b></p>
 
 
-近期热点
+官方网址
 --------
+
+*	[中国搜索](https://paper.chinaso.com)：中央大报、各省日报头版
+*	央视频：[新闻频道](https://www.yangshipin.cn/tv/home?pid=600001811)、各省卫视直播
+
+<h3>近期热点</h3>
 
 　　[2024年中非合作论坛](http://www.focac.org) CCTV《[峰会特别报道](https://tv.cctv.com/2024/09/01/VIDARoslGNed9ZHJLVxKSS0D240901.shtml)》、
 [纪录片《万里为邻》](https://tv.cctv.com/2024/09/03/VIDAESFOhEUoA7DgcwKoaYsj240903.shtml)呈现中非同行现代化之路
@@ -147,7 +153,7 @@ Ideal Software Form of Cloud Media
 	老生常谈© 2019~2024	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/fly/dir
-	全球免费云媒体 v3.2.0	202412
+	全球免费云媒体 v3.2.1	202412
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
