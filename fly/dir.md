@@ -12,10 +12,10 @@
 	+ ./index　🌥 [中国新闻云媒体](.)，党和人民在一起。（默认页）  
 　　　　畅游神州只需浏览器！收录中央、省级、全国333个地级城市的报纸📰和电视直播网址📺
 	  + ./[index2](index2)　<small>新闻云第二页：云媒体图例说明与统计、教育台与科技报、县区级报纸与电视。</small>
-	+ ./baokan　少年学习[报刊亭](baokan){:target="_top"} 🌝，面向少年儿童的报纸、期刊列表。(目标：2025)
-	+ ./caijing　💹 [中文财经云媒体](caijing){:target="_top"}，全国行业数字报。　（正在收录）
+	+ ./baokan　少年学习[报刊亭](baokan){:target="_top"} 🌝，面向少年儿童的报纸、期刊列表，欢迎邮局订阅。
+	+ ./caijing　💹 [中文财经云媒体](caijing){:target="_top"}，全国行业数字报。　（仍在收录）
 	+ ./dianying　💐大众电影百花奖，[老生常谈电影节](dianying)📽，每个月都有的电影节。　戛纳、奥斯卡、天坛奖…… （创作中）
-	+ ./[jiankang](jiankang){:target="_top"}　健康之路云媒体，体育运动、医疗保健、长寿生活……
+	+ ./[jiankang](jiankang){:target="_top"}　体育健康云媒体 🏃　运动保健、中医中药、长寿生活……
 	+ ./waixuan　🔥 [中央外宣云媒体](waixuan)，文明古国在崛起。　ChinaDaily、中国外文局、各省国际传播中心 ICC、解放军官方微博……
 
 +	☀️ 法治社会云媒体，收录在【大萌[望海楼](../falv/)】系列　学法云媒体，各地法治报
@@ -30,11 +30,13 @@
 <p align="center"><b>为游子找到乡音，为奋斗者找到乐土，为投资者找到信源</b></p>
 
 
-官方网址
---------
+官方速览网址
+------------
 
-*	[中国搜索](https://paper.chinaso.com)：中央大报、各省日报头版
-*	央视频：[新闻频道](https://www.yangshipin.cn/tv/home?pid=600001811)、各省卫视直播
+*	📰 新华社[中国搜索](https://paper.chinaso.com)：中央大报、各省日报头版；
+	中国记协：[今日头版](http://paper.zgjx.cn/)、昨日头版
+*	📺 总台央视频网站：CCTV-13[新闻频道](https://www.yangshipin.cn/tv/home?pid=600001811)、各省卫视直播；
+	[CGTN](https://www.cgtn.com/tv) 环球电视直播
 
 <h3>近期热点</h3>
 
