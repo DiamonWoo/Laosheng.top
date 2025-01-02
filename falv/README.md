@@ -1,6 +1,6 @@
 大萌望海楼 🗼 <sup>学法数字报</sup>
 =================
-大萌	2019-2024
+大萌	2019-2025
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/falv/" />
 
@@ -31,8 +31,6 @@
 
 　　另有 [行政法规库](http://www.gov.cn/zhengce/xzfgk/) 和 [党纪法规库](https://www.ccdi.gov.cn/fgk/index)
 
-<p align="center" style="background-color:red; color:yellow; ">12月4日是第11个国家宪法日</p>
-
 
 中国法律体系概览 ♎
 -----------------
@@ -53,8 +51,10 @@
 *各省市的 人大/政府/公检法网站请见【有关部门】系列的[《法门集》](../fuwu/fazhi)页面*
 
 
-学法云媒体 ☀️
-----------
+法治社会云媒体 ☀️
+--------------
+
+　　云媒体是既有的学法、普法平台，充分利用这些平台，加快法治社会建设。
 
 *	🀄️ CCTV-1  央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 📺 每日中午12.35首播
 *	🀄️ CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)📺
@@ -63,9 +63,9 @@
 	[河南](https://static.hntv.tv/kds/#/)、
 	[山西](https://www.sxrtv.com/tv/) <sub>需要手动选台</sub>
 *	[]()📰 🗞️官网[]()
-*	国务院/[司法部](https://www.moj.gov.cn)：
-	🀄️[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)，
-	[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报
+*	国务院/[司法部](https://www.moj.gov.cn)：（[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报）
+	🀄️[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)
+	/《[法治周末](http://www.legalweekly.cn/)》
 *	国务院/[公安部](https://www.mps.gov.cn)：
 	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)
 	/ [影视剧](https://media.cpd.com.cn)🎞
@@ -91,6 +91,7 @@
 　21-0105	[辽宁法治报](https://epaper.lnd.com.cn/fzbindex.html)📰 [wb](https://weibo.com/lnfzb)		
 　22-0021	北方法制报[官网](http://www.bffzb.com/)/吉林日报	
 　23-0021	黑龙江法制报	
+
 　31-0011	**[上海法治报](http://www.shfzb.com.cn/shfzb/paperindex.htm)**📰 	
 　32-0135	[江苏法治报](http://jsfzb.xhby.net/)📰 	
 　33-0118	[浙江法治报](https://zjfzb.zjol.com.cn/paperindex.htm)📰 	
@@ -102,6 +103,7 @@
 　43-0068	[湖南法治报](https://epaper.voc.com.cn/fzzb/paperindex.htm)📰 [官网](http://www.efaw.cn)	
 　45-0023	[广西法治日报](http://ipaper.pagx.cn/)📰 	
 　46-0034	[法治时报](http://szb.hnfazhi.com/)📰 /海南日报	
+
 　50-0035	[重庆法治报](https://szb.cqfzb.net/)📰 [官网](https://www.cqfzb.net)	
 　51-0133	[四川法治报](https://dzb.scfzbs.com/)📰 [官网](https://www.scfzbs.com)	
 　52-0042	[贵州法治报](https://szb.fzshb.cn/)📰 [官网](https://www.fzshb.cn/)	
@@ -166,10 +168,10 @@
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/c/author)🙇 Comments Welcome
 
 ```
-	老生常谈© 2019~2024	Copyright by 大萌
+	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.1.7	202412
+	大萌望海楼 v3.1.8	202501
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
