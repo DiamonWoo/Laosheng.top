@@ -8,7 +8,7 @@
 
 **/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在这里探讨检索法条的门径，制作高质量法律文本，列举政法类高校资源，和大家一起学法、用法。详细内容如下：
 
-+	./fahai　☸️ [法海求索](fahai){:target="_top"}，在茫茫法海找到有用的法律法规；用文本检索，到庭审旁听，进高校深造。
++	./fahai　☸️ [法海求索](fahai){:target="_top"}，找到法条、到庭旁听，进高校深造；政法类期刊列表
 +	./duben　📚 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
 	+ [读本1](duben1){:target="_top"} 八部大法：　立法、监察、诉讼法、行政、刑法、民法典
 	+ [读本2](duben2){:target="_top"} 常用法：　治安、传染病、噪声防治……
@@ -74,7 +74,8 @@
 *	[最高法](https://www.court.gov.cn)：
 	《[人民法院报](https://www.rmfyb.com/)》📰 [中国法院网](https://www.chinacourt.org/)
 *	[中国法学会](https://www.chinalaw.org.cn/)：
-	《[民主与法制时报](http://e.mzyfz.com/paper/index_2331.html)》📰 [官网](http://www.mzyfz.com)
+	《[民主与法制](http://e.mzyfz.com/paper/index_2331.html)时报》📰 [官网](http://www.mzyfz.com)
+	/ [法学创新网](http://www.fxcxw.org.cn)
 *	中华全国律师协会：[中国律师网](https://www.acla.org.cn)
 	《中国律师》杂志
 *	中国社会科学院/[法学研究所](http://www.cass.cn/zuzhijigou/)
