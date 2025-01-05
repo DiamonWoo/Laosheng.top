@@ -1,12 +1,12 @@
 高等院校三千所 👨‍🎓 <sup>助力考生选大学</sup>
 ================
-大萌	　2023-2024
+大萌	　2023-2025
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
-　　**高等院校**是大学/学院/高专/高职/职大的统称，是青年学子通过 普通**高考**/职教高考/成人自考 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)[软科](https://www.shanghairanking.cn/rankings)、(中管院)[武书连](https://www.wurank.net/ZYRankList.html)、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些评分计算复杂、每年变化，除非是高教研究者，普通家庭要记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
+　　**高等院校**是大学/学院/高专/高职/职大的统称，是青年学子通过 普通**高考**/职教高考/成人自考 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)[软科](https://www.shanghairanking.cn/rankings)、(中管院)[武书连](https://www.wurank.net/ZYRankList.html)、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些评分计算复杂、每年变化，普通家庭要记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
 
 　　我国各类高校总数超过三千。军事高校有44所，部分面向普通高考招生，大部分不设公开网站。数量最大的是普通高校，本科超过1300所，高职(专科)超过1500所；成人高校有大约250所，这两类高校由教育部公布名单。另有港澳台三地的普通高校不超过200所，其中港澳部分高校面向大陆高考招生。经过2000年左右的大学合并潮、2017年起的军改、2022年起的独立学院转设，但愿这些数字不再大幅变化。
 
@@ -22,8 +22,9 @@
 		　设计LC = 2927　	=27+2868+32　军+普+港澳
 		　完成率 = 　98.1%	已实际完成
 
+*	202501，中管高校北航的图书馆和网信中心网站对外开放。v1.0.6
 *	202409，补充问答：国防七子，v1.0.2。
-*	202407，增补今年变更但四五六月未在官网公布的院校，详情见‘近年高校变更’段落。
+*	202407，增补今年变更但官网在四五六月未公布的院校，详情见‘近年高校变更’段落。
 *	202406，增补20余所院校网址，院校无网址比例降到 2%。v0.9.8
 *	202406，教育部6月21日中午公布最新高校名录，院校数增加48所。v0.9.7
 *	202404，已更新近9个月的变更数据，本科增加2所、专科增加12所。v0.9.3
@@ -135,9 +136,9 @@
 6 <sup>教育部</sup>❗ <b>[上海交通大学](http://www.sjtu.edu.cn '院系或机构从首页菜单进入，不设独立网页。')</b>	 SJTU 上海 <sub>闵行区</sub>⠀	⠀—⠀	⠀—⠀⠀<small>	[招生办](https://zsb.sjtu.edu.cn/) /	[图书馆](https://www.lib.sjtu.edu.cn/) /	[校园网](https://net.sjtu.edu.cn/)	⠀+上海第二医科大+上海农学院。[Schools](https://en.sjtu.edu.cn/schools)、[教师主页](https://faculty.sjtu.edu.cn/)</small>  
 7 <sup>教育部</sup>❗ <b>[西安交通大学](http://www.xjtu.edu.cn '西迁精神')</b>	 XJTU 陕西 <sub>西安市</sub>⠀	[院系页](http://www.xjtu.edu.cn/yxsz.htm)⠀	[机构页](http://www.xjtu.edu.cn/zzjg.htm)⠀<small>	[招生办](https://zs.xjtu.edu.cn/) /	[图书馆](http://www.lib.xjtu.edu.cn/) /	[校园网](http://nic.xjtu.edu.cn/)	⠀+西安医科大+陕西财经学院。CERNET西北中心</small>  
 8 <sup>中国科学院</sup>❗ <b>[中国科学技术大学](http://www.ustc.edu.cn '中科大')</b>	 USTC 安徽 <sub>合肥市</sub>⠀	[院系页](http://www.ustc.edu.cn/yxjs.htm)⠀	[机构页](http://www.ustc.edu.cn/xxgk/gljg.htm)⠀<small>	[招生办](https://zsb.ustc.edu.cn/) /	[图书馆](https://lib.ustc.edu.cn/) /	[校园网](https://ustcnet.ustc.edu.cn/)	⠀[少年班](https://sgy.ustc.edu.cn/)、科大讯飞、[公共实验室](https://lab.ustc.edu.cn/)</small>  
-9 <sup>教育部</sup>❗ <b>[中国农业大学](http://www.cau.edu.cn)</b>	 CAU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.cau.edu.cn/xybm/)⠀	⠀—⠀⠀<small>	[招生办](https://jwzs.cau.edu.cn/) /	[图书馆](http://www.lib.cau.edu.cn/) /	[校园网](https://io.cau.edu.cn/)	⠀+北农+北农工。[饲料博物馆](http://www.feedmuseum.com/)、[成都研究院](http://sc.cau.edu.cn/)、[三亚研究院](http://sanya.cau.edu.cn/)</small>  
+9 <sup>教育部</sup>❗ <b>[中国农业大学](http://www.cau.edu.cn)</b>	 CAU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.cau.edu.cn/xybm/)⠀	[机构页](https://www.cau.edu.cn/xxgk/bmhy/bm/)⠀<small>	[招生办](https://jwzs.cau.edu.cn/) /	[图书馆](http://www.lib.cau.edu.cn/) /	[校园网](https://io.cau.edu.cn/)	⠀+北农+北农工。[饲料博物馆](http://www.feedmuseum.com/)、[成都研究院](http://sc.cau.edu.cn/)、[三亚研究院](http://sanya.cau.edu.cn/)</small>  
 10 <sup>工业和信息化部</sup>❗ <b>[北京理工大学](http://www.bit.edu.cn)</b>	 BIT 北京 <sub>海淀区</sub>⠀	[院系页](http://www.bit.edu.cn/gbxxgk/gbgljg/)⠀	[机构页](http://www.bit.edu.cn/gbxxgk/xxld_sjb/)⠀<small>	[招生办](https://admission.bit.edu.cn/) /	[图书馆](https://lib.bit.edu.cn/) /	[校园网](https://itc.bit.edu.cn/)	⠀[徐特立学院](https://xuteli.bit.edu.cn/)</small>  
-11 <sup>工业和信息化部</sup>❗ <b>[北京航空航天大学](http://www.buaa.edu.cn '图书馆与网络中心网站不对外开放')</b>	 BUAA 北京 <sub>海淀区</sub>⠀	[院系页](http://www.buaa.edu.cn/jgsz/jxkyjg.htm)⠀	[机构页](http://www.buaa.edu.cn/jgsz/dzjg_new.htm)⠀<small>	[招生办](http://www.buaa.edu.cn/zsjy1/bkszs.htm) /	⠀—⠀	⠀—⠀	⠀神十六航天员[桂海潮](https://news.buaa.edu.cn/info/1052/59006.htm)、[W3C北航](https://news.buaa.edu.cn/info/1002/15030.htm)</small>  
+11 <sup>工业和信息化部</sup>❗ <b>[北京航空航天大学](http://www.buaa.edu.cn '图书馆与网络中心网站2025对外开放')</b>	 BUAA 北京 <sub>海淀区</sub>⠀	[院系页](http://www.buaa.edu.cn/jgsz/jxkyjg.htm)⠀	[机构页](http://www.buaa.edu.cn/jgsz/dzjg.htm)⠀<small>	[招生办](http://www.buaa.edu.cn/zsjy1/bkszs.htm) /	[图书馆](https://Lib.buaa.edu.cn) /	[校园网](https://nic.buaa.edu.cn/)	⠀神十六航天员[桂海潮](https://news.buaa.edu.cn/info/1052/59006.htm)、[W3C北航](https://news.buaa.edu.cn/info/1002/15030.htm)</small>  
 12 <sup>工业和信息化部</sup>❗ <b>[西北工业大学](http://www.nwpu.edu.cn '为国铸剑！')</b>	 NWPU 陕西 <sub>西安市</sub>⠀	[院系页](http://www.nwpu.edu.cn/xysz.htm)⠀	[机构页](http://www.nwpu.edu.cn/jgsz.htm)⠀<small>	[招生办](https://zsb.nwpu.edu.cn/) /	[图书馆](https://tushuguan.nwpu.edu.cn/) /	[校园网](https://it.nwpu.edu.cn/)	⠀航空/航天/航海，无人机[365所](https://aisheng.nwpu.edu.cn/)</small>  
 13 <sup>工业和信息化部</sup>❗ <b>[哈尔滨工业大学](http://www.hit.edu.cn '哈工大')</b>	 HIT 黑龙江 <sub>哈尔滨市</sub>⠀	[院系页](http://www.hit.edu.cn/11589/list.htm)⠀	[机构页](http://www.hit.edu.cn/11588/list.htm)⠀<small>	[招生办](https://zsb.hit.edu.cn/) /	[图书馆](https://lib.hit.edu.cn/) /	[校园网](http://ca.hit.edu.cn/)	⠀+哈尔滨建筑大学。威海/深圳校区。</small>  
 14 <sup>教育部</sup>❗ <b>[浙江大学](http://www.zju.edu.cn)</b>	 ZJU 浙江 <sub>杭州市</sub>⠀	[院系页](http://www.zju.edu.cn/xywxw/list.htm)⠀	[机构页](http://www.zju.edu.cn/594/list.htm)⠀<small>	[招生办](https://zdzsc.zju.edu.cn/) /	[图书馆](https://libweb.zju.edu.cn/) /	[校园网](https://zuits.zju.edu.cn/)	⠀+杭大+浙医大/农大。竺可桢学院、[海宁国际](https://www.intl.zju.edu.cn/)、[绿洲创新](https://yrd.zju.edu.cn/zcfg/list.htm)</small>  
@@ -157,7 +158,7 @@
 28 <sup>教育部</sup>❗ <b>[中南大学](http://www.csu.edu.cn)</b>	 CSU 湖南 <sub>长沙市</sub>⠀	[院系页](http://www.csu.edu.cn/xyxk1/ejxy.htm)⠀	[机构页](http://www.csu.edu.cn/zjzn/jgsz.htm)⠀<small>	[招生办](https://zhaosheng.csu.edu.cn/) /	[图书馆](https://lib.csu.edu.cn/) /	[校园网](https://nic.csu.edu.cn/)	⠀+[湘雅医学院](https://xysm.csu.edu.cn/xygk/xyjj1.htm)+中南工大+长沙铁道+长沙工专</small>  
 29 <sup>教育部</sup>❗ <b>[大连理工大学](http://www.dlut.edu.cn)</b>	 DLUT 辽宁 <sub>大连市</sub>⠀	[院系页](http://www.dlut.edu.cn/xbyx/dllszxq.htm)⠀	[机构页](http://www.dlut.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zs.dlut.edu.cn/) /	[图书馆](http://www.lib.dlut.edu.cn/) /	[校园网](https://its.dlut.edu.cn/)	⠀建国前第一所工业大学。开发区校区，盘锦校区</small>  
 30 <sup>教育部</sup>❗ <b>[重庆大学](http://www.cqu.edu.cn)</b>	 CQU 重庆 <sub>沙坪坝区</sub>⠀	[院系页](http://www.cqu.edu.cn/jgsz/jxkyjg.htm)⠀	[机构页](http://www.cqu.edu.cn/jgsz/glfwjg.htm)⠀<small>	[招生办](https://zhaosheng.cqu.edu.cn/) /	⠀[数字图书馆](http://lib.cqu.edu.cn/)⠀	[校园网](http://net.cqu.edu.cn/)	⠀+重庆建筑大学+重庆建筑高专。</small>  
-31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn '%FX打不开，安全连接失败')</b>	 LZU 甘肃 <sub>兰州市</sub>⠀	[院系页](http://www.lzu.edu.cn/static/jxdw/)⠀	[机构页](http://www.lzu.edu.cn/static/glfw/)⠀<small>	[招生办](https://zsb.lzu.edu.cn/) /	[图书馆](https://lib.lzu.edu.cn/) /	[校园网](https://its.lzu.edu.cn/)	⠀+兰州医学院+甘肃草原生态所。[机构知识库](https://ir.lzu.edu.cn/community-list)</small>  
+31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn '%FX打不开，安全连接失败')</b>	 LZU 甘肃 <sub>兰州市</sub>⠀	[院系页](http://www.lzu.edu.cn/xxjgs/jxky.htm)⠀	[机构页](http://www.lzu.edu.cn/xxjgs/glfw.htm)⠀<small>	[招生办](https://zsb.lzu.edu.cn/) /	[图书馆](https://lib.lzu.edu.cn/) /	[校园网](https://its.lzu.edu.cn/)	⠀+兰州医学院+甘肃草原生态所。[机构知识库](https://ir.lzu.edu.cn/community-list)</small>  
 
 
 <div align="right" id="DS">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
@@ -407,9 +408,9 @@
 　　有7所独立学院(本科)完成转设（更名），页面备注‘2024转设’，鼠标提示原院校名称。  
 　　专科院校2024第二批、第三批备案公布，有20余所专科院校升级为本科（更名），页面备注‘2024升级’，鼠标提示原院校名称。
 
-　　4月5月未发现官网公布院校增减消息。  
+　　4月~5月未发现官网公布院校增减消息。  
 　　8月专科院校第四批备案名单公布，新增长沙、三亚2所职业学院。  
-　　11月未发现官网公布院校增减消息。
+　　9月~12月未发现官网公布院校增减消息。
 
 **2023夏~2024年3月官网公布**  
 　　本科院校变更14起，其中更名、改建或转设11所；新设置2所(新增学校标识码)：安徽公安学院、江西飞行学院；撤销1所成教本科：江西经济管理干部学院。  
@@ -500,9 +501,9 @@
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
 
 ```
-	老生常谈© 2019-2024 大萌	知识共享许可
+	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 1.0.5	202412
+	高等院校三千所	Version 1.0.6	202501
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
