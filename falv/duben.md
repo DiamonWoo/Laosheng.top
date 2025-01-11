@@ -3,13 +3,13 @@
 大萌 © 2022-2024
 <link rel="canonical" href="https://Laosheng.top/falv/duben" />
 
-　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见[法海寻踪](./fahai)介绍。
+　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见[法海寻踪](./fahai)介绍。（2023年后有多部法律修改，本系列待更新）
 
-　　[第1本](duben1)收录八部大法：《立法法》、《监察法》、《行政处罚法》、行诉法、刑诉法、《刑法》、民诉法、《民法典》。
+　　[第1本](duben1)收录八部大法：《立法法》(待更新)、《监察法》(待更新)、《行政处罚法》、行诉法、刑诉法、《刑法》(待更新)、民诉法、《民法典》。  
 　　[第2本](duben2)收录八大法之外的常用法律：治安管理处罚法、传染病防治法、噪声污染防治法……。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/大萌法律读本
 </div>
 
 
@@ -60,7 +60,7 @@
 
 
 ```
-	老生常谈© 2019~2022 大萌 创作共用3.0
+	老生常谈© 2019~2025 大萌 创作共用3.0
 	CC-BY-NC-ND-3.0 可转载-原署名-非演绎
 	https://Laosheng.top/falv/duben
 	大萌法律读本 	v0.5.6 　202410
@@ -74,4 +74,3 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-
