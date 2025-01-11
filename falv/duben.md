@@ -3,13 +3,13 @@
 大萌 © 2022-2024
 <link rel="canonical" href="https://Laosheng.top/falv/duben" />
 
-　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见[法海寻踪](./fahai)介绍。（2023年后有多部法律修改，本系列待更新）
+　　**大萌法律读本**提供重点法律的高质量文本，方便打印🖨，易于保存。计划提供.md和.epub两种格式，详见文内介绍。（2023年后有多部法律修改，本系列待更新）
 
 　　[第1本](duben1)收录八部大法：《立法法》(待更新)、《监察法》(待更新)、《行政处罚法》、行诉法、刑诉法、《刑法》(待更新)、民诉法、《民法典》。  
 　　[第2本](duben2)收录八大法之外的常用法律：治安管理处罚法、传染病防治法、噪声污染防治法……。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/大萌法律读本
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【望海楼】</a>/法律读本
 </div>
 
 
@@ -53,7 +53,6 @@
 +	安卓手机上可以找免费的阅读软件 静读天下App。
 +	苹果手机可用 iBooks。
 +	Windows：金山WPS包含的pdf阅读器，程序文件名为 wps-pdf.exe；还有单文件的SumatraPDF 和 Adobe公司的DigitalEditions。
-
 
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://xoyondo.com/mb/yY8PqZMjKUgdcpn)，发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)🙇
