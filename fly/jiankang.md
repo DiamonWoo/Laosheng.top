@@ -45,7 +45,7 @@
 <div id="baozhi" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-体育健康报纸 📰
+报纸：<sub>体育/健康/医药/老年</sub> 📰
 ------------
 
 　　78种，大致按地区排序。[]() 📰 🗞️官网[]()
@@ -137,10 +137,10 @@
 <div id="qikan" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-体育健康和中医药杂志
+期刊：<sub>健康/中医药/体育</sub> 🎴
 ----------------
 
-　　收录仍在进行……为什么不收录西医杂志？太多了，一千多种，自己去万方数据找吧。
+　　收录仍在进行……
 
 <h3 >保健养生期刊 🍵</h3>
 
@@ -380,6 +380,7 @@
 |		|	62-1214/R	|	甘肃中医药大学学报
 |		|	65-1067/R	|	新疆中医药
 
+　　为什么不收录西医杂志？太多了，一千多种，自己去万方数据找吧。
 
 <div id="tiyu" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -491,7 +492,6 @@
 |		|	65-1066/G8	|	新疆体育
 |		|	65-1212/G8	|	体育时空
 
-
 <div id="cankao" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
@@ -522,4 +522,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-⚽🏀🏐🏓🏸‍🏃‍‍🚴‍🏊🧗
+⚽🏀🏐🏓🏸‍🏃‍‍🚴‍🏊🧗🎴📚
