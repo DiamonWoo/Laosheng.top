@@ -246,7 +246,7 @@
 |		|	65-1113/R	|	保健事业
 |		|	65-1255/R	|	健康快车
 |		|	65-1283/R	|	健康管理
-|		|	buhuanhang	|	changdancibuhuanhang
+|buhuanhang	|	buhuanhang	|	changjubuhuanhang
 
 <div id="zhong" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -378,7 +378,7 @@
 |		|	62-1204/R	|	西部中医药
 |		|	62-1214/R	|	甘肃中医药大学学报
 |		|	65-1067/R	|	新疆中医药
-|		|	buhuanhang	|	changdancibuhuanhang
+|buhuanhang	|	buhuanhang	|	changjubuhuanhang
 
 　　为什么不收录西医杂志？太多了，一千多种，自己去万方数据找吧。
 
@@ -491,7 +491,7 @@
 |		|	65-1060/G8	|	中小学体育
 |		|	65-1066/G8	|	新疆体育
 |		|	65-1212/G8	|	体育时空
-|		|<pre>----------</pre>	|<pre>--------------------</pre>
+|buhuanhang	|	buhuanhang	|	changjubuhuanhang
 
 <div id="cankao" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
