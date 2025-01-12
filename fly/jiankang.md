@@ -16,7 +16,7 @@
 <h3 id='mulu'>健康云 简目</h3>
 
 　　[刊号](#kanhao){:target="_top"}，
-	[报纸](#baozhi){:target="_top"}📰、期刊：
+📰	[报纸](#baozhi){:target="_top"}、期刊：
 	[保健养生](#qikan){:target="_top"}🍵
 /	[中医中药](#zhong){:target="_top"}🌱
 /	[体育类](#tiyu){:target="_top"}🏃‍，
@@ -45,7 +45,7 @@
 <div id="baozhi" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-报纸：<sub>体育/健康/医药/老年</sub> 📰
+📰 报纸：<sub>体育/健康/医药/老年</sub>
 ------------
 
 　　78种，大致按地区排序。[]() 📰 🗞️官网[]()
@@ -136,7 +136,7 @@
 <div id="qikan" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-期刊：<sub>健康/中医药/体育</sub> 🎴
+🎴 期刊：<sub>健康/中医药/体育</sub>
 ----------------
 
 　　收录仍在进行……
@@ -246,7 +246,7 @@
 |		|	65-1113/R	|	保健事业
 |		|	65-1255/R	|	健康快车
 |		|	65-1283/R	|	健康管理
-|		|<pre>----------</pre>	|<pre>--------------------</pre>
+|		|	----------	|--------------------
 
 <div id="zhong" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
