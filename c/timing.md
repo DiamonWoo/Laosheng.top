@@ -1,6 +1,6 @@
 提名网站与落榜记
 ===============
-大萌 2020~2024<base target="_blank">
+大萌 2020~2025<base target="_blank">
 
 		逆水行舟，不进则退
 
@@ -86,11 +86,15 @@
 　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
 
 
-3、电视节目单
+3、影视搜新知
 -------------
 
-*　<a href="https://TVsou.com/epg/weishi/" title="地方卫视节目表，搜视网提供">搜视</a>
-*　《<a href="https://tv.cctv.com/lm/kjl/" title="中国青年电视公开课，央视名牌栏目">开讲了</a>》
+*	<a href="https://TVsou.com/epg/weishi/" title="地方卫视节目表，搜视网提供">搜视</a>
+*	《<a href="https://tv.cctv.com/lm/kjl/" title="中国青年电视公开课，央视名牌栏目">开讲了</a>》
+*	i<a href="https://www.ixigua.com/" title="抖音旗下免费视频网">西瓜</a>
+*	<a href="http://www.mtime.com" title="MTime">时光</a>影评$
+<!-- http://film.mtime.com/search/movies/movies?suggestType=0&q=" + wen -->
+*	湖南卫视 <a href="https://www.mgtv.com/tv/" title="电视剧和电影">芒果TV</a>
 
 
 4、浏览之器
@@ -185,7 +189,8 @@
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>、
 　#<a href="https://site.sciping.com/" title="202303的网页存档">科塔学术导航</a> 2023莫名[被拦截](https://web.archive.org/web/20230323160752/https://site.sciping.com/)  
-　<a title="知乎话题：图书馆" href="https://www.zhihu.com/topic/19556703/hot">知乎话题</a> 2024因讨论区对访客关闭下榜
+　<a title="知乎话题：图书馆" href="https://www.zhihu.com/topic/19556703/hot">知乎话题</a> 2024因讨论区对访客关闭下榜  
+　　笨笨地写日记☆ 
 
 
 8、财务自求 🍩
@@ -245,6 +250,7 @@
 
 *	<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>
 *	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
+*	　#<a href="https://instagram.com/7_luhan_m/?hl=zh-cn" title="鹿晗ins千万粉丝">Ins</a>
 *	小红书%  	<https://www.xiaohongshu.com/explore>
 	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
 
@@ -345,10 +351,10 @@
 
 
 
-	老生常谈© 2019-2024 大萌	　知识共享许可
+	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202412
+	提名网站与落榜记	　202501
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
