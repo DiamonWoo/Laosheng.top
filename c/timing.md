@@ -261,8 +261,10 @@
 落榜记
 ======
 
+
 2025/1/23	#第九段  
 *	《电脑<a href="https://www.cfan.com.cn/technic/" title="网站停留在202210">爱好者</a>》杂志网站因长期不更新下榜。　
+*	王垠的<a href="https://www.yinwang.org/" title="博士前">博客</a>较长时间没有更新，英文blog被墙。
 
 
 --------
