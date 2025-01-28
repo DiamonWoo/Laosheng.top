@@ -1,4 +1,4 @@
-老生常谈²⁰²⁵ 🥧
+老生常谈²⁰²⁵ 🐍
 ========
 <link rel="canonical" href="https://Laosheng.top" />
 
