@@ -362,8 +362,6 @@
 
 国务院办公厅  
 -	国务院[互联网+督察](https://tousu.www.gov.cn/dc/)平台  20210201起[《政府督查工作条例》](http://www.gov.cn/zhengce/content/2020-12/29/content_5574770.htm)施行	
--	〖国家信访局〗 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
-	  - 2022年4月，中共中央、国务院印发《[信访工作条例](https://www.gjxfj.gov.cn/2022-04/08/c_1310549186.htm)》
 -	📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
 	（以下服务号码关闭：~~科技公益服务-12396、知识产权维权援助公益服务-12330、电信用户申诉渠道-12300、自然资源违法举报-12336、旅游资讯服务电话-12301、价格投诉举报-12358、商务领域举报投诉咨询-12312、民政服务-12349、计划生育法律法规咨询及举报-12356、食品药品监督举报服务-12331、质量技术监督系统和出入境检验检疫-12365、防震减灾公益服务-12322、火灾隐患举报投诉-96119~~，整体并入12345。）
 
@@ -457,12 +455,21 @@
 	2024年《国务院组织法》第十三条
 	　国务院可以根据工作需要和优化协同高效精简的原则，按照规定程序设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人，由国务院任免。
 
-* 🛃 中华人民共和国海关总署	　 [Customs.gov.cn](http://www.customs.gov.cn/) 进出口统计月报
-	- [互联网+海关](http://online.customs.gov.cn/) 动植物检疫、货物通关、舱单信息、行政审批、加工贸易保税……
-	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
-	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
-	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
-	- 🙋 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
+* 〖国家信访局〗 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
+	  - 2022年4月，中共中央、国务院印发《[信访工作条例](https://www.gjxfj.gov.cn/2022-04/08/c_1310549186.htm)》
+
+* 国家金融监督管理总局	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 金监总局 2023年取代2018年整合的银保监会
+	- ☎️ 12363 银行业务投诉电话
+	- ☎️ 12378 银行/保险业务投诉电话
+	- ☎️ 12386 证券投资业务投诉电话
+	- 📠 010-66279113 信访举报咨询（工作时间）
+	- 全国36个派出机构
+	- 金融、保险、保险中介 [许可证查询](https://xkz.nfra.gov.cn/)
+
+* 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
+	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
+	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
+	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
 
 * 👮 国家市场监督管理总局	　 [SAMR.gov.cn](http://www.samr.gov.cn/) 市监总局
 	- 📞 12315 [市场监管投诉举报](http://www.12315.cn/)热线 双号并行，另有微信等多个渠道。 虚假广告、商品质量、服务投诉等等。（整合：~~原质检12365、原食药12331、原价监12358、原知识产权12330热线~~）
@@ -489,6 +496,13 @@
 	- 🙋 直属高校（1所）：[北京体育大学](https://www.bsu.edu.cn)
 	- 
 * 国家国际发展合作署　	 [CIDCA.gov.cn](http://www.cidca.gov.cn/)
+
+* 🛃 中华人民共和国海关总署	　 [Customs.gov.cn](http://www.customs.gov.cn/) 进出口统计月报
+	- [互联网+海关](http://online.customs.gov.cn/) 动植物检疫、货物通关、舱单信息、行政审批、加工贸易保税……
+	- [网上查询](http://www.customs.gov.cn/customs/302427/302442/index.html) 通关状态、舱单信息、企业情况、化验标准、进出口税率……
+	- 📞 12360 全国统一海关公益服务电话 设分中心 [互动交流](http://www.customs.gov.cn/customs/302452/index.html)
+	- [投诉举报](http://www.customs.gov.cn/customs/302452/302459/index.html) 走私违规举报、廉政举报、信访
+	- 🙋 直属高校（1所）：[上海海关学院](https://www.shcc.edu.cn)（上海浦东新区）
 
 * 国务院参事室/【中央文史研究馆】	　 [Counsellor.gov.cn](http://www.counsellor.gov.cn/)
 
@@ -520,19 +534,6 @@
 
 * 国家反垄断局	　 [网址待公布](https://www.samr.gov.cn/xw/zj/202111/t20211118_336974.html) 2021年11月亮相，承办国务院反垄断委员会日常工作。
 	- 。。。
-
-* 国家金融监督管理总局	　 [CBIRC.gov.cn](http://www.cbirc.gov.cn/) 金监总局 2023年取代2018年整合的银保监会
-	- ☎️ 12363 银行业务投诉电话
-	- ☎️ 12378 银行/保险业务投诉电话
-	- ☎️ 12386 证券投资业务投诉电话
-	- 📠 010-66279113 信访举报咨询（工作时间）
-	- 全国36个派出机构
-	- 金融、保险、保险中介 [许可证查询](https://xkz.nfra.gov.cn/)
-
-* 中国证券监督管理委员会	　 [CSRC.gov.cn](http://www.csrc.gov.cn/) 全国36个派出机构+沪深两个专员办
-	- ☎️ 12386 中国证监会服务热线（工作日，午休）[公众留言](http://gzly.csrc12386.org.cn/csrc)
-	- 证监会 政务服务平台[办事大厅](https://neris.csrc.gov.cn/portal)
-	- [信息披露](http://eid.csrc.gov.cn/) IPO公司预先披露、上市/挂牌/公募基金/债券公告，*[证监会为什么不要App](https://laosheng.top/c/8-证券信息披露的法定媒体.txt)*
 
 
 <div id="5.4" align="right"><a href="#mulu" target="_self">↑Top</a></div>
@@ -730,7 +731,7 @@ MCT，Ministry of Culture and Tourism
 	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
 	  - [《新冠肺炎诊疗方案》](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml) 2023年1月第十版，加强中医药干预。
 	  *大萌为官方pdf文件[增加了书签](jujia)，便于阅读检索* 
-	- 〖国家疾病预防控制局〗[网址待确认](http://www.nhc.gov.cn/jkj/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
+	- 〖国家疾病预防控制局〗[NDCPA](https://www.ndcpa.gov.cn/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
 	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
 	- 🙋直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
 	- 〖[国家中医药管理局](http://www.natcm.gov.cn)〗 NaTCM	　 [便民就医导航](http://www.satcm.gov.cn/banshifuwu/) / [镜像站](http://www.cntcm.com.cn/page-jydh.html)
