@@ -58,47 +58,46 @@
 -	[法律草案](http://www.npc.gov.cn/flcaw/ )征求意见
 -	会议与记者会	[网上直播](http://www.npc.gov.cn/npc/c281/wszb.shtml )
 -	全国人大常委会办公厅
-  	- [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 
-  	- [国家法律法规数据库](https://flk.npc.gov.cn/ )⭐【国法库】网站，提供现行有效法律的目录与电子文本。
+	- [《中国人大》杂志](http://www.npc.gov.cn/npc/c16114/rdzz.shtml ) 
+	- [国家法律法规数据库](https://flk.npc.gov.cn/ )⭐【国法库】网站，提供现行有效法律的目录与电子文本。
 -	国家监委/【中央纪委】 请见中国共产党段落
 
 31个省级人大网站：  
-　11-[北京人大](http://www.bjrd.gov.cn)
-　12-[天津人大](http://www.tjrd.gov.cn)
-　13-[河北人大](http://www.hbrd.net) 冀
-　14-[山西](http://www.sxpc.gov.cn) 晋
+　11-[北京人大](https://www.bjrd.gov.cn)
+　12-[天津人大](https://www.tjrd.gov.cn)
+　13-[河北人大](https://www.hbrd.gov.cn) 冀
+　14-[山西人大](https://www.sxpc.gov.cn) 晋
 　15-[内蒙古人大](http://www.nmgrd.gov.cn) 蒙
-　21-[辽宁人大](http://www.lnrd.gov.cn)
-　22-[吉林人大](http://www.jlrd.gov.cn)
+　21-[辽宁人大](https://www.lnrd.gov.cn)
+　22-[吉林人大](https://www.jlrd.gov.cn)
 　23-[黑龙江人大](https://www.hljrd.gov.cn)
-　31-[上海人大](http://www.shrd.gov.cn) 沪
-　32-[江苏人大](http://www.jsrd.gov.cn) 
-　33-[浙江人大](http://www.zjrd.gov.cn) 
+　31-[上海人大](https://www.shrd.gov.cn) 沪
+　32-[江苏人大](https://www.jsrd.gov.cn) 
+　33-[浙江人大](https://www.zjrd.gov.cn) 
 　34-[安徽人大](http://www.ahrd.gov.cn) 皖
-　35-[福建人大](http://www.fjrd.gov.cn) 闽
-　36-[江西人大](http://www.jxrd.gov.cn) 赣
+　35-[福建人大](https://www.fjrd.gov.cn) 闽
+　36-[江西人大](https://www.jxrd.gov.cn) 赣
 　37-[山东人大](http://www.sdrd.gov.cn) 鲁
-　41-[河南人大](http://www.henanrd.gov.cn) 豫
-　42-[湖北人大](http://www.hppc.gov.cn) 鄂
-　43-[湖南人大](http://www.hnrd.gov.cn) 湘
-　44-[广东人大](http://www.rd.gd.cn) 粤
-　45-[广西人大](http://dhzt.gxrd.gov.cn) 桂
-　46-[海南人大](http://www.hainanpc.gov.cn) 琼
+　41-[河南人大](https://www.henanrd.gov.cn) 豫
+　42-[湖北人大](https://www.hppc.gov.cn) 鄂
+　43-[湖南人大](https://www.hnrd.gov.cn) 湘
+　44-[广东人大](https://www.rd.gd.cn) 粤
+　45-[广西人大](https://dhzt.gxrd.gov.cn) 桂
+　46-[海南人大](https://www.hainanpc.gov.cn) 琼
 　50-[重庆人大](https://www.cqrd.gov.cn) 渝
-　51-[四川人大](http://www.scspc.gov.cn)/蜀
-　52-[贵州人大](http://www.gzrd.gov.cn) /黔
-　53-[云南人大](http://www.ynrd.gov.cn) /滇
-　54-[西藏人大](http://www.xizangrd.gov.cn)
-　61-[陕西人大](http://www.sxrd.gov.cn) /秦
+　51-[四川人大](https://www.scspc.gov.cn)/蜀
+　52-[贵州人大](https://www.gzrd.gov.cn) /黔
+　53-[云南人大](https://www.ynrd.gov.cn) /滇
+　54-[西藏人大](https://www.xizangrd.gov.cn)
+　61-[陕西人大](https://www.sxrd.gov.cn) /秦
 　62-[甘肃人大](http://www.gsrdw.gov.cn)
-　63-[青海人大](http://www.qhrd.gov.cn)
+　63-[青海人大](https://www.qhrd.gov.cn)
 　64-[宁夏人大](http://www.nxrd.gov.cn)
-　65-[新疆人大](http://www.xjpcsc.gov.cn) 新
+　65-[新疆人大](https://www.xjpcsc.gov.cn) 新
 　6590-新疆兵团[]()
 　71-台湾[]()　
 　81-香港[]()　
 　82-澳门[]()　
-
 
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -106,24 +105,24 @@
 ================
 简称‘两高’或‘两院’
 
-⚖️ 最高人民法院	 　[Court.gov.cn](http://www.court.gov.cn )　民诉、刑诉、行政诉讼、调解  
+⚖️ 最高人民法院	 　[Court.gov.cn](http://www.court.gov.cn )　民诉、刑诉、行政诉讼、调解
 -	最高法出台的[司法解释](http://www.court.gov.cn/fabu-gengduo-16.html)
-	- 中国审判流程信息公开网：案件查询、25个省份的[开庭公告](https://splcgk.court.gov.cn/gzfwww/)，不包括：京津沪、苏浙闽。
+-	中国审判流程信息公开网：案件查询、25个省份的[开庭公告](https://splcgk.court.gov.cn/gzfwww/)，不包括：京津沪、苏浙闽。
 -	☎️ 12368 诉讼综合服务的电话热线和短信平台
 -	中国庭审公开网 [庭审回顾](http://tingshen.court.gov.cn/search/full?address=/page/review/screenPage&dataType=2&pageSize=10) %视频直播
 -	[中国裁判文书网](https://wenshu.court.gov.cn/)	%需登录
 -	六个[巡回法庭](http://www.court.gov.cn/xunhui3/xiangqing-78772.html)：深圳、沈阳、南京、郑州、重庆、西安。
 -	人民法院新闻传媒总社 [ChinaCourt.org](https://www.chinacourt.org) 中国法院网
+　	📰[《人民法院报》](http://rmfyb.chinacourt.org)
 	- [法律文库](https://www.chinacourt.org/law.shtml)查询　*快速找法可见[大萌望海楼](../falv )*
 	- [给大法官留言](https://liuyan.chinacourt.org/) 最高人民法院新闻局
-	- 📰[《人民法院报》](http://rmfyb.chinacourt.org)
 
-⚔️ 最高人民检察院		 　[SPP.gov.cn](https://www.spp.gov.cn )  
+⚔️ 最高人民检察院		 　[SPP.gov.cn](https://www.spp.gov.cn )
 -	最高检出台的[司法解释](https://www.spp.gov.cn/spp/flfg/)与规范文件
 -	十大[检察业务](https://www.spp.gov.cn/spp/jcyw/index.shtml)：(普/重/职/经)犯罪检察、刑事执行检察、民事检察、行政检察、公益诉讼检察、未成年人检察、控告申诉检察
--	📰[《检察日报》](http://newspaper.jcrb.com)正义网，检察业务[法律法规库](https://www.spp.gov.cn/spp/flfgk)
 -	☎️ 12309 检察服务热线  	[12309中国检察网](https://www.12309.gov.cn) 控告/申诉/举报/公益诉讼
 -	中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view) ☁️
+-	📰[《检察日报》](http://newspaper.jcrb.com)正义网，检察业务[法律法规库](https://www.spp.gov.cn/spp/flfgk)
 -	🙋[国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
 
 　　*各省公检法网址请见：[法治政府部门集](../fuwu/fazhi)*
@@ -164,18 +163,18 @@
 -------------------
 
 * [总工会](http://www.acftu.org/)	　 中华全国总工会
-	[中工网](http://www.workercn.cn/) 📰[《工人日报》](http://media.workercn.cn)
+　	[中工网](http://www.workercn.cn/) 📰[《工人日报》](http://media.workercn.cn)
 	- 📠 [12351](https://www.12351.cn) 职工维权服务热线
 	- 中国工会[普法网](https://ghpf.acftu.org/)
 	- 🙋直属高校（1所）：[中国劳动关系学院](https://www.culr.edu.cn)，前身为前身是1946年晋察冀边区行政干部学校
 * [共青团](http://www.gqt.org.cn/)　	 中国共产主义青年团
-	📰[《中国青年报》](http://zqb.cyol.com)
+　	📰[《中国青年报》](http://zqb.cyol.com)
 	- 📠 12355 [青少年服务台](https://www.gqt.org.cn/xxgk/tngz_gfxwj/gfxwj/202210/t20221013_790065.htm)，“倾听心声、维护权益，专业服务、关爱成长”
 	少年先锋队 全国学联
 	- 🙋直属高校（1所）：[中央团校](https://www.zytx.org.cn) &【中国青年政治学院】，前身为1932年在江西瑞金创办的列宁团校
 	  - 党性教育基地：大别山干部学院、红旗渠干部学院、焦裕禄干部学院、浙江红船干部学院、浙江大陈岛干部学院、延安干部培训学院、沂蒙干部学院、遵义师范学院、小平干部学院。
 * [全国妇联](http://www.women.org.cn/)	　 中华全国妇女联合会
-	📰[《中国妇女报》](http://paper.cnwomen.com.cn)
+　	📰[《中国妇女报》](http://paper.cnwomen.com.cn)
 	- 📠 12338 [妇女维权](https://www.women.org.cn/2024/01/10/99675249.html)公益服务热线
 	- 🙋直属高校（1所）：[中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
 * [中国科协](https://cast.org.cn )	　 中国科学技术协会 CAST.org.cn
@@ -185,7 +184,7 @@
 * [全国台联](http://www.taiLian.org.cn/)	　 中华全国台湾同胞联谊会
 * [全国青联]()	　 中华全国青年联合会（共青团中央统战部）
 * [全国工商联](http://www.acfic.org.cn/)	　 中华全国工商业联合会
-	📰[《中華工商時報》](http://epaper.cbt.com.cn/epaper/uniflows/html) 中华工商时报
+　	📰[《中華工商時報》](http://epaper.cbt.com.cn/epaper/uniflows/html) 中华工商时报
 
 <div id="3.3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -205,16 +204,16 @@
 * [外交学会](http://www.cpifa.org/)	　 中国人民外交学会，1949年成立
 	- [《外交》](http://www.cpifa.org/class/4)季刊，1985年创办的英文刊物
 * [贸促会](http://www.ccpit.org/)	　 中国国际贸易促进委员会，1952年成立
+　	📰[《中国贸易报》](http://www.chinatradenews.com.cn/epaper/)
 	- 中国国际商会 / 中国仲裁法学研究会
-	- 📰[《中国贸易报》](http://www.chinatradenews.com.cn/epaper/)
 	- 《中国对外贸易》杂志 [China's Foreign Trade](http://www.ccpitcft.com/zz) 中英文双语
 * [中国残联](http://2021old.cdpf.org.cn/)	　 ♿ 中国残疾人联合会
+　	📰[《华夏时报》](http://www.cdpf.org.cn)
 	- 📞 12385 全国残疾人维权服务电话 双号并行
-	- 📰[《华夏时报》](http://www.cdpf.org.cn)
 	- 中国狮子联会 / 中国听力语言服务网 / 中国特奥会
 * 中国宋庆龄基金会	　 []()
-* [中国法学会](https://www.chinaLaw.org.cn/)	　 
-	- 📰[《民主与法制时报》](http://e.mzyfz.com)
+* [中国法学会](https://www.chinaLaw.org.cn/)	
+　	📰[《民主与法制时报》](http://e.mzyfz.com)
 * [红十字会](http://www.RedCrossOL.com/)	　 中国红十字会总会 中红在线 RedCrossOL.com
 	- 📰[《中国红十字报》](http://news.redcrossol.com)
 * [中国政研会](http://www.wenming.cn/zyh/)	　 中国思想政治工作研究会，1983年成立
