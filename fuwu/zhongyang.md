@@ -1,6 +1,6 @@
 中央有关部门集 🕰
 ================
-大萌 2021-2023，2024（更新中）
+大萌 2021-2025（更新中）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fuwu/zhongyang" />
 
@@ -25,12 +25,14 @@
 *	4 [中共中央](#4){:target="_top"}
 	* 4.1 [职能部门](#4.1){:target="_top"}、  4.2 [办事机构](#4.2){:target="_top"}、 4.3 [事业单位](#4.4){:target="_top"}、 4.4 [派出机关](#4.4){:target="_top"}
 *	5 [国务院](#5){:target="_top"}　🟦
-	* 5.1 [办事机构](#5.1){:target="_top"}、 5.2 [事业单位](#5.2){:target="_top"}、 5.3 [直属机构](#5.3){:target="_top"}(总局总署)、 5.4 [部委与国家局](#5.4){:target="_top"}、 5.5 [直属特设机构](#5.5){:target="_top"}　
+	* 5.1 [办事机构](#5.1){:target="_top"}、 5.2 [直属特设机构](#5.2){:target="_top"}、 5.3 [直属机构](#5.3){:target="_top"}(总局总署)、 5.4 [部委与国家局](#5.4){:target="_top"}、 5.5 [事业单位](#5.5){:target="_top"}
 *	[编制依据](#6){:target="_top"} / [图例](#图例){:target="_top"}
 
 改革近况
 -------
 
+		* 2024/12/25，国家数据局官网上线试运行。
+		* 2024/10/1，中央社会工作部官网上线。
 		* 2024/2/22，全国社会工作部部长、信访局局长座谈会在京召开。
 		* 2023/8/15，中央科技委员会已经召开了第一次会议。
 		* 2023/5/19，国家金融监督管理总局 挂牌，网站沿用原银保监会。
@@ -239,6 +241,7 @@
 
 * 中央办公厅	　 中办[]()
 	- 中央档案馆/【国家档案局】[SAAC.gov.cn](https://www.saac.gov.cn/)
+　[中国档案报](http://www.zgdazxw.com.cn/ofd/reader?file=DAB.ofd)📰 ☆ [资讯网](http://www.zgdazxw.com.cn/2024-06/12/content_500436.html)
 	- 中央密码工作领导小组办公室/【国家密码管理局】[SCA.gov.cn](https://www.sca.gov.cn/)
 	- 中央保密委员会办公室/【国家保密局】[GJBMJ.gov.cn](http://www.gjbmj.gov.cn/)
 	- 中共中央直属机关管理局[]()	　 中直管理局
@@ -292,7 +295,7 @@
 	- 微信公众号：中央政法委长安剑
 	- 📰[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
 
-* 中央社会工作部	　 网址未公布
+* 中央[社会工作部](https://www.zyshgzb.gov.cn)	　 20241001网站试运行
 	- 领导全国信访工作、志愿者工作
 	- 北京日报：[社工部机构职能特点](https://www.ccps.gov.cn/xwpd/mtsd/202307/t20230717_158662.shtml)及央地对应关系答问
 
@@ -352,7 +355,7 @@
 
 🟦 **中国政府网**	 　[Gov.CN](https://www.gov.cn)  
 -	全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/) / 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
--	国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 / [部门服务](http://www.gov.cn/fuwu/bm)大厅
+-	国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 / [部门网站](https://www.gov.cn/home/2023-03/29/content_5748953.htm)链接
 -	[行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
 	- 《[2019-政府信息公开条例](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)》，[解读](http://china.qianlong.com/2019/0416/3221678.shtml)
 -	[我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
@@ -427,49 +430,22 @@
 * 国家保密局／【中央保密委员会办公室】
 * 国家密码管理局／【中央密码工作领导小组办公室】
 
+
 <div id="5.2" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5.2 国务院直属事业单位
---------------------
+5.2 国务院直属特设机构
+---------------------
 
-* 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
-	- 《参考消息》、📰《中国证券报》等，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
-	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
+* 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国资委
+	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
+	- 中国钢铁新闻网 📰[《中国冶金报》](http://epaper.csteelnews.com)
 
-* 中央广播电视总台	　[CMG总台之声](https://www.cctv.com/gyys/)/[总经理室](https://1118.cctv.com/chinese/)
-	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
-	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
+* 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
+	- 📰[《中华合作时报》](http://szb.zh-hz.com ) 
 
-* 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 📰[《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
-	- [中国天气网](http://www.weather.com.cn) 预报预警、雷达云图、天气新闻、气象科普……
-	  - 📠 400-6000-121 气象服务热线，咨询、建议、合作与投诉
-	  - 📠 12121 天气预报查询 
-	- 国家气象中心（[中央气象台](http://www.nmc.cn/)）降水预报、天气实况、城市预报、台风海洋……
-	- 华风气象传媒集团 ☁[中国气象频道](http://www.weathertv.cn/) 能直播吗？（央视《新闻联播》后的天气预报栏目）
+  *了解更多中央企业，请见[央企股票全家福](yangqi)。*
 
-* 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
-	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
-	- 🙋直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
-
-* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，📰[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
-	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
-	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
-	- 🙋直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
-	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
-
-* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
-	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
-	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
-	- 中国工程[科技知识中心](http://www.ckcest.cn/)
-	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
-
-* 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) 📰[《中国经济时报》](http://jjsb.cet.com.cn)
-	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
-	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
-	- 国研网 [统计数据库](http://data.drcnet.com.cn/) 宏观经济、区域经济、重点行业、世界经济
-
-* 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
-	- [网上党校](https://wsdx.ccps.gov.cn/)
+  *了解更多金融机构，请见[个人理财金融圈](jinrong)。*
 
 
 <div id="5.3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
@@ -591,9 +567,10 @@
 	- 📰[《中国改革报》](http://www.cfgw.net.cn/epaper)、📰[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
 	- 国家信息中心[]()	　 [中国经济信息网](https://www.cei.cn)（中经网）、[一带一路网](http://www.zgydyl.org)
 	- 国家公用信息中心[]()	　 [信用中国网](https://www.creditchina.gov.cn/xinyongfuwu/)（与人民银行共同指导）
+	- 〖国家粮食和物资储备局〗[LSWZ](https://www.LSWZ.gov.cn/)
 	- 〖[国家能源局](http://www.nea.gov.cn)〗	　
 	  - ☎️ 12398 [电力监管投诉举报](http://www.nea.gov.cn/n_home/n_gzfw/rx12398)热线电话：乱收电费/偷电/违反《电力监管条例》
-	- 〖国家粮食和物资储备局〗
+	- 〖[国家数据局](https://www.nda.gov.cn/)〗
 
 * 📐 教育部	　 [MOE.gov.cn](http://www.moe.gov.cn )　 📰[《中国教育报》](http://paper.jyb.cn)
 	- [中国教育电视台](http://www.centv.cn )：☁️[CETV-1~4](http://www.centv.cn/cetv1)、国家开放大学（原中央广播电视大学）
@@ -682,6 +659,7 @@
 	  - 地科院、地质所、水环所、岩溶所、勘探技术所……广州海洋局、青岛海洋所……
 	  - 📰《[中国矿业报](http://epaper.zgkyb.com "中国矿业信息网")》　矿业界App
 	  - [地质云](https://geocloud.cgs.gov.cn)　地质数据、图件、调查标准、遥感数据、城市信息……
+	- [国家海洋信息中心](https://www.nmdis.org.cn)：潮汐、南海、钓鱼岛 等[专题](https://www.nmdis.org.cn/zxjj/ztwz/)
 	- 🌐测科院、油气中心、海岛中心、审图中心、南极训练基地……北海局、东海局、南海局……
 	- 国家基础地理信息中心 [NGCC](http://www.ngcc.cn/) 山川河流、遥感测绘、
 	[天地图](https://map.tianditu.gov.cn/)
@@ -793,21 +771,51 @@ MCT，Ministry of Culture and Tourism
 	- 中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)、
 	《中国审计报》
 
+
 <div id="5.5" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5.5 国务院直属特设机构
----------------------
+5.5 国务院直属事业单位
+--------------------
 
-* 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国资委
-	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
-	- 中国钢铁新闻网 📰[《中国冶金报》](http://epaper.csteelnews.com)
+* 新华通讯社	　 [新华社](http://www.xinhuanet.com/)
+	- 《参考消息》、📰《中国证券报》等，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
+	- 中央人民政府驻香港特别行政区联络办公室	　 [中联办](http://locpg.gov.cn) 1999年12月由 新华通讯社香港分社 更名
 
-* 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
-	- 📰[《中华合作时报》](http://szb.zh-hz.com ) 
+* 中央广播电视总台	　[CMG总台之声](https://www.cctv.com/gyys/)/[总经理室](https://1118.cctv.com/chinese/)
+	- CCTV央视、CGTN环球、CNR央广、CRI国广，参见*[中国新闻云媒体](https://laosheng.top/fly/)*
+	- 国家应急广播 [cnEB.gov.cn](http://www.cneb.gov.cn) 灾时启用调频/短波/卫星开办应急广播电台
 
-  *了解更多中央企业，请见[央企股票全家福](yangqi)。*
+* 🌀 中国气象局	　 [CMA.gov.cn](http://www.cma.gov.cn/)	　 📰[《中国气象报》](http://epaper.zgqxb.com.cn/epaper)
+	- [中国天气网](http://www.weather.com.cn) 预报预警、雷达云图、天气新闻、气象科普……
+	  - 📠 400-6000-121 气象服务热线，咨询、建议、合作与投诉
+	  - 📠 12121 天气预报查询 
+	- 国家气象中心（[中央气象台](http://www.nmc.cn/)）降水预报、天气实况、城市预报、台风海洋……
+	- 华风气象传媒集团 ☁[中国气象频道](http://www.weathertv.cn/) 能直播吗？（央视《新闻联播》后的天气预报栏目）
 
-  *了解更多金融机构，请见[个人理财金融圈](jinrong)。*
+* 🪑 中国社会科学院	　 [社科院](http://cass.cssn.cn/)	　 中国社会科学网 [子网导航](http://www.cssn.cn/cssnzwdh/)
+	- 国家哲学社会科学[文献中心](http://www.ncpssd.org/)
+	- 🙋直属高校（1所）：中国社会科学院大学[社科大](https://www.ucass.edu.cn) 北京
+
+* 🧪 中国科学院	　 [cas.AC.cn](http://www.cas.ac.cn/)，全国12个分院，📰[《中国科学报》](http://news.sciencenet.cn/dz/dznews_photo.aspx?)。
+	- [全体院士名单](http://casad.cas.cn/ysxx2017/ysmdyjj/qtysmd_124280/) 约800名院士
+	- 文献情报中心 [知识服务平台](https://www.las.ac.cn/)、[国家科学图书馆](http://www.las.cas.cn/) 、成都、武汉，计算机网络信息中心 [CNIC](http://www.cnic.cas.cn/)
+	- 🙋直属高校（2所）：中国科学技术大学 [中科大](https://www.ustc.edu.cn) 安徽合肥、 中国科学院大学（研究生院）[国科大](http://www.ucas.ac.cn) 北京怀柔
+	- 科普云平台 [中国科普博览](http://www.kepu.net.cn/)、[明智科普网](http://kepu.cas.cn/gb/publication/magazines/) 科普期刊介绍
+
+* 中国工程院 ⚙️	　 [CAE.cn](http://www.cae.cn/)，九个学部（机、电、化、能、建、环、农、医、管）。
+	- [全体院士名单](http://www.cae.cn/cae/html/main/col48/column_48_1.html) 约900名院士 ，资历介绍[院士馆](https://ysg.ckcest.cn/ysgList/index.html)
+	- 《中国工程科学》杂志社 [系列期刊](http://www.engineering.org.cn/ch/journal)
+	- 中国工程[科技知识中心](http://www.ckcest.cn/)
+	- [互动交流](http://tousu.cae.cn:8090/cae/pro/messageIssuedList)访客留言
+
+* 国务院发展研究中心	　 [DRC.gov.cn](https://www.drc.gov.cn/) 📰[《中国经济时报》](http://jjsb.cet.com.cn)
+	- [互动交流](https://www.drc.gov.cn/hdjl.aspx) 专家解答
+	- 中国国际发展知识中心[研究成果](http://www.cikd.org/chinese/researchandpublications) 
+	- 国研网 [统计数据库](http://data.drcnet.com.cn/) 宏观经济、区域经济、重点行业、世界经济
+
+* 国家行政学院／【中央党校】	　 [CCPS.gov.cn](https://www.ccps.gov.cn/)
+	- [网上党校](https://wsdx.ccps.gov.cn/)
+
 
 <hr>
 <div id="6" align="right"><a href="#mulu" target="_self">↑Top</a></div>
@@ -844,10 +852,10 @@ MCT，Ministry of Culture and Tourism
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如果[发现网址错误](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)请指出，谢谢！🙇
 
 ```
-	老生常谈© 2019-2024 大萌   知识共享许可
+	老生常谈© 2019-2025 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.2	202410
+	中央有关部门集	v1.4.3	202502
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
