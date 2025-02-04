@@ -62,7 +62,43 @@
   	- [国家法律法规数据库](https://flk.npc.gov.cn/ )⭐【国法库】网站，提供现行有效法律的目录与电子文本。
 -	国家监委/【中央纪委】 请见中国共产党段落
 
-　　34-3个省级人大网站请见[法治政府有关部门](../fuwu/fazhi)页面。
+31个省级人大网站：  
+　11-[北京人大](http://www.bjrd.gov.cn)
+　12-[天津人大](http://www.tjrd.gov.cn)
+　13-[河北人大](http://www.hbrd.net) 冀
+　14-[山西](http://www.sxpc.gov.cn) 晋
+　15-[内蒙古人大](http://www.nmgrd.gov.cn) 蒙
+　21-[辽宁人大](http://www.lnrd.gov.cn)
+　22-[吉林人大](http://www.jlrd.gov.cn)
+　23-[黑龙江人大](https://www.hljrd.gov.cn)
+　31-[上海人大](http://www.shrd.gov.cn) 沪
+　32-[江苏人大](http://www.jsrd.gov.cn) 
+　33-[浙江人大](http://www.zjrd.gov.cn) 
+　34-[安徽人大](http://www.ahrd.gov.cn) 皖
+　35-[福建人大](http://www.fjrd.gov.cn) 闽
+　36-[江西人大](http://www.jxrd.gov.cn) 赣
+　37-[山东人大](http://www.sdrd.gov.cn) 鲁
+　41-[河南人大](http://www.henanrd.gov.cn) 豫
+　42-[湖北人大](http://www.hppc.gov.cn) 鄂
+　43-[湖南人大](http://www.hnrd.gov.cn) 湘
+　44-[广东人大](http://www.rd.gd.cn) 粤
+　45-[广西人大](http://dhzt.gxrd.gov.cn) 桂
+　46-[海南人大](http://www.hainanpc.gov.cn) 琼
+　50-[重庆人大](https://www.cqrd.gov.cn) 渝
+　51-[四川人大](http://www.scspc.gov.cn)/蜀
+　52-[贵州人大](http://www.gzrd.gov.cn) /黔
+　53-[云南人大](http://www.ynrd.gov.cn) /滇
+　54-[西藏人大](http://www.xizangrd.gov.cn)
+　61-[陕西人大](http://www.sxrd.gov.cn) /秦
+　62-[甘肃人大](http://www.gsrdw.gov.cn)
+　63-[青海人大](http://www.qhrd.gov.cn)
+　64-[宁夏人大](http://www.nxrd.gov.cn)
+　65-[新疆人大](http://www.xjpcsc.gov.cn) 新
+　6590-新疆兵团[]()
+　71-台湾[]()　
+　81-香港[]()　
+　82-澳门[]()　
+
 
 <div align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -90,6 +126,7 @@
 -	中国检察听证网 [直播回顾](https://jctz.12309.gov.cn/main/live-back-view) ☁️
 -	🙋[国家检察官学院](http://www.jcgxy.org) 北京 沙河/香山
 
+　　*各省公检法网址请见：[法治政府部门集](../fuwu/fazhi)*
 
 <div id="3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -100,7 +137,6 @@
 *	中国政协网[CPPCC.gov.cn](http://www.cppcc.gov.cn)
 *	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
 *	📰[《人民政协报》](http://dzb.rmzxb.com)
-*	各省政协网址请见：[法治政府有关部门](../fuwu/fazhi)
 
 3.1 政协八个民主党派
 -------------------
@@ -128,19 +164,19 @@
 -------------------
 
 * [总工会](http://www.acftu.org/)	　 中华全国总工会
+	[中工网](http://www.workercn.cn/) 📰[《工人日报》](http://media.workercn.cn)
 	- 📠 [12351](https://www.12351.cn) 职工维权服务热线
 	- 中国工会[普法网](https://ghpf.acftu.org/)
-	- [中工网](http://www.workercn.cn/) 📰[《工人日报》](http://media.workercn.cn)
 	- 🙋直属高校（1所）：[中国劳动关系学院](https://www.culr.edu.cn)，前身为前身是1946年晋察冀边区行政干部学校
 * [共青团](http://www.gqt.org.cn/)　	 中国共产主义青年团
+	📰[《中国青年报》](http://zqb.cyol.com)
 	- 📠 12355 [青少年服务台](https://www.gqt.org.cn/xxgk/tngz_gfxwj/gfxwj/202210/t20221013_790065.htm)，“倾听心声、维护权益，专业服务、关爱成长”
-	- 📰[《中国青年报》](http://zqb.cyol.com)
-	- 少年先锋队 全国学联
+	少年先锋队 全国学联
 	- 🙋直属高校（1所）：[中央团校](https://www.zytx.org.cn) &【中国青年政治学院】，前身为1932年在江西瑞金创办的列宁团校
 	  - 党性教育基地：大别山干部学院、红旗渠干部学院、焦裕禄干部学院、浙江红船干部学院、浙江大陈岛干部学院、延安干部培训学院、沂蒙干部学院、遵义师范学院、小平干部学院。
 * [全国妇联](http://www.women.org.cn/)	　 中华全国妇女联合会
+	📰[《中国妇女报》](http://paper.cnwomen.com.cn)
 	- 📠 12338 [妇女维权](https://www.women.org.cn/2024/01/10/99675249.html)公益服务热线
-	- 📰[《中国妇女报》](http://paper.cnwomen.com.cn)
 	- 🙋直属高校（1所）：[中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
 * [中国科协](https://cast.org.cn )	　 中国科学技术协会 CAST.org.cn
 	- [科普中国](https://www.kepuchina.cn )
@@ -149,7 +185,7 @@
 * [全国台联](http://www.taiLian.org.cn/)	　 中华全国台湾同胞联谊会
 * [全国青联]()	　 中华全国青年联合会（共青团中央统战部）
 * [全国工商联](http://www.acfic.org.cn/)	　 中华全国工商业联合会
- 	📰[《中華工商時報》](http://epaper.cbt.com.cn/epaper/uniflows/html) 中华工商时报
+	📰[《中華工商時報》](http://epaper.cbt.com.cn/epaper/uniflows/html) 中华工商时报
 
 <div id="3.3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -158,11 +194,10 @@
 
 	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待考）
 
-* [中国作协](http://www.chinawriter.com.cn/)	　 中国作家协会[]()
+* [中国作协](http://www.chinawriter.com.cn/)	　 中国作家协会[]() 📰[文艺报](http://wyb.chinawriter.com.cn/)
 	- 中国作家网[作协机构](http://www.chinawriter.com.cn/zxjg/) 主管社团：
 	中国国际报告文学研究会、中国茅盾研究会、中国散文学会、中国寓言文学研究会、中国少数民族作家学会、中国小说学会、中华诗词学会、中国纪实文学研究会、中国丁玲研究会、中国赵树理研究会、中国微型小说学会、中国报告文学学会、中国武侠文学学会、中国诗歌学会、中国萧军研究会、中国笔会中心
 	- 鲁迅文学院 等[所属单位](http://www.chinawriter.com.cn/403936/403959/)
-	- 📰[文艺报](http://wyb.chinawriter.com.cn/)
 * [中国文联](http://www.cflac.org.cn/)	　 中国文学艺术界联合会 CFLac.org.cn 中国文艺网
 	- 中国戏剧家协会   - 中国电影家协会   - 中国摄影家协会   - 中国音乐家协会   - 中国美术家协会   - 中国舞蹈家协会   - 中国曲艺家协会   - 中国民间文艺家协会   - 中国书法家协会   - 中国杂技家协会   - 中国电视艺术家协会
 * [中国记协](http://www.zgjx.cn/)	　 中华全国新闻工作者协会，源于1937年 ZGJX.cn
@@ -410,7 +445,7 @@
 	(+852)<a href="http://www.gov.hk/" rel="nofollow">香港</a>　
 	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>　　
 
-   *全国三千多个市、县级政府网站请见：[中国千县政府网](qianxian)*
+   *全国三千多个市、县级政府网址请见：[中国千县地名网](qianxian)*
 
 <div id="5.1" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -579,9 +614,9 @@
 
 <div id="5.4" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5.4 国务院组成部门 🏢
+5.4 国务院组成部门 🏢 25个
 -----------------
-部委26个 及〖部委管理的国家局〗17个
+及〖部委管理的国家局〗
 
 　　
 各部委对外名称并不是‘国务院某某部’，而是‘中华人民共和国某某部’，本页面简称为‘某某部’。十八大后，国务院的部门做过较大调整；二十大后，国务院继续落实[机构改革方案](https://www.gov.cn/xinwen/2023-03/11/content_5745977.htm)，国务院网站‘组织机构’页面原入口已撤下，本页等待官方更新，暂时保持[原有部门顺序](https://www.zhihu.com/question/28026852)。
@@ -777,7 +812,7 @@ MCT，Ministry of Culture and Tourism
 	- [直属单位](https://www.mct.gov.cn/gywhb/jgsz/zsdw_jgsz/)：[国家图书馆](http://www.nlc.cn)、[国家博物馆](https://www.chnmuseum.cn)、国家话剧院、中央交响乐团、[中国美术馆](http://www.namoc.org)、中国煤矿文工团……
 	- 各种文化入选名单：[世界文化遗产](https://sjfw.mct.gov.cn/site/dataservice/culture)、国家级旅游度假区、国家级文化生态保护（实验）区
 	- [各种旅游景点名录](https://www.mct.gov.cn/tourism/)：5A级景区、红色旅游经典景区、全国乡村旅游重点村镇、五星级饭店、经营出境旅游业务旅行社……
-	- 全国文化和旅游市场[网上举报投诉](https://jbts.mct.gov.cn)　~~原12318全国文化市场举报电话、12301全国旅游投诉举报电话~~，已于2021年底前取消，并入当地12345热线
+	- 全国文化和旅游市场[网上举报投诉](https://jbts.mct.gov.cn)　~~原12318全国文化市场举报电话、12301全国旅游投诉电话~~，已于2021年取消，并入12345
 	- 社会艺术水平[考级机构名单](https://zwfw.mct.gov.cn/shysspkjjg?)
 	- [云游中国](https://lyfw.mct.gov.cn/)国家5A级景区318家、中国[红色旅游网](http://www.redtourism.com.cn)、[长城国家文化公园](http://changcheng.ctnews.com.cn/)网、长征国家文化公园
 	- （+国家文物局）
@@ -789,9 +824,8 @@ MCT，Ministry of Culture and Tourism
 	- 中华老字号[数字博物馆](http://lzhbwg.mofcom.gov.cn)
 
 * 💰 财政部	　 [MOF.gov.cn](http://www.mof.gov.cn )	📰[《中国财经报》](http://www.cfen.com.cn/dzb)
-	- [中央预决算](http://www.mof.gov.cn/zyyjsgkpt)公开平台 / 国债收益曲线
+	- [中央预决算](http://www.mof.gov.cn/zyyjsgkpt)公开平台 / 国债收益曲线 / 全国行政收费清单
 	- 全国[会计事务所](http://acc.mof.gov.cn)查询
-	- 全国行政收费清单
 	- [机构设置](http://www.mof.gov.cn/znjg/jgsz/bjg/)：预算司、金融司、国防司、社会保障司、农业农村司、 关税司（国务院关税税则委员会办公室）、国际经济关系司(港澳台办公室)、科教和文化司（中央文化企业国有资产监督管理领导小组办公室）……等。
 	- 国库司(政府采购管理办公室) [GKS.MOF](http://gks.mof.gov.cn/)
 	  - [中国政府采购网](http://www.ccgp.gov.cn/) 政府采购合同公告，采购公告[搜索平台](http://search.ccgp.gov.cn/bxsearch)
@@ -851,7 +885,7 @@ MCT，Ministry of Culture and Tourism
 	老生常谈© 2019-2025 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.4	202502
+	中央有关部门集	v1.4.5	202502
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
