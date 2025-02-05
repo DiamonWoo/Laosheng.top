@@ -20,7 +20,7 @@
 -----------
 *	1 [人大](#1-全国人民代表大会){:target="_top"}　🟥
 *	2 [两高](#2-最高法和最高检){:target="_top"}　⚖️⚔️
-*	3 [人民政协](#3){:target="_top"}
+*	3 [人民政协](#3){:target="_top"}🟩
 	* 3.1 八个民主党派、 3.2 八个[人民团体](#3.2){:target="_top"}、 3.3 [其他社会团体](#3.1){:target="_top"}　
 *	4 [中共中央](#4){:target="_top"}
 	* 4.1 [职能部门](#4.1){:target="_top"}、  4.2 [办事机构](#4.2){:target="_top"}、 4.3 [事业单位](#4.4){:target="_top"}、 4.4 [派出机关](#4.4){:target="_top"}
@@ -128,12 +128,14 @@
 
 <div id="3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-3 人民政协<img src="CPPCC-64-16.png">
-=========
-中国人民政治协商会议
 
-*	中国政协网[CPPCC.gov.cn](http://www.cppcc.gov.cn)
-*	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/) 机构组成：34个界别/10个专门委员会
+3 中国人民政治协商会议
+======================
+
+🟩 中国政协网	[CPPCC.gov.cn](http://www.cppcc.gov.cn)　
+
+*	政协[全国委员会](http://www.cppcc.gov.cn/zxww/newcppcc/jgzc/)
+机构组成：34个界别/10个专门委员会 <img src="CPPCC-64-16.png" align="right">
 *	📰[《人民政协报》](http://dzb.rmzxb.com)
 
 3.1 政协八个民主党派
@@ -254,11 +256,9 @@
   - 中央军事委员会	　 （中央军委）Gov.cn[介绍](http://www.gov.cn/guoqing/dhgjjg/824571306.htm)
     - 陆军、海军、空军、火箭军、武装警察部队
       - 🚨 95110 武警部队[中国海警局](http://www.ccg.gov.cn/95110)海上报警电话：走私/污染/海上刑案/涉渔纠纷
-    - 🙋 军队院校　　军改之后，2017年公布了43所军队院校名单，请见“[高校所](yuanxiao)”
-      - 军委直属院校2所：中国人民解放军 [国防大学]()<small>（起源于1927年毛泽东在井冈山创建的红军教导队，2017年重组，校区分布于北京、西安、南京、上海等地）</small>、中国人民解放军 [国防科技大学](https://www.nudt.edu.cn/)<small>（湖南长沙，前身为抗美援朝时期 哈军工）</small>
-      - 军兵种院校35所，陆军12所，海军8所，空军10所，火箭军3所，战略支援军2所，
-      - 武警部队院校6所。
-      - 原国防七校已划归工信部。
+    - 🙋 军委直属院校2所：中国人民解放军 [国防大学]()<small>（起源于1927年毛泽东在井冈山创建的红军教导队，2017年重组，校区分布于北京、西安、南京、上海等地）</small>、中国人民解放军 [国防科技大学](https://www.nudt.edu.cn/)<small>（湖南长沙，前身为抗美援朝时期 哈军工）</small>
+    - 军改之后，2017年公布了43所军队院校名单，2018年增加1所，详见“[高校所](yuanxiao)”，其中：
+	军兵种院校35所，武警部队院校7所。原国防七校已划归工信部。
 
 * 中央纪律检查委员会/【国家监察委员会】	　 [CCDI.gov.cn](https://www.ccdi.gov.cn) 中央纪委/国家监委
   - ☎️ 12388 [网上举报](https://www.12388.gov.cn ) 反四风/违反八项规定
@@ -332,9 +332,10 @@
 	- 📰[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
 
 * 中央[社会工作部](https://www.zyshgzb.gov.cn)	　 20241001网站试运行
-	- 领导全国信访工作、志愿者工作
-	- 北京日报：[社工部机构职能特点](https://www.ccps.gov.cn/xwpd/mtsd/202307/t20230717_158662.shtml)及央地对应关系答问
-	-  📰[《报》]()
+	- 领导全国信访工作、志愿者工作。
+	北京日报：[社工部机构职能特点](https://www.ccps.gov.cn/xwpd/mtsd/202307/t20230717_158662.shtml)及央地对应关系答问
+	-  📰[中国社会工作报](https://www.zyshgzb.gov.cn/459402/)、《乡镇论坛》、《社区》
+
 
 <div id="4.2" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -845,7 +846,6 @@ MCT，Ministry of Culture and Tourism
 	- 审计专业技术资格考试
 	- 中国[审计学会](https://www.audit.gov.cn/web772/)、中国[审计博物馆](http://auditmuseum.icnao.cn/museum/)、
 	《中国审计报》
-
 
 <hr>
 <div id="6" align="right"><a href="#mulu" target="_self">↑Top</a></div>
