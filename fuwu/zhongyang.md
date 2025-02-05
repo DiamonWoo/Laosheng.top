@@ -292,23 +292,22 @@
 	- ☎️ 12371 [党务问答](https://wenda.12371.cn/) 党员咨询服务电话
 	- 党的[思想理论](https://www.12371.cn/special/sxll/) 党和国家领导人著作、马克思恩格斯全集、资本论
 	- 党内[统计公报](https://news.12371.cn/dzybmbdj/zzb/dntjgb/)
-	
 	- +【国家公务员局】[SCS.Gov.cn](http://www.scs.gov.cn/)
 	- ☎️ [12380举报网站](http://www.12380.gov.cn ) 受理选人用人、干部作风等方面问题，举报跑官买官
 
-* 中央宣传部	　 中宣部　[*直属中央媒体*](../fly)
+* 中央宣传部	　中宣部
+	- [中国文明网](http://www.wenming.cn)（中央精神文明建设办公室）
 	- ☎️ 12361 宣传舆情研究中心 服务电话
 	  - 学习强国[网站](https://www.xuexi.cn/) 和App，值班电话：010-55624303、010-55624311。
-	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】
-	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】
+	- +【[国务院新闻办公室](http://www.scio.gov.cn/)】　[*直属中央媒体*](../fly)
+	- +【[国家新闻出版署](http://www.nppa.gov.cn/)】NPPA
 	  - [从业机构查询](https://www.nppa.gov.cn/nppa/channels/296.shtml)：报纸杂志出版社、光盘、游戏
 	  - 中国记者网 [记者证查询](https://press.nppa.gov.cn/) / 单位违规
+	- +【[国家版权局](http://www.ncac.gov.cn/)】NCAC
 	- +【[国家电影局](http://www.chinafilm.gov.cn/)】 *2018年，电影管理职责由国务院广电总局划转中宣部*
 	  - 中国电影[华表奖](https://www.chinafilm.gov.cn/chinafilm/channels/147.shtml) / 电影备案立项公示、公映许可证等[公示信息](https://www.chinafilm.gov.cn/chinafilm/channels/167.shtml)
 	  - [全国点播影院](https://gjdbyy.cn/)、点播设备、点播院线等。
 	  - 中国电影资料馆[概述](https://www.cfa.org.cn/cfa/ljwm/gs/)；电影目录查询（数据库建设中）。
-	- +【[国家版权局](http://www.ncac.gov.cn/)】
-	- +代管 中央文明办[中国文明网](http://www.wenming.cn)
 	- 中国外文出版发行事业局　 [中国外文局](http://www.cipg.org.cn) 中宣部管理的事业单位，对外称：CICG 中国国际传播集团　*参见“🔥[中央外宣云媒体](../fly/waixuan)”*
 
 * [中央统战部](http://www.zytzb.gov.cn)	　 ZYTZB.gov.cn 中共中央统一战线工作部
