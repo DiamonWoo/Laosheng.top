@@ -16,7 +16,7 @@
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/部门集
 </div>
 
-有关部门总目
+<部门集>总目
 -----------
 *	1 [人大](#1-全国人民代表大会){:target="_top"}　🟥
 *	2 [两高](#2-最高法和最高检){:target="_top"}　⚖️⚔️
@@ -265,7 +265,7 @@
   - [党纪法规库](https://www.ccdi.gov.cn/fgk/index )
   - 📰[《中国纪检监察报》](http://www.jjjcb.cn ) 、[《中国纪检监察》杂志](http://zgjjjc.ccdi.gov.cn/)
   - 全国省级/副省级[地方纪检监察机关](https://www.ccdi.gov.cn/wzdh/ ) / [委员名单](https://www.ccdi.gov.cn/special/jctxlbd/)  
-	  35-1个省级廉政监督机关请见：[法治政府有关部门](../fuwu/fazhi)，包含新疆兵团、香港、澳门，不含台湾。
+
 
 <div id="4.1" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
@@ -318,18 +318,17 @@
 	- +【国务院港澳事务办公室】[港澳办](https://www.hmo.gov.cn)
 	- 🙋直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
 
-* [中联部](https://www.idcpc.org.cn) 	　IDCPC.org.cn 中共中央对外联络部
-	- [联络动态](https://www.idcpc.org.cn/lldt/)	　 中联部[新闻办头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAghix0viBI60n7U2S6QD2G1N8hepls4WVQUUXBfdXNU4)
-	- 中央精神宣介会[会议论坛](https://www.idcpc.org.cn/ztwy/hytl/)
+* 中联部　[IDCPC.org.cn](https://www.idcpc.org.cn){:rel="nofollow"}	中共中央对外联络部
+（疑似拒绝外站链入）[英文版](https://www.idcpc.org.cn/english/){:rel="nofollow"}
+	- [联络动态](https://www.idcpc.org.cn/lldt/){:rel="nofollow"}　 中联部[新闻办](https://www.toutiao.com/c/user/78755145987421/)头条号
+	- 中央精神宣介会[会议论坛](https://www.idcpc.org.cn/ztwy/hytl/){:rel="nofollow"}
 	- 《[图解中共：中共如何选拔任用党政领导干部？](http://www.idcpc.gov.cn/ljwd/tupianji/202001/t20200102_137380.html)》
-	- [网站英文版](https://www.idcpc.org.cn/english/)
-	- [世界政党](https://www.idcpc.org.cn/wdzs/sjzd/)动态，各种选举与领导人新闻。
+	- [世界政党](https://www.idcpc.org.cn/wdzs/sjzd/){:rel="nofollow"}动态，各种选举与领导人新闻。
 
 * 中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/) 中国长安网
 	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
 	- ☎️ [12337](http://www.12337.gov.cn/) 政法干警违纪违法举报平台 政法队伍教育整顿/扫黑除恶专项斗争
-	- 微信公众号：中央政法委长安剑
-	- 📰[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")
+	- 📰[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm "中央政法委机关报")，微信公众号：中央政法委长安剑
 
 * 中央[社会工作部](https://www.zyshgzb.gov.cn)	　 20241001网站试运行
 	- 领导全国信访工作、志愿者工作。
