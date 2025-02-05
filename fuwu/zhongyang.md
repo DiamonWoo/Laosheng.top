@@ -317,12 +317,12 @@
 	- +【国务院港澳事务办公室】[港澳办](https://www.hmo.gov.cn)
 	- 🙋直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
 
-* 中联部　[IDCPC.org.cn](https://www.idcpc.org.cn){:rel="nofollow"}	中共中央对外联络部
-（疑似拒绝外站链入）[英文版](https://www.idcpc.org.cn/english/){:rel="nofollow"}
-	- [联络动态](https://www.idcpc.org.cn/lldt/){:rel="nofollow"}　 中联部[新闻办](https://www.toutiao.com/c/user/78755145987421/)头条号
-	- 中央精神宣介会[会议论坛](https://www.idcpc.org.cn/ztwy/hytl/){:rel="nofollow"}
+* 中联部　[IDCPC.org.cn](https://www.idcpc.org.cn){:rel="noreferrer"}	中共中央对外联络部
+（疑似拒绝外站链入）[英文版](https://www.idcpc.org.cn/english/){:rel="noreferrer"}
+	- [联络动态](https://www.idcpc.org.cn/lldt/){:rel="noreferrer"}　 中联部[新闻办](https://www.toutiao.com/c/user/78755145987421/)头条号
+	- 中央精神宣介会[会议论坛](https://www.idcpc.org.cn/ztwy/hytl/){:rel="noreferrer"}
 	- 《[图解中共：中共如何选拔任用党政领导干部？](http://www.idcpc.gov.cn/ljwd/tupianji/202001/t20200102_137380.html)》
-	- [世界政党](https://www.idcpc.org.cn/wdzs/sjzd/){:rel="nofollow"}动态，各种选举与领导人新闻。
+	- [世界政党](https://www.idcpc.org.cn/wdzs/sjzd/){:rel="noreferrer"}动态，各种选举与领导人新闻。
 
 * 中央政法委员会	　 [ChinaPeace.gov.cn](http://www.chinapeace.gov.cn/) 中国长安网
 	- 中共中央[全面依法治国委员会](http://www.moj.gov.cn/Department/node_582.html)，办公室设在司法部
