@@ -334,7 +334,7 @@
 * 中央[社会工作部](https://www.zyshgzb.gov.cn)	　 20241001网站试运行
 	- 领导全国信访工作、志愿者工作。
 	北京日报：[社工部机构职能特点](https://www.ccps.gov.cn/xwpd/mtsd/202307/t20230717_158662.shtml)及央地对应关系答问
-	-  📰[中国社会工作报](https://www.zyshgzb.gov.cn/459402/)、《乡镇论坛》、《社区》
+	-  📰[中国社会工作报](https://www.zyshgzb.gov.cn/459402/)、《乡镇论坛》、《社区》杂志
 
 
 <div id="4.2" align="right"><a href="#mulu" target="_self">↑Top</a></div>
@@ -406,45 +406,43 @@
 <br>　
 	<a href="http://www.beijing.gov.cn/" rel="nofollow">北京</a>(010)　
 	<a href="http://www.tj.gov.cn/">天津</a>(022)　
-	<a href="http://www.hebei.gov.cn/">河北</a>(0311 石家庄)　
-	<a href="http://www.shanxi.gov.cn/">山西</a>(0351 太原)　
-	<a href="http://www.nmg.gov.cn/">内蒙古</a>(0471 呼和浩特)　
-<br>　
-	<a href="http://www.ln.gov.cn">辽宁</a>(024 沈阳)　
-	<a href="http://www.jl.gov.cn">吉林</a>(0431 长春)　
-	<a href="http://www.hlj.gov.cn">黑龙江</a>(0451 哈尔滨)　
+	<a href="http://www.hebei.gov.cn/">河北</a>(石家庄 0311)　
+	<a href="http://www.shanxi.gov.cn/">山西</a>(太原 0351)　
+	<a href="http://www.nmg.gov.cn/">内蒙古</a>(呼和浩特 0471)　
+	<a href="http://www.ln.gov.cn">辽宁</a>(沈阳 024)　
+	<a href="http://www.jl.gov.cn">吉林</a>(长春 0431)　
+	<a href="http://www.hlj.gov.cn">黑龙江</a>(哈尔滨 0451)　
 <br>　
 	<a href="http://www.shanghai.gov.cn/">上海</a>(020)　
-	<a href="http://www.jiangsu.gov.cn/">江苏</a>(025 南京)　
-	<a href="http://www.zj.gov.cn/">浙江</a>(0571 杭州)　
-	<a href="http://www.ah.gov.cn/">安徽</a>(0551 合肥)　
-	<a href="http://www.fujian.gov.cn">福建</a>(0591 福州)　
-	<a href="http://www.jiangxi.gov.cn">江西</a>(0791 南昌)　
-	<a href="http://www.shandong.gov.cn/">山东</a>(0531 济南)　
+	<a href="http://www.jiangsu.gov.cn/">江苏</a>(南京 025)　
+	<a href="http://www.zj.gov.cn/">浙江</a>(杭州 0571)　
+	<a href="http://www.ah.gov.cn/">安徽</a>(合肥 0551)　
+	<a href="http://www.fujian.gov.cn">福建</a>(福州 0591)　
+	<a href="http://www.jiangxi.gov.cn">江西</a>(南昌 0791)　
+	<a href="http://www.shandong.gov.cn/">山东</a>(济南 0531)　
 <br>　
-	<a href="http://www.henan.gov.cn/">河南</a>(0731 郑州)　
-	<a href="http://www.hubei.gov.cn/">湖北</a>(027 武汉)　
-	<a href="http://www.hunan.gov.cn/">湖南</a>(0731 长沙)　
-	<a href="http://www.gd.gov.cn/">广东</a>(020 广州)　
-	<a href="http://www.gxzf.gov.cn/">广西</a>(0771 南宁)　
-	<a href="http://www.hainan.gov.cn/">海南</a>(0898 海口)　
+	<a href="http://www.henan.gov.cn/">河南</a>(郑州 0731)　
+	<a href="http://www.hubei.gov.cn/">湖北</a>(武汉 027)　
+	<a href="http://www.hunan.gov.cn/">湖南</a>(长沙 0731)　
+	<a href="http://www.gd.gov.cn/">广东</a>(广州 020)　
+	<a href="http://www.gxzf.gov.cn/">广西</a>(南宁 0771)　
+	<a href="http://www.hainan.gov.cn/">海南</a>(海口 0898)　
 <br>　
 	<a href="http://www.cq.gov.cn/">重庆</a>(023)　
-	<a href="http://www.sc.gov.cn">四川</a>(028 成都)　
-	<a href="http://www.guizhou.gov.cn/">贵州</a>(0851 贵阳)　
-	<a href="http://www.yn.gov.cn/">云南</a>(0871 昆明)　
-	<a href="http://www.xizang.gov.cn/">西藏</a>(0891 拉萨)　
+	<a href="http://www.sc.gov.cn">四川</a>(成都 028)　
+	<a href="http://www.guizhou.gov.cn/">贵州</a>(贵阳 0851)　
+	<a href="http://www.yn.gov.cn/">云南</a>(昆明 0871)　
+	<a href="http://www.xizang.gov.cn/">西藏</a>(拉萨 0891)　
 <br>　
-	<a href="http://www.shaanxi.gov.cn/">陕西</a>(029 西安)　
-	<a href="http://www.gansu.gov.cn/">甘肃</a>(0931 兰州)　
-	<a href="http://www.qh.gov.cn/">青海</a>(0971 西宁)　
-	<a href="http://www.nx.gov.cn/">宁夏</a>(0951 银川)　
-	<a href="http://www.xinjiang.gov.cn/">新疆</a>(0991 乌鲁木齐)
-	<a href="http://www.xjbt.gov.cn/">新疆生产建设兵团</a>
-<br>　
-	(+886)<a class="nohover" rel="nofollow">台湾</a>　　
+	<a href="http://www.shaanxi.gov.cn/">陕西</a>(西安 029)　
+	<a href="http://www.gansu.gov.cn/">甘肃</a>(兰州 0931)　
+	<a href="http://www.qh.gov.cn/">青海</a>(西宁 0971)　
+	<a href="http://www.nx.gov.cn/">宁夏</a>(银川 0951)　
+	<a href="http://www.xinjiang.gov.cn/">新疆</a>(乌鲁木齐 0991)　
+	<a href="http://www.xjbt.gov.cn/">新疆生产建设兵团</a>　
+	(+886)<a class="nohover" rel="nofollow">台湾</a>　
 	(+852)<a href="http://www.gov.hk/" rel="nofollow">香港</a>　
-	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>　　
+	(+853)<a href="http://www.gov.mo/" rel="nofollow">澳门</a>
 
    *全国三千多个市、县级政府网址请见：[中国千县地名网](qianxian)*
 
@@ -885,7 +883,7 @@ MCT，Ministry of Culture and Tourism
 	老生常谈© 2019-2025 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.5	202502
+	中央有关部门集	v1.4.6	202502
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
