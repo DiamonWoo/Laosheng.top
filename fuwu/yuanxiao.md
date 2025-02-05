@@ -382,7 +382,7 @@
 *	澳门教育及青年发展局--學校、機構--[澳門高等院校連結](https://portal.dsedj.gov.mo/webdsejspace/internet/Inter_main_page.jsp?id=80123&)
 *	2022年8月，台湾省教育部门公布《[大专院校名录](https://depart.moe.edu.tw/ED4500/News_Content.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3&s=AE2D16F8A1094E9C)》，csv等三种格式，繁体中文。
 *	201908，[中国高职发展智库](http://www.zggzzk.com/redianzixun/shownews.php?id=405)的文章：盘点：76所企业举办的公办高职院校。
-*	201706，人民网：国防部公布43所调整改革后[军队院校名称](http://military.people.com.cn/n1/2017/0629/c1011-29372347.html)
+*	201706，人民网：国防部公布43所调整改革后[军队院校名称](http://military.people.com.cn/n1/2017/0629/c1011-29372347.html)、[网址2](https://www.dxsbb.com/news/40871.html)、[网址3](https://new.qq.com/omn/20191224/20191224A0DH5Q00.html)
 
 <h3>改革近况</h3>
 
