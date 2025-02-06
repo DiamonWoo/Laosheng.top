@@ -21,14 +21,14 @@
 *	1 [人大](#1-全国人民代表大会){:target="_top"}　🟥
 *	2 [两高](#2-最高法和最高检){:target="_top"}　⚖️⚔️
 *	3 [人民政协](#3){:target="_top"}🟩
-	* 3.1 八个民主党派、 3.2 八个[人民团体](#3.2){:target="_top"}、 3.3 [其他社会团体](#3.1){:target="_top"}　
+	* 3.1 八个民主党派、 3.2 八个人民团体、 3.3 [其他社会团体](#3.3){:target="_top"}　
 *	4 [中共中央](#4){:target="_top"}
-	* 4.1 [职能部门](#4.1){:target="_top"}、  4.2 [办事机构](#4.2){:target="_top"}、 4.3 [事业单位](#4.4){:target="_top"}、 4.4 [派出机关](#4.4){:target="_top"}
+	* 4.1 [职能部门](#4.1){:target="_top"}、  4.2 [办事机构](#4.2){:target="_top"}、 4.3 事业单位、 4.4 派出机关
 *	5 [国务院](#5){:target="_top"}　🟦
 	* 5.1 [办事机构](#5.1){:target="_top"}、 5.2 [直属机构](#5.2){:target="_top"}(总局总署)、 5.3 [事业单位](#5.3){:target="_top"}、 5.4 [部委与国家局](#5.4){:target="_top"}：  
 	外交部、国防部、国安部、公安部、司法部、退役军人部、应急管理部；  
-	发改委、工信部、科技部、教育部、人社部、民政部、民委、卫健委；  
-	生态环境部、自然资源部、水利部、住建部、交通部、文旅部、商务部、财政部、人行、审计署。
+	[发改委](#fgw){:target="_top"}、工信部、科技部、教育部、人社部、民政部、民委、卫健委；  
+	生态环境部、自然资源部、水利部、住建部、交通部、[文旅部](#wlb){:target="_top"}、商务部、财政部、人行、审计署。
 *	[编制依据](#6){:target="_top"} / [图例](#图例){:target="_top"}
 
 改革近况
@@ -138,8 +138,8 @@
 机构组成：34个界别/10个专门委员会 <img src="CPPCC-64-16.png" align="right">
 *	📰[《人民政协报》](http://dzb.rmzxb.com)
 
-3.1 政协八个民主党派
--------------------
+3.1 八个民主党派
+----------------
 
 * [民革](http://www.minge.gov.cn/)	　 中国国民党革命委员会
 	📰[《团结报》](http://paper.tuanjiewang.cn/tjb)	团结网/《团结》杂志 []()
@@ -158,10 +158,8 @@
 * [台盟](https://www.taimeng.org.cn/)	　 台湾民主自治同盟
 	《台盟》[]()
 
-<div id="3.2" align="right"><a href="#mulu" target="_self">↑Top</a></div>
-
-3.2 政协八个人民团体
--------------------
+3.2 八个人民团体
+----------------
 
 * [总工会](http://www.acftu.org/)	　 中华全国总工会
 　	[中工网](http://www.workercn.cn/) 📰[《工人日报》](http://media.workercn.cn)
@@ -189,8 +187,8 @@
 
 <div id="3.3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-3.3 其他社会团体 🏙
----------------
+3.3 政协其他社会团体 🏙
+--------------------
 
 	在政协之外的免于在民政部登记的人民团体、群众团体。（应以中编办公布为准，待考）
 
@@ -212,11 +210,9 @@
 　	📰[《华夏时报》](http://www.cdpf.org.cn)
 	- 📞 12385 全国残疾人维权服务电话 双号并行
 	- 中国狮子联会 / 中国听力语言服务网 / 中国特奥会
-* 中国宋庆龄基金会	　 []()
-* [中国法学会](https://www.chinaLaw.org.cn/)	
-　	📰[《民主与法制时报》](http://e.mzyfz.com)
-* [红十字会](http://www.RedCrossOL.com/)	　 中国红十字会总会 中红在线 RedCrossOL.com
-	- 📰[《中国红十字报》](http://news.redcrossol.com)
+* 中国宋庆龄基金会	　 [SCLF](https://www.sclf.org) 北京 / [中国福利会](http://www.cwi.org.cn/) 上海
+* [中国法学会](https://www.chinaLaw.org.cn/)	　📰 [民主与法制时报](http://e.mzyfz.com)
+* 中国[红十字会](http://www.RedCrossOL.com/)总会　 中红在线 📰 [中国红十字报](http://news.redcrossol.com)
 * [中国政研会](http://www.wenming.cn/zyh/)	　 中国思想政治工作研究会，1983年成立
 * [欧美同学会](http://www.wrsa.net/)	　 中国留学人员联谊会
 * [黄埔同学会](http://www.huangpu.org.cn/)	　 黄浦军校同学会
@@ -305,9 +301,6 @@
 	  - 中国记者网 [记者证查询](https://press.nppa.gov.cn/) / 单位违规
 	- +【[国家版权局](http://www.ncac.gov.cn/)】NCAC
 	- +【[国家电影局](http://www.chinafilm.gov.cn/)】 *2018年，电影管理职责由国务院广电总局划转中宣部*
-	  - 中国电影[华表奖](https://www.chinafilm.gov.cn/chinafilm/channels/147.shtml) / 电影备案立项公示、公映许可证等[公示信息](https://www.chinafilm.gov.cn/chinafilm/channels/167.shtml)
-	  - [全国点播影院](https://gjdbyy.cn/)、点播设备、点播院线等。
-	  - 中国电影资料馆[概述](https://www.cfa.org.cn/cfa/ljwm/gs/)；电影目录查询（数据库建设中）。
 	- 中国外文出版发行事业局　 [中国外文局](http://www.cipg.org.cn) 中宣部管理的事业单位，对外称：CICG 中国国际传播集团　*参见“🔥[中央外宣云媒体](../fly/waixuan)”*
 
 * [中央统战部](http://www.zytzb.gov.cn)	　 ZYTZB.gov.cn 中共中央统一战线工作部
@@ -317,8 +310,9 @@
 	- +【国务院港澳事务办公室】[港澳办](https://www.hmo.gov.cn)
 	- 🙋直属高校（2所）：[暨南大学]()（广东）、[华侨大学]()（福建）
 
-* 中联部　[IDCPC.org.cn](https://www.idcpc.org.cn){:rel="noreferrer"}	中共中央对外联络部
-（疑似拒绝外站链入）[英文版](https://www.idcpc.org.cn/english/){:rel="noreferrer"}
+* 中联部　[IDCPC.org.cn](https://www.idcpc.org.cn){:rel="noreferrer"} 	 中共中央对外联络部
+（疑似拒绝外站链入）
+	- [英文版](https://www.idcpc.org.cn/english2023/){:rel="noreferrer"}、China [insight](https://www.idcpc.gov.cn/yyfw/zgkx/ '中国快讯')
 	- [联络动态](https://www.idcpc.org.cn/lldt/){:rel="noreferrer"}　 中联部[新闻办](https://www.toutiao.com/c/user/78755145987421/)头条号
 	- 中央精神宣介会[会议论坛](https://www.idcpc.org.cn/ztwy/hytl/){:rel="noreferrer"}
 	- 《[图解中共：中共如何选拔任用党政领导干部？](http://www.idcpc.gov.cn/ljwd/tupianji/202001/t20200102_137380.html)》
@@ -381,16 +375,15 @@
 
 <div id="5" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5 国务院
+5 国务院<sup>中央人民政府</sup>
 ========
-中央人民政府
+🟦 **中国政府网**	 　[Gov.CN](https://www.gov.cn)
 
 		2024年《国务院组织法》第五条
 		　国务院由总理、副总理、国务委员、各部部长、各委员会主任、中国人民银行行长、审计长、秘书长组成……
 
-🟦 **中国政府网**	 　[Gov.CN](https://www.gov.cn)  
--	全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/) / 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 -	国务院网站 [组织机构](http://www.gov.cn/guowuyuan/zuzhi.htm )页面 / [部门网站](https://www.gov.cn/home/2023-03/29/content_5748953.htm)链接
+-	全国政务服务总门户	 　[Gov.CN/fuwu](http://www.gov.cn/fuwu/) / 国家政府服务平台 [GJZWFW.www.gov](http://gjzwfw.www.gov.cn ) （试运行，包含44个部门一千多项政务服务）
 -	[行政法规库](http://www.gov.cn/zhengce/xzfgk/)页面 超过600件行政法规。
 	- 《[2019-政府信息公开条例](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)》，[解读](http://china.qianlong.com/2019/0416/3221678.shtml)
 -	[我给总理说句话](http://www.gov.cn/hudong/xzlwh.htm ) 请于早7点至晚9点间留言
@@ -400,43 +393,43 @@
 -	📞 12345 政务服务便民热线 （全国统一，接通本地） 一二三四五，有事找政府。  
 	（以下服务号码关闭：~~科技公益服务-12396、知识产权维权援助公益服务-12330、电信用户申诉渠道-12300、自然资源违法举报-12336、旅游资讯服务电话-12301、价格投诉举报-12358、商务领域举报投诉咨询-12312、民政服务-12349、计划生育法律法规咨询及举报-12356、食品药品监督举报服务-12331、质量技术监督系统和出入境检验检疫-12365、防震减灾公益服务-12322、火灾隐患举报投诉-96119~~，整体并入12345。）
 
-各省级政府网站(按身份证号顺序，后面数字是电话区号及省会城市)：
+各省级政府网站(按身份证号顺序，括号内是省会城市和电话区号)：
 <br>　
-	<a href="http://www.beijing.gov.cn/" rel="nofollow">北京</a>(010)　
-	<a href="http://www.tj.gov.cn/">天津</a>(022)　
-	<a href="http://www.hebei.gov.cn/">河北</a>(石家庄 0311)　
-	<a href="http://www.shanxi.gov.cn/">山西</a>(太原 0351)　
-	<a href="http://www.nmg.gov.cn/">内蒙古</a>(呼和浩特 0471)　
-	<a href="http://www.ln.gov.cn">辽宁</a>(沈阳 024)　
-	<a href="http://www.jl.gov.cn">吉林</a>(长春 0431)　
-	<a href="http://www.hlj.gov.cn">黑龙江</a>(哈尔滨 0451)　
+	<a href="http://www.beijing.gov.cn/" rel="nofollow">北京</a> (**010**)　
+	<a href="http://www.tj.gov.cn/">天津</a> (**022**)　
+	<a href="http://www.hebei.gov.cn/">河北</a> (石家庄 0311)　
+	<a href="http://www.shanxi.gov.cn/">山西</a> (太原 0351)　
+	<a href="http://www.nmg.gov.cn/">内蒙古</a> (呼和浩特 0471)　
+	<a href="http://www.ln.gov.cn">辽宁</a> (沈阳 **024**)　
+	<a href="http://www.jl.gov.cn">吉林</a> (长春 0431)　
+	<a href="http://www.hlj.gov.cn">黑龙江</a> (哈尔滨 0451)
 <br>　
-	<a href="http://www.shanghai.gov.cn/">上海</a>(020)　
-	<a href="http://www.jiangsu.gov.cn/">江苏</a>(南京 025)　
-	<a href="http://www.zj.gov.cn/">浙江</a>(杭州 0571)　
-	<a href="http://www.ah.gov.cn/">安徽</a>(合肥 0551)　
-	<a href="http://www.fujian.gov.cn">福建</a>(福州 0591)　
-	<a href="http://www.jiangxi.gov.cn">江西</a>(南昌 0791)　
-	<a href="http://www.shandong.gov.cn/">山东</a>(济南 0531)　
+	<a href="http://www.shanghai.gov.cn/">上海</a> (**020**)　
+	<a href="http://www.jiangsu.gov.cn/">江苏</a> (南京 **025**)　
+	<a href="http://www.zj.gov.cn/">浙江</a> (杭州 0571)　
+	<a href="http://www.ah.gov.cn/">安徽</a> (合肥 0551)　
+	<a href="http://www.fujian.gov.cn">福建</a> (福州 0591)　
+	<a href="http://www.jiangxi.gov.cn">江西</a> (南昌 0791)　
+	<a href="http://www.shandong.gov.cn/">山东</a> (济南 0531)
 <br>　
-	<a href="http://www.henan.gov.cn/">河南</a>(郑州 0731)　
-	<a href="http://www.hubei.gov.cn/">湖北</a>(武汉 027)　
-	<a href="http://www.hunan.gov.cn/">湖南</a>(长沙 0731)　
-	<a href="http://www.gd.gov.cn/">广东</a>(广州 020)　
-	<a href="http://www.gxzf.gov.cn/">广西</a>(南宁 0771)　
-	<a href="http://www.hainan.gov.cn/">海南</a>(海口 0898)　
+	<a href="http://www.henan.gov.cn/">河南</a> (郑州 0731)　
+	<a href="http://www.hubei.gov.cn/">湖北</a> (武汉 **027**)　
+	<a href="http://www.hunan.gov.cn/">湖南</a> (长沙 0731)　
+	<a href="http://www.gd.gov.cn/">广东</a> (广州 **020**)　
+	<a href="http://www.gxzf.gov.cn/">广西</a> (南宁 0771)　
+	<a href="http://www.hainan.gov.cn/">海南</a> (海口 0898)
 <br>　
-	<a href="http://www.cq.gov.cn/">重庆</a>(023)　
-	<a href="http://www.sc.gov.cn">四川</a>(成都 028)　
-	<a href="http://www.guizhou.gov.cn/">贵州</a>(贵阳 0851)　
-	<a href="http://www.yn.gov.cn/">云南</a>(昆明 0871)　
-	<a href="http://www.xizang.gov.cn/">西藏</a>(拉萨 0891)　
+	<a href="http://www.cq.gov.cn/">重庆</a> (**023**)　
+	<a href="http://www.sc.gov.cn">四川</a> (成都 **028**)　
+	<a href="http://www.guizhou.gov.cn/">贵州</a> (贵阳 0851)　
+	<a href="http://www.yn.gov.cn/">云南</a> (昆明 0871)　
+	<a href="http://www.xizang.gov.cn/">西藏</a> (拉萨 0891)
 <br>　
-	<a href="http://www.shaanxi.gov.cn/">陕西</a>(西安 029)　
-	<a href="http://www.gansu.gov.cn/">甘肃</a>(兰州 0931)　
-	<a href="http://www.qh.gov.cn/">青海</a>(西宁 0971)　
-	<a href="http://www.nx.gov.cn/">宁夏</a>(银川 0951)　
-	<a href="http://www.xinjiang.gov.cn/">新疆</a>(乌鲁木齐 0991)　
+	<a href="http://www.shaanxi.gov.cn/">陕西</a> (西安 **029**)　
+	<a href="http://www.gansu.gov.cn/">甘肃</a> (兰州 0931)　
+	<a href="http://www.qh.gov.cn/">青海</a> (西宁 0971)　
+	<a href="http://www.nx.gov.cn/">宁夏</a> (银川 0951)　
+	<a href="http://www.xinjiang.gov.cn/">新疆</a> (乌鲁木齐 0991)　
 	<a href="http://www.xjbt.gov.cn/">新疆生产建设兵团</a>　
 	(+886)<a class="nohover" rel="nofollow">台湾</a>　
 	(+852)<a href="http://www.gov.hk/" rel="nofollow">香港</a>　
@@ -464,12 +457,20 @@
 
 <div id="5.2" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5.2 国务院直属机构/<sup>直属特设机构</sup>
+5.2 国务院直属<sup>(特设)</sup>机构
 -----------------
 （总局总署）
 
-	2024年《国务院组织法》第十三条
-	　国务院可以根据工作需要和优化协同高效精简的原则，按照规定程序设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人，由国务院任免。
+		2024年《国务院组织法》第十三条
+		　国务院可以根据工作需要和优化协同高效精简的原则，按照规定程序设立若干直属机构主管各项专门业务，设立若干办事机构协助总理办理专门事项。每个机构设负责人二至五人，由国务院任免。
+
+* 国资委<sup>直属特设机构</sup>	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国有资产监督管理委员会
+	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
+	- 中国钢铁新闻网 📰[《中国冶金报》](http://epaper.csteelnews.com)  *了解更多中央国企，请见[央企股票全家福](yangqi)*
+
+* 供销总社<sup>参公管理机构</sup>	　 中华全国供销合作总社 正部级
+	- COOP[中国供销合作网](http://www.chinacoop.gov.cn)
+	- 📰 [中华合作时报](http://szb.zh-hz.com )
 
 * 〖国家信访局〗 [GJXFJ.gov.cn](https://www.gjxfj.gov.cn)  提供网上信访服务
 	- 2023年3月，国家信访局 升级为国务院直属机构，原属国务院办公厅。
@@ -553,15 +554,6 @@
 
 * 国家反垄断局	　 [网址待公布](https://www.samr.gov.cn/xw/zj/202111/t20211118_336974.html) 2021年11月亮相，承办国务院反垄断委员会日常工作。
 	- 。。。
-
-* 国有资产监督管理委员会	　 [SASAC.gov.cn](http://www.sasac.gov.cn/) 国资委<sup>直属特设机构</sup>
-	- [中央企业](http://www.sasac.gov.cn/n2588035/n2641579/)	　 96家央企：中航/中船/中车/中石油/中石化/华能/华电/华润/电信/移动/联通/……
-	- 中国钢铁新闻网 📰[《中国冶金报》](http://epaper.csteelnews.com)
-
-* 中华全国供销合作总社	　 COOP[中国供销合作网](http://www.chinacoop.gov.cn) 正部级
-	- 📰[《中华合作时报》](http://szb.zh-hz.com ) 
-
-  *了解更多中央企业，请见[央企股票全家福](yangqi)。*
 
 
 <div id="5.3" align="right"><a href="#mulu" target="_self">↑Top</a></div>
@@ -679,6 +671,8 @@
 	- [中国应急信息网](https://www.emerinfo.cn)灾情快报、救援现场 / 全球灾害数据平台	　 
 	*国家应急广播 请参见 3.5段落 广电总台部分*
 	- 🙋直属高校（3所）：[中国消防救援学院](https://www.cfri.edu.cn)（北京昌平）、[华北科技学院](https://www.ncist.edu.cn)（河北燕郊，原煤炭工业部干部学校）、防灾科技学院[](https://www.cidp.edu.cn)（河北三河市，原地震学校）
+
+<div id="fgw" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
 * 国家发展和改革委员会	　 [NDRC.gov.cn](https://www.ndrc.gov.cn ) 发改委
 	- 📰[《中国改革报》](http://www.cfgw.net.cn/epaper)、📰[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
@@ -803,6 +797,8 @@
 	  - 📞 12305 全国邮政业用户申诉电话/快递服务投诉 设分中心
 	- 🙋 直属院校（5所）：大连海事大学（辽宁）、中国民航大学（天津）、中国民用航空飞行学院（四川广汉）、广州民航职业技术学院、上海民航职业技术学院。
 
+<div id="wlb" align="right"><a href="#mulu" target="_self">↑Top</a></div>
+
 * 🎠[文旅部](https://www.mct.gov.cn)	　 文化和旅游部　[文旅之声](https://weibo.com/wenhuabu0)微博  
 MCT，Ministry of Culture and Tourism  
 	- 📰[中国文化报](https://npaper.ccmapp.cn/)、📰[《中国旅游报》](http://www.ctnews.com.cn/paper)、中国美术报、📰[音乐生活报](http://www.musiclife.cn/)
@@ -881,7 +877,7 @@ MCT，Ministry of Culture and Tourism
 	老生常谈© 2019-2025 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.6	202502
+	中央有关部门集	v1.4.7	202502
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
