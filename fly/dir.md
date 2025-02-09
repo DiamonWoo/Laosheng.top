@@ -46,9 +46,9 @@
 	[中国奥委会](https://www.olympic.cn/zt/harbin2025/)专题。
 +	[2024年中非合作论坛](http://www.focac.org) CCTV《[峰会特别报道](https://tv.cctv.com/2024/09/01/VIDARoslGNed9ZHJLVxKSS0D240901.shtml)》、
 	[纪录片《万里为邻》](https://tv.cctv.com/2024/09/03/VIDAESFOhEUoA7DgcwKoaYsj240903.shtml)呈现中非同行现代化之路
-+	2024年巴黎奥运会开幕式回放：📼 [央视网](https://sports.cctv.com/2024/07/27/VIDEXQn0oFQgo9Ls3b1IDF3m240727.shtml)、
-	[腾讯网](https://v.qq.com/x/cover/mzc00200flk1818/z4100y9pqsg.html) 7月27日，约三个半小时、体育频道[巴黎奥运](https://sports.cctv.com/Paris2024/)；  
-	国际奥委会[巴黎2024](https://www.olympics.com/zh/olympic-games/paris-2024)中文专题。
++	2024年巴黎奥运会7月27日开幕式回放：📼 [央视网](https://sports.cctv.com/2024/07/27/VIDEXQn0oFQgo9Ls3b1IDF3m240727.shtml)、
+	[腾讯网](https://v.qq.com/x/cover/mzc00200flk1818/z4100y9pqsg.html) 227分钟；
+	体育频道[专题](https://sports.cctv.com/Paris2024/)、国际奥委会[专题](https://www.olympics.com/zh/olympic-games/paris-2024)。
 +	"巴以冲突"各方媒体，请见【[一带一路](../ydyl.dir#“巴以冲突”各方媒体-💥-ceasefire)】系列
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
