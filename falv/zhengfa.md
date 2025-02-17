@@ -3736,7 +3736,7 @@
 652823 [尉犁县](http://www.yuli.gov.cn) ⠀-⠀-⠀-⠀
 652824 [若羌县](http://www.loulan.gov.cn) ⠀-⠀-⠀-⠀
 652825 [且末县](http://www.xjqmx.gov.cn) ⠀-⠀-⠀-⠀
-652826 [焉耆县](http://www.xjyq.gov.cn '焉耆回族自治县耆 qí，六十岁曰耆') ⠀-⠀-⠀-⠀
+652826 [焉耆县](http://www.xjyq.gov.cn '焉耆回族自治县 耆 qí，六十岁曰耆') ⠀-⠀-⠀-⠀
 652827 [和静县](http://www.xjhj.gov.cn) ⠀-⠀-⠀-⠀
 652828 [和硕县](http://www.hoxut.gov.cn) ⠀-⠀-⠀-⠀
 652829 [博湖县](http://www.xjbh.gov.cn) ⠀-⠀-⠀-⠀
@@ -3752,7 +3752,7 @@
 652928 [阿瓦提县](http://www.xjawt.gov.cn) ⠀-⠀-⠀-⠀
 652929 [柯坪县](http://www.xjkpx.gov.cn) ⠀-⠀-⠀-⠀
 
-653000 [**克州**](http://www.xjkz.gov.cn/xjkz/c101654/kzinto.shtml '克孜勒苏柯尔克孜自治州柯尔克孜语是吉尔吉斯斯坦国家的官方语言') 　-　-　-  
+653000 [**克州**](http://www.xjkz.gov.cn/xjkz/c101654/kzinto.shtml '克孜勒苏柯尔克孜自治州 柯尔克孜语是吉尔吉斯斯坦国家的官方语言') 　-　-　-  
 653001 [阿图什市](http://www.xjats.gov.cn) ⠀-⠀-⠀-⠀
 653022 [阿克陶县](http://www.xjakt.gov.cn) ⠀-⠀-⠀-⠀
 653023 [阿合奇县](http://www.xjahq.gov.cn) ⠀-⠀-⠀-⠀
@@ -3805,7 +3805,7 @@
 654003 [奎屯市](http://www.xjkuitun.gov.cn '区号0992') 第七师⠀-⠀-⠀-⠀
 654004 [霍尔果斯市](http://www.xjhegs.gov.cn) ⠀-⠀-⠀-⠀
 654021 [伊宁县](http://www.xjyn.gov.cn) ⠀-⠀-⠀-⠀
-654022 [察布查尔县](http://www.xjcbcr.gov.cn/mljx.htm '察布查尔锡伯自治县西汉时期乌孙国') ⠀-⠀-⠀-⠀
+654022 [察布查尔县](http://www.xjcbcr.gov.cn/mljx.htm '察布查尔锡伯自治县 西汉时期乌孙国') ⠀-⠀-⠀-⠀
 654023 [霍城县](http://www.xjhc.gov.cn) ⠀-⠀-⠀-⠀
 654024 [巩留县](http://www.xjgl.gov.cn) ⠀-⠀-⠀-⠀
 654025 [新源县](http://www.xinyuan.gov.cn) ⠀-⠀-⠀-⠀
@@ -3813,68 +3813,78 @@
 654027 [特克斯县](http://www.zgtks.gov.cn) ⠀-⠀-⠀-⠀
 654028 [尼勒克县](http://www.xjnlk.gov.cn) ⠀-⠀-⠀-⠀
 
-### 6590 [新疆生产建设兵团](http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml '人民政府网'){:id='65'}　兵团　[🛂️](http://btgaj.xjbt.gov.cn '公安厅/局')　[⚔️](http://jcy.xjbt.gov.cn '省级检察院')　[⚖️](http://btfy.btcourt.gov.cn/article/webgroup.shtml '高级法院')
 
-659002 [**第一师 阿拉尔市**](http://www.ale.gov.cn '驻地：阿克苏市') 三五九旅　-　[⚔️](http://www.ale.gov.cn/bmzd/spjcjg/jcy)　[⚖️](http://btd1szy.btcourt.gov.cn/)  
+<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团
+	[🛂️](http://btgaj.xjbt.gov.cn '公安厅/局')　[⚔️](http://jcy.xjbt.gov.cn '省级检察院')　[⚖️](http://btfy.btcourt.gov.cn/article/webgroup.shtml '高级法院')
+	<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub>
+</h3>
+
+659002 [**第一师 阿拉尔市**](http://www.ale.gov.cn '驻地：阿克苏市') 三五九旅　　0997　-　[⚔️](http://www.ale.gov.cn/bmzd/spjcjg/jcy)　[⚖️](http://btd1szy.btcourt.gov.cn/)  
  金银川垦区 ⠀-⠀-⠀[Ⓕ](http://jyckqfy.btcourt.gov.cn)⠀
  阿克苏垦区 ⠀-⠀-⠀[Ⓕ](http://akskqfy.btcourt.gov.cn)⠀
  阿拉尔垦区 /阿拉尔市 人民法院⠀-⠀-⠀[Ⓕ](http://alekqfy.btcourt.gov.cn)⠀
 
-659006 [**第二师 铁门关市**](https://www.tmg.gov.cn '驻地：库尔勒市') 　-　-　[⚖️](http://btd2szy.btcourt.gov.cn/)  
+659006 [**第二师 铁门关市**](https://www.tmg.gov.cn '驻地：库尔勒市') 　　0996　[🛂️](https://www.tmg.gov.cn/info/nIndex.jsp?node_id=GKgaj)　-　[⚖️](http://btd2szy.btcourt.gov.cn/)  
  库尔勒垦区 /铁门关市 人民法院⠀-⠀-⠀[Ⓕ](http://kelkqfy.btcourt.gov.cn)⠀
  乌鲁克垦区 ⠀-⠀-⠀[Ⓕ](http://wlkkqfy.btcourt.gov.cn)⠀
  焉耆垦区 ⠀-⠀-⠀[Ⓕ](http://yqkqfy.btcourt.gov.cn)⠀
 
-659003 [**第三师 图木舒克市**](http://www.xjbtnss.gov.cn '驻地：喀什市') 古丝绸之路唐王城遗址　-　-　[⚖️](http://btd3szy.btcourt.gov.cn/)  
+659003 [**第三师 图木舒克市**](http://www.xjbtnss.gov.cn '驻地：喀什市') 古丝绸之路唐王城遗址　　0998　-　-　[⚖️](http://btd3szy.btcourt.gov.cn/)  
  喀什垦区 ⠀-⠀-⠀[Ⓕ](http://kskqfy.btcourt.gov.cn)⠀
  图木休克垦区 /图木舒克市 人民法院⠀-⠀-⠀[Ⓕ](http://tmxkkqfy.btcourt.gov.cn)⠀
 
-659008 [**第四师 可克达拉市**](http://www.cocodala.gov.cn '驻地：伊宁市') 　-　-　[⚖️](http://btd4szy.btcourt.gov.cn/)  
+659008 [**第四师 可克达拉市**](http://www.cocodala.gov.cn '驻地：伊宁市') 　　0999　-　-　[⚖️](http://btd4szy.btcourt.gov.cn/)  
  霍城垦区 /可克达拉市 人民法院⠀-⠀-⠀[Ⓕ](http://hckqfy.btcourt.gov.cn)⠀
  伊宁垦区 ⠀-⠀-⠀[Ⓕ](http://ynkqfy.btcourt.gov.cn)⠀
  昭苏垦区 ⠀-⠀-⠀[Ⓕ](http://zskqfy.btcourt.gov.cn)⠀
 
-659007 [**第五师 双河市**](http://www.xjshs.gov.cn '博乐市') 唐双河都督府　-　-　[⚖️](http://btd5szy.btcourt.gov.cn)  
+659007 [**第五师 双河市**](http://www.xjshs.gov.cn '博乐市') 唐双河都督府　　0909　-　-　[⚖️](http://btd5szy.btcourt.gov.cn)  
  塔斯海垦区 /双河市 人民法院⠀-⠀-⠀[Ⓕ](http://tshkqfy.btcourt.gov.cn)⠀
  博乐垦区 ⠀-⠀-⠀[Ⓕ](http://blkqfy.btcourt.gov.cn)⠀
 
-659004 [**第六师 五家渠市**](http://www.wjq.gov.cn) 　-　-　[⚖️](http://btd6szy.btcourt.gov.cn)  
+659004 [**第六师 五家渠市**](http://www.wjq.gov.cn '') 　　0994　-　-　[⚖️](http://btd6szy.btcourt.gov.cn)  
  五家渠垦区 /五家渠市 人民法院⠀-⠀-⠀[Ⓕ](http://wjqkqfy.btcourt.gov.cn)⠀
  奇台垦区 ⠀-⠀-⠀[Ⓕ](http://qtkqfy.btcourt.gov.cn)⠀
  芳草湖垦区 ⠀-⠀-⠀[Ⓕ](http://fchkqfy.btcourt.gov.cn)⠀
 
-659010 [**第七师 胡杨河市**](http://www.nqs.gov.cn '驻地：奎屯市') 经济增长极　-　-　[⚖️](http://btd7szy.btcourt.gov.cn)  
+659010 [**第七师 胡杨河市**](http://www.nqs.gov.cn '驻地：奎屯市') 经济增长极　　0992　-　-　[⚖️](http://btd7szy.btcourt.gov.cn)  
  奎屯垦区 ⠀-⠀-⠀[Ⓕ](http://ktkqfy.btcourt.gov.cn)⠀
  车排子垦区 ⠀-⠀-⠀[Ⓕ](http://cpzkqfy.btcourt.gov.cn)⠀
 
-659001 [**第八师 石河子市**](http://www.shz.gov.cn '电信区号0993独立') ☆军垦第一城　-　-　[⚖️](http://btd8szy.btcourt.gov.cn)  
+659001 [**第八师 石河子市**](http://www.shz.gov.cn '电信区号0993独立') ☆军垦第一城　　0993　[🛂️](http://shz.gov.cn/government_bulletin.html?id=007&catenum=042)　-　[⚖️](http://btd8szy.btcourt.gov.cn)  
  下野地垦区 ⠀-⠀-⠀[Ⓕ](http://xydkqfy.btcourt.gov.cn)⠀
  莫索湾垦区 ⠀-⠀-⠀[Ⓕ](http://mswkqfy.btcourt.gov.cn)⠀
  石河子市人民法院 ⠀-⠀-⠀[Ⓕ](http://shzsfy.btcourt.gov.cn)⠀
 
-659012 [**第九师 白杨市**](http://www.njs.gov.cn '驻地：额敏县。2023年设市，电话区号0901') 最年轻的兵团市　-　-　[⚖️](http://btd9szy.btcourt.gov.cn)  
+659012 [**第九师 白杨市**](http://www.njs.gov.cn '驻地：额敏县。2023年设市，电话区号0901') 最年轻的兵团市　　0901　-　-　[⚖️](http://btd9szy.btcourt.gov.cn)  
  额敏垦区 ⠀-⠀-⠀[Ⓕ](http://emkqfy.btcourt.gov.cn)⠀
  叶尔盖提垦区 ⠀-⠀-⠀[Ⓕ](http://yegtkqfy.btcourt.gov.cn)⠀
 
-659005 [**第十师 北屯市**](http://www.bts.gov.cn) 　-　-　[⚖️](http://btd10szy.btcourt.gov.cn)  
+659005 [**第十师 北屯市**](http://www.bts.gov.cn '') 　　0906　-　-　[⚖️](http://btd10szy.btcourt.gov.cn)  
  北屯垦区 /北屯市 人民法院⠀-⠀-⠀[Ⓕ](http://btkqfy.btcourt.gov.cn)⠀
  巴里巴盖垦区 ⠀-⠀-⠀[Ⓕ](http://blbgkq.btcourt.gov.cn)⠀
 
- [**第十一师**](https://www.btdsys.gov.cn '驻地：乌鲁木齐市。1953年新疆建筑工程第一师，2014年加挂第十一师牌子') 建工师　-　-　-  
+ [**第十一师**](https://www.btdsys.gov.cn '驻地：乌鲁木齐市。1953年新疆建筑工程第一师，2014年加挂第十一师牌子') 建工师　　　-　-　-  
 
- [**第十二师**](https://www.12s.gov.cn '驻地：乌鲁木齐市。2000年11月成立') 　-　-　[⚖️](http://btd12szy.btcourt.gov.cn)  
+ [**第十二师**](https://www.12s.gov.cn '驻地：乌鲁木齐市。2000年11月成立') 　　　-　-　[⚖️](http://btd12szy.btcourt.gov.cn)  
  乌鲁木齐垦区 ⠀-⠀-⠀[Ⓕ](http://wlmqkqfy.btcourt.gov.cn)⠀
  三坪垦区 ⠀-⠀-⠀[Ⓕ](http://spkqfy.btcourt.gov.cn)⠀
 
-659011 [**第十三师 新星市**](http://www.btnsss.gov.cn '驻地：哈密市。2021年设市') 新疆东大门　-　-　[⚖️](http://btd13szy.btcourt.gov.cn)  
+659011 [**第十三师 新星市**](http://www.btnsss.gov.cn '驻地：哈密市。2021年设市') 新疆东大门　　0902　-　-　[⚖️](http://btd13szy.btcourt.gov.cn)  
  哈密垦区 ⠀-⠀-⠀[Ⓕ](http://hmkqfy.btcourt.gov.cn)⠀
  巴里坤垦区 ⠀-⠀-⠀[Ⓕ](http://blkkqfy.btcourt.gov.cn)⠀
 
-659009 [**第十四师 昆玉市**](https://www.btdsss.gov.cn '驻地：和田市') ＋昆玉经开区　-　-　[⚖️](http://btd14szy.btcourt.gov.cn)  
+659009 [**第十四师 昆玉市**](https://www.btdsss.gov.cn '驻地：和田市') ＋昆玉经开区　　0903　[🛂️](https://www.btdsss.gov.cn/xwzx/zwdt/bmdt/gaj/)　-　[⚖️](http://btd14szy.btcourt.gov.cn)  
  和田垦区 ⠀-⠀-⠀[Ⓕ](http://htkqfy.btcourt.gov.cn)⠀
 
-### 71 [台湾省](http://www.gwytb.gov.cn '人民政府网'){:id='71'}　台　[🛂️](https://www.npa.gov.tw/ '公安厅/局')　[⚔️](https://www.tps.moj.gov.tw '省级检察院')　[⚖️](https://www.judicial.gov.tw/tw/cp-1898-119101-8a7a0-1.html '高级法院')
 
+<h4 align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></h4>
+
+
+<h3 id="71">71 <a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台
+	[🛂️](https://www.npa.gov.tw/ '公安厅/局')　[⚔️](https://www.tps.moj.gov.tw '省级检察院')　[⚖️](https://www.judicial.gov.tw/tw/cp-1898-119101-8a7a0-1.html '高级法院')
+	<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub>
+</h3>
  **台湾高等法院** 　-　-　[⚖️](https://tph.judicial.gov.tw/)  
  [台北市](https://www.gov.taipei '民国直辖市') ⠀-⠀-⠀-⠀
  [新北市](https://www.ntpc.gov.tw/ '民国直辖市') ⠀-⠀-⠀-⠀
@@ -3901,7 +3911,7 @@
  [高雄市](https://www.kcg.gov.tw/ '民国直辖市') ⠀-⠀-⠀-⠀
  桥头地院 ⠀-⠀-⠀[Ⓕ](https://ctd.judicial.gov.tw/)⠀
  [屏东县](https://www.pthg.gov.tw/) ⠀-⠀-⠀-⠀
- [澎湖县](https://www.penghu.gov.tw) ⠀-⠀-⠀-⠀
+ [澎湖县](https://www.penghu.gov.tw '外婆的澎湖湾') ⠀-⠀-⠀-⠀
 
  **花莲高分院** 　-　-　[⚖️](https://hlh.judicial.gov.tw/)  
  [花莲县](https://www.hl.gov.tw/) ⠀-⠀-⠀-⠀
@@ -3911,45 +3921,21 @@
  [金门县](https://www.kinmen.gov.tw/ '民国福建省') ⠀-⠀-⠀-⠀
  [连江县](https://www.matsu.gov.tw/ '民国福建省') ⠀-⠀-⠀-⠀
 
-### 81 [香港特别行政区](https://www.gov.hk/sc/about/abouthk/facts.htm '人民政府网'){:id='81'}　港　[🛂️](https://www.police.gov.hk/#警香港务处 '公安厅/局')　[⚔️](https://www.doj.gov.hk/ '省级检察院')　[⚖️](https://www.judiciary.hk/zh_cn/about_us/courtchart.html '高级法院')
 
-### 82 [澳门特别行政区](https://www.gov.mo/zh-hant/content/city-info/ '人民政府网'){:id='82'}　澳　[🛂️](http://www.spu.gov.mo/#警察总局 '公安厅/局')　[⚔️](https://www.mp.gov.mo/ '省级检察院')　[⚖️](https://www.court.gov.mo/zh/subpage/contactus '高级法院')
-
-
-<h4 align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></h4>
-
-<h3 id="6590">6590 <a href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml" title="659000 非行政区划的省级单位，不设人大与政协">新疆生产建设兵团</a>　兵团<sub>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/25fc5dbf920b4242acd4a8a9153ab922">天地图分享链</a></sub></h3>
-659001 [石河子市／第八师](http://www.shz.gov.cn/mlsc/topic.html )0993⠀
-659002 [阿拉尔市／第一师](http://www.ale.gov.cn )0997⠀
-659003 [图木舒克市／第三师](http://www.xjbtnss.gov.cn )0998⠀
-659004 [五家渠市／第六师](http://www.wjq.gov.cn )0994⠀
-659005 [北屯市／第十师](http://www.bts.gov.cn )0906⠀
-659006 [铁门关市／第二师](http://www.tmg.gov.cn )0996⠀
-659007 [双河市／第五师](http://www.xjshs.gov.cn )0909⠀
-659008 [可克达拉市／第四师](http://www.cocodala.gov.cn )0999⠀
-659009 [昆玉市／第十四师](http://www.btdsss.gov.cn )0903⠀
-659010 [胡杨河市／第七师](http://www.nqs.gov.cn )0992⠀
-659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')0902⠀
-兵团14个师中尚有3个师(9/11/12)未完成‘师市合一’改革。
-
-
-<h3 id="71">71 <a href="" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
-710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
-台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
-6个直辖市：台北市、新北市、桃园市、
-	<a title='台中市政府' href='https://www.taichung.gov.tw'>台中市</a>、
-	台南市、高雄市  
-3个省辖市：基隆市、新竹市、嘉义市  
-11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
-	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
-
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">桌面地图</a></sub></h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852
+	[🛂️](https://www.police.gov.hk/#警香港务处 '公安厅/局')　[⚔️](https://www.doj.gov.hk/ '省级检察院')　[⚖️](https://www.judiciary.hk/zh_cn/about_us/courtchart.html '高级法院')
+	<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">桌面地图</a></sub>
+</h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　00853<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">桌面地图</a></sub></h3>
+
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　00853
+	[🛂️](http://www.spu.gov.mo/#警察总局 '公安厅/局')　[⚔️](https://www.mp.gov.mo/ '省级检察院')　[⚖️](https://www.court.gov.mo/zh/subpage/contactus '高级法院')
+	<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">桌面地图</a></sub>
+</h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
