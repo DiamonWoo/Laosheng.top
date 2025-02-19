@@ -51,7 +51,7 @@
 
 
 <h2 title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
-<img src="ditu/asia-gg-big.png" align="center" title="谷歌地球俯视亚洲" loading="lazy" />
+<img src="ditu/asia-gg-big.png" align="center" title="谷歌地球俯视亚洲" />
 
 🇨🇳	+五常	[🏞](https://www.yidaiyilu.gov.cn大美中国 "国别美图")	CN⠀	<big><big>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</big></big>		⠀1949/10/1新中国成立！	[💐](https://www.mfa.gov.cn/web/zwjg_674741/zwsg_674743/ "中国使馆总目")	□	[wb](https://weibo.com/wjxlt "外交部微博")	[👥](https://www.mfa.gov.cn "外交部")	[🏢](https://www.gov.cn "The People's Republic of China")	⠀0086	CNY ¥<sup>	[人民币](https://cn.bing.com/search?q=1克黄金兑CNY)	首都：北京 ⭐</sup>  
 🇭🇰	⠀ ⠀	　	[🧭](http://HK.mofcom.gov.cn "经贸指南")	HK⠀	<small>	<a title="中国香港特别行政区" href="http://www.locpg.gov.cn/fwzn/xggk.htm">(中国)香港</a> 	Hong Kong	</small>		⠀1997/7/1回归	⠀[💐](http://locpg.gov.cn "中央驻港联络办")	□	[wb](https://weibo.com/newsgovhk "香港政府微博")	□	[🏢](https://www.gov.hk/sc "特区政府网站")	⠀00852	$<sup>	[港元](https://cn.bing.com/search?q=HKD兑CNY)	 - 0h ☆</sup>  
@@ -107,7 +107,7 @@
 🇯🇴	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/10157.htm "国别美图")	[🧭](http://JO.mofcom.gov.cn "经贸指南")	JO⠀	<small>	<a title="约旦哈希姆王国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677268/">约旦</a> 	Jordan	</small>	⬇️	⠀1977/4/7建交	[💐](http://JO.china-embassy.gov.cn "中国大使馆")	[🛡️](https://mfa.gov.jo/zh/embassy/BeijingZh "驻华使馆")	-	[👥](https://mfa.gov.jo/ "外交部")	[🏢](https://portal.jordan.gov.jo/ "Hashemite Kingdom of Jordan")	⠀00962	<sup>	[约旦第纳尔](https://cn.bing.com/search?q=JOD兑CNY)	首都：安曼 -6h </sup>  
 
 <div align="right" id="oz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-<img title="亚洲中东地区" src="ditu/asia-mid-gg.png" width="360px" align="left" loading="lazy" />
+<img title="亚洲中东地区" src="ditu/asia-mid-gg.png" width="360px" align="left" />
 <img title="欧洲国家小" src="ditu/europe-gg.png" width="600px" loading="lazy" />
 
 
@@ -170,7 +170,7 @@
 
 
 <h2 title="fēi zhōu">非洲 Africa　d<a href="https://cn.bing.com/maps?cp=hqgwpcjjz3sy&lvl=4" title="限桌面模式">🌍</a></h2>
-<img title="非洲西非地区" src="ditu/feizhou-west-gg-580h.png" width="480px"  align="left" loading="lazy" />
+<img title="非洲西非地区" src="ditu/feizhou-west-gg-580h.png" width="480px"  align="left" />
 <img title="非洲全图" src="ditu/feizhou-gg-580h.png" width="480px" loading="lazy" />
 
 🇪🇬	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2159.htm "国别美图")	[🧭](http://EG.mofcom.gov.cn "经贸指南")	EG⠀		<a title="阿拉伯埃及共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/">埃及</a> 	Egypt		⬇️	⠀1956/5/30建交	[💐](http://EG.china-embassy.gov.cn "中国大使馆")	⠀□	[wb](https://weibo.com/etab "驻华使馆微博")	⠀□	[🏢](https://egypt.gov.eg/ "Arab Republic of Egypt")	⠀0020	£<sup>	[埃及镑](https://cn.bing.com/search?q=EGP兑CNY)	首都：开罗（Cairo） -6h </sup>  
@@ -237,7 +237,7 @@
 
 
 <h2 title="dà yáng zhōu">大洋洲 Ocean　d<a href="https://cn.bing.com/maps?&cp=j7j1xpthdt5b&lvl=3" title="限桌面模式">🌏</a></h2>
-<img src="ditu/ocean-gg-1160x640.png" align="center" title="大洋洲诸多岛国" loading="lazy" />
+<img src="ditu/ocean-gg-1160x640.png" align="center" title="大洋洲诸多岛国" />
 
 🇺🇲	⠀ ⠀	　	　	UM⠀	<small>	<a title="共九个小岛礁">美国本土外小岛屿</a>	[United States Minor Outlying Islands](https://cn.bing.com/search?q=United States Minor Outlying Islands)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001	<sup>	⠀-	 -  </sup>  
 🇲🇵	⠀ ⠀	　	　	MP⠀	<sup>	北马里亚纳群岛(美国)	[Northern Mariana Islands](https://cn.bing.com/search?q=Northern Mariana Islands)	</sup>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001670	<sup>	⠀-	首都：塞班 +2h </sup>  
@@ -271,7 +271,7 @@
 
 <h2 title="běi měi zhōu">北美洲　North America　d<a href="https://cn.bing.com/maps?&cp=rnvxpq41tcwf&lvl=3" title="限桌面模式">🌎</a></h2>
 <img title="北美洲" src="ditu/meizhou-north-580.png" width="480px"  align="left" />
-<img title="中美洲" src="ditu/meizhou-mid-580h.png" width="480px" />
+<img title="中美洲" src="ditu/meizhou-mid-580h.png" width="480px" loading="lazy" />
 
 🇬🇱	⠀ ⠀	　	　	GL⠀	<big>	<a title="丹麦海外属地，世界最大岛">格陵兰 (丹麦)</a>	[Greenland](https://cn.bing.com/search?q=Greenland)	</big>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00299	<sup>	⠀-	首都：努克 -5h [自治议会](https://naalakkersuisut.gl/)</sup>  
 🇵🇲	⠀ ⠀	　	　	PM⠀	<sup>	<a title="法国：圣皮埃尔和密克隆">圣皮埃尔和密克隆 (法国)</a>	[Saint Pierre and Miquelon](https://cn.bing.com/search?q=Saint Pierre and Miquelon)	</sup>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀00508	<sup>	⠀-	 -  </sup>  
@@ -318,7 +318,7 @@
 
 <h2 id="nmz" title="nán měi zhōu">南美洲 South America　d<a href="https://cn.bing.com/maps?&cp=j3tcj483mtvw&lvl=5" title="限桌面模式">🌎</a></h2>
 <!-- lā dīng měi zhōu 拉丁美洲 Latin America -->
-<img title="北美洲" src="ditu/meizhou-south-580.png" width="480px"  align="right" />
+<img title="北美洲" src="ditu/meizhou-south-580.png" width="480px"  align="right" loading="lazy" />
 
 🇪🇨	+ &	　	[🧭](http://EC.mofcom.gov.cn "经贸指南")	EC⠀		<a title="厄瓜多尔共和国，202406暂停中方免签" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681096/">厄瓜多尔</a> 	Ecuador		♏	⠀1980/1/2建交	[💐](http://EC.china-embassy.gov.cn "中国大使馆")	[🛡️](https://www.cancilleria.gob.ec/map_maps/china/ "驻华使馆")	-	[👥](https://www.cancilleria.gob.ec/ "外交部")	[🏢](http://www.presidencia.gov.ec/#打不开 "Republic of Ecuador")	⠀00593	$<sup>	[美元](https://cn.bing.com/search?q=USD兑CNY)	首都：基多 -13h ⚽</sup>  
 🇨🇴	+ ⠀	　	[🧭](http://CO.mofcom.gov.cn "经贸指南")	CO⠀		<a title="哥伦比亚共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/nmz_680924/1206_681072/">哥伦比亚</a> 	Colombia			⠀1980/2/7建交	[💐](http://CO.china-embassy.gov.cn "中国大使馆")	[🛡️](https://china.embajada.gov.co/ "驻华使馆")	-	⠀□	[🏢](https://www.gov.co/ "Republic of Colombia")	⠀0057	$<sup>	[哥伦比亚比索](https://cn.bing.com/search?q=COP兑CNY)	首都：波哥大 -13h </sup>  
