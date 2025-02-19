@@ -51,7 +51,7 @@
 
 
 <h2 title="yà zhōu">亚洲 Asia　d<a href="https://cn.bing.com/maps?&cp=p35v3cq48s20&lvl=4" title="限桌面模式">🌏</a></h2>
-<img src="ditu/asia-gg-big.png" align="center" title="谷歌地球俯视亚洲" />
+<img src="ditu/asia-gg-big.png" align="center" title="谷歌地球俯视亚洲" loading="lazy" />
 
 🇨🇳	+五常	[🏞](https://www.yidaiyilu.gov.cn大美中国 "国别美图")	CN⠀	<big><big>	<a title="中华人民共和国" href="https://www.gov.cn/guoqing/">中国</a> 	China	</big></big>		⠀1949/10/1新中国成立！	[💐](https://www.mfa.gov.cn/web/zwjg_674741/zwsg_674743/ "中国使馆总目")	□	[wb](https://weibo.com/wjxlt "外交部微博")	[👥](https://www.mfa.gov.cn "外交部")	[🏢](https://www.gov.cn "The People's Republic of China")	⠀0086	CNY ¥<sup>	[人民币](https://cn.bing.com/search?q=1克黄金兑CNY)	首都：北京 ⭐</sup>  
 🇭🇰	⠀ ⠀	　	[🧭](http://HK.mofcom.gov.cn "经贸指南")	HK⠀	<small>	<a title="中国香港特别行政区" href="http://www.locpg.gov.cn/fwzn/xggk.htm">(中国)香港</a> 	Hong Kong	</small>		⠀1997/7/1回归	⠀[💐](http://locpg.gov.cn "中央驻港联络办")	□	[wb](https://weibo.com/newsgovhk "香港政府微博")	□	[🏢](https://www.gov.hk/sc "特区政府网站")	⠀00852	$<sup>	[港元](https://cn.bing.com/search?q=HKD兑CNY)	 - 0h ☆</sup>  
@@ -107,8 +107,8 @@
 🇯🇴	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/10157.htm "国别美图")	[🧭](http://JO.mofcom.gov.cn "经贸指南")	JO⠀	<small>	<a title="约旦哈希姆王国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/1206_677268/">约旦</a> 	Jordan	</small>	⬇️	⠀1977/4/7建交	[💐](http://JO.china-embassy.gov.cn "中国大使馆")	[🛡️](https://mfa.gov.jo/zh/embassy/BeijingZh "驻华使馆")	-	[👥](https://mfa.gov.jo/ "外交部")	[🏢](https://portal.jordan.gov.jo/ "Hashemite Kingdom of Jordan")	⠀00962	<sup>	[约旦第纳尔](https://cn.bing.com/search?q=JOD兑CNY)	首都：安曼 -6h </sup>  
 
 <div align="right" id="oz">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-<img title="亚洲中东地区" src="ditu/asia-mid-gg.png" width="360px" align="left" />
-<img title="欧洲国家小" src="ditu/europe-gg.png" width="600px" />
+<img title="亚洲中东地区" src="ditu/asia-mid-gg.png" width="360px" align="left" loading="lazy" />
+<img title="欧洲国家小" src="ditu/europe-gg.png" width="600px" loading="lazy" />
 
 
 <h2 title="ōu zhōu">欧洲 Europe　<a href="http://www.gditu.net/" title="谷地图">🌍</a></h2>
@@ -170,8 +170,8 @@
 
 
 <h2 title="fēi zhōu">非洲 Africa　d<a href="https://cn.bing.com/maps?cp=hqgwpcjjz3sy&lvl=4" title="限桌面模式">🌍</a></h2>
-<img title="非洲西非地区" src="ditu/feizhou-west-gg-580h.png" width="480px"  align="left" />
-<img title="非洲全图" src="ditu/feizhou-gg-580h.png" width="480px" />
+<img title="非洲西非地区" src="ditu/feizhou-west-gg-580h.png" width="480px"  align="left" loading="lazy" />
+<img title="非洲全图" src="ditu/feizhou-gg-580h.png" width="480px" loading="lazy" />
 
 🇪🇬	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/2159.htm "国别美图")	[🧭](http://EG.mofcom.gov.cn "经贸指南")	EG⠀		<a title="阿拉伯埃及共和国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_677342/">埃及</a> 	Egypt		⬇️	⠀1956/5/30建交	[💐](http://EG.china-embassy.gov.cn "中国大使馆")	⠀□	[wb](https://weibo.com/etab "驻华使馆微博")	⠀□	[🏢](https://egypt.gov.eg/ "Arab Republic of Egypt")	⠀0020	£<sup>	[埃及镑](https://cn.bing.com/search?q=EGP兑CNY)	首都：开罗（Cairo） -6h </sup>  
 🇱🇾	+ &	[🏞](https://www.yidaiyilu.gov.cn/gbjg/gbmt/59970.htm "国别美图")	[🧭](http://LY.mofcom.gov.cn "经贸指南")	LY⠀	<big>	<a title="利比亚国" href="https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/fz_677316/1206_678018/">利比亚</a> 	[Libya](https://cn.bing.com/search?q=Libya)	</big>		⠀1978/8/9建交	[💐](http://LY.china-embassy.gov.cn "中国大使馆")	⠀□	-	⠀□	⠀□	⠀00218	ل.د<sup>	[利比亚第纳尔](https://cn.bing.com/search?q=LYD兑CNY)	首都：的黎波里 -6h 💥 [央行](https://cbl.gov.ly/en/)</sup>  
@@ -237,7 +237,7 @@
 
 
 <h2 title="dà yáng zhōu">大洋洲 Ocean　d<a href="https://cn.bing.com/maps?&cp=j7j1xpthdt5b&lvl=3" title="限桌面模式">🌏</a></h2>
-<img src="ditu/ocean-gg-1160x640.png" align="center" title="大洋洲诸多岛国" />
+<img src="ditu/ocean-gg-1160x640.png" align="center" title="大洋洲诸多岛国" loading="lazy" />
 
 🇺🇲	⠀ ⠀	　	　	UM⠀	<small>	<a title="共九个小岛礁">美国本土外小岛屿</a>	[United States Minor Outlying Islands](https://cn.bing.com/search?q=United States Minor Outlying Islands)	</small>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001	<sup>	⠀-	 -  </sup>  
 🇲🇵	⠀ ⠀	　	　	MP⠀	<sup>	北马里亚纳群岛(美国)	[Northern Mariana Islands](https://cn.bing.com/search?q=Northern Mariana Islands)	</sup>		⠀-/-/-	⠀□	⠀□	-	⠀□	⠀□	⠀001670	<sup>	⠀-	首都：塞班 +2h </sup>  
@@ -403,7 +403,7 @@
 	老生常谈© 2019~2025 大萌 知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/ydyl/nations
-	外交国别速查表 V0.9.6	202501
+	外交国别速查表 V0.9.7	202502
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
