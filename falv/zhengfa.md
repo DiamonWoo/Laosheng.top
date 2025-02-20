@@ -8,7 +8,7 @@
 
 　　类似这样地理区域叫做功能区，既有新中国建设初期的垦区、林区、矿区，也有改革进程中新划定的国家级新区、高新区、经开区 等等。其中经开区数量很大，如果算到省级开发区，全国超过2000家。大部分功能区没有获得民政部分配的区划代码，不设人民政府和人大、政协，由政府派出的管理委员会管辖。少数功能区设立了法院，建立了基层公检法，这会影响到诉讼的管辖地。
 
-　　**中国政法区划集**扩充了‘千县网’的范围，收录了全国所有法院名称、法院网址、政府网址或设法院的管委会网址。‘政法集’网页不仅可以快速找到更多的地名和官网，而且以**集成网页**形式展现各地区的司法管辖层级，方便大家在学法用法的时候查找司法管辖关系。页面正在设计，欢迎提出意见。
+　　**中国政法区划集**扩充了‘千县网’的范围，收录了全国所有法院名称、法院网址、政府网址或设法院的管委会网址。‘政法集’网页不仅可以快速找到更多的地名和官网，而且以**集成网页**形式展现各地区的司法管辖层级，方便大家在学法用法的时候查找司法管辖关系。网址正在添加，欢迎提出意见。
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【大萌望海楼】</a>/政法集
 </div>
@@ -106,7 +106,7 @@
 
 ### 12 [天津市](http://www.tj.gov.cn/sq/ '人民政府网'){:id='12'}　津　022 ♾　[🛂️](http://ga.tj.gov.cn '公安厅/局')　[⚔️](http://www.tj.jcy.gov.cn '省级检察院')　[⚖️](https://tjfy.tjcourt.gov.cn/index.shtml '高级法院')
 
- **天津海事法院** 　!海新区　-　-　[⚖️](https://tjhsfy.tjcourt.gov.cn/)  
+ **天津海事法院** 　!海新区　[⚖️](https://tjhsfy.tjcourt.gov.cn/)  
  天津铁院  ↑北京铁路中院 ⠀[Ⓖ](https://weibo.com/u/2922963852?天津铁路公安处)⠀-⠀[Ⓕ](https://tjtlfy.tjcourt.gov.cn)⠀
 
  **天津一中院** 　　-　-　[⚖️](https://tj1zy.tjcourt.gov.cn)  
@@ -643,7 +643,7 @@
  沈阳经开区  !铁西区 -⠀[Ⓙ](https://shenyang.jcy.gov.cn/sykfq)⠀[Ⓕ](http://syjk.lncourt.gov.cn)⠀
  沈阳高新区  !浑南区 -⠀[Ⓙ](https://www.shenyang.jcy.gov.cn/sygxq)⠀[Ⓕ](http://sygx.lncourt.gov.cn)⠀
 
- **大连海事法院** 　!中山区　-　-　[⚖️](http://www.dlhsfy.gov.cn)  
+ **大连海事法院** 　!中山区　[⚖️](http://www.dlhsfy.gov.cn)  
 
 210200 [**大连市**](http://www.dl.gov.cn) F　辽B　0411 ♾　[🛂️](https://ga.dl.gov.cn)　[⚔️](http://www.dalian.jcy.gov.cn)　[⚖️](http://dl.lncourt.gov.cn)  
 210202 [中山区](http://www.dlzs.gov.cn) -⠀-⠀[Ⓕ](http://dlzs.lncourt.gov.cn)⠀
@@ -1048,7 +1048,7 @@
 
 ### 31 [上海市](http://www.shanghai.gov.cn/nw2318/ '人民政府网'){:id='31'}　沪/申　021 ♾　[🛂️](https://gaj.sh.gov.cn '公安厅/局')　[⚔️](https://www.sh.jcy.gov.cn '省级检察院')　[⚖️](https://www.hshfy.sh.cn/shfy/web/sqfy.jsp?type=6 '高级法院')
 
- **上海海事法院** 　!浦东新区　-　-　[⚖️](https://www.shhsfy.gov.cn/)  
+ **上海海事法院** 　!浦东新区　[⚖️](https://www.shhsfy.gov.cn/)  
 
  **上海一中院** !长宁区虹桥路　　-　-　[⚖️](https://www.a-court.gov.cn/)  
 310104 [徐汇区](http://www.xuhui.gov.cn) ⠀[Ⓖ](https://weibo.com/xuhuipolice#警民直通车-徐汇站)⠀[Ⓙ](http://www.shxuhui.jcy.gov.cn)⠀-⠀
@@ -1079,7 +1079,7 @@
 
 ### 32 [江苏省](http://www.jiangsu.gov.cn/col/col31358/ '人民政府网'){:id='32'}　苏　[🛂️](http://gat.jiangsu.gov.cn '公安厅/局')　[⚔️](https://www.jsjc.gov.cn '省级检察院')　[⚖️](http://www.jsfy.gov.cn/article/53020.html '高级法院')
 
- **南京海事法院** 　!鼓楼区　-　-　[⚖️](https://njhsfy.gov.cn/)  
+ **南京海事法院** 　!鼓楼区　[⚖️](https://njhsfy.gov.cn/)  
  徐州铁院  ↑上海铁路中院 -⠀-⠀[Ⓕ](http://xz.xztlfy.gov.cn/)⠀
 
 320100 [**南京市**](https://www.nanjing.gov.cn) F　苏A　025 ♾　[🛂️](http://gaj.nanjing.gov.cn)　[⚔️](http://nj.jsjc.gov.cn)　[⚖️](http://www.njfy.gov.cn)  
@@ -1236,7 +1236,7 @@
 330127 [淳安县](http://www.qdh.gov.cn) ⠀[Ⓖ](https://weibo.com/paqdh#平安淳安)⠀[Ⓙ](http://www.qdh.gov.cn/col/col1294032/)⠀[Ⓕ](http://chunan.zjcourt.cn)⠀
 330182 [建德市](http://www.jiande.gov.cn) ⠀[Ⓖ](https://weibo.com/hzjdga#平安建德)⠀[Ⓙ](http://www.jiande.gov.cn/col/col1468678/)⠀[Ⓕ](http://jiande.zjcourt.cn)⠀
 
- **宁波海事法院** 　!鄞州区　-　-　[⚖️](http://www.nbmc.gov.cn)  
+ **宁波海事法院** 　!鄞州区　[⚖️](http://www.nbmc.gov.cn)  
 
 330200 [**宁波市**](http://www.ningbo.gov.cn) F　浙B　0574 ♾　[🛂️](http://gaj.ningbo.gov.cn)　[⚔️](http://www.ningbo.zjjcy.gov.cn)　[⚖️](http://www.nbcourt.gov.cn)  
 330203 [海曙区](http://www.haishu.gov.cn) -⠀[Ⓙ](http://www.ningbohs.zjjcy.gov.cn)⠀[Ⓕ](http://www.nbhsfy.gov.cn)⠀
@@ -1500,7 +1500,7 @@
  [福州新区](https://fzxq.fuzhou.gov.cn '国家级新区G，201509。★未设法院') G !长乐区-⠀-⠀-⠀
 350128 [平潭县](http://www.pingtan.gov.cn '县区合一，2009年设立实验区；福建第一大岛，大陆距台湾本岛最近') 平潭综合实验区/海坛岛⠀[Ⓖ](https://weibo.com/ptga#平潭公安局)⠀[Ⓙ](http://www.fjpingtan.jcy.gov.cn/)⠀[Ⓕ](http://pt.pingtancourt.gov.cn/)⠀
 
- **厦门海事法院** 　!湖里区　-　-　[⚖️](http://www.xmhsfy.gov.cn/)  
+ **厦门海事法院** 　!湖里区　[⚖️](http://www.xmhsfy.gov.cn/)  
 
 350200 [**厦门市**](http://www.xm.gov.cn) F　闽D　0592　[🛂️](http://ga.xm.gov.cn)　[⚔️](http://www.xmjc.gov.cn)　[⚖️](http://xmcourt.gov.cn)  
 350203 [思明区](http://www.siming.gov.cn) ⠀[Ⓖ](https://weibo.com/fjxmsmpolice#厦门思明公安)⠀[Ⓙ](http://www.xiamensm.jcy.gov.cn)⠀[Ⓕ](http://www.smcourt.com)⠀
@@ -1723,9 +1723,9 @@
 
 ### 37 [山东省](http://www.shandong.gov.cn/col/col94094/ '人民政府网'){:id='37'}　鲁　[🛂️](http://gat.shandong.gov.cn '公安厅/局')　[⚔️](http://www.sdjcy.gov.cn '省级检察院')　[⚖️](http://www.sdcourt.gov.cn/nwglpt/_2343755/_2343823/index.html '高级法院')
 
- **青岛海事法院** 　　-　-　[⚖️](http://qdhsfy.sdcourt.gov.cn/)  
+ **青岛海事法院** 　[⚖️](http://qdhsfy.sdcourt.gov.cn/)  
 
- **济南铁路中院** 　　-　-　[⚖️](http://jntlzy.sdcourt.gov.cn/)  
+ **济南铁路中院** 　　-　[⚔️](http://www.sdjcy.gov.cn/jwgk/syjs/sjyjj/jntlysfy/)　[⚖️](http://jntlzy.sdcourt.gov.cn/)  
  济南铁院   -⠀-⠀[Ⓕ](http://jntlfy.sdcourt.gov.cn/)⠀
  青岛铁院   -⠀-⠀[Ⓕ](http://qdtlfy.sdcourt.gov.cn/)⠀
 
@@ -2121,7 +2121,7 @@
 
 ### 42 [湖北省](http://www.hubei.gov.cn '人民政府网'){:id='42'}　鄂/楚　[🛂️](https://gat.hubei.gov.cn '公安厅/局')　[⚔️](http://www.hbjc.gov.cn '省级检察院')　[⚖️](http://www.hbfy.gov.cn/ '高级法院')
 
- **武汉海事法院** 　　-　-　[⚖️](http://whhsfy.hbfy.gov.cn)  
+ **武汉海事法院** 　[⚖️](http://whhsfy.hbfy.gov.cn)  
 
  **武汉铁路中院** 　　-　-　[⚖️](http://whtlzy.hbfy.gov.cn)  
  武汉铁院   -⠀-⠀[Ⓕ](http://whtlysfy.hbfy.gov.cn/)⠀
@@ -2420,7 +2420,7 @@
 
 ### 44 [广东省](http://www.gd.gov.cn/zjgd/ '人民政府网'){:id='44'}　粤　[🛂️](https://gdga.gd.gov.cn '公安厅/局')　[⚔️](http://www.gd.jcy.gov.cn '省级检察院')　[⚖️](https://www.gdcourts.gov.cn/fygk/xiaqufayuangaikuang '高级法院')
 
- **广州海事法院** 　　-　-　[⚖️](https://www.gzhsfy.gov.cn/)  
+ **广州海事法院** 　[⚖️](https://www.gzhsfy.gov.cn/)  
 
  **广州铁路中院** 　　[🛂️](/gtpolice?广州铁路公安局)　-　[⚖️](http://www.gtcourt.gov.cn)  
  广州铁院   ⠀[Ⓖ](https://weibo.com/gtgac?广州铁路公安处)⠀-⠀[Ⓕ](http://www.gtyy.gov.cn/)⠀
@@ -2604,7 +2604,7 @@
 
 ### 45 [广西壮族自治区](http://www.gxzf.gov.cn/mlgxi/ '人民政府网'){:id='45'}　桂　[🛂️](http://gat.gxzf.gov.cn '公安厅/局')　[⚔️](http://www.gx.jcy.gov.cn '省级检察院')　[⚖️](https://gxfy.gxcourt.gov.cn/ '高级法院')
 
- **北海海事法院** 　!银海区　-　-　[⚖️](https://www.bhhsfy.gov.cn/)  
+ **北海海事法院** 　!银海区　[⚖️](https://www.bhhsfy.gov.cn/)  
 
  **南宁铁路中院** 　　[🛂️](/ntpolice?南宁铁路公安局)　-　[⚖️](https://nntlzy.gxcourt.gov.cn)  
  南宁铁院   ⠀[Ⓖ](https://weibo.com/nntlgac?南宁铁路公安处)⠀-⠀[Ⓕ](https://nntlfy.gxcourt.gov.cn)⠀
@@ -2751,7 +2751,7 @@
 
 ### 46 [海南省](http://www.hainan.gov.cn '人民政府网'){:id='46'}　琼　[🛂️](http://ga.hainan.gov.cn '公安厅/局')　[⚔️](http://www.hi.jcy.gov.cn '省级检察院')　[⚖️](https://www.hicourt.gov.cn/ '高级法院')
 
- **海口海事法院** 　!美兰区　-　-　[⚖️](https://hsfy.hicourt.gov.cn/)  
+ **海口海事法院** 　!美兰区　[⚖️](https://hsfy.hicourt.gov.cn/)  
 
  **自贸港知产法院** 　　-　-　[⚖️](https://www.hftpipc.gov.cn/)  
 
