@@ -375,7 +375,7 @@
 
 <div id="5" align="right"><a href="#mulu" target="_self">↑Top</a></div>
 
-5 国务院<sup>中央人民政府</sup>
+5 国务院 <sup>(中央人民政府)</sup>
 ========
 🟦 **中国政府网**	 　[Gov.CN](https://www.gov.cn)
 
@@ -605,7 +605,7 @@
 
 5.4 国务院组成部门 🏢 25个
 -----------------
-及〖部委管理的国家局〗
+及【部委管理的国家局】〖〗
 
 　　
 各部委对外名称并不是‘国务院某某部’，而是‘中华人民共和国某某部’，本页面简称为‘某某部’。十八大后，国务院的部门做过较大调整；二十大后，国务院继续落实[机构改革方案](https://www.gov.cn/xinwen/2023-03/11/content_5745977.htm)，国务院网站‘组织机构’页面原入口已撤下，本页等待官方更新，暂时保持[原有部门顺序](https://www.zhihu.com/question/28026852)。
@@ -642,11 +642,11 @@
 	  - [网络违法举报](http://cyberpolice.mps.gov.cn/wfjb/)
 	- 🚓  122（部分城市开通12123）车辆交通安全综合服务管理平台 [GAB.122.gov.cn](https://gab.122.gov.cn)
 	- ☎️ 12389 公安机关及民警违法违纪举报中心 [12389.gov.cn](https://www.12389.gov.cn)
-	- 国家移民管理局	[NIA.gov.cn](https://www.nia.gov.cn)+【中华人民共和国出入境管理局】，《中国移民管理报》等[专题专栏](https://www.nia.gov.cn/n741435/n907688/)
+	- 【国家移民管理局】	[NIA.gov.cn](https://www.nia.gov.cn)+〖中华人民共和国出入境管理局〗，《中国移民管理报》等[专题专栏](https://www.nia.gov.cn/n741435/n907688/)
 	  - 📞 12367 移民咨询服务热线 设分中心　	 [国家移民管理局政务服务平台](https://s.nia.gov.cn)
 	- 🙋 直属高校（5所）：中国人民公安大学（北京）、中国人民警察大学（河北廊坊）、中国刑事警察学院（辽宁沈阳）、南京森林警察学院（江苏南京）、铁道警察学院（河南郑州）。 *原 武警学院 和 海警学院 已转为军事院校，不再公开网站*
 
-* 司法部	　 [MOJ.gov.cn](https://www.moj.gov.cn )	【中共中央全面依法治国委员会】办公室设在司法部
+* 司法部	　 [MOJ.gov.cn](https://www.moj.gov.cn )	〖中共中央全面依法治国委员会〗办公室设在司法部
 	（*司法部并不是司法机关，或许称为‘司法服务部’更准确*）
 	- 📞 12348 全国公共法律服务专用电话 双号并行 [中国法律服务网](http://12348.moj.gov.cn "12348中国法网") 法律咨询、找调解仲裁、司法考试、可以查全国律师事务所
 	- [法律法规规章](https://www.moj.gov.cn/Department/node_592.html)栏目，[检索](http://search.chinalaw.gov.cn)页
@@ -662,9 +662,9 @@
 * 🚒 应急管理部	　 [MEM.gov.cn](http://www.mem.gov.cn )	　 📰[《中国应急管理报》](http://paper.aqsc.cn)
 	- 📞 12350 事故举报电话 双号并行
 	- 国家防汛抗旱总指挥部……
-	- 中国地震局	　 [中国地震台网中心](https://www.cenc.ac.cn/)最新地震信息
-	- 〖[国家矿山安全监察局](https://www.chinamine-safety.gov.cn)〗	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
-	- 〖[国家消防救援局](https://www.119.gov.cn)〗 119.Gov.cn	　 2023年1月成立。
+	- [中国地震局](https://www.cea.gov.cn)	*不是国家局*　 [中国地震台网中心](https://www.cenc.ac.cn/)最新地震信息
+	- 【[国家矿山安全监察局](https://www.chinamine-safety.gov.cn)】	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
+	- 【[国家消防救援局](https://www.119.gov.cn)】 119.Gov.cn	　 2023年1月成立。
 	  - 🚨 119 火警电话	　 被困救援、摘马蜂窝 🚒 全国17个消防救援总队，4个消防研究所（津沪沈川）
 	  - [消防员招录](http://xfyzl.119.gov.cn/) /《[中国消防](http://www.china-fire.com/photo/list-zgxf.html)》杂志
 	  - [社会消防技术服务](https://shhxf.119.gov.cn)信息系统，注册消防工程师考试。	　 
@@ -678,10 +678,10 @@
 	- 📰[《中国改革报》](http://www.cfgw.net.cn/epaper)、📰[《中国经济导报》](http://www.ceh.com.cn/epaper/uniflows/html/)
 	- 国家信息中心[]()	　 [中国经济信息网](https://www.cei.cn)（中经网）、[一带一路网](http://www.zgydyl.org)
 	- 国家公用信息中心[]()	　 [信用中国网](https://www.creditchina.gov.cn/xinyongfuwu/)（与人民银行共同指导）
-	- 〖国家粮食和物资储备局〗[LSWZ](https://www.LSWZ.gov.cn/)
-	- 〖[国家能源局](http://www.nea.gov.cn)〗	　
+	- 【国家粮食和物资储备局】[LSWZ](https://www.LSWZ.gov.cn/)
+	- 【[国家能源局](http://www.nea.gov.cn)】	　
 	  - ☎️ 12398 [电力监管投诉举报](http://www.nea.gov.cn/n_home/n_gzfw/rx12398)热线电话：乱收电费/偷电/违反《电力监管条例》
-	- 〖[国家数据局](https://www.nda.gov.cn/)〗
+	- 【[国家数据局](https://www.nda.gov.cn/)】
 
 * 🖨️ 工业和信息化部	　 [MIIT.gov.cn](http://www.miit.gov.cn/) 工信部	　 *管电信的，号码资源丰富*
 	- ☎️ 12381 [公共服务](https://www.miit.gov.cn/gzcy/cydh/ )政府信息公开
@@ -690,23 +690,23 @@
 	- ☎️ 12321 垃圾信息[举报受理中心](https://12321.cn)	　 投诉垃圾短信、诈骗电话、[短信/电话轰炸](https://www.12321.cn/bomber)、不良App，可微信关注‘12321受理中心’。
 	- [软件和信息技术服务业](https://rjjs-service.miit.gov.cn/)信息平台
 	- 📠 010-66411166 网站备案全国咨询电话🌏	　 IP地址/域名信息/ICP[备案管理系统](https://beian.miit.gov.cn/)
-	- &【[国家航天局](http://www.cnsa.gov.cn)】🚀、&【[国家原子能机构](http://www.caea.gov.cn)】、[国家国防科技工业局](http://www.sastind.gov.cn) 
+	- &〖[国家航天局](http://www.cnsa.gov.cn)〗🚀、&〖[国家原子能机构](http://www.caea.gov.cn)〗、[国家国防科技工业局](http://www.sastind.gov.cn) 
 	- 🙋 直属高校（7所，原‘国防七校’）：[北航](http://www.buaa.edu.cn)、[北理](http://www.bit.edu.cn)、[哈工大](http://www.hit.edu.cn)、[哈工程](http://www.hrbeu.edu.cn)、[西北工大](http://www.nwpu.edu.cn)、[南航](http://www.nuaa.edu.cn)、[南理](http://www.njust.edu.cn)。
-	- 📞 12313 〖[国家烟草专卖局](http://www.tobacco.gov.cn/)〗	烟草市场监管服务热线 设分中心
+	- 📞 12313 【[国家烟草专卖局](http://www.tobacco.gov.cn/)】	烟草市场监管服务热线 设分中心
 
 * 科学技术部	　 [MoST.gov.cn](http://www.most.gov.cn/) 科技部　 📰[《科技日报》](http://digitalpaper.stdaily.com)	
-	- （&国家外国专家局）
 	- - 国家级[高新技术产业开发区](http://www.chinatorch.gov.cn/gxq/gxqmd/list.shtml)名单，2022年173家
 
 * 📐 教育部	　 [MOE.gov.cn](http://www.moe.gov.cn )　 📰[《中国教育报》](http://paper.jyb.cn)
 	- [中国教育电视台](http://www.centv.cn )：☁️[CETV-1~4](http://www.centv.cn/cetv1)、国家开放大学（原中央广播电视大学）
 	- 🙋 教育部75所[直属高校](http://www.moe.gov.cn/jyb_zzjg/moe_347) （北大、清华、中科大……等高等学校）
 	- 大学生就业网[新职业](https://www.ncss.cn ) 
-	- &【[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language)】 《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 
+	- &〖[国家语言文字工作委员会](http://www.moe.gov.cn/jyb_sy/China_Language)〗 《汉语拼音方案》等[资料下载](http://www.moe.gov.cn/jyb_sjzl/ziliao/A19/index_2.html ) 
 	- 中国教育出版传媒集团（人民教育出版社、高等教育出版社、语文出版社）
 	- [校外培训机构查询](http://xwpx.emis.edu.cn ) 20210615，<校外教育培训监管司>成立
 
-* 人力资源和社会保障部	　 [MoHRSS.gov.cn](http://www.mohrss.gov.cn ) 
+* 人社部	　 [MoHRSS.gov.cn](http://www.mohrss.gov.cn ) 人力资源和社会保障部
+	- +〖国家外国专家局〗
 	- 📞 12333 全国人力资源和社会保障服务电话 双号并行	[各地社保局办事大厅地址](http://si.12333.gov.cn/147439.jhtml)
 
 * 民政部	　 [MCA.gov.cn](http://www.mca.gov.cn ) 
@@ -731,10 +731,8 @@
 	- 近三百种[主管报刊](http://www.nhc.gov.cn/wjw/zgbkqk/201612/93a6cd0ea6944c87867ce78821443ea3.shtml)，《中国医学科学》杂志、《抗癌之窗》、《医学参考报》等
 	- 📞 12320 全国统一公共卫生公益服务电话 双号并行。 *医保卡查询见 5.3段 医保局*
 	- ★ 新冠疫情防控 [情况通报](http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml)
-	  - [《新冠肺炎诊疗方案》](http://www.nhc.gov.cn/ylyjs/pqt/202301/32de5b2ff9bf4eaa88e75bdf7223a65a.shtml) 2023年1月第十版，加强中医药干预。
-	  *大萌为官方pdf文件[增加了书签](jujia)，便于阅读检索* 
-	- 〖国家疾病预防控制局〗[NDCPA](https://www.ndcpa.gov.cn/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
-	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/【中国医学科学院】、 中日友好医院、国家心血管病中心、国家癌症中心
+	- 【国家疾病预防控制局】[NDCPA](https://www.ndcpa.gov.cn/)	　 2021年5月挂牌，由内设局升级为国家局，副部级，卫健委代管。
+	- 直属医疗机构：北京医院、[北京协和医院](http://www.cams.ac.cn/首页/院校概况/)/中国医学科学院、 中日友好医院、国家心血管病中心、国家癌症中心
 	- 🙋直属高校（1所）：[北京协和医院](http://www.cams.ac.cn)
 	- 〖[国家中医药管理局](http://www.natcm.gov.cn)〗 NaTCM	　 [便民就医导航](http://www.satcm.gov.cn/banshifuwu/) / [镜像站](http://www.cntcm.com.cn/page-jydh.html)
 	  - [中国中医科学院](https://www.cacms.ac.cn) / [广安门医院](https://gamhospital.ac.cn)
@@ -808,7 +806,7 @@ MCT，Ministry of Culture and Tourism
 	- 全国文化和旅游市场[网上举报投诉](https://jbts.mct.gov.cn)　~~原12318全国文化市场举报电话、12301全国旅游投诉电话~~，已于2021年取消，并入12345
 	- 社会艺术水平[考级机构名单](https://zwfw.mct.gov.cn/shysspkjjg?)
 	- [云游中国](https://lyfw.mct.gov.cn/)国家5A级景区318家、中国[红色旅游网](http://www.redtourism.com.cn)、[长城国家文化公园](http://changcheng.ctnews.com.cn/)网、长征国家文化公园
-	- （+国家文物局）
+	- 【[国家文物局](http://www.ncha.gov.cn)】
 
 * 商务部	　 [MofCOM.gov.cn](http://www.mofcom.gov.cn/ )
 	- ☎️ 12335 [中国外经贸企业服务网](http://12335.mofcom.gov.cn)　 涉外贸易
@@ -854,7 +852,7 @@ MCT，Ministry of Culture and Tourism
 * 中国机构编制网 [党中央机构](http://www.scopsr.gov.cn/zlzx/jggk/201901/t20190118_359604.html )页面(2019年)、共产党员网[党中央部门机构](http://news.12371.cn/dzybmbdj/)页面
 * 中央编办[全国党政机关事业单位互联网网站标识管理服务平台](http://bszs.conac.cn)
 * 民政部[中国社会组织公共服务平台](http://www.chinanpo.gov.cn)
-* 维基百科【机关报】条目、【人民团体】条目
+* 维基百科‘机关报’条目、‘人民团体’条目
 
 　　由于编者的水平有限，页面中难免有错误和不足，恳请读者批评指正。
 
@@ -865,8 +863,8 @@ MCT，Ministry of Culture and Tourism
 * ☎️ 国家机关电话号码	 　*暂计19个*
 * 📞 12345电话热线及并行号码、分中心号码	 　*暂计21个*
 * 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计15个*
-*  A ＋【加挂B牌子】， A ＋⋙【B】  A加挂B牌子，由某B承担职责
-*  A ／【B】 一块机构两块牌子， B &【保留A牌子】 <!-- ＋→→⇢⇨⋙ -->
+*  A ＋〖加挂B牌子〗， A ＋⋙【B】  A加挂B牌子，由某B承担职责
+*  A ／〖B〗 一块机构两块牌子， B &〖保留A牌子〗 <!-- ＋→→⇢⇨⋙ -->
 * 〖国务院部委管理的国家局〗
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
@@ -877,7 +875,7 @@ MCT，Ministry of Culture and Tourism
 	老生常谈© 2019-2025 大萌   知识共享许可
 	CC BY-NC-ND 3.0	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/zhongyang
-	中央有关部门集	v1.4.7	202502
+	中央有关部门集	v1.4.8	202502
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
