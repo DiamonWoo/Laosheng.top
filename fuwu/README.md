@@ -1,7 +1,6 @@
 有关部门服务网 🕗
 ================
 大萌　2021-2025	<base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/fuwu/bolan" />
 
 		要学会通过网络走群众路线 —— 习近平4.19讲话
 
@@ -9,11 +8,11 @@
 
 +	./zhongyang	🕰 [中央有关部门集](zhongyang){:target="_top"}，政令畅通一盘棋。　人大政协两院、党中央国务院，全国统一咨询和投诉电话。（更新中）
 	+ ./yuanxiao 👨‍🎓 [高等院校三千所](yuanxiao){:target="_top"}，助力考生选大学。 军校、中管、部本、省本、高职、成教，中国高校层级图谱。（2024新版⭐）
-	+ ./yangqi 🧧 [央企股票全家福](yangqi){:target="_top"}，国计民生胆气足！　广义央企分类图谱，国资委监管98-1家央企的400多支股票
+	+ ./yangqi 🧧 [央企股票全家福](yangqi){:target="_top"}，国计民生胆气足！　广义央企分类图谱，国资委监管98家央企的400多支股票
 	+ ./jinrong 🥯 [个人理财金融圈](jinrong){:target="_top"}，从 中国金融监管体系 看投资理财多种渠道（第三稿发布）
 	+ 
 
-+	省地市主要部门，全国333个地级市：
++	省地市有关部门，全国333个地级市：
 	+ ./huizhan 💫 老生常谈[逛会展](huizhan)，每个省都有的会展中心（等待重构）
 	+ ./— — — 👔 各地人才就业网，积极工作站稳岗。　各省地市的人社局、零工市场、公共招聘就业服务平台……（内测中）
 	+ ./zhengfa 🏢 <a href="fazhi" target="fazhiye" title="省地级法治部门">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
@@ -111,7 +110,7 @@
     *	2021年5月发布的[2020年完整数据](https://www.mca.gov.cn/n156/n186/c110746/content.html)
   * 政务服务/查询服务/《[全国行政区划图](http://xzqh.mca.gov.cn/map)》
 
-* 国务院网站/政策/[互联网+政务服务](http://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)
+* 国务院网站/政策/[互联网+政务服务](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)
 
 
 条块补遗
