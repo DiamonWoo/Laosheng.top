@@ -3631,10 +3631,9 @@
 620123 [榆中县](http://www.lzyuzhong.gov.cn) -⠀-⠀-⠀
  [兰州新区](https://www.lzxq.gov.cn ' 国家级新区，201208') G !皋兰县-⠀-⠀[Ⓕ](https://www.lzxq.gov.cn/system/2017/04/11/000071651.shtml)⠀
 
- [**甘肃矿区**](http://www.zh404.cn '甘肃矿区人民法院 中核的地级管理区在嘉峪关，中级法院在兰州市城关区，前身是五华山地区') 中核四〇四　　-　[⚔️](http://www.gansukuangqu.jcy.gov.cn/)　[⚖️](https://kuangqu.chinagscourt.gov.cn/)  
-
-620200 [**嘉峪关市**](https://www.jyg.gov.cn ' 直筒子市，不设区。') 　甘B　0937　[🛂️](http://www.jyg.gov.cn/gaj/)　[⚔️](http://www.jygjcy.gov.cn/)　[⚖️](https://jiayuguan.chinagscourt.gov.cn)  
- 城区法院   -⠀-⠀[Ⓕ](https://jiayuguan.chinagscourt.gov.cn/Show/95665)⠀
+ [**甘肃矿区**](http://www.zh404.cn '甘肃矿区人民法院 中核的地级管理区在嘉峪关，中级法院在兰州市城关区，前身是五华山地区') 中核四〇四 !嘉峪关市/兰州市　-　[⚔️](http://www.gansukuangqu.jcy.gov.cn/)　[⚖️](https://kuangqu.chinagscourt.gov.cn/)  
+620200 [**嘉峪关市**](https://www.jyg.gov.cn ' 直筒子市，不设区。') 　甘B　0937　[🛂️](http://www.jyg.gov.cn/gaj/)　[⚔️](http://www.jygjcy.gov.cn/)　[⚖️](https://jiayuguan.chinagscourt.gov.cn)
+　 城区法院 -⠀-⠀[Ⓕ](https://jiayuguan.chinagscourt.gov.cn/Show/95665)⠀
 
 620300 [**金昌市**](http://www.jcs.gov.cn) 　甘C　0935　[🛂️](http://gaj.jcs.gov.cn)　-　-  
 620302 [金川区](http://www.jinchuan.gov.cn) -⠀-⠀-⠀
@@ -3973,7 +3972,7 @@
 654325 [青河县](http://www.xjqh.gov.cn) -⠀-⠀-⠀
 654326 [吉木乃县](http://www.jmn.gov.cn/013/listPage.html) -⠀-⠀-⠀
 
-<div align='right' id='65'>.<a href='#mulu' target='_top'>Top</a>↑</div>
+<div align='right' id='6590'>.<a href='#mulu' target='_top'>Top</a>↑</div>
 ### 65 [新疆生产建设兵团](http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml '人民政府网'){:id='65'}　兵团　[🛂️](http://btgaj.xjbt.gov.cn '公安厅/局')　[⚔️](http://jcy.xjbt.gov.cn '省级检察院')　[⚖️](http://btfy.btcourt.gov.cn/article/webgroup.shtml '高级法院')
 
 659002 [**第一师 阿拉尔市**](http://www.ale.gov.cn ' 驻地：阿克苏市') 三五九旅　0997　-　[⚔️](http://www.ale.gov.cn/bmzd/spjcjg/jcy)　[⚖️](http://btd1szy.btcourt.gov.cn/)  
@@ -4040,7 +4039,7 @@
  **台湾高等法院** 　　-　-　[⚖️](https://tph.judicial.gov.tw/)  
  [台北市](https://www.gov.taipei ' 民国直辖市') -⠀-⠀-⠀
  [新北市](https://www.ntpc.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
- 士林地院   -⠀-⠀[Ⓕ](https://sld.judicial.gov.tw/)⠀
+ 士林地院   [Ⓕ](https://sld.judicial.gov.tw/)⠀
  [桃园市](https://www.tycg.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
  [基隆市](https://www.klcg.gov.tw/ ' 县级市') -⠀-⠀-⠀
  [新竹市](https://www.hccg.gov.tw/ ' 县级市') -⠀-⠀-⠀
@@ -4061,7 +4060,7 @@
 
  **高雄高分院** 　　-　-　[⚖️](https://ksh.judicial.gov.tw/)  
  [高雄市](https://www.kcg.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
- 桥头地院   -⠀-⠀[Ⓕ](https://ctd.judicial.gov.tw/)⠀
+ 桥头地院   [Ⓕ](https://ctd.judicial.gov.tw/)⠀
  [屏东县](https://www.pthg.gov.tw/) -⠀-⠀-⠀
  [澎湖县](https://www.penghu.gov.tw) -⠀-⠀-⠀
 
