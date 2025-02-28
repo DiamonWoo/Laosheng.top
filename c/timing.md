@@ -241,6 +241,7 @@
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
+*	<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>
 
 
 10、名站导航
