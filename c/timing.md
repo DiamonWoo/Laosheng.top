@@ -217,6 +217,9 @@
 9、IT洁癖
 ---------
 
+*	谷歌收购的导航站 <a title='' href='https://www.265.com'>265</a> 
+/	#<a href='https://scholar.google.com' title='论文与书籍检索'>谷歌学术</a>
+/	chrome#<a href='https://blog.google/products/chrome' title='Chrome Official Blog'>blog</a>
 *	<a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a>
 	旧域名已停用 https://www.chuyu.me
 *	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
@@ -241,20 +244,17 @@
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
+*	[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
 *	<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>
 
 
 10、名站导航
 -------------
 
-　<a href="https://weibo.com/yaochen" title="联合国难民署中国亲善大使">姚晨</a>
-
-*	<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a>
+*	<a href="https://weibo.com/hanhan" title="作家赛车手">韩寒</a> /
+	<a href="https://weibo.com/yaochen" title="联合国难民署中国亲善大使">姚晨</a>
 *	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
 *	　#<a href="https://instagram.com/7_luhan_m/?hl=zh-cn" title="鹿晗ins千万粉丝">Ins</a>
-*	小红书%  	<https://www.xiaohongshu.com/explore>
-	电脑上只有社区精选可部分浏览，手机浏览器访问默认此页
-
 *	中关村在线 	ZOL
 
 
@@ -362,7 +362,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202501
+	提名网站与落榜记	　202503
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
