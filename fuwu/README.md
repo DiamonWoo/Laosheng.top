@@ -19,8 +19,8 @@
 	+ ……
 
 +	县区级政府网址，全国约3000个县区：
-	+ ./qianxian 📑 [中国千县地名网](qianxian '千县网'){:target="_top"}，地名与政府网址。千年郡县，国泰民安。（2024年数据）
-	+ ‘千县公检法’页面并入《中国政法区划集》，请往本站【[法律](../falv){:target="_top"}】系列
+	+ ./qianxian 📑 [中国千县地名网](qianxian '千县网'){:target="_top"}，地名与政府网址。千年郡县，国泰民安。（2024年数据）  
+	　　‘千县公检法’页面并入《中国政法区划集》，请往本站【[法律](../falv){:target="_top"}】系列
 	+ ./[bowu](bowu){:target="_top"} 🛕《地大物博看中国》—— 收录：国家一级博物馆+红色旅游经典景区  
 	　　物华天宝、人杰地灵，复兴伟业、不忘初心！（正在设计）
 
@@ -37,7 +37,10 @@
 +	[国务院](https://www.Gov.cn)　　新华社[中央文件](http://www.news.cn/politics/zywj/index.htm)
 <!-- [联防联控机制文件](https://www.gov.cn/zhengce/gwylflkjzwj.htm) -->
 
-+	[新冠居家指引](../c/6-xinguanjujia){:target="_top"}文件速查，重点介绍中医预防、治疗与恢复，202301更新
++	2025全国两会专题：
+	[人民网](http://lianghui.people.com.cn/2025/)专题、
+	[新华网](https://www.news.cn/politics/2025lh/)专题、
+	[总台央视](https://news.cctv.com/special/2025lianghui/)
 
 
 行政区划介绍
