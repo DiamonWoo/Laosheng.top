@@ -244,7 +244,7 @@
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
-*	[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
+*	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
 *	<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>
 
 
@@ -261,6 +261,10 @@
 
 落榜记
 ======
+
+2025/3/7	#第一段
+*	<a href='https://zhihu.com/explore' title='知乎发现，手机端可进首页看推荐'>知乎</a>
+	因全面禁止访客搜索和发现页从搜索框撤下，只保留知乎学堂。
 
 
 2025/1/23	#第九段  
@@ -362,7 +366,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202503
+	提名网站与落榜记	　202501
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
