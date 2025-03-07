@@ -246,6 +246,11 @@
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
 *	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
 *	<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>
+*	在线写网页[codePen](https://codepen.io/pen/)、
+	在线沙盒IDE[codeSandBox](https://codesandbox.io/new?utm_source=landingpage)、
+	国产在线IDE[AnyCodes](https://anyCodes.cn/editor)、
+	全栈行动派[QZXDP](https://tools.qzxdp.cn/runcode)、
+	代码面试机[Techie Delight](https://www.techiedelight.com/compiler/zh/index)
 
 
 10、名站导航
@@ -366,7 +371,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202501
+	提名网站与落榜记	　202503
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
