@@ -50,7 +50,7 @@
 <!-- <a href='https://m.intl.taobao.com/search/search.html' title='淘海外搜索入口，允许访客搜'>淘宝</a> -->
 ⠀个<a href='https://greasyfork.org/zh-CN/scripts?q=zhihu' title='对抗网站脚本骚扰的用户脚本'>锤子</a>
 ⠀</small>
-<a href='https://zhihu.com/explore' title='知乎发现，手机端可进首页看推荐'>知乎</a><small>
+<a href='https://www.zhihu.com/education/learning' title='知乎学堂，免费与收费课程' rel='noreferrer'>知乎</a><small>
 ⠀<a href='https://kns.cnki.net/kns8/AdvSearch?' title='知网的高级搜索页'>知网</a></small>
 ⠀<a title='开放存取图书馆，界面有中文' href='https://www.oalib.com'>OALib</a>
 ⠀<a href='https://sousuo.www.gov.cn/sousuo/search.shtml' title='中央人民政府，2023秋启用安全证书'>国务院</a>
@@ -96,7 +96,7 @@
 	<!-- <a href='https://weibo.com/hot' title='微博搜索，新浪旗下'>微博</a> -->
 	<!-- https://weibo.com/newlogin?tabtype=topic&url= -->
 <input type='Radio' name='sou' value='6'>
-	<a href='https://www.zhihu.com/education/learning' title='免费与收费的课程' rel='noreferrer'>知乎</a>学堂
+	<a href='https://www.qiuwenbaike.cn/' title='中方立场的维基百科202206分支'>求闻</a>百科
 <input type='Radio' name='sou' value='7'>
 	俄<a href='https://Yandex.com' title='俄罗斯搜索，新时代全面战略协作伙伴'>Yandex</a>
 <input type='Radio' name='sou' value='8'>
@@ -712,12 +712,13 @@ d☁️ 手机上需模拟桌面模式
 	if (go[1].checked)	window.open('https://www.sogou.com/web?query=' + wen);
 	if (go[2].checked)	window.open('https://cn.bing.com/search?q=' + wen );	//+'&mkt=zh-CN'
 	if (go[3].checked)	window.open('https://www.so.com/s?q=' + wen);	
-	// ('https://www.dogedoge.com/results?q=' + wen)
+	//						('https://www.dogedoge.com/results?q=' + wen)
 	if (go[4].checked)	window.open('https://so.toutiao.com/search?dvpf=pc&keyword=' + wen ,'noreferrer=yes');
 	if (go[5].checked)	window.open('https://s.weibo.com/user?q=' + wen );	//全面搜索要求登录 =s.weibo.com/weibo?q=
-	if (go[6].checked)	window.open('https://www.zhihu.com/search?type=content&q=' + wen ,'noreferrer=yes');
-	//if (go[7].checked)	window.open('https://www.nona.de/?q=' + wen);		//德
-	//if (go[8].checked)	window.open('https://www.qwant.com/?q=' + wen).focus();	//法
+	if (go[6].checked)	window.open('https://www.qiuwenbaike.cn/index.php?search=' + wen);
+//	if (go[6].checked)	window.open('https://www.zhihu.com/search?type=content&q=' + wen); 对访客显示空白
+//	if (go[7].checked)	window.open('https://www.nona.de/?q=' + wen);		//德
+//	if (go[8].checked)	window.open('https://www.qwant.com/?q=' + wen).focus();	//法
 	if (go[7].checked)	window.open('https://yandex.com/search/?text=' + wen);	//俄
 	if (go[8].checked)	{if (!wen.startsWith('http')) wen='http://'+wen; 
 					window.open(wen);} //原网址
@@ -746,7 +747,7 @@ d☁️ 手机上需模拟桌面模式
 <pre>老生常谈© 2019-2025	Copyright by 大萌
 CC-BY-NC-ND-3.0	可转发-原署名-非演绎
 老生常谈排行榜	https://Laosheng.top/index2
-202503　v2.9.6	设计/汇编/制作：大萌</pre>
+202503　v2.9.7	设计/汇编/制作：大萌</pre>
 <!-- https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh' -->
 
 <table align='right'>	<!-- border='1' cellpadding='4' 点击二维码 -->
