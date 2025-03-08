@@ -757,11 +757,15 @@
 　🔺<a href='https://www.btzx.com.cn/web/2023/11/9/ARTI1699497820194600.html'>三五九旅屯垦纪念馆</a><sub>兵团介绍页</sub>
 
 
-<h3 id='71'>台湾　</h3>
+<h3 id='71'>台湾　🛕
+	[文化部](https://museums.moc.gov.tw/MusData)博物之岛
+</h3>
 　[台湾博物馆](https://www.ntm.gov.tw)
 　#台北[故宫博物院](https://www.npm.gov.tw)
 
-<h3 id='81'>香港　</h3>
+<h3 id='81'>香港　🛕
+	康乐及[文化事务署](https://www.lcsd.gov.hk/tc/facilities/facilitieslist/museums.html)
+</h3>
 　[香港故宫文化博物馆](https://www.hkpm.org.hk/)
 　[香港艺术馆](https://hk.art.museum/)
 　[香港历史博物馆](https://hk.history.museum/)
@@ -769,9 +773,12 @@
 　[香港大学美术博物馆](https://umag.hku.hk/)
 　[香港科学馆](https://hk.science.museum/)
 
-<h3 id='82'>澳门</h3>
-　[澳门博物馆](https://www.macaumuseum.gov.mo/)
+<h3 id='82'>澳门　🛕
+	[文化局](https://www.icm.gov.mo/)
+</h3>
+　[澳门博物馆](https://www.macaumuseum.gov.mo/)<sub>世界遗产</sub>
 　[澳门艺术博物馆](https://www.mam.gov.mo/)
+　[冼星海纪念馆](https://www.icm.gov.mo/cn/XianXingHai)<sub>🔺第三批国家级抗战纪念设施遗址名录</sub>
 
 
 <div id="3" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
@@ -793,7 +800,7 @@
 ```
 	老生常谈© 2019-2025 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	地大物博看中国 v0.3.7	202503
+	地大物博看中国 v0.3.8	202503
 	https://laosheng.top/fuwu/bowu
 ```
 🛕🏛️🏟️🌄🔻🔺📛🙏🕯🌼🪦⭕✴️🅾️🔴🟥
