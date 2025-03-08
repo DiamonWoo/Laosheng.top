@@ -7,19 +7,64 @@
 
 　　刚刚过去的2024年，“全国博物馆全年接待观众数量超14亿人次”，平均每个中国人至少去了一次博物馆。这是2021年中宣部与国家文物局等九部委印发的《关于推进博物馆改革发展的指导意见》的实施成果。全国博物馆数量已经超过6000家，种类丰富。博物馆中既能看到中华文明悠久的历史文化，也能看到科学技术的探索发展，还有人民英雄的革命事迹。抚今追昔，幸福生活来之不易。
 
-　　本页面收录：**国家一级博物馆**、**红色旅游经典景区**。名录已经完整，网址正在添加。这两类场所大部分是免费的，半数以上有独立网站。而且这些网站都做的比较好，内容丰富、赏心悦目，既是文博爱好者的好去处，也是学习网页制作的好材料。自v0.3.5版后，本页面已改为‘集成网页’形式，早期名录表格式页面可看[这里](bowuminglu)。页面最下方是[参考文献](#3){:target="_top"}。
+　　本页面收录：**国家一级博物馆**、**红色旅游经典景区**。名录已经完整，网址正在添加。这两类场所大部分是免费的，半数以上有独立网站。而且这些网站都做的比较好，内容丰富、赏心悦目，既是文博爱好者的好去处，也是学习网页制作的好材料。自v0.3.5版后，本页面已改为‘集成网页’形式，早期名录表格式页面可看[这里](bowuminglu)。另外增补若干台港澳博物馆。
 
-**图例与统计**
+<div align="right">
+⏩老生常谈 / 有关部门<a href="https://Laosheng.top/fuwu/" target="_top">【服务网】</a>
+/ 博物馆</div>
+
+<h3 id="mulu">各省索引</h3>
+　[数据来源](#1){:target="_top"}  
+　[图例与统计](#2){:target="_top"}  
+<small>按身份证号前两位排序： </small>
+　<a href="#11" target="_top">11-北京</a>
+　<a href="#12" target="_top">12-天津</a>
+　<a href="#13" target="_top">13-河北</a> 冀
+　<a href="#14" target="_top">14-山西</a> 晋
+　<a href="#15" target="_top">15-内蒙古</a> 蒙
+　<a href="#21" target="_top">21-辽宁</a>
+　<a href="#22" target="_top">22-吉林</a>
+　<a href="#23" target="_top">23-黑龙江</a>
+　<a href="#31" target="_top">31-上海</a> 沪
+　<a href="#32" target="_top">32-江苏</a> 
+　<a href="#33" target="_top">33-浙江</a> 
+　<a href="#34" target="_top">34-安徽</a> 皖
+　<a href="#35" target="_top">35-福建</a> 闽
+　<a href="#36" target="_top">36-江西</a> 赣
+　<a href="#37" target="_top">37-山东</a> 鲁
+　<a href="#41" target="_top">41-河南</a> 豫
+　<a href="#42" target="_top">42-湖北</a> 鄂
+　<a href="#43" target="_top">43-湖南</a> 湘
+　<a href="#44" target="_top">44-广东</a> 粤
+　<a href="#45" target="_top">45-广西</a> 桂
+　<a href="#46" target="_top">46-海南</a> 琼
+　<a href="#50" target="_top">50-重庆</a> 渝
+　<a href="#51" target="_top">51-四川</a>/蜀
+　<a href="#52" target="_top">52-贵州</a>/黔
+　<a href="#53" target="_top">53-云南</a>/滇
+　<a href="#54" target="_top">54-西藏</a>
+　<a href="#61" target="_top">61-陕西</a>/秦
+　<a href="#62" target="_top">62-甘肃</a>
+　<a href="#63" target="_top">63-青海</a>
+　<a href="#64" target="_top">64-宁夏</a>
+　<a href="#65" target="_top">65-新疆</a> 新
+　<a href="#6590" target="_top">6590-新疆兵团</a>
+　<a href="#71" target="_top">71-台湾</a>
+　<a href="#81" target="_top">81-香港</a>
+　<a href="#82" target="_top">82-澳门</a>
+　[参考文献](#3){:target="_top"}
+
+<h3 id="1">图例与统计</h3>
+
+<li>	🛕 国家一级博物馆　	327家（2024年数据）</li>
+<li>	🔺 红色旅游经典景区　	300处（2016年公布）</li>
+<li>	💭 鼠标指针靠近有提示	（电脑上能显示）</li>
 
 	　　　省份	北京	天津	河北	山西	内蒙	辽宁	吉林	龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	兵团 
 	一级博物馆🛕	23	2	8	9	9	9	5	6	10	26	21	9	7	17	31	14	12	10	14	5	2	7	16	5	4	1	15	9	2	3	3	0　　🛕
 	　红色景区🔺	15	6	14	9	8	12	8	12	7	11	10	8	9	11	13	14	14	14	13	5	8	4	9	8	9	5	13	10	5	4	8	4　　🔺
 
-*	🛕 国家一级博物馆　	327家（2024年数据）
-*	🔺 红色旅游经典景区　	300处（2016年公布）
-*	💭 鼠标指针靠近有提示	（电脑上能显示）
-
-<h3>数据来源有关部门</h3>
+<h3 id="2">数据来源有关部门</h3>
 
 *	国务院（[文旅部](https://www.mct.gov.cn/)代管）[国家文物局](http://www.ncha.gov.cn/)
 	* [全国博物馆名录](http://www.ncha.gov.cn/col/col2267/)、[年度报告信息](http://nb.ncha.gov.cn/museum.html?)，公布第1批、第2批国家一级博物馆名录。
@@ -28,9 +73,7 @@
 	* 发改委：[发改社会〔2016〕2662号](https://www.ndrc.gov.cn/xxgk/zcfb/tz/201612/t20161230_962839.html)，关于印发全国红色旅游经典景区名录的通知
 	* 文旅部：[红色旅游经典景区](https://www.mct.gov.cn/tourism/#/list?drid=4)名录查询
 
-<div align="right" id="1">
-⏩老生常谈 / 有关部门<a href="https://Laosheng.top/fuwu/" target="_top">【服务网】</a>
-/ 博物馆</div>
+<div align="right"><a href="#mulu" target="_top">.Top↑</a></div>
 
 
 <h3 id='11'>北京市　🛕：28　🔺：11</h3>
@@ -664,6 +707,7 @@
 　🔺<a title='（陕甘宁省豫海县回民自治政府旧址、红军西征纪念园、豫旺堡西征红军总指挥部旧址）'>红军西征红色旅游系列景区</a>💭
 　🔺<a>革命烈士纪念馆</a>
 　🔺<a>中华回乡文化园</a>
+
 <h3 id='65'>新疆维吾尔自治区　🛕：3　🔺：8</h3>
 　<a title='新疆维吾尔自治区博物馆有人备份旧站'>新疆博物馆</a>💭
 　<a>吐鲁番市文博院</a>
@@ -676,11 +720,29 @@
 　🔺<a>库尔班·吐鲁木纪念馆</a>
 　🔺<a href='http://xj.wenming.cn/xjly/201203/t20120309_548596.shtml'>红军西路军进疆纪念园</a><sub>文明网介绍页</sub>
 　🔺<a href='https://baijiahao.baidu.com/s?id=1746561842176937210'>马兰军博园</a><sub>科协介绍页</sub>
+
 <h3 id='65'>新疆生产建设兵团　🛕：0　🔺：4</h3>
 　🔺<a title='（第十师卫国戍边红色景区，第十四师革命历史－屯垦戍边纪念馆，第八师小李庄军垦旧址）'>新疆生产建设兵团系列景区</a>💭
 　🔺<a href='http://www.shz.gov.cn/mlsc/011003/011003005/20211105/332ce128-a956-420d-86cc-c29267827cec.html' title='（新疆生产建设兵团军垦博物馆，第八师周恩来总理纪念馆）'>石河子市红色旅游系列景区</a>💭<sub>兵团介绍页，兵团军垦博物馆</sub>
 　🔺<a href='http://www.wjq.gov.cn/sfgk/lswh/193623.htm'>第六师五家渠市军垦博物馆</a><sub>兵团介绍页</sub>
 　🔺<a href='https://www.btzx.com.cn/web/2023/11/9/ARTI1699497820194600.html'>三五九旅屯垦纪念馆</a><sub>兵团介绍页</sub>
+
+
+<h3 id='71'>台湾　</h3>
+　[台湾博物馆](https://www.ntm.gov.tw)
+　#台北[故宫博物院](https://www.npm.gov.tw)
+
+<h3 id='81'>香港　</h3>
+　[香港故宫文化博物馆](https://www.hkpm.org.hk/)
+　[香港艺术馆](https://hk.art.museum/)
+　[香港历史博物馆](https://hk.history.museum/)
+　[香港文化博物馆](https://www.heritagemuseum.gov.hk/)
+　[香港大学美术博物馆](https://umag.hku.hk/)
+　[香港科学馆](https://hk.science.museum/)
+
+<h3 id='82'>澳门</h3>
+　[澳门博物馆](https://www.macaumuseum.gov.mo/)
+　[澳门艺术博物馆](https://www.mam.gov.mo/)
 
 
 <div id="3" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
