@@ -79,8 +79,8 @@
 *	长途区号查询	<https://www.123cha.com/postal/>	
 *	查号吧   	<https://www.chahaoba.com/Chahaoba:关于>
 
-*	<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
-*	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
+*	上海报业：<a href="https://www.shobserver.com" title="澎湃新闻 上海报业集团">上观</a>
+	<a href="http://jiemian.com" title="界面新闻 上海报业集团">界面</a>
 
 　<a title="还能评论吗" href="https://news.qq.com">腾讯新闻</a>
 　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
@@ -167,18 +167,18 @@
 
 网络书店：
 
-*	当当书店 	<http://book.dangdang.com > 曾经第一的网上书店，创始人家庭不和，无心发展，<del>至今不提供</del>2023年才默认安全连接。
-*	中国图书网	<http://www.bookschina.com>  2折买尾货
-*	蔚蓝书店 	<https://www.wl.cn>
-*	亚马逊书店	2019年下半年亚马逊停止国内实体书销售
-*	京东书店 	
-*	浙江博库 	
-*	北京北新网	
+*	当当书店 	<http://book.dangdang.com> 曾经第一的网上书店，<del>至今不提供</del>2023年才默认安全连接。
+*	京东书店 	<https://book.jd.com> 　	蔚蓝书店 	<https://www.wl.cn> 
+*	亚马逊书店	2019年下半年停止国内实体书销售
+*	中国图书网	<http://www.bookschina.com>  2折买尾货　	北京北新网 　	浙江博库 　	
 *	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
 
+　　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
+　<a title='2018年起施行，文化旅游部刊登' href='https://www.mct.gov.cn/whzx/bnsj/ggwhs/201801/t20180131_831090.htm' >公共图书馆法</a>
 　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
-	<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
+　	<a title='北京故宫博物院' href='https://www.dpm.org.cn/'>故宫</a>
 
+*	<a href='https://www.gutenberg.org/browse/languages/zh' title='提供版权过期书籍的电子版，亦作古腾堡'>古登堡</a>公有领域书籍的电子版
 *	维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App、
 	%<a href="https://www.zdic.net/" title="查字词，查古文，近期广告增加">汉典</a> 202408因手机广告下榜
