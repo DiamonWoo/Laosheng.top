@@ -85,19 +85,19 @@
 　<a href='http://www.jb.mil.cn'>中国人民革命军事博物馆</a><sub>🔺军博</sub>
 　<a href='https://www.zghkbwg.mil.cn'>中国航空博物馆</a><sub>🔺</sub>
 　<a href='http://www.luxunmuseum.com.cn/'>北京鲁迅博物馆</a><sub>🔺（北京新文化运动纪念馆）</sub>
-　<a href='https://www.capitalmuseum.org.cn'>首都博物馆</a>
-　<a href='https://www.nnhm.org.cn'>国家自然博物馆</a>
-　<a href='http://www.1937china.com'>中国人民抗日战争纪念馆</a><sub>🔺</sub>
+　<a href='https://www.capitalmuseum.org.cn' title='北京文物局'>首都博物馆</a>💭
+　<a href='https://www.nnhm.org.cn' title='北京市科学技术研究院主管'>国家自然博物馆</a>💭
+　<a href='http://www.1937china.com' title='北京市财政'>中国人民抗日战争纪念馆</a>💭<sub>🔺</sub>
 　<a href='https://www.zkd.cn'>周口店北京人遗址博物馆</a>
 　<a href='http://www.chnmuseum.cn'>中国国家博物馆</a><sub>🔺</sub>
 　<a href='http://www.zgnybwg.com.cn'>中国农业博物馆</a>
 　<a href='http://www.bjp.org.cn'>北京天文馆</a>
 　<a href='http://www.pgm.org.cn'>恭王府博物馆</a>
 　<a href='http://www.yinshuabwg.org'>中国印刷博物馆</a>
-　<a href='http://www.cnfm.org.cn' title='网站故障？原广电总局和北京市共建'>中国电影博物馆</a>💭<sub>？</sub>
+　<a href='http://www.cnfm.org.cn' title='网站故障？原广电总局和北京市共建'>中国电影博物馆</a>💭
 　<a href='http://www.automuseum.org.cn'>北京汽车博物馆</a>
 　<a href='http://www.artmuseum.tsinghua.edu.cn'>清华大学艺术博物馆</a>
-　<a href='http://www.ocmuseum.cn'>中国华侨历史博物馆</a>
+　<a href='https://www.ocmuseum.cn/'>中国华侨历史博物馆</a>
 　<a href='http://www.ngcc.org.cn'>中国妇女儿童博物馆</a>
 　<a href='http://www.customsmuseum.cn'>中国海关博物馆</a>
 　<a title='中华人民共和国名誉主席宋庆龄同志故居'>宋庆龄故居</a>💭
@@ -105,8 +105,8 @@
 　<a href='http://www.caacmuseum.cn'>民航博物馆</a>
 　<a href='http://www.wxg.org.cn'>中国现代文学馆</a>
 　<a href='http://www.china-rail.org.cn'>中国铁道博物馆</a><sub>、朝阳区、延庆区</sub>
-　<a href='http://www.gardensmuseum.cn'>园林博物馆</a>
-　<a href='https://www.xiangshan1949.cn'>香山革命纪念馆</a>
+　<a href='http://www.gardensmuseum.cn' title='北京市公园管理中心'>中国园林博物馆</a>💭
+　<a href='https://www.xiangshan1949.cn' title='在香山公园之外，无需预约'>香山革命纪念馆</a>💭
 　🎨<a href='https://www.namoc.org' title='1963年毛泽东题写馆额'>中国美术馆</a>💭<sub>文旅部直属</sub>
 　🎨<a href='https://cafamuseum.org' title='1953年中央美术学院陈列馆'>中央美术学院美术馆</a>💭<sub>首任馆长董希文</sub>
 　🎨<a href='https://www.bjaa.com.cn/chiefly.html?hcs=11&clg=150'>北京画院美术馆</a><sub>齐白石作品</sub>
@@ -157,13 +157,13 @@
 　🔺<a title='（晋冀鲁豫烈士陵园，武安市晋冀鲁豫中央局旧址，涉县八路军一二九师司令部旧址）'>邯郸市</a>💭
 <div id='14' align='right'><a href='https://wlt.shanxi.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>山西省　🛕 9　　🔺 9</h3>
-　<a href='https://www.shanximuseum.com.cn'>山西博物院</a>
+　<a href='https://www.shanximuseum.com.cn'>山西博物院</a><sub>青铜</sub>
 　<a href='http://www.coalmus.org.cn'>中国煤炭博物馆</a>
 　<a href='http://www.balujun.cn'>八路军太行纪念馆</a>
-　<a>大同市博物馆</a>
-　<a>山西地质博物馆</a>
-　<a>临汾市博物馆</a>
-　<a>太原市博物馆</a>
+　<a href='http://www.datongmuseum.com/'>大同市博物馆</a>
+　<a href='http://www.sxnhm.com' title='2023年改造升级，名字改了？'>山西地质博物馆</a>💭<sub>自然博物馆</sub>
+　<a href='http://www.linfenmuseum.com/'>临汾市博物馆</a>
+　<a href='http://www.tysmuseum.com/'>太原市博物馆</a>
 　<a href='https://jinci.taiyuan.gov.cn/'>太原市晋祠博物馆</a>
 　<a href='https://yc-museum.yuncheng.gov.cn/'>运城博物馆</a>
 　🔺<a title='（文水县刘胡兰纪念馆,兴县“四八”烈士纪念馆、晋绥边区革命纪念馆，临县中共中央后方委员会旧址、中共中央西北局旧址、陕甘宁晋绥联防军旧址）'>吕梁市红色旅游系列景区</a>💭
@@ -182,10 +182,10 @@
 　<a href='https://www.cfbwg.org.cn/'>赤峰博物馆</a>
 　<a href='http://www.hhhtbwg.cn'>呼和浩特博物院</a><sub>（内蒙古自治区将军衙署博物院）</sub>
 　<a>伊利草原乳文化博物馆</a>
-　<a>内蒙古自然博物馆</a>
+　<a href='https://www.immnh.org.cn'>内蒙古自然博物馆</a>
 　<a>包头市博物馆</a><sub>（包头市文物保护中心）</sub>
-　<a>呼伦贝尔博物院</a>
-　<a>阿拉善博物馆</a>
+　<a href='https://www.hlbebwy.com'>呼伦贝尔博物院</a>
+　<a href='https://www.alsbwg.cn'>阿拉善博物馆</a>
 　🔺<a title='（察哈尔抗日同盟军收复多伦指挥部、吉鸿昌将军讲演地、同盟军收复多伦战斗旧址）'>多伦县察哈尔抗战遗址</a>💭
 　🔺<a href='http://www.hjdzjng.com/' title='及田家镇惨案遗址，集宁战役红色纪念地'>绥蒙革命纪念馆</a>💭
 　🔺<a>内蒙古自治区政府成立纪念地</a>
@@ -197,23 +197,22 @@
 <div id='21' align='right'><a href='http://whly.ln.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>辽宁省　🛕 9　　🔺 12</h3>
 　<a href='https://lnmuseum.com.cn/'>辽宁省博物馆</a>
-　<a>“九·一八”历史博物馆</a>
-　<a>旅顺博物馆</a>
+　<a title='“九·一八”历史博物馆微博停更'>九一八历史博物馆</a>💭<sub>🔺[wb](https://www.weibo.com/918museum)</sub>
+　<a href='https://lvshunmuseum.cn/'>旅顺博物馆</a>
 　<a href='https://www.sypm.org.cn/'>沈阳故宫博物馆</a>
 　<a href='https://www.dlmodernmuseum.com'>大连博物馆</a>
 　<a href='http://www.dlnature.com'>大连自然博物馆</a>
 　<a href='http://finance.people.com.cn/GB/8215/435221/437704/437773/index.html'>鞍钢博物馆</a><sub>媒体介绍页</sub>
-　<a href='http://www.kmycjng.com'>抗美援朝纪念馆</a><sub>（丹东市抗美援朝研究中心）</sub>
+　<a href='http://www.kmycjng.com'>抗美援朝纪念馆</a><sub>🔺（丹东市抗美援朝研究中心）</sub>
 　<a href='http://www.lszynyjng.com'>辽沈战役纪念馆</a>
 　🔺<a title='沈阳二战盟军战俘营旧址陈列馆'>二战盟军战俘营</a>💭
-　🔺<a title='、鸭绿江断桥景区'>丹东市抗美援朝纪念馆</a>💭
 　🔺<a>关向应故居纪念馆</a>
 　🔺<a title='（抚顺平顶山惨案遗址纪念馆,抚顺战犯管理所旧址陈列馆）'>抚顺市红色旅游系列景区</a>💭
 　🔺<a href='https://www.leifeng.org.cn/'>雷锋纪念馆</a>
 　🔺<a>赵尚志纪念馆</a>
 　🔺<a>东北抗联史实陈列馆</a>
 　🔺<a href='https://www.gov.cn/xinwen/2019-12/04/content_5458491.htm' title='东北老工业基地转型发展系列景区政府介绍页'>东北老工业基地</a>💭<sub>媒体介绍页</sub>
-　🔺<a title='（“九一八”历史博物馆,抗美援朝烈士陵园，中共满洲省委旧址纪念馆）'>沈阳市红色旅游系列景区</a>💭
+　🔺<a title='（🛕 九一八历史博物馆,抗美援朝烈士陵园，中共满洲省委旧址纪念馆）'>沈阳市红色旅游系列景区</a>💭
 　🔺<a>塔山阻击战纪念馆</a>
 　🔺<a title='（辽沈战役纪念馆,黑山阻击战纪念馆）'>锦州市红色旅游系列景区</a>💭
 　🔺<a title='阜新“万人坑”死难矿工纪念馆'>阜新万人坑</a>💭
@@ -240,10 +239,10 @@
 　<a href='http://www.hljmus.org.cn/'>黑龙江省博物馆</a>
 　<a>大庆市博物馆</a>
 　<a href='http://www.hljmz.org'>黑龙江省民族博物馆</a>
-　<a title='侵华日军第七三一部队罪证陈列馆'>731罪证馆</a>💭
+　<a href='http://www.731museum.org.cn' title='侵华日军第七三一部队罪证陈列馆'>731罪证馆</a>💭<sub>🔺</sub>
 　🔺<a title='（鸡西市密山市北大荒开发建设纪念馆；双鸭山市友谊县友谊农场）'>北大荒开发纪念地</a>💭
 　🔺<a>哈军工纪念馆</a>
-　🔺<a title='（东北烈士纪念馆,东北抗联博物馆,哈尔滨烈士陵园,侵华日军第七三一部队罪证陈列馆）'>哈尔滨市红色旅游系列景区</a>💭
+　🔺<a title='（东北烈士纪念馆,东北抗联博物馆,哈尔滨烈士陵园,🛕侵华日军第七三一部队罪证陈列馆）'>哈尔滨市红色旅游系列景区</a>💭
 　🔺<a href='https://wlt.hlj.gov.cn/wlt/c114172/202303/c00_31551055.shtml' title='中国人民解放军第四野战军前线指挥部旧址'>四野前线指挥部</a>💭<sub>媒体介绍页</sub>
 　🔺<a title='（尚志市革命烈士陵园、赵一曼被捕地）'>尚志市红色旅游系列景区</a>💭
 　🔺<a href='http://finance.people.com.cn/GB/8215/435221/437704/437742/' title='及铁人王进喜纪念馆'>大庆油田历史陈列馆</a>💭
@@ -258,14 +257,14 @@
 　<a href='http://www.luxunmuseum.cn'>上海鲁迅纪念馆</a><sub>🔺</sub>
 　<a href='https://www.zgyd1921.com'>中共一大纪念馆</a><sub>🔺上海红色旅游系列景区</sub>
 　<a href='https://www.sstm.org.cn'>上海科技馆</a>
-　<a>陈云纪念馆</a><sub>（青浦革命历史纪念馆）</sub>
+　<a href='https://www.cyjng.net/'>陈云纪念馆</a><sub>（青浦革命历史纪念馆）</sub>
 　<a href='https://digital.shmmc.com.cn/' title='必须子域名'>中国航海博物馆</a>💭
 　<a href='https://www.slmmm.com/'>龙华烈士纪念馆</a><sub>烈士陵园</sub>
-　<a>上海市历史博物馆</a><sub>（上海革命历史博物馆）</sub>
+　<a href='https://www.shh-shrhmuseum.org.cn/'>上海市历史博物馆</a><sub>（上海革命历史博物馆）</sub>
 　<a href='https://www.qianxslib.sjtu.edu.cn/'>钱学森图书馆</a>
 　<a href='https://museum.shu.edu.cn'>上海大学博物馆</a>
-　<a>嘉定博物馆</a>
-　<a>上海市奉贤区博物馆</a>
+　<a href='http://wenlv.jiading.cn/bwg'>嘉定博物馆</a>
+　<a href='https://www.fxbwg.cn'>奉贤区博物馆</a>
 　🎨<a href='https://artmuseumonline.org' title='2010年上海世博会中国馆'>上海美术馆</a>💭<sub>（中华艺术宫）</sub>
 　🔺<a>上海世博园</a>
 　🔺<a>上海四行仓库抗战纪念馆</a>
@@ -275,67 +274,66 @@
 　🔺<a>浦东陆家嘴金融贸易区</a>
 <div id='32' align='right'><a href='https://wlt.jiangsu.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>江苏省　🛕 26　🎨 1　🔺 11</h3>
-　<a>南京博物馆</a>
-　<a title='侵华日军南京大屠杀遇难同胞纪念馆'>南京大屠杀馆</a>💭
-　<a>南通博物苑</a>
-　<a>苏州博物馆</a><sub>（苏州民俗博物馆）</sub>
-　<a>扬州博物馆</a>
-　<a>常州博物馆</a>
+　<a href='https://www.njmuseum.com/'>南京博物馆</a><sub>（院）紫金山</sub>
+　<a href='https://www.19371213.com.cn/' title='侵华日军南京大屠杀遇难同胞纪念馆'>南京大屠杀馆</a>💭<sub>🔺</sub>
+　<a href='http://www.ntmuseum.com/'>南通博物苑</a>
+　<a href='https://www.szmuseum.com'>苏州博物馆</a><sub>（苏州民俗博物馆）高新区西馆</sub>
+　<a href='https://www.yzmuseum.com'>扬州博物馆</a><sub>中国雕版印刷博物馆</sub>
+　<a href='https://www.czmuseum.cn/'>常州博物馆</a><sub>良渚玉器</sub>
 　<a href='https://njmuseumadmin.com/'>南京市博物总馆</a>
 　<a href='https://www.njiemuseum.com'>中国科举博物馆</a>
-　<a>雨花台烈士纪念馆</a>
-　<a>无锡博物院</a>
-　<a>徐州博物馆</a>
-　<a>常熟博物馆</a>
+　<a href='https://yht.nanjing.gov.cn'>雨花台烈士纪念馆</a><sub>🔺</sub>
+　<a href='http://www.wxmuseum.com' title='网站版式故障？'>无锡博物院</a>💭<sub>？</sub>
+　<a href='https://www.xzmuseum.com/'>徐州博物馆</a>
+　<a href='http://www.csmuseum.cn/'>常熟博物馆</a>
 　<a href='https://www.zj-museum.com.cn/'>镇江博物馆</a>
-　<a title='南京大报恩寺遗址博物馆'>大报恩寺</a>💭
-　<a>南京城墙博物馆</a>
-　<a>宜兴市博物馆</a>
-　<a>江阴市博物馆</a>
-　<a href='https://www.hhzyjng.com/'>淮海战役纪念馆</a>
-　<a>苏州丝绸博物馆</a>
+　<a href='http://www.dabaoensi.com/' title='南京大报恩寺遗址博物馆'>大报恩寺</a>💭
+　<a href='http://www.njcitywall.com/'>南京城墙博物馆</a>
+　<a href='https://www.yxmuseum.com/'>宜兴市博物馆</a>
+　<a href='https://jymuseum.com.cn'>江阴市博物馆</a><sub>良渚玉器</sub>
+　<a href='https://www.hhzyjng.com/'>淮海战役纪念馆</a><sub>🔺</sub>
+　<a href='https://www.szsilkmuseum.com'>苏州丝绸博物馆</a>
 　<a href='https://wuzhongmuseum.com/'>苏州吴文化博物馆</a><sub>苏州市吴中区博物馆</sub>
-　<a>连云港市博物馆</a>
-　<a>周恩来纪念馆</a>
+　<a href='https://www.lygmuseum.cn/'>连云港市博物馆</a><sub>花果山下“尹湾简牍”</sub>
+　<a href='https://www.zeljng.com/'>周恩来纪念馆</a><sub>🔺</sub>
 　<a>淮安市博物馆</a>
-　<a href='http://www.n4a.org.cn'>新四军纪念馆</a>
+　<a href='http://www.n4a.org.cn'>新四军纪念馆</a><sub>🔺</sub>
 　<a href='https://chinahymuseum.com'>中国海盐博物馆</a><sub>（盐城市博物馆）</sub>
 　<a href='https://canalmuseum.net/'>中国大运河博物馆</a>
 　🎨<a href='https://jsmsg.com' title='第八批全国重点文物保护单位'>江苏省美术馆</a>💭
-　🔺<a title='（镇江市句容市茅山新四军纪念馆；盐城市新四军纪念馆；泰兴市新四军黄桥战役纪念馆；常熟市沙家浜革命历史纪念馆；常州市新四军江南指挥部纪念馆）'>江苏新四军红色旅游系列景区</a>💭
+　🔺<a title='（镇江市句容市茅山新四军纪念馆；🛕盐城市新四军纪念馆；泰兴市新四军黄桥战役纪念馆；常熟市沙家浜革命历史纪念馆；常州市新四军江南指挥部纪念馆）'>江苏新四军红色旅游系列景区</a>💭
 　🔺<a>南京市中山陵</a>
-　🔺<a title='（梅园新村纪念馆,雨花台烈士陵园,侵华日军南京大屠杀遇难同胞纪念馆,渡江胜利纪念馆，南京条约史料陈列馆）'>南京市红色旅游系列景区</a>💭
+　🔺<a title='（梅园新村纪念馆,🛕雨花台烈士陵园,🛕侵华日军南京大屠杀遇难同胞纪念馆,渡江胜利纪念馆，南京条约史料陈列馆）'>南京市红色旅游系列景区</a>💭<sub>雨花台烈士纪念馆</sub>
 　🔺<a href='http://红十四军.com/' title='中国工农红军第十四军纪念馆'>红十四军纪念馆</a>💭
 　🔺<a>苏中七战七捷纪念馆</a>
 　🔺<a>宿迁市雪枫公园</a>
 　🔺<a title='瞿秋白故居、张太雷故居及恽代英纪念广场'>瞿秋白、张太雷、恽代英</a>💭
-　🔺<a title='，邳州市禹王山抗日阻击战遗址纪念园'>徐州市淮海战役纪念馆</a>💭
 　🔺<a href='http://www.hjdsd.com'>海军诞生地纪念馆</a><sub>中国人民解放军</sub>
-　🔺<a title='（淮阴区八十二烈士陵园，周恩来纪念馆和故居,黄花塘新四军军部旧址,新安旅行团历史纪念馆）'>淮安市红色旅游系列景区</a>💭
+　🔺<a title='（淮阴区八十二烈士陵园，🛕周恩来纪念馆和故居,黄花塘新四军军部旧址,新安旅行团历史纪念馆）'>淮安市红色旅游系列景区</a>💭
 　🔺<a>抗日山烈士陵园</a>
 <div id='33' align='right'><a href='http://ct.zj.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>浙江省　🛕 21　🎨 2　🔺 10</h3>
 　<a href='https://www.zhejiangmuseum.com/'>浙江省博物馆</a><sub>（浙江革命历史纪念馆）</sub>
-　<a>浙江自然博物院</a>
+　<a href='https://www.zmnh.com/'>浙江自然博物院</a><sub>杭州馆、安吉馆</sub>
 　<a href='https://www.chinasilkmuseum.com/'>中国丝绸博物馆</a>
-　<a>宁波博物院</a><sub>（宁波博物馆、宁波帮博物馆）</sub>
-　<a>温州博物馆</a>
-　<a>杭州博物馆</a>
+　<a href='https://www.nbmuseum.cn/'>宁波博物院</a><sub>（宁波博物馆、宁波帮博物馆）</sub>
+　<a href='https://wzmuseum.cn/'>温州博物馆</a><sub>郑振铎、朱自清、谢灵运</sub>
+　<a href='https://www.hzmuseum.com/'>杭州博物馆</a><sub>西湖</sub>
 　<a href='https://westlakemuseum.com/'>西湖博物馆总馆</a>
 　<a href='https://www.teamuseum.cn/'>中国茶叶博物馆</a>
-　<a>杭州工艺美术博物馆</a>
-　<a>天一阁博物院</a><sub>（宁波市保国寺古建筑博物馆）</sub>
+　<a href='https://www.hzacm.cn/'>杭州工艺美术博物馆</a>
+　<a>天一阁博物院</a><sub>（保国寺古建筑博物馆）</sub>
 　<a href='https://portmuseum.cn/'>中国港口博物馆</a>
-　<a>南湖革命纪念馆</a>
-　<a>舟山博物馆</a>
+　<a href='https://www.nanhujng.cn/'>南湖革命纪念馆</a><sub>红船</sub>
+　<a href='https://www.zsbwg.com'>舟山博物馆</a>
 　<a href='https://www.nwmc.cn'>中国水利博物馆</a>
-　<a>杭州市临平博物馆</a>
-　<a>萧山跨湖桥遗址博物馆</a>
-　<a>浙江大学艺术与考古博物馆</a>
-　<a>良渚博物院</a>
-　<a>嘉兴博物馆</a><sub>（嘉兴马家浜文化博物馆）</sub>
-　<a>绍兴博物馆</a>
-　<a>丽水市博物馆</a>
+　<a>杭州市临平博物馆</a><sub>中国江南水乡文化博物馆</sub>
+　<a href='https://www.xiaoshan.gov.cn/art/2022/12/19/art_1229708280_59081592.html'>萧山跨湖桥遗址博物馆</a><sub>政府介绍页</sub>
+　<a href='https://zjumaa.zju.edu.cn/'>浙江大学艺术与考古博物馆</a>
+　<a href='https://www.lzmuseum.cn'>良渚博物院</a>
+　<a href='https://www.jiaxingmuseum.com/'>嘉兴博物馆</a><sub>（嘉兴马家浜文化博物馆）</sub>
+　<a href='https://sxwg.sx.gov.cn/col/col1229488269/'>绍兴博物馆</a>
+　<a href='http://www.lishui.gov.cn/art/2023/11/28/art_1229768144_57352470.html'>丽水市博物馆</a><sub>政府介绍页</sub>
 　🎨<a href='https://caam.caa.edu.cn' title='1935年国立艺术院陈列馆'>中国美术学院美术馆</a>💭<sub>前身由林风眠督建</sub>
 　🎨<a href='https://www.zjam.org.cn' title='2009年开放，习总书记在浙任职时选址'>浙江美术馆</a>💭
 　🔺<a title='（丽水市厦河中共浙江省委机关旧址，龙泉市披云山苏维埃旧址，松阳县安岱后苏维埃旧址，遂昌县王村口苏维埃旧址；衢州市开化县中共浙皖特委旧址，中共闽浙赣省委旧址；温州市泰顺县中共浙闽边临时省委成立旧址）'>浙西南革命根据地旧址群</a>💭
@@ -350,15 +348,15 @@
 　🔺<a>鲁迅故居及纪念馆</a>
 <div id='34' align='right'><a href='https://ct.ah.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>安徽省　🛕 9　　🔺 8</h3>
-　<a>安徽博物院</a>
-　<a title='[徽州历史博物馆](http://www.ahhzlsbwg.com)（黄山市博物馆）？'>中国徽州文化博物馆</a>💭
+　<a href='https://www.ahm.cn'>安徽博物院</a>
+　<a href='https://www.huangshan.gov.cn/zjhs/sjhs/xhs/csfg/8314151.html' title='另有[徽州历史博物馆](http://www.ahhzlsbwg.com)、黄山区博物馆'>中国徽州文化博物馆</a>💭<sub>（黄山市博物馆）政府介绍页</sub>
 　<a href='https://www.ahgm.org.cn'>安徽省地质博物馆</a>
-　<a>淮北市博物馆</a>
-　<a>宿州市博物馆</a>
-　<a>蚌埠市博物馆</a>
-　<a>安徽楚文化博物馆</a><sub>（寿县博物馆）</sub>
-　<a>安庆博物馆</a>
-　<a>阜阳市博物馆</a>
+　<a href='http://www.hbbwg.net/'>淮北市博物馆</a><sub>隋唐大运河博物馆</sub>
+　<a href='https://www.sz-museum.com' title='十年跨了三大步'>宿州市博物馆</a>💭
+　<a href='https://www.ahbbmuseum.com'>蚌埠市博物馆</a>
+　<a href='https://www.ahccm.cn/'>安徽楚文化博物馆</a><sub>（寿县博物馆）</sub>
+　<a href='http://www.aqbwg.cn/' title='一个机构、三块牌子、🔺两处馆舍'>安庆博物馆</a>💭<sub>中国黄梅戏博物馆、安庆市革命文物陈列馆</sub>
+　<a href='http://fymuseum.com'>阜阳市博物馆</a>
 　🔺<a>“两弹元勋”邓稼先故居</a>
 　🔺<a title='（宣城市泾县皖南事变烈士陵园及新四军军部旧址;滁州市定远县藕塘烈士纪念馆及中共中央中原局旧址，来安县新四军二师师部旧址;黄山市黄山岩寺新四军军部旧址；宿州市皖东北革命历史纪念馆暨江上青烈士殉难地;亳州市涡阳县新四军四师纪念馆;合肥市庐江县新四军江北指挥部旧址；淮南市大通万人坑教育馆；天长市龙岗抗大分校纪念馆；安庆市岳西县红二十八军鄂豫皖边区国共和谈旧址；六安市舒城县新四军第四支队纪念馆、黄山红军北上抗日先遣队纪念馆；黄山市黟县皖南苏维埃政府及柯村暴动旧址；芜湖市无为县新四军七师纪念馆）'>安徽新四军红色旅游系列景区</a>💭
 　🔺<a title='（淮北市濉溪县淮海战役双堆集烈士陵园；宿州市萧县蔡洼淮海战役总前委会议暨华东野战军指挥部旧址）'>安徽省淮海战役系列景区</a>💭
@@ -370,7 +368,7 @@
 <div id='35' align='right'><a href='http://wlt.fujian.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>福建省　🛕 7　　🔺 9</h3>
 　<a href='https://www.fjbwy.com'>福建博物院</a>
-　<a href='http://www.gthyjng.com/'>古田会议纪念馆</a>
+　<a href='http://www.gthyjng.com/'>古田会议纪念馆</a><sub>🔺</sub>
 　<a href='http://www.qzhjg.cn/'>泉州海外交通史博物馆</a>
 　<a href='http://www.mtybwg.org.cn'>中国闽台缘博物馆</a>
 　<a href='http://www.crt.com.cn/mx/' title='中红网有很多子站'>中央苏区历史博物馆</a>💭<sub>（闽西）</sub>
@@ -387,10 +385,10 @@
 　🔺<a title='（上杭县古田会议旧址及纪念馆、毛泽东才溪乡调查纪念馆，长汀县福建省苏维埃旧址、福音医院旧址、县革命委员会旧址、红四军司令部和政治部旧址、中共福建省委旧址、福建省职工联合会旧址、瞿秋白烈士纪念碑、红军长征出发地'>龙岩市红色旅游系列景区</a>💭
 <div id='36' align='right'><a href='http://dct.jiangxi.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>江西省　🛕 17　　🔺 11</h3>
-　<a href='https://jgsgmbwg.com/'>井冈山革命博物馆</a>
+　<a href='https://jgsgmbwg.com/'>井冈山革命博物馆</a><sub>🔺</sub>
 　<a href='https://www.jxmuseum.cn'>江西省博物馆</a>
-　<a href='http://www.rjjng.com.cn/'>瑞金中央革命根据地纪念馆</a>
-　<a href='http://www.81-china.com/'>南昌八一起义纪念馆</a>
+　<a href='http://www.rjjng.com.cn/'>瑞金中央革命根据地纪念馆</a><sub>🔺</sub>
+　<a href='http://www.81-china.com/'>南昌八一起义纪念馆</a><sub>🔺</sub>
 　<a href='http://www.aymuseum.com/'>安源路矿工人运动纪念馆</a>
 　<a href='http://www.bdsrjng.cn'>八大山人纪念馆</a>
 　<a href='http://www.jjmuseum.cn/'>九江市博物馆</a>
@@ -398,10 +396,10 @@
 　<a href='http://gzsbwg.cn'>赣州市博物馆</a>
 　<a href='http://tcg.jdzol.net'>中国陶瓷博物馆</a>
 　<a href='http://www.pxmuseum.com'>萍乡博物馆</a>
-　<a>江西省革命烈士纪念堂</a>
+　<a href='http://jxhth.cn/'>江西省革命烈士纪念堂</a><sub>🔺</sub>
 　<a href='http://www.hhhmuseum.cn' title='南昌汉代海昏侯国遗址博物馆'>海昏侯博物馆</a>💭
 　<a href='http://www.jdzyybwy.com/'>景德镇御窑博物院</a>
-　<a href='https://www.ydczcfmuseum.cn/' title='于都中央红军长征集结出发历史博物馆'>于都长征出发馆</a>💭
+　<a href='https://www.ydczcfmuseum.cn/' title='于都中央红军长征集结出发历史博物馆'>于都长征出发馆</a>💭<sub>🔺</sub>
 　<a>吉安市博物馆</a>
 　<a href='http://www.jxxz.gov.cn/qzfbgs/c118366/201905/bcc492698ea54904b77538dd925bf810.shtml' title='政府介绍页'>上饶市博物馆</a>💭
 　🔺<a title='（萍乡市、宜春市铜鼓县、九江市修水县秋收起义纪念地系列景点，萍乡市安源路矿工人运动纪念馆;宜春市万载县湘鄂赣革命根据地旧址，上高县抗日会战遗址；新余市罗坊会议纪念地）'>赣西红色旅游系列景区</a>💭
@@ -409,7 +407,7 @@
 　🔺<a href='https://jxnews.com.cn/xds/system/2021/03/22/019222582.shtml' title='（上饶市横峰县闽浙皖赣革命根据地旧址群，玉山县中国工农红军北上抗日先遣队纪念馆，铅山县石塘镇新四军整编旧址；景德镇市浮梁县新四军瑶里改编及程家山旧址，乐平市红十军建军旧址，赣东北革命委员会旧址，方志敏旧居）'>赣东北红色旅游系列景区</a>💭<sub>党史介绍页，方志敏旧居</sub>
 　🔺<a title='（庐山会议旧址及领袖旧居群，98 抗洪精神教育基地，共青城创业史陈列馆，八一起义策源地暨叶挺九江指挥部旧址纪念馆）'>九江市红色旅游系列景区</a>💭
 　🔺<a>井冈山红色旅游系列景区</a>
-　🔺<a title='（南昌八一起义纪念馆，方志敏纪念馆，南昌新四军军部旧址，江西革命烈士纪念堂）'>南昌市红色旅游系列景区</a>💭
+　🔺<a title='（南昌八一起义纪念馆，方志敏纪念馆，南昌新四军军部旧址，🛕江西革命烈士纪念堂）'>南昌市红色旅游系列景区</a>💭
 　🔺<a>小平小道陈列馆</a>
 　🔺<a title='（东固革命根据地，永新三湾改编旧址，泰和县马家洲集中营，遂川县工农兵政府旧址）'>吉安市红色旅游系列景区</a>💭
 　🔺<a>湘赣革命根据地中心旧址</a>
@@ -417,9 +415,9 @@
 　🔺<a title='（宁都县中央苏区反“围剿”旧址及纪念馆，大余县南方红军三年游击战旧址及纪念馆）'>赣州市红色旅游系列景区</a>💭
 <div id='37' align='right'><a href='http://whhly.shandong.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>山东省　🛕 32　　🔺 13</h3>
-　<a>青岛市博物馆</a>
+　<a href='https://www.qingdaomuseum.cn'>青岛市博物馆</a>
 　<a href='http://www.jiawuzhanzheng.cn/'>中国甲午战争博物院</a>
-　<a>青州市博物馆</a>
+　<a href='http://www.qingzhou.gov.cn/qzbwg/'>青州市博物馆</a>
 　<a href='https://www.sdmuseum.com'>山东博物馆</a>
 　<a>烟台市博物馆</a>
 　<a>潍坊市博物馆</a>
@@ -433,7 +431,7 @@
 　<a>齐文化博物院</a>
 　<a>滕州市博物馆</a>
 　<a>滕州市汉画像石馆</a>
-　<a href='https://www.jiningmuseum.com/'>济宁市博物馆</a><sub>（朱复戡艺术馆）</sub>
+　<a href='https://www.jiningmuseum.com/'>济宁市博物馆</a><sub>（朱复戡艺术馆）戡 Kān</sub>
 　<a>临沂市博物馆</a>
 　<a href='http://www.hjbwg.com/'>海军博物馆</a><sub>🔺</sub>
 　<a title='青岛德国总督楼旧址博物馆'>德国总督楼旧址</a>💭<sub>（青岛市城市文化遗产保护中心）</sub>
@@ -550,23 +548,22 @@
 <div id='44' align='right'><a href='http://whly.gd.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>广东省　🛕 15　🎨 3　🔺 13</h3>
 　<a href='https://www.gdmuseum.com/' title='略有故障'>广东省博物馆</a>💭<sub>（广州鲁迅纪念馆）</sub>
-　<a>南越王博物馆</a>
-　<a href='https://www.sunyat-sen.org/'>孙中山故居纪念馆</a>
+　<a href='https://www.nywmuseum.org.cn/'>南越王博物馆</a><sub>院。</sub>
+　<a href='https://www.sunyat-sen.org/'>孙中山故居纪念馆</a><sub>🔺</sub>
 　<a href='https://www.shenzhenmuseum.com'>深圳博物馆</a>
 　<a href='https://guangzhoumuseum.cn'>广州博物馆</a>
-　<a>广东民间工艺博物馆</a>
-　<a>广州艺术博物院</a><sub>🎨（广州美术馆）</sub>
+　<a href='https://www.gzcjc.com.cn/' title='成立于1959年，全国重点文物保护单位'>广东民间工艺博物馆</a>💭<sub>陈家祠</sub>
+　<a href='https://www.gzam.com.cn'>广州艺术博物院</a><sub>🎨（广州美术馆）</sub>
 　<a href='http://www.kjbwg.cn'>中国客家博物馆</a>
 　<a href='https://www.ypzz.cn/'>鸦片战争博物馆</a><sub>🔺</sub>
-　<a>广东海上丝绸之路博物馆</a>
-　<a>孙中山大元帅府纪念馆</a>
-　<a>广东革命历史博物馆</a><sub>（广州近代史博物馆）</sub>
-　<a>辛亥革命纪念馆</a>
+　<a href='https://www.msrmuseum.com'>广东海上丝绸之路博物馆</a><sub>南海Ⅰ号古沉船</sub>
+　<a href='https://dyshf.com'>孙中山大元帅府纪念馆</a>
+　<a href='https://www.yuexiu.gov.cn/zjyx/yxjd/gzjdgms/content/post_8663648.html' title='旧官网失效？www.gemg1959.cn'>广东革命历史博物馆</a>💭<sub>（广州近代史博物馆）政府介绍页</sub>
+　<a href='https://1911museum.cn'>辛亥革命纪念馆</a>
 　<a>佛山市祖庙博物馆</a>
 　<a>江门市博物馆</a>
 　🎨<a href='https://www.gdmoa.org' title='1997年11月28日落成'>广东美术馆</a>💭
 　🎨<a href='http://www.gsyart.com' title='1997年开馆'>深圳市关山月美术馆</a>💭
-　🔺<a>孙中山故居和纪念馆</a>
 　🔺<a>三元里人民抗英斗争纪念馆</a>
 　🔺<a title='（毛泽东同志主办农民运动讲习所旧址，广州起义纪念馆和烈士陵园）'>广州市红色旅游系列景区</a>💭
 　🔺<a>黄花岗七十二烈士墓</a>
@@ -581,10 +578,10 @@
 <div id='45' align='right'><a href='http://wlt.gxzf.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>广西壮族自治区　🛕 5　　🔺 5</h3>
 　<a href='https://www.gxmuseum.cn/'>广西壮族自治区博物馆</a>
-　<a>广西民族博物馆</a>
-　<a>桂林博物馆</a>
-　<a>南宁市博物馆</a>
-　<a>柳州工业博物馆</a>
+　<a href='http://www.amgx.org/'>广西民族博物馆</a>
+　<a href='http://www.guilinmuseum.org.cn'>桂林博物馆</a>
+　<a href='http://www.nanningmuseum.com'>南宁市博物馆</a>
+　<a href='http://backzsl.lzlch.com.cn/'>柳州工业博物馆</a>
 　🔺<a title='（百色市红七军军部旧址，乐业县红七军和红八军会师地旧址;崇左市龙州县红八军军部旧址;河池市东兰县韦拔群故居及纪念馆，东兰烈士陵园，广西农民运动讲习所旧址，红七军前敌委员会旧址）'>左右江红色旅游系列景区</a>💭
 　🔺<a title='（南门牌坊、北门牌坊、阵亡将士纪念塔、阵亡将士公墓、抗战碑亭、草帽山战场工事遗址、昆仑关战役博物馆）'>昆仑关战役旧址景区</a>💭
 　🔺<a title='，龙州小连城要塞遗址，凭祥大连城要塞遗址'>镇南关大捷遗址</a>💭
@@ -602,10 +599,10 @@
 　🔺<a>张云逸大将纪念馆</a>
 　🔺<a>琼崖工农红军云龙改编旧址</a>
 　🔺<a href='http://www.hinews.cn/news/system/2023/09/24/033047642.shtml'>红色娘子军纪念园</a><sub>媒体介绍页</sub>
-<div id='50' align='right'><a href='https://whlyw.cq.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
+<div id='50' align='right'><a href='https://whlyw.cq.gov.cn/zwgk_221/zfxxgkml/jyta_205577/'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>重庆市　🛕 7　　🔺 4</h3>
 　<a href='https://www.3gmuseum.cn' title='中国三峡博物馆'>三峡博物馆</a>💭<sub>（重庆博物馆）</sub>
-　<a title='重庆红岩革命历史博物馆'>红岩革命历史馆</a>💭
+　<a href='https://www.cq.gov.cn/zjcq/bywh/whss/bwg/202409/t20240912_13625873.html' title='重庆红岩革命历史博物馆'>红岩革命纪念馆</a>💭<sub>🔺江姐、歌乐山，政府介绍页</sub>
 　<a>重庆自然博物馆</a>
 　<a href='http://www.cqsxymjng.cn'>重庆三峡移民纪念馆</a>
 　<a>大足石刻博物馆</a>
@@ -819,7 +816,7 @@
 	老生常谈© 2019-2025 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
 	https://laosheng.top/fuwu/bowu
-	地大物博看中国 v0.3.9	202503
+	地大物博看中国 v0.4.0	202503
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
