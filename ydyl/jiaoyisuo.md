@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~11
+大萌　202307，202404~202503
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -23,8 +23,8 @@
 	* [港澳台](#ex2){:target="_top"}金融交易所
 *	[G-SIBs](#bank){:target="_top"} 全球系统重要性银行 🔼
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
-	* [美国金融](#usa){:target="_top"}有关部门 🏛️
 *	区域性[国际金融机构](#finance){:target="_top"} 💰
+	* [美国金融](#usa){:target="_top"}有关部门 🏛️
 *	[参考文献](#can){:target="_top"}
 	* 《资本论》III
 
@@ -69,28 +69,30 @@ Gold Market
 
 　　黄金是天然货币，世界通行，除了现货交易，还有期货交易、场外交易(OTC)、基金交易(ETC)，这些交易互相影响黄金的价格。能排进前三的市场至少有五家。　曾经，三家最大的黄金市场占据了全球交易量的九成，分别是：纽约期货市场（COMEX）、伦敦现货市场（LBMA）、上海黄金市场（SGE & SHFE）。近年，亚洲黄金需求增长，阿联酋的DMCC宣称自己的黄金交易量成为全球第二。有几家老外的官网支持中文，已标记图钉符号📍，部分被限制访问。
 
-*	美国纽约期货市场，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
+*	**美国纽约期货市场**，#[COMEX](https://www.cmegroup.com/cn-s/)📍纽约商品交易所 提供#[黄金期货报价](https://www.cmegroup.com/cn-s/markets/metals/precious/gold.html)（纽约金/COMEX黄金），报价单位：美元/盎司  
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
-*	英国伦敦现货市场，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
+	 * 美国黄金储备哪里看？
+*	**英国伦敦现货市场**，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
 *	中国市场📍（SGE & SHFE）：
 	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、延时行情、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
+	 * 国家外汇局会每月公布[官方储备资产](https://www.safe.gov.cn/safe/tjsj1/)，包括外汇储备和黄金储备，比如[2025年](https://www.safe.gov.cn/safe/2025/0206/25744.html)的数据网页。
 *	香港[金银业贸易场](http://www.cgse.com.hk/)，报价单位多样，安士=盎司(oz)。
 *	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DGCX](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。  
 	疑问：详细价格在哪里？
 
-　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g)
+　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g) 　假设美元汇率7.0不变，可简化为：
 
-　　比如，某日伦敦金报价：2608美元/盎司，约等于 92美元/克，若按美元兑人民币7比1计，等于 644元/克；若按汇率7.2计，则等于662.4元/克。可见黄金在境内外存在利差。假设美元汇率7.0不变，可简化为：  
-　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
+　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）　比如，某日伦敦金报价：2608美元/盎司，约等于 92美元/克，若按美元兑人民币7比1计，等于 644元/克；若按汇率7.2计，则等于662.4元/克。可见黄金在境内外存在利差。
 
 看国际黄金价格的国内商业网站有：
 
 *	[新浪黄金](https://wap.cj.sina.cn/metal.html)手机版、[桌面版](https://finance.sina.com.cn/nmetal/)内容繁多
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
+*	[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍提供多币种多计量单位的黄金价格。该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
 
-　　上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，[民生银行](https://www.cmbc.com.cn/grkh/gjs/jcj/)积存金提供24小时交易。更多黄金价格可见[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍，该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。向访客公布黄金实时报价的银行有：  
+　　上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，[民生银行](https://www.cmbc.com.cn/grkh/gjs/jcj/)积存金提供24小时交易。向访客公布黄金实时报价的银行有：  
 　　[工商银行](https://www.icbc.com.cn/column/1438058327061184578.html)%、
 	[农业银行](https://ewealth.abchina.com/Gold/)、
 	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
@@ -321,6 +323,23 @@ Systemically Important Banks (G-SIBs)
 　　中德合资银行1家：[中德住房储蓄银行](http://www.sgb.cn "天津银保监局")有限责任公司 B0240H212000001。
 ……
 
+
+<div align="right" id="finance">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
+
+区域性国际金融机构 💰
+-----------------
+Regional international financial institutions
+
+*	EIB [欧洲投资银行](https://www.eib.org/) European lnvestment Bank
+*	EBRD 欧洲[复兴开发银行](https://www.ebrd.com/) European Bank for Reconstruction and Development
+*	ADB [亚洲开发](https://www.adb.org)银行 Asian Development Bank
+*	ADB [非洲开发](https://www.afdb.org/)银行 African Development Bank
+*	IADB (泛美)[美洲开发](https://www.iadb.org/)银行 Inter-American Development Bank
+*	CDB [加勒比](https://www.caribank.org)开发银行 Caribbean Development Bank
+
+*参见：[国际组织四大类](united)*
+
 <h3 id="usa">美国金融有关部门 🏛️</h3>
 USA Gov financial authorities
 
@@ -346,21 +365,6 @@ USA Gov financial authorities
 
 **美联储** [Federal Reserve](https://www.FederalReserve.gov/ 'Fed 联邦储备系统') ，美国中央银行，制定货币政策，管理利率基准。
 
-<div align="right" id="finance">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-
-区域性国际金融机构 💰
------------------
-Regional international financial institutions
-
-*	EIB [欧洲投资银行](https://www.eib.org/) European lnvestment Bank
-*	EBRD 欧洲[复兴开发银行](https://www.ebrd.com/) European Bank for Reconstruction and Development
-*	ADB [亚洲开发](https://www.adb.org)银行 Asian Development Bank
-*	ADB [非洲开发](https://www.afdb.org/)银行 African Development Bank
-*	IADB (泛美)[美洲开发](https://www.iadb.org/)银行 Inter-American Development Bank
-*	CDB [加勒比](https://www.caribank.org)开发银行 Caribbean Development Bank
-
-*参见：[国际组织四大类](united)*
 
 <div align="right" id="can">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -369,7 +373,8 @@ Regional international financial institutions
 --------
 
 *	20241119，[财联社报道](https://www.cls.cn/detail/1862851)，DMCC：阿联酋将成为全球黄金贸易新枢纽。
-*	20240222，《长江日报》在[人民号网站的文章](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=40005153)：“不在餐桌旁，就在菜单上”，布林肯言论暴露美式霸权逻辑。附视频。
+*	20240222，央视新闻客户端在[CRI的文章](https://news.cri.cn/20240222/fe28b272-e259-c3a8-90cf-c95941245b86.html)：“不在餐桌旁，就在菜单上” 布林肯言论暴露美式霸权逻辑，附视频。
+*	20240222，《长江日报》在<del>[人民号网站的文章](https://rmh.pdnews.cn/Pc/ArtInfoApi/article?id=40005153)</del>：“不在餐桌旁，就在菜单上”，布林肯言论暴露美式霸权逻辑。附视频。
 *	2022年第23期[《中国外汇》](http://www.chinaforex.com.cn/index.php/cms/item-view-id-52044.shtml)刊文：聚焦2022全球外汇市场调查。
 *	20221231，人行就[延长外汇交易时间](https://www.gov.cn/zhengce/2022-12/31/content_5734385.htm)答记者问。
 *	20231215，中国外汇交易中心延长银行间外币对及外币货币市场交易时间的通知，[中汇交发〔2023〕349号](https://www.chinamoney.com.cn/chinese/scggwhscggscggtz/20231215/2772891.html)。
@@ -397,7 +402,7 @@ Regional international financial institutions
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.5	202411
+	环球金融交易所	v0.5.6	202503
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
