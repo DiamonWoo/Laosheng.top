@@ -1,6 +1,6 @@
-一带一路民间站 💃
+一带一路民间站 💃 B&R Folk Website
 =================
-大萌	2022-2024
+大萌	2022-2025
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/dir" />
 
@@ -10,17 +10,21 @@
 
 +	./dir　　　　本目录页
 
-+	./united　🌐 [国际组织四大类](united.html)，世界语言前十位：ISO、奥委会、教科文、世卫WHO、上合组织……（新版）
++	./united　🌐 [**国际组织四大类**](united.html)，世界语言前十位：ISO、奥委会、教科文、世卫WHO、上合组织……（推荐）
 
-+	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （2024新版）
++	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （配地图）
 
-+	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（新上线）
++	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（学习中）
 
-+	./index　🌞 [一带一路云媒体](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
++	./index　🌞 [**一带一路云媒体**](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
+
+	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
+
++	美国千县政府网（规划中）　美国五十个州政府和约三千个县镇政府网址。
+
+	+ ./usa-50　美国五十州（正在准备)　美国五十个州的中英文名称和特点。
 
 +	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
-
-+	美国千县政府网（规划中）　美国几十个州政府和几千个县镇政府网址。
 
 <div align="right">
 	⏩ 老生常谈
@@ -31,7 +35,7 @@
 全球发展倡议、全球安全倡议、全球文明倡议
 </b></p>
 
-<h3>简目</h3>
+<h3>简目 <sup>Dir</sup></h3>
 
 *	外交动态 / 巴以冲突 /美国大选
 *	[官方网址](#news1){:target="_top"} / [种子数据](#iso){:target="_top"} / 2022卡塔尔⚽
@@ -231,10 +235,10 @@
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈© 2019~2024	Copyright by 大萌
+	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.3.4	202412
+	一带一路民间站 v3.3.5	202503
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
