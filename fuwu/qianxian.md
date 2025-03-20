@@ -1798,11 +1798,11 @@ LSIP收录进度
 410503 [北关区](https://www.beiguan.gov.cn )⠀
 410505 [殷都区](https://www.yindu.gov.cn )⠀
 410506 [龙安区](https://www.longan.gov.cn )⠀
-410522 [安阳县](https://www.ayx.gov.cn )⠀
-410523 [汤阴县](https://www.tangyin.gov.cn )⠀
+410522 [安阳县](http://www.ayx.gov.cn )⠀
+410523 [汤阴县](http://www.tangyin.gov.cn )⠀
 410526 [滑县](http://www.hnhx.gov.cn )⠀
-410527 [内黄县](https://www.neihuang.gov.cn )⠀
-410581 [林州市](https://www.linzhou.gov.cn )⠀
+410527 [内黄县](http://www.neihuang.gov.cn )⠀
+410581 [林州市](http://www.linzhou.gov.cn '红旗渠，林县')⠀
 
 410600 <b>[鹤壁市](https://www.hebi.gov.cn )</b>　豫F　0392　  
 410602 [鹤山区](http://www.hbhsq.gov.cn )⠀
@@ -3696,6 +3696,9 @@ LSIP收录进度
 
 　　雄安新区有望获得独立的行政区划编码。
 
+<h3 >2024年</h3>
+　　新疆12月公告，新设和安县、和康县，均由和田地区管辖。本页等待吸收。
+
 <h3 >2023年</h3>
 　　2023年有3处变更，本页已全部吸收。  
 　　新疆兵团第九师新成立白杨市，西藏两个县改市：错那县、米林县。  
@@ -3741,7 +3744,7 @@ LSIP收录进度
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.7.2	202502
+	中国千县地名网	v0.7.3	202503
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
