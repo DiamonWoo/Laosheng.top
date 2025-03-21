@@ -16,7 +16,8 @@
 	+ ./huizhan 💫 老生常谈[逛会展](huizhan)，每个省都有的会展中心（等待重构）
 	+ ./— — — 👔 各地人才就业网，积极工作站稳岗。　各省地市的人社局、零工市场、公共招聘就业服务平台……（内测中）
 	+ ./zhengfa 🏢 <a href="fazhi" target="fazhiye" title="省地级法治部门">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
-	+ ……
+	+ 中国新闻云媒体 🌥️ 全国地级市的晚报/日报、电视台点播/直播，收录在本站【[云媒体](../fly){:target="_top"}】系列
+	+ 
 
 +	县区级政府网址，全国约3000个县区：
 	+ ./qianxian 📑 [中国千县地名网](qianxian '千县网'){:target="_top"}，县级以上行政区划政府网址。千年郡县，国泰民安。（2024年数据）
@@ -27,7 +28,7 @@
 	+ ‘千县公检法’页面并入《中国政法区划集》，请往本站【[法律](../falv){:target="_top"}】系列
 	+ 
 
-+	国际组织四大类，🇺🇳联合国有关部门。收录在本站【[一带一路](../ydyl/dir)】系列。
++	国际组织四大类，🇺🇳联合国有关部门。收录在本站【[一带一路](../ydyl/dir)】系列
 +	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查重»，服务网站中缺少或重复的内容（已收录未公布）
 
 <div align="right">
@@ -51,33 +52,33 @@
 
 　　老百姓对各级领导群体的有一个俗称，党委、政府、人大、政协 合称‘四套班子’或‘四大班子’。有时候加上 军队、监委，称为‘五套班子’或‘六套班子’。该说法有时候也见于官方。四套班子之间是什么关系呢？
 
-　　党委是领导核心，人大是权力机构，政协为人大参政议政，政府由人大任命，执行党的决策部署。本页列出的第一个页面：“中央有关部门集”收录了中央层级的四套班子及人大任命的两院。
+　　党委是领导核心，人大是权力机构，政协为人大参政议政，政府由人大任命，执行党的决策部署。本页列出的第一个页面：“中央有关部门集”收录了中央层级的四套班子及人大任命的两院。四套班子中，政府、人大、政协均设有网站，党委某些部门设有网站，政府网站一般会有 人大、政协 的网站链接。
 
 <h3>35个省级政府网站</h3>
 　　
-<a title="政府网站" href="https://www.beijing.gov.cn/renwen/bjgk/">11-北京</a>　
+<a title="政府网站" href="https://www.beijing.gov.cn/">11-北京</a>　
 <a title="政府网站" href="https://www.tj.gov.cn/sq/">12-天津</a>　
 <a title="政府网站" href="https://www.hebei.gov.cn/">13-河北</a> 冀　
-<a title="政府网站" href="http://www.shanxi.gov.cn/zjsx/">14-山西</a> 晋　
+<a title="政府网站" href="http://www.shanxi.gov.cn/">14-山西</a> 晋　
 <a title="政府网站" href="https://www.nmg.gov.cn/" >15-内蒙古</a> 蒙　
 <a title="政府网站" href="http://www.ln.gov.cn/" >21-辽宁</a>　
 <a title="政府网站" href="http://www.jl.gov.cn/" >22-吉林</a>　
 <a title="政府网站" href="http://www.hlj.gov.cn/" >23-黑龙江</a>　
-<a title="政府网站" href="https://www.shanghai.gov.cn/nw2318/" >31-上海</a> 沪　
-<a title="政府网站" href="https://www.jiangsu.gov.cn/col/col31358/" >32-江苏</a> 　
-<a title="政府网站" href="https://www.zj.gov.cn/col/col1544731/" >33-浙江</a> 　
+<a title="政府网站" href="https://www.shanghai.gov.cn/" >31-上海</a> 沪　
+<a title="政府网站" href="https://www.jiangsu.gov.cn/" >32-江苏</a> 　
+<a title="政府网站" href="https://www.zj.gov.cn/" >33-浙江</a> 　
 <a title="政府网站" href="https://www.ah.gov.cn/hfwy/" >34-安徽</a> 皖　
-<a title="政府网站" href="https://www.fujian.gov.cn/zjfj/" >35-福建</a> 闽　
-<a title="政府网站" href="http://www.jiangxi.gov.cn/col/col387/" >36-江西</a> 赣　
-<a title="政府网站" href="http://www.shandong.gov.cn/col/col94094/" >37-山东</a> 鲁　
-<a title="政府网站" href="https://www.henan.gov.cn/2018/05-31/2408.html" >41-河南</a> 豫　
+<a title="政府网站" href="https://www.fujian.gov.cn/" >35-福建</a> 闽　
+<a title="政府网站" href="http://www.jiangxi.gov.cn/" >36-江西</a> 赣　
+<a title="政府网站" href="http://www.shandong.gov.cn/" >37-山东</a> 鲁　
+<a title="政府网站" href="https://www.henan.gov.cn/jchn/" >41-河南</a> 豫　
 <a title="政府网站" href="http://www.hubei.gov.cn/" >42-湖北</a> 鄂　
 <a title="政府网站" href="http://www.hunan.gov.cn/" >43-湖南</a> 湘　
-<a title="政府网站" href="http://www.gd.gov.cn/zjgd/" >44-广东</a> 粤　
-<a title="政府网站" href="http://www.gxzf.gov.cn/mlgxi/" >45-广西</a> 桂　
+<a title="政府网站" href="http://www.gd.gov.cn/" >44-广东</a> 粤　
+<a title="政府网站" href="http://www.gxzf.gov.cn/" >45-广西</a> 桂　
 <a title="政府网站" href="http://www.hainan.gov.cn/" >46-海南</a> 琼　  
-<a title="政府网站" href="http://www.cq.gov.cn/zjcq/" >50-重庆</a> 渝　
-<a title="政府网站" href="https://www.sc.gov.cn/10462/c106773/zjsc.shtml" >51-四川</a>/蜀　
+<a title="政府网站" href="https://www.cq.gov.cn/" >50-重庆</a> 渝　
+<a title="政府网站" href="https://www.sc.gov.cn/" >51-四川</a>/蜀　
 <a title="政府网站" href="https://www.guizhou.gov.cn/" >52-贵州</a>/黔　
 <a title="政府网站" href="http://www.yn.gov.cn/" >53-云南</a>/滇　
 <a title="政府网站" href="http://www.xizang.gov.cn/" >54-西藏</a>　
@@ -86,7 +87,7 @@
 <a title="政府网站" href="http://www.qinghai.gov.cn/" >63-青海</a>　
 <a title="政府网站" href="http://www.nx.gov.cn/" >64-宁夏</a>　
 <a title="政府网站" href="http://www.xinjiang.gov.cn/xinjiang/dmxj/dmxj.shtml" >65-新疆</a> 新　
-<a title="政府网站" href="http://www.xjbt.gov.cn/c/2014-11-30/505838.shtml">6590-新疆兵团</a>　
+<a title="政府网站" href="http://www.xjbt.gov.cn/tszx/">6590-新疆兵团</a>　
 <a title="政府网站" href="http://www.gwytb.gov.cn/">71-台湾</a>　
 <a title="政府网站" href="https://www.gov.hk/sc/about/abouthk/facts.htm">81-香港</a>　
 <a title="政府网站" href="https://www.gov.mo/zh-hant/content/city-info/">82-澳门</a>　
