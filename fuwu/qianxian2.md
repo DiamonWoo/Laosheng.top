@@ -63,7 +63,7 @@
 |	|[晋中开发区](http://jzkfq.sxjz.gov.cn '山西转型综改示范区 晋中开发区管委会奇怪？在山西综改示范区没看到这个开发区')|🚧山西综改
 |	|[晋中国家农高区](http://ng.sxjz.gov.cn '晋中国家农高区管委会综合办公室晋中国家农业高新技术产业示范区')|山西农谷
 |	|[忻州经开区](http://kfq.sxxz.gov.cn '忻州经济开发区管理委员会')|🚧
-|	|[五台山风景名胜区](https://wts.sxxz.gov.cn '五台山风景名胜区管理委员会')|🏞️
+|	|[五台山风景名胜区](http://wts.sxxz.gov.cn '五台山风景名胜区管理委员会')|🏞️
 |	|[临汾经开区](http://kfq.linfen.gov.cn '临汾经济开发区党群工作部')|🚧
 |15-内蒙古|[呼和浩特经开区](http://hetdz.huhhot.gov.cn '呼和浩特经济技术开发区管理委员会')|🚧
 |	|[内蒙古和林格尔新区](http://hlgena.huhhot.gov.cn '呼和浩特市人民政府办公室')|
@@ -642,18 +642,15 @@
 |	|[乌鲁木齐经开区（头屯河区）](http://www.uetd.gov.cn '乌鲁木齐经济技术开发区(头屯河区)区委')|🚧
 |	|[都拉塔口岸](http://www.zgdlt.gov.cn '伊犁哈萨克自治州都拉塔口岸管理委员会')|
 |	|[奎屯独山子经开区](http://kdjkq.xinjiang.gov.cn '伊犁哈萨克自治州人民政府办公厅')|🚧
+|---------|---------------------------|---------|
 
 
 <div id="bian" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-<h2 >行政区划变更</h2>
+<h2 >行政管理区变更</h2>
 
-　　雄安新区有望获得独立的行政区划编码。
-
-<h3 >2024年</h3>
-　　20241227，新疆政府公布，新设立 和安县、和康县，均隶属和田地区。区划代码待定，本页等待吸收。  
-　　20241110，民政部公布，三沙市西沙区、南沙区行政区划代码。本页已吸收。
+　　雄安新区（行政管理区）有望获得独立的行政区划编码。
 
 
 <div id="LSIP" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -662,19 +659,10 @@
 收录进度
 --------
 
-		设计LC = 3212
-		收录LC = 3208	v0.7.0
-		完成率 = 99.9%
+		收录LC = 628	v0.3.0
 
-+	202503　正在吸收2024年县以上行政区划变动。
++	202503　
 
-
-<h3>备选地图介绍</h3>
-
-　　各省地图已选录完成，国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。大萌从十余种在线地图中，选取能够兼顾：政区识别度较高、手机浏览器兼容性较好者，以官方地图为主，商用地图为辅。　各备选地图如下：
-
-*	[国家标准地图](https://bzdt.ch.mnr.gov.cn)，自然资源部提供
-*	各省标准地图，由各地自然资源部门公开，本页四个直辖市选用
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
@@ -685,9 +673,15 @@
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian2
-	千县网第二页	Alpha	202503
+	千县网第二页	Beta	202503
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 ✈️🛩️🚁 🚧 🪧🗄️🪑🚪🛗🪟🚢🚤🏞️🏝
