@@ -29,7 +29,7 @@
 	+ 
 
 +	国际组织四大类，🇺🇳联合国有关部门。收录在本站【[一带一路](../ydyl/dir)】系列
-+	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查重»，服务网站中缺少或重复的内容（g搁置）
++	衍生项目 [cqcc](https://diamonwoo.github.io/cqcc) «服务网站查缺查重»，服务网站中缺少或重复的内容（搁置）
 
 <div align="right">
 ⏩<a href="https://Laosheng.top" target="_top">老生常谈</a>/有关部门【服务】网
@@ -159,11 +159,14 @@
 延申阅读
 --------
 
+*	github上‘路人甲’的项目：[行政区划数据](https://passer-by.com/data_location/)，提供区划历史查询、.json数据下载、js联动插件。
+*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788) （感谢网友dancerinmaya推荐
 *	自然资源部 <a title="国家地理信息公共服务平台，另有传统版" href="https://map.tianditu.gov.cn">天地图</a>高清版%
 *	《中国地名大会》[第一季](http://tv.cctv.com/special/zgdmdh/)、[第二季](https://tv.cctv.com/2021/01/19/VIDAzHOc3JMqJJ7ASz0iU0Ks210119.shtml)  
 　　《中国地名大会》是中央电视台原创的‘中国大会’系列节目之一，在CCTV-4中文国际(亚洲)频道首播，已经完成第二季。从2013年《中国汉字听写大会》开始，央视开始了一系列的自主原创大型文化季播节目，陆续推出：《中国谜语大会》《中国成语大会》《中国诗词大会》《中国国宝大会》，都取得了非常好的收视成绩，正在进行的还有《中国考古大会》、《[2022中国诗词大会](https://tv.cctv.com/special/2022zgscdh)》。
-*	地理游戏在线玩，找地名：[中国大陆城市](https://www.geoguessr.com/seterra/zh/vgp/3788) （感谢网友dancerinmaya推荐）
-*	JSON格式的行政区划数据：[路人甲](https://passer-by.com/data_location/)的github项目
+）
+
+<h3>参考文献</h3>
 
 *	《求是》杂志2021年第六期：[为人民服务：贯穿百年党史的红线](http://www.qstheory.cn/dukan/qs/2021-03/16/c_1127209334.htm)，记者 闫玉清。
 *	《人民日报》：习近平2016年4月19日[在网络安全和信息化工作座谈会上的讲话](http://politics.people.com.cn/n1/2016/0426/c1024-28303544.html)。
