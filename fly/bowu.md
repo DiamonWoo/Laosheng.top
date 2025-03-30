@@ -8,7 +8,7 @@
 
 　　刚刚过去的2024年，“全国**博物馆**全年接待观众数量超14亿人次”，平均每个中国人至少去了一次博物馆。这是2021年中宣部与国家文物局等九部委印发的《关于推进博物馆改革发展的指导意见》的实施成果。全国博物馆数量已经超过6000家，种类丰富。博物馆中既能看到中华文明的悠久历史，也能看到科学技术的探索发展，还有人民英雄的革命事迹。抚今追昔，幸福生活来之不易。
 
-　　本页面收录：**国家一级博物馆**、国家重点**美术馆**（13家）、**红色旅游经典景区**。名录已经完整，网址正在添加。这两类场所大部分是免费的，半数以上有独立网站。而且这些网站都很美，内容丰富、赏心悦目，既是文博爱好者的好去处，也是学习网页制作的好材料。自v0.3.5版后，本页面已改为‘集成网页’形式，早期名录表格式页面可看[这里](../fuwu/bowu)。另外增补若干台港澳博物馆。
+　　本页面收录：**国家一级博物馆**、**红色旅游经典景区**、国家重点**美术馆**（13家）。名录已经完整，网址正在添加。这两类场所大部分是免费的，半数以上有独立网站。而且这些网站都很美，内容丰富、赏心悦目，既是文博爱好者的好去处，也是学习网页制作的好材料。自v0.3.5版后，本页面已改为‘集成网页’形式，早期名录表格式页面可看[这里](../fuwu/bowu)。另外增补若干台港澳博物馆。
 
 <div id="mulu" align="right">
 ⏩老生常谈 / <a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>
@@ -57,14 +57,14 @@
 <h3 id="1">图例与统计</h3>
 
 <li>	🐉 国家一级博物馆　	327家（2024年数据）<small>部分场所有多重身份</small></li>
-<li>	🖼 国家重点美术馆　	 13家（2011-2015年）</li>
 <li>	🔺 红色旅游经典景区　	300处（2016年公布）</li>
+<li>	🖼 国家重点美术馆　	 13家（2011-2015年）</li>
 <li>	💭 鼠标指针靠近有提示	（电脑上能显示）</li>
 
 	　　　省份	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	新疆兵团	　合计
 	一级博物馆🐉 	28	4	8	9	9	9	5	7	12	26	21	9	7	17	32	14	12	10	15	5	2	7	16	5	4	1	15	10	2	3	3		🐉 327
-	重点美术馆🖼️	3								1	1	2						2		3								1						🖼️ 13
 	　红色景区🔺 	15	6	14	9	8	12	8	12	7	11	10	8	9	11	13	14	14	14	13	5	8	4	9	8	9	5	13	10	5	4	8	4	🔺 300
+	重点美术馆🖼️	3								1	1	2						2		3								1						🖼️ 13
 
 <h3 id="2">数据来源有关部门</h3>
 
@@ -79,24 +79,31 @@
 
 <div id='11' align='right'><a href='https://whlyj.beijing.gov.cn/ggfw/ly/'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>北京市　🐉 28　🖼3　🔺 15</h3>
-　<sub>东城区</sub><a href='http://www.ngcc.org.cn'>中国妇女儿童博物馆</a>
-　<sub>东城区</sub><sup>中国侨联</sup><a href='https://www.ocmuseum.cn/'>中国华侨历史博物馆</a>
-　<sub>东城区</sub><sup>国铁集团</sup><a href='http://www.china-rail.org.cn'>中国铁道博物馆</a><sub>、朝阳区、延庆区</sub>
 　<sub>东城区</sub><sup>文旅部</sup><a href='http://www.chnmuseum.cn'>中国国家博物馆</a><sub>🔺</sub>
 　<sub>东城区</sub><sup>文旅部</sup><a href='https://www.dpm.org.cn'>故宫博物院</a><sub>🐲</sub>
 　<sub>东城区</sub><sup>海关总署</sup><a href='http://www.customsmuseum.cn'>中国海关博物馆</a>
-　<sub>西城区</sub><a href='http://www.bjp.org.cn'>北京天文馆</a>
-　<sub>西城区</sub><a href='http://www.sql.org.cn/' title='中华人民共和国名誉主席宋庆龄同志故居头条搜到'>宋庆龄故居</a>💭
-　<sub>西城区</sub><a href='https://www.cpon.cn'>民族文化宫</a>
-　<sub>西城区</sub><a href='https://www.capitalmuseum.org.cn' title='北京文物局'>首都博物馆</a>💭
+　<sub>东城区</sub><a href='http://ccwm.china.com.cn'>中国妇女儿童博物馆</a>
+　<sub>东城区</sub><sup>中国侨联</sup><a href='https://www.ocmuseum.cn/'>中国华侨历史博物馆</a>
+　<sub>东城区</sub><sup>国铁集团</sup><a href='http://www.china-rail.org.cn'>中国铁道博物馆</a><sub>、朝阳区、延庆区</sub>
+　<sub>东城区</sub>🔺<a href='https://tamgw.beijing.gov.cn/'>天安门广场</a>
+　<sub>东城区</sub>🖼<a href='https://www.namoc.org' title='1963年毛泽东题写馆额'>中国美术馆</a>💭<sub>文旅部直属</sub>
 　<sub>西城区</sub><sup>文旅部</sup><a href='http://www.pgm.org.cn'>恭王府博物馆</a>
 　<sub>西城区</sub><sup>文物局</sup><a href='http://www.luxunmuseum.com.cn/'>北京鲁迅博物馆</a><sub>🔺（北京新文化运动纪念馆）</sub>
 　<sub>西城区</sub><sup>自然资源部</sup><a href='http://www.gmc.org.cn'>中国地质博物馆</a>
+　<sub>西城区</sub><a href='http://www.sql.org.cn/' title='中华人民共和国名誉主席宋庆龄同志故居头条搜到'>宋庆龄故居</a><sub>🔺</sub>💭
+　<sub>西城区</sub><a href='https://www.cpon.cn'>民族文化宫</a>
+　<sub>西城区</sub><a href='http://www.bjp.org.cn'>北京天文馆</a>
+　<sub>西城区</sub><a href='https://www.capitalmuseum.org.cn' title='北京文物局'>首都博物馆</a>💭
 　<sub>朝阳区</sub><a href='http://www.wxg.org.cn'>中国现代文学馆</a>
 　<sub>朝阳区</sub><a href='http://www.cnfm.org.cn' title='网站故障？原广电总局和北京市共建'>中国电影博物馆</a>💭
 　<sub>朝阳区</sub><sup>中国科协</sup><a href='https://www.cstm.org.cn'>中国科学技术馆</a>
 　<sub>朝阳区</sub><sup>农业农村部</sup><a href='http://www.zgnybwg.com.cn'>中国农业博物馆</a>
 　<sub>朝阳区</sub><sup>民航局</sup><a href='http://www.caacmuseum.cn'>民航博物馆</a>
+　<sub>朝阳区</sub>🔺<a href='https://www.bjghzl.com.cn/' title='网站证书有报错'>北京规划展览馆</a>💭
+　<sub>朝阳区</sub>🖼<a href='https://cafamuseum.org' title='1953年中央美术学院陈列馆'>中央美术学院美术馆</a>💭<sub>首任馆长董希文</sub>
+　<sub>朝阳区</sub>🖼<a href='https://www.bjaa.com.cn/chiefly.html?hcs=11&clg=150'>北京画院美术馆</a><sub>齐白石作品</sub>
+　<sub>昌平区</sub><sup>解放军</sup><a href='https://www.zghkbwg.mil.cn'>中国航空博物馆</a><sub>🔺</sub>
+　<sub>大兴区</sub><a href='http://www.yinshuabwg.org'>中国印刷博物馆</a>
 　<sub>丰台区</sub><a href='http://www.1937china.com' title='北京市财政'>中国人民抗日战争纪念馆</a>💭<sub>🔺</sub>
 　<sub>丰台区</sub><a href='http://www.gardensmuseum.cn' title='北京市公园管理中心'>中国园林博物馆</a>💭
 　<sub>丰台区</sub><a href='http://www.automuseum.org.cn'>北京汽车博物馆</a>
@@ -105,22 +112,15 @@
 　<sub>海淀区</sub><a href='https://www.xiangshan1949.cn' title='在香山公园之外，无需预约'>香山革命纪念馆</a>💭
 　<sub>海淀区</sub><sup>解放军</sup><a href='http://www.jb.mil.cn'>中国人民革命军事博物馆</a><sub>🔺军博</sub>
 　<sub>房山区</sub><a href='https://www.zkd.cn'>周口店北京人遗址博物馆</a>
-　<sub>昌平区</sub><sup>解放军</sup><a href='https://www.zghkbwg.mil.cn'>中国航空博物馆</a><sub>🔺</sub>
-　<sub>大兴区</sub><a href='http://www.yinshuabwg.org'>中国印刷博物馆</a>
-　<sub>东城区</sub>🔺<a href='https://tamgw.beijing.gov.cn/'>天安门广场</a>
 　<sub>房山区</sub>🔺<a href='https://beijing.qianlong.com/2019/0618/3380591.shtml'>没有共产党就没有新中国纪念馆</a><sub>媒体介绍页</sub>
-　<sub>朝阳区</sub>🔺<a href='https://www.bjghzl.com.cn/' title='网站证书有报错'>北京规划展览馆</a>💭
 　<sub>海淀区</sub>🔺<a href='http://www.yuanmingyuanpark.cn'>圆明园遗址公园</a>
 　<sub>海淀区</sub>🔺<a href='http://xiangshanpark.com/cn/'>香山双清别墅</a><sub>香山公园内，票价￥10元</sub>
-　<sub>西城区</sub>🔺<a>宋庆龄故居</a>
 　<sub>顺义区</sub>🔺<a href='http://www.luxunmuseum.com.cn'>新文化运动纪念馆</a><sub>🛕 北京鲁迅博物馆</sub>
 　<sub>顺义区</sub>🔺<a href='https://www.beijing.gov.cn/renwen/rwzyd/202011/t20201124_2144257.html'>李大钊烈士陵园</a><sub>政府介绍页</sub>
 　<sub>顺义区</sub>🔺<a>焦庄户地道战遗址纪念馆</a><sub>[政府介绍页](https://s.visitbeijing.com.cn/attraction/117853)</sub>
 　<sub>顺义区</sub>🔺<a href='https://www.beijing.gov.cn/renwen/rwzyd/gdwh/bjalpkgy/202107/t20210727_2449752.html'>北京奥林匹克公园</a>
 　<sub>顺义区</sub>🔺<a href='https://www.beijing.gov.cn/renwen/rwzyd/202011/t20201125_2150169.html' title='冀热察挺进军司令部旧址陈列馆'>冀热察挺进军</a>💭<sub>政府介绍页</sub>
-　<sub>东城区</sub>🖼<a href='https://www.namoc.org' title='1963年毛泽东题写馆额'>中国美术馆</a>💭<sub>文旅部直属</sub>
-　<sub>朝阳区</sub>🖼<a href='https://cafamuseum.org' title='1953年中央美术学院陈列馆'>中央美术学院美术馆</a>💭<sub>首任馆长董希文</sub>
-　<sub>朝阳区</sub>🖼<a href='https://www.bjaa.com.cn/chiefly.html?hcs=11&clg=150'>北京画院美术馆</a><sub>齐白石作品</sub>
+
 <div id='12' align='right'><a href='http://whly.tj.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>天津市　🐉 4　　🔺 6</h3>
 　<sub>河西区</sub><a href='http://www.tjbwg.com/'>天津博物馆</a>
