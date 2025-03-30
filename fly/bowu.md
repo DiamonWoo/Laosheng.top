@@ -218,7 +218,7 @@
 　<sub>阜新市</sub>🔺<a title='阜新“万人坑”死难矿工纪念馆'>阜新万人坑</a>💭
 <div id='22' align='right'><a href='http://whhlyt.jl.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>吉林省　🐉 5　　🔺 8</h3>
-　<sub>长春市南关区</sub><a href='http://www.jlnrm.org.cn'>吉林省自然博物馆</a>
+　<sub>长春市南关区</sub><a href='https://museum.nenu.edu.cn'>吉林省自然博物馆</a>
 　<sub>长春市南关区</sub><a href='https://jlmuseum.net/'>吉林省博物院</a>
 　<sub>长春市宽城区</sub><a href='http://www.wmhg.com.cn'>伪满皇宫博物院</a>
 　<sub>昌邑区</sub><a href='http://www.jlsbwg.com'>吉林市博物馆</a><sub>（吉林市陨石博物馆）</sub>
@@ -233,7 +233,7 @@
 　<sub>长春市</sub>🔺<a href='https://ccxfw.gov.cn/cchsyj/6913.jhtml' title='另有长影旧址博物馆'>长春电影制片厂</a>💭<sub>媒体介绍页</sub>
 <div id='23' align='right'><a href='http://wlt.hlj.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>黑龙江省　🐉 7　　🔺 12</h3>
-　<sub>哈尔滨市南岗区</sub><a href='http://www.dlml.gov.cn'>东北烈士纪念馆</a><sub>（东北抗联博物馆、中共黑龙江历史纪念馆）</sub>
+　<sub>哈尔滨市南岗区</sub><a href='https://jn1948.cn'>东北烈士纪念馆</a><sub>（东北抗联博物馆、中共黑龙江历史纪念馆）</sub>
 　<sub>大庆市让胡路区</sub><a href='http://www.daqing.gov.cn'>大庆铁人王进喜纪念馆</a>
 　<sub>黑河市爱辉区</sub><a href='http://www.heihe.gov.cn'>瑷珲历史陈列馆</a><sub>🔺</sub>
 　<sub>哈尔滨市南岗区</sub><a href='http://www.hljmus.org.cn/'>黑龙江省博物馆</a>
