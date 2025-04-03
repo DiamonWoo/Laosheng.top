@@ -1,6 +1,6 @@
 地大物博看中国 🐉
 ==============
-大萌	© 202503
+大萌	© 202503-
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/bowu" />
 
@@ -71,10 +71,11 @@
 *	国务院 [文旅部](https://www.mct.gov.cn/)代管：
 	* 国家文物局：全国博物馆[名录](http://www.ncha.gov.cn/col/col2267/)、[年度报告信息](http://nb.ncha.gov.cn/museum.html?)，公布第1批、第2批国家一级博物馆名录。
 	* 中国博物馆协会：[定级评估](https://www.chinamuseum.org.cn/cma/newLists.html?id=19)，公布第3批、第4批、第5批国家一级博物馆名录
-*	国务院（原文化部）公布第一批、第二批国家重点美术馆名单
 *	国务院 [发改委](https://www.ndrc.gov.cn) / 文旅部 等14部委 
 	* 发改委：[发改社会〔2016〕2662号](https://www.ndrc.gov.cn/xxgk/zcfb/tz/201612/t20161230_962839.html)，关于印发全国红色旅游经典景区名录的通知
 	* 文旅部：[红色旅游经典景区](https://www.mct.gov.cn/tourism/#/list?drid=4)名录查询
+*	国务院（原文化部）公布第一批、第二批国家重点美术馆名单
+*	*更多的烈士纪念设施可见 [烈士陵园](../fuwu/烈士陵园) 页面*
 
 
 <div id='11' align='right'><a href='https://whlyj.beijing.gov.cn/ggfw/ly/'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
@@ -134,7 +135,7 @@
 <div id='13' align='right'><a href='https://whly.hebei.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>河北省　🐉 8　🔺 14　</h3>
 　<sub>石家庄市新华区</sub><a href='https://www.hebeimuseum.org.cn/'>河北博物院</a>
-　<sub>石家庄市平山县</sub><a href='http://www.xibaipo.org.cn'>西柏坡纪念馆</a><sub>🔺</sub>
+　<sub>石家庄市平山县</sub><a href='https://www.xbpjng.cn/'>西柏坡纪念馆</a><sub>🔺</sub>
 　<sub>丛台区</sub><a href='http://www.hdmuseum.org/' title='头条搜到'>邯郸市博物馆</a>💭
 　<sub>唐山市乐亭县</sub><a href='http://www.ltzjng.com'>李大钊纪念馆</a>
 　<sub>路北区</sub><a href='https://www.tsmuseum.com/'>唐山博物馆</a>
@@ -816,7 +817,7 @@
 	老生常谈© 2019-2025 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
 	https://laosheng.top/fuwu/bowu
-	地大物博看中国 v0.4.3	202504
+	地大物博看中国 v0.4.4	202504
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
