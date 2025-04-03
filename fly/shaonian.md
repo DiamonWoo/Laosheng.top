@@ -1,8 +1,8 @@
 少年学习报刊亭 🌝
 ==============
-大萌	© 202501（正在收录）
+大萌	© 202504（基本完成）
 <base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/fly/baokan" />
+<link rel="canonical" href="https://Laosheng.top/fly/shaonian" />
 
 		啦啦啦! 啦啦啦! 我是卖报的小行家 —— 卖报歌（1933年安娥词）
 
@@ -11,9 +11,9 @@
 　　中国邮政支持**次月收订**，也就是现在可以订阅下一个月的报刊。您可以订两三个月，也可以订全年，通常价格上有整年优惠。有三种渠道订购：到邮局、打电话 11185-9、网上下单 [11185.cn](https://bk.11185.cn/)。如果你急需近期报刊，或已发行报刊，可以向邮局询问‘破订’，或者直接联系出版社。2025新年到了，大家快点下单吧！
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/报刊亭</div>
+⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/少年报</div>
 
-<h3 id='mulu'>报刊亭 简目</h3>
+<h3 id='mulu'>少年报 简目</h3>
 
 　　[刊号](#kanhao){:target="_top"}，
 	[报纸](#baozhi){:target="_top"}📰、期刊：
@@ -461,8 +461,8 @@
 ```
 	老生常谈 © 2019-2025 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	https://Laosheng.top/fly/baokan
-	少年学习报刊亭 v0.3.4	202501
+	https://Laosheng.top/fly/shaonian
+	少年学习报刊亭 v0.3.5	202504
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
