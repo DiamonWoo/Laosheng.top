@@ -1,8 +1,10 @@
-各地人才就业网 👔
+各地人才就业网 👔 <sup>积极工作站稳岗</sup>
 =================
-大萌　	202403~04	<base target="_blank">
+大萌 202403~04，202504
+<base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/jiuye" />
 
-		让每个人获得发展自我和奉献社会的机会——中法建交50周年大会上习近平阐释中国梦(2014年巴黎)
+		让每个人获得发展自我和奉献社会的机会 —— 2014年习近平阐释中国梦 (巴黎，中法建交50周年大会)
 
 　　2024年是‘春风行动’开展的第二十年，这是国家为促进就业，由多部委联合开展的公益活动。从最早帮助农民工进城，到如今全社会‘稳就业、保民生’，春风行动 每年会在各地、多批次地举办线上、线下招聘活动，并且对求职者、提供职位的企业/单位免费入场。在周期性的公办招聘活动之外，还有常年提供职业介绍的民办招聘网站。
 
@@ -10,23 +12,13 @@
 
 　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接，欢迎租房网站与本人联系。　如果您知道较好的地方民办招聘网站，<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">欢迎推介</a>。
 
-<div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/各地人才就业网
+<div id="mulu" align="right">
+⏩老生常谈/<a href="https://Laosheng.top/fuwu/" target="_top">【服务】</a>
+/ 就业网
 </div>
 
-
-<h3>‘就业网’收录进度</h3>
-
-+	⬜️ 各地民办就业招聘网
-+	⬜️ 19个国家级新区人才网
-+	✳️ 333个地级市就业网 　	v0.3.3~ （进行中）
-+	✅️ 333个地级市人社局 　	v0.3.3~0.4.0
-+	✅ 31个省会城市人才网 　	v0.3.2 （缺7个，未发现公办人才网）
-+	✅ 32个省级公共就业服务平台/毕业生就业网 　	v0.3.0
-
-
-<h3 id="mulu">'就业网'目录</h3>
-　<a target='_top' href='#zy'>中央有关部门</a>网站  
+<h3>'就业网'目录</h3>
+　<a target='_top' href='#guo'><b>国家就业有关部门</b></a>  
 　各省就业网站
 ：<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
@@ -61,12 +53,21 @@
 　<a href="#65" target="_top">65-新疆</a>
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽  
-　<a target='_top' href='#mb'>大型民办招聘</a>网站  
+　<b>全国性</b><a target='_top' href='#min'>民办招聘网</a>  
 　参考文献  
-　<a target='_top' href='#mx'>鸣谢</a>/<sub>编辑说说明</sub>
+　<a target='_top' href='#mx'>鸣谢</a>
+
+<h3>‘就业网’收录进度</h3>
+
++	⬜️ 各地民办就业招聘网
++	✳️  19个国家级新区人才网 　	v0.4.1~
++	✳️ 333个地级市就业网 　	v0.3.3~ （进行中）
++	✅️ 333个地级市人社局 　	v0.3.3~0.4.0
++	✅ 31个省会城市人才网 　	v0.3.2 （缺7个，未发现公办人才网）
++	✅ 32个省级公共就业服务平台/毕业生就业网 　	v0.3.0
 
 
-<h2 id='zy'>中央有关部门网站 👔</h2>
+<h2 id='guo'>国家就业有关部门 👔</h2>
 
 [人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
 
@@ -530,21 +531,21 @@
 <div id="tupu" align="right"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
-<h2 id='mb'>大型民办招聘网站 👔</h2>
+<h2 id='min'>全国性民办招聘网 👔</h2>
 按起源年份排序
 
-*	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
-*	1999年上海，[前程无忧](https://www.51job.com/bo/service.php) 51job (Nasdaq:JOBS)
-	* 下属网站：[应届生](https://www.yingjiesheng.com/deadline/)
-	、[拉勾招聘](https://www.lagou.com/gongsi/) IT类
-*	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
+*	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
+*	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
+*	2006年北京，[英才网联](https://www.800hr.com/) 800HR.com 分行业人才招聘
+*	2006年深圳，[一览英才网](https://www.job1001.com/) Job1001 工业细分招聘
 *	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:退市)
 	* 下属网站：[赶集直招](https://www.ganji.com/chosecity/)
 	、[新华英才](https://www.ChinaHR.com/job) （原中华英才网被美资收购）
-*	2006年深圳，[一览英才网](https://www.job1001.com/) Job1001 工业细分招聘
-*	2006年北京，[英才网联](https://www.800hr.com/) 800HR.com 分行业人才招聘
-*	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
-*	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
+*	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
+*	1999年上海，[前程无忧](https://www.51job.com/bo/service.php) 51job (Nasdaq:JOBS)
+	* 下属网站：[应届生](https://www.yingjiesheng.com/deadline/)
+	、[拉勾招聘](https://www.lagou.com/gongsi/) IT类
+*	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
 
 
 参考文献
@@ -568,13 +569,13 @@
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，如发现网址错误，请[告知大萌](https://xoyondo.com/ap/HPr7pBG7mOPIUGZ)，谢谢！🙇
+　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
 
 
 ```
-	老生常谈© 2019-2024 大萌  知识共享许可
+	老生常谈© 2019-2025 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	各地人才就业网 V0.4.0	202404
+	各地人才就业网 V0.4.1	202504
 	https://laosheng.top/fuwu/jiuye
 ```
 
