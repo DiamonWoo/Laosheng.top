@@ -4,7 +4,7 @@
 <base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/fuwu/jiuye" />
 
-		让每个人获得发展自我和奉献社会的机会 —— 2014年习近平阐释中国梦 (中法建交50周年大会)
+		让每个人获得发展自我和奉献社会的机会 —— 2014年习近平阐释中国梦 (巴黎，中法建交50周年大会)
 
 　　2024年是‘春风行动’开展的第二十年，这是国家为促进就业，由多部委联合开展的公益活动。从最早帮助农民工进城，到如今全社会‘稳就业、保民生’，春风行动 每年会在各地、多批次地举办线上、线下招聘活动，并且对求职者、提供职位的企业/单位免费入场。在周期性的公办招聘活动之外，还有常年提供职业介绍的民办招聘网站。
 
@@ -54,8 +54,7 @@
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽  
 　<b>全国性</b><a target='_top' href='#min'>民办招聘网</a>  
-　参考文献  
-　<a target='_top' href='#mx'>鸣谢</a>
+　<a target='_top' href='#can'>参考文献</a> / 鸣谢
 
 <h3>‘就业网’收录进度</h3>
 
@@ -528,10 +527,10 @@
 粤Z　澳门　+853　毕业生就业　零工市场　澳门[人才发展委员会](https://www.cdqq.gov.mo/zh-hant/)　<small>7个堂区</small>  
 
 
-<div id="tupu" align="right"><a href="#mulu" target="_top">↑ Top</a></div>
+<div id="min" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-<h2 id='min'>全国性民办招聘网 👔</h2>
+<h2>全国性民办招聘网 👔</h2>
 按起源年份排序
 
 *	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
@@ -548,6 +547,9 @@
 *	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
 
 
+<div id="can" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
 参考文献
 --------
 
@@ -560,8 +562,7 @@
 	3月17日，智联招聘、猎聘被北京人社局约谈和立案调查。三家企业均表示将[上线虚拟号码功能](http://news.youth.cn/jsxw/202103/t20210317_12778880.htm)。
 *	2014年3月巴黎，习近平[在中法建交五十周年纪念大会上的讲话](http://cpc.people.com.cn/n/2014/0329/c64094-24770826.html)
 
-
-<h2 id='mx'>鸣谢</h2>
+<h3>鸣谢</h3>
 
 　　本页面各地人社机构网址有约六成初始数据来自国务院‘互联网+’小组。💐
 
