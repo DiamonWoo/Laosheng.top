@@ -27,8 +27,10 @@
 
 <small>1833~1949%</small>
 <a title="近代全国报刊索引，上海图书馆提供" href="https://www.cnbksy.com/portal/footCategory?id=21">近代报刊</a>📰%
-<a title="人民日报七十年余全库搜索，2021年起限制访问" href="http://data.people.com.cn/rmrb">人民日报</a>
-<small>$1946~2020</small>
+<a title="人民日报七十年余全库搜索，2021年起限制访问" href="http://data.people.com.cn/rmrb">人民日报</a> <small>$1946~2020</small>
+
+　#<a href='https://www.marxists.org/chinese' title='中文马克思主义文库，公益网站'>马克思主义文库</a>
+、<a href='https://marxists.pages.dev/chinese/' title='中马库，镜像网站'>pages.dev</a>
 
 +	[《解放思想，实事求是，团结一致向前看》](https://fuwu.12371.cn/2012/06/11/ARTI1339401591746288.shtml)	邓小平1978年讲话 后于1983年七一发表于人民日报
 +	#老资料网	<https://www.laoziliao.net/rmrb/1983-07-01>	2021年底后访问困难
@@ -100,9 +102,9 @@
 4、浏览之器
 -----------
 
-+	谷歌火狐浏览器扩展：暴力猴 <https://github.com/violentmonkey/violentmonkey>
-+	暴力猴脚本搜索： <https://greasyfork.org/zh-CN/>
-+	暴力猴脚本举例：知乎去弹窗 <https://greasyfork.org/zh-CN/scripts/419081-知乎增强>
++	#谷歌火狐浏览器扩展：暴力猴 <https://github.com/violentmonkey/violentmonkey>
++	#暴力猴脚本搜索： <https://greasyfork.org/zh-CN/> 对抗网站脚本的浏览器脚本
++	#暴力猴脚本举例：知乎增强 <https://greasyfork.org/zh-CN/scripts/419081-知乎增强>
 
 　　要登录要下载？网站上的弹窗很烦人，用Via、X…浏览器+某某猴子扩展+某个去弹窗脚本 = 世界终于安静了。
 
@@ -371,7 +373,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202503
+	提名网站与落榜记	　202504
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
