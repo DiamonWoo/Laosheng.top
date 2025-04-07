@@ -104,7 +104,7 @@
 　<sub>朝阳区</sub>🖼<a href='https://cafamuseum.org' title='1953年中央美术学院陈列馆'>中央美术学院美术馆</a>💭<sub>首任馆长董希文</sub>
 　<sub>朝阳区</sub>🖼<a href='https://www.bjaa.com.cn/chiefly.html?hcs=11&clg=150'>北京画院美术馆</a><sub>齐白石作品</sub>
 　<sub>昌平区</sub><sup>解放军</sup><a href='https://www.zghkbwg.mil.cn'>中国航空博物馆</a><sub>🔺</sub>
-　<sub>大兴区</sub><a href='http://www.yinshuabwg.org'>中国印刷博物馆</a>
+　<sub>大兴区</sub>中国印刷博物馆 <sub><a href='https://www.bigc.edu.cn/'>北京印刷学院</a></sub>
 　<sub>丰台区</sub><a href='http://www.1937china.com' title='北京市财政'>中国人民抗日战争纪念馆</a>💭<sub>🔺</sub>
 　<sub>丰台区</sub><a href='http://www.gardensmuseum.cn' title='北京市公园管理中心'>中国园林博物馆</a>💭
 　<sub>丰台区</sub><a href='http://www.automuseum.org.cn'>北京汽车博物馆</a>
@@ -198,7 +198,7 @@
 <div id='21' align='right'><a href='http://whly.ln.gov.cn'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3>辽宁省　🐉 9　🔺 12　</h3>
 　<sub>沈阳市和平区</sub><a href='https://lnmuseum.com.cn/'>辽宁省博物馆</a>
-　<sub>沈阳市大东区</sub><a title='“九·一八”历史博物馆微博停更'>九一八历史博物馆</a>💭<sub>🔺[wb](https://www.weibo.com/918museum)</sub>
+　<sub>沈阳市大东区</sub><a href='https://museum918.org.cn/'>九一八历史博物馆</a><sub>🔺</sub>
 　<sub>大连市旅顺口区</sub><a href='https://lvshunmuseum.cn/'>旅顺博物馆</a>
 　<sub>沈河区</sub><a href='https://www.sypm.org.cn/'>沈阳故宫博物馆</a>
 　<sub>沙河口区</sub><a href='https://www.dlmodernmuseum.com'>大连博物馆</a>
@@ -503,7 +503,7 @@
 　<sub>曾都区</sub><a href='https://szbwg.net'>随州市博物馆</a>
 　<sub>襄城区</sub><a href='http://www.xymuseum.cn'>襄阳市博物馆</a><sub>（文物考古研究所、襄阳市文物修复中心）</sub>
 　<sub>鄂城区</sub><a href='http://ezbwg.com/'>鄂州市博物馆</a>
-　<sub>恩施州恩施市</sub><a>恩施土家族苗族自治州博物馆</a>
+　<sub>恩施州恩施市</sub><a href='http://www.bwg.org.cn' title='恩施土家族苗族自治州'>恩施州博物馆</a>
 　🔺<a title='（江岸区八七会议会址纪念馆，武昌区毛泽东旧居及中央农民运动讲习所旧址纪念馆）'>武汉市红色旅游系列景区</a>💭
 　🔺<a title='（荆州市洪湖市湘鄂西革命根据地旧址群，湘鄂西苏区革命烈士陵园）'>湘鄂西红色旅游系列景区</a>💭
 　🔺<a title='（大悟县宣化店谈判旧址、新四军五师旧址）'>孝感市红色旅游系列景区</a>💭
@@ -527,7 +527,7 @@
 　<sub>宁乡市</sub><a href='https://www.shaoqiguli.com/'>刘少奇同志纪念馆</a>
 　<sub>天心区</sub><a href='https://www.chinajiandu.cn/'>长沙简牍博物馆</a>
 　<sub>开福区</sub><a href='https://www.csm.hn.cn/'>长沙市博物馆</a>
-　<sub>浏阳市</sub><a>胡耀邦同志纪念馆</a>
+　<sub>浏阳市</sub><a>胡耀邦同志纪念馆</a><a href='http://www.zgcsds.cn/h/62/20220621/10044.html'>党史介绍页</a>
 　<sub>长沙市天心区</sub><a href='http://www.hndzbwg.com'>湖南省地质博物馆</a>
 　<sub>浏阳市</sub><a href='http://www.qsqyhsjng.com' title='秋收起义文家市会师纪念馆'>秋收起义纪念园</a>💭
 　<sub>天元区</sub><a href='https://zzsmuseum.cn'>株洲博物馆</a><sub>（株洲市考古研究和文物保护中心）</sub>
