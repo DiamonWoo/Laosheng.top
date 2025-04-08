@@ -155,7 +155,7 @@
 
 *	<a href="https://house086.com" title="只有病友最懂你">淋巴瘤之家</a>	　	<a href="https://www.mijian360.com/help" title="病友互助社交">觅健</a>
 *	[医学百科](https://www.yixue.com/首页)	　	A+医学百科$<a href="http://a-hospital.com/w/中药" title="民间公益网站">中药</a>
-
+*	光明中医[教材](https://www.gmzyjc.com/site/)限地区访问、[Gitee](https://gitee.com/organizations/gmzy/)
 *	中医世家《[中医方剂](https://www.zysj.com.cn/zhongyaofang/)》，超两万五千方！
 *	[经方派](https://www.jingfangpai.cn/prescription/) 从八千种中医古籍中精选50本。	　	医书考古 [kege.org.cn](http://kege.org.cn/zhongyi-kaogu)
 
