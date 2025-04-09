@@ -10,7 +10,7 @@
 
 　　**千县网**在2022年收录省级地名34+1个，地市级333+2个，县区级2830个，新疆兵团辖市12个，合计地名3212个。有4个地方未能收录人民政府网址，分别是：福建省泉州市金门县，台湾省，海南省三沙市西沙区、南沙区，‘千县网’将持续关注。每个省都配有地图链接，少数允许手机浏览器访问，备选地图见页面底部。快速查找与统计地名，请善用浏览器‘页面内查找’功能。
 
-　　2025年，千县网将发布多个扩大版本。比如包括全国所有法院的‘政法区划集’、包括所有设网站开发区的‘千县网开发版’，详细计划请看【服务】系列的目录页。
+　　如果你还有县级以上地名在本页找不到，那么这个地名可能不是行政区划，而是行政管理区，比如雄安新区。请到 [千县网第二页](qianxian2)查询，该页收录各省的开发区网站。2025年，千县网将发布多个扩大版本。比如包括全国所有法院的 [政法集](../falv/zhengfa)，还有各县图书馆、工业遗迹等，详细计划请看【服务】系列的目录页。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/ 千县网
@@ -20,6 +20,7 @@
 35个省级单位索引
 ----------------
 
+　图例　数据来源　
 <a href="#11" target="_top">11-北京</a>　
 <a href="#12" target="_top">12-天津</a>　
 <a href="#13" target="_top">13-河北</a> 冀　
@@ -56,16 +57,16 @@
 <a href="#81" target="_top">81-香港</a>　
 <a href="#82" target="_top">82-澳门</a>　
 91-国外入籍身份证号　
-近年 <a href="#bian" target="_top">行政区划变更</a>　
-<a href="#lsip收录进度" target="_top">LSIP收录进度</a>　
+行政区划<a href="#bian" target="_top">变更史</a>　
+<a href="#LSIP" target="_top">LSIP收录进度</a>　
 <small>返回索引请用浏览器‘后退’按钮</small>
 
 <h3>图例</h3>
 
 *	城市F： 表示该城市的行政级别为副省级，但其行政区划仍然是地市级。
 	例如：天津市滨海新区F。
-*	d地图： 表示该地图链接限制在桌面模式下阅读(desktop)。
-	例如：6590　兵团　d天地图分享链。
+*	d地图： 表示该省地图链接限制在桌面模式下阅读(desktop)。
+	例如：71　台湾省　d天地图分享链。
 *	♾ ： 表示该地区固定电话号码为8位数，如：津　022 ♾。
 	 未标记的地区为7位数。
 *	注1：少数地名生僻字有批注，鼠标悬停可见，正在逐步添加。
@@ -73,13 +74,17 @@
 *	注2：部分政府网址收录的是其地方介绍页，或者网站地图页。
 	例如：北京市 110102 西城区。
 
-<h3>数据来源有关部门</h3>
+<h3>数据来源有关部门 🔢</h3>
 
 *	国务院网站 /政策 /[互联网+](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)政务服务
 *	国务院[民政部](https://www.mca.gov.cn)网站 MCA
 	* 政务服务 /查询服务 /全国[行政区划信息](http://xzqh.mca.gov.cn/map)查询平台
 	 /县级以上行政[区划变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况
 	* 民政数据 /[行政区划代码](https://www.mca.gov.cn/n156/n186/)（历年完整数据）
+
+<h3>最新变更</h3>
+
+　　20241227，新疆政府公布，新设立 和安县、和康县，均隶属和田地区。区划代码待定，本页等待吸收。
 
 
 <h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　010 ♾<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
@@ -3662,7 +3667,7 @@
 兵团14个师中尚有2个师(11/12)未完成‘师市合一’改革。
 <div align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></div>
 
-<h3 id="71">71 <a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">桌面地图</a></sub></h3>
+<h3 id="71">71 <a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
 710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
 台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
 6个直辖市：台北市、新北市、桃园市、
@@ -3672,32 +3677,33 @@
 11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
 	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
 
-<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">桌面地图</a></sub></h3>
+<h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">天地图分享链</a></sub></h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
 香港岛：	中西区、湾仔区、东区、南区  
 九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
 新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
 
-<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　00853<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">桌面地图</a></sub></h3>
+<h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　00853<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">天地图分享链</a></sub></h3>
 澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
 澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
 路环：	圣方济各堂区  
 
-<div align="right"><a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="bian" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-<h2 id="bian">行政区划变更</h2>
+行政区划变更史
+--------------
 
 　　雄安新区有望获得独立的行政区划编码。
 
 <h3 >2024年</h3>
-　　20241227，新疆政府公布，新设立 和安县、和康县，均隶属和田地区。区划代码待定，本页等待吸收。  
+<!--　　20241227，新疆政府公布，新设立 和安县、和康县，均隶属和田地区。区划代码待定，本页等待吸收。-->  
 　　20241110，民政部公布，三沙市西沙区、南沙区行政区划代码。本页已吸收。
 
 <h3 >2023年</h3>
-　　2023年有3处变更，本页已全部吸收。  
-　　新疆兵团第九师新成立白杨市，西藏两个县改市：错那县、米林县。  
+　　2023年有3处变更：
+　　新疆兵团第九师新成立白杨市，西藏两个县改市：错那县、米林县。本页已全部吸收。
 
 <h3 >2022年</h3>
 　　县级以上无变更。
@@ -3707,13 +3713,13 @@
 　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
 　　有3个新设立的全新地名：  新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
 　　还有4个区调整区划范围，名称不变，其中福建三明市的三元区，原区划代码350403更新。  
-　　此外有13个行政区变更了区划单位，小计如下，变更详情参见[民政部](https://www.mca.gov.cn/mzsj/xzqh/2021/20211201.html)。
+　　此外有13个行政区变更了区划单位，小计如下，变更详情参见[民政部](http://xzqh.mca.gov.cn/description?dcpid=2021)。
 
 		县改市	7
 		县改区	4	（开遍全国的沙县小吃发源地沙县，改为沙县区）
 		市改区	2
 
-<div align="right"><a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="LSIP" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 LSIP收录进度
@@ -3735,7 +3741,7 @@ LSIP收录进度
 
 <h3>备选地图介绍</h3>
 
-　　各省地图已选录完成。大萌从十余种在线地图中，选取能够兼顾：政区识别度较高、手机浏览器兼容性较好者，以官方地图为主，商用地图为辅。各备选地图如下：
+　　各省地图已选录完成，国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。大萌从十余种在线地图中，选取能够兼顾：政区识别度较高、手机浏览器兼容性较好者，以官方地图为主，商用地图为辅。　各备选地图如下：
 
 *	[国家标准地图](https://bzdt.ch.mnr.gov.cn)，自然资源部提供
 *	各省标准地图，由各地自然资源部门公开，本页四个直辖市选用
@@ -3748,7 +3754,6 @@ LSIP收录进度
 *	腾讯地图/搜狗地图
 *	360地图
 
-　　国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -3758,7 +3763,7 @@ LSIP收录进度
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.7.4	202503
+	中国千县地名网	v0.7.5	202504
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
