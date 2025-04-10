@@ -1,15 +1,13 @@
-中国政法区划集 🧩 <sup>全国司法管辖地</sup>
+中国政法区划集 🧩 <sup>全国所有法院名</sup>
 =================
 大萌　2022-2025	<base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/falv/zhengfa" />
 
 		研究解决制约政法工作的体制性机制性问题——201701 中央政法工作会议 习近平
 
-　　老生常谈网站的‘[千县网](../fuwu/qianxian)’页面收录了中国大陆所有县级以上**行政区划**的地名和政府网址，可以快速查找陌生地名，也是个学习地理的好材料。但是，仍然有地名在千县网查不到，比如中央亲自筹划的雄安新区。为什么呢？因为雄安新区还在建设中，没有建成正式的行政区。一名在雄安新区出生的婴儿，其身份证仍然是河北省保定市的雄县、安新县、容城县三者之一。
+　　根据“[人民法院组织法](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-10/26/content_2064483.htm)”第二章，在县级以上**行政区划**单位设立人民法院。也就是说，所有行政区划单位都会有法院。此外，‘在省、自治区内按地区设立的中级人民法院’和‘市辖区人民法院’使得部分**行政管理区**有自己的法院，此外还有铁路、海事等跨地区的专门法院。
 
-　　这种由政府派出机构管辖的地理区域叫做**行政管理区**，没有独立的人大、政协，只有某某管理委员会。既有新中国建设初期的垦区、林区、矿区，也有改革进程中划定的 经开区、高新区、国家级新区 等等。其中经开区数量很大，如果算到省级开发区，全国超过2000家，大部分没有获得民政部分配的区划代码。少数行政管理区设立了人民法院，建立了基层公检法，这会影响到诉讼的管辖地。
-
-　　“中国政法区划集”扩充了‘千县网’的范围，收录了**全国所有法院名**称、行政区划的政府网址、设法院的管委会网址。‘政法集’网页不仅可以快速找到更多的地名和官网，而且以集成网页形式展现各地区的司法管辖层级，方便大家在学法用法的时候查找司法管辖关系。全国法院网址正在添加，欢迎提出意见。
+　　“中国政法区划集”收录了**全国所有法院名**称，包括‘[千县网](../fuwu/qianxian)’的全国行政区划、设立法院的[行政管理区](../fuwu/qianxian2)、海事铁路互联网等专门法院；同时收录了法院所在地的人民政府或管委会的网址，全国法院网址正在添加。　‘政法集’网页可以快速找到更多的地名和公检法官网，以集成网页形式展现全国的司法管辖地区，方便大家在学法用法的时候查找司法管辖层级。
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】</a>
 / 政法集
@@ -17,43 +15,44 @@
 
 <h3 id="mulu">35个省级单位索引</h3>
 
-<a href="#11" target="_top">11-北京</a>　
-<a href="#12" target="_top">12-天津</a>　
-<a href="#13" target="_top">13-河北</a> 冀　
-<a href="#14" target="_top">14-山西</a> 晋　
-<a href="#15" target="_top">15-内蒙古</a> 蒙　
-<a href="#21" target="_top">21-辽宁</a>　
-<a href="#22" target="_top">22-吉林</a>　
-<a href="#23" target="_top">23-黑龙江</a>　
-<a href="#31" target="_top">31-上海</a> 沪　
-<a href="#32" target="_top">32-江苏</a> 苏　
-<a href="#33" target="_top">33-浙江</a> 浙　
-<a href="#34" target="_top">34-安徽</a> 皖　
-<a href="#35" target="_top">35-福建</a> 闽　
-<a href="#36" target="_top">36-江西</a> 赣　
-<a href="#37" target="_top">37-山东</a> 鲁　
-<a href="#41" target="_top">41-河南</a> 豫　
-<a href="#42" target="_top">42-湖北</a> 鄂　
-<a href="#43" target="_top">43-湖南</a> 湘　
-<a href="#44" target="_top">44-广东</a> 粤　
-<a href="#45" target="_top">45-广西</a> 桂　
-<a href="#46" target="_top">46-海南</a> 琼　
-<a href="#50" target="_top">50-重庆</a> 渝　
-<a href="#51" target="_top">51-四川</a>　
-<a href="#52" target="_top">52-贵州</a>　
-<a href="#53" target="_top">53-云南</a>　
-<a href="#54" target="_top">54-西藏</a> 藏　
-<a href="#61" target="_top">61-陕西</a>　
-<a href="#62" target="_top">62-甘肃</a>　
-<a href="#63" target="_top">63-青海</a>　
-<a href="#64" target="_top">64-宁夏</a>　
-<a href="#65" target="_top">65-新疆</a> 新　
-<a href="#6590" target="_top">6590-新疆兵团</a>　
-<a href="#71" target="_top">71-台湾</a>　
-<a href="#81" target="_top">81-香港</a>　
-<a href="#81" target="_top">82-澳门</a>　
-91-国外入籍身份证号　
-<a href="#jindu" target="_top">LSIP进度</a>　
+　图例与符号
+　<a href="#11" target="_top">11-北京</a>
+　<a href="#12" target="_top">12-天津</a>
+　<a href="#13" target="_top">13-河北</a> 冀
+　<a href="#14" target="_top">14-山西</a> 晋
+　<a href="#15" target="_top">15-内蒙古</a> 蒙
+　<a href="#21" target="_top">21-辽宁</a>
+　<a href="#22" target="_top">22-吉林</a>
+　<a href="#23" target="_top">23-黑龙江</a>
+　<a href="#31" target="_top">31-上海</a> 沪
+　<a href="#32" target="_top">32-江苏</a> 苏
+　<a href="#33" target="_top">33-浙江</a> 浙
+　<a href="#34" target="_top">34-安徽</a> 皖
+　<a href="#35" target="_top">35-福建</a> 闽
+　<a href="#36" target="_top">36-江西</a> 赣
+　<a href="#37" target="_top">37-山东</a> 鲁
+　<a href="#41" target="_top">41-河南</a> 豫
+　<a href="#42" target="_top">42-湖北</a> 鄂
+　<a href="#43" target="_top">43-湖南</a> 湘
+　<a href="#44" target="_top">44-广东</a> 粤
+　<a href="#45" target="_top">45-广西</a> 桂
+　<a href="#46" target="_top">46-海南</a> 琼
+　<a href="#50" target="_top">50-重庆</a> 渝
+　<a href="#51" target="_top">51-四川</a>
+　<a href="#52" target="_top">52-贵州</a>
+　<a href="#53" target="_top">53-云南</a>
+　<a href="#54" target="_top">54-西藏</a> 藏
+　<a href="#61" target="_top">61-陕西</a>
+　<a href="#62" target="_top">62-甘肃</a>
+　<a href="#63" target="_top">63-青海</a>
+　<a href="#64" target="_top">64-宁夏</a>
+　<a href="#65" target="_top">65-新疆</a> 新
+　<a href="#6590" target="_top">6590-新疆兵团</a>
+　<a href="#71" target="_top">71-台湾</a>
+　<a href="#81" target="_top">81-香港</a>
+　<a href="#81" target="_top">82-澳门</a>
+　91-国外入籍身份证号
+　<a href="#jindu" target="_top">LSIP进度</a>
 
 
 图例与符号
@@ -62,8 +61,8 @@
 *	🛂 ⚔ ⚖️：省市两级 公、检、法 网站
 *	Ⓖ⠀Ⓙ⠀Ⓕ：县区级公检法网站，数据添加中……
 *	-⠀-⠀- ：尚未添加网址的公检法，或者没有网站
-*	A!B：功能区A的管理机构驻地在B行政区
 *	A↑B：法院A的上诉法院是B
+*	A!B：功能区A的管理机构驻地在B行政区
 *	A+B：在A地区某地块增设B功能区
 *	A/B：A B 两块牌子是一套班子
 *	⠀F：该城市政府行政级别为副省级（仍是中级法院）
@@ -4096,10 +4095,11 @@ LSIP收录进度
 
 　　本页面由 <a title='Laosheng.top 衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP 大规模集成网页</a> 提供理论支持。
 
-		设计LC = 3436*2 或 *4
-		收录LC = x	
-		完成率 = y%
+		设计LC = 3436*2 = 6872	(未来可能 *4)
+		收录LC = 3340 + 2391 = 5731
+		完成率 = 83.39%
 
++	202504　开场白介绍千县网第二页，计算LC。
 +	202502　‘中国政法区划集’上线，/falv/zhengfa
 +	202411　暂停数据更新，重新设计
 +	202303　‘中国千县公检法’上线，/fuwu/qianxian-gjf
@@ -4111,15 +4111,14 @@ LSIP收录进度
 	老生常谈© 2019-2025 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://laosheng.top/falv/zhengfa
-	中国政法区划集 v0.4.2	202504
+	中国政法区划集 v0.4.3	202504
 ```
 
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-🧩📑🚨🚓🚑🚒🚌🧑🤝‍🧑🏢🔢📠🚘♾
+回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+https://Laosheng.top  
