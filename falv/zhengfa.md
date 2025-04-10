@@ -5,14 +5,20 @@
 
 		研究解决制约政法工作的体制性机制性问题——201701 中央政法工作会议 习近平
 
-　　根据“[人民法院组织法](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-10/26/content_2064483.htm)”第二章，在县级以上**行政区划**单位设立人民法院。也就是说，所有行政区划单位都会有法院。此外，‘在省、自治区内按地区设立的中级人民法院’和‘市辖区人民法院’使得部分**行政管理区**有自己的法院，此外还有铁路、海事等跨地区的专门法院。
+　　根据“[人民法院组织法](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-10/26/content_2064483.htm)”第二章，在县级以上**行政区划**单位设立人民法院。也就是说，所有市、县、区都会有法院；‘在省、自治区内按地区设立的中级人民法院’和‘市辖区人民法院’使得部分**行政管理区**有自己的法院；此外还有跨地区的铁路、海事等专门法院。
 
 　　“中国政法区划集”收录了**全国所有法院名**称，包括‘[千县网](../fuwu/qianxian)’的全国行政区划、设立法院的[行政管理区](../fuwu/qianxian2)、海事铁路互联网等专门法院；同时收录了法院所在地的人民政府或管委会的网址，全国法院网址正在添加。　‘政法集’网页可以快速找到更多的地名和公检法官网，以集成网页形式展现全国的司法管辖地区，方便大家在学法用法的时候查找司法管辖层级。
+
+		地方法院计数　　		专门法院计数		金融	 3所
+		高院	  32		高院	 0		知产	 4
+		中级	 371		中级	35		海事	11
+		基层	3001		基层	54		铁路	68
+		(不含港澳台)					互联网	 3
+
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】</a>
 / 政法集
 </div>
-
 <h3 id="mulu">35个省级单位索引</h3>
 
 　图例与符号
@@ -2420,6 +2426,7 @@
 431229 [靖州县](http://www.jzx.gov.cn/jzx/c116328/zjjz2020.shtml '靖州苗族侗族自治县 ') -⠀-⠀[Ⓕ](http://hhjzxfy.hunancourt.gov.cn)⠀
 431230 [通道县](http://www.tongdao.gov.cn '通道侗族自治县 ') -⠀-⠀[Ⓕ](http://tdxfy.hunancourt.gov.cn)⠀
 431281 [洪江市](http://www.hjs.gov.cn) -⠀-⠀[Ⓕ](http://hjsfy.hunancourt.gov.cn)⠀
+[洪江区](http://hjq.huaihua.gov.cn/) -⠀-⠀[Ⓕ](http://hjsfy.hunancourt.gov.cn)⠀
 
 431300 [**娄底市**](http://www.hnloudi.gov.cn) 　湘K　0738　[🛂️](http://gaj.hnloudi.gov.cn)　-　[⚖️](http://ldzy.hunancourt.gov.cn/)  
 
@@ -3510,7 +3517,7 @@
 610302 [渭滨区](http://www.weibin.gov.cn) -⠀-⠀[Ⓕ](http://bjwbfy.sxfywcourt.gov.cn)⠀
 610303 [金台区](http://www.jintai.gov.cn) -⠀-⠀[Ⓕ](http://jtqfy.sxfywcourt.gov.cn)⠀
 610304 [陈仓区](http://www.chencang.gov.cn) -⠀-⠀[Ⓕ](http://ccqfy.sxfywcourt.gov.cn)⠀
-610305 [凤翔市](https://www.fengxiang.gov.cn/col/col6086/ ' 2021年县改市') -⠀-⠀[Ⓕ](http://sxfxxfy.sxfywcourt.gov.cn)⠀
+610305 [凤翔区](http://www.fengxiang.gov.cn '2021年县改区') -⠀-⠀[Ⓕ](http://sxfxxfy.sxfywcourt.gov.cn)⠀
 610323 [岐山县](http://www.qishan.gov.cn) -⠀-⠀[Ⓕ](http://sxqsfy.sxfywcourt.gov.cn)⠀
 610324 [扶风县](http://www.fufeng.gov.cn) -⠀-⠀[Ⓕ](http://ffxfy.sxfywcourt.gov.cn)⠀
 610326 [眉县](http://www.meixian.gov.cn) -⠀-⠀[Ⓕ](http://mxfy.sxfywcourt.gov.cn)⠀
@@ -4111,7 +4118,7 @@ LSIP收录进度
 	老生常谈© 2019-2025 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://laosheng.top/falv/zhengfa
-	中国政法区划集 v0.4.3	202504
+	中国政法区划集 v0.4.4	202504
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
