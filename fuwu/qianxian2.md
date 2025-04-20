@@ -279,7 +279,7 @@
 |	|[漳州古雷港经开区](http://glg.zhangzhou.gov.cn '漳州市人民政府办公室')|🚧
 |	|[龙岩经开区](http://www.lyjkq.gov.cn '龙岩经济技术开发区管理委员会')|🚧
 |	|[东侨经开区](http://www.fjdq.gov.cn '东侨经济技术开发区管理委员会办公室')|🚧
-|	|[平潭综合实验区党工委](http://www.pingtan.gov.cn '平潭综合实验区管委会办公室')|
+|	|[平潭综合实验区党工委](http://www.pingtan.gov.cn '平潭综合实验区管委会办公室')|🏢平潭县
 |36-江西|[赣江新区](http://www.gjxq.gov.cn '赣江新区管理委员会办公室国家级新区G')|G
 |	|[南昌国家高新区](http://nchdz.nc.gov.cn '工委管委会机关后勤服务中心')|🎇
 |	|[南昌经开区](http://ncjk.nc.gov.cn '南昌经济技术开发区管委会')|🚧
@@ -471,15 +471,15 @@
 |	|[常德市西洞庭管理区](https://xdt.changde.gov.cn '常德市西洞庭管理区管理委员会办公室')|
 |	|[常德国家高新区](https://cdgxq.changde.gov.cn '常德国家高新技术产业开发区')|🎇
 |	|[张家界经开区](http://kfq.zjj.gov.cn '湖南张家界经济开发区管理委员会')|🚧
-|	|[大通湖区](http://dth.yiyang.gov.cn '益阳市大通湖区管理委员会')|
+|	|[大通湖区](http://dth.yiyang.gov.cn '益阳市大通湖区管理委员会')|🏞前国有农场
 |	|[益阳高新区](http://yygxq.yiyang.gov.cn '益阳高新技术产业开发区管委会办公室')|🎇
 |	|[郴州国家高新区](http://czepz.czs.gov.cn '郴州出口加工区管委会')|🎇
 |	|[郴州经开区](http://czeda.czs.gov.cn '郴州经济开发区管理委员会')|🚧
 |	|[永州经开区](http://jkq.yzcity.gov.cn '永州经济技术开发区党政办')|🚧
-|	|[永州市金洞管理区](http://jd.yzcity.gov.cn '永州市金洞管理区管理委员会办公室')|
+|	|[永州市金洞管理区](http://jd.yzcity.gov.cn '永州市金洞管理区管理委员会办公室')|🏞前金洞林场
 |	|[回龙圩管理区](http://hlxglq.yzcity.gov.cn '回龙圩管理区管理委员会')|
 |	|[怀化高新区](http://gxq.huaihua.gov.cn '湖南怀化市高新区管委会')|🎇
-|	|[怀化市洪江区](http://hjq.huaihua.gov.cn '洪江区管理委员会办公室')|
+|	|[怀化市洪江区](http://hjq.huaihua.gov.cn '洪江区管理委员会办公室')|🏞洪江古商城
 |	|[怀化国际陆港经开区](http://jkq.huaihua.gov.cn '怀化市人民政府办公室')|🚧
 |	|[娄底经开区](http://jkq.hnloudi.gov.cn '娄底经济技术开发区管理委员会')|🚧
 |	|[湘西高新区](http://xxgxq.xxz.gov.cn '湘西高新技术产业开发区管理委员会办公室')|🎇
