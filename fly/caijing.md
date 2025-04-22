@@ -1,6 +1,6 @@
 中文财经云媒体 💹 <sup>全国行业数字报</sup>
 ==============
-大萌	© 202410-12（正在收录）
+大萌	© 202410-12，202504（整理中）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/caijing" />
 
@@ -10,7 +10,7 @@
 
 　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，大致分为：**中央直管、部委主管、地方主管**。在一条条的财经新闻背后，是一行行的实业生产，本页同时收录全国性的**行业数字报**。
 
-　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/jinrong) 和 [环球金](../ydyl/jiaoyisuo)*。
+　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *金融圈 和 [环球金](../ydyl/jiaoyisuo)*。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/财经云</div>
@@ -43,12 +43,12 @@
 /　[境外中文](#jingwai){:target="_top"}财经网
 /　参考文献[与图例](#tuli){:target="_top"}
 
-<h4>暂未归类的财经云媒体</h4>
+<h3 >数据来源</h3>
 
-*	央企 🌻 紫荆文化集团：
-	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
-*	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn)、
-	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com)
+*	国家新闻出版署：[报纸查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/)、
+	[期刊查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/qkan/)
+*	国家广电总局 > [播出机构名录](https://www.nrta.gov.cn/col/col69/)
+
 
 <div id="zhongyang" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -141,6 +141,16 @@
 	[<small>中国经济时报</small>](https://jjsb.cet.com.cn/)📰 [官网](https://www.cet.com.cn)
 * 中国社科院[工业经济研究所](http://gjs.cass.cn)：
 	[中国经营报](http://dianzibao.cb.com.cn/)📰 [官网](http://news.cb.com.cn)
+
+**几个全国性热门报刊**
+
+*	央企 🌻 紫荆文化集团：
+	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
+*	金融央企 🀄 中信集团：
+	《[财经](https://magazine.caijing.com.cn/)》杂志 [官网](https://www.caijing.com.cn) 11-4568/F
+*	全国政协办公厅 / 中国文史出版社：
+	©《[财新](https://weekly.caixin.com/)周刊》 [官网](https://www.caixin.com) 10-1344/F
+
 
 <div id="difang" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -599,20 +609,16 @@
 其他备选媒体：
 	<small>[环球金融](http://live.caijingtt.com.cn/)？主体不明</small>、（券商中国///数据宝/创业资本汇/新财富）
 
-<h3 >官方查询链接</h3>
-
-*	国家新闻出版署 > [报纸报社查询](https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/)
-*	国家广电总局 > [播出机构名录](https://www.nrta.gov.cn/col/col69/)
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈 © 2019-2024 大萌  知识共享
+	老生常谈 © 2019-2025 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.5.0	202412
+	中文财经云媒体 v0.5.1	202504
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
