@@ -12,14 +12,14 @@
 
 　　金融交易所是各种国际势力角逐的战场，业务上有：外汇、黄金、证券（股票与债券），时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有 中文[财经云](../fly/caijing)媒体 提供各种市场资讯。　writing……（还在学习、收集中）
 
-<div align="right" id="mulu">
-⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金
-</div>
-
 　　全球行情：
 	新浪[行情中心](https://gu.sina.cn/#/world)-环球、
 	东方财富-[行情中心](https://wap.eastmoney.com/quote/global.html)、
 	微软[MSN财经](https://www.msn.cn/zh-cn/money/markets)-市场
+
+<div align="right" id="mulu">
+⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金
+</div>
 
 <h3>〖环球金〗目录</h3>
 
