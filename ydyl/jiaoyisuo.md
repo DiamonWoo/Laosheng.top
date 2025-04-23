@@ -15,11 +15,11 @@
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金
 </div>
-<p align="center">
+
+　　全球行情：
 	新浪[行情中心](https://gu.sina.cn/#/world)-环球、
 	东方财富-[行情中心](https://wap.eastmoney.com/quote/global.html)、
 	微软[MSN财经](https://www.msn.cn/zh-cn/money/markets)-市场
-</p>
 
 <h3>〖环球金〗目录</h3>
 
