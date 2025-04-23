@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~202503
+大萌　202307，202404~202504
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -13,7 +13,13 @@
 　　金融交易所是各种国际势力角逐的战场，业务上有：外汇、黄金、证券（股票与债券），时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有 中文[财经云](../fly/caijing)媒体 提供各种市场资讯。　writing……（还在学习、收集中）
 
 <div align="right" id="mulu">
-⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金</div>
+⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金
+</div>
+<p align="center">
+	新浪[行情中心](https://gu.sina.cn/#/world)-环球、
+	东方财富-[行情中心](https://wap.eastmoney.com/quote/global.html)、
+	微软[MSN财经](https://www.msn.cn/zh-cn/money/markets)-市场
+</p>
 
 <h3>〖环球金〗目录</h3>
 
@@ -83,7 +89,7 @@ Gold Market
 
 　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g) 　假设美元汇率7.0不变，可简化为：
 
-　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）　比如，某日伦敦金报价：2608美元/盎司，约等于 92美元/克，若按美元兑人民币7比1计，等于 644元/克；若按汇率7.2计，则等于662.4元/克。可见黄金在境内外存在利差。
+　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）　比如，某日伦敦金报价：2608美元/盎司，约等于 92美元/克，若按美元兑人民币7比1计，等于 644元/克；若按汇率7.2计，则等于662.4元/克。可见黄金在境内外存在价差。
 
 看国际黄金价格的国内商业网站有：
 
@@ -399,10 +405,10 @@ USA Gov financial authorities
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈 © 2019-2024 大萌  知识共享
+	老生常谈 © 2019-2025 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.6	202503
+	环球金融交易所	v0.5.7	202504
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
