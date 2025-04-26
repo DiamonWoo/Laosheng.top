@@ -180,8 +180,11 @@
 　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
 　	<a title='北京故宫博物院' href='https://www.dpm.org.cn/'>故宫</a>
 
+*	美国<a href='https://loc.gov/about' title='全球最大馆藏三千万册'>国会图书馆</a>
 *	<a href='https://www.gutenberg.org/browse/languages/zh' title='提供版权过期书籍的电子版，亦作古腾堡'>古登堡</a>公有领域书籍的电子版
 *	维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
+*	[维普期刊](https://qikan.cqvip.com/Qikan/Journal/JournalGuid?)各国[开放获取](https://qikan.cqvip.com/Qikan/Journal/OaIndex?)
+
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App、
 	%<a href="https://www.zdic.net/" title="查字词，查古文，近期广告增加">汉典</a> 202408因手机广告下榜
 *	可可诗词 	<https://www.kekeshici.com>
@@ -190,8 +193,6 @@
 
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>、
-　#<a href="https://site.sciping.com/" title="202303的网页存档">科塔学术导航</a> 2023莫名[被拦截](https://web.archive.org/web/20230323160752/https://site.sciping.com/)  
-　<a title="知乎话题：图书馆" href="https://www.zhihu.com/topic/19556703/hot">知乎话题</a> 2024因讨论区对访客关闭下榜  
 　　笨笨地写日记☆ 
 
 
@@ -222,14 +223,16 @@
 *	谷歌收购的导航站 <a title='' href='https://www.265.com'>265</a> 
 /	#<a href='https://scholar.google.com' title='论文与书籍检索'>谷歌学术</a>
 /	chrome#<a href='https://blog.google/products/chrome' title='Chrome Official Blog'>blog</a>
-*	<a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a>
-	旧域名已停用 https://www.chuyu.me
-*	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
+
+*	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
+*	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
 *	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
 *	经典双栏文件管理器TC的安卓版本，在其瑞士论坛提供[下载](https://www.ghisler.ch/board/viewforum.php?f=22)
+*	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
 
 *	CnBtea； 	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
+*	[雷锋网](https://www.leiphone.com/)Ai
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
 *	[ipip](https://www.ipip.net/ip.html)；	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国；
@@ -245,8 +248,6 @@
 	[17测](http://17ce.com/) 沪
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
-*	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
-*	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
 *	<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>
 *	在线写网页[codePen](https://codepen.io/pen/)、
 	在线沙盒IDE[codeSandBox](https://codesandbox.io/new?utm_source=landingpage)、
@@ -262,17 +263,22 @@
 	<a href="https://weibo.com/yaochen" title="联合国难民署中国亲善大使">姚晨</a>
 *	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
 *	　#<a href="https://instagram.com/7_luhan_m/?hl=zh-cn" title="鹿晗ins千万粉丝">Ins</a>
-*	中关村在线 	ZOL
+*	驱动之家	快科技
 
 
 
 落榜记
 ======
 
-2025/3/7	#第一段
+
+2025/4/27	#第九段  
+*	发现 <a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a> 网站已关闭。
+	更早时旧域名已停用 https://www.chuyu.me
+
+
+2025/3/7	#第一段  
 *	<a href='https://zhihu.com/explore' title='知乎发现，手机端可进首页看推荐'>知乎</a>
 	因全面禁止访客搜索和发现页从搜索框撤下，只保留知乎学堂。
-
 
 2025/1/23	#第九段  
 *	《电脑<a href="https://www.cfan.com.cn/technic/" title="网站停留在202210">爱好者</a>》杂志网站因长期不更新下榜。　
@@ -280,6 +286,8 @@
 
 
 --------
+
+*	<a title="知乎话题：图书馆" href="https://www.zhihu.com/topic/19556703/hot">知乎话题</a> 2024因讨论区对访客关闭下榜  
 
 2024/10/10	#第五段  
 *	小鸡词典🐥因迟迟没有官司的进展，服务也没有恢复，暂时下榜；  
@@ -291,6 +299,8 @@
 *	90lrc<a href="https://www.90lrc.cn" title="歌词搜歌名">歌词</a>疑似停服。
 
 ----
+
+*	#<a href="https://site.sciping.com/" title="202303的网页存档">科塔学术导航</a> 2023莫名[被拦截](https://web.archive.org/web/20230323160752/https://site.sciping.com/)  
 
 2023/10/9	#第一段  
 *	清理去年已经停服的网站：维基百科拷贝1<https://zh.wikipedia.wikimirror.org >、维基百科拷贝2	<https://kfd.me >、
