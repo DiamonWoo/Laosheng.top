@@ -14,12 +14,12 @@
 *	紫薇黄历 	<https://www.ibazi.cn/article/36361>	黄历/皇历/通书 的来历
 *	真正的农历，农业农村部[信息日历](http://zdscxx.moa.gov.cn:8080/nyb/pc/calendar.jsp)
 
-<div align="right">
+<div id="mulu" align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/index2" target="_top">排行榜</a>/提名网站
 </div>
 
-简目：　1、搜罗天下　2、[云媒速览](#2云媒速览){:target="_top"}　3、电视节目单　4、[浏览之器](#4浏览之器){:target="_top"}　5、[老生常谈](#5老生常谈){:target="_top"}  
-　6、体育医疗保健　7、[科研学习](#7科研学习){:target="_top"}　8、财务自求　9、[IT洁癖](#9it洁癖){:target="_top"}　10、名站导航　　[落榜记](#落榜记){:target="_top"}
+简目：　1、搜罗天下　2、[云媒速览](#2){:target="_top"}　3、[电视节目单](#3){:target="_top"}　4、[浏览之器](#4){:target="_top"}　5、[老生常谈](#5){:target="_top"}  
+　6、[体育医疗保健](#6){:target="_top"}　7、[科研学习](#7){:target="_top"}　8、[财务自求](#8){:target="_top"}　9、[IT洁癖](#9){:target="_top"}　10、名站导航　　[落榜记](#落榜记){:target="_top"}
 
 
 1、搜罗天下
@@ -60,6 +60,8 @@
 *	<del>天涯社区搜</del>	<https://search.tianya.cn/>
 *	360<a href="https://st.so.com/" title="360识图">识图</a> 已停服。
 
+<div id="2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 2、云媒速览
 -----------
@@ -87,6 +89,8 @@
 　<a title="还能评论吗" href="https://news.qq.com">腾讯新闻</a>
 　<a title="新闻时评集成网站，上海春秋发展战略研究院" href="https://www.guancha.cn">观察者</a> &#160
 
+<div id="3" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 3、影视搜新知
 -------------
@@ -97,6 +101,8 @@
 *	<a href="http://www.mtime.com" title="MTime">时光</a>影评$
 <!-- http://film.mtime.com/search/movies/movies?suggestType=0&q=" + wen -->
 *	湖南卫视 <a href="https://www.mgtv.com/tv/" title="电视剧和电影">芒果TV</a>
+
+<div id="4" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 4、浏览之器
@@ -122,6 +128,8 @@
 	阿里巴巴[pp助手](https://m.pp.cn/soft.html)
 *	翻应用[iapps.me](https://www.iapps.me/iapps)
 
+<div id="5" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 5、老生常谈
 ------------
@@ -137,6 +145,8 @@
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 *	搜房网[业主论坛](https://bbs.fang.com)
 +	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
+
+<div id="6" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 6、体育医疗保健
@@ -163,6 +173,8 @@
 <!-- w/药品 w/全国医院列表--><!-- wapypk.39.net/search -->
 <!-- so.39.net/search/yp?words= -->
 
+<div id="7" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 7、科研学习
 ------------
@@ -184,7 +196,7 @@
 *	<a href='https://www.gutenberg.org/browse/languages/zh' title='提供版权过期书籍的电子版，亦作古腾堡'>古登堡</a>公有领域书籍的电子版
 *	维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
 *	[维普期刊](https://qikan.cqvip.com/Qikan/Journal/JournalGuid?)各国[开放获取](https://qikan.cqvip.com/Qikan/Journal/OaIndex?)
-
+*	CNKI知网[外文总库](https://scholar.cnki.net/)全球学术搜索
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App、
 	%<a href="https://www.zdic.net/" title="查字词，查古文，近期广告增加">汉典</a> 202408因手机广告下榜
 *	可可诗词 	<https://www.kekeshici.com>
@@ -194,6 +206,8 @@
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>、
 　　笨笨地写日记☆ 
+
+<div id="8" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 8、财务自求 🍩
@@ -210,11 +224,14 @@
 
 *	国家市场监督总局 http://www.samr.gov.cn/fw/
 *	国家企业信用信息公示系统 http://www.gsxt.gov.cn
+*	国家知产局的%[商标查询](https://sbj.cnipa.gov.cn/sbj/sbcx/) 需登录
 
 *	[企查查](https://www.qcc.com)
 /	[启信宝](https://www.qixin.com)
 /	🔎<a href="https://aiqicha.baidu.com/" title="免费查企业，百度提供">爱企查</a> %Fx
 	百度系的产品，搜索结果不给网址
+
+<div id="9" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 9、IT洁癖
@@ -248,12 +265,14 @@
 	[17测](http://17ce.com/) 沪
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
-*	<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>
 *	在线写网页[codePen](https://codepen.io/pen/)、
 	在线沙盒IDE[codeSandBox](https://codesandbox.io/new?utm_source=landingpage)、
 	国产在线IDE[AnyCodes](https://anyCodes.cn/editor)、
 	全栈行动派[QZXDP](https://tools.qzxdp.cn/runcode)、
 	代码面试机[Techie Delight](https://www.techiedelight.com/compiler/zh/index)
+*	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
+
+<div id="10" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 10、名站导航
@@ -265,6 +284,7 @@
 *	　#<a href="https://instagram.com/7_luhan_m/?hl=zh-cn" title="鹿晗ins千万粉丝">Ins</a>
 *	驱动之家	快科技
 
+<div align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 落榜记
