@@ -9,8 +9,8 @@
 　　出国留学的需求比较广泛和持久，网上有很多商业网站做了很详细的资料，本页面无意冠上加冠。大萌编辑此页，是希望读者能对美国大学迅速形成印象。在中国官方认证的名单上，增加了所在州、建校年份、大学官网。请善用浏览器的页面检索功能。
 
 <div id="mulu" align="right">
-⏩老生常谈 /<a href="https://Laosheng.top/ydyl" target="_top">【一带一路】</a>
-/ 美国大学
+⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
+/ 美国院校
 </div>
 
 ## 简目
@@ -1581,7 +1581,6 @@
 
 ```
 
-
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 
@@ -1590,7 +1589,6 @@
 
 *	2025-03-21，[光明网](https://m.gmw.cn/2025-03/21/content_1303996740.htm)：特朗普签令：正式启动解散美国教育部
 *	
-
 
 
 <!--
@@ -1604,10 +1602,9 @@
 
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
-	https://laosheng.top/fuwu/
-	国家定级图书馆 v0.3.1	202504
+	https://laosheng.top/ydyl/
+	美国院校一千五 Alpha	202505
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
-
