@@ -9,26 +9,22 @@
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵
 
 +	./dir　　　　本目录页
-
 +	./united　🌐 [**国际组织四大类**](united.html)，世界语言前十位：ISO、奥委会、教科文、世卫WHO、上合组织……（推荐）
-
 +	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （配地图）
++	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（学习中）
+
 +	丝绸之路陆海空（筹备）
 	+ [中欧班列](https://www.imsilkroad.com/news/silubanlie)⇗、中亚班列，集装箱国际铁路联运，各国铁路集团官网
 	+ 中国外贸[港口](港口)，国际海运基本港，各港务集团官网
 	+ 空中丝绸之路，国内[空港建设](http://www.cuaer.com/plus/list.php?tid=14)⇗，国际航空公司与主要机场官网
 
-+	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（学习中）
-
 +	./index　🌞 [**一带一路云媒体**](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
-
 	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
+	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
 +	美国千县政府网（规划中）　美国五十个州政府和约三千个县镇政府网址。
-
 	+ ./[USA50](USA50)　美国五十州（正在准备)　美国五十个州的中英文名称和特点。
-
-+	⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
+	+ ./[usa-uni](usa-uni)　美国在华招收留学生经中国教育部认证的院校，大约1500所。
 
 <div align="right">
 	⏩ 老生常谈
@@ -242,7 +238,7 @@
 	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.3.7	202503
+	一带一路民间站 v3.3.8	202505
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
