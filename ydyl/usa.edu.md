@@ -1,12 +1,12 @@
-美国院校半边天
+美国院校半边天 🏫
 --------------
 大萌汇编　202505	<base target="_blank">
 
 　　中美两国的大学数量居全球之冠，都有三千来所，各顶地球半边天。本页收录教育部[中国留学服务中心](https://www.cscse.edu.cn/)认证的美国高等院校**1546**所，这个数量是大约美国全部四年制大学数量的一半。这些大学就是常说的中国‘承认学历’的美国大学，留服认证的时间窗口为2024年6月的前五年。其他国家的大学本页暂未收录。
 
-　　中美两国在社会制度上有根本不同，反映在教育上，美国大学主要依靠商业化运作，有很多著名的私立大学，比如：哈佛、斯坦福、麻省理工、普林斯顿。而且美国的教育部不负责全国的大学认证，完全由社会认证机构进行，以至出现了俗称的‘野鸡大学’。甚至在2025年3月，美国总统签署了行政命令，启动解散美国教育部的程序。这种区别还反映在，要想查[中国大学的名单](https://Laosheng.top/fuwu/yuanxiao)全集，比较容易；而要想查美国的大学名单全集，比较难。
+　　中美两国在社会制度上有根本不同，反映在教育上，美国大学主要依靠商业化运作，有很多著名的私立大学，比如：哈佛、斯坦福、麻省理工、普林斯顿。而且美国的教育部不负责全国的大学认证，完全由社会认证机构进行，以至出现了俗称的‘野鸡大学’。甚至在2025年3月，美国总统签署了行政命令，启动解散美国教育部的程序。这种区别还反映在，要想查[中国大学的名单](https://Laosheng.top/fuwu/yuanxiao '高等院校三千所')全集，比较容易；而要想查美国的大学名单全集，比较难。
 
-　　出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页面无意冠上加冠。大萌编辑此页，是希望读者能对美国大学快速形成印象。在本页可查到美国大学的中文译名、地址所在州、建校年份、大学官网 等等。请善用浏览器的页面检索功能。
+　　出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页面无意冠上加冠。大萌编辑此页，是希望读者能对美国大学快速形成印象。在本页可查到美国大学的中文译名、地址[所在州](USA50 '美国五十州')、建校年份、大学官网 等等。请善用浏览器的页面检索功能。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
@@ -15,23 +15,33 @@
 
 ## 简目
 
-　　数据来源　美国各州大学　参考文献
+　　数据来源　美国各州大学　参考文献 　🏛️🏫👩‍🎓👨‍🏫
+
+<img src="ditu/usa-states.png" alt="USA 50 States" width="760" align="right" style="margin: 0px 20px 20px 0px;">
 
 ## 数据来源与参考
 
 *	中国留学网 / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd)
 *	美国教育部 [ED](https://www.ed.gov) Department of Education 
-*	(辽宁)各国学校排名网 / [美国](https://www.university-list.net/meiguo/daxue-1000.htm)(按州排序)
+*	(辽宁)各国学校排名网 / 美国([按州排序](https://www.university-list.net/meiguo/daxue-1000.htm) )
 *	(美国留学中介) 续航教育：美国大学[USNews排名](https://www.forwardpathway.com/ranking)
 *	……
+*	University，大学，多指有博士学位的综合大学
+*	Institute，学院，研究院
+*	College，大学的统称，类似与中国的大学包括本科、大专、高职。
+
+<div align="center"><img src="ditu/usa-uni.png" alt="University of USA" style="margin: 0px auto -20px;">
+</div>
 
 
 中国认证美国高等院校
 ====================
 1546所，暂按校名英文排序
 
+
 |所在州|	美国院校 |	EduName	|
 |-----:|-------------|--------------|
+
 
 　	爱荷华湖社区学院	Iowa Lakes Community College  
 　	奥兰治海岸学院	Orange Coast College  
@@ -1581,7 +1591,7 @@ IL	[中西大学](http://www.midwestern.edu/)	Midwestern University
 IL	[州长州立大学](http://www.govst.edu/)	Governors State University  
 
 
-<div align="right"><a href="#" target="_top">↑ Top</a></div>
+<div align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 
 参考文献
@@ -1603,7 +1613,7 @@ IL	[州长州立大学](http://www.govst.edu/)	Governors State University
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/usa.edu
-	美国院校半边天 Beta	202505
+	美国院校半边天 v0.3.0	202505
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
