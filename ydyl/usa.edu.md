@@ -1,12 +1,12 @@
 美国院校半边天 👩‍🎓
 ==============
-大萌汇编　202505	<base target="_blank">
+大萌汇编　202505　收录中…	<base target="_blank">
 
-　　中美两国的大学数量居全球之冠，都有三千来所，各顶地球半边天。本页收录教育部[中国留学服务中心](https://www.cscse.edu.cn/ '中留服认证')认证的美国高等院校**1546**所，这个数量是大约美国全部四年制大学数量的一半。这些大学就是常说的中国‘承认学历’的美国大学，留服认证的时间窗口为2024年6月的前五年。其他国家的大学本页暂未收录。
+　　中美两国的大学数量居全球之冠，都有三千来所，各顶地球半边天。本页收录教育部[中国留学服务中心](https://www.cscse.edu.cn/ '中留服认证')认证的美国高等院校**1546**所，这个数量是大约美国全部四年制大学数量的一半。这些大学就是常说的中国‘承认学历’的美国大学。但是中留服这个网页，没有提供搜索，而且某些地名翻译与外交部不一致，比如把 iowa 翻译为 爱荷华，而不是外交部使用的 艾奥瓦(州)。这会给人们查证院校带来困难。
 
-　　中美两国在社会制度上有根本不同，反映在教育上，美国大学主要依靠商业化运作，有很多著名的私立大学，比如：哈佛、斯坦福、麻省理工、普林斯顿。而且美国的教育部不负责全国的大学认证，完全由社会认证机构进行，以至出现了俗称的‘野鸡大学’。甚至在2025年3月，美国总统签署了行政命令，启动解散美国教育部的程序。这种区别还反映在，要想查[中国大学的名单](https://Laosheng.top/fuwu/yuanxiao '高等院校三千所')全集，比较容易；而要想查美国的大学名单全集，比较难。
+　　中美两国在社会制度上有根本不同，反映在教育上，美国大学主要依靠商业化运作，有很多著名的私立大学，比如：哈佛、斯坦福、麻省理工、普林斯顿。而且美国的教育部不负责全国的大学认证，完全由社会机构进行，以至出现了俗称的‘野鸡大学’。甚至在2025年3月，美国总统签署了行政命令，启动解散美国教育部的程序。这种区别还反映在，要想查[中国大学的名单](https://Laosheng.top/fuwu/yuanxiao '高等院校三千所')全集，比较容易；而要想查美国的大学名单全集，比较困难。
 
-　　出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页面无意冠上加冠。大萌编辑此页，是希望读者能对美国大学快速形成印象。在本页可查到美国大学的中文译名、地址[所在州](USA50 '美国五十州')、建校年份、大学官网 等等。请善用浏览器的页面检索功能。
+　　大萌希望缓解上述困难，帮助读者迅速检测一所美国大学文凭的含金量。信息正在添加，欢迎提出意见。出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页无意冠上加冠。此页可查到美国大学的中文译名、名校荣誉、院校[所在州](USA50 '美国五十州')、建校年份、大学官网 等等。请善用浏览器的页面检索功能。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
@@ -21,7 +21,7 @@
 
 ## 数据来源与参考
 
-*	中国留学网 / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd) / M-[美国](https://yxcx.cscse.edu.cn/rzyxmd2) （中留服认证）
+*	中国留学网 / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd) / M-美国 （中留服认证）
 *	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified) / 美国 （可搜索）
 *	(辽宁)各国学校排名网 / 美国([按州排序](https://www.university-list.net/meiguo/daxue-1000.htm) )（有网址）
 *	(美国留学中介) 续航教育：美国大学[USNews排名](https://www.forwardpathway.com/ranking)（标学费）
@@ -38,6 +38,11 @@
 --------
 
 　　已收录基本资料的按各州排序，大约1000所。其余500所按校名英文排序。
+
+　　计划标记 常春藤 🌿🍃 和 百年老校 💯，稍后更新……
+
+		各州收录大学统计……
+
 
 AL	[阿拉巴马州立大学](http://www.alasu.edu/)	Alabama State University  
 AL	[雅典州立大学](http://www.athens.edu/)	Athens State University  
@@ -1060,7 +1065,7 @@ WV	[西弗吉尼亚大学](http://www.wvu.edu/)	West Virginia University
 WY	[怀俄明大学](http://www.uwyo.edu/)	University of Wyoming  
 
 
-<div id="2" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
+<div id="2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 尚未分州的大学
@@ -1597,7 +1602,7 @@ WY	[怀俄明大学](http://www.uwyo.edu/)	University of Wyoming
 　	中怀俄明学院	Central Wyoming College  
 
 
-<div id="3" align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
+<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 更多美国大学
@@ -1615,7 +1620,7 @@ WY	[怀俄明大学](http://www.uwyo.edu/)	University of Wyoming
 *	美国教育部 [ED](https://www.ed.gov) Department of Education 
 	* [DAPIP](https://ope.ed.gov/dapip/#/home) 查找高校
 
-<div align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
+<div align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 参考文献
@@ -1623,8 +1628,6 @@ WY	[怀俄明大学](http://www.uwyo.edu/)	University of Wyoming
 
 *	2025-03-21，[光明网](https://m.gmw.cn/2025-03/21/content_1303996740.htm)：特朗普签令：正式启动解散美国教育部
 *	卡内基国际学生学会：[美国高等教育地区性认证机构](https://www.cisi-edu.org/regional-accreditation/)
-
-
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
