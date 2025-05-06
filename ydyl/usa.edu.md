@@ -6,7 +6,7 @@
 
 　　中美两国在社会制度上有根本不同，反映在教育上，美国大学主要依靠商业化运作，有很多著名的私立大学，比如：哈佛、斯坦福、麻省理工、普林斯顿。而且美国的教育部不负责全国的大学认证，完全由社会机构进行，以至出现了俗称的‘野鸡大学’。甚至在2025年3月，美国总统签署了行政命令，启动解散美国教育部的程序。这种区别还反映在，要想查[中国大学的名单](https://Laosheng.top/fuwu/yuanxiao '高等院校三千所')全集，比较容易；而要想查美国的大学名单全集，比较困难。
 
-　　大萌希望缓解上述困难，帮助读者迅速查看一所美国大学的‘段位’。信息正在添加，欢迎提出意见。出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页无意冠上加冠。此页可查到美国大学的中文译名、别名、建校年份、院校[所在州](USA50 '美国五十州')、名校荣誉、大学官网 等等，蓝色的校名点开是大学的官网。请善用浏览器的页面检索功能。
+　　大萌希望缓解上述困难，帮助读者迅速查看一所美国大学的‘**段位**’。信息正在添加，欢迎提出意见。出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页无意冠上加冠。此页可查到美国大学的中文译名、别名、建校年份、院校[所在州](USA50 '美国五十州')、名校荣誉、大学官网 等等，蓝色的校名点开是大学的官网。请善用浏览器的页面检索功能。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
@@ -15,7 +15,7 @@
 
 ## 简目 　🏛️🏫👩‍🎓👨‍🏫
 
-　　数据来源　收录进度　1.[各州大学标记](#1){:target="_top"}　2.[未分州的大学](#2){:target="_top"}　3.[更多美国大学](#3){:target="_top"}　4.参考文献 
+　　数据来源　收录进度　1.[各州大学标记](#1){:target="_top"}　2.[未分州的大学](#2){:target="_top"}　3.[更多美国大学](#3){:target="_top"}　参考文献 
 
 <img src="ditu/usa-states.png" alt="USA 50 States" width="760" align="right" style="margin: 0px 20px 20px 0px;">
 
@@ -54,8 +54,8 @@
 	KS	堪萨斯州　	15		NM	新墨西哥州	5		WV	西弗吉尼亚州	10
 	KY	肯塔基州　	21		NV	内华达州　	1		WY	怀俄明州　	1
 						NY	纽约州　　	59		DC	哥伦比亚特区	10
-											GU	关岛　　　	1
-											MP	北马里亚纳群岛	1
+	v0.3.2 已填充1035所院校所在州，							GU	关岛　　　	1
+	未来将覆盖全部1545所认证院校。							MP	北马里亚纳群岛	1
 
 <div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -244,7 +244,7 @@ FL  　	[佛罗里达大西洋大学](http://www.fau.edu/)	　Florida Atlantic U
 FL  　	[佛罗里达海湾海岸大学](http://www.fgcu.edu/)	　Florida Gulf Coast University	  
 FL  　	[佛罗里达理工学院](http://www.fit.edu/)	　Florida Institute of Technology	  
 FL  　	[佛罗里达国际大学](http://www.fiu.edu/)	　Florida International University	  
-FL  　	[佛罗里达南方学院](http://www.flsouthern.edu/)	　Florida Southern College	<!-- http://floridapolytechnic.org/  
+FL  　	[佛罗里达南方学院](http://www.flsouthern.edu/)	　Florida Southern College	<!-- http://floridapolytechnic.org/-->  
 FL  　	[杰克逊维尔佛罗里达州立学院](http://www.fscj.edu/)	　Florida State College at Jacksonville	  
 FL  　	[佛罗里达州立大学](http://www.fsu.edu/)	　Florida State University	  
 FL  　	[印第安河州立学院](http://www.irsc.edu/)	　Indian River State College	  
@@ -520,7 +520,7 @@ MA  　	[伍斯特州立大学](http://www.worcester.edu/)	　Worcester State Un
 MD　1696  　	[圣约翰学院](https://www.sjc.edu/)	　St. John's College	新墨西哥州NM还有个校区  
 MD　1782  　	[华盛顿学院](http://www.washcoll.edu/)	　Washington College	  
 MD　1845   🔯　	[美国海军学院](http://www.usna.edu/)	　United States Naval Academy	联邦军事院校，安纳波利斯海军学院  
-MD　1856  公立  🍃　	马里兰大学	　University of Maryland, College Park	<sub>马里兰大学帕克分校 马里兰大学科利奇帕克分校</sub>  
+MD　1856  公立  🍃　	[马里兰大学](https://umd.edu/)	　University of Maryland, College Park	<sub>马里兰大学帕克分校 马里兰大学科利奇帕克分校</sub>  
 MD　1876   ⚕️　	[约翰霍普金斯大学](https://www.jhu.edu)	　The Johns Hopkins University	新冠疫情统计？补充州与年  
 MD   ⚕️　	[健康科学统一服务大学](https://www.usuhs.edu/)	　Uniformed Services University of the Health Sciences	  
 MD  　	[包伊州立大学](http://www.bowiestate.edu/)	　Bowie State University	  
@@ -1163,7 +1163,7 @@ WY  　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 2、未分州的大学
 ---------------
 
-　　还剩511所院校需要补充基本资料，暂按校名英文排序。
+　　还剩511所院校需要补充基本资料，暂列此处，按校名英文排序。随着资料的填充，本节将逐渐缩减为零。
 
 　 金合欢大学　Acacia University   
 　 亚当斯州立大学　Adams State University   
@@ -1699,8 +1699,8 @@ WY  　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 <div align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-4、参考文献
------------
+参考文献
+--------
 
 *	2025-03-21，[光明网](https://m.gmw.cn/2025-03/21/content_1303996740.htm)：特朗普签令：正式启动解散美国教育部
 *	2024-4-19，盘点名字相似度高达90%的美国大学！ - [国际教育联盟](https://www.jingsailian.com/news/735828.html)
@@ -1717,5 +1717,10 @@ WY  　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 	美国院校半边天 v0.3.2	202505
 ```
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script> window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');</script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
