@@ -12,16 +12,16 @@
 
 /falv ⠀[【法律】系列](falv)，找到有用法律。　🗼 大萌望海楼，找法不用愁
 
-  + /falv/fahai　☸️ [法海求索](falv/fahai)，初步检索文本、观摩庭审、更深入地学习法律。
+  + /falv/fahai　☸️ [法海求索](falv/fahai)，检索文本、观摩庭审、高校进修，政法类期刊名录。
   + /falv/duben　📚 [大萌法律读本](falv/duben)，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
   + /falv/duben1　[读本1](falv/duben1)，八部大法：民法典、刑法全文、行政诉讼法等
-  + /falv/zhengfa　中国[政法区划集](falv/zhengfa)，全国法院一张网 (新上线)
+  + /falv/zhengfa　中国[政法区划集](falv/zhengfa)，全国法院一张网 (2025新上线)
 
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
   + /fly/index　☁ [中国新闻云媒体](fly){:target="_blank"}，看新闻只需浏览器。  收录全国333个地级城市的报纸📰和电视直播网址📺
   + /fly/caijing　💹 中文[财经云](fly/caijing)媒体，全国行业数字报（新上线）
-  + /fly/waixuan　🔥 中央[外宣云媒体](fly/waixuan ){:target="_blank"}，地方外宣ICC：中国之声、ChinaDaily、《北京周报》、解放军微博阵列……新发布1.0版！
+  + /fly/waixuan　🔥 中央[外宣云媒体](fly/waixuan ){:target="_blank"}，地方外宣ICC：中国之声、ChinaDaily、《北京周报》、解放军微博阵列……1.0版发布
   + /fly/dianying　💐大众电影百花奖，老生常谈[电影节](fly/dianying)📽️。每个月都有的电影节……（正在收录）
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
@@ -29,15 +29,15 @@
   + /fuwu/yuanxiao　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，助力考生选大学。　军校、中管、部本、省本、高职，中国高校层级图谱。（新）
   + /fuwu/yangqi　🧧 [央企股票全家福](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
   + /fuwu/fazhi 🏢 <a href="fuwu/fazhi" target="fazhiye" title="省地级法治部门">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
-  + /fuwu/qianxian　📑 [中国千县地名网](fuwu/qianxian)　全国近三千个县区的政府网址，按区划代码排序，2024新版❗
-  + 个人理财金融圈 ……
+  + /fuwu/qianxian　📑 [中国千县地名网](fuwu/qianxian)　全国近三千个县区的政府网址，按区划代码排序，2024版
+  + 千县网第二页 ……
 
 /ydyl/dir ⠀[【一带一路】系列](ydyl/dir)，找到全世界。　💃 一带一路民间站
 
-  + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，十大世界语言。(新版)
-  + /ydyl/nations　🗺 [外交国别速查表](ydyl/nations)：ISO代码、国家概况页、政府网址、双方使馆网址……2024新版❗
-  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。新发布1.0版！
-  + /ydyl/usa.edu　👩‍🎓 [美国院校半边天](ydyl/usa.edu)　中国承认学历的美国大学网站导航（新上线）
+  + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，十大世界语言。
+  + /ydyl/nations　🗺 [外交国别速查表](ydyl/nations)：ISO代码、国家概况页、政府网址、双方使馆网址……2024版
+  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。1.0版发布
+  + /ydyl/usa.edu　👩‍🎓 [美国大学半边天](ydyl/usa.edu)　中国承认学历的美国大学网站导航（新上线）
 
    🚄🚃☁🚃☁……
 
