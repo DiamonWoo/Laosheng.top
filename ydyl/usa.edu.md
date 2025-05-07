@@ -1,4 +1,4 @@
-美国院校半边天 👩‍🎓🌿
+美国大学半边天 👩‍🎓🌿
 ==============
 大萌汇编　202505　收录中…	<base target="_blank">
 
@@ -10,7 +10,7 @@
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
-/ 美国院校
+/ 美国大学
 </div>
 
 ## 简目 　🏛️🏫👩‍🎓👨‍🏫
@@ -21,7 +21,7 @@
 
 ## 数据来源与参考
 
-*	中国留学网 / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd) / M-美国 （中留服认证）
+*	教育部[中国留学网](https://www.cscse.edu.cn) / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd) / M-美国 （中留服认证）
 *	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified) / 美国 （可搜索）
 *	(辽宁)各国学校排名网 / 美国([按州排序](https://www.university-list.net/meiguo/daxue-1000.htm) )（有网址）
 *	(美国留学中介) 续航教育：美国大学[USNews排名](https://www.forwardpathway.com/ranking)（标学费）
@@ -33,7 +33,7 @@
 <div align="center"><img src="ditu/usa-uni.png" alt="University of USA" style="margin: 0px auto -20px;">
 </div>
 
-## 收录进度
+## LSIP收录进度
 
 	缩写	州名　　　	收录数		缩写	州名　　　	收录数		缩写	州名　	收录数
 											
@@ -63,10 +63,26 @@
 1、各州大学
 -----------
 
-　　已为1035所大学填充所在州，按各州分段，按建校年份排序，没有年份的按校名英文排序。蓝色的校名点开是大学的官网。  
+　　已为1035所大学填充所在州，按各州分段，华盛顿特区(DC)和关岛等本土外地区提到最前面。
+
+按建校年份排序，没有年份的按校名英文排序。蓝色的校名点开是大学的官网。  
 
 　　本节标记的名校荣誉有：🌿 常春藤(私立) 8所、🍃 公立常春藤 30所  
 　　专业标记有：🔯 军队院校、⚕️ 医学院校
+
+DC　1789　	[乔治敦大学](http://www.georgetown.edu/)	　Georgetown University  
+DC　	[加劳德特大学](http://www.gallaudet.edu/)	　Gallaudet University  
+DC　	[霍华德大学](http://www.howard.edu/)	　Howard University  
+DC　	[斯特雷耶大学](http://www.strayer.edu/)	　Strayer University  
+DC　	[美利坚大学](http://www.american.edu/)	　The American University  
+DC　	[美国天主教大学](http://www.cua.edu/)	　The Catholic University of America  
+DC　	[乔治华盛顿大学](http://www.gwu.edu/)	　The George Washington University  
+DC　	[世界政治学院](http://www.iwp.edu/)	　The Institute of World Politics  
+DC　	[哥伦比亚特区大学](http://www.udc.edu/)	　University of the District of Columbia  
+DC　	[波托马克大学](http://www.potomac.edu/)	　University of the Potomac  
+
+GU　	[关岛大学](http://www.uog.edu/)	　University of Guam  
+MP　	[北马里亚纳学院](http://www.marianas.edu/)	　Northern Marianas College  
 
 
 AL　1831　	[阿拉巴马大学](http://www.ua.edu/)	　The University of Alabama  
@@ -87,7 +103,7 @@ AL　	[北阿拉巴马大学](https://www.una.edu/)	　University of North Alaba
 AL　	[西阿拉巴马大学](http://www.uwa.edu/)	　University of West Alabama  
 
 AR　1871  公立 　	[阿肯色大学](https://www.uark.edu)	　University of Arkansas, Fayetteville	<sub>阿肯色大学菲耶特维尔分校 [阿肯色大学系统](https://uasys.edu/campuses-units/)的旗舰学校。克林顿及希拉里曾执教于该校法学院</sub>  
-AR　1879   ⚕️　	[阿肯色大学医学院](https://uamshealth.com)	　University of Arkansas for Medical Sciences	奇怪 uams.edu #网站连不上？  
+AR　1879   ⚕️　	[阿肯色大学医学院](https://medicine.uams.edu)	　University of Arkansas for Medical Sciences	奇怪 uams.edu 网站故障？  
 AR　1909  公立 　	[阿肯色州立大学](https://www.astate.edu/)	　Arkansas State University  
 AR　1927  公立 　	[阿肯色大学小石城分校](https://ualr.edu/)	　University of Arkansas at Little Rock	1957年曾为小石城大学  
 AR　1928  公立 　	[阿肯色大学史密斯堡分校](https://uafs.edu/)	　University of Arkansas at Fort Smith  
@@ -221,17 +237,6 @@ CT　	[哈特福德大学](http://www.hartford.edu/)	　University of Hartford
 CT　	[纽黑文大学](http://www.newhaven.edu/)	　University of New Haven  
 CT　	[西康涅狄格州立大学](http://www.wcsu.edu/)	　Western Connecticut State University  
 
-DC　1789　	[乔治敦大学](http://www.georgetown.edu/)	　Georgetown University  
-DC　	[加劳德特大学](http://www.gallaudet.edu/)	　Gallaudet University  
-DC　	[霍华德大学](http://www.howard.edu/)	　Howard University  
-DC　	[斯特雷耶大学](http://www.strayer.edu/)	　Strayer University  
-DC　	[美利坚大学](http://www.american.edu/)	　The American University  
-DC　	[美国天主教大学](http://www.cua.edu/)	　The Catholic University of America  
-DC　	[乔治华盛顿大学](http://www.gwu.edu/)	　The George Washington University  
-DC　	[世界政治学院](http://www.iwp.edu/)	　The Institute of World Politics  
-DC　	[哥伦比亚特区大学](http://www.udc.edu/)	　University of the District of Columbia  
-DC　	[波托马克大学](http://www.potomac.edu/)	　University of the Potomac  
-
 DE　1743  公立  🍃　	[特拉华大学](http://www.udel.edu/)	　University of Delaware  
 DE　	[特拉华州立大学](http://www.desu.edu/)	　Delaware State University  
 DE　	[高地毕肯学院](http://www.gbc.edu/)	　Goldey-Beacom College  
@@ -310,8 +315,6 @@ GA　	[北佐治亚大学](http://ung.edu/)	　University of North Georgia
 GA　	[西佐治亚大学](http://www.westga.edu/)	　University of West Georgia  
 GA　	[瓦尔多斯塔州立大学](http://www.valdosta.edu/)	　Valdosta State University  
 GA　	[卫斯理安学院](http://www.wesleyancollege.edu/)	　Wesleyan College  
-
-GU　	[关岛大学](http://www.uog.edu/)	　University of Guam  
 
 HI　	[夏威夷太平洋大学](http://www.hpu.edu/)	　Hawaii Pacific University  
 
@@ -627,8 +630,6 @@ MO　	[西敏斯特学院（密苏里州）](http://www.westminster-mo.edu/)	　
 MO　	[西敏斯特学院（犹他州）](http://www.westminster-mo.edu/)	　Westminster College  
 MO　	[威廉贾威尔学院](http://www.jewell.edu/)	　William Jewell College  
 MO　	[威廉伍德大学](http://www.williamwoods.edu/)	　William Woods University  
-
-MP　	[北马里亚纳学院](http://www.marianas.edu/)	　Northern Marianas College  
 
 MS　1848　	[密西西比大学](http://www.olemiss.edu/)	　University of Mississippi  
 MS　	[贝翰文大学](http://www.belhaven.edu/)	　Belhaven University  
@@ -1694,7 +1695,12 @@ WY　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 　　虽然美国的高等教育权力分散，但法律规定一所大学需要经过‘政府批准’和‘机构认证’两个阶段，而且教育部需要提供全国的认证机构名单。如果遇到本页上找不到的美国大学，可以到美国教育部网站查找该校是否通过美方认证。
 
 *	美国教育部 [ED](https://www.ed.gov) Department of Education 
-	* #[DAPIP](https://ope.ed.gov/dapip/#/home) 查找高校
+	* #[DAPIP](https://ope.ed.gov/dapip/#/home) 查找高校（访问受限）
+
+
+<h3>院校信息变更</h3>
+
+*	2025/5/6 发现阿肯色大学医学院网址 uams.edu 无法访问，原因不明，但有子域名 medicine.uams.edu 可访问。
 
 
 <div align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
@@ -1707,9 +1713,17 @@ WY　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 *	2024-4-19，盘点名字相似度高达90%的美国大学！ - [国际教育联盟](https://www.jingsailian.com/news/735828.html)
 *	卡内基国际学生学会：美国高等教育[地区性认证机构](https://www.cisi-edu.org/regional-accreditation/)
 
-<h3>院校信息变更</h3>
+　　根据中国留学网提供的‘认证院校查询’，大萌统计了认证院校数量最多的前16位国家。之后其他国家的认证院校数量都少于一百。
 
-*	2025/5/6 发现阿肯色大学医学院启用子域名，medicine.uams.edu 换下 uams.edu 。
+		国别名	认证数		国别名	认证数
+		　美国	1546		意大利	187
+		　日本	924		　英国	161
+		　法国	530		菲律宾	157
+		俄罗斯	473		加拿大	152
+		　德国	284		马来西亚	119
+		　韩国	270		澳大利亚	115
+		　印度	247		　泰国	104
+		乌克兰	212		　巴西	102
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
