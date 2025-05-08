@@ -1,16 +1,16 @@
 # 一个简单的爬虫声明
 # 2025/5/8
 
-User-agent:*
-Disallow:/
+User-agent: *
+Disallow: /
 Sitemap: https://www.Laosheng.top/sitemap.txt
-Allow:/broad/
-Allow:/c/
-Allow:/falv/
-Allow:/fly/
-Allow:/fuwu/
-Allow:/ydyl/
-Allow:/yan/
+Allow: /broad/
+Allow: /c/
+Allow: /falv/
+Allow: /fly/
+Allow: /fuwu/
+Allow: /ydyl/
+Allow: /yan/
 
-#新增Disallow:/
-#Disallow:/fly/?=http://tjvip.vip
+# 新增Disallow:/
+# Disallow:/fly/?=http://tjvip.vip
