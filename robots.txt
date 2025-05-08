@@ -2,8 +2,6 @@
 # 2025/5/8
 
 User-agent: *
-Disallow: /
-Sitemap: https://www.Laosheng.top/sitemap.txt
 Allow: /broad/
 Allow: /c/
 Allow: /falv/
@@ -11,6 +9,11 @@ Allow: /fly/
 Allow: /fuwu/
 Allow: /ydyl/
 Allow: /yan/
+
+Sitemap: https://www.Laosheng.top/sitemap.txt
+
+User-agent: *
+Disallow: /
 
 # 新增Disallow:/
 # Disallow:/fly/?=http://tjvip.vip
