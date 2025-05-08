@@ -371,6 +371,7 @@ USA Gov financial authorities
 
 **美联储** [Federal Reserve](https://www.FederalReserve.gov/ 'Fed 联邦储备系统') ，美国中央银行，制定货币政策，管理利率基准。
 
+　　美国宪法允许各州保持一定的独立性，各州政府网站请见 *[美国五十州](USA50)*。
 
 <div align="right" id="can">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
