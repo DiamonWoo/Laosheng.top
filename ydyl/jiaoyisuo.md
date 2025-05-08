@@ -10,7 +10,7 @@
 
 　　金融是将全人类命运联系在一起的重要机制。2024年2月17日慕尼黑安全会议，美国一官员说：“if you’re not at the table in the international system, you’re going to be on the menu”[<sup>(1)</sup>](#wen){:target="_top"}_。 意为：如果你不在国际体系的餐桌上，你就会在菜单上。此语一出，舆论哗然。有人要当强盗，就要有人剿匪，否则人类命运共同体永远不可能实现。
 
-　　金融交易所是各种国际势力角逐的战场，业务上有：外汇、黄金、证券（股票与债券），时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [金融圈](../fuwu/jinrong)，还有 中文[财经云](../fly/caijing)媒体 提供各种市场资讯。　writing……（还在学习、收集中）
+　　金融交易所是各种国际势力角逐的战场，业务上有：外汇、黄金、证券（股票与债券），时间上分现货、期货，地点上分场内、场外…… 本页食材正在准备~~　国内的各金融机构可以参见 [*金融圈*](../fuwu/金融圈)，还有 *中文[财经云](../fly/caijing)媒体* 提供各种市场资讯。　writing……（还在学习、收集中）
 
 　　全球行情：
 	新浪[行情中心](https://gu.sina.cn/#/world)-环球、
@@ -41,7 +41,7 @@
 ---------------
 Foreign Exchange Market
 
-　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（[BIS](https://www.bis.org)）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按中国时区，列出全球主要外汇市场的开、收盘的时间：
+　　外汇市场是金融市场中交易量最大的市场，以国际清算银行（[BIS](https://www.bis.org)）的统计，2022年4月场外交易市场日均外汇交易量为7.5万亿美元，以此计算，13天的外汇市场交易量即超过上一年全世界GDP总量。　交易量前五大市场，占据了全球交易量的约八成，分别是：英、美、新、港、日。　以下按中国时区，列出全球主要外汇市场的开、收盘的(北京)时间：
 
 *	新西兰惠灵顿： 04：00-12：00
 *	澳大利亚悉尼：06：00-14：00　[澳大利亚储备银行](https://www.rba.gov.au/statistics/frequency/exchange-rates.html)统计近3日最新汇率
@@ -80,7 +80,7 @@ Gold Market
 	 * 美国黄金储备哪里看？
 *	**英国伦敦现货市场**，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
 *	中国市场📍（SGE & SHFE）：
-	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供[上海金基准价](https://www.sge.com.cn/sjzx/jzj)、延时行情、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
+	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供**上海金基准价**、[行情走势](https://www.sge.com.cn/sjzx/mrhq)、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
 	 * 国家外汇局会每月公布[官方储备资产](https://www.safe.gov.cn/safe/tjsj1/)，包括外汇储备和黄金储备，比如[2025年](https://www.safe.gov.cn/safe/2025/0206/25744.html)的数据网页。
 *	香港[金银业贸易场](http://www.cgse.com.hk/)，报价单位多样，安士=盎司(oz)。
