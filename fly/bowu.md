@@ -15,8 +15,9 @@
 / 博物馆</div>
 
 <h3>各省索引</h3>
-　[图例与统计](#1){:target="_top"}
-/ [数据来源](#2){:target="_top"}  
+　图例与统计
+/ [数据来源](#2){:target="_top"}
+/ [最新开馆](#3){:target="_top"}  
 　<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a> 冀
@@ -69,13 +70,20 @@
 <h3 id="2">数据来源有关部门</h3>
 
 *	国务院 [文旅部](https://www.mct.gov.cn/)代管：
-	* 国家文物局：全国博物馆[名录](http://www.ncha.gov.cn/col/col2267/)、[年度报告信息](http://nb.ncha.gov.cn/museum.html?)，公布第1批、第2批国家一级博物馆名录。
+	* 国家文物局：全国[博物馆名录](http://www.ncha.gov.cn/col/col2267/)、[年度报告](http://nb.ncha.gov.cn/museum.html?)信息，公布第1批、第2批国家一级博物馆名录。
 	* 中国博物馆协会：[定级评估](https://www.chinamuseum.org.cn/cma/newLists.html?id=19)，公布第3批、第4批、第5批国家一级博物馆名录
 *	国务院 [发改委](https://www.ndrc.gov.cn) / 文旅部 等14部委 
 	* 发改委：[发改社会〔2016〕2662号](https://www.ndrc.gov.cn/xxgk/zcfb/tz/201612/t20161230_962839.html)，关于印发全国红色旅游经典景区名录的通知
 	* 文旅部：[红色旅游经典景区](https://www.mct.gov.cn/tourism/#/list?drid=4)名录查询
 *	国务院（原文化部）公布第一批、第二批国家重点美术馆名单
 *	*更多的烈士纪念设施可见 [烈士陵园](../fuwu/烈士陵园) 页面*
+*	总台央视 “[央博](https://yangbo.cctv.cn/)”数字文化艺术博物馆 20230121(除夕)上线
+
+<h3 id="3">最新开馆</h3>
+
+*	20240530，[中国科学家博物馆](https://www.mmcs.org.cn)向公众开放，由中国科协建设，位于北京市朝阳区。
+*	20231227，[北京大运河博物馆](https://www.canalmuseum.org.cn/)向公众开放，为首博的东馆，位于北京市通州区。
+*	20230915，中国考古博物馆正式向公众开放，隶属[中国历史研究院](http://hrczh.cass.cn/ywdt_135233/gg/202309/t20230913_5685374.shtml)，位于北京市朝阳区。
 
 
 <div id='11' align='right'><a href='https://whlyj.beijing.gov.cn/ggfw/ly/'>文旅厅局</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
@@ -94,7 +102,7 @@
 　<sub>西城区</sub><a href='http://www.sql.org.cn/' title='中华人民共和国名誉主席宋庆龄同志故居头条搜到'>宋庆龄故居</a><sub>🔺</sub>💭
 　<sub>西城区</sub><a href='https://www.cpon.cn'>民族文化宫</a>
 　<sub>西城区</sub><a href='http://www.bjp.org.cn'>北京天文馆</a>
-　<sub>西城区</sub><a href='https://www.capitalmuseum.org.cn' title='北京文物局'>首都博物馆</a>💭
+　<sub>西城区</sub><a href='https://www.capitalmuseum.org.cn' title='北京文物局'>首都博物馆</a>💭<sub>大运河东馆在通州区</sub>
 　<sub>朝阳区</sub><a href='http://www.wxg.org.cn'>中国现代文学馆</a>
 　<sub>朝阳区</sub><a href='http://www.cnfm.org.cn' title='网站故障？原广电总局和北京市共建'>中国电影博物馆</a>💭
 　<sub>朝阳区</sub><sup>中国科协</sup><a href='https://www.cstm.org.cn'>中国科学技术馆</a>
@@ -779,7 +787,7 @@
 <h3 id='81'>香港　🛕
 	康乐及<a href='https://www.lcsd.gov.hk/tc/facilities/facilitieslist/museums.html'>文化事务署</a>
 </h3>
-　[香港故宫文化博物馆](https://www.hkpm.org.hk/)
+　[香港故宫文化博物馆](https://www.hkpm.org.hk/) 20220702开放
 　[香港艺术馆](https://hk.art.museum/)
 　[香港历史博物馆](https://hk.history.museum/)
 　[香港文化博物馆](https://www.heritagemuseum.gov.hk/)
@@ -817,7 +825,7 @@
 	老生常谈© 2019-2025 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
 	https://laosheng.top/fuwu/bowu
-	地大物博看中国 v0.4.4	202504
+	地大物博看中国 v0.4.5	202505
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
