@@ -213,23 +213,23 @@
 8、财务自求 🍩
 ------------
 
-*	<a href="https://zhihe.com/main/information/1" title="法律新媒体">智合</a>
+*	<a href="https://zhihe.com/main/information/1" title="法律新媒体">智合</a>；
+	<del>[天涯法治论坛](http://bbs.tianya.cn/list-law-1.shtml)</del>
 *	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体，网页较为笨重。
 *	<a href="https://www.itslaw.com/" title="法律案例检索平台">无讼</a> 	2021年春停止服务，页面显示‘数据库升级中’。
 　　<a title="MBA智库百科" href="https://wiki.mbalib.com">MBA智库百科</a>
 *	<a href="https://www.zhihu.com/people/xing-qiu-yan-jiu-suo" title="探索极致风光">星球研究所</a>	2021年停止更新
-*	天涯法治论坛	<http://bbs.tianya.cn/list-law-1.shtml>
-*	$<a href="http://www.aisixiang.com/" title="法经管/人文社科">爱思想</a>　
-*	<a href="https://space.bilibili.com/1955809864" title="张捷财经观察 %Fx">张捷</a>财经
 
+*	$<a href="http://www.aisixiang.com/" title="法经管/人文社科">爱思想</a>，
+　	<a href="https://space.bilibili.com/1955809864" title="张捷财经观察 %Fx">张捷</a>财经，
+　	[集思录](https://www.jisilu.cn/)债券股票论坛
 *	国家市场监督总局 http://www.samr.gov.cn/fw/
 *	国家企业信用信息公示系统 http://www.gsxt.gov.cn
 *	国家知产局的%[商标查询](https://sbj.cnipa.gov.cn/sbj/sbcx/) 需登录
-
 *	[企查查](https://www.qcc.com)
 /	[启信宝](https://www.qixin.com)
-/	🔎<a href="https://aiqicha.baidu.com/" title="免费查企业，百度提供">爱企查</a> %Fx
-	百度系的产品，搜索结果不给网址
+/	百度系的🔎<a href="https://aiqicha.baidu.com/" title="免费查企业，百度提供">爱企查</a>% 要求登录，
+
 
 <div id="9" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -243,13 +243,13 @@
 
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
 *	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
-*	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>
+*	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，
+	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
-*	经典双栏文件管理器TC的安卓版本，在其瑞士论坛提供[下载](https://www.ghisler.ch/board/viewforum.php?f=22)
-*	<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
+*	国产磁盘分区<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
+，	经典双栏文件管理器TC的安卓版本，在其瑞士论坛提供[下载](https://www.ghisler.ch/board/viewforum.php?f=22)
 
-*	CnBtea； 	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
-*	[雷锋网](https://www.leiphone.com/)Ai
+*	[雷锋网](https://www.leiphone.com/)Ai，#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
 *	[ipip](https://www.ipip.net/ip.html)；	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国；
@@ -259,10 +259,10 @@
 	[WhatisMyipA](https://WhatisMyipAddress.com/)、
 	[check-host](https://check-host.net/ip-info)
 
-*	[ITDog](https://www.itdog.cn/http/) 蜀，[VSping](https://www.vsping.com/) 蜀，
-	[拔测](https://www.boce.com/hijack/) 闽，[帝恩思](https://www.dns.com/wangzhanjiance) 闽，ChinaZ.com ，
-	[谛听](https://www.zmonitor.net/) 豫，[爱站](https://www.aizhan.com/) 粤，
-	[17测](http://17ce.com/) 沪
+*	[ITDog](https://www.itdog.cn/http/) 蜀，[VSping](https://www.vsping.com/)，[TCPtest](https://www.tcptest.cn/http)；
+	[AntPing](https://antping.com/web) 琼；[17测](http://17ce.com/) 沪；[测吧](https://www.ce8.com/http) 豫；
+	[拔测](https://www.boce.com/hijack/) 闽，51[DNS](https://www.dns.com/wangzhanjiance)；
+*	ChinaZ.com ，[爱站](https://www.aizhan.com/) 粤，
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
 *	在线写网页[codePen](https://codepen.io/pen/)、
@@ -270,7 +270,6 @@
 	国产在线IDE[AnyCodes](https://anyCodes.cn/editor)、
 	全栈行动派[QZXDP](https://tools.qzxdp.cn/runcode)、
 	代码面试机[Techie Delight](https://www.techiedelight.com/compiler/zh/index)
-*	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
 
 <div id="10" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -290,11 +289,15 @@
 落榜记
 ======
 
+2025/5/11	#第九段  
+*	境外[看ip](https://WhatisMyipAddress.com)的某站因名字太长且要验证人机下榜。
+*	CnBtea域名转去[.com.tw](https://www.cnbeta.com.tw/)，国内跳转到MSN。(2022年10月起)
+*	<del>[谛听](https://www.zmonitor.net/)</del> 豫，
+
 
 2025/4/27	#第九段  
 *	发现 <a href="https://dism.cf" title="初雨团队的Win10神器">Dism++</a> 网站已关闭。
 	更早时旧域名已停用 https://www.chuyu.me
-
 
 2025/3/7	#第一段  
 *	<a href='https://zhihu.com/explore' title='知乎发现，手机端可进首页看推荐'>知乎</a>
@@ -403,7 +406,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202504
+	提名网站与落榜记	　202505
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
