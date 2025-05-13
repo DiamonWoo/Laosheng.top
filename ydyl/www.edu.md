@@ -2,13 +2,28 @@
 ==============
 大萌汇编　202505　收录中…	<base target="_blank">
 
-　　本页收录教育部[中国留学服务中心](https://www.cscse.edu.cn/ '中留服认证')认证的各国高等院校**，以2025年4月的网站数据计算，共有143个国别的7514所高校通过认证，其中有少量学校在‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
+　　本页收录教育部[中国留学服务中心](https://www.cscse.edu.cn/ '中留服认证')认证的各国高等院校，以2025年4月的网站数据计算，共有143个国别的7514所高校通过认证，其中有少量学校在‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
 
+*	./asia.edu　亚洲主要国家大学，韩国、马来西亚、印度尼西亚……
+*	./euro.edu　欧洲主要国家大学，法国、德国、意大利、俄罗斯、乌克兰
+*	./[eng.edu](eng.edu){:target="_top"}　英联邦主要国家的大学，英国、加拿大、澳大利亚、新西兰，近500所。
+*	./[usa.edu](usa.edu){:target="_top"}　美国大学半边天，大约1500所。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
 / 世界大学
 </div>
+
+## 数据来源与参考
+
+*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"} / 按国名拼音排序 （中留服认证）
+*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified) / 6731所 （2022年6月数据，可搜索）
+*	(辽宁)各国学校排名网 / [英国大学网址](https://www.university-list.net/yingguo/daxue-1000.html)
+*	(美国留学中介) 续航教育：[世界大学排名](https://www.forwardpathway.com/worldranking)（有地图）
+*	……
+*	University，大学，多指有博士学位的综合大学
+*	Institute，学院，研究院
+*	College，大学的统称，类似与中国的大学包括本科、大专、高职。
 
 
 认证院校最多的国家
@@ -221,7 +236,7 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/www.edu
-	世界大学EDU 	Alpha	202505
+	世界大学EDU 	Beta	202505
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
