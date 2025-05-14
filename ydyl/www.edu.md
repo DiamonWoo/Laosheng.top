@@ -1,30 +1,35 @@
 世界大学EDU 👩‍🎓🌿
 ==============
-大萌汇编　202505　收录中…	<base target="_blank">
+大萌汇编　202505　收录中…
 
-　　本页收录教育部[中国留学服务中心](https://www.cscse.edu.cn/ '中留服认证')认证的各国高等院校，以2025年4月的网站数据计算，共有143个国别的7514所高校通过认证，其中有少量学校在‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
+　　本页收录教育部**中国留学服务中心**认证的各国高等院校，也就是常说的‘中国承认学历’的外国大学。以2025年4月的网站数据计算，共有143个国家的7514所高校通过认证，其中有少量学校‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
 
-　　这143个国别在留学网上是按照中文国名的拼音排序的，用户要找一个学校，首先要知道是哪个国家的，点击字母找到国家，然后逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为八个页面，每个页面收录这一组国家的所有院校，提高搜索的命中率。
+　　这143个国家在留学网上按照中文国名的拼音排序，用户想要找一个学校，首先要知道在哪个国家，点击字母找到国家后，再逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为八个页面，每个页面收录这一组国家的所有院校，提高搜索的命中率。
 
-　　而现在这个页面，将提供所有国家的名称索引，分为八组：美国、朝韩日、英澳加新4国、前苏联15国、欧洲、亚洲、美洲、非洲。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。
+　　本页将提供所有国家的名称索引，分为八组：美国、朝韩日3国、英澳加新4国、前苏联15国、欧洲34国、亚洲33国、美洲20国、非洲33国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
 / 世界大学
 </div>
 
+### 简目
+
+　　数据来源　排行榜　[八个分组](#8)：
+美、朝韩日、英澳加新、前苏联、[欧洲](#85)、[亚洲](#86)、[美洲](#87)、[非洲](#88)
+
 ### 数据来源与参考
 
-*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"} / 按国名拼音排序 （中留服认证）
-*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified) / 6731所 （2022年6月数据，可搜索）
-*	(辽宁)各国学校排名网 / [英国大学网址](https://www.university-list.net/yingguo/daxue-1000.html)
-*	(美国留学中介) 续航教育：[世界大学排名](https://www.forwardpathway.com/worldranking)（有地图）
+*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"}{:target="_blank"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}{:target="_blank"} / 按国名拼音排序 （中留服认证）
+*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified){:target="_blank"} / 6731所 （2022年6月数据，可搜索）
+*	(辽宁)各国学校排名网 / [英国大学网址](https://www.university-list.net/yingguo/daxue-1000.html){:target="_blank"}
+*	(美国留学中介) 续航教育：[世界大学排名](https://www.forwardpathway.com/worldranking){:target="_blank"}（有地图）
 *	……
 *	University，大学，多指有博士学位的综合大学
 *	Institute，学院，研究院
 *	College，大学的统称，类似与中国的大学包括本科、大专、高职。
 
-### 认证院校最多的国家
+### 认证数量排行榜
 
 　　按认证数量排序，最多的前16个国家共计5583所院校通过中方认证，以11%的国别数获得了74%的认证院校。余下其他国家通过认证的院校数量都不足一百所，其中安哥拉、文莱、马尔代夫等15国，只有一所院校获得认证。
 
@@ -46,6 +51,7 @@
 		TH	泰国	104	6593
 		BR	巴西	102	20306
 
+<div id="8" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 世界大学国别分组
 ----------------
@@ -54,7 +60,7 @@
 
 　　1546所认证院校，按各州分段。
 
-### [朝韩日大学]kkj.edu()
+### 朝韩日大学[]()kkj.edu
 
 　　3国1201所认证院校。
 
@@ -62,7 +68,7 @@
 		KR	韩国	270
 		KP	朝鲜	7
 
-### [英系四国]eng.edu()
+### [英澳加新](eng.edu)
 
 　　4国495所认证院校。
 
@@ -71,7 +77,7 @@
 		AU	澳大利亚	115
 		NZ	新西兰	67
 
-### [前苏联15国]su.edu()
+### 前苏联15国[]()su.edu
 
 　　15国926所认证院校。
 
@@ -91,9 +97,9 @@
 		MD	摩尔多瓦	6
 		TM	土库曼斯坦	3
 
-<div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="85" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [欧洲大学]euro.edu()
+### 欧洲大学[]()euro.edu
 
 　　34国1648所认证院校，不包括英国及前苏联国家
 
@@ -132,9 +138,9 @@
 		MC	摩纳哥	2
 		LI	列支敦士登	1
 
-<div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="86" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [亚洲大学]asia.edu()
+### 亚洲大学[]()asia.edu
 
 　　32+1国，1133所认证院校，不包括日本及前苏联国家，增加大洋洲国家 斐济。
 
@@ -172,9 +178,9 @@
 		BN	文莱	1
 		FJ	斐济	3
 
-<div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="87" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [美洲大学]mei.edu()
+### 美洲大学[]()mei.edu
 
 　　20国323所认证院校，不包括美国、加拿大，先北美洲后南美洲。
 
@@ -199,9 +205,9 @@
 		BO	玻利维亚	3
 		UY	乌拉圭	2
 
-<div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="88" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [非洲大学]fei.edu()
+### 非洲大学[]()fei.edu
 
 　　33国242所认证院校。
 
@@ -247,8 +253,14 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/www.edu
-	世界大学EDU	v0.3.0	202505
+	世界大学EDU	v0.3.1	202505
 ```
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
