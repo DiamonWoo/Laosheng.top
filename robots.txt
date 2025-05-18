@@ -9,6 +9,8 @@ Allow: /fly/
 Allow: /fuwu/
 Allow: /ydyl/
 Allow: /yan/
+Allow: /index
+Allow: /index2
 
 Sitemap: https://www.Laosheng.top/sitemap.txt
 
