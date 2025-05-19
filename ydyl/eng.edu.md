@@ -11,182 +11,182 @@
 		CA	加拿大	152	4146
 		AU	澳大利亚	115	2700
 		NZ	新西兰	 67	495
-				合计：495所
+			合计：495所
+
+　　加拿大（Canada）、澳大利亚（Australia）、新西兰（New Zealand）与英国（United Kingdom）有一个由加拿大人提出的构想：[CaNZuk国际](https://www.canzukinternational.com)。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
 / 英系大学
 </div>
 
-　　加拿大（Canada）、澳大利亚（Australia）、新西兰（New Zealand）与英国（United Kingdom）有一个由加拿大人提出的构想：CaNZuk国家。
-
 
 英国获得认证的大学
 ------------------
 161所
 
-	序	英国大学名		Edu Name
-	1	埃奇希尔大学	Edge Hill University
-	2	爱丁堡大学	The University of Edinburgh
-	3	安格利亚罗斯金大学	Anglia Ruskin University
-	4	艾伯瑞斯特维斯大学	Aberystwyth University
-	5	爱丁堡玛格丽特女王大学	Queen Margaret University, Edinburgh
-	6	埃克斯特大学	University of Exeter
-	7	阿伯丁大学	University of Aberdeen
-	8	阿斯顿大学	Aston University
-	9	埃塞克斯大学	University of Essex
-	10	奥斯特大学	University of Ulster
-	11	阿伯泰大学	Abertay University
-	12	布莱顿大学	University of Brighton
-	13	布里斯托大学	University of Bristol
-	14	白金汉大学	The University of Buckingham
-	15	白金汉郡新大学	Buckinghamshire New University
-	16	伯恩茅斯大学	Bournemouth University
-	17	博尔顿大学	University of Bolton
-	18	伯明翰大学学院	University College Birmingham
-	19	伯明翰城市大学	Birmingham City University
-	20	伯明翰大学	University of Birmingham
-	21	巴斯思巴大学	Bath Spa University
-	22	巴斯大学	The University of Bath
-	23	班戈大学	Bangor University
-	24	北安普顿大学	The University of Northampton
-	25	贝尔法斯特女王大学	The Queen's University of Belfast
-	26	伯恩茅斯艺术大学	Arts University Bournemouth
-	27	布莱德福德大学	University of Bradford
-	28	贝福德郡大学	University of Bedfordshire
-	29	创意艺术大学	University for the Creative Arts
-	30	东安格利亚大学	University of East Anglia
-	31	东伦敦大学	University of East London
-	32	德蒙特福特大学	De Montfort University
-	33	帝国理工学院	Imperial College London
-	34	德比大学	The University of Derby
-	35	蒂赛德大学	Teesside University
-	36	杜伦大学	University of Durham
-	37	邓迪大学	University of Dundee
-	38	福尔茅斯大学	Falmouth University
-	39	法律大学	The University of Law
-	40	格罗斯泰斯特主教大学	Bishop Grosseteste University
-	41	格拉斯哥大学	University of Glasgow
-	42	格拉斯哥咯里多尼亚大学	Glasgow Caledonian University
-	43	格洛斯特郡大学	University of Gloucestershire
-	44	格林尼治大学	University of Greenwich
-	45	高地与群岛大学	University of the Highlands and Islands
-	46	皇家农业大学	Royal Agricultural University
-	47	皇家艺术学院	Royal College of Art
-	48	皇家音乐学院	Royal College of Music
-	49	皇家北方音乐学院	Royal Northern College of Music
-	50	华威大学	The University of Warwick
-	51	哈珀•亚当斯大学	Harper Adams University
-	52	赫瑞-瓦特大学	Heriot-Watt University
-	53	哈德斯菲尔德大学	University of Huddersfield
-	54	赫尔大学	The University of Hull
-	55	哈特伯瑞大学	Hartpury University
-	56	赫特福德郡大学	University of Hertfordshire
-	57	金斯顿大学	Kingston University
-	58	【剑桥大学】	University of Cambridge
-	59	基尔大学	University of Keele
-	60	建筑联盟学院	Architectural Association School of Architecture
-	61	开放大学	The Open University
-	62	坎特伯雷大学	Canterbury Christ Church University
-	63	卡迪夫都市大学	Cardiff Metropolitan University
-	64	卡迪夫大学	Cardiff University
-	65	考文垂大学	Coventry University
-	66	克兰菲尔德大学	Cranfield University
-	67	坎布里亚大学	University of Cumbria
-	68	肯特大学	University of Kent
-	69	伦敦玛丽女王大学	Queen Mary University of London
-	70	雷丁大学	University of Reading
-	71	伦敦摄政大学	Regent's University London
-	72	罗伯特高登大学	Robert Gordon University, Aberdeen
-	73	罗汉普顿大学	Roehampton University
-	74	伦敦大学皇家中央演讲与戏剧学院	Royal Central School of Speech and Drama, University of	 London
-	75	兰卡斯特大学	The University of Lancaster
-	76	利兹大学	The University of Leeds
-	77	利兹三一大学	Leeds Trinity University
-	78	莱斯特大学	University of Leicester
-	79	林肯大学	University of Lincoln
-	80	利物浦大学	University of Liverpool
-	81	利物浦希望大学	Liverpool Hope University
-	82	利物浦约翰摩尔斯大学	Liverpool John Moores University
-	83	伦敦大学	University of London
-	84	伦敦商学院	London Business School
-	85	伦敦大学伦敦卫生与热带医学学院	London School of Hygiene and Tropical Medicine，	University of London
-	86	伦敦政治经济学院	The London School of Economics and Political Science
-	87	伦敦南岸大学	London South Bank University
-	88	伦敦大学学院	University College London
-	89	拉夫堡大学	Loughborough University
-	90	伦敦大学亚非研究学院	School of Oriental and African Studies, University of London
-	91	伦敦艺术大学	University of the Arts London
-	92	伦敦布鲁内尔大学	Brunel University London
-	93	伦敦大学城市学院	City, University of London
-	94	龙比亚大学	Edinburgh Napier University
-	95	伦敦大学格尔德史密斯学院	Goldsmiths College, University of London
-	96	伦敦国王学院	King's College London
-	97	伦敦大学伯克贝克学院	Birkbeck College, University of London
-	98	伦敦大学皇家音乐学院	Royal Academy of Music, University of London
-	99	伦敦大学高级研究学院（高等法律研究院）	School of Advanced Study（Institute of Advanced 	Legal Studies），University of London
-	100	伦敦大学考陶德艺术学院	Courtauld Institute of Art, University of London
-	 101	伦敦大学皇家霍洛威和贝德福德新学院	Royal Holloway and Bedford New College, University of 	London
-	102	伦敦大学癌症研究所皇家癌症医院	Institute of Cancer Research: Royal Cancer Hospital, 	University of London
-	103	利物浦热带医学院	Liverpool School of Tropical Medicine
-	104	利兹艺术大学	Leeds Arts University
-	105	罗斯布鲁弗戏剧演艺学院	Rose Bruford College of Theatre and Performance
-	106	伦敦大学高等研究学院（瓦尔堡研究院）	School of Advanced Study 	Warburg Institute, 	University of London
-	107	伦敦大学圣乔治医学院	St George's Hospital Medical School, University of London
-	108	雷克瑟姆大学	Wrexham University
-	109	利兹贝克特大学	Leeds Beckett University
-	110	伦敦大学皇家兽医院	The Royal Veterinary College, University of London
-	111	伦敦城市大学	London Metropolitan University
-	112	曼彻斯特大学	The University of Manchester
-	113	曼彻斯特城市大学	Manchester Metropolitan University
-	114	密德萨斯大学	Middlesex University
-	115	美国里士满国际大学伦敦分校	Richmond, The American International University in London
-	116	诺森比亚大学	University of Northumbria at Newcastle
-	117	诺里奇艺术大学	Norwich University of the Arts
-	118	诺丁汉大学	The University of Nottingham
-	119	[牛津大学](https://www.ox.ac.uk/)	University of Oxford
-	120	牛津布鲁克斯大学	Oxford Brookes University
-	121	纽卡斯尔大学	University of Newcastle upon Tyne
-	122	纽曼大学	Newman University, Birmingham
-	123	南威尔士大学	University of South Wales
-	124	南安普顿大学	University of Southampton
-	125	诺丁汉特伦特大学	Nottingham Trent University
-	126	普利茅斯大学	University of Plymouth
-	127	朴次茅斯大学	University of Portsmouth
-	128	普利茅斯艺术大学	Arts University Plymouth
-	129	切斯特大学	University of Chester
-	130	奇切斯特大学	University of Chichester
-	131	苏格兰皇家音乐学院	The Royal Conservatoire of Scotland
-	132	索尔福德大学	University of Salford
-	133	圣安德鲁斯大学	University of St Andrews
-	134	圣马克与圣约翰大学	University of St Mark and St John, Plymouth
-	135	斯塔福德郡大学	Staffordshire University
-	136	斯特灵大学	University of Stirling
-	137	斯特拉斯克莱德大学	University of Strathclyde
-	138	桑德兰大学	University of Sunderland
-	139	萨里大学	University of Surrey
-	140	萨塞克斯大学	University of Sussex
-	141	斯旺西大学	Swansea University
-	142	圣三一拉邦音乐与舞蹈学院	Trinity Laban Conservatoire of Music and Dance
-	143	索伦特大学	Solent University
-	144	萨福克大学	University of Suffolk
-	145	特威克南圣玛丽大学	St Mary's University Twickenham London
-	146	威尔士大学	University of Wales
-	147	威尔士三一圣大卫大学	University of Wales Trinity Saint David
-	148	威斯敏斯特大学	The University of Westminster
-	149	温彻斯特大学	The University of Winchester
-	150	伍尔弗汉普顿大学	University of Wolverhampton
-	151	伍赛斯特大学	University of Worcester
-	152	谢菲尔德大学	The University of Sheffield
-	153	谢菲尔德哈勒姆大学	Sheffield Hallam University
-	154	西伦敦大学	University of West London
-	155	西苏格兰大学	University of the West of Scotland
-	156	西英格兰大学-布里斯托	University of the West of England, Bristol
-	157	英博夏尔大学	BPP University
-	158	约克圣约翰大学	York St John University
-	159	约克大学	University of York
-	160	英国及爱尔兰现代音乐学院	BIMM Institute
-	161	中央兰开夏大学	University of Central Lancashire
+
+🟦 1836　	[伦敦大学](http://www.london.ac.uk)	　University of London　规模最大的大学之一  
+🗿🔷 1096　	[牛津大学](http://www.ox.ac.uk)	　University of Oxford  
+🗿🔷 1209　	[剑桥大学](http://www.cam.ac.uk)	　University of Cambridge  
+🗿🔷 1451　	[格拉斯哥大学](http://www.gla.ac.uk)	　University of Glasgow  
+🗿🔷 1583　	[爱丁堡大学](http://www.ed.ac.uk)	　The University of Edinburgh　古典大学  
+🗿 1410　	[圣安德鲁斯大学](http://www.st-and.ac.uk)	　University of St Andrews　古典大学  
+🗿 1495　	[阿伯丁大学](http://www.abdn.ac.uk)	　University of Aberdeen  
+🔷 	[卡迪夫大学](http://www.cf.ac.uk)	　Cardiff University  
+🔷 	[伦敦国王学院](http://www.kcl.ac.uk)	　King's College London　伦敦大学国王学院  
+🔷 	[伦敦玛丽女王大学](http://www.qmul.ac.uk)	　Queen Mary University of London　伦敦大学的玛丽女王学院 www.qmw.ac.uk  
+🔷 	[伦敦政治经济学院](http://www.lse.ac.uk)	　The London School of Economics and Political Science　(伦敦大学)  
+🔷 	[贝尔法斯特女王大学](http://www.qub.ac.uk)	　The Queen's University of Belfast  
+🔷 	[利兹大学](http://www.leeds.ac.uk)	　The University of Leeds  
+🔷 	[曼彻斯特大学](http://www.man.ac.uk)	　The University of Manchester  
+🔷 	[诺丁汉大学](http://www.nottingham.ac.uk)	　The University of Nottingham  
+🔷 	[谢菲尔德大学](http://www.sheffield.ac.uk/clearing)	　The University of Sheffield  
+🔷 	[华威大学](http://www.csv.warwick.ac.uk)	　The University of Warwick　沃里克大学 或 和域大学  
+🔷 	[伦敦大学学院](http://www.ucl.ac.uk)	　University College London　伦敦大学学院(伦敦大学)   
+🔷 	[伯明翰大学](http://www.bham.ac.uk)	　University of Birmingham  
+🔷 	[布里斯托大学](http://www.bris.ac.uk)	　University of Bristol　布里斯托尔大学  
+🔷 	[杜伦大学](http://www.dur.ac.uk)	　University of Durham　Durham University  
+🔷 	[埃克斯特大学](http://www.ex.ac.uk)	　University of Exeter　艾克塞特大学  
+🔷 	[利物浦大学](http://www.liv.ac.uk)	　University of Liverpool  
+🔷 	[纽卡斯尔大学](http://www.ncl.ac.uk)	　University of Newcastle upon Tyne　Newcastle University  
+🔷 	[南安普顿大学](http://www.southampton.ac.uk)	　University of Southampton　南安普敦大学  
+🔷 	[约克大学](http://www.york.ac.uk)	　University of York  
+🔷 1907　	[帝国理工学院](http://www.imperial.ac.uk)	　Imperial College London　伦敦帝国学院  
+ 	阿伯泰大学	　Abertay University  
+ 	艾伯瑞斯特维斯大学	　Aberystwyth University  
+ 	安格利亚罗斯金大学	　Anglia Ruskin University  
+ 	建筑联盟学院	　Architectural Association School of Architecture  
+ 	[伯恩茅斯艺术大学](http://www.aucb.ac.uk)	　Arts University Bournemouth  
+ 	普利茅斯艺术大学	　Arts University Plymouth  
+ 	[阿斯顿大学](http://www.aston.ac.uk)	　Aston University  
+ 	英国及爱尔兰现代音乐学院	　BIMM Institute  
+ 	英博夏尔大学	　BPP University  
+ 	班戈大学	　Bangor University  
+ 	巴斯思巴大学	　Bath Spa University  
+ 	伦敦大学伯克贝克学院	　Birkbeck College, University of London  
+ 	伯明翰城市大学	　Birmingham City University  
+ 	格罗斯泰斯特主教大学	　Bishop Grosseteste University  
+ 	[伯恩茅斯大学](http://www.bournemouth.ac.uk)	　Bournemouth University  
+ 	[伦敦布鲁内尔大学](http://www.brunel.ac.uk)	　Brunel University London　布鲁内尔大学  
+ 	白金汉郡新大学	　Buckinghamshire New University  
+ 	[坎特伯雷大学](http://www.canterbury.ac.uk)	　Canterbury Christ Church University　坎特伯雷基督教会大学学院  
+ 	[卡迪夫都市大学](http://www.cardiffmet.ac.uk)	　Cardiff Metropolitan University　卡地夫威尔士大学(优维克大学)  
+ 	伦敦大学城市学院	　City, University of London  
+ 	伦敦大学考陶德艺术学院	　Courtauld Institute of Art, University of London  
+ 	[考文垂大学](http://www.coventry.ac.uk)	　Coventry University  
+ 	[克兰菲尔德大学](http://www.rmcs.cranfield.ac.uk)	　Cranfield University  
+ 	[德蒙特福特大学](http://dmu.ac.uk)	　De Montfort University　德蒙福特大学  
+ 	[埃奇希尔大学](http://www.edgehill.ac.uk)	　Edge Hill University　艾吉希尔大学，英国161所  
+ 	龙比亚大学	　Edinburgh Napier University  
+ 	[福尔茅斯大学](http://www.falmouth.ac.uk)	　Falmouth University　法尔矛斯大学  
+ 	[格拉斯哥咯里多尼亚大学](http://www.caledonian.ac.uk)	　Glasgow Caledonian University　格拉斯哥喀里多尼亚大学  
+ 	伦敦大学格尔德史密斯学院	　Goldsmiths College, University of London  
+ 	哈珀•亚当斯大学	　Harper Adams University  
+ 	哈特伯瑞大学	　Hartpury University  
+ 	赫瑞-瓦特大学	　Heriot-Watt University  
+ 	伦敦大学癌症研究所皇家癌症医院	　Institute of Cancer Research: Royal Cancer Hospital, University of London  
+ 	[金斯顿大学](http://www.kingston.ac.uk)	　Kingston University  
+ 	利兹艺术大学	　Leeds Arts University  
+ 	利兹贝克特大学	　Leeds Beckett University  
+ 	[利兹三一大学](http://www.leedstrinity.ac.uk)	　Leeds Trinity University  
+ 	[利物浦希望大学](http://www.hope.ac.uk)	　Liverpool Hope University  
+ 	[利物浦约翰摩尔斯大学](http://www.ljmu.ac.uk)	　Liverpool John Moores University　利物浦约翰莫尔斯大学  
+ 	利物浦热带医学院	　Liverpool School of Tropical Medicine  
+ 	伦敦商学院	　London Business School  
+ 	伦敦城市大学	　London Metropolitan University  
+ 	伦敦大学伦敦卫生与热带医学学院	　London School of Hygiene and Tropical Medicine，University of London  
+ 	[伦敦南岸大学](http://www.lsbu.ac.uk)	　London South Bank University  
+ 	[拉夫堡大学](http://www.lboro.ac.uk)	　Loughborough University　拉夫伯勒大学  
+ 	[曼彻斯特城市大学](http://www.mmu.ac.uk)	　Manchester Metropolitan University  
+ 	[密德萨斯大学](http://www.mdx.ac.uk)	　Middlesex University  
+ 	纽曼大学	　Newman University, Birmingham  
+ 	[诺里奇艺术大学](http://www.nuca.ac.uk)	　Norwich University of the Arts  
+ 	[诺丁汉特伦特大学](http://www.ntu.ac.uk)	　Nottingham Trent University  
+ 	[牛津布鲁克斯大学](http://www.brookes.ac.uk)	　Oxford Brookes University  
+ 	爱丁堡玛格丽特女王大学	　Queen Margaret University, Edinburgh  
+ 	伦敦摄政大学	　Regent's University London  
+ 	[美国里士满国际大学伦敦分校](http://www.richmond.ac.uk)	　Richmond, The American International University in London　里士满-美国国际大学  
+ 	罗伯特高登大学	　Robert Gordon University, Aberdeen  
+ 	[罗汉普顿大学](http://www.roehampton.ac.uk)	　Roehampton University  
+ 	罗斯布鲁弗戏剧演艺学院	　Rose Bruford College of Theatre and Performance  
+ 	伦敦大学皇家音乐学院	　Royal Academy of Music, University of London  
+ 	[皇家农业大学](http://www.rau.ac.uk)	　Royal Agricultural University　皇家农业学院  
+ 	伦敦大学皇家中央演讲与戏剧学院	　Royal Central School of Speech and Drama, University of London  
+ 	皇家艺术学院	　Royal College of Art  
+ 	皇家音乐学院	　Royal College of Music  
+ 	伦敦大学皇家霍洛威和贝德福德新学院	　Royal Holloway and Bedford New College, University of London  
+ 	皇家北方音乐学院	　Royal Northern College of Music  
+ 	伦敦大学高级研究学院（高等法律研究院）	　School of Advanced Study（Institute of Advanced Legal Studies），University of London  
+ 	伦敦大学高等研究学院（瓦尔堡研究院）	　School of Advanced Study（Warburg Institute）, University of London  
+ 	伦敦大学亚非研究学院	　School of Oriental and African Studies, University of London  
+ 	[谢菲尔德哈勒姆大学](http://www.shu.ac.uk)	　Sheffield Hallam University  
+ 	索伦特大学	　Solent University  
+ 	伦敦大学圣乔治医学院	　St George's Hospital Medical School, University of London  
+ 	特威克南圣玛丽大学	　St Mary's University Twickenham London  
+ 	[斯塔福德郡大学](http://www.staffs.ac.uk)	　Staffordshire University  
+ 	斯旺西大学	　Swansea University  
+ 	蒂赛德大学	　Teesside University  
+ 	开放大学	　The Open University  
+ 	苏格兰皇家音乐学院	　The Royal Conservatoire of Scotland  
+ 	伦敦大学皇家兽医院	　The Royal Veterinary College, University of London  
+ 	[巴斯大学](http://www.bath.ac.uk)	　The University of Bath  
+ 	[白金汉大学](http://www.buck.ac.uk)	　The University of Buckingham  
+ 	[德比大学](http://www.derby.ac.uk)	　The University of Derby  
+ 	[赫尔大学](http://www.hull.ac.uk)	　The University of Hull  
+ 	兰卡斯特大学	　The University of Lancaster  
+ 	法律大学	　The University of Law  
+ 	北安普顿大学	　The University of Northampton  
+ 	威斯敏斯特大学	　The University of Westminster  
+ 	[温彻斯特大学](http://www.winchester.ac.uk)	　The University of Winchester  
+ 	圣三一拉邦音乐与舞蹈学院	　Trinity Laban Conservatoire of Music and Dance  
+ 	伯明翰大学学院	　University College Birmingham  
+ 	[创意艺术大学](http://www.uca.ac.uk)	　University for the Creative Arts　创作艺术大学  
+ 	贝福德郡大学	　University of Bedfordshire  
+ 	[博尔顿大学](http://www.bolton.ac.uk)	　University of Bolton　波尔顿大学  
+ 	布莱德福德大学	　University of Bradford  
+ 	[布莱顿大学](http://www.brighton.ac.uk)	　University of Brighton  
+ 	[中央兰开夏大学](http://www.uclan.ac.uk)	　University of Central Lancashire　中兰开夏郡大学(中央兰开夏大学)  
+ 	[切斯特大学](http://www.chester.ac.uk)	　University of Chester  
+ 	[奇切斯特大学](http://www.chi.ac.uk)	　University of Chichester  
+ 	[坎布里亚大学](http://www.cumbria.ac.uk)	　University of Cumbria  
+ 	[邓迪大学](http://www.dundee.ac.uk)	　University of Dundee  
+ 	[东安格利亚大学](http://www.uea.ac.uk)	　University of East Anglia　东英吉利大学  
+ 	[东伦敦大学](http://www.uel.ac.uk)	　University of East London  
+ 	[埃塞克斯大学](http://www.essex.ac.uk)	　University of Essex  
+ 	[格洛斯特郡大学](http://www.glos.ac.uk)	　University of Gloucestershire　格洛斯特大学   
+ 	[格林尼治大学](http://www.gre.ac.uk)	　University of Greenwich　格林威治大学  
+ 	[赫特福德郡大学](http://www.herts.ac.uk)	　University of Hertfordshire　赫特福德大学  
+ 	[哈德斯菲尔德大学](http://www.hud.ac.uk)	　University of Huddersfield  
+ 	[基尔大学](http://www.keele.ac.uk)	　University of Keele  
+ 	[肯特大学](http://www.ukc.ac.uk)	　University of Kent  
+ 	[莱斯特大学](http://www.le.ac.uk)	　University of Leicester  
+ 	[林肯大学](http://www.ulh.ac.uk)	　University of Lincoln  
+ 	[诺森比亚大学](http://www.unn.ac.uk)	　University of Northumbria at Newcastle  
+ 	[普利茅斯大学](http://www.plym.ac.uk)	　University of Plymouth  
+ 	[朴次茅斯大学](http://www.port.ac.uk)	　University of Portsmouth　普茨茅斯大学  
+ 	[雷丁大学](http://www.rdg.ac.uk/UG)	　University of Reading  
+ 	[索尔福德大学](http://www.salford.ac.uk)	　University of Salford  
+ 	[南威尔士大学](http://www.southwales.ac.uk)	　University of South Wales　威尔士新港大学  
+ 	圣马克与圣约翰大学	　University of St Mark and St John, Plymouth  
+ 	斯特灵大学	　University of Stirling  
+ 	斯特拉斯克莱德大学	　University of Strathclyde  
+ 	萨福克大学	　University of Suffolk  
+ 	[桑德兰大学](http://www.sunderland.ac.uk)	　University of Sunderland  
+ 	[萨里大学](http://www.surrey.ac.uk)	　University of Surrey  
+ 	[萨塞克斯大学](http://www.sussex.ac.uk)	　University of Sussex  
+ 	[奥斯特大学](http://www.ulst.ac.uk)	　University of Ulster　阿尔斯特大学  
+ 	威尔士大学	　University of Wales  
+ 	[威尔士三一圣大卫大学](http://uwtsd.ac.uk)	　University of Wales Trinity Saint David　威尔士大学 圣大卫三一学院  
+ 	西伦敦大学	　University of West London  
+ 	[伍尔弗汉普顿大学](http://www.wlv.ac.uk)	　University of Wolverhampton　沃尔沃汉普敦大学  
+ 	[伍赛斯特大学](http://www.worcester.ac.uk)	　University of Worcester　伍斯特大学  
+ 	伦敦艺术大学	　University of the Arts London  
+ 	高地与群岛大学	　University of the Highlands and Islands  
+ 	[西英格兰大学-布里斯托](http://www.uwe.ac.uk)	　University of the West of England, Bristol　西英格兰大学  
+ 	[西苏格兰大学](http://www.uws.ac.uk)	　University of the West of Scotland  
+ 	雷克瑟姆大学	　Wrexham University  
+ 	约克圣约翰大学	　York St John University  
 
 
 加拿大获得认证的大学
@@ -552,7 +552,7 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/eng.edu
-	英系大学EDU Alpha	202505
+	英系大学EDU Beta	202505
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
