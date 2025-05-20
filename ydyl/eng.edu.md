@@ -1,8 +1,8 @@
-英系大学EDU 👩‍🎓🌿
+英系大学EDU 🏫💂‍♂
 ==============
 大萌汇编　202505　收录中…	<base target="_blank">
 
-　　澳大利亚、新西兰、加拿大 曾经是中国青少年移民的主要国家，这三个国家都是英国的前殖民地，都是英联邦成员，都以英语为第一语言。移民的一个重要渠道是先留学、后永居。大萌把**英澳加新**四国获得“[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"}”认证的大学名单收录为一页，方便大家查找。
+　　澳大利亚、加拿大、新西兰 曾经是中国青少年移民的主要国家，这三个国家都是英国的前殖民地，都是英联邦成员🇬🇧，都以英语为第一语言。移民的一个重要渠道是先留学、后永居。大萌把**英澳加新**四国获得“[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"}”认证的大学名单收录为一页，方便大家查找。
 
 　　根据2025年4月的数据，这四个国家获得中国认证的大学数合计495所，排序如下：
 
@@ -13,7 +13,7 @@
 		NZ	新西兰	 67	495
 			合计：495所
 
-　　加拿大（Canada）、澳大利亚（Australia）、新西兰（New Zealand）与英国（United Kingdom）有一个由加拿大人提出的构想：[CaNZuk国际](https://www.canzukinternational.com)。
+　　有一个加拿大人提出的构想，由 加拿大（Canada）、澳大利亚（Australia）、新西兰（New Zealand）与英国（United Kingdom）组成：[CaNZuk国际](https://www.canzukinternational.com)。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
@@ -23,16 +23,19 @@
 
 英国获得认证的大学
 ------------------
-161所
+161所，其中名校标记：
+
+*	🗿：古典大学，6所，欧洲文艺复兴时期成立的大学。
+*	🔷：英国[罗素大学集团](https://russellgroup.ac.uk/)，24所大学。
 
 
-🟦 1836　	[伦敦大学](http://www.london.ac.uk)	　University of London　规模最大的大学之一  
 🗿🔷 1096　	[牛津大学](http://www.ox.ac.uk)	　University of Oxford  
 🗿🔷 1209　	[剑桥大学](http://www.cam.ac.uk)	　University of Cambridge  
 🗿🔷 1451　	[格拉斯哥大学](http://www.gla.ac.uk)	　University of Glasgow  
 🗿🔷 1583　	[爱丁堡大学](http://www.ed.ac.uk)	　The University of Edinburgh　古典大学  
 🗿 1410　	[圣安德鲁斯大学](http://www.st-and.ac.uk)	　University of St Andrews　古典大学  
 🗿 1495　	[阿伯丁大学](http://www.abdn.ac.uk)	　University of Aberdeen  
+🟦 1836　	[伦敦大学](http://www.london.ac.uk)	　University of London　规模最大的大学之一  
 🔷 	[卡迪夫大学](http://www.cf.ac.uk)	　Cardiff University  
 🔷 	[伦敦国王学院](http://www.kcl.ac.uk)	　King's College London　伦敦大学国王学院  
 🔷 	[伦敦玛丽女王大学](http://www.qmul.ac.uk)	　Queen Mary University of London　伦敦大学的玛丽女王学院 www.qmw.ac.uk  
@@ -191,161 +194,163 @@
 
 加拿大获得认证的大学
 ------------------
-152所
+152所，其中名校标记：
 
-	序	加拿大大学		EduName
-	1	阿卡迪亚大学	Acadia University
-	2	奥尔兹学院	Olds College
-	3	阿克森达管理学院	Acsenda School of Management
-	4	阿尔伯塔艺术大学	Alberta University of the Arts
-	5	奥克纳根学院	Okanagan College
-	6	艾米丽卡尔艺术与设计大学	Emily Carr University of Art & Design
-	7	阿希尼伯因社区学院	Assiniboine Community College
-	8	阿尔伯塔艺术与设计学院	Alberta College of Art and Design
-	9	安大略艺术与设计大学	OCAD University
-	10	安省理工大学	University of Ontario Institute of Technology
-	11	阿尔伯塔大学	University of Alberta
-	12	埃德蒙顿康考迪亚大学	Concordia University of Edmonton
-	13	阿尔哥玛大学	Algoma University
-	14	安布罗斯大学	Ambrose University
-	15	爱德华王子岛大学	University of Prince Edward Island
-	16	北不列颠哥伦比亚大学	The University of Northern British Columbia
-	17	不列颠哥伦比亚大学	The University of British Columbia
-	18	波维河谷学院	Bow Valley College
-	19	北方应用艺术与技术学院	Northern College of Applied Arts and Technology
-	20	百年理工应用艺术与技术学院	Centennial College of Applied Arts and Technology
-	21	布鲁克大学	Brock University
-	22	北阿尔伯塔理工学院	Northern Alberta Institute of Technology
-	23	不列颠哥伦比亚司法学院	Justice Institute of British Columbia
-	24	北大西洋学院	College of the North Atlantic
-	25	不列颠哥伦比亚理工学院	British Columbia Institute of Technology
-	26	布兰登大学	Brandon University
-	27	北岛学院	North Island College
-	28	德汉姆应用艺术与技术学院	Durham College of Applied Arts and Technology
-	29	多伦多都会大学	Toronto Metropolitan University
-	30	戴尔豪斯大学	Dalhousie University
-	31	道格拉斯学院	Douglas College
-	32	多伦多大学	University of Toronto
-	33	道森学院	Dawson College
-	34	范莎应用艺术与技术学院	Fanshawe College of Applied Arts and Technology
-	35	弗莱明应用艺术与技术学院	Sir Sandford Fleming College of Applied Arts and Technology
-	36	弗雷泽河谷大学	University of the Fraser Valley
-	37	弗雷泽河谷大学学院	University College of the Fraser Valley
-	38	高贵林学院	Coquitlam College
-	39	国王大学	The King's University
-	40	圭尔夫大学	The University of Guelph
-	41	格兰特麦克埃文大学	Grant MacEwan University
-	42	皇后大学	Queen's University
-	43	红河学院	Red River College
-	44	滑铁卢大学	University of Waterloo
-	45	皇家路大学	Royal Roads University
-	46	荷兰学院	Holland College
-	47	红鹿学院	Red Deer College
-	48	汉伯学院	Humber College Institute of Technology and Advanced Learning
-	49	皇家山大学	Mount Royal University
-	50	湖首大学	Lakehead University
-	51	救世主大学	Redeemer University
-	52	加拿大奎斯特大学	Quest University Canada
-	53	加斯佩学院	Cégep de la Gaspésie et des Îles
-	54	加西大学	University Canada West
-	55	加拿大门诺莱特大学	Canadian Mennonite University
-	56	卡尔加里大学	The University of Calgary
-	57	坎伯伦应用艺术与技术学院	Cambrian College of Applied Arts and Technology
-	58	康奈斯托加学院	Conestoga College Institute of Technology and Advanced Learning
-	59	卡普兰诺大学	Capilano University
-	60	昆特兰理工大学	Kwantlen Polytechnic University
-	61	魁北克大学席库提米分校	Université du Québec à Chicoutimi
-	62	魁北克大学蒙特利尔分校	Université du Québec à Montréal
-	63	魁北克大学里穆斯基分校	Université du Québec à Rimouski
-	64	魁北克大学三河分校	Université du Québec à Trois-Rivières
-	65	凯波布兰顿大学	Cape Breton University
-	66	康考迪亚大学	Concordia University
-	67	卡莫森学院	Camosun College
-	68	魁北克大学阿比蒂彼-特米斯卡明分校	Université du Québec en Abitibi-Témiscamingue
-	69	魁北克大学渥塔崴分校	Université du Québec en Outaouais
-	70	魁北克大学国立科学研究院	Université du Québec, Institut national de la recherche 	scientifique
-	71	卡纳多应用艺术与技术学院	Canadore College of Applied Arts and Technology
-	72	魁北克大学高等技术学院	Université du Québec, École de Technologie Supérieure
-	73	克兰德尔大学	Crandall University
-	74	卡普兰诺学院	Capilano College
-	75	魁北克音乐与戏剧艺术学院	Conservatoire de musique et d'art dramatique du Québec
-	76	卡尔顿大学	Carleton University
-	77	莱斯桥大学	The University of Lethbridge
-	78	劳伦森大学	Laurentian University
-	79	联邦应用艺术与技术学院	Confederation College of Applied Arts and Technology
-	80	莱姆顿应用艺术与技术学院	Lambton College of Applied Arts and Technology
-	81	莱斯桥学院	Lethbridge College
-	82	落基山学院	College of the Rockies
-	83	兰加拉学院	Langara College
-	84	拉瓦尔大学	Université Laval
-	85	拉萨尔学院	LaSalle College
-	86	里贾纳大学	University of Regina
-	87	罗斯芒学院	Cégep de Rosemont
-	88	麦克马斯特大学	McMaster University
-	89	莫霍克应用艺术与技术学院	Mohawk College of Applied Arts and Technology
-	90	麦迪森海特学院	Medicine Hat College
-	91	蒙特利尔大学	Université de Montréal
-	92	蒙克顿大学	Université de Moncton
-	93	蒙特圣文森大学	Mount Saint Vincent University
-	94	蒙特利尔大学工学院	École Polytechnique de Montréal, Université de Montréal
-	95	曼尼托巴大学	The University of Manitoba
-	96	马里亚诺波利斯学院	Marianopolis College
-	97	麦吉尔大学	McGill University
-	98	蒙特埃里森大学	Mount Allison University
-	99	玛丽-维克多汉学院	Cégep Marie-Victorin
-	100	蒙特利尔大学高等商学院	HEC Montréal, Université de Montréal
-	 101	曼尼托巴贸易与技术学院	Manitoba Institute of Trades and Technology
-	102	麦克马斯特神学院	McMaster Divinity College
-	103	尼皮辛大学	Nipissing University
-	104	南阿尔伯塔理工学院	Southern Alberta Institute of Technology
-	105	纽芬兰纪念大学	Memorial University of Newfoundland
-	106	诺奎斯特学院	NorQuest College
-	107	尼亚加拉应用艺术与技术学院	Niagara College of Applied Arts and Technology
-	108	乔治布朗应用艺术与技术学院	George Brown College of Applied Arts and Technology
-	109	乔治亚应用艺术与技术学院	Georgian College of Applied Arts and Technology
-	110	索尔特应用艺术与技术学院	Sault College of Applied Arts and Technology
-	111	圣力嘉应用艺术与技术学院	Seneca College of Applied Arts and Technology
-	112	圣克莱尔应用艺术与技术学院	St. Clair College of Applied Arts and Technology
-	113	圣劳伦斯应用艺术与技术学院	St. Lawrence College of Applied Arts and Technology
-	114	舍布鲁克大学	Université de Sherbrooke
-	115	斯坦巴克圣经学院	Steinbach Bible College
-	116	圣汤姆斯大学	St. Thomas University
-	117	圣玛丽大学	Saint Mary's University
-	118	萨斯卡彻温理工学院	Saskatchewan Polytechnic
-	119	圣玛丽大学	St.Mary's University
-	120	萨斯卡彻温大学	University of Saskatchewan
-	121	圣弗朗西斯泽维尔大学	St. Francis Xavier University
-	122	特伦特大学	Trent University
-	123	汤普森河大学	Thompson Rivers University
-	124	天道大学学院与神学院	Tyndale University College and Seminary
-	125	渥太华大学	University of Ottawa
-	126	维多利亚大学	University of Victoria
-	127	温哥华岛大学	Vancouver Island University
-	128	温莎大学	University of Windsor
-	129	威尔弗瑞德劳瑞尔大学	Wilfrid Laurier University
-	130	温哥华社区学院	Vancouver Community College
-	131	温尼伯大学	The University of Winnipeg
-	132	瓦尼埃学院	Vanier College
-	133	温哥华拉萨尔学院	Lasalle College Vancouver
-	134	维耶蒙特利尔学校	Cégep du Vieux Montréal
-	135	维真学院	Regent College
-	136	新斯科舍社区学院	Nova Scotia Community College
-	137	谢尔丹学院	Sheridan College Institute of Technology and Advanced Learning
-	138	西蒙弗雷泽大学	Simon Fraser University
-	139	西三一大学	Trinity Western University
-	140	西安大略大学	The University of Western Ontario
-	141	新布伦瑞克大学	University of New Brunswick
-	142	新不伦瑞克社区学院	New Brunswick Community College
-	143	新斯科舍艺术与设计大学	NSCAD University
-	144	新斯科舍农学院	Nova Scotia Agricultural College
-	145	新斯科舍艺术与设计学院	Nova Scotia College of Art and Design
-	146	新喀里多尼亚学院	College of New Caledonia
-	147	亚岗昆应用艺术与技术学院	Algonquin College of Applied Arts and Technology
-	148	约翰阿伯特学院	John Abbott College
-	149	约克维尔大学	Yorkville University
-	150	亚历山大学院	Alexander College
-	151	约克大学	York University
-	152	主教大学	Bishop's University
+*	🔶：加拿大[U15大学联盟](https://u15.ca/)，15所大学。
+
+
+🔶 1663　	[拉瓦尔大学](http://www.ulaval.ca)	　Université Laval　加拿大U15大学联盟  
+🔶 1818　	[戴尔豪斯大学](http://ac.dal.ca)	　Dalhousie University  
+🔶 1821　	[麦吉尔大学](http://www.mcgill.ca)	　McGill University  
+🔶 1827　	[多伦多大学](http://www.utoronto.ca)	　University of Toronto  
+🔶 1841　	[皇后大学](http://www.queensu.ca)	　Queen's University　金斯顿女王大学  
+🔶 1848　	[渥太华大学](http://www.uottawa.ca)	　University of Ottawa  
+🔶 1877　	[曼尼托巴大学](http://www.umanitoba.ca)	　The University of Manitoba　马尼托巴大学  
+🔶 1878　	[西安大略大学](http://www.uwo.ca)	　The University of Western Ontario  
+🔶 1878　	[蒙特利尔大学](http://www.umontreal.ca)	　Université de Montréal  
+🔶 1887　	[麦克马斯特大学](http://www.mcmaster.ca)	　McMaster University  
+🔶 1907　	[萨斯卡彻温大学](http://www.usask.ca)	　University of Saskatchewan　萨省大学，萨斯喀彻温大学  
+🔶 1908　	[不列颠哥伦比亚大学](http://www.ubc.ca)	　The University of British Columbia  
+🔶 1908　	[阿尔伯塔大学](http://www.ualberta.ca)	　University of Alberta　艾伯塔大学  
+🔶 1957　	[滑铁卢大学](http://uwinfo.uwaterloo.ca)	　University of Waterloo  
+🔶 1966　	[卡尔加里大学](http://www.ucalgary.ca)	　The University of Calgary  
+ 	[阿卡迪亚大学](http://www.acadiau.ca)	　Acadia University　加拿大152所大学  
+ 	阿克森达管理学院	　Acsenda School of Management  
+ 	阿尔伯塔艺术与设计学院	　Alberta College of Art and Design  
+ 	阿尔伯塔艺术大学	　Alberta University of the Arts  
+ 	亚历山大学院	　Alexander College  
+ 	阿尔哥玛大学	　Algoma University  
+ 	亚岗昆应用艺术与技术学院	　Algonquin College of Applied Arts and Technology  
+ 	安布罗斯大学	　Ambrose University  
+ 	阿希尼伯因社区学院	　Assiniboine Community College  
+ 	[主教大学](http://venus.ubishops.ca)	　Bishop's University  
+ 	波维河谷学院	　Bow Valley College  
+ 	[布兰登大学](http://www.brandonu.ca)	　Brandon University  
+ 	[不列颠哥伦比亚理工学院](http://www.bcit.bc.ca)	　British Columbia Institute of Technology  
+ 	[布鲁克大学](http://www.brocku.ca)	　Brock University  
+ 	坎伯伦应用艺术与技术学院	　Cambrian College of Applied Arts and Technology  
+ 	[卡莫森学院](http://www.camosun.bc.ca)	　Camosun College  
+ 	加拿大门诺莱特大学	　Canadian Mennonite University  
+ 	卡纳多应用艺术与技术学院	　Canadore College of Applied Arts and Technology  
+ 	凯波布兰顿大学	　Cape Breton University  
+ 	卡普兰诺学院	　Capilano College  
+ 	[卡普兰诺大学](http://www.capilanou.ca)	　Capilano University  
+ 	[卡尔顿大学](http://www.carleton.ca)	　Carleton University  
+ 	百年理工应用艺术与技术学院	　Centennial College of Applied Arts and Technology  
+ 	新喀里多尼亚学院	　College of New Caledonia  
+ 	[北大西洋学院](http://www.cna.nl.ca)	　College of the North Atlantic  
+ 	[落基山学院](http://www.cotr.bc.ca)	　College of the Rockies  
+ 	[康考迪亚大学](http://www.concordia.ca)	　Concordia University  
+ 	埃德蒙顿康考迪亚大学	　Concordia University of Edmonton  
+ 	康奈斯托加学院	　Conestoga College Institute of Technology and Advanced Learning  
+ 	联邦应用艺术与技术学院	　Confederation College of Applied Arts and Technology  
+ 	魁北克音乐与戏剧艺术学院	　Conservatoire de musique et d'art dramatique du Québec  
+ 	[高贵林学院](http://cn.coquitlamcollege.com)	　Coquitlam College　中文网站📍  
+ 	克兰德尔大学	　Crandall University  
+ 	玛丽-维克多汉学院	　Cégep Marie-Victorin  
+ 	罗斯芒学院	　Cégep de Rosemont  
+ 	加斯佩学院	　Cégep de la Gaspésie et des Îles  
+ 	维耶蒙特利尔学校	　Cégep du Vieux Montréal  
+ 	道森学院	　Dawson College  
+ 	[道格拉斯学院](http://www.douglascollege.ca)	　Douglas College  
+ 	德汉姆应用艺术与技术学院	　Durham College of Applied Arts and Technology  
+ 	艾米丽卡尔艺术与设计大学	　Emily Carr University of Art & Design  
+ 	范莎应用艺术与技术学院	　Fanshawe College of Applied Arts and Technology  
+ 	乔治布朗应用艺术与技术学院	　George Brown College of Applied Arts and Technology  
+ 	乔治亚应用艺术与技术学院	　Georgian College of Applied Arts and Technology  
+ 	格兰特麦克埃文大学	　Grant MacEwan University  
+ 	蒙特利尔大学高等商学院	　HEC Montréal, Université de Montréal  
+ 	荷兰学院	　Holland College  
+ 	汉伯学院	　Humber College Institute of Technology and Advanced Learning  
+ 	约翰阿伯特学院	　John Abbott College  
+ 	不列颠哥伦比亚司法学院	　Justice Institute of British Columbia  
+ 	昆特兰理工大学	　Kwantlen Polytechnic University  
+ 	拉萨尔学院	　LaSalle College  
+ 	[湖首大学](http://www.lakeheadu.ca)	　Lakehead University  
+ 	莱姆顿应用艺术与技术学院	　Lambton College of Applied Arts and Technology  
+ 	兰加拉学院	　Langara College  
+ 	温哥华拉萨尔学院	　Lasalle College Vancouver  
+ 	劳伦森大学	　Laurentian University  
+ 	莱斯桥学院	　Lethbridge College  
+ 	曼尼托巴贸易与技术学院	　Manitoba Institute of Trades and Technology  
+ 	马里亚诺波利斯学院	　Marianopolis College  
+ 	麦克马斯特神学院	　McMaster Divinity College  
+ 	麦迪森海特学院	　Medicine Hat College  
+ 	[纽芬兰纪念大学](http://www.mun.ca)	　Memorial University of Newfoundland  
+ 	莫霍克应用艺术与技术学院	　Mohawk College of Applied Arts and Technology  
+ 	[蒙特埃里森大学](http://www.mta.ca)	　Mount Allison University  
+ 	皇家山大学	　Mount Royal University  
+ 	蒙特圣文森大学	　Mount Saint Vincent University  
+ 	[新斯科舍艺术与设计大学](http://nscad.ca)	　NSCAD University  
+ 	新不伦瑞克社区学院	　New Brunswick Community College  
+ 	尼亚加拉应用艺术与技术学院	　Niagara College of Applied Arts and Technology  
+ 	[尼皮辛大学](http://www.unipissing.ca)	　Nipissing University  
+ 	诺奎斯特学院	　NorQuest College  
+ 	[北岛学院](http://www.nic.bc.ca)	　North Island College  
+ 	北阿尔伯塔理工学院	　Northern Alberta Institute of Technology  
+ 	北方应用艺术与技术学院	　Northern College of Applied Arts and Technology  
+ 	新斯科舍农学院	　Nova Scotia Agricultural College　www.nsac.ns.ca/nsac  
+ 	新斯科舍艺术与设计学院	　Nova Scotia College of Art and Design  
+ 	新斯科舍社区学院	　Nova Scotia Community College  
+ 	安大略艺术与设计大学	　OCAD University  
+ 	奥克纳根学院	　Okanagan College  
+ 	奥尔兹学院	　Olds College  
+ 	加拿大奎斯特大学	　Quest University Canada  
+ 	红鹿学院	　Red Deer College  
+ 	红河学院	　Red River College  
+ 	救世主大学	　Redeemer University  
+ 	维真学院	　Regent College  
+ 	[皇家路大学](http://www.royalroads.ca)	　Royal Roads University  
+ 	[圣玛丽大学](http://www.stmarys.ca)	　Saint Mary's University  
+ 	萨斯卡彻温理工学院	　Saskatchewan Polytechnic  
+ 	索尔特应用艺术与技术学院	　Sault College of Applied Arts and Technology  
+ 	圣力嘉应用艺术与技术学院	　Seneca College of Applied Arts and Technology  
+ 	谢尔丹学院	　Sheridan College Institute of Technology and Advanced Learning  
+ 	[西蒙弗雷泽大学](http://www.sfu.ca)	　Simon Fraser University  
+ 	弗莱明应用艺术与技术学院	　Sir Sandford Fleming College of Applied Arts and Technology  
+ 	南阿尔伯塔理工学院	　Southern Alberta Institute of Technology  
+ 	圣克莱尔应用艺术与技术学院	　St. Clair College of Applied Arts and Technology  
+ 	[圣弗朗西斯泽维尔大学](http://www.stfx.ca)	　St. Francis Xavier University  
+ 	圣劳伦斯应用艺术与技术学院	　St. Lawrence College of Applied Arts and Technology  
+ 	圣汤姆斯大学	　St. Thomas University  
+ 	[圣玛丽大学](http://www.stmarys.ca)	　St.Mary's University  
+ 	斯坦巴克圣经学院	　Steinbach Bible College  
+ 	[国王大学](http://www.kingsu.ca)	　The King's University  
+ 	[圭尔夫大学](http://www.uoguelph.ca)	　The University of Guelph  
+ 	莱斯桥大学	　The University of Lethbridge  
+ 	[北不列颠哥伦比亚大学](http://www.unbc.edu)	　The University of Northern British Columbia  
+ 	[温尼伯大学](http://www.uwinnipeg.ca)	　The University of Winnipeg  
+ 	汤普森河大学	　Thompson Rivers University  
+ 	多伦多都会大学	　Toronto Metropolitan University  
+ 	[特伦特大学](http://www.trentu.ca)	　Trent University  
+ 	[西三一大学](http://www.twu.ca)	　Trinity Western University  
+ 	天道大学学院与神学院	　Tyndale University College and Seminary  
+ 	加西大学	　University Canada West  
+ 	[弗雷泽河谷大学学院](http://cheam.ucfv.bc.ca)	　University College of the Fraser Valley  
+ 	新布伦瑞克大学	　University of New Brunswick  
+ 	[安省理工大学](http://www.uoit.ca)	　University of Ontario Institute of Technology　安大略大学理工学院  
+ 	[爱德华王子岛大学](http://www.upei.ca)	　University of Prince Edward Island  
+ 	[里贾纳大学](http://www.uregina.ca)	　University of Regina  
+ 	[维多利亚大学](http://www.uvic.ca)	　University of Victoria  
+ 	[温莎大学](http://www.uwindsor.ca)	　University of Windsor  
+ 	弗雷泽河谷大学	　University of the Fraser Valley  
+ 	蒙克顿大学	　Université de Moncton  
+ 	舍布鲁克大学	　Université de Sherbrooke  
+ 	魁北克大学阿比蒂彼-特米斯卡明分校	　Université du Québec en Abitibi-Témiscamingue  
+ 	[魁北克大学渥塔崴分校](http://uqo.ca)	　Université du Québec en Outaouais  
+ 	魁北克大学席库提米分校	　Université du Québec à Chicoutimi  
+ 	[魁北克大学蒙特利尔分校](http://www.uqam.ca)	　Université du Québec à Montréal  
+ 	魁北克大学里穆斯基分校	　Université du Québec à Rimouski  
+ 	魁北克大学三河分校	　Université du Québec à Trois-Rivières  
+ 	魁北克大学国立科学研究院	　Université du Québec, Institut national de la recherche scientifique  
+ 	魁北克大学高等技术学院	　Université du Québec, École de Technologie Supérieure  
+ 	温哥华社区学院	　Vancouver Community College  
+ 	[温哥华岛大学](http://www.viu.ca)	　Vancouver Island University  
+ 	瓦尼埃学院	　Vanier College  
+ 	[威尔弗瑞德劳瑞尔大学](http://www.wlu.ca)	　Wilfrid Laurier University  
+ 	[约克大学](http://www.yorku.ca)	　York University  
+ 	约克维尔大学	　Yorkville University  
+ 	蒙特利尔大学工学院	　École Polytechnique de Montréal, Université de Montréal  
 
 
 澳大利亚获得认证的大学
@@ -552,8 +557,13 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/eng.edu
-	英系大学EDU Beta	202505
+	英系大学EDU v0.3.0	202505
 ```
-
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
