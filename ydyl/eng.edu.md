@@ -20,13 +20,17 @@
 / 英系大学
 </div>
 
+### 简目
+
+　　英、[澳](#2){:target="_top"}、加、[新](#4){:target="_top"}
+
 
 英国获得认证的大学
 ------------------
-161所，其中名校标记：
+161所，其中标记名校荣誉：
 
-*	🗿：古典大学，6所，欧洲文艺复兴时期成立的大学。
-*	🔷：英国[罗素大学集团](https://russellgroup.ac.uk/)，24所大学。
+　　古典大学6所🗿，欧洲文艺复兴时期成立的大学；
+	英国[罗素大学集团](https://russellgroup.ac.uk/)24所🔷。
 
 
 🗿🔷 1096　	[牛津大学](http://www.ox.ac.uk)	　University of Oxford  
@@ -191,29 +195,31 @@
  	雷克瑟姆大学	　Wrexham University  
  	约克圣约翰大学	　York St John University  
 
+<div id="2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
 
 加拿大获得认证的大学
 ------------------
-152所，其中名校标记：
+152所，其中标记名校荣誉：
 
-*	🔶：加拿大[U15大学联盟](https://u15.ca/)，15所大学。
+　　加拿大[U15大学联盟](https://u15.ca/)15所🍁。
 
 
-🔶 1663　	[拉瓦尔大学](http://www.ulaval.ca)	　Université Laval　加拿大U15大学联盟  
-🔶 1818　	[戴尔豪斯大学](http://ac.dal.ca)	　Dalhousie University  
-🔶 1821　	[麦吉尔大学](http://www.mcgill.ca)	　McGill University  
-🔶 1827　	[多伦多大学](http://www.utoronto.ca)	　University of Toronto  
-🔶 1841　	[皇后大学](http://www.queensu.ca)	　Queen's University　金斯顿女王大学  
-🔶 1848　	[渥太华大学](http://www.uottawa.ca)	　University of Ottawa  
-🔶 1877　	[曼尼托巴大学](http://www.umanitoba.ca)	　The University of Manitoba　马尼托巴大学  
-🔶 1878　	[西安大略大学](http://www.uwo.ca)	　The University of Western Ontario  
-🔶 1878　	[蒙特利尔大学](http://www.umontreal.ca)	　Université de Montréal  
-🔶 1887　	[麦克马斯特大学](http://www.mcmaster.ca)	　McMaster University  
-🔶 1907　	[萨斯卡彻温大学](http://www.usask.ca)	　University of Saskatchewan　萨省大学，萨斯喀彻温大学  
-🔶 1908　	[不列颠哥伦比亚大学](http://www.ubc.ca)	　The University of British Columbia  
-🔶 1908　	[阿尔伯塔大学](http://www.ualberta.ca)	　University of Alberta　艾伯塔大学  
-🔶 1957　	[滑铁卢大学](http://uwinfo.uwaterloo.ca)	　University of Waterloo  
-🔶 1966　	[卡尔加里大学](http://www.ucalgary.ca)	　The University of Calgary  
+🍁 1663　	[拉瓦尔大学](http://www.ulaval.ca)	　Université Laval　加拿大U15大学联盟  
+🍁 1818　	[戴尔豪斯大学](http://ac.dal.ca)	　Dalhousie University  
+🍁 1821　	[麦吉尔大学](http://www.mcgill.ca)	　McGill University  
+🍁 1827　	[多伦多大学](http://www.utoronto.ca)	　University of Toronto  
+🍁 1841　	[皇后大学](http://www.queensu.ca)	　Queen's University　金斯顿女王大学  
+🍁 1848　	[渥太华大学](http://www.uottawa.ca)	　University of Ottawa  
+🍁 1877　	[曼尼托巴大学](http://www.umanitoba.ca)	　The University of Manitoba　马尼托巴大学  
+🍁 1878　	[西安大略大学](http://www.uwo.ca)	　The University of Western Ontario  
+🍁 1878　	[蒙特利尔大学](http://www.umontreal.ca)	　Université de Montréal  
+🍁 1887　	[麦克马斯特大学](http://www.mcmaster.ca)	　McMaster University  
+🍁 1907　	[萨斯卡彻温大学](http://www.usask.ca)	　University of Saskatchewan　萨省大学，萨斯喀彻温大学  
+🍁 1908　	[不列颠哥伦比亚大学](http://www.ubc.ca)	　The University of British Columbia  
+🍁 1908　	[阿尔伯塔大学](http://www.ualberta.ca)	　University of Alberta　艾伯塔大学  
+🍁 1957　	[滑铁卢大学](http://uwinfo.uwaterloo.ca)	　University of Waterloo  
+🍁 1966　	[卡尔加里大学](http://www.ucalgary.ca)	　The University of Calgary  
  	[阿卡迪亚大学](http://www.acadiau.ca)	　Acadia University　加拿大152所大学  
  	阿克森达管理学院	　Acsenda School of Management  
  	阿尔伯塔艺术与设计学院	　Alberta College of Art and Design  
@@ -352,6 +358,8 @@
  	约克维尔大学	　Yorkville University  
  	蒙特利尔大学工学院	　École Polytechnique de Montréal, Université de Montréal  
 
+<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
 
 澳大利亚获得认证的大学
 ------------------
@@ -474,6 +482,8 @@
 	114	中央昆士兰大学	Central Queensland University
 	115	詹姆斯库克大学	James Cook University
 
+<div id="4" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
 
 新西兰获得认证的大学
 ------------------
@@ -547,7 +557,6 @@
 	65	Yoobee学院	Yoobee Colleges
 	66	Yoobee设计学院	Yoobee ACG School of Design
 	67	职业商业与餐饮学院	Professional Business and Restaurant School
-
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
