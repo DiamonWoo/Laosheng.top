@@ -6,7 +6,7 @@
 
 　　中美两国在社会制度上有根本不同，反映在教育上，美国大学主要依靠商业化运作，有很多著名的私立大学，比如：哈佛、斯坦福、麻省理工、普林斯顿。而且美国的教育部不负责全国的大学认证，完全由社会机构进行，以至出现了俗称的‘野鸡大学’。甚至在2025年3月，美国总统签署了行政命令，启动解散美国教育部的程序。这种区别还反映在，要想查[中国大学的名单](https://Laosheng.top/fuwu/yuanxiao '高等院校三千所')全集，比较容易；而要想查美国的大学名单全集，比较困难。
 
-　　大萌希望缓解上述困难，帮助读者迅速查看一所美国大学的‘**段位**’。信息正在添加，欢迎提出意见。出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页无意冠上加冠。此页可查到美国大学的中文译名、别名、建校年份、院校[所在州](USA50 '美国五十州')、名校荣誉、大学官网 等等，蓝色的校名点开是大学的官网。请善用浏览器的页面检索功能。
+　　大萌希望缓解上述困难，帮助读者迅速查看一所美国大学的‘**段位**’。信息正在添加，欢迎提出意见。出国留学的需求广泛而持久，网上有大量商业网站提供服务，本页无意冠上加冠。此页可查到美国大学的中文译名、别名、建校年份、院校[所在州](USA50 '美国五十州')、官方网址、名校荣誉 等等。请善用浏览器的页面检索功能。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
@@ -15,27 +15,25 @@
 
 ## 简目 　🏛️🏫👩‍🎓👨‍🏫
 
-　　数据来源　收录进度　1.[各州大学标记](#1){:target="_top"}　2.[未分州的大学](#2){:target="_top"}　3.[更多美国大学](#3){:target="_top"}　参考文献 
+　　各州代码　1.[各州大学标记](#1){:target="_top"}　2.[未分州的大学](#2){:target="_top"}　3.[更多美国大学](#3){:target="_top"}　数据来源与参考
 
 <img src="ditu/usa-states.png" alt="USA 50 States" width="760" align="right" style="margin: 0px 20px 20px 0px;">
 
-## 数据来源与参考
+*	University，大学，多指有博士学位的综合大学。本页收录 957个
+*	College，大学的统称，类似与中国的大学包括本科、大专、高职。本页收录 523个。
+*	Institute，学院，研究院。本页收录  55个。
 
-*	教育部[中国留学网](https://www.cscse.edu.cn) / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd) / M-美国 （中留服认证）
-*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified) / 美国 （可搜索）
-*	(辽宁)各国学校排名网 / 美国([按州排序](https://www.university-list.net/meiguo/daxue-1000.htm) )（有网址）
-*	(美国留学中介) 续航教育：美国大学[USNews排名](https://www.forwardpathway.com/ranking)（标学费）
-*	……
-*	University，大学，多指有博士学位的综合大学
-*	Institute，学院，研究院
-*	College，大学的统称，类似与中国的大学包括本科、大专、高职。
+　　本节标记的名校荣誉有：  
+　　🌿 常春藤(私立) 8所、🍃 公立常春藤 30所  
+　　专业标记有：  
+　　🔯 军队院校、⚕️ 医学院校
 
-<div align="center"><img src="ditu/usa-uni.png" alt="University of USA" style="margin: 0px auto -20px;">
-</div>
+　　仍在收录各校的所在州数据，已完成六成。美国大学名录按各州分段，同一州内按建校年份、英文字母排序。
 
-## LSIP收录进度
 
-	缩写	州名　　　	收录数		缩写	州名　　　	收录数		缩写	州名　	收录数
+## 各州代码 与 收录进度
+
+	代码	州名　　　	收录数		代码	州名　　　	收录数		代码	州名　	收录数
 											
 	AL	亚拉巴马州	16		LA	路易斯安那州	12		OH	俄亥俄州　	43
 	AR	阿肯色州　	10		MA	马萨诸塞州	51		OK	俄克拉何马州	19
@@ -63,12 +61,8 @@
 1、各州大学
 -----------
 
-　　已为1035所大学填充所在州，按各州分段，华盛顿特区(DC)和关岛等本土外地区提到最前面。
+　　已为1035所大学填充所在州，按各州分段，华盛顿特区(DC)和关岛等本土外地区提到最前面。蓝色的校名点开是大学的官网。
 
-按建校年份排序，没有年份的按校名英文排序。蓝色的校名点开是大学的官网。  
-
-　　本节标记的名校荣誉有：🌿 常春藤(私立) 8所、🍃 公立常春藤 30所  
-　　专业标记有：🔯 军队院校、⚕️ 医学院校
 
 DC　1789　	[乔治敦大学](http://www.georgetown.edu/)	　Georgetown University  
 DC　	[加劳德特大学](http://www.gallaudet.edu/)	　Gallaudet University  
@@ -80,7 +74,6 @@ DC　	[乔治华盛顿大学](http://www.gwu.edu/)	　The George Washington Univ
 DC　	[世界政治学院](http://www.iwp.edu/)	　The Institute of World Politics  
 DC　	[哥伦比亚特区大学](http://www.udc.edu/)	　University of the District of Columbia  
 DC　	[波托马克大学](http://www.potomac.edu/)	　University of the Potomac  
-
 GU　	[关岛大学](http://www.uog.edu/)	　University of Guam  
 MP　	[北马里亚纳学院](http://www.marianas.edu/)	　Northern Marianas College  
 
@@ -1706,24 +1699,23 @@ WY　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 <div align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-参考文献
+数据来源与参考
 --------
+
+*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"} / M-美国 （中留服认证）
+*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified) / 美国 （可搜索）
+*	(辽宁)各国学校排名网 / 美国([按州排序](https://www.university-list.net/meiguo/daxue-1000.htm) )（有网址）
+*	(美国留学中介) 续航教育：美国大学[USNews排名](https://www.forwardpathway.com/ranking)（标学费）
+*	……
+
+### 参考文献
 
 *	2025-03-21，[光明网](https://m.gmw.cn/2025-03/21/content_1303996740.htm)：特朗普签令：正式启动解散美国教育部
 *	2024-4-19，盘点名字相似度高达90%的美国大学！ - [国际教育联盟](https://www.jingsailian.com/news/735828.html)
 *	卡内基国际学生学会：美国高等教育[地区性认证机构](https://www.cisi-edu.org/regional-accreditation/)
 
-　　根据中国留学网提供的‘认证院校查询’，大萌统计了认证院校数量最多的前16位国家。之后其他国家的认证院校数量都少于一百。
-
-		国别名	认证数		国别名	认证数
-		　美国	1546		意大利	187
-		　日本	924		　英国	161
-		　法国	530		菲律宾	157
-		俄罗斯	473		加拿大	152
-		　德国	284		马来西亚	119
-		　韩国	270		澳大利亚	115
-		　印度	247		　泰国	104
-		乌克兰	212		　巴西	102
+<div align="center"><img src="ditu/usa-uni.png" alt="University of USA" style="margin: 0px auto -20px;">
+</div>
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
