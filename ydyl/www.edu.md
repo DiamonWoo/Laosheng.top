@@ -15,52 +15,49 @@
 
 ### 简目
 
-　　数据来源　排行榜　[七个分组](#8)：
-美、英澳加新、[欧洲](#83)、[前苏联](#84)、朝韩日、[亚洲](#86)、[非洲和美洲](#87)
+　排行榜
+　[国别分组](#2)：美、英澳加新、[欧洲](#23)、[前苏联](#24)、朝韩日、[亚洲](#26)、[非洲和美洲](#27)
+　[数据来源](#3)
 
-### 数据来源与参考
 
-*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"}{:target="_blank"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}{:target="_blank"} / 按国名拼音排序 （中留服认证）
-*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified){:target="_blank"} / 6731所 （2022年6月数据，可搜索）
-*	(辽宁)各国学校排名网 / [英国大学网址](https://www.university-list.net/yingguo/daxue-1000.html){:target="_blank"}
-*	(美国留学中介) 续航教育：[世界大学排名](https://www.forwardpathway.com/worldranking){:target="_blank"}（有地图）
-*	……
+认证数量排行榜
+--------------
+
+　　按认证数量排序，最多的前16个国家共计5583所院校通过中方认证，以11%的国别数获得了74%的认证院校。余下其他国家通过认证的院校数量都不足一百所，其中安哥拉、文莱、马尔代夫等15国，只有一所院校获得认证。
+
+		ISO	国名	认证数	院校数	人口数
+		US	美国	1546	约3000	34151
+		JP	日本	924	约 900	12344
+		FR	法国	530		6860
+		RU	俄罗斯	473		14603
+		DE	德国	284		8474
+		KR	韩国	270		5120
+		IN	印度	247		14393
+		UA	乌克兰	212		3296
+		IT	意大利	187		5896
+		GB	英国	161		6826
+		PH	菲律宾	157		11416
+		CA	加拿大	152		4146
+		MY	马来西亚	119		3415
+		AU	澳大利亚	115		2700
+		TH	泰国	104		6593
+		BR	巴西	102		20306
+
+<div id="2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+认证院校的国别分组
+------------------
+
+### [usa.edu](usa.edu) 美国大学半边天 👩‍🎓🌿
+
+　　1546所认证院校，按各州分段。
+
 *	University，大学，多指有博士学位的综合大学
 *	Institute，学院，研究院
 *	College，大学的统称，类似与中国的大学包括本科、大专、高职。
 
-### 认证数量排行榜
-
-　　按认证数量排序，最多的前16个国家共计5583所院校通过中方认证，以11%的国别数获得了74%的认证院校。余下其他国家通过认证的院校数量都不足一百所，其中安哥拉、文莱、马尔代夫等15国，只有一所院校获得认证。
-
-		ISO	国名	认证数	人口数	院校数
-		US	美国	1546	34151
-		JP	日本	924	12344
-		FR	法国	530	6860
-		RU	俄罗斯	473	14603
-		DE	德国	284	8474
-		KR	韩国	270	5120
-		IN	印度	247	14393
-		UA	乌克兰	212	3296
-		IT	意大利	187	5896
-		GB	英国	161	6826
-		PH	菲律宾	157	11416
-		CA	加拿大	152	4146
-		MY	马来西亚	119	3415
-		AU	澳大利亚	115	2700
-		TH	泰国	104	6593
-		BR	巴西	102	20306
-
-<div id="8" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-世界大学国别分组
-----------------
-
-### [usa.edu](usa.edu) 美国大学半边天
-
-　　1546所认证院校，按各州分段。
-
-### [eng.edu](eng.edu) 英澳加新大学
+### [eng.edu](eng.edu) 英系四国EDU 🏫💂‍♂
 
 　　4国495所认证院校。
 
@@ -69,9 +66,9 @@
 		AU	澳大利亚	115
 		NZ	新西兰	67
 
-<div id="83" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="23" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### euro.edu[]() 欧洲大学
+### euro.edu[]() 欧洲大学一锅粥 🏰🧙
 
 　　34国1648所认证院校，不包括英国及前苏联国家
 
@@ -110,9 +107,9 @@
 		MC	摩纳哥	2
 		LI	列支敦士登	1
 
-<div id="84" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="24" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### su.edu[]() 前苏联15国
+### su.edu[]() 前苏联15国 🪆👨‍🚀
 
 　　15国926所认证院校。
 
@@ -132,7 +129,7 @@
 		MD	摩尔多瓦	6
 		TM	土库曼斯坦	3
 
-### kkj.edu[]() 朝韩日大学
+### kkj.edu[]() 朝韩日大学 ☯
 
 　　3国1201所认证院校。
 
@@ -140,9 +137,9 @@
 		KR	韩国	270
 		KP	朝鲜	7
 
-<div id="86" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="26" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### asia.edu[]() 亚洲大学
+### asia.edu[]() 亚洲大学 🌕🤴
 
 　　32+1国，1133所认证院校，不包括日本及前苏联国家，增加大洋洲国家 斐济。
 
@@ -180,9 +177,9 @@
 		BN	文莱	1
 		FJ	斐济	3
 
-<div id="87" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="27" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### feimei.edu[]() 非洲和美洲大学
+### feimei.edu[]() 非洲和美洲大学 🧑‍🤝‍🧑
 
 　　非洲33国242所认证院校。
 
@@ -243,6 +240,18 @@
 		BO	玻利维亚	3
 		UY	乌拉圭	2
 
+<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+数据来源与参考
+--------------
+
+*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"}{:target="_blank"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}{:target="_blank"} / 按国名拼音排序 （中留服认证）
+*	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified){:target="_blank"} / 6731所 （2022年6月数据，可搜索）
+*	(辽宁)各国学校排名网 / [英国大学网址](https://www.university-list.net/yingguo/daxue-1000.html){:target="_blank"}
+*	(美国留学中介) 续航教育：[世界大学排名](https://www.forwardpathway.com/worldranking){:target="_blank"}（有地图）
+*	……
+
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -253,7 +262,7 @@
 	https://Laosheng.top/ydyl/www.edu
 	世界大学EDU	v0.3.2	202505
 ```
-
+⛫🎅🧙🧜‍♀️🍚
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
