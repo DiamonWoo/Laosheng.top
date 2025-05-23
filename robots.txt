@@ -12,6 +12,7 @@ Allow: /yan/
 Allow: /index.html
 Allow: /index2.html
 Allow: /LICENSE
+Allow: /LaoshengWeb.css
 Sitemap: https://www.Laosheng.top/sitemap.txt
 
 User-agent: *
