@@ -1,23 +1,37 @@
 世界大学EDU 🏛️🏫👩‍🎓👨‍🏫
 ==============
-大萌汇编　202505　收录中…
+大萌汇编　202505　收录中…	<base target="_blank">
 
-　　本页收录教育部**中国留学服务中心**认证的各国高等院校，也就是常说的‘中国承认学历’的外国大学。以2025年4月的网站数据计算，共有143个国家的7514所高校通过认证，其中有少量学校‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
+　　本页收录**中国留学网**公布的获得认证的各国高等院校，也就是常说的‘中国承认学历’的外国大学。以2025年4月的网站数据计算，共有143个国家的7514所高校通过认证，其中有少量学校‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
 
 　　这143个国家在留学网上按照中文国名的拼音排序，用户想要找一个学校，首先要知道在哪个国家，点击字母找到国家后，再逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为七个页面，每个页面收录这一组国家的所有院校，提高搜索的命中率。
 
 　　本页将提供所有国家的名称索引，分为七组：美国、英澳加新4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、非洲33国和美洲20国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。
 
 <div id="mulu" align="right">
-⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
-/ 世界大学
+⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a> / EDU
 </div>
 
 ### 简目
 
+　有关部门
 　排行榜
-　[国别分组](#2)：美、英澳加新、[欧洲](#23)、[前苏联](#24)、朝韩日、[亚洲](#26)、[非洲和美洲](#27)
-　[数据来源](#3)
+　国别分组：[美](#2)、英澳加新、[欧洲](#23)、[前苏联](#24)、朝韩日、[亚洲](#26)、[非洲和美洲](#27)
+　[参考文献](#3)
+
+### 有关部门
+
+　[教育部](http://www.moe.gov.cn/){:rel="noreferrer"}直属事业单位：
+
+*	中国[留学服务中心](https://portal.cscse.edu.cn/){:rel="noreferrer"}
+/	[中国留学网](https://www.cscse.edu.cn/){:rel="noreferrer"}
+/	[**认证院校查询**](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"} 按拼音排序 
+*	国家留学基金管理委员会
+/	[国家留学网](https://www.csc.edu.cn)（公派留学）
+/	出国留学[**合作机构**](https://www.csc.edu.cn/)（一些著名大学）
+*	国际合作与[交流司](http://www.moe.gov.cn/s78/A20/)
+/	[教育涉外监管](https://jsj.moe.gov.cn/)信息网
+/	[中外合作办学](https://www.crs.jsj.edu.cn/)
 
 
 认证数量排行榜
@@ -25,23 +39,23 @@
 
 　　按认证数量排序，最多的前16个国家共计5583所院校通过中方认证，以11%的国别数获得了74%的认证院校。余下其他国家通过认证的院校数量都不足一百所，其中安哥拉、文莱、马尔代夫等15国，只有一所院校获得认证。
 
-		ISO	国名	认证数	院校数	人口数
-		US	美国	1546	约3000	34151
-		JP	日本	924	约 900	12344
-		FR	法国	530		6860
-		RU	俄罗斯	473		14603
-		DE	德国	284		8474
-		KR	韩国	270		5120
-		IN	印度	247		14393
-		UA	乌克兰	212		3296
-		IT	意大利	187		5896
-		GB	英国	161		6826
-		PH	菲律宾	157		11416
-		CA	加拿大	152		4146
-		MY	马来西亚	119		3415
-		AU	澳大利亚	115		2700
-		TH	泰国	104		6593
-		BR	巴西	102		20306
+		ISO	国名	认证数	院校数
+		US	美国	1546	约3000（不含两年制）
+		JP	日本	924	约 800（不含专门学校）
+		FR	法国	530	约3000（核实中）
+		RU	俄罗斯	473	约1000
+		DE	德国	284	约 400
+		KR	韩国	270	约 400
+		IN	印度	247	
+		UA	乌克兰	212	
+		IT	意大利	187	
+		GB	英国	161	
+		PH	菲律宾	157	
+		CA	加拿大	152	
+		MY	马来西亚	119	
+		AU	澳大利亚	115	
+		TH	泰国	104	
+		BR	巴西	102	
 
 <div id="2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -49,9 +63,12 @@
 认证院校的国别分组
 ------------------
 
-### [usa.edu](usa.edu) 美国大学半边天 👩‍🎓🌿
+### [usa.edu](usa.edu) 美国大学半边天 🏛️🗽
 
 　　1546所认证院校，按各州分段。
+
+*	美国教育部 [ED](https://www.ed.gov) Department of Education 
+	* OPE / #[DAPIP](https://ope.ed.gov/dapip/#/home) 高等教育办公室 / 查找高校（访问受限）
 
 *	University，大学，多指有博士学位的综合大学
 *	Institute，学院，研究院
@@ -65,6 +82,9 @@
 		CA	加拿大	152
 		AU	澳大利亚	115
 		NZ	新西兰	67
+
+*	[英国教育部](https://www.education.gov.uk)
+/	[留学英国](https://study-uk.britishcouncil.org/zh_cn)📍
 
 <div id="23" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -107,9 +127,11 @@
 		MC	摩纳哥	2
 		LI	列支敦士登	1
 
+*	法国[高等教育署](https://chine.campusfrance.org/zh-hans/)📍
+
 <div id="24" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### su.edu[]() 前苏联15国 🪆👨‍🚀
+### su.edu[]() 前苏联15国 🛸👨‍🚀
 
 　　15国926所认证院校。
 
@@ -243,10 +265,9 @@
 <div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-数据来源与参考
---------------
+参考文献
+--------
 
-*	教育部[中国留学网](https://www.cscse.edu.cn){:rel="noreferrer"}{:target="_blank"} / [认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}{:target="_blank"} / 按国名拼音排序 （中留服认证）
 *	(北京)指南者留学 / [教育部认证院校查询](https://www.compassedu.hk/certified){:target="_blank"} / 6731所 （2022年6月数据，可搜索）
 *	(辽宁)各国学校排名网 / [英国大学网址](https://www.university-list.net/yingguo/daxue-1000.html){:target="_blank"}
 *	(美国留学中介) 续航教育：[世界大学排名](https://www.forwardpathway.com/worldranking){:target="_blank"}（有地图）
@@ -260,9 +281,9 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/www.edu
-	世界大学EDU	v0.3.2	202505
+	世界大学EDU	v0.3.3	202505
 ```
-⛫🎅🧙🧜‍♀️🍚
+⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🛕🕋🏯
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
