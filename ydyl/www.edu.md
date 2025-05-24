@@ -16,16 +16,15 @@
 
 　有关部门
 　排行榜
-　国别分组：[美](#2)、英澳加新、[欧洲](#23)、[前苏联](#24)、朝韩日、[亚洲](#26)、[非洲和美洲](#27)
-　[参考文献](#3)
+　国别分组：[美国](#2){:target="_top"}、英澳加新、[欧洲](#23){:target="_top"}、[前苏联](#24){:target="_top"}、朝韩日、[亚洲](#26){:target="_top"}、[非洲和美洲](#27){:target="_top"}
+　[参考文献](#3){:target="_top"}
 
 ### 有关部门
 
-　[教育部](http://www.moe.gov.cn/){:rel="noreferrer"}直属事业单位：
-
+　[教育部](http://www.moe.gov.cn/){:rel="noreferrer"}直属事业单位：  
 *	中国[留学服务中心](https://portal.cscse.edu.cn/){:rel="noreferrer"}
 /	[中国留学网](https://www.cscse.edu.cn/){:rel="noreferrer"}
-/	[**认证院校查询**](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"} 按拼音排序 
+/	[**认证院校查询**](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}（拼音字母顺序）
 *	国家留学基金管理委员会
 /	[国家留学网](https://www.csc.edu.cn)（公派留学）
 /	出国留学[**合作机构**](https://www.csc.edu.cn/)（一些著名大学）
@@ -283,7 +282,7 @@
 	https://Laosheng.top/ydyl/www.edu
 	世界大学EDU	v0.3.3	202505
 ```
-⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🛕🕋🏯
+⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🛕🕋🏯  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
