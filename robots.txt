@@ -1,5 +1,5 @@
 # 一个简单的爬虫声明
-# 2025/5/8
+# 2025/5/8~25
 
 User-agent: *
 Allow: /broad/
@@ -9,14 +9,17 @@ Allow: /fly/
 Allow: /fuwu/
 Allow: /ydyl/
 Allow: /yan/
-Allow: /index.html
-Allow: /index2.html
-Allow: /LICENSE
-Allow: /LaoshengWeb.css
+#Allow: /index.html
+#Allow: /index2.html
+#Allow: /LICENSE
+#Allow: /LaoshengWeb.css
+Allow: /.png$
+Allow: /.css$
 Sitemap: https://www.Laosheng.top/sitemap.txt
 
 User-agent: *
-Disallow: /
+Disallow: /*?*
 
-# 新增Disallow:/
+# 禁止根会使首页屏蔽，使/assets/css屏蔽
+# Disallow: /
 # Disallow:/fly/?=http://tjvip.vip
