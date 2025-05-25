@@ -4,7 +4,7 @@
 
 　　本页收录**中国留学网**公布的获得认证的各国高等院校，也就是常说的‘中国承认学历’的外国大学。以2025年4月的网站数据计算，共有143个国家的7514所高校通过认证，其中有少量学校‘正在加强审查中’。获得认证院校数量最多的两国是美国和日本，分别超 1500所、900所。
 
-　　这143个国家在留学网上按照中文国名的拼音排序，用户想要找一个学校，首先要知道在哪个国家，点击字母找到国家后，再逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为七个页面，每个页面收录这一组国家的所有院校，提高搜索的命中率。
+　　这143个国家在留学网上按照中文国名的拼音排序，用户想要找一个学校，首先要知道在哪个国家，点击国家的中文拼音首字母后，再逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为七个页面，每个页面收录这一组国家的所有院校，提高搜索命中率，节约您的搜寻时间。
 
 　　本页将提供所有国家的名称索引，分为七组：美国、英澳加新4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、非洲33国和美洲20国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。
 
@@ -21,13 +21,13 @@
 
 ### 有关部门
 
-　[教育部](http://www.moe.gov.cn/){:rel="noreferrer"}直属事业单位：  
+　中国教育部 MOE / [司局机构](http://www.moe.gov.cn/)、[直属单位](http://www.moe.gov.cn/jyb_zzjg/moe_349/)
 *	中国[留学服务中心](https://portal.cscse.edu.cn/){:rel="noreferrer"}
-/	[中国留学网](https://www.cscse.edu.cn/){:rel="noreferrer"}
-/	[**认证院校查询**](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}（拼音字母顺序）
+/	[**中国留学网**](https://www.cscse.edu.cn/){:rel="noreferrer"}
+/	[认证院校查询](https://yxcx.cscse.edu.cn/rzyxmd){:rel="noreferrer"}（拼音字母顺序）
 *	国家留学基金管理委员会
-/	[国家留学网](https://www.csc.edu.cn)（公派留学）
-/	出国留学[**合作机构**](https://www.csc.edu.cn/)（一些著名大学）
+/	[国家留学网](https://www.csc.edu.cn)（公派）
+/	出国留学[**合作机构**](https://www.csc.edu.cn/)（著名大学）
 *	国际合作与[交流司](http://www.moe.gov.cn/s78/A20/)
 /	[教育涉外监管](https://jsj.moe.gov.cn/)信息网
 /	[中外合作办学](https://www.crs.jsj.edu.cn/)
@@ -41,11 +41,11 @@
 		ISO	国名	认证数	院校数
 		US	美国	1546	约3000（不含两年制）
 		JP	日本	924	约 800（不含专门学校）
-		FR	法国	530	约3000（核实中）
+		FR	法国	530	约3500（核实中）
 		RU	俄罗斯	473	约1000
 		DE	德国	284	约 400
 		KR	韩国	270	约 400
-		IN	印度	247	
+		IN	印度	247	超8000（😳）
 		UA	乌克兰	212	
 		IT	意大利	187	
 		GB	英国	161	
@@ -67,7 +67,7 @@
 　　1546所认证院校，按各州分段。
 
 *	美国教育部 [ED](https://www.ed.gov) Department of Education 
-	* OPE / #[DAPIP](https://ope.ed.gov/dapip/#/home) 高等教育办公室 / 查找高校（访问受限）
+	* OPE 高等教育办公室 / #[DAPIP](https://ope.ed.gov/dapip/#/home) 查找高校（访问受限）
 
 *	University，大学，多指有博士学位的综合大学
 *	Institute，学院，研究院
@@ -160,7 +160,7 @@
 
 <div id="26" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### asia.edu[]() 亚洲大学 🌕🤴
+### asia.edu[]() 亚洲大学 🛕🤴
 
 　　32+1国，1133所认证院校，不包括日本及前苏联国家，增加大洋洲国家 斐济。
 
@@ -282,7 +282,6 @@
 	https://Laosheng.top/ydyl/www.edu
 	世界大学EDU	v0.3.3	202505
 ```
-⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🛕🕋🏯  
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
 <script>  window.dataLayer = window.dataLayer || [];
@@ -290,4 +289,5 @@
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
-https://Laosheng.top
+https://Laosheng.top  
+⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🌕🛕🕋🏯
