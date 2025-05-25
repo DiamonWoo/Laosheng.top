@@ -150,7 +150,7 @@
 		MD	摩尔多瓦	6
 		TM	土库曼斯坦	3
 
-### kkj.edu[]() 朝韩日大学 ☯
+### [kkj.edu](kkj.edu) 朝韩日大学 ☯
 
 　　3国1201所认证院校。
 
@@ -160,7 +160,7 @@
 
 <div id="26" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### asia.edu[]() 亚洲大学 🛕🤴
+### [asia.edu](asia.edu) 亚洲大学 🛕🤴
 
 　　32+1国，1133所认证院校，不包括日本及前苏联国家，增加大洋洲国家 斐济。
 
