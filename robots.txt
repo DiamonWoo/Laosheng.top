@@ -9,7 +9,8 @@ Allow: /fly/
 Allow: /fuwu/
 Allow: /ydyl/
 Allow: /yan/
-#Allow: /index.html
+
+Allow: /index.html
 #Allow: /index2.html
 #Allow: /LICENSE
 #Allow: /LaoshengWeb.css
