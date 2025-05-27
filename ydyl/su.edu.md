@@ -1,4 +1,4 @@
-前苏联15国大学 🛸👨
+前苏联15国大学 🛸👨‍🚀
 ==============
 大萌汇编　202505　收录中…	<base target="_blank">
 
@@ -10,15 +10,12 @@
 ⏩老生常谈 
 / <a href="./dir" target="_top">【一带一路】</a>
 / <a href="./www.edu" target="_top">EDU</a>
-/ 前苏联15国
+/ 前苏联大学
 </div>
 
 ### 简目
 
-　　[1](#1){:target="_top"}、[2](#2){:target="_top"}
-
-
-　　15国926所认证院校。
+　　15国926所认证院校。　[1](#1){:target="_top"}、[2](#2){:target="_top"}
 
 		RU	俄罗斯	473
 		UA	乌克兰	212
@@ -38,13 +35,15 @@
 		LV	拉脱维亚	8
 		MD	摩尔多瓦	6
 
-
 <div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 认证的俄罗斯院校
 --------------
 473所
+
+　　俄罗斯联邦[科学及高等教育部](https://www.minobrnauki.gov.ru/)
+/	[高校列表](https://www.minobrnauki.gov.ru/about/podvedomstvennye-organizatsii/)
 
 	序	俄罗斯大学	EduName
 	1	阿尔泰国立大学	Алтайский государственный университет
@@ -752,7 +751,7 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/asia.edu
-	亚洲大学 Alpha	202505
+	前苏联大学 Alpha	202505
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
