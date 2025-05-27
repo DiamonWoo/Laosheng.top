@@ -6,7 +6,7 @@
 
 　　这143个国家在留学网上按照中文国名的拼音排序，用户想要找一个学校，首先要知道在哪个国家，点击国家的中文拼音首字母后，再逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为七个页面，每个页面收录这一组国家的所有院校，提高搜索命中率，节约您的搜寻时间。
 
-　　本页将提供所有国家的名称索引，分为七组：美国、英澳加新4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。
+　　本页将提供所有国家的名称索引，分为七组：美国、英澳加新4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。想找中国的大学、台港澳的大学，请到[*高校所*](../fuwu/yuanxiao '高等院校三千所')。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a> / EDU
@@ -127,6 +127,8 @@
 		LI	列支敦士登	1
 
 *	法国[高等教育署](https://chine.campusfrance.org/zh-hans/)📍
+*	德国 [联邦教育与研究部](https://www.bmbf.de/)🍴
+/	大学校长会议 / [德国高校搜索](https://www.hochschulkompass.de/hochschulen/hochschulsuche.html)
 
 <div id="24" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -152,6 +154,10 @@
 		LV	拉脱维亚	8
 		MD	摩尔多瓦	6
 
+*	俄罗斯联邦 [科学及高等教育部](https://www.minobrnauki.gov.ru/)
+/	[高校列表](https://www.minobrnauki.gov.ru/about/podvedomstvennye-organizatsii/)
+*	乌克兰 [教育及科技部](https://mon.gov.ua/)
+/	[认证委员会](https://ak.gov.ua/)
 
 ### [kkj.edu](kkj.edu) 朝韩日大学 ☯
 
@@ -273,7 +279,7 @@
 
 　　世界大学系列页面的编写要较长时间才能完成，大萌需要了解各国的高等教育学制、规模、有关部门，主要参考了三个网站，在此表示感谢！如果读者有急用，可以到这三个网站自行了解：
 
-　　#[**维基百科**](https://zh.wikipedia.org/wiki/高等教育)相关条目、台湾地区教育部 #[**国际及两案教育司**](https://depart.moe.edu.tw/ED2500/Content_List.aspx?n=62011D1866DE25AD)网站‘业务专区’。后者有很详尽的外国大学参考pdf文件，包含了各国的学制介绍和大学网址。还有辽宁的民间网站**[各国学校排名网](https://www.university-list.net/chinese.htm)**，有英美加澳新等多国大学网址列表。
+　　#[**维基百科**](https://zh.wikipedia.org/wiki/高等教育)相关条目、台湾地区教育部 #[**国际及两岸教育司**](https://depart.moe.edu.tw/ED2500/Content_List.aspx?n=62011D1866DE25AD)网站‘业务专区’。后者有很详尽的外国大学参考pdf文件，包含了各国的学制介绍和大学网址。还有辽宁的民间网站[**各国学校排名网**](https://www.university-list.net/chinese.htm)，有英美加澳新等多国大学网址列表。
 
 ### 参考文献
 
@@ -299,4 +305,4 @@
 </script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
-⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🌕🛕🕋🏯
+⛫🎅🧙🧜‍♀️🍚👩‍🎓🌿🛸🪆🌕🛕🕋🏯👨‍🚀
