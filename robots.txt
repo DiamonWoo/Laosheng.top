@@ -14,13 +14,13 @@ Allow: /index.html
 #Allow: /index2.html
 #Allow: /LICENSE
 #Allow: /LaoshengWeb.css
-Allow: /.css$
-Allow: /.png$
+Allow: /*.css$
+Allow: /*.png$
 
 Sitemap: https://www.Laosheng.top/sitemap.txt
 
 User-agent: *
-Disallow: /*?*
+Disallow: /*?=*
 
 # 禁止根会使首页屏蔽，使/assets/css屏蔽
 # Disallow: /
