@@ -5,12 +5,12 @@
 　　44所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
 
 
-<table align="center" border="0" summary="测试md中嵌入的html">
-<caption>中国军校2025</caption>
+<table align="center" width="1200" border="0" summary="测试md中嵌入的html">
+<caption>陆军9所，海军8所，空军10所</caption>
 <tr>
-  <th width="440" style="white-space:nowrap"></th>
-  <th width="420" style="white-space:nowrap"></th>
-  <th width="420" style="white-space:nowrap"></th>
+  <th width="400" style="white-space:nowrap"></th>
+  <th width="400" style="white-space:nowrap"></th>
+  <th width="400" style="white-space:nowrap"></th>
 </tr>
 <tr align="left">
 	<td><sup>陆军</sup>❕	<strong>陆军指挥学院</strong>	<sub>南京市</sub>⠀<small>源于新四军</small></td>
@@ -52,38 +52,35 @@
 	<td></td>
 	<td><sup>海军</sup>❕	海军士官学校 <sub>蚌埠市</sub>⠀<small></small></td>
 	<td><sup>空军</sup>❕	空军通信士官学校	<sub>大连市</sub>⠀<small></small></td>
-</tr><tr>
-	<td></td>
-	<td></td>
-	<td></td>
 </tr>
 </table>
 
-<table align="center" width="720px" border="0" summary="这里是表格摘要">
+<table align="center" width="800px" border="0" summary="这里是表格摘要">
+<caption>火箭军3所，武警部队7所</caption>
 <tr>
-	<th width="360" scope="col" style="white-space:nowrap"></th>
-	<th width="360" scope="col" style="white-space:nowrap"></th>
+	<th width="370" scope="col" style="white-space:nowrap"></th>
+	<th width="430" scope="col" style="white-space:nowrap"></th>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<strong>火箭军指挥学院</strong>	<sub>武汉市</sub>⠀<small>原二炮</small></td>
-	<td><sup>武警</sup>❕	<strong>武警指挥学院</strong>	<sub>天津市</sub>⠀<small></small></td>
+	<td><sup>武警部队</sup>❕	<strong>武警指挥学院</strong>	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<strong>火箭军工程大学</strong>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
-	<td><sup>武警</sup>❕	<strong>武警工程大学</strong>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
+	<td><sup>武部队警</sup>❕	<strong>武警工程大学</strong>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
-	<td><sup>武警</sup>❕	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162491.html">军网介绍</a></small></td>
+	<td><sup>武警部队</sup>❕	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162491.html">军网介绍</a></small></td>
 </tr><tr>
 	<td></td>
-	<td><sup>武警</sup>❕	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
+	<td><sup>武警部队</sup>❕	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td></td>
-	<td><sup>武警</sup>❕	武警海警学院	<sub>宁波市</sub>⠀<small>有微信号，<a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a></small></td>
+	<td><sup>武警</sup><sup>部队</sup>❕	武警海警学院	<sub>宁波市</sub>⠀<small>有微信号，<a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a></small></td>
 </tr><tr>
 	<td></td>
-	<td><sup>武警</sup>❕	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
+	<td><sup>武警部队</sup>❕	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
 	<td></td>
-	<td><sup>武警</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small></td>
+	<td><sup>武警部队</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
 
