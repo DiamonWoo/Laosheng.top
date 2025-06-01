@@ -13,8 +13,8 @@
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 
-<table align="center" width="1200" border="0" summary="测试md中嵌入的html">
-<caption>中国军校2025</caption>
+<table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
+<caption>中国军校2025</caption><!--width="1200"-->
 <tr>
   <th width="400" style="white-space:nowrap"></th>
   <th width="400" style="white-space:nowrap"></th>
