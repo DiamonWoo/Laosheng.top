@@ -2,11 +2,19 @@
 军事高等院校
 ------------
 
-　　44所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
+　　44所，其中军种院校数为：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
+
+<sup>中央军委</sup>❕	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
+<sup>中央军委</sup>❕	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
+<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small>  
+<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small>  
+<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>[军网介绍](http://www.81.cn/jx_208569/16387701.html)</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 
 <table align="center" width="1200" border="0" summary="测试md中嵌入的html">
-<caption>陆军9所，海军8所，空军10所</caption>
+<caption>中国军校2025</caption>
 <tr>
   <th width="400" style="white-space:nowrap"></th>
   <th width="400" style="white-space:nowrap"></th>
@@ -56,7 +64,6 @@
 </table>
 
 <table align="center" width="800px" border="0" summary="这里是表格摘要">
-<caption>火箭军3所，武警部队7所</caption>
 <tr>
 	<th width="370" scope="col" style="white-space:nowrap"></th>
 	<th width="430" scope="col" style="white-space:nowrap"></th>
@@ -88,13 +95,6 @@
 　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；少数军校有公开网站。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。  
 　　[2025年招生计划]即将公布、<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，<del>[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
-<sup>中央军委</sup>❕	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
-<sup>中央军委</sup>❕	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
-<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small>  
-<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small>  
-<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>[军网介绍](http://www.81.cn/jx_208569/16387701.html)</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 <sup>陆军</sup>❕	**陆军指挥学院**	<sub>南京市</sub>⠀<small>源于新四军</small>  
 <sup>陆军</sup>❕	[**陆军工程大学**](https://www.aeu.edu.cn)	⭐<sub>南京市</sub>⠀<small>+军械+重庆通信，[军网介绍](http://www.81.cn/jx_208569/10137233.html)</small>  
 <sup>陆军</sup>❕	[**陆军军医大学**](https://www.tmmu.edu.cn)	⭐<sub>重庆市</sub>⠀<small>原第三军医大，[军网介绍](https://www.81.cn/jx_208569/10162476.html)</small>  
