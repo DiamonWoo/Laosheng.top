@@ -48,73 +48,55 @@
 军事高等院校
 ------------
 
-　　44所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2025年再次调整组建(撤并)3所，中国军校总数仍为44所。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
+　　44所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
 
 　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；少数军校有公开网站。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。  
 　　[2025年招生计划]即将公布、<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，<del>[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
-中央军委直属 及军委四兵种所属院校：
-
-*	国防大学　	<small>【中国人民解放军】北京市</small>
-*	[国防科技大学](http://www.nudt.edu.cn)	<small>⭐✊ ，[wb](https://m.weibo.cn/u/7127745503) 长沙市</small>
-*	军事航天部队 航天工程大学	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10163459.html) 北京市</small>
-*	网络空间部队 信息工程大学
-*	信息支援部队 工程大学	⭐<small> [军校信息](https://www.81.cn/jx_208569/10162450.html) 郑州市</small>
-*	联勤保障部队 工程大学	⭐
-*	联勤保障部队 解放军医学院
-
-军种院校 及武警部队院校：
-
-*	陆军  
-　1	陆军指挥学院	<small>  南京市</small>
-　2	[陆军工程大学](http://www.aeu.edu.cn)	<small>⭐ [军校信息](http://www.81.cn/jx_208569/10137233.html) 南京市/石家庄/重庆市/武汉市/徐州市</small>
-　3	陆军步兵学院	<small>⭐ [军校信息](http://www.81.cn/jx_208569/10162475.html) 南昌市/石家庄</small>
-　+	陆军兵种大学 ⭐! 2025新校
-　x	<del>陆军装甲兵学院</del>	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162418.html) 北京市/蚌埠市/长春市</small>
-　x	<del>陆军炮兵防空兵学院</del>	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162436.html) 合肥市/南京市/郑州市/沈阳市</small>
-　6	陆军航空兵学院	<small>  </small>
-　7	陆军特种作战学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162369.html) 桂林市/广州市</small>
-　8	陆军边海防学院	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162387.html) 西安市/乌鲁木齐/昆明市</small>
-　9	陆军防化学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162375.html) 北京市</small>
-　10	[陆军军医大学](http://www.tmmu.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162476.html)，原第三军医大学 重庆市</small>
-　x	<del>陆军军事交通学院</del>	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162477.html) 天津市/镇江市/蚌埠市</small>
-　x	<del>陆军勤务学院</del>	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/10/content_7748196.htm) 重庆市/武汉市</small>
-
-*	海军  
-　13	海军指挥学院	<small>  南京市</small>
-　14	[海军工程大学](http://www.nue.edu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162409.html) 武汉市/天津市</small>
-　15	海军大连舰艇学院	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162405.html) 大连市</small>
-　16	[海军潜艇学院](http://www.qtxy.mil.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162414.html) 青岛市</small>
-　17	海军航空大学	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/04/content_7748184.htm) 烟台市/青岛市</small>
-　18	[海军军医大学](http://ao.smmu.edu.cn)	<small>⭐✌️ [军校信息](https://www.81.cn/jx_208569/10162787.html)，原第二军医大学 上海市</small>
-　19	海军勤务学院	<small>  </small>
-　20	海军士官学校	<small>  蚌埠市</small>
-
-*	空军  
-　21	空军指挥学院	<small>  </small>
-　22	[空军工程大学](http://afeu.cn)	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162383.html)、[wb](https://m.weibo.cn/u/5193807838) 西安市</small>
-　23	空军航空大学	<small>⭐ [军网简介](http://www.81.cn/kj/2015-08/06/content_6617753.htm) 长春市/蚌埠市</small>
-　24	空军预警学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10136745.html) 武汉市</small>
-　25	空军哈尔滨飞行学院	<small> [wb](https://weibo.com/hafeiyuan) 哈尔滨市</small>
-　26	空军石家庄飞行学院	<small>  石家庄市</small>
-　27	空军西安飞行学院	<small>  西安市</small>
-　28	[空军军医大学](http://www.fmmu.edu.cn)	<small>⭐✌️ [军校信息](https://www.81.cn/jx_208569/10162452.html)，原第四军医大学 西安市</small>
-　29	空军勤务学院	<small>  徐州市</small>
-　30	空军通信士官学校	<small>  大连市</small>
-
-*	火箭军  
-　31	火箭军指挥学院	<small>  武汉市</small>
-　32	火箭军工程大学	<small>⭐ [军网简介](http://www.81.cn/jx_208569/10162462.html)、[wb](https://m.weibo.cn/u/6977918761) 西安市</small>
-　33	火箭军士官学校	<small>  青州市</small>  
-
-*	武警部队  
-　1	武警指挥学院　	<small>【中国人民武装警察部队】</small>
-　2	武警工程大学	<small>⭐ [军网简介](http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm) 西安市</small>
-　3	武警警官学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162491.html) 成都市/福州市</small>
-　4	武警特种警察学院	<small>⭐ [军网简介](http://www.81.cn/jwzl/2017-06/08/content_7748187.htm) 北京市</small>
-　5	武警后勤学院	<small>  </small>
-　6	武警士官学院	<small>  杭州市/福州市</small>
-　7	武警海警学院	<small>⭐ [军校信息](https://www.81.cn/jx_208569/10162455.html),有微信公众号 宁波市</small>
+<sup>中央军委</sup>❕	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
+<sup>中央军委</sup>❕	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
+<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small>  
+<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small>  
+<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>[军网介绍](http://www.81.cn/jx_208569/16387701.html)</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
+<sup>陆军</sup>❕	**陆军指挥学院**	<sub>南京市</sub>⠀<small>源于新四军</small>  
+<sup>陆军</sup>❕	[**陆军工程大学**](https://www.aeu.edu.cn)	⭐<sub>南京市</sub>⠀<small>理工大+军械工程+重庆通信，[军网介绍](http://www.81.cn/jx_208569/10137233.html)</small>  
+<sup>陆军</sup>❕	[**陆军军医大学**](https://www.tmmu.edu.cn)	⭐<sub>重庆市</sub>⠀<small>原第三军医大，[军网介绍](https://www.81.cn/jx_208569/10162476.html)</small>  
+<sup>陆军</sup>❕	**陆军兵种大学**	⭐<sub>合肥市</sub>⠀<small>原装甲兵/炮兵防空兵学院</small>  
+<sup>陆军</sup>❕	陆军步兵学院	⭐<sub>南昌市</sub>⠀<small>☭抗日红军大学/南昌陆院+石机步院，[军网介绍](http://www.81.cn/jx_208569/10162475.html)</small>  
+<sup>陆军</sup>❕	陆军防化学院	⭐<sub>北京市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10162375.html)</small>  
+<sup>陆军</sup>❕	陆军航空兵学院	<sub>北京市</sub>⠀<small></small>  
+<sup>陆军</sup>❕	陆军特种作战学院	<sub>桂林市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10162369.html)</small>  
+<sup>陆军</sup>❕	陆军边海防学院	<sub>西安市</sub>⠀<small>[军网介绍](http://www.81.cn/jx_208569/10162387.html)</small>  
+<sup>海军</sup>❕	**海军指挥学院**	<sub>南京市</sub>⠀<small></small>  
+<sup>海军</sup>❕	[**海军工程大学**](https://www.nue.edu.cn/)	⭐<sub>武汉市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10162409.html)</small>  
+<sup>海军</sup>❕	[**海军军医大学**](http://ao.smmu.edu.cn/)	⭐✌️<sub>上海市</sub>⠀<small>原第二军医大，[军网介绍](https://www.81.cn/jx_208569/10162787.html)</small>  
+<sup>海军</sup>❕	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>原海军学校，[军网介绍](http://www.81.cn/jx_208569/10162405.html)</small>  
+<sup>海军</sup>❕	[海军潜艇学院](https://www.qtxy.mil.cn)	⭐<sub>青岛市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10162414.html)</small>  
+<sup>海军</sup>❕	海军航空大学	⭐<sub>烟台市</sub>⠀<small>[军网介绍](http://www.81.cn/jwzl/2017-06/04/content_7748184.htm)</small>  
+<sup>海军</sup>❕	海军勤务学院	<sub>天津市</sub>⠀<small></small>  
+<sup>海军</sup>❕	海军士官学校	<sub>蚌埠市</sub>⠀<small></small>  
+<sup>空军</sup>❕	**空军指挥学院**	<sub>北京市</sub>⠀<small></small>  
+<sup>空军</sup>❕	[**空军工程大学**](https://www.afeu.edu.cn)	⭐<sub>西安市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10162383.html)、[wb](https://m.weibo.cn/u/5193807838)</small>  
+<sup>空军</sup>❕	[**空军军医大学**](https://www.fmmu.edu.cn)	⭐✌️<sub>西安市</sub>⠀<small>原第四军医大，[军网介绍](https://www.81.cn/jx_208569/10162452.html)</small>  
+<sup>空军</sup>❕	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small>[wb](https://weibo.com/hafeiyuan)</small>  
+<sup>空军</sup>❕	空军石家庄飞行学院	<sub>石家庄市</sub>⠀<small></small>  
+<sup>空军</sup>❕	空军西安飞行学院	<sub>西安市</sub>⠀<small></small>  
+<sup>空军</sup>❕	空军航空大学	⭐<sub>长春市</sub>⠀<small>[军网介绍](http://www.81.cn/kj/2015-08/06/content_6617753.htm)</small>  
+<sup>空军</sup>❕	空军预警学院	⭐<sub>武汉市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10136745.html)</small>  
+<sup>空军</sup>❕	空军勤务学院	<sub>徐州市</sub>⠀<small></small>  
+<sup>空军</sup>❕	空军通信士官学校	<sub>大连市</sub>⠀<small></small>  
+<sup>火箭军</sup>❕	**火箭军指挥学院**	<sub>武汉市</sub>⠀<small>原二炮</small>  
+<sup>火箭军</sup>❕	**火箭军工程大学**	⭐<sub>西安市</sub>⠀<small>有[微博](https://weibo.com/6977918761)，[军网介绍](http://www.81.cn/jx_208569/10162462.html)</small>  
+<sup>火箭军</sup>❕	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small>  
+<sup>武警</sup>❕	**武警指挥学院**	<sub>天津市</sub>⠀<small></small>  
+<sup>武警</sup>❕	**武警工程大学**	⭐<sub>西安市</sub>⠀<small>[军网介绍](http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm)</small>  
+<sup>武警</sup>❕	武警警官学院	⭐<sub>成都市</sub>⠀<small>[军网介绍](https://www.81.cn/jx_208569/10162491.html)</small>  
+<sup>武警</sup>❕	武警特种警察学院	<sub>北京市</sub>⠀<small>[军网介绍](http://www.81.cn/jwzl/2017-06/08/content_7748187.htm)</small>  
+<sup>武警</sup>❕	武警海警学院	<sub>宁波市</sub>⠀<small>有微信号，[军网介绍](https://www.81.cn/jx_208569/10162455.html)</small>  
+<sup>武警</sup>❕	武警后勤学院	<sub>天津市</sub>⠀<small></small>  
+<sup>武警</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small>  
 
 
 <div align="right" id="D1">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
@@ -153,7 +135,7 @@
 26 <sup>教育部</sup>❗ <b>[厦门大学](http://www.xmu.edu.cn)</b>	 XMU 福建 <sub>厦门市</sub>⠀	[院系页](http://www.xmu.edu.cn/xbyx/rwyysxb.htm)⠀	[机构页](http://www.xmu.edu.cn/sdgl/zzjg.htm)⠀<small>	[招生办](https://zs.xmu.edu.cn/) /	[图书馆](https://library.xmu.edu.cn/) /	[校园网](https://net.xmu.edu.cn/)	⠀马来西亚分校。[国际交流](https://ice.xmu.edu.cn/)</small>  
 27 <sup>教育部</sup>❗ <b>[同济大学](http://www.tongji.edu.cn '同济规划')</b>	 Tongji 上海 <sub>杨浦区</sub>⠀	[院系页](http://www.tongji.edu.cn/yxjg111/ybshe_zhi/ybsz_.htm)⠀	[机构页](http://www.tongji.edu.cn/yxjg111/dzbm.htm)⠀<small>	[招生办](https://bkzs.tongji.edu.cn/) /	[图书馆](https://www.lib.tongji.edu.cn/) /	[校园网](https://nic.tongji.edu.cn/)	⠀+上海铁道大学+城建学院/建材/航空工校。[12家医院](https://www.tongji.edu.cn/yxjg111/fsdwjzgqy.htm)</small>  
 28 <sup>教育部</sup>❗ <b>[中南大学](http://www.csu.edu.cn)</b>	 CSU 湖南 <sub>长沙市</sub>⠀	[院系页](http://www.csu.edu.cn/xyxk1/ejxy.htm)⠀	[机构页](http://www.csu.edu.cn/zjzn/jgsz.htm)⠀<small>	[招生办](https://zhaosheng.csu.edu.cn/) /	[图书馆](https://lib.csu.edu.cn/) /	[校园网](https://nic.csu.edu.cn/)	⠀+[湘雅医学院](https://xysm.csu.edu.cn/xygk/xyjj1.htm)+中南工大+长沙铁道+长沙工专</small>  
-29 <sup>教育部</sup>❗ <b>[大连理工大学](http://www.dlut.edu.cn)</b>	 DLUT 辽宁 <sub>大连市</sub>⠀	[院系页](http://www.dlut.edu.cn/xbyx/dllszxq.htm)⠀	[机构页](http://www.dlut.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zs.dlut.edu.cn/) /	[图书馆](http://www.lib.dlut.edu.cn/) /	[校园网](https://its.dlut.edu.cn/)	⠀建国前第一所工业大学。开发区校区，盘锦校区</small>  
+29 <sup>教育部</sup>❗ <b>[大连理工大学](http://www.dlut.edu.cn)</b>	 DLUT 辽宁 <sub>大连市</sub>⠀	[院系页](http://www.dlut.edu.cn/xbyx/dllszxq.htm)⠀	[机构页](http://www.dlut.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zs.dlut.edu.cn/) /	[图书馆](http://www.lib.dlut.edu.cn/) /	[校园网](https://its.dlut.edu.cn/)	⠀建国前第一所工业大学。+开发区/盘锦市校区，[出版社](https://www.dutp.cn)</small>  
 30 <sup>教育部</sup>❗ <b>[重庆大学](http://www.cqu.edu.cn)</b>	 CQU 重庆 <sub>沙坪坝区</sub>⠀	[院系页](http://www.cqu.edu.cn/jgsz/jxkyjg.htm)⠀	[机构页](http://www.cqu.edu.cn/jgsz/glfwjg.htm)⠀<small>	[招生办](https://zhaosheng.cqu.edu.cn/) /	⠀[数字图书馆](http://lib.cqu.edu.cn/)⠀	[校园网](https://net.cqu.edu.cn/)	⠀+重庆建筑大学+重庆建筑高专。</small>  
 31 <sup>教育部</sup>❗ <b>[兰州大学](http://www.lzu.edu.cn '%FX打不开，安全连接失败')</b>	 LZU 甘肃 <sub>兰州市</sub>⠀	[院系页](http://www.lzu.edu.cn/xxjgs/jxky.htm)⠀	[机构页](http://www.lzu.edu.cn/xxjgs/glfw.htm)⠀<small>	[招生办](https://zsb.lzu.edu.cn/) /	[图书馆](https://lib.lzu.edu.cn/) /	[校园网](https://its.lzu.edu.cn/)	⠀+兰州医学院+甘肃草原生态所。[机构知识库](https://ir.lzu.edu.cn/community-list)</small>  
 
