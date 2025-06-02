@@ -1,6 +1,7 @@
 
 军事高等院校
 ------------
+测试
 
 　　44所，其中军种院校数为：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
 
@@ -16,8 +17,11 @@
 <!-- overflow-x: hidden;不能用，右侧显示不全 -->
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
 <caption>中国军校2025</caption>	<!--width="1200"-->
-<!--<tr><th width="400" style="white-space:nowrap"></th>-->
-<tr align="left">
+<!--<tr><th width="400" style="white-space:nowrap"></th>……</tr>-->
+<tr>
+	<th></th>
+	<th></th>
+</tr><tr align="left">
 	<td><sup>陆军</sup>❕	<strong>陆军指挥学院</strong>	<sub>南京市</sub>⠀<small>源于新四军</small></td>
 	<td><sup>海军</sup>❕	<strong>海军指挥学院</strong>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 	<td><sup>空军</sup>❕	<strong>空军指挥学院</strong>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -60,10 +64,11 @@
 </tr>
 </table>
 
-<table align="center" border="0" summary="这里是表格摘要" style="min-width:600px;">
-<tr>	<!--width="800px"-->
-	<th width="370" scope="col" style="white-space:nowrap"></th>
-	<th width="430" scope="col" style="white-space:nowrap"></th>
+<table align="center" border="0" summary="这里是表格摘要" style="min-width:600px;">	<!--width="800px"-->
+<!--<th width="370" scope="col" style="white-space:nowrap"></th>-->
+<tr>
+	<th></th>
+	<th></th>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<strong>火箭军指挥学院</strong>	<sub>武汉市</sub>⠀<small>原二炮</small></td>
 	<td><sup>武警部队</sup>❕	<strong>武警指挥学院</strong>	<sub>天津市</sub>⠀<small></small></td>
@@ -132,4 +137,3 @@
 <sup>武警部队</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small>  
 
 <div align="right" id="D1">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
-
