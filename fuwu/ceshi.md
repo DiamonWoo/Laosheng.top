@@ -12,10 +12,10 @@
 <sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
-<div style="width:100%; white-space: nowrap; overflow-x: auto;">
-
+<div style="width:100%; white-space: nowrap; overflow-x: hidden;">
+<!-- overflow-x: auto; -->
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
-<caption>中国军校2025</caption><!--width="1200"-->
+<caption>中国军校2025</caption>	<!--width="1200"-->
 <tr>
   <th width="400" style="white-space:nowrap"></th>
   <th width="400" style="white-space:nowrap"></th>
@@ -46,9 +46,9 @@
 	<td></td>
 	<td><sup>空军</sup>❕	空军西安飞行学院	<sub>西安市</sub>⠀<small></small></td>
 </tr><tr bgcolor="#CCFFFF">
-	<td><sup>陆军</sup>❕	陆军航空兵学院	<sub>北京市</sub>⠀<small></small></td>
-	<td><sup>海军</sup>❕	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a></small></td>
-	<td><sup>空军</sup>❕	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a></small></td>
+	<td bgcolor="#CCFFFF"><sup>陆军</sup>❕	陆军航空兵学院	<sub>北京市</sub>⠀<small></small></td>
+	<td bgcolor="#CCFFFF"><sup>海军</sup>❕	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a></small></td>
+	<td bgcolor="#CCFFFF"><sup>空军</sup>❕	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td><sup>陆军</sup>❕	陆军边海防学院 <sub>西安市</sub>⠀<small><a href="http://www.81.cn/jx_208569/10162387.html">军网介绍</a></small></td>
 	<td></td>
@@ -64,8 +64,8 @@
 </tr>
 </table>
 
-<table align="center" width="800px" border="0" summary="这里是表格摘要">
-<tr>
+<table align="center" border="0" summary="这里是表格摘要" style="min-width:600px;">
+<tr>	<!--width="800px"-->
 	<th width="370" scope="col" style="white-space:nowrap"></th>
 	<th width="430" scope="col" style="white-space:nowrap"></th>
 </tr><tr>
@@ -91,6 +91,7 @@
 	<td><sup>武警部队</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
+
 </div>
 
 　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；少数军校有公开网站。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。  
