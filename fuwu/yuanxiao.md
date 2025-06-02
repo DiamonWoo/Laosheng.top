@@ -6,11 +6,11 @@
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
-　　**高等院校**是大学/学院/高专/高职/职大的统称，是青年学子通过 普通**高考**/职教高考/成人自考 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)[软科](https://www.shanghairanking.cn/rankings)、(中管院)[武书连](https://www.wurank.net/ZYRankList.html)、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些评分计算复杂、每年变化，普通家庭要记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国大学名录**。
+　　**高等院校**是大学/学院/高专/高职/职大的统称，是青年学子通过 普通**高考**/职教高考/成人自考 可以进入求学的高等学府。每年高考，各大学排名都是家长与考生的热议话题。国内常见的排名发布方有：(上海)[软科](https://www.shanghairanking.cn/rankings)、(中管院)[武书连](https://www.wurank.net/ZYRankList.html)、(艾瑞深)校友会等等，这些排名根据很多参数（论文引用数据、科研经费数据）加权计算总分来给大学排名。但是，这些评分计算复杂、每年变化，普通家庭要记住这么多数据和结论，很有难度。大萌想探索一个 客观完整、稳定有序 的**中国高校层级图谱**。
 
 　　我国各类高校总数超过三千。军事高校有44所，部分面向普通高考招生，大部分不设公开网站。数量最大的是普通高校，本科超过1300所，高职(专科)超过1500所；成人高校有大约250所，这两类高校由教育部公布名单。另有港澳台三地的普通高校不超过200所，其中港澳部分院校参加大陆高考招生。经过2000年左右的大学合并潮、2017年起的军改、2022年起的独立学院转设，但愿这些数字不再大幅变化。
 
-　　**高校所**网页将以‘[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)’形式收录中国高校名录全集和网址，按照 **军校、中管、部本、省本、专科** 的顺序形成"中国高校层级图谱"，每年更新。2024年本页更新时，台湾高校、成人高校、民间大学排行榜 转移到‘[新高考](gaokao "高考改革进程图")’页面。202505重构军校段落、新增[世界大学名录](../ydyl/www.edu)。　请善用浏览器页内查找、统计功能，新手请在电脑上观看本页面。
+　　**高校所**网页将以‘[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)’形式收录中国高校名录全集和网址，按照 **军校、中管、部本、省本、专科** 的顺序形成"中国大学名录"，每年更新。2024年本页更新时，台湾高校、成人高校、民间大学排行榜 转移到‘[新高考](gaokao "高考改革进程图")’页面。202505重构军校段落、新增[世界大学名录](../ydyl/www.edu)。　请善用浏览器页内查找、统计功能，新手请在电脑上观看本页面。
 
 <div align="right">
 ⏩老生常谈/【<a href="https://Laosheng.top/fuwu" target="_top">服务</a>】/高校所
@@ -48,10 +48,10 @@
 军事高等院校
 ------------
 
-　　44所，含军委7所、陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。（本段正在更新）
+　　44所，含军委7所、陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。2017年大规模军改后，军校数量为43所，2018年加入武警海警学院，2024年撤并战略支援部队，2025年调整组建3所大学，中国军校总数仍为44所。正军级以上院校标记校名为粗体。大部分军校有多个不同省份校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。
 
-　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；少数军校有公开网站。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。  
-　　[2025年招生计划]即将公布、<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，<del>[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
+　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；**少数军校有公开网站**。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。（本段正在更新）  
+　　[2025年招生计划] 即将公布，<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，<del>[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
 <sup>中央军委</sup>❕	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
 <sup>中央军委</sup>❕	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
@@ -61,6 +61,9 @@
 <sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
+
+<div style="width:100%; white-space: nowrap; overflow-x: auto;">
+<!-- overflow-x: hidden 右侧显示不全 -->
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
 <caption>中国军校2025</caption>	<!--width="1200"-->
 <tr>
@@ -92,10 +95,10 @@
 	<td><sup>陆军</sup>❕	陆军防化学院	⭐<sub>北京市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162375.html">军网介绍</a></small></td>
 	<td></td>
 	<td><sup>空军</sup>❕	空军西安飞行学院	<sub>西安市</sub>⠀<small></small></td>
-</tr><tr bgcolor="#CCFFFF">
-	<td><sup>陆军</sup>❕	陆军航空兵学院	<sub>北京市</sub>⠀<small></small></td>
-	<td><sup>海军</sup>❕	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a></small></td>
-	<td><sup>空军</sup>❕	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a></small></td>
+</tr><tr bgcolor="#CCFFFF"><!-- tr背景色无效，被模板覆盖 -->
+	<td bgcolor="LightSkyBlue"><sup>陆军</sup>❕	陆军航空兵学院	<sub>北京市</sub>⠀<small></small></td>
+	<td bgcolor="LightSkyBlue"><sup>海军</sup>❕	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a></small></td>
+	<td bgcolor="LightSkyBlue"><sup>空军</sup>❕	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td><sup>陆军</sup>❕	陆军边海防学院 <sub>西安市</sub>⠀<small><a href="http://www.81.cn/jx_208569/10162387.html">军网介绍</a></small></td>
 	<td></td>
@@ -113,8 +116,8 @@
 
 <table align="center" border="0" summary="这里是表格摘要" style="min-width:600px;">
 <tr>	<!--width="800px"-->
-	<th width="370" scope="col" style="white-space:nowrap"></th>
-	<th width="430" scope="col" style="white-space:nowrap"></th>
+	<th width="380" scope="col" style="white-space:nowrap"></th>
+	<th width="420" scope="col" style="white-space:nowrap"></th>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<strong>火箭军指挥学院</strong>	<sub>武汉市</sub>⠀<small>原二炮</small></td>
 	<td><sup>武警部队</sup>❕	<strong>武警指挥学院</strong>	<sub>天津市</sub>⠀<small></small></td>
@@ -138,8 +141,10 @@
 	<td><sup>武警部队</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
+</div>
 
 <div align="right" id="D1">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
+
 
 中管高校网站分页
 ------------
