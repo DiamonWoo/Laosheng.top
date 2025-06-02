@@ -12,6 +12,7 @@
 <sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
+<div style="width:100%; white-space: nowrap; overflow-x: auto;">
 
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
 <caption>中国军校2025</caption><!--width="1200"-->
@@ -90,7 +91,7 @@
 	<td><sup>武警部队</sup>❕	武警士官学院	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
-
+</div>
 
 　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；少数军校有公开网站。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。  
 　　[2025年招生计划]即将公布、<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，<del>[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
