@@ -12,15 +12,11 @@
 <sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
-<div style="width:100%; white-space: nowrap; overflow-x: hidden;">
-<!-- overflow-x: auto; -->
+<div style="width:100%; white-space: nowrap; overflow-x: auto;">
+<!-- overflow-x: hidden;不能用，右侧显示不全 -->
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
 <caption>中国军校2025</caption>	<!--width="1200"-->
-<tr>
-  <th width="400" style="white-space:nowrap"></th>
-  <th width="400" style="white-space:nowrap"></th>
-  <th width="400" style="white-space:nowrap"></th>
-</tr>
+<!--<tr><th width="400" style="white-space:nowrap"></th>-->
 <tr align="left">
 	<td><sup>陆军</sup>❕	<strong>陆军指挥学院</strong>	<sub>南京市</sub>⠀<small>源于新四军</small></td>
 	<td><sup>海军</sup>❕	<strong>海军指挥学院</strong>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
