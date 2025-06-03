@@ -1,5 +1,5 @@
 
-军事高等院校
+C 军事高等院校
 ------------
 测试
 
@@ -14,7 +14,7 @@
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">
-▃ ▅ ☰☰≡≡ ≡≣二三⇛⊟══⛿⏸︎⏏☰☰≡≡Ⅲ⮂⍈⇛≋
+▃ ▅ ≡≣二三⇛⊟══⛿⏸︎⏏☰☰≡≡Ⅲ⮂⍈⇛≋
 <!-- overflow-x: hidden;不能用，右侧显示不全 -->
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
 <caption>中国军校2025</caption>	<!--width="1200"-->
