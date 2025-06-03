@@ -26,7 +26,7 @@
 
 <h2 id='tupu'>中国高校层级图谱 👨‍🎓 <sub>本页目录</sub></h2>
 
-*	[军事高等院校](#D81){:target="_top"} 44所，其中27所⭐向高考招生
+*	[军事高等院校](#D81){:target="_top"} 44所	<sup>部分参与高招</sup>
 *	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2868**所，其中本科1308所
 	* 部属本科高校 114所🥇 <small>=[中管高校](#D1){:target="_top"}❗31所+普通部本❕83所</small>
 	* 省属本科高校 770所🥈 <small>（多为‘二本’）</small>
@@ -48,11 +48,11 @@
 军事高等院校
 ------------
 
-　　44所。大部分军校在多个省份有校区，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。
+　　44所。多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。　少数军校有公开网站。少数军校只面向社会招收研究生，不参与高招。
+　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
-　　部分军校面向高考招生，多为本科提前录取批次；部分军校面向社会只招收硕士、博士；**少数军校有公开网站**。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。（本段正在更新）
-　[2025年招生计划] 即将公布，<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。  
-　　正军级以上校名标记为粗体（全军21所），其余大学/学院为副军级，士官学校为师级。各军种计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
+　　每年有部分军校面向高考招生，多为**本科提前录取批次**；2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。（本段正在更新）
+　[2025年招生计划] 即将公布，<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
 <sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
@@ -62,12 +62,10 @@
 <sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，原陆军勤务/交通学院</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
-<div style="width:100%; white-space: nowrap; overflow-x: auto;">
-<!-- overflow-x: hidden 右侧显示不全 -->
-<table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
-<caption>中国军校2025</caption>	<!--width="1200"-->
-<!--<th width="400" style="white-space:nowrap"></th>-->
-<tr align="left">	<!--tr align="left"-->
+<div style="width:100%; white-space: nowrap; overflow-x: auto;">	<!-- overflow-x: hidden 右侧显示不全 -->
+<table align="center" border="0" summary="陆海空军校阵列" style="min-width:900px;">	<!--width="1200"-->
+<caption>中国军校2025</caption>
+<tr>	<!--tr align="left"-->
 	<td>	<b>陆军指挥学院</b>	<sub>南京市</sub>⠀<small>源于新四军</small>　<font color="green">▅</font></td>
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;　<font color="skyblue">▅</font></td>
@@ -84,13 +82,13 @@
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="http://www.81.cn/jx_208569/10162405.html">军网介绍</a></small></td>
 	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10136745.html">军网介绍</a></small></td>
 </tr><tr>
-	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small></small></td>
+	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small></small>☁️</td>
 	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞</a></small></td>
 	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a>　<a href="https://www.kjzfw.mil.cn">空军招飞</a></small></td>
 </tr><tr>
 	<td>	陆军防化学院	⭐<sub>北京市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162375.html">军网介绍</a></small></td>
 	<td>	<a href="https://www.qtxy.mil.cn">海军潜艇学院</a>	⭐<sub>青岛市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162414.html">军网介绍</a></small></td>
-	<td>	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small><a href="https://weibo.com/hafeiyuan">wb</a></small></td>
+	<td>	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small>有<a href="https://weibo.com/hafeiyuan">微博</a></small></td>
 </tr><tr>	<!-- tr bgcolor="#CCFFFF" 背景色无效，被模板覆盖 -->
 	<td>	陆军步兵学院	⭐<sub>南昌市</sub>⠀<small>☭南昌陆院+机械化，<a href="http://www.81.cn/jx_208569/10162475.html">军网介绍</a></small></td>
 	<td></td>
@@ -110,15 +108,14 @@
 </tr>
 </table>
 
-<table align="center" border="0" summary="这里是表格摘要" style="min-width:600px;">
-<!--width="800px"-->
+<table align="center" border="0" summary="火箭军与武警部队院校" style="min-width:600px;">	<!--width="800px"-->
 <!--<th width="380" scope="col" style="white-space:nowrap"></th>-->
 <tr>
 	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　🚀</td>
 	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　<font color="green"><b>☰</b></font></td>
 </tr><tr>
 	<td>	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
-	<td><sup>武部队警</sup>❕	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
+	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
 	<td>	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162491.html">军网介绍</a></small></td>
