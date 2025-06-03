@@ -20,7 +20,7 @@
 <!--<tr><th width="400" style="white-space:nowrap"></th>……</tr>-->
 <tr align="left">
 	<td>	<b>陆军指挥学院</b>	<sub>南京市</sub>⠀<small>源于新四军</small>　<font color="green">▅</font></td>
-	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;　<font color="blue">≡≡</font></td>
+	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;　<font color="blue">══⏏︎</font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>　<font color="skyblue">▅</font></td>
 </tr><tr>
 	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+军械+重庆通信，<a href="http://www.81.cn/jx_208569/10137233.html">军网介绍</a></small></td>
@@ -67,7 +67,7 @@
 	<th></th>	<th></th>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small></td>
-	<td><sup>武警部队</sup>❕	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small></td>
+	<td><sup>武警部队</sup>❕	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　<font color="green">⏏︎</font></td>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
 	<td><sup>武部队警</sup>❕	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
