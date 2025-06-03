@@ -14,6 +14,7 @@
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">
+▃ ▅ ☰☰≡≡ ≡≣二三⇛⊟══⛿⏸︎⏏☰☰≡≡Ⅲ⮂⍈⇛≋
 <!-- overflow-x: hidden;不能用，右侧显示不全 -->
 <table align="center" border="0" summary="测试md中嵌入的html" style="min-width:900px;">
 <caption>中国军校2025</caption>	<!--width="1200"-->
@@ -67,7 +68,7 @@
 	<th></th>	<th></th>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small></td>
-	<td><sup>武警部队</sup>❕	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　<font color="green">⏏︎</font></td>
+	<td><sup>武警部队</sup>❕	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　<font color="green">⏏︎☰≡≡Ⅲ</font></td>
 </tr><tr>
 	<td><sup>火箭军</sup>❕	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
 	<td><sup>武部队警</sup>❕	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
