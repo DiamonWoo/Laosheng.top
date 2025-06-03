@@ -19,8 +19,9 @@ Allow: /*.png$
 
 Sitemap: https://www.Laosheng.top/sitemap.txt
 
-User-agent: *
-Disallow: /*?=*
+# yuanxiao没有恢复，暂时放开
+# User-agent: *
+# Disallow: /*?*
 
 # 禁止根会使首页屏蔽，使/assets/css屏蔽
 # Disallow: /
