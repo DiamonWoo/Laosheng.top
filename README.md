@@ -107,8 +107,8 @@
 ![谋智开发者网络](yan/thanks4MDN.png)
 ![W3C北航总部](yan/thanks4W3C.png)
 
-	老生常谈© 2019~2024 大萌	知识共享
+	老生常谈© 2019~2025 大萌	知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	202505	v3.4.4	https://Laosheng.top
+	202506	v3.4.5	https://Laosheng.top
 
 🎁🎅🛍💎🎀🥳💐🍸🍹🍺🍻🥂🍷🥃☕🍵🥣🍝🍜 🍇🍉🍰🧀🥧₂₀₂₅
