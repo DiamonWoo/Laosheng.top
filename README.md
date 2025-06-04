@@ -26,7 +26,7 @@
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
 
-  + /fuwu/yuanxiao　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，助力考生选大学。　军校、中管、部本、省本、高职，中国高校层级图谱。（新）
+  + /fuwu/yuanxiao　👨‍🎓 [高等院校三千所](fuwu/yuanxiao)，助力考生选大学。　军校、中管、部本、省本、高职，中国大学名录（2025）
   + /fuwu/yangqi　🧧 [央企股票全家福](fuwu/yangqi)　央企旗下400余家上市公司的官网、股票代码、行情页面
   + /fuwu/fazhi 🏢 <a href="fuwu/fazhi" target="fazhiye" title="省地级法治部门">法治政府部门集</a>，奉公守法人心齐。　各省地市的：人大政协公检法、监察审计药监局……
   + /fuwu/qianxian　📑 [中国千县地名网](fuwu/qianxian)　全国近三千个县区的政府网址，按区划代码排序，2024版
@@ -34,10 +34,10 @@
 
 /ydyl/dir ⠀[【一带一路】系列](ydyl/dir)，找到全世界。　💃 一带一路民间站
 
-  + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，十大世界语言。
+  + /ydyl/united　🌐 [国际组织四大类](ydyl/united )：联合国有关部门🇺🇳，十大世界语言。1.0版发布
   + /ydyl/nations　🗺 [外交国别速查表](ydyl/nations)：ISO代码、国家概况页、政府网址、双方使馆网址……2024版
-  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。1.0版发布
-  + /ydyl/usa.edu　👩‍🎓 [美国大学半边天](ydyl/usa.edu)　中国承认学历的美国大学网站导航（新上线）
+  + /ydyl/index　🌞 [一带一路云媒体](ydyl){:target="_blank"} ，五大洲的报纸、电视、通讯社；收录习主席发表署名文章的海外报纸。
+  + /ydyl/www.edu　👩‍🎓 [世界大学名录](ydyl/www.edu)　中国承认学历的世界各国大学（收录中）
 
    🚄🚃☁🚃☁……
 
