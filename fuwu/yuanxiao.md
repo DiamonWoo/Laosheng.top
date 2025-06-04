@@ -1,4 +1,4 @@
-高等院校三千所 👨‍🎓 <sup>助力考生选大学</sup>
+高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
 大萌	　2023-2025
 <base target="_blank">
@@ -48,10 +48,10 @@
 军事高等院校
 ------------
 
-　　44所。多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。　少数军校有公开网站。少数军校只面向社会招收研究生，不参与高招。
+　　44所。多数军校没有公开网站。多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。
 　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
-　　每年有部分军校面向高考招生，多为**本科提前录取批次**；2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。（本段正在更新）
+　　每年有部分军校面向高考招生，多为**本科提前录取批次**；少数军校只面向社会招收研究生，不参与高招。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。（本段正在更新）
 　[2025年招生计划] 即将公布，<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
@@ -102,7 +102,7 @@
 	<td>	海军勤务学院 <sub>天津市</sub>⠀<small></small></td>
 	<td>	空军勤务学院	<sub>徐州市</sub>⠀<small></small></td>
 </tr><tr>
-	<td></td>
+	<td align="right"><small>手机用户请左右滑动表格</small></td>
 	<td>	海军士官学校 <sub>蚌埠市</sub>⠀<small></small></td>
 	<td>	空军通信士官学校	<sub>大连市</sub>⠀<small></small></td>
 </tr>
@@ -126,10 +126,10 @@
 	<td></td>
 	<td>	武警海警学院	<sub>宁波市</sub>⠀<small>有微信号，<a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a></small></td>
 </tr><tr>
-	<td></td>
+	<td align="center">《中国军校2025》</td>
 	<td>	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
-	<td></td>
+	<td align="center"><small>首发于老生常谈网站</small></td>
 	<td>	武警士官学校	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
@@ -164,7 +164,8 @@
 18 <sup>教育部</sup>❗ <b>[天津大学](http://www.tju.edu.cn)</b>	 TJU 天津 <sub>南开区</sub>⠀	[院系页](http://www.tju.edu.cn/tdgk/jgsz/xy_b_.htm)⠀	[机构页](http://www.tju.edu.cn/tdgk/jgsz/jgbcs.htm)⠀<small>	[招生办](https://zs.tju.edu.cn/) /	[图书馆](http://www.lib.tju.edu.cn/) /	⠀[校园网](https://its.tju.edu.cn)⠀	⠀北洋大学，[十家医院](http://www.tju.edu.cn/tdgk/jgsz/fsjhzgjyy.htm)</small>  
 19 <sup>教育部</sup>❗ <b>[武汉大学](http://www.whu.edu.cn '招生办与图书馆网站夜间关闭')</b>	 WHU 湖北 <sub>武汉市</sub>⠀	[院系页](http://www.whu.edu.cn/jgsz/yxsz.htm)⠀	[机构页](http://www.whu.edu.cn/jgsz/znbm.htm)⠀<small>	[招生办](https://aoff.whu.edu.cn/) /	[图书馆](https://www.lib.whu.edu.cn/) /	[校园网](https://nic.whu.edu.cn/)	⠀+湖北医科大+武汉测绘科技+武汉水利电力。[弘毅学堂](https://hyxt.whu.edu.cn/)</small>  
 20 <sup>教育部</sup>❗ <b>[中山大学](http://www.sysu.edu.cn '台湾也有一个：nsysu.edu.tw')</b>	 SYSU 广东 <sub>广州市</sub>⠀	[院系页](http://www.sysu.edu.cn/yxsz.htm)⠀	[机构页](http://www.sysu.edu.cn/xxg/fwjg.htm)⠀<small>	[招生办](https://admission.sysu.edu.cn/) /	[图书馆](https://library.sysu.edu.cn/) /	[校园网](https://inc.sysu.edu.cn/)	⠀+中山医科大。[附属第七医院](http://www.sysush.com/)（深圳）、[孙逸仙](http://www.gzsys.org.cn/)纪念医院</small>  
-21 <sup>教育部</sup>❗ <b>[西北农林科技大学](http://www.nwsuaf.edu.cn)</b>	 nwsuaf 陕西 <sub>咸阳市</sub>⠀	[院系页](http://www.nwsuaf.edu.cn/xxsw/)⠀	[机构页](http://www.nwsuaf.edu.cn/xxsw/xzjg/)⠀<small>	[招生办](https://zhshw.nwsuaf.edu.cn/) /	[图书馆](https://lib.nwafu.edu.cn/) /	[校园网](https://nic.nwafu.edu.cn/)	⠀+水土保持所+西北水利所/植物所+陕西农科院/林科院。[秦岭研究院](https://qinling.nwafu.edu.cn/)、中国[旱区节水农业研究院](https://wsa.nwafu.edu.cn/)</small>  
+21 <sup>教育部</sup>❗ <b>[西北农林科技大学](http://www.nwsuaf.edu.cn)</b>	 nwsuaf 陕西 <sub>咸阳市</sub>⠀	[院系页](http://www.nwsuaf.edu.cn/xxsw/)⠀	[机构页](http://www.nwsuaf.edu.cn/xxsw/xzjg/)⠀<small>	[招生办](https://zhshw.nwsuaf.edu.cn/) /	[图书馆](https://lib.nwafu.edu.cn/) /	[校园网](https://nic.nwafu.edu.cn/)	⠀+水土保持所+西北水利所/植物所+陕西农科院/林科院。[秦岭研究院](https://qinling.nwafu.edu.cn/)、中国[旱区节水农业研究院](https://wsa.nwafu.edu.cn/)</small>
+　<small>老生常谈网站：中管高校</small>  
 22 <sup>教育部</sup>❗ <b>[吉林大学](http://www.jlu.edu.cn)</b>	 JLU 吉林 <sub>长春市</sub>⠀	[院系页](http://www.jlu.edu.cn/jgsz/yxsz.htm)⠀	[机构页](http://www.jlu.edu.cn/jgsz/gl_fwyywjg.htm)⠀<small>	[招生办](https://zsb.jlu.edu.cn/) /	[图书馆](http://lib.jlu.edu.cn/) /	[校园网](https://nic.jlu.edu.cn/)	⠀+工大+军需大+长春邮电+白求恩医科大+东北地质。黄大年</small>  
 23 <sup>教育部</sup>❗ <b>[华中科技大学](http://www.hust.edu.cn)</b>	 HUST 湖北 <sub>武汉市</sub>⠀	[院系页](http://www.hust.edu.cn/yxsz.htm)⠀	[机构页](http://www.hust.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zsb.hust.edu.cn/) /	[图书馆](http://www.lib.hust.edu.cn/) /	[校园网](https://ncc.hust.edu.cn/)	⠀+同济医科大+武汉城建。[同济医学院](http://www.tjmu.edu.cn/yxyxg/fsyy.htm)/金银潭医院</small>  
 24 <sup>教育部</sup>❗ <b>[山东大学](http://www.sdu.edu.cn)</b>	 SDU 山东 <sub>济南市</sub>⠀	[院系页](http://www.sdu.edu.cn/jgsz/xysz.htm)⠀	[机构页](http://www.sdu.edu.cn/jgsz/glfw.htm)⠀<small>	[招生办](https://www.bkzs.sdu.edu.cn/) /	[图书馆](https://library.sdu.edu.cn/) /	[校园网](https://iais.sdu.edu.cn/)	⠀+山东工大+山东医科大。[齐鲁医学院](https://www.qlyxb.sdu.edu.cn/xwzsy/xygk/zzjg.htm)、[科研网站群](https://www.sdu.edu.cn/jgsz/kyjg.htm)</small>  
