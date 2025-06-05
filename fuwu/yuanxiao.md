@@ -72,7 +72,7 @@
 </tr><tr>
 	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+军械+重庆通信，<a href="http://www.81.cn/jx_208569/10137233.html">军网介绍</a></small></td>
 	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162409.html">军网介绍</a></small></td>
-	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162383.html">军网介绍</a>、<a href="https://m.weibo.cn/u/5193807838">wb</a></small></td>
+	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/5193807838">微博</a>、<a href="https://www.81.cn/jx_208569/10162383.html">军网介绍</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
 	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://www.81.cn/jx_208569/10162476.html">军网介绍</a></small></td>
 	<td>	<a href="http://ao.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，<a href="https://www.81.cn/jx_208569/10162787.html">军网介绍</a></small></td>
@@ -82,7 +82,7 @@
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="http://www.81.cn/jx_208569/10162405.html">军网介绍</a></small></td>
 	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10136745.html">军网介绍</a></small></td>
 </tr><tr>
-	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small></small>☁️</td>
+	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small>有微信号</small>　☁☁🪂☁🚁</td>
 	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞</a></small></td>
 	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a>　<a href="https://www.kjzfw.mil.cn">空军招飞</a></small></td>
 </tr><tr>
@@ -91,11 +91,11 @@
 	<td>	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small>有<a href="https://weibo.com/hafeiyuan">微博</a></small></td>
 </tr><tr>	<!-- tr bgcolor="#CCFFFF" 背景色无效，被模板覆盖 -->
 	<td>	陆军步兵学院	⭐<sub>南昌市</sub>⠀<small>☭南昌陆院+机械化，<a href="http://www.81.cn/jx_208569/10162475.html">军网介绍</a></small></td>
-	<td></td>
+	<td align="right">	🛦🛦🛦　</td>
 	<td>	空军石家庄飞行学院	<sub>石家庄市</sub>⠀<small></small></td>
 </tr><tr>
 	<td>	陆军边海防学院 <sub>西安市</sub>⠀<small><a href="http://www.81.cn/jx_208569/10162387.html">军网介绍</a></small></td>
-	<td></td>
+	<td align="right">	🛦🛦🛦　</td>
 	<td>	空军西安飞行学院	<sub>西安市</sub>⠀<small></small></td>
 </tr><tr>
 	<td>	陆军特种作战学院 <sub>桂林市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162369.html">军网介绍</a></small></td>
@@ -111,7 +111,7 @@
 <table align="center" border="0" summary="火箭军与武警部队院校" style="min-width:600px;">	<!--width="800px"-->
 <!--<th width="380" scope="col" style="white-space:nowrap"></th>-->
 <tr>
-	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　🚀</td>
+	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　<font color="gold">▅</font></td>
 	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　<font color="green"><b>☰</b></font></td>
 </tr><tr>
 	<td>	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
@@ -120,7 +120,7 @@
 	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
 	<td>	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162491.html">军网介绍</a></small></td>
 </tr><tr>
-	<td></td>
+	<td align="right">　🚀　</td>
 	<td>	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td></td>
@@ -526,7 +526,7 @@
 		　设计LC = 2927　	=27+2868+32　军+普+港澳
 		　完成率 = 　98.1%	已实际完成
 
-*	202506，已吸收高考前最后一批高职变更情况。等待官网公布
+*	202506，已吸收2025年度第二批专科变更情况，等待官网公布年度名单。
 *	202505，已吸收军校变更情况。
 *	202504，检查中管高校校园网分页。
 *	202503，逐步吸收2025年公布院校变更情况。
