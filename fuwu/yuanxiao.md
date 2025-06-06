@@ -27,13 +27,13 @@
 <h2 id='tupu'>中国高校层级图谱 👨‍🎓 <sub>本页目录</sub></h2>
 
 *	[军事高等院校](#D81){:target="_top"} 44所	<sup>部分参与高招</sup>
-*	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2868**所，其中本科1308所
+*	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2916**所，其中本科1328所
 	* 部属本科高校 114所🥇 <small>=[中管高校](#D1){:target="_top"}❗31所+普通部本❕83所</small>
-	* 省属本科高校 770所🥈 <small>（多为‘二本’）</small>
-	* 　　民办本科 424所 ¥ <sup>含12所境外合作</sup> <small>省教育厅主管</small>
-	* 　　专科院校1560所：<small>=部属❕4所+省属1165所+民办¥391所</small> <sup>含3所境外合作</sup>
+	* 省属本科高校 786所🥈 <small>（多为‘二本’）</small>
+	* 　　民办本科 428所 ¥ <sup>含12所境外合作</sup> <small>省教育厅主管</small>
+	* 　　专科院校1588所：<small>=部属❕4所+省属1166所+民办¥418所</small> <sup>含3所境外合作</sup>
 *	[港澳普通高校](#D3){:target="_top"} 32所，其中21所🔖向高考招生  
-2024年7月以上合计 2944所，Laosheng.top (2025年数据正在吸收)
+　　以上合计 2992所，Laosheng.top 2025年6月统计
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
@@ -54,7 +54,7 @@
 　　每年有部分军校面向高考招生，多为**本科提前录取批次**；少数军校只面向社会招收研究生，不参与高招。2025年面向高考招生的[军校有22所](https://www.eol.cn/news/yaowen/202505/t20250527_2671279.shtml)，标记⭐。（本段正在更新）
 　[2025年招生计划] 即将公布，<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
-<sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级。含原军艺，成人高校</small>  
+<sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
 <sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
 <sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small>  
 <sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small>  
@@ -66,7 +66,7 @@
 <table align="center" border="0" summary="陆海空军校阵列" style="min-width:900px;">	<!--width="1200"-->
 <caption>中国军校2025</caption>
 <tr>	<!--tr align="left"-->
-	<td>	<b>陆军指挥学院</b>	<sub>南京市</sub>⠀<small>源于新四军</small>　<font color="green">▅</font></td>
+	<td>	<b>陆军指挥学院</b>	<sub>南京市</sub>⠀<small>源于新四军</small>　　<font color="green">▅</font></td>
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;　<font color="skyblue">▅</font></td>
 </tr><tr>
@@ -95,7 +95,7 @@
 	<td>	空军石家庄飞行学院	<sub>石家庄市</sub>⠀<small></small></td>
 </tr><tr>
 	<td>	陆军边海防学院 <sub>西安市</sub>⠀<small><a href="http://www.81.cn/jx_208569/10162387.html">军网介绍</a></small></td>
-	<td align="right">	🛦🛦🛦　</td>
+	<td align="right">	🛧🛧🛧　</td>
 	<td>	空军西安飞行学院	<sub>西安市</sub>⠀<small></small></td>
 </tr><tr>
 	<td>	陆军特种作战学院 <sub>桂林市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162369.html">军网介绍</a></small></td>
@@ -111,8 +111,8 @@
 <table align="center" border="0" summary="火箭军与武警部队院校" style="min-width:600px;">	<!--width="800px"-->
 <!--<th width="380" scope="col" style="white-space:nowrap"></th>-->
 <tr>
-	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　<font color="gold">▅</font></td>
-	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　<font color="green"><b>☰</b></font></td>
+	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　　<font color="gold">▅</font></td>
+	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　　<font color="green"><b>☰</b></font></td>
 </tr><tr>
 	<td>	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
 	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
@@ -227,14 +227,14 @@
 　<a href="#65" target="_top">65-新疆</a>
 　71-台湾　81-香港　82-澳门　各省按身份证号前两位排序　▼
 
-202406**各省统计如下**：（202506数据正在统计）
+**各省统计如下**：（202506数据，等待官方公布年度名单核对）
 
 	　各省高校	北京	天津	河北	山西	内蒙古	辽宁	吉林	黑龙江	上海	江苏	浙江	安徽	福建	江西	山东	河南	湖北	湖南	广东	广西	海南	重庆	四川	贵州	云南	西藏	陕西	甘肃	青海	宁夏	新疆	层级合计
 	部属本科🥇	39	3	4	0	0	5	2	3	9	10	1	2	2	0	3	1	8	2	3	0	0	2	6	0	0	0	6	2	0	1	0	🥇 114
-	省属本科🥈	23	16	38	27	15	37	24	25	22	40	38	31	21	29	43	38	28	30	39	28	5	17	30	22	24	4	29	20	5	3	19	🥈 770
-	民办本科 ¥	6	11	21	7	2	22	12	12	9	28	23	14	16	18	25	21	32	21	31	12	4	9	18	8	9	0	23	3	1	4	2	￥ 424
-	　　专科数	24	26	66	49	37	50	29	38	29	94	47	78	49	64	90	114	65	86	92	49	16	45	85	50	58	3	39	25	7	14	42	专 1560
-	各省小计：	92	56	129	83	54	114	67	78	69	172	109	125	88	111	161	174	133	139	165	89	25	73	139	80	91	7	97	50	13	22	63	总 2868
+	省属本科🥈	24	16	38	28	16	37	26	25	22	41	38	31	21	29	44	39	29	30	39	29	5	17	30	22	25	5	29	21	5	3	22	🥈 786
+	民办本科 ¥	6	11	21	7	2	22	12	12	9	28	23	14	17	18	25	22	33	22	31	12	4	9	18	8	9	0	23	3	1	4	2	￥428
+	　　专科数	23	26	68	50	36	50	28	40	29	96	48	79	50	70	95	116	64	93	92	48	17	47	87	50	58	3	39	24	7	14	41	专 1588
+	各省小计：	92	56	131	85	54	114	68	80	69	175	110	126	90	117	167	178	134	147	165	89	26	75	141	80	92	8	97	50	13	22	65	总 2916
 
 
 <h3 id='11'>北京　<small>92所高校：39🥇 24🥈 6 ¥</small></h3>
@@ -560,7 +560,7 @@
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 1.1.3	202506
+	高等院校三千所	Version 1.1.4	202506
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
