@@ -1,8 +1,7 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
 大萌	　2023-2025
-<base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
+<base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
@@ -13,7 +12,7 @@
 　　**高校所**网页将以‘[大规模集成网页](https://diamonwoo.github.io/LSIP)(LSIP)’形式收录中国高校名录全集和网址，按照 **军校、中管、部本、省本、专科** 的顺序形成"中国高校层级图谱"，每年更新。2024年本页更新时，台湾高校、成人高校、民间排行榜 转移到‘[新高考](gaokao "高考改革进程图")’页面。2025年重构军校段落、启动[世界大学名录](../ydyl/www.edu)。　请善用浏览器页内查找、统计功能，新手请在电脑上观看本页面。
 
 <div align="right">
-⏩老生常谈/【<a href="https://Laosheng.top/fuwu" target="_top">服务</a>】/高校所
+⏩老生常谈 /【<a href="https://Laosheng.top/fuwu" target="_top">服务</a>】/ 高校所
 </div>
 
 <h3>数据来源有关部门</h3>
@@ -28,12 +27,12 @@
 
 *	[军事高等院校](#D81){:target="_top"} 44所	<sup>部分参与高招</sup>
 *	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2916**所，其中本科1328所
-	* 部属本科高校 114所🥇 <small>=[中管高校](#D1){:target="_top"}❗31所+普通部本❕83所</small>
-	* 省属本科高校 786所🥈 <small>（多为‘二本’）</small>
+	* 部属本科高校 114所🥇 <small>= [中管高校](#D1){:target="_top"}❗31所+普通部本❕83所</small>
+	* 省属本科高校 786所🥈 <small>　多为二本</small>
 	* 　　民办本科 428所 ¥ <sup>含12所境外合作</sup> <small>省教育厅主管</small>
-	* 　　专科院校1588所：<small>=部属❕4所+省属1166所+民办¥418所</small> <sup>含3所境外合作</sup>
+	* 　　专科院校1588所：<small>= 部属❕4所+省属1166所+民办¥418所</small> <sup>含3所境外合作</sup>
 *	[港澳普通高校](#D3){:target="_top"} 32所，其中21所🔖向高考招生  
-　　以上合计 2992所，Laosheng.top 2025年6月统计
+　以上合计 2992所，Laosheng.top  2025年6月统计
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
@@ -144,7 +143,7 @@
 　　在114所中央部委直属的普通高校中有31所‘中管高校’（标记❗），书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》。
 所有中管高校均为985和双一流建设高校，网站表现出较高水准，域名与网页路径稳定，这里列出他们的主要页面。各校按十九届中央巡视公告排序：
 
-1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn '五四运动')</b>	 PKU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](http://www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](https://ocac.pku.edu.cn/)	⠀+北京医科大。[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
+1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn '五四运动')</b>	 Peking 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](http://www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](https://ocac.pku.edu.cn/)	⠀+北京医科大。[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
 2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn '庚子赔款')</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](http://www.tsinghua.edu.cn/zsjy.htm) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)	⠀+中央工艺美院。[五道口金融](https://www.pbcsf.tsinghua.edu.cn/)、[长庚医院](http://www.btch.edu.cn/)、[CERNET](https://www.cernet.edu.cn/)核心</small>  
 3 <sup>教育部</sup>❗ <b>[中国人民大学](http://www.ruc.edu.cn '抗日烽火')</b>	 RUC 北京 <sub>海淀区</sub>⠀	[院系页](http://www.ruc.edu.cn/cn/departments/marxism.html)⠀	[机构页](http://www.ruc.edu.cn/cn/about/organizational.html)⠀<small>	[招生办](https://rdzs.ruc.edu.cn/) /	[图书馆](http://www.lib.ruc.edu.cn/) /	[校园网](https://it.ruc.edu.cn/)	⠀[国家版权贸易基地](http://www.copyrightruc.com/)</small>  
 4 <sup>教育部</sup>❗ <b>[北京师范大学](http://www.bnu.edu.cn '京师大学堂师范馆')</b>	 BNU 北京 <sub>海淀区</sub>⠀	[院系页](http://www.bnu.edu.cn/xbyx/)⠀	[机构页](http://www.bnu.edu.cn/zzjg/)⠀<small>	[招生办](https://admission.bnu.edu.cn/) /	[图书馆](http://www.lib.bnu.edu.cn/) /	[校园网](https://info.bnu.edu.cn/)	⠀珠海分院、第三附属中学</small>  
@@ -342,9 +341,9 @@
 
 　　香港澳门是两个大城市，合计有30余所大学，一半多院校面向大陆招生，请注意政策变化。港澳台教育制度与大陆(内地)有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。
 
-**香港**　22所高校（12 $）自资营运≈民办
+<h3>香港高校22所</h3>
 
-　　其中15所面向大陆普通高考招生，标记🔖
+　　含12所 $自资营运(≈民办)。15所面向大陆普通高考招生，标记🔖
 
 　1 [香港大学](http://www.hku.hk)🔖 香港岛薄扶林
 　2 [香港中文大学](http://www.cuhk.edu.hk)🔖 新界沙田
@@ -370,9 +369,9 @@
 　21 $[香港伍伦贡学院](http://www.cccu.edu.hk) 
 　22 $[耀中幼教学院](http://www.yccece.edu.hk) 
 
-**澳门**　10所高校（6 $）私立≈民办
+<h3>澳门高校10所</h3>
 
-　　其中6所面向大陆普通高考招生，标记🔖
+　　含6所 $私立(≈民办)。6所面向大陆普通高考招生，标记🔖
 
 　1 [澳门大学](http://www.um.edu.mo)🔖 氹仔大學大馬路
 　2 [澳门理工大学](http://www.ipm.edu.mo)🔖 
@@ -385,7 +384,9 @@
 　9 $[澳门管理学院](http://www.mim.edu.mo) 
 　10 $[中西创新学院](http://www.mmc.edu.mo) 
 
-**台湾**　近150所高校（101 $），请见[新高考](gaokao#D5)页面。
+<h3>**台湾高校近150所</h3>
+
+　　含101所 $私立(≈民办)。约一百所面向大陆招生，请见[新高考](gaokao#D5)页面。
 
 
 <div align="right" id="D4">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
@@ -417,14 +418,12 @@
 　　2015年10月，国务院印发《统筹推进世界一流大学和一流学科建设总体方案》，2016年，部分“985工程”与“211工程”文件失效。‘双一流’建设方案在遴选上加入滚动淘汰机制，通过一流学科的建设带动大学整体的发展并最终建成世界一流大学。  
 　　2022年2月8日，教育部提出“逐步淡化“”高校的身份色彩”，将一流大学建设高校和一流学科建设高校统称为“双一流”建设高校。　“双一流”高校数量共有147所🤲，本页不作标记。原985工程高校均进入了一流大学建设名单，原211工程高校均至少有一个学科进入一流学科建设名单。
 
-
 <h3>'国防七子'是哪七所高校？</h3>
 
 　　国防七子是指由1961年原国防科委直属、现由**工信部**（加挂[国防科工局](https://www.sastind.gov.cn/)牌子）直属的七所国防工业类院校：哈工大、哈工程、西工大、北航、南航、北理工、南理工。
 
 　　2020年5月、12月，美国商务部[工业与安全局(BIS)](https://www.commerce.gov/bureaus-and-offices/bis)分两批将110个中国机构列入被制裁的‘实体清单’(Entity List)，不许从美国购买商品、软件和技术。这份清单中包含18所中国高校，上面的国防七子全部在列。  
 　　这份名单是动态调整的，后来，美国的国防部、财政部、国土安全部也推出了各种制裁清单，名单上已超过一千家，比如：中国航天科工的研究所和工厂、中国电科集团的研究所和公司、华为在世界各地的分公司、克拉玛依市公安局🙄……在美国[电子联邦法规](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C)(eCFR)网站，点击最下方：Part 774  The Commerce Control List，可以查到一份很长很长的汇总清单。
-
 
 <h3>什么是https安全连接？</h3>
 
@@ -542,8 +541,8 @@
 *	202306，已更新到2023年版高校名单3000所+44所军校，收录网址超2000，v0.4.2~v0.6.7。
 *	202305，已收录2022年版全部高校名单3013+44所，v0.3.0上线。后增补港澳台院校180所。
 
-
 <div align="right" id="D6">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
+
 
 〖后记〗
 -------
