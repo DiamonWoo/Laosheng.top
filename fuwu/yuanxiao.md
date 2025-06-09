@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
-大萌	　2023-2025（近两年新校网址检查中）
+大萌	　2023-2025（院校网址变动检查中）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
@@ -37,9 +37,9 @@
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)
-*	院校[标记与问答](#D4){:target="_top"}：什么是211、985？什么是国防七子？  
-	　　什么是https？怎么学校网站打不开？
-*	[改革近况](#D5){:target="_top"}与更新：近年院校变更(新校)、[数据来源](#D53){:target="_top"}、LSIP进度、〖[后记](#D6){:target="_top"}〗
+*	[院校标记](#D4){:target="_top"}与问答：什么是211、985？什么是国防七子？  
+	　　[什么是https](#D43){:target="_top"}？怎么学校网站打不开？
+*	改革近况与更新：[近年院校变更](#D5){:target="_top"}(新校)、数据来源、[LSIP进度](#D53){:target="_top"}、〖[后记](#D6){:target="_top"}〗
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
@@ -431,6 +431,8 @@
 
 　　2020年5月、12月，美国商务部[工业与安全局(BIS)](https://www.commerce.gov/bureaus-and-offices/bis)分两批将110个中国机构列入被制裁的‘实体清单’(Entity List)，不许从美国购买商品、软件和技术。这份清单中包含18所中国高校，上面的国防七子全部在列。  
 　　这份名单是动态调整的，后来，美国的国防部、财政部、国土安全部也推出了各种制裁清单，名单上已超过一千家，比如：中国航天科工的研究所和工厂、中国电科集团的研究所和公司、华为在世界各地的分公司、克拉玛依市公安局🙄……在美国[电子联邦法规](https://www.ecfr.gov/current/title-15/subtitle-B/chapter-VII/subchapter-C)(eCFR)网站，点击最下方：Part 774  The Commerce Control List，可以查到一份很长很长的汇总清单。
+
+<div align="right" id="D43">Laosheng.<a href="#tupu" target="_top">Top</a>↑</div>
 
 <h3>什么是https安全连接？</h3>
 
