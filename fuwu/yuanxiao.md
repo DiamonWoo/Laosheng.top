@@ -27,10 +27,10 @@
 
 *	[军事高等院校](#D81){:target="_top"} 44所　<sup>部分参与高招</sup>
 *	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2916**所，其中本科1328所
-	* 部属本科高校 114所🥇 <small>= [中管高校](#D1){:target="_top"}❗31所+普通部本❕83所</small>
-	* 省属本科高校 786所🥈 <small>　多为二本</small>
-	* 　　民办本科 428所 ¥ <sup>含12所境外合作</sup> <small>省教育厅主管</small>
-	* 　　专科院校1588所：<small>= 部属❕4所+省属1166所+民办¥418所</small> <sup>含3所境外合作</sup>
+	* ❕部属本科高校 114所🥇<small>　含❗[中管高校](#D1){:target="_top"}31所</small>
+	* ⠀省属本科高校 786所🥈　<small>多为二本</small>
+	* ⠀　　民办本科 428所⠀¥　<small>省教育厅主管</small> <sup>含12所境外合作</sup>
+	* 　　专科院校 1588所=　<small>❕部属4所+省属1166所+民办¥418所</small> <sup>含3所境外合作</sup>
 *	[港澳普通高校](#D3){:target="_top"} 32所　<sup>部分参与高招</sup>  
 　以上合计 2992所，Laosheng.top  2025年6月统计
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
@@ -39,7 +39,7 @@
 *	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)
 *	[院校标记](#D4){:target="_top"}与问答：什么是211、985？什么是国防七子？  
 	　　[什么是https](#D43){:target="_top"}？怎么学校网站打不开？
-*	改革近况与更新：[近年院校变更](#D5){:target="_top"}(新校)、数据来源、[LSIP进度](#D53){:target="_top"}、〖[后记](#D6){:target="_top"}〗
+*	改革近况与更新：[近年院校变更](#D5){:target="_top"}(新校)、[数据来源](#D53){:target="_top"}、LSIP进度、〖[后记](#D6){:target="_top"}〗
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
