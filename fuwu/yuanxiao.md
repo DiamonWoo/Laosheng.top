@@ -29,10 +29,10 @@
 *	[**各省普通高校** <big>🧳</big>](#DS){:target="_top"}**2916**所，其中本科1328所
 	* ❕部属本科高校 114所🥇<small>　含❗[中管高校](#D1){:target="_top"}31所</small>
 	* ⠀省属本科高校 786所🥈　<small>多为二本</small>
-	* 　　¥民办本科 428所　　<small>省教育厅主管</small> <sup>含12所境外合作</sup>
+	* 　⠀¥ 民办本科 428所：　<small>省教育厅主管</small> <sup>含12所境外合作</sup>
 	* 　　专科院校 1588所=　<small>❕部属4所+省属1166所+民办¥418所</small> <sup>含3所境外合作</sup>
 *	[港澳普通高校](#D3){:target="_top"} 32所　<sup>部分参与高招</sup>🔖  
-　以上合计 2992所，Laosheng.top  2025年5月统计
+　以上合计 2992所，Laosheng.top  2025年5月数据
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
 *	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
