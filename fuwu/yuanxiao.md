@@ -35,8 +35,8 @@
 　以上合计 2992所，Laosheng.top  2025年5月数据
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
 *	成人高等院校，249所，收录于本站[gaokao](gaokao#D4)页，<small>高升专/专升本/高升本</small>。
-*	党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)
-*	宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)
+*	<small>党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)</small>
+*	<small>宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)</small>
 *	[院校标记](#D4){:target="_top"}与问答：什么是✌️211、✊985？什么是国防七子？  
 	　　[什么是https](#D43){:target="_top"}？怎么学校网站打不开？
 *	改革近况与更新：[近年院校变更](#D5){:target="_top"}(新校)、[数据来源](#D53){:target="_top"}、LSIP进度、〖[后记](#D6){:target="_top"}〗
