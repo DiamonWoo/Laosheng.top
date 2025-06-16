@@ -1,3 +1,5 @@
+<base target="_blank">
+<meta name='keywords' content='中国大学名录 中国大学网址全集'>
 
 C 军事高等院校
 ------------
