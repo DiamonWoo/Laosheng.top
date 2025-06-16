@@ -1,11 +1,9 @@
-<base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
-<meta name='keywords' content='中国大学名录 中国大学网址全集'>
-<meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
-
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
 大萌	　2023-2025（点校完成）
+<base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
+<meta name='keywords' content='中国大学名录 中国大学网址全集'>
+<meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
