@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
-大萌	　2023-2025（点校完成）
+大萌	　2023-2025（继续清点）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学名录 中国大学网址全集'>
 <meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
@@ -58,10 +58,10 @@
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
 <sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
-<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small>  
-<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small>  
+<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队，[军网介绍](http://www.81.cn/jx_208569/10193239.html)</small>  
+<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队，[军网介绍](http://www.81.cn/yw_208727/16389819.html)</small>  
 <sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[军网介绍](http://www.81.cn/jx_208569/16387701.html)</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，原陆军勤务/交通学院</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，[央广介绍](https://military.cnr.cn/jq/20250530/t20250530_527190152.shtml)，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">	<!-- overflow-x: hidden 右侧显示不全 -->
@@ -73,15 +73,15 @@
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;　<font color="skyblue">▅</font></td>
 </tr><tr>
-	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+军械+重庆通信，<a href="http://www.81.cn/jx_208569/10137233.html">军网介绍</a></small></td>
+	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+军械+重庆通信，<a href="https://mp.weixin.qq.com/s/-LKZm7SRy_SS4F6zuR8vWQ">2025招生</a></small></td>
 	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162409.html">军网介绍</a></small></td>
 	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/5193807838">微博</a>、<a href="https://www.81.cn/jx_208569/10162383.html">军网介绍</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
-	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://www.81.cn/jx_208569/10162476.html">军网介绍</a></small></td>
+	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://mp.weixin.qq.com/s/OcaMXXm-yRaUGMg7eIDGeQ">2025招生</a></small></td>
 	<td>	<a href="http://ao.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，<a href="https://www.81.cn/jx_208569/10162787.html">军网介绍</a></small></td>
 	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://www.81.cn/jx_208569/10162452.html">军网介绍</a></small></td>
 </tr><tr>
-	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，装甲兵+炮兵防空</small></td>
+	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，<a href="https://mp.weixin.qq.com/s/vEkOTO-wXA2v601WvHUilw">2025招生</a></small></td>
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="http://www.81.cn/jx_208569/10162405.html">军网介绍</a></small></td>
 	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10136745.html">军网介绍</a></small></td>
 </tr><tr>
@@ -126,7 +126,7 @@
 	<td align="right">　🚀　</td>
 	<td>	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
 </tr><tr>
-	<td></td>
+	<td align="center"><small>中国军校2025</small></td>
 	<td>	武警海警学院	<sub>宁波市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a>，有微信号</small></td>
 </tr><tr>
 	<td align="center"><small>高等院校三千所</small></td>
@@ -567,7 +567,7 @@
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 1.2.2	202506
+	高等院校三千所	Version 1.2.3	202506
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
