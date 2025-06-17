@@ -60,22 +60,23 @@ C 军事高等院校
 
 <table>
 <tr>
-  <td width="20" rowspan="4" >中央军委</td>
+  <td width="20" rowspan="4" valign="top" >中<br>央<br>军<br />委</td>
 	<td >**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small></td>
-	<td width="20" rowspan="5" >军委四兵种</td>
+	<td width="20" rowspan="5" valign="top" >军<br>委<br>四<br>兵<br>种</td>
 	<td >军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small></td>
 </tr>  <tr>
-	<td>[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<br />
-	<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small></td>
+	<td><a title="原哈军工+长沙炮兵/工程兵/政治学院" href="https://www.nudt.edu.cn"><b>国防科技大学</b></a>	⭐✊<sub>长沙市</sub>
+	⠀<small>有<a title="" href="https://weibo.com/7127745503">微博</a></small></td>
 	<td>网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small></td>
 </tr>  <tr>
-	<td rowspan="2"><div align="center"><img src="pic/junqi-50.png" /></div></td>
+	<td>&nbsp;</td>
 	<td>信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>[军网介绍](http://www.81.cn/jx_208569/16387701.html)</small></td>
 </tr>  <tr>
+	<td><div align="center"><img src="pic/junqi-50.png" /></div></td>
 	<td>联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small></td>
 </tr>  <tr>
 	<td width="20">&nbsp;</td>
-	<td>中国军校2025</td>
+	<td><div align="center">中国军校2025</div></td>
 	<td>联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small></td>
 </tr>
 </table>
