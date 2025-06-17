@@ -75,15 +75,15 @@
 </tr><tr>
 	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+重庆通信，微信号<a href="https://mp.weixin.qq.com/s/-LKZm7SRy_SS4F6zuR8vWQ">陆工大</a></small></td>
 	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small>微信号<a href="https://mp.weixin.qq.com/s/c0qrWnjxh-s3jrBQ_b8z-g">海工大</a></small></td>
-	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/5193807838">微博</a>、<a href="https://www.81.cn/jx_208569/10162383.html">军网介绍</a></small></td>
+	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>微博<a href="https://weibo.com/5193807838">印象空工大</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
 	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://mp.weixin.qq.com/s/OcaMXXm-yRaUGMg7eIDGeQ">2025招生</a>wx</small></td>
-	<td>	<a href="http://ao.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，<a href="https://www.81.cn/jx_208569/10162787.html">军网介绍</a></small></td>
-	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://www.81.cn/jx_208569/10162452.html">军网介绍</a></small></td>
+	<td>	<a href="http://ao.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，wx<a href="https://mp.weixin.qq.com/s/dm5cuuw1T6A95VXEor9_-Q">2025招生</a>wx</small></td>
+	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://mp.weixin.qq.com/s/eWAy7NLU56e_jWD09rF_Hg">2025招生</a>wx</small></td>
 </tr><tr>
 	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，<a href="https://mp.weixin.qq.com/s/vEkOTO-wXA2v601WvHUilw">2025招生</a>wx</small></td>
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="http://www.81.cn/jx_208569/10162405.html">军网介绍</a></small></td>
-	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10136745.html">军网介绍</a></small></td>
+	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx 预警空天</small></td>
 </tr><tr>
 	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small>有微信号</small>　☁🚁☁☁🪂</td>
 	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞</a></small></td>
