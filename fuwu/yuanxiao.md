@@ -56,17 +56,32 @@
 　　多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。多数军校没有公开网站。
 　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
-<sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
-<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
-<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small>  
-<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small>  
-<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[军网介绍](http://www.81.cn/jx_208569/16387701.html)</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，原陆军勤务/交通学院</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
-
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">	<!-- overflow-x: hidden 右侧显示不全 -->
+
+<table>
+<tr>
+  <td width="20" rowspan="4" valign="top" >中<br>央<br>军<br />委</td>
+	<td ><b>国防大学</b>	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small></td>
+	<td width="20" rowspan="5" valign="top" >军<br>
+    委<br>四<br>兵<br>种</td>
+	<td >军事航天部队<b>航天工程大学</b>	⭐<sub>北京市</sub>⠀<small>原战略支援部队</small></td>
+</tr>  <tr>
+	<td><a title="原哈军工+长沙炮兵/工程兵/政治学院" href="https://www.nudt.edu.cn"><b>国防科技大学</b></a>	⭐✊<sub>长沙市</sub>
+	⠀<small>有<a title="" href="https://weibo.com/7127745503">微博</a></small></td>
+	<td>网络空间部队<b>信息工程大学</b>	⭐<sub>郑州市</sub>⠀<small>原战略支援部队</small></td>
+</tr>  <tr>
+	<td><small>原哈军工+长沙炮兵/工程兵/政治学院</small>&nbsp;</td>
+	<td>信息支援部队<b>工程大学</b>	⭐<sub>武汉市</sub>⠀<small><a href="http://www.81.cn/jx_208569/16387701.html">军网介绍</a></small></td>
+</tr>  <tr valign="top">
+	<td align="center"><img src="pic/junqi-50.png" /><br>
+	中国军校2025</td>
+	<td>联勤保障部队<b>工程大学</b>	⭐<sub>重庆市</sub>⠀<small>原陆军勤务/交通学院</small>
+	<br>联勤保障部队<a href="https://www.301hospital.com.cn"><b>解放军医学院</b></a>	<sub>北京市</sub>⠀<small>301总医院</small></td>
+</tr>
+</table>
+
 <table align="center" border="0" summary="陆海空军校阵列" style="min-width:900px;">	<!--width="1200"-->
-<caption>中国军校2025</caption>
+<!--<caption>中国军校2025</caption>-->
 <tr>	<!--tr align="left"-->
 	<td>	<b>陆军指挥学院</b>	<sub>南京市</sub>⠀<small>源于新四军</small>　　<font color="green">▅</font></td>
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
@@ -126,12 +141,12 @@
 	<td>	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td></td>
-	<td>	武警海警学院	<sub>宁波市</sub>⠀<small>有微信号，<a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a></small></td>
+	<td>	武警海警学院	<sub>宁波市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a>，有微信号</small></td>
 </tr><tr>
-	<td align="center">《中国军校2025》</td>
+	<td align="center"><small>高等院校三千所</small></td>
 	<td>	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
-	<td align="center"><small>首发于老生常谈网站</small></td>
+	<td align="center"><small>老生常谈网站</small></td>
 	<td>	武警士官学校	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
@@ -563,7 +578,7 @@
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 1.2.1	202506
+	高等院校三千所	Version 1.2.2	202506
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
