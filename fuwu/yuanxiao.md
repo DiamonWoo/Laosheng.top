@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
-大萌	　2023-2025（继续清点）
+大萌	　2023-2025（军校招生计划全部更新）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学名录 中国大学网址全集'>
 <meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
@@ -57,11 +57,11 @@
 　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
-<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>有[微博](https://weibo.com/7127745503)</small>，原哈军工+长沙炮兵/工程兵/政治学院，[2025招生](https://www.nudt.edu.cn/bkzs/)  
+<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>有[微博](https://weibo.com/7127745503)、微信号</small>，原哈军工+长沙炮兵/工程兵/政治学院，[本科招生](https://www.nudt.edu.cn/bkzs/)edu  
 <sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队，[2025招生](https://mp.weixin.qq.com/s/6ZDTg559GZAZpXXwJXZ0Ug)wx</small>  
-<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队，有[微博](https://weibo.com/u/7737280149)，有微信号</small>  
-<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[2025招生](http://www.81.cn/yw_208727/16389819.html)</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，[央广介绍](https://military.cnr.cn/jq/20250530/t20250530_527190152.shtml)，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)</small>  
+<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队，有[微博](https://weibo.com/7737280149)、[微信号](https://mp.weixin.qq.com/s/7rDX9tr_irK4Qa_2tWwv9w)wx</small>  
+<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[2025招生](http://www.81.cn/yw_208727/16389819.html)81</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，[央广介绍](https://military.cnr.cn/jq/20250530/t20250530_527190152.shtml)，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)，[2025招生](https://mp.weixin.qq.com/s/Z4ZN032Mn-j7hF9YB9Wo7Q)wx</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">	<!-- overflow-x: hidden 右侧显示不全 -->
@@ -85,13 +85,13 @@
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="https://mp.weixin.qq.com/s/Qa2Hdb61cMTnudI0KcrRLg">2025招生</a>wx</small></td>
 	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx 预警空天</small></td>
 </tr><tr>
-	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small>有微信号</small>　☁🚁☁☁🪂</td>
-	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞</a></small></td>
-	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a>　<a href="https://www.kjzfw.mil.cn">空军招飞</a></small></td>
+	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small>低空利剑wx</small>　☁🚁☁☁🪂</td>
+	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞网</a></small></td>
+	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a>　<a href="https://www.kjzfw.mil.cn">空军招飞网</a></small></td>
 </tr><tr>
 	<td>	陆军防化学院	⭐<sub>北京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/Ha4N9TSsk5BSpjApNs-28Q">2025招生</a>wx</small></td>
-	<td>	<a href="https://www.qtxy.mil.cn">海军潜艇学院</a>	⭐<sub>青岛市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162414.html">军网介绍</a></small></td>
-	<td>	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small>有<a href="https://weibo.com/hafeiyuan">微博</a></small></td>
+	<td>	<a href="https://www.qtxy.mil.cn">海军潜艇学院</a>	⭐<sub>青岛市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/6ssJhCV49L19C62y_KvdCw">2025招生</a>wx 中国潜院</small></td>
+	<td>	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small><a href="https://weibo.com/hafeiyuan">哈飞院</a>wb</small></td>
 </tr><tr>	<!-- tr bgcolor="#CCFFFF" 背景色无效，被模板覆盖 -->
 	<td>	陆军步兵学院	⭐<sub>南昌市</sub>⠀<small>☭ 红军学校，<a href="https://mp.weixin.qq.com/s/WQTSZGaAmz-9SHy3aMIPzA">2025招生</a>wx</small></td>
 	<td align="right">	🛦🛦🛦　</td>
@@ -117,17 +117,17 @@
 	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　　<font color="gold">▅</font></td>
 	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　　<font color="green"><b>☰</b></font></td>
 </tr><tr>
-	<td>	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small>有<a href="https://weibo.com/6977918761">微博</a>，<a href="http://www.81.cn/jx_208569/10162462.html">军网介绍</a></small></td>
-	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="http://www.81.cn/rdzt/2014/0421bkjx/2014-05/20/content_5910963.htm">军网介绍</a></small></td>
+	<td>	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://www.epgc.mil.cn/">招生网</a>，有<a href="https://weibo.com/6977918761">微博</a>、微信号</small></td>
+	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/YhhOkKkWcqFvEl4X7Bt4ig">2025招生</a>wx</small></td>
 </tr><tr>
 	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
-	<td>	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162491.html">军网介绍</a></small></td>
+	<td>	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/GBcv6wUhXHUMxgNkQr7CDA">2025招生</a>wx</small></td>
 </tr><tr>
 	<td align="right">　🚀　</td>
 	<td>	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
 </tr><tr>
 	<td align="center"><small>中国军校2025</small></td>
-	<td>	武警海警学院	<sub>宁波市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a>，有微信号</small></td>
+	<td>	武警海警学院	<sub>宁波市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a>，<a href="https://mp.weixin.qq.com/s/-UYNWfqJWTKlqEqtmmgSRg">联合培养</a></small></td>
 </tr><tr>
 	<td align="center"><small><small>高等院校三千所</small></small></td>
 	<td>	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
@@ -513,6 +513,7 @@
 
 <h3>数据来源</h3>
 
+*	20250618，[高考100网站提供](https://www.gk100.com/read_57641627.htm)：军校2025年招生简章微信号。
 *	202506--，《全国高等学校名单》等待教育部公布。
 *	20240621，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202406/t20240621_1136990.html)》，分普通高校和成人高校两个.xls文件。
 *	20230619，教育部公布《[全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202306/t20230619_1064976.html)》，分普通高校和成人高校两个.xls文件。
@@ -531,6 +532,7 @@
 		　设计LC = 2927　	=27+2868+32　军+普+港澳
 		　完成率 = 　98.1%	已实际完成
 
+*	202506，军校招生计划全部更新至2025版。
 *	202506，增补10所院校网址，内地院校网址填充率达到 97.9%。
 *	202506，已吸收2025年度第二批专科变更情况，等待官网公布年度名单。
 *	202505，已吸收军校变更情况。
