@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
-大萌	　2023-2025（军校招生计划全部更新）
+大萌	　2023-2025（更新军校招生）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学名录 中国大学网址全集'>
 <meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
@@ -78,14 +78,14 @@
 	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>微博<a href="https://weibo.com/5193807838">印象空工大</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
 	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://zs.tmmu.edu.cn/zsjy/">招生网</a></small></td>
-	<td>	<a title="www.官网禁校外访问 400"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，<a href="http://ao.smmu.edu.cn/">招生网</a></small></td>
+	<td>	<a title="www.官网禁校外访问 400"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，</small><a href="http://ao.smmu.edu.cn/">招生网</a></td>
 	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://www.fmmu.edu.cn/zhaosheng/">本科招生</a></small></td>
 </tr><tr>
 	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，<a href="https://mp.weixin.qq.com/s/vEkOTO-wXA2v601WvHUilw">2025招生</a>wx</small></td>
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="https://mp.weixin.qq.com/s/Qa2Hdb61cMTnudI0KcrRLg">2025招生</a>wx</small></td>
 	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx 预警空天</small></td>
 </tr><tr>
-	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small>低空利剑wx</small>　☁🚁☁☁🪂</td>
+	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small>低空利剑wx</small>　🚁☁☁🪂</td>
 	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞网</a></small></td>
 	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a>　<a href="https://www.kjzfw.mil.cn">空军招飞网</a></small></td>
 </tr><tr>
@@ -117,7 +117,7 @@
 	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　　<font color="gold">▅</font></td>
 	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　　<font color="green"><b>☰</b></font></td>
 </tr><tr>
-	<td>	<b>火箭军工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://www.epgc.mil.cn/">招生网</a>，有<a href="https://weibo.com/6977918761">微博</a>、微信号</small></td>
+	<td>	<a title="招生网" href="https://www.epgc.mil.cn/"><b>火箭军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://weibo.com/6977918761">火大青春</a>wb、<a href="https://mp.weixin.qq.com/s/44CxocTmqZtHsj9agKtUWg">2025招生</a>wx</small></td>
 	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/YhhOkKkWcqFvEl4X7Bt4ig">2025招生</a>wx</small></td>
 </tr><tr>
 	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
