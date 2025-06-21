@@ -6,6 +6,26 @@
 
 　　euro.edu
 
+	ISO	国别名	认证数
+	FR	法国	530		RS	塞尔维亚	17
+	DE	德国	284		BG	保加利亚	16
+	IT	意大利	187		CY	塞浦路斯	16
+	PL	波兰	82 		IE	爱尔兰	14
+	ES	西班牙	71 		SK	斯洛伐克	13
+	NL	荷兰	47 		GR	希腊	12
+	AT	奥地利	43 		AL	阿尔巴尼亚	6
+	BE	比利时	39 		SI	斯洛文尼亚	6
+	FI	芬兰	35 		HR	克罗地亚	5
+	SE	瑞典	31 		BA	波黑	4
+	HU	匈牙利	31 		IS	冰岛	3
+	RO	罗马尼亚	27 		MT	马耳他	3
+	PT	葡萄牙	27 		MK	北马其顿	2
+	CZ	捷克	26 		ME	黑山	2
+	CH	瑞士	23 		LU	卢森堡	2
+	NO	挪威	21 		MC	摩纳哥	2
+	DK	丹麦	20 		LI	列支敦士登	1
+
+
 <div id="mulu" align="right">
 ⏩老生常谈 
 / <a href="./dir" target="_top">【一带一路】</a>
@@ -15,46 +35,8 @@
 
 ### 简目
 
-　　[2](#2){:target="_top"}、[3](#3){:target="_top"}
-
-	FR	法国	530
-	DE	德国	284
-	IT	意大利	187
-	PL	波兰	82
-	ES	西班牙	71
-	NL	荷兰	47
-	AT	奥地利	43
-	BE	比利时	39
-	FI	芬兰	35
-	SE	瑞典	31
-	HU	匈牙利	31
-	RO	罗马尼亚	27
-	PT	葡萄牙	27
-	CZ	捷克	26
-	CH	瑞士	23
-	NO	挪威	21
-	DK	丹麦	20
-	RS	塞尔维亚	17
-	BG	保加利亚	16
-	CY	塞浦路斯	16
-	IE	爱尔兰	14
-	SK	斯洛伐克	13
-	GR	希腊	12
-	AL	阿尔巴尼亚	6
-	SI	斯洛文尼亚	6
-	HR	克罗地亚	5
-	BA	波黑	4
-	IS	冰岛	3
-	MT	马耳他	3
-	MK	北马其顿	2
-	ME	黑山	2
-	LU	卢森堡	2
-	MC	摩纳哥	2
-	LI	列支敦士登	1
-
-
-
-<div id="1" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+　　法国、[德国](#2){:target="_top"}、[意大利](#3){:target="_top"}、
+……[芬兰](#4){:target="_top"}、[瑞典](#5){:target="_top"}、[挪威](#6){:target="_top"}……
 
 
 认证的法国院校
@@ -1083,14 +1065,128 @@
 	187	亚历山德里亚音乐学院	Conservatorio statale di musica di Alessandria "Antonio Vivaldi"
 
 
+<div id="4" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+认证的芬兰院校
+--------------
+35所
+
+	1	奥卢大学	University of Oulu
+	2	奥卢应用科学大学	Oulu University of Applied Sciences
+	3	奥博学术大学	Åbo Akademi University
+	4	阿卡达应用科学大学	Arcada University of Applied Sciences
+	5	阿尔托大学	Aalto University
+	6	城市应用科学大学	Metropolia University of Applied Sciences
+	7	东芬兰大学	University of Eastern Finland
+	8	迪亚科尼亚应用科学大学	Diaconia University of Applied Sciences
+	9	芬兰东南应用科学大学	South-Eastern Finland University of Applied Sciences
+	10	海门应用科学大学	Häme University of Applied Sciences
+	11	赫尔辛基大学	University of Helsinki
+	12	汉肯经济学院	Hanken School of Economics
+	13	哈格哈里亚应用科学大学	Haaga-Helia University of Applied Sciences
+	14	赫尔辛基艺术大学	University of the Arts Helsinki
+	15	卡亚尼应用科学大学	Kajaani University of Applied Sciences
+	16	卡累利阿应用科学大学	Karelia University of Applied Sciences
+	17	LAB应用科学大学	LAB University of Applied Sciences
+	18	拉普兰大学	University of Lapland
+	19	拉普兰应用科学大学	Lapland University of Applied Sciences
+	20	拉瑞尔应用科学大学	Laurea University of Applied Sciences
+	21	拉彭兰塔-拉赫蒂工业大学	Lappeenranta-Lahti University of Technology LUT
+	22	诺维亚应用科学大学	Novia University of Applied Sciences
+	23	人文应用科学大学	Humak University of Applied Sciences
+	24	萨沃尼亚应用科学大学	Savonia University of Applied Sciences
+	25	萨塔昆塔应用科学大学	Satakunta University of Applied Sciences
+	26	塞伊奈约基应用科学大学	Seinäjoki University of Applied Sciences
+	27	图尔库大学	University of Turku
+	28	坦佩雷大学	Tampere University
+	29	坦佩雷应用科学大学	Tampere University of Applied Sciences
+	30	图尔库应用科学大学	Turku University of Applied Sciences
+	31	瓦萨大学	University of Vaasa
+	32	瓦萨应用科学大学	Vaasa University of Applied Sciences
+	33	于韦斯屈莱大学	University of Jyväskylä
+	34	于韦斯屈莱应用科学大学	JAMK University of Applied Sciences
+	35	中博腾应用科学大学	Centria University of Applied Sciences
+
+
+<div id="5" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+认证的瑞典院校
+--------------
+31所
+
+	1	布莱京理工学院	Blekinge Institute of Technology
+	2	贝克曼斯设计学院	Beckmans Designhögskola
+	3	布罗斯大学学院	Borås University College
+	4	查尔姆斯理工大学	Chalmers University of Technology
+	5	达拉那大学学院	Dalarna University College
+	6	厄勒布鲁大学	Örebro University
+	7	哥德堡大学	University of Gothenburg
+	8	哈尔姆斯塔德大学学院	Halmstad University College
+	9	皇家工学院	Royal Institute of Technology
+	10	克里斯蒂安斯塔德大学学院	Kristianstad University College
+	11	卡罗林斯卡医学院	Karolinska Institutet
+	12	卡尔斯塔德大学	Karlstad University
+	13	林奈大学	Linnaeus University
+	14	吕勒奥工业大学	Luleå University of Technology
+	15	林雪平大学	Linköping University
+	16	隆德大学	Lund University
+	17	马尔默大学	Malmö University
+	18	麦拉达伦大学	Mälardalen University
+	19	瑞典中部大学	Mid Sweden University
+	20	瑞典农业科学大学	Swedish University of Agricultural Sciences
+	21	斯德哥尔摩经济学院	Stockholm School of Economics
+	22	舍伍德大学学院	Skövde University College
+	23	世界海事大学	World Maritime University
+	24	索德脱恩大学学院	Södertörn University College
+	25	斯德哥尔摩大学	Stockholm University
+	26	乌普萨拉大学	Uppsala University
+	27	西部大学学院	University College West
+	28	延雪平大学	Jönköping University
+	29	于默奥大学	Umeå University
+	30	耶夫勒大学学院	Gävle University College
+	31	艺术、工艺与设计大学	Konstfack - University of Arts, Crafts and Design
+
+
+<div id="6" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+认证的挪威院校
+--------------
+21所
+
+	1	奥斯陆国立艺术学院	Oslo National Academy of the Arts
+	2	奥斯陆城市大学	Oslo Metropolitan University
+	3	奥斯陆大学	University of Oslo
+	4	奥斯陆建筑与设计学院	The Oslo School of Architecture and Design
+	5	阿哥德大学	University of Agder
+	6	卑尔根大学	University of Bergen
+	7	卑尔根建筑学院	Bergen School of Architecture
+	8	摩尔德大学学院	Molde University College
+	9	挪威宗教与社会神学院	MF Norwegian School of Theology, Religion and Society
+	10	挪威经济学院	NHH Norwegian School of Economics
+	11	挪威商学院	BI Norwegian Business School
+	12	挪威科技大学	Norwegian University of Science and Technology
+	13	挪威生命科学大学	Norwegian University of Life Sciences
+	14	诺尔兰大学	Nord University
+	15	NLA 大学学院	NLA University College
+	16	挪威内陆应用科学大学	Inland Norway University of Applied Sciences
+	17	挪威东南大学	University of South-Eastern Norway	（有东南，没西北）
+	18	挪威音乐学院	Norwegian Academy of Music
+	19	斯塔万格大学	University of Stavanger
+	20	UiT挪威北极圈大学	UiT The Arctic University of Norway
+	21	西挪威应用科学大学	Western Norway University of Applied Sciences
+
+
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见]	(https://Laosheng.Top/c/author)，谢谢！🙇
 
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
-	https://Laosheng.top/ydyl/asia.edu
-	亚洲大学 Alpha	202505
+	https://Laosheng.top/ydyl/euro.edu
+	欧洲大学 Beta	202506
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
