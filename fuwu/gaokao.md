@@ -1,17 +1,18 @@
 人生之路新高考 🕺 <sup>一山更比一山高</sup>
 ================
-大萌	　2023~2025	<base target="_blank">
+大萌	　2023~2025	（即将更新）
+<base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fuwu/gaokao" />
 
 		路漫漫其修远兮，吾将上下而求索 —— 战国《离骚》
 
-<img align='center' title='全国考试日程表' src='kaokaokao.png' alt='人生通关考考考'>
+<img align='center' title='全国考试日程表' src='kaokaokao.png' alt='人生通关考考考，缺图'>
 
 
 　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。2025年全国基本统一为新高考模式，分I、II两卷，重庆市今年改为新课标II卷，只有京津沪三个直辖市各自用本地卷。
-某些地方会有考试科目延长到6月10日。高考总分通常为750分，只有上海与海南特殊，分别为660分、900分。可对比[2024年](2024/gaokao)的试卷类型及志愿填报。
+某些地方会有考试科目延长到6月10日。高考总分通常为750分，只有上海与海南特殊，分别为660分、900分。
 
-　　根据**新高考**改革进程的推进，全国共有五类高考试卷，分布如下：
+　　根据**新高考**改革进程的推进，全国减为三类高考试卷，分布如下：
 <img align='right' title='新高考改革进程图' src='pic/shijuan-2025.png' alt='2025高考三类试卷'>
 
 *	1、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣（11省，青色）
@@ -42,18 +43,12 @@
 
 　　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。
 
-*	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup>慢</sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup>快</sup>
+*	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup></sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup></sup>
 *	<small>CERNET市场化运营</small>'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
 　　各省看下来，大萌感觉 2024年的志愿填报时间更集中，批次更简化，很多省份合并了本一批和本二批，一般分三个批次**填报志愿**：提前批、本科批、专科批；6月底填报提前批/本科批，7月底填报专科批；少数省份只填报两次，甚至一次。招不满学校会再次向考生**征集志愿**。
 
-　　<small>
-各省的颜色不同，表示不同的试卷类型，与上面的地图颜色相同。
-　西藏在6月27日中午才在考试院官网公布填报志愿时间，是全国最后一个，河北山西这个时候都已经完成了提前批的填报。
-　注意，并不是所有关键信息都会公布在网站。比如安徽省的志愿填报时间，用文件下达到中学、用短信通知到考生，但没有公开在考试院的网站。
-</small>
-
-　　2025数据等待更新……
+　　2025日程表等待发布……，可对比[2024年](2024/gaokao)的志愿填报日程表
 
 <img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='70%' alt='各省填报志愿日程表' />	<!--  align='right' -->
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
@@ -61,6 +56,16 @@
 
 教育部门常用网址 🏢
 ----------------
+
+　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
+　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
+	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
+
+　教育部官网 [聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、
+	[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
+	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
+　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
+
 
 　各省<sup>教育厅/局</sup>	考试院/高招办：
 
@@ -105,14 +110,6 @@
 　81-[香港教育局](https://www.edb.gov.hk/sc)
 　82-[澳门教育](https://www.dsedj.gov.mo)及青年发展局
 
-　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
-　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
-	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
-
-　教育部官网[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
-	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
-
 
 <h3>改革近况</h3>
 
@@ -123,7 +120,8 @@
 
 <div align="right" id="pai"><a href="#mulu" target="_top">↑ Top</a></div>
 
-<h3>民间大学排行榜</h3>
+民间大学排行榜
+--------------
 
 　　这里列出一些常见的大学排名网站，他们能够提供更多角度的学校筛选方式。
 
@@ -134,6 +132,15 @@
 *	(美国)[U.S.News](https://www.usnews.com/education/best-global-universities/rankings "美式全球大学排名")🍴 最早发起大学排名的《美国新闻与世界报道》网站
 *	(英国)THE排名 [泰晤士高等教育](https://www.TimesHigherEducation.com)📍
 *	(英国)QS世界大学排名 [QS中国](https://www.QSchina.cn)📍
+
+<h3>高考志愿填报 参考网站</h3>
+
+*	教育部阳光高考[专业知识库](https://gaokao.chsi.com.cn/zyk/zybk/)，可搜索开设某个专业的所有高校。
+*	教育部[国家智慧教育](https://www.smartedu.cn/)公共服务平台，考生可以提前了解专业课程内容。
+*	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
+*	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
+*	(北京)中国教育在线/高考网的[模拟志愿填报](https://mnzy.gaokao.cn/)，可以提前熟悉高考志愿填写，查看院校往年录取分数。
+*	[国防部](http://www.mod.gov.cn/gfbw/gffw/zs/)网站招生栏目每年会发布军校招生简章
 
 
 <div align="right" id="qa"><a href="#mulu" target="_top">↑ Top</a></div>
@@ -151,16 +158,7 @@ QA 高考志愿常见问题 💬
 　某个专业的供求关系。　供，是各院校专业在该省的招生名额与录取批次；求，是报考该专业的考生。传统的顺序录取(志愿学校优先)会导致考生落选志愿学校后继续失去同批次其他学校的竞争权，造成‘高分低录’现象；新的‘平行志愿’(分数优先)排除了这个问题。
 
 <h3>大萌，你觉得志愿要怎么填？</h3>
-　粗选学校、严选专业。极端分数，一人一策。
-
-<h3>高考志愿填报 参考网站</h3>
-
-*	教育部阳光高考[专业知识库](https://gaokao.chsi.com.cn/zyk/zybk/)，可搜索开设某个专业的所有高校。
-*	教育部[国家智慧教育](https://www.smartedu.cn/)公共服务平台，考生可以提前了解专业课程内容。
-*	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
-*	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
-*	(北京)中国教育在线/高考网的[模拟志愿填报](https://mnzy.gaokao.cn/)，可以提前熟悉高考志愿填写，查看院校往年录取分数。
-*	[国防部](http://www.mod.gov.cn/gfbw/gffw/zs/)网站招生栏目每年会发布军校招生简章
+　不要问我，去问熟悉你还对你好的人，比如你的某位老师。
 
 
 <div align="right" id="tw"><a href="#mulu" target="_top">↑ Top</a></div>
@@ -168,7 +166,7 @@ QA 高考志愿常见问题 💬
 台湾普通高校名单 🏫
 ---------------
 
-　　台高校近150所，过去曾有约一百所院校面向大陆招生，请注意政策变化。台湾教育制度与大陆有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。
+　　台高校近150所，过去曾有约一百所院校面向大陆招生，请注意政策变化。台湾教育制度与大陆有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。（略有变动待更新）
 
 
 **台湾**　148所高校（101 $）私立≈民办
@@ -340,7 +338,7 @@ QA 高考志愿常见问题 💬
 ------------
 （不含港澳台）
 
-　　249所，含15所部属 ❕，2所民办 ¥：108 上海医药、197 广东新华。<small>
+　　249所，含15所部属 ❕，2所民办 ¥：108 上海医药、197 广东新华。（略有变动待更新）<small>
 
 　1	北京市海淀区职工大学	<i>中关村学院</i>
 　2	北京市东城区职工业余大学
@@ -615,7 +613,7 @@ QA 高考志愿常见问题 💬
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.4.1	202506
+	人生之路新高考	V0.4.2	202506
 	https://Laosheng.top/fuwu/gaokao
 ```
 
