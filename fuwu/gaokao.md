@@ -55,17 +55,16 @@
 教育部门常用网址 🏢
 ----------------
 
-　教育部 [MOE官网](http://www.moe.gov.cn) / [教育考试院](https://www.neea.edu.cn/)；
-　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
-	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
+　[教育部官网](http://www.moe.gov.cn)MOE / 官方微博：[微言教育](https://weibo.com/jybxwb) 粉丝超800万、
+	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……
 
-　教育部官网 [聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、<del>
-	[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
-	[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
+*	[聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、<del>
+	[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)
+、	[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
+*	指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各校招生办](https://gaokao.chsi.com.cn/gdwz.do)/省招考办
+*	[教育考试院](https://www.neea.edu.cn/)；
 
-
-　各省<sup>教育厅/局</sup>	考试院/高招办：
+　<sup>教育厅/局</sup>	**各省考试院/高招办**：
 
 　<sup>11-[市教委](http://jw.beijing.gov.cn)</sup>	北京[考试院](https://www.bjeea.cn)
 　<sup>12-[市教委](https://jy.tj.gov.cn)</sup>	天津[考试院](http://www.zhaokao.net)
@@ -606,7 +605,7 @@ QA 高考志愿常见问题 💬
 *	20240607　[中国教育在线](https://gaokao.eol.cn/news/202406/t20240607_2615074.shtml)：全国乙卷没了，2024年高考各省份试卷类型是什么？
 *	20240612　大皖新闻发布于腾讯网：[安徽高考考生志愿网上填报办法](https://new.qq.com/rain/a/20240612A03IVH00)公布，此文件在省考试院官网没有找到。
 *	20240624　四川省教育考试院发布：2024年普通高校[在川招生专业及名额](https://plan.sceea.cn/lkjh.html)介绍，图片版
-*	2023 电视剧《[人生之路](https://s.weibo.com/weibo?q=人生之路)》
+*	2023 电视剧《[人生之路](https://movie.douban.com/subject/35597525/)》
 
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
