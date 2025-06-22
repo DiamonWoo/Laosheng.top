@@ -1,6 +1,6 @@
 人生之路新高考 🕺 <sup>一山更比一山高</sup>
 ================
-大萌	　2023~2025	（即将更新）
+大萌	　202406-202506	（正在更新）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fuwu/gaokao" />
 
@@ -11,22 +11,20 @@
 
 　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。2025年全国基本统一为新高考模式，分I、II两卷，重庆市今年改为新课标II卷，只有京津沪三个直辖市各自用本地卷。
 某些地方会有考试科目延长到6月10日。高考总分通常为750分，只有上海与海南特殊，分别为660分、900分。
-
-　　根据**新高考**改革进程的推进，全国减为三类高考试卷，分布如下：
-<img align='right' title='新高考改革进程图' src='pic/shijuan-2025.png' alt='2025高考三类试卷'>
+<img align='right' title='新高考改革进程图' src='gaokao-shijuan.png' alt='2025高考三类试卷'>
+　　根据[**新高考**改革进程](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)的推进，全国减为三类高考试卷，分布如下：
 
 *	1、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣（11省，青色）
 *	2、新课标II卷：辽吉黑，蒙疆藏，陕甘宁青，山西、广西、云贵琼、川渝（17省，浅绿）
 *	3、全自主命题：京、津、沪（红色）
 
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面**新高考**。  
-　　2025数据正在更新……
 
 <h3 id="mulu">〖新高考〗目录</h3>
 
 +	人生通关考考考（图）
-+	各省志愿填报[日程简表](#ri){:target="_top"} 📅
-+	[教育部](#moe){:target="_top"} 门常用网址 🏢
++	志愿填报[日程表](#ri){:target="_top"} 📅
++	🏢 教育部门[常用网址](#moe){:target="_top"}
 +	民间[大学排行榜](#pai){:target="_top"}
 +	QA 高考志愿[常见问题](#qa){:target="_top"} 💬
 +	[台湾普通高校](#tw){:target="_top"}网站 🏫
@@ -34,23 +32,23 @@
 +	参考文献 
 
 <div align="right" id="ri">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/人生之路新高考
+⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/新高考
 </div>
 
 
-各省志愿填报日程简表 📅
---------------------
+志愿填报日程表 📅
+--------------
 
-　　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。
+　　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。
 
 *	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup></sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup></sup>
 *	<small>CERNET市场化运营</small>'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
-　　各省看下来，大萌感觉 2024年的志愿填报时间更集中，批次更简化，很多省份合并了本一批和本二批，一般分三个批次**填报志愿**：提前批、本科批、专科批；6月底填报提前批/本科批，7月底填报专科批；少数省份只填报两次，甚至一次。招不满学校会再次向考生**征集志愿**。
+<img title='志愿填报日程表' src='gaokao-datetable.png' width='70%' alt='各省填报志愿日程表' />	<!--  align='right' -->
 
-　　2025日程表等待发布……，可对比[2024年](2024/gaokao)的志愿填报日程表
+　　2025日程表陆续更新……，可对比[2024年](2024/gaokao)的志愿填报日程表
 
-<img title='志愿填报日程表' src='tianzhiyuan-2024.png' width='70%' alt='各省填报志愿日程表' />	<!--  align='right' -->
+
 <div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
@@ -61,10 +59,10 @@
 　官方微博：[微言教育](https://weibo.com/jybxwb) 微博粉丝超800万、
 	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……  
 
-　教育部官网 [聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、
+　教育部官网 [聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、<del>
 	[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)专题　
-	<del>[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
-　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省高考改革方案汇总](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
+	[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
+　指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各省招考办](https://gaokao.chsi.com.cn/gdwz.do)(考试院)
 
 
 　各省<sup>教育厅/局</sup>	考试院/高招办：
@@ -613,7 +611,7 @@ QA 高考志愿常见问题 💬
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	人生之路新高考	V0.4.2	202506
+	人生之路新高考	V0.4.3	202506
 	https://Laosheng.top/fuwu/gaokao
 ```
 
