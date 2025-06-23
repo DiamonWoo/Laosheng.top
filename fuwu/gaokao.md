@@ -8,7 +8,6 @@
 
 <img align='center' title='全国考试日程表' src='kaokaokao.png' alt='人生通关考考考，缺图'>
 
-
 　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。2025年全国基本统一为新高考模式，分I、II两卷，重庆市今年改为新课标II卷，只有京津沪三个直辖市各自用本地卷。
 某些地方会有考试科目延长到6月10日。高考总分通常为750分，只有上海与海南特殊，分别为660分、900分。
 <img align='right' title='新高考改革进程图' src='gaokao-shijuan.png' alt='2025高考三类试卷'>
@@ -23,8 +22,8 @@
 <h3 id="mulu">〖新高考〗目录</h3>
 
 +	人生通关考考考（图）
-+	志愿填报[日程表](#ri){:target="_top"} 📅
 +	🏢 教育部门[常用网址](#moe){:target="_top"}
++	志愿填报[日程表](#ri){:target="_top"} 📅
 +	民间[大学排行榜](#pai){:target="_top"}
 +	QA 高考志愿[常见问题](#qa){:target="_top"} 💬
 +	[台湾普通高校](#tw){:target="_top"}网站 🏫
@@ -34,22 +33,6 @@
 <div align="right" id="ri">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/新高考
 </div>
-
-
-志愿填报日程表 📅
---------------
-
-　　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。
-
-*	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup></sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup></sup>
-*	<small>CERNET市场化运营</small>'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
-
-<img title='志愿填报日程表' src='gaokao-datetable.png' width='70%' alt='各省填报志愿日程表' />	<!--  align='right' -->
-
-　　2025日程表陆续更新……，可对比[2024年](2024/gaokao)的志愿填报日程表
-
-
-<div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
 教育部门常用网址 🏢
@@ -64,49 +47,64 @@
 *	指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各校招生办](https://gaokao.chsi.com.cn/gdwz.do)/省招考办
 *	[教育考试院](https://www.neea.edu.cn/)；
 
+<div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
+
+
+志愿填报日程表 📅
+--------------
+
+　　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。
+
+*	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup></sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup></sup>
+*	<small>CERNET市场化运营</small>'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
+
+<img align='right' title='志愿填报日程表' src='gaokao-datetable.png' width='70%' alt='各省填报志愿日程表' />
+
 　<sup>教育厅/局</sup>	**各省考试院/高招办**：
 
-　<sup>[市教委](http://jw.beijing.gov.cn)</sup>	11-北京[考试院](https://www.bjeea.cn)
-　<sup>[市教委](https://jy.tj.gov.cn)</sup>	12-天津[考试院](http://www.zhaokao.net)
-　<sup>[教育厅](http://www.hee.gov.cn)</sup>	13-河北[考试院](http://www.hebeea.edu.cn)
+　<sup>[市教委](http://jw.beijing.gov.cn)</sup>	11-北京[考试院](https://www.bjeea.cn)  
+　<sup>[市教委](https://jy.tj.gov.cn)</sup>	12-天津[考试院](http://www.zhaokao.net)  
+　<sup>[教育厅](http://www.hee.gov.cn)</sup>	13-河北[考试院](http://www.hebeea.edu.cn)  
 　<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	14-山西<small>[招考中心](http://www.sxkszx.cn)
-	/[教考中心](https://www.sxjyksfw.cn)</small>
-　<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	15-内蒙古[招考中心](https://www.nm.zsks.cn)
-　<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	21-辽宁[高招办](https://www.lnzsks.com)
-　<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	22-吉林[考试院](http://www.jleea.edu.cn)
-　<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	23-黑龙江[考试院](https://www.hljea.org.cn)
+	/[教考中心](https://www.sxjyksfw.cn)</small>  
+　<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	15-内蒙古[招考中心](https://www.nm.zsks.cn)  
+　<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	21-辽宁[高招办](https://www.lnzsks.com)  
+　<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	22-吉林[考试院](http://www.jleea.edu.cn)  
+　<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	23-黑龙江[考试院](https://www.hljea.org.cn)  
 
-　<sup>[市教委](https://edu.sh.gov.cn)</sup>	31-上海[考试院](https://www.shmeea.edu.cn) <sub>有日程</sub>
-　<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	32-江苏[考试院](https://www.jseea.cn) <sub>有日历</sub>
-　<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	33-浙江[考试院](https://www.zjzs.net) <sub>当下考</sub>
-　<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	34-安徽[考试院](https://www.ahzsks.cn)
-　<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	35-福建[考试院](https://www.eeafj.cn)
-　<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	36-江西[考试院](http://www.jxeea.cn)
-　<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	37-山东[考试院](https://www.sdzk.cn)
-　<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	41-河南[考试院](http://www.heao.com.cn) <sub>专题多</sub>
+　<sup>[市教委](https://edu.sh.gov.cn)</sup>	31-上海[考试院](https://www.shmeea.edu.cn) <sub>有日程</sub>  
+　<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	32-江苏[考试院](https://www.jseea.cn) <sub>有日历</sub>  
+　<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	33-浙江[考试院](https://www.zjzs.net) <sub>当下考</sub>  
+　<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	34-安徽[考试院](https://www.ahzsks.cn)  
+　<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	35-福建[考试院](https://www.eeafj.cn)  
+　<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	36-江西[考试院](http://www.jxeea.cn)  
+　<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	37-山东[考试院](https://www.sdzk.cn)  
+　<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	41-河南[考试院](http://www.heao.com.cn) <sub>专题多</sub>  
 　<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	42-湖北<small>[高招办](http://www.hbea.edu.cn)
-	/[考试网](https://www.hbksw.com)</small> <sub>院校库</sub>
+	/[考试网](https://www.hbksw.com)</small> <sub>院校库</sub>  
 　<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	43-湖南<small>[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/)
-	/[信息港](https://www.hneeb.cn)</small> <sub>总报名</sub>
-　<sup>[教育厅](http://edu.gd.gov.cn)</sup>	44-广东[考试院](http://eea.gd.gov.cn) <sub>有日历</sub>
-　<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	45-广西[考试院](http://www.gxeea.cn)
-　<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	46-海南[考试局](http://ea.hainan.gov.cn) <sub>有日历</sub>
+	/[信息港](https://www.hneeb.cn)</small> <sub>总报名</sub>  
+　<sup>[教育厅](http://edu.gd.gov.cn)</sup>	44-广东[考试院](http://eea.gd.gov.cn) <sub>有日历</sub>  
+　<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	45-广西[考试院](http://www.gxeea.cn)  
+　<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	46-海南[考试局](http://ea.hainan.gov.cn) <sub>有日历</sub>  
 
-　<sup>[市教委](http://jw.cq.gov.cn)</sup>	50-重庆[考试院](https://www.cqksy.cn)
-　<sup>[教育厅](http://edu.sc.gov.cn)</sup>	51-四川[考试院](http://www.sceea.cn) <sub>子站多</sub>
-　<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	52-贵州[考试院](http://zsksy.guizhou.gov.cn)
-　<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	53-云南[考试院](http://www.ynzs.cn) <sub>首页全</sub>
-　<sup>[教育厅](http://edu.xizang.gov.cn)</sup>	54-西藏[考试院](http://zsks.edu.xizang.gov.cn)
-　<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>	61-陕西[考试院](http://www.sneac.com)
-　<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>	62-甘肃[考试院](http://www.ganseea.cn)
-　<sup>[教育厅](http://jyt.qinghai.gov.cn)</sup>	63-青海[考试院](http://www.qhjyks.com)
-　<sup>[教育厅](http://jyt.nx.gov.cn)</sup>	64-宁夏[考试院](http://www.nxjyks.cn)
+　<sup>[市教委](http://jw.cq.gov.cn)</sup>	50-重庆[考试院](https://www.cqksy.cn)  
+　<sup>[教育厅](http://edu.sc.gov.cn)</sup>	51-四川[考试院](http://www.sceea.cn) <sub>子站多</sub>  
+　<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	52-贵州[考试院](http://zsksy.guizhou.gov.cn)  
+　<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	53-云南[考试院](http://www.ynzs.cn) <sub>首页全</sub>  
+　<sup>[教育厅](http://edu.xizang.gov.cn)</sup>	54-西藏[考试院](http://zsks.edu.xizang.gov.cn)  
+　<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>	61-陕西[考试院](http://www.sneac.com)  
+　<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>	62-甘肃[考试院](http://www.ganseea.cn)  
+　<sup>[教育厅](http://jyt.qinghai.gov.cn)</sup>	63-青海[考试院](http://www.qhjyks.com)  
+　<sup>[教育厅](http://jyt.nx.gov.cn)</sup>	64-宁夏[考试院](http://www.nxjyks.cn)  
 　<sup>[教育厅](http://jyt.xinjiang.gov.cn)
-	/[兵团教育局](http://btjyj.xjbt.gov.cn)</sup>	65-新疆[考试院](http://www.xjzk.gov.cn)  
+	/[兵团教育局](http://btjyj.xjbt.gov.cn)</sup>	65-新疆[考试院](http://www.xjzk.gov.cn)
+
 　[71-台湾](https://www.edu.tw)教育部门
 　81-[香港教育局](https://www.edb.gov.hk/sc)
 　82-[澳门教育](https://www.dsedj.gov.mo)及青年发展局
 
+　　2025日程表陆续更新……，可对比[2024年](2024/gaokao)的志愿填报日程表
 
 <h3>改革近况</h3>
 
@@ -114,8 +112,8 @@
 *	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
 *	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
 
-
 <div align="right" id="pai"><a href="#mulu" target="_top">↑ Top</a></div>
+
 
 民间大学排行榜
 --------------
@@ -139,8 +137,8 @@
 *	(北京)中国教育在线/高考网的[模拟志愿填报](https://mnzy.gaokao.cn/)，可以提前熟悉高考志愿填写，查看院校往年录取分数。
 *	[国防部](http://www.mod.gov.cn/gfbw/gffw/zs/)网站招生栏目每年会发布军校招生简章
 
-
 <div align="right" id="qa"><a href="#mulu" target="_top">↑ Top</a></div>
+
 
 QA 高考志愿常见问题 💬
 -------------------
@@ -157,14 +155,13 @@ QA 高考志愿常见问题 💬
 <h3>大萌，你觉得志愿要怎么填？</h3>
 　不要问我，去问熟悉你还对你好的人，比如你的某位老师。
 
-
 <div align="right" id="tw"><a href="#mulu" target="_top">↑ Top</a></div>
+
 
 台湾普通高校名单 🏫
 ---------------
 
 　　台高校近150所，过去曾有约一百所院校面向大陆招生，请注意政策变化。台湾教育制度与大陆有差异，请注意称呼上的区别('專上教育'、'公帑资助'等)。（略有变动待更新）
-
 
 **台湾**　148所高校（101 $）私立≈民办
 
@@ -328,8 +325,8 @@ QA 高考志愿常见问题 💬
 　1293 $[崇仁医护管理专科学校](http://www.cjc.edu.tw) 嘉义县
 </small>
 
-
 <div align="right" id="cj"><a href="#mulu" target="_top">↑ Top</a></div>
+
 
 成人高校名单 🌃
 ------------
@@ -596,8 +593,8 @@ QA 高考志愿常见问题 💬
 *	202404数据较2023年减少2所：<del>江西经济管理干部学院 4236051285、福建对外经济贸易职业技术学院 4135013771</del>
 *	20230619教育部名单较2022年减少2所：<del>山西省吕梁市教育学院 4214050197、四川科技职工大学 4251050081</del>。
 
-
 <div align="right" id="ck"><a href="#mulu" target="_top">↑ Top</a></div>
+
 
 参考文献
 --------
