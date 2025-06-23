@@ -40,7 +40,7 @@
 	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……
 
 *	[聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、<del>
-	[聚焦高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)
+	[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)
 、	[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
 *	指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各校招生办](https://gaokao.chsi.com.cn/gdwz.do)/省招考办
 *	[教育考试院](https://www.neea.edu.cn/)，各省考试院
@@ -51,14 +51,16 @@
 志愿填报日程表 📅
 --------------
 
-　　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。江西、浙江多省向考生提供模拟志愿填报服务。　从各省考试院的公告，或者以下两个汇总网站，可以看到全国的高考志愿填报日程与录取批次。
-
+　　教育部在6月22日至28日开展“云咨询周”活动，工作时间在‘阳光高考’网站免费提供[志愿填报咨询](https://gaokao.chsi.com.cn/zixun.do)。有两个官方网站，人工汇总了全国的高考志愿填报日程：
 *	教育部指定‘阳光高考’网[志愿填报](https://gaokao.chsi.com.cn/z/gkbmfslq/zytb.jsp)<sup></sup>、[手机版](https://gaokao.chsi.com.cn/wap/z/gkbmfslq/zytb.jsp)<sup></sup>
 *	<small>CERNET市场化运营</small>'中国教育在线'[志愿填报时间](https://www.eol.cn/e_html/gk/zytbsj/)
 
-<img align='right' title='志愿填报日程表' src='gaokao-datetable.png' width='70%' alt='各省填报志愿日程表' />
+　　“全国统一考试”，统一的是什么？是考试时间、主要科目的考试试卷，大概一致的成绩公布日期。真正决定志愿填报与录取的是**各省**，填报日程和录取批次并不全国统一，但大体相似。志愿填报基本分三大步：提前批、本科批、专科批。有的省在专科之前还有专科提前批。每一批次录取后如果有学校没招满人，会再抽时间向考生征集志愿。  
+　　几乎所有省份都会提供模拟志愿填报服务，有的省还开发了‘辅助填报系统’，可以分析往年录取名次，向考生智能推荐志愿。所以，考生一定要以**本省**考试院（招生办）公布信息为准。
 
 　<sup>教育厅/局</sup>	**各省考试院/高招办**：
+
+<img align='right' title='志愿填报日程表' src='gaokao-datetable.png' width='70%' alt='各省填报志愿日程表' />
 
 　<sup>[市教委](http://jw.beijing.gov.cn)</sup>	11-北京[考试院](https://www.bjeea.cn)  
 　<sup>[市教委](https://jy.tj.gov.cn)</sup>	12-天津[考试院](http://www.zhaokao.net)  
