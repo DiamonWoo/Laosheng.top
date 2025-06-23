@@ -11,10 +11,10 @@
 　　每年的<big>6月7日、8日、9日 进行 **普通高等学校**招生全国统一考试，简称‘高考’</big>。2025年全国基本统一为新高考模式，分I、II两卷，重庆市今年改为新课标II卷，只有京津沪三个直辖市各自用本地卷。
 某些地方会有考试科目延长到6月10日。高考总分通常为750分，只有上海与海南特殊，分别为660分、900分。
 <img align='right' title='新高考改革进程图' src='gaokao-shijuan.png' alt='2025高考三类试卷'>
-　　根据[**新高考**改革进程](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)的推进，全国减为三类高考试卷，分布如下：
+　　根据[**新高考**改革进程](https://gaokao.chsi.com.cn/gkxx/zt/gkggfahz.shtml)的推进，2025年全国减为三类高考试卷，分布如下：
 
 *	1、新课标I卷：鲁苏浙闽粤，两河两湖，徽赣（11省，青色）
-*	2、新课标II卷：辽吉黑，蒙疆藏，陕甘宁青，山西、广西、云贵琼、川渝（17省，浅绿）
+*	2、新课标II卷：辽吉黑，蒙疆藏，陕甘宁青，山西、广西、云贵琼、川渝（17省，绿色）
 *	3、全自主命题：京、津、沪（红色）
 
 　　这里是 [高等院校三千所](yuanxiao) 的配套页面**新高考**。  
@@ -22,7 +22,7 @@
 <h3 id="mulu">〖新高考〗目录</h3>
 
 +	人生通关考考考（图）
-+	🏢 教育部门[常用网址](#moe){:target="_top"}
++	🏢 数据来源[有关部门](#shu){:target="_top"}
 +	志愿填报[日程表](#ri){:target="_top"} 📅
 +	民间[大学排行榜](#pai){:target="_top"}
 +	QA 高考志愿[常见问题](#qa){:target="_top"} 💬
@@ -30,24 +30,22 @@
 +	[成人高校](#cj){:target="_top"}名单 🌃
 +	参考文献 
 
-<div align="right" id="ri">
+<div align="right" id='shu'>
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/新高考
 </div>
 
-
-教育部门常用网址 🏢
-----------------
+<h3>数据来源有关部门 🏢</h3>
 
 　[教育部官网](http://www.moe.gov.cn)MOE / 官方微博：[微言教育](https://weibo.com/jybxwb) 粉丝超800万、
 	[中国大学生在线](https://weibo.com/univs) 微博粉丝250万……
 
 *	[聚焦2025高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2025/2025_zt10/)专题、<del>
-	[聚焦2024高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)
+	[聚焦高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2024/2024_zt12/)
 、	[聚焦2023高考](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt09/)</del>；
 *	指定[阳光高考网](https://gaokao.chsi.com.cn/) / 学信网[高考专题](https://www.chsi.com.cn/zthz/yggk.jsp)，[各校招生办](https://gaokao.chsi.com.cn/gdwz.do)/省招考办
-*	[教育考试院](https://www.neea.edu.cn/)；
+*	[教育考试院](https://www.neea.edu.cn/)，各省考试院
 
-<div align="right" id="moe"><a href="#mulu" target="_top">↑ Top</a></div>
+<div align="right" id="ri"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
 志愿填报日程表 📅
@@ -99,18 +97,11 @@
 　<sup>[教育厅](http://jyt.nx.gov.cn)</sup>	64-宁夏[考试院](http://www.nxjyks.cn)  
 　<sup>[教育厅](http://jyt.xinjiang.gov.cn)
 	/[兵团教育局](http://btjyj.xjbt.gov.cn)</sup>	65-新疆[考试院](http://www.xjzk.gov.cn)
-
 　[71-台湾](https://www.edu.tw)教育部门
 　81-[香港教育局](https://www.edb.gov.hk/sc)
 　82-[澳门教育](https://www.dsedj.gov.mo)及青年发展局
 
 　　2025日程表陆续更新……，可对比[2024年](2024/gaokao)的志愿填报日程表
-
-<h3>改革近况</h3>
-
-*	2022年12月，中办国办印发《关于[深化现代职业教育体系建设改革](http://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/202212/t20221222_1035691.html)的意见》，教育部举行专题[新闻发布会](http://www.moe.gov.cn/fbh/live/2022/55031/)。
-*	2022年1月，根据教育部《关于推进独立学院转设工作的实施方案》，以后[再无独立学院](https://gaokao.eol.cn/e_html/gk/2021/dlxyzs/dlxyzs/index.html)。
-*	2020年10月，中共中央 国务院印发《[深化新时代教育评价改革总体方案](http://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2020n/2020_zt21/)》。
 
 <div align="right" id="pai"><a href="#mulu" target="_top">↑ Top</a></div>
 
@@ -603,6 +594,8 @@ QA 高考志愿常见问题 💬
 *	20240612　大皖新闻发布于腾讯网：[安徽高考考生志愿网上填报办法](https://new.qq.com/rain/a/20240612A03IVH00)公布，此文件在省考试院官网没有找到。
 *	20240624　四川省教育考试院发布：2024年普通高校[在川招生专业及名额](https://plan.sceea.cn/lkjh.html)介绍，图片版
 *	2023 电视剧《[人生之路](https://movie.douban.com/subject/35597525/)》
+
+　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
 
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
