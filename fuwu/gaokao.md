@@ -62,42 +62,42 @@
 
 <img align='right' title='志愿填报日程表' src='gaokao-datetable.png' width='70%' alt='各省填报志愿日程表' />
 
-　<sup>[市教委](http://jw.beijing.gov.cn)</sup>	11-北京[考试院](https://www.bjeea.cn)  
-　<sup>[市教委](https://jy.tj.gov.cn)</sup>	12-天津[考试院](http://www.zhaokao.net)  
-　<sup>[教育厅](http://www.hee.gov.cn)</sup>	13-河北[考试院](http://www.hebeea.edu.cn)  
-　<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	14-山西<small>[招考中心](http://www.sxkszx.cn)
+<sup>[市教委](http://jw.beijing.gov.cn)</sup>	11-北京[考试院](https://www.bjeea.cn)  
+<sup>[市教委](https://jy.tj.gov.cn)</sup>	12-天津[考试院](http://www.zhaokao.net)  
+<sup>[教育厅](http://www.hee.gov.cn)</sup>	13-河北[考试院](http://www.hebeea.edu.cn)  
+<sup>[教育厅](http://jyt.shanxi.gov.cn)</sup>	14-山西<small>[招考中心](http://www.sxkszx.cn)
 	/[教考中心](https://www.sxjyksfw.cn)</small>  
-　<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	15-内蒙古[招考中心](https://www.nm.zsks.cn)  
-　<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	21-辽宁[高招办](https://www.lnzsks.com)  
-　<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	22-吉林[考试院](http://www.jleea.edu.cn)  
-　<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	23-黑龙江[考试院](https://www.hljea.org.cn)  
+<sup>[教育厅](https://jyt.nmg.gov.cn)</sup>	15-内蒙古[招考中心](https://www.nm.zsks.cn)  
+<sup>[教育厅](https://jyt.ln.gov.cn)</sup>	21-辽宁[高招办](https://www.lnzsks.com)  
+<sup>[教育厅](http://jyt.jl.gov.cn)</sup>	22-吉林[考试院](http://www.jleea.edu.cn)  
+<sup>[教育厅](http://jyt.hlj.gov.cn)</sup>	23-黑龙江[考试院](https://www.hljea.org.cn)  
 
-　<sup>[市教委](https://edu.sh.gov.cn)</sup>	31-上海[考试院](https://www.shmeea.edu.cn) <sub>有日程</sub>  
-　<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	32-江苏[考试院](https://www.jseea.cn) <sub>有日历</sub>  
-　<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	33-浙江[考试院](https://www.zjzs.net) <sub>当下考</sub>  
-　<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	34-安徽[考试院](https://www.ahzsks.cn)  
-　<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	35-福建[考试院](https://www.eeafj.cn)  
-　<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	36-江西[考试院](http://www.jxeea.cn)  
-　<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	37-山东[考试院](https://www.sdzk.cn)  
-　<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	41-河南[考试院](http://www.heao.com.cn) <sub>专题多</sub>  
-　<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	42-湖北<small>[高招办](http://www.hbea.edu.cn)
+<sup>[市教委](https://edu.sh.gov.cn)</sup>	31-上海[考试院](https://www.shmeea.edu.cn) <sub>有日程</sub>  
+<sup>[教育厅](http://jyt.jiangsu.gov.cn)</sup>	32-江苏[考试院](https://www.jseea.cn) <sub>有日历</sub>  
+<sup>[教育厅](http://jyt.zj.gov.cn)</sup>	33-浙江[考试院](https://www.zjzs.net) <sub>当下考</sub>  
+<sup>[教育厅](http://jyt.ah.gov.cn)</sup>	34-安徽[考试院](https://www.ahzsks.cn)  
+<sup>[教育厅](http://jyt.fujian.gov.cn)</sup>	35-福建[考试院](https://www.eeafj.cn)  
+<sup>[教育厅](http://jyt.jiangxi.gov.cn)</sup>	36-江西[考试院](http://www.jxeea.cn)  
+<sup>[教育厅](http://edu.shandong.gov.cn)</sup>	37-山东[考试院](https://www.sdzk.cn)  
+<sup>[教育厅](http://jyt.henan.gov.cn)</sup>	41-河南[考试院](http://www.heao.com.cn) <sub>专题多</sub>  
+<sup>[教育厅](http://jyt.hubei.gov.cn)</sup>	42-湖北<small>[高招办](http://www.hbea.edu.cn)
 	/[考试网](https://www.hbksw.com)</small> <sub>院校库</sub>  
-　<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	43-湖南<small>[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/)
+<sup>[教育厅](http://jyt.hunan.gov.cn)</sup>	43-湖南<small>[考试院](https://jyt.hunan.gov.cn/jyt/sjyt/hnsjyksy/)
 	/[信息港](https://www.hneeb.cn)</small> <sub>总报名</sub>  
-　<sup>[教育厅](http://edu.gd.gov.cn)</sup>	44-广东[考试院](http://eea.gd.gov.cn) <sub>有日历</sub>  
-　<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	45-广西[考试院](http://www.gxeea.cn)  
-　<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	46-海南[考试局](http://ea.hainan.gov.cn) <sub>有日历</sub>  
+<sup>[教育厅](http://edu.gd.gov.cn)</sup>	44-广东[考试院](http://eea.gd.gov.cn) <sub>有日历</sub>  
+<sup>[教育厅](http://jyt.gxzf.gov.cn)</sup>	45-广西[考试院](http://www.gxeea.cn)  
+<sup>[教育厅](http://edu.hainan.gov.cn)</sup>	46-海南[考试局](http://ea.hainan.gov.cn) <sub>有日历</sub>  
 
-　<sup>[市教委](http://jw.cq.gov.cn)</sup>	50-重庆[考试院](https://www.cqksy.cn)  
-　<sup>[教育厅](http://edu.sc.gov.cn)</sup>	51-四川[考试院](http://www.sceea.cn) <sub>子站多</sub>  
-　<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	52-贵州[考试院](http://zsksy.guizhou.gov.cn)  
-　<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	53-云南[考试院](http://www.ynzs.cn) <sub>首页全</sub>  
-　<sup>[教育厅](http://edu.xizang.gov.cn)</sup>	54-西藏[考试院](http://zsks.edu.xizang.gov.cn)  
-　<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>	61-陕西[考试院](http://www.sneac.com)  
-　<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>	62-甘肃[考试院](http://www.ganseea.cn)  
-　<sup>[教育厅](http://jyt.qinghai.gov.cn)</sup>	63-青海[考试院](http://www.qhjyks.com)  
-　<sup>[教育厅](http://jyt.nx.gov.cn)</sup>	64-宁夏[考试院](http://www.nxjyks.cn)  
-　<sup>[教育厅](http://jyt.xinjiang.gov.cn)
+<sup>[市教委](http://jw.cq.gov.cn)</sup>	50-重庆[考试院](https://www.cqksy.cn)  
+<sup>[教育厅](http://edu.sc.gov.cn)</sup>	51-四川[考试院](http://www.sceea.cn) <sub>子站多</sub>  
+<sup>[教育厅](http://jyt.guizhou.gov.cn)</sup>	52-贵州[考试院](http://zsksy.guizhou.gov.cn)  
+<sup>[教育厅](https://jyt.yn.gov.cn)</sup>	53-云南[考试院](http://www.ynzs.cn) <sub>首页全</sub>  
+<sup>[教育厅](http://edu.xizang.gov.cn)</sup>	54-西藏[考试院](http://zsks.edu.xizang.gov.cn)  
+<sup>[教育厅](http://jyt.shaanxi.gov.cn)</sup>	61-陕西[考试院](http://www.sneac.com)  
+<sup>[教育厅](http://jyt.gansu.gov.cn)</sup>	62-甘肃[考试院](http://www.ganseea.cn)  
+<sup>[教育厅](http://jyt.qinghai.gov.cn)</sup>	63-青海[考试院](http://www.qhjyks.com)  
+<sup>[教育厅](http://jyt.nx.gov.cn)</sup>	64-宁夏[考试院](http://www.nxjyks.cn)  
+<sup>[教育厅](http://jyt.xinjiang.gov.cn)
 	/[兵团教育局](http://btjyj.xjbt.gov.cn)</sup>	65-新疆[考试院](http://www.xjzk.gov.cn)
 　[71-台湾](https://www.edu.tw)教育部门
 　81-[香港教育局](https://www.edb.gov.hk/sc)
@@ -116,7 +116,7 @@
 *	(上海)[软科](https://shanghairanking.cn/)，提供全国范围内[大学专业分类](https://shanghairanking.cn/rankings/bcmr/2022)，是本页面的很好补充。(%某些内容要求登录)
 *	(广东)[艾瑞深](http://www.chinaxy.com/)校友会大学排名，‘360度全景数据平台’提供各种大学荣誉榜。
 *	(深圳)[武书连](https://www.wurank.net)大学排名，始于中管院《中国大学评价》课题，1993年起发布。
-*	(草根)中国大学层级图谱：[高等院校三千所](.yuanxiao)，中国高等院校名单和网址全集。
+*	(草根)中国大学层级图谱：[高等院校三千所](.yuanxiao)，中国大学网址全集。
 *	(美国)[U.S.News](https://www.usnews.com/education/best-global-universities/rankings "美式全球大学排名")🍴 最早发起大学排名的《美国新闻与世界报道》网站
 *	(英国)THE排名 [泰晤士高等教育](https://www.TimesHigherEducation.com)📍
 *	(英国)QS世界大学排名 [QS中国](https://www.QSchina.cn)📍
