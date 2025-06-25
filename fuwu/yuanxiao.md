@@ -1,9 +1,9 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
-大萌	　2023-202506（更新军校招生）
+大萌	　202305-202506（正在吸收6月24日信息公开数据）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学名录 中国大学网址全集'>
-<meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
+<meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。点击校名直达官网，页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
 
 		一所精心布置的‘迷宫’，学生需要尽早决定自己将要去哪个出口 —— 《金榜题名之后》
 
@@ -73,8 +73,8 @@
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;　<font color="skyblue">▅</font></td>
 </tr><tr>
-	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+重庆通信，微信号<a href="https://mp.weixin.qq.com/s/-LKZm7SRy_SS4F6zuR8vWQ">陆工大</a></small></td>
-	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small>微信号<a href="https://mp.weixin.qq.com/s/c0qrWnjxh-s3jrBQ_b8z-g">海工大</a></small></td>
+	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+重庆通信，微信<a href="https://mp.weixin.qq.com/s/-LKZm7SRy_SS4F6zuR8vWQ">陆工大</a></small></td>
+	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small>微信<a href="https://mp.weixin.qq.com/s/c0qrWnjxh-s3jrBQ_b8z-g">海工大</a></small></td>
 	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>微博<a href="https://weibo.com/5193807838">印象空工大</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
 	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://zs.tmmu.edu.cn/zsjy/">招生网</a></small></td>
@@ -82,7 +82,7 @@
 	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://www.fmmu.edu.cn/zhaosheng/">本科招生</a></small></td>
 </tr><tr>
 	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，<a href="https://mp.weixin.qq.com/s/vEkOTO-wXA2v601WvHUilw">2025招生</a>wx</small></td>
-	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small>1949！<a href="https://mp.weixin.qq.com/s/Qa2Hdb61cMTnudI0KcrRLg">2025招生</a>wx</small></td>
+	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/Qa2Hdb61cMTnudI0KcrRLg">2025招生</a>wx</small></td>
 	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx 预警空天</small></td>
 </tr><tr>
 	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/hBNW0VZEAU4NLeLTWne3IA">低空利剑</a>wx</small>　🚁☁☁🪂</td>
@@ -117,7 +117,7 @@
 	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　　<font color="gold">▅</font></td>
 	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　　<font color="green"><b>☰</b></font></td>
 </tr><tr>
-	<td>	<a title="招生网" href="https://www.epgc.mil.cn/"><b>火箭军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a title="火大青春" href="https://weibo.com/6977918761">微博</a>、<a href="https://mp.weixin.qq.com/s/44CxocTmqZtHsj9agKtUWg">2025招生</a>wx</small></td>
+	<td>	<a title="招生网" href="https://www.epgc.mil.cn/"><b>火箭军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a title="火大青春" href="https://weibo.com/6977918761">微博</a>、<a href="https://mp.weixin.qq.com/s/44CxocTmqZtHsj9agKtUWg">微信</a></small></td>
 	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/YhhOkKkWcqFvEl4X7Bt4ig">2025招生</a>wx</small></td>
 </tr><tr>
 	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
@@ -482,7 +482,9 @@
 
 <h3>近年院校变更</h3>
 
-　　2025年官网公开院校变更情况本页已全部吸收，页面查找‘2025’可见。共涉及68所高校，其中新增本科多为公办，如新疆工业学院；新增专科多为民办，如鹰潭卫生职业学院。信息公开情况如下：
+　　2025年6月24日官网信息公开，教育部一天之内公布了33所本科院校变更信息，本页即刻吸收！
+
+　　2025年官网6月前公开院校变更情况本页已全部吸收，页面查找‘2025’可见。共涉及68所高校，其中新增本科多为公办，如新疆工业学院；新增专科多为民办，如鹰潭卫生职业学院。信息公开情况如下：
 
 　　2025年5月27日官网信息公开，教育部办公厅5月19日函告[第二批实施专科教育](http://www.moe.gov.cn/srcsite/A03/s181/202505/t20250527_1192065.html)高等学校备案名单，涉及34所学院。  
 　　2025年3月17日官网信息公开，教育部办公厅2月19日函告[第一批实施专科教育](http://www.moe.gov.cn/srcsite/A03/s181/202503/t20250317_1183264.html)高等学校备案名单，涉及 8所学院。  
@@ -532,6 +534,7 @@
 		　设计LC = 2927　	=27+2868+32　军+普+港澳
 		　完成率 = 　98.1%	已实际完成
 
+*	202506，官网24日公开一批本科院校变更，本页正在吸收！
 *	202506，军校招生计划全部更新至2025版；检查全国民办本科院校网址完成！
 *	202506，增补10所院校网址，内地院校网址填充率达到 97.9%。
 *	202506，已吸收2025年度第二批专科变更情况，等待官网公布年度名单。
