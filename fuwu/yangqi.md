@@ -22,14 +22,14 @@
 　　‘央企’是指：中央部委管理的国有控股企业，有三个‘单列’特征：资产财务关系在财政部单列；人事关系在人社部单列；经营业务在国家计划中单列。　狭义的央企是指国资委管理的实业类央企，也是数量最多的央企。广义的央企还包括：金融央企、行政央企、文化央企，分类图谱（本页目录）如下：
 
 *	<sup>国务院/国资委</sup>：实业央企⚙98家　<small>本页</small>
-	* 国资委[央企名录](#D1){:target="_top"}⚙⇓
+	* 国资委[央企名录](#D1){:target="_top"}
 	* [图例](#tuli){:target="_top"}与统计📊
-	* 旗下[上市公司](#D2){:target="_top"}
+	* 旗下[上市公司](#D2){:target="_top"}⇓
 *	<sup>国务院/财政部</sup>：金融央企 🥯 27家（工行/中信/人保）⇒<small>投资理财[金融圈](金融圈)</small>
-*	<sup>国务院/各部局</sup>：[行政央企](D4){:target="_top"} 👔4家（邮政/铁路/烟草/北大荒）⇓
-*	<sup>中宣部/国务院</sup>：[文化企业](D3){:target="_top"} 🌻3家（出版/广电/紫荆）⇓
+*	<sup>国务院/各部局</sup>：[行政央企](#D4){:target="_top"} 👔4家（邮政/铁路/烟草/北大荒）⇓
+*	<sup>中宣部/国务院</sup>：[文化企业](#D3){:target="_top"} 🌻3家（出版/广电/紫荆）⇓
 *	[参考文献](#D5){:target="_top"}与国资委网址
-
+*	LSIP进度
 
 <h3>改革近况</h3>
 
@@ -662,13 +662,13 @@
 中央行政企业 👔 4家
 ------------
 
-	* [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京🚩　[网站群](#X1){:target="_top"}⇓，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
+*	[中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京🚩　[网站群](#X1){:target="_top"}⇓，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家邮政局](https://www.spb.gov.cn)
-	* 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京🚩　[网站群](#X2){:target="_top"}⇓，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
+*	中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京🚩　[网站群](#X2){:target="_top"}⇓，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家铁道局](https://www.nra.gov.cn)🚩
-	* [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群](#X3){:target="_top"}⇓，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+*	[中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群](#X3){:target="_top"}⇓，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	　有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)🚩 /[国家烟草专卖局](http://www.tobacco.gov.cn/)🚩
-	* [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群](https://www.chinabdh.com/GroupIndustry.html)⇗，wx：北大荒日报
+*	[北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群](https://www.chinabdh.com/GroupIndustry.html)⇗，wx：北大荒日报
 	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
 
 <div id="X1"><a href="#tupu" target="_top">⇑</a>　
@@ -789,11 +789,11 @@
 中央文化企业 🌻 3家
 ------------
 
-	* [中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京🚩　[网站群](http://cn.cnpubg.com/overview/sites/)⇗，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
+*	[中国出版集团](http://cn.cnpubg.com)有限公司⠀CPG 北京🚩　[网站群](http://cn.cnpubg.com/overview/sites/)⇗，[集团报刊](http://www.cnpubg.com/news/2020/0612/51878.shtml)
 	　有关部门：国务院/[文化旅游部](https://www.mct.gov.cn)
-	* [中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群](#W2){:target="_top"}⇓，中国电视报[📰](https://zgdsb.cctv.com/paper/)
+*	[中国广电集团](http://www.cbn.cn '中国广播电视网络集团')有限公司 BroadNet 北京　[网站群](#W2){:target="_top"}⇓，中国电视报[📰](https://zgdsb.cctv.com/paper/)
 	　有关部门：国务院/[国家广电总局](https://www.nrta.gov.cn)
-	* 紫荆文化集团[]()有限公司 BCHL 香港/深圳🚩　[网站群](#W3){:target="_top"}⇓，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
+*	紫荆文化集团[]()有限公司 BCHL 香港/深圳🚩　[网站群](#W3){:target="_top"}⇓，《[紫荆](https://bau.com.hk)》杂志、[wb](https://weibo.com/u/6457605594)
 	　有关部门：中共中央/宣传部[]()
 
 <div id="W2"><a href="#tupu" target="_top">⇑</a>　
