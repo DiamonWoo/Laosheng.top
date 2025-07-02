@@ -20,14 +20,16 @@
 广义央企四大类 🧧 <sub>本页目录</sub>
 --------------
 
-*	<sup>中宣部/国务院</sup>：[文化企业](#D3){:target="_top"} 🌻3家（出版/广电/紫荆）⇓
-*	<sup>国务院/各部局</sup>：[行政央企](#D4){:target="_top"} 👔4家（邮政/铁路/烟草/北大荒）⇓
-*	<sup>国务院/财政部</sup>：金融央企 🥯 27家（工行/中信/人保…）  
-	　⇒<small>投资理财[金融圈](金融圈)</small>
-*	<sup>国务院/国资委</sup>：实业央企⚙98家　<small>本页</small>
-	* 国资委[央企名录](#D1){:target="_top"}（中核/电信/中粮…）
-	* [图例](#tuli){:target="_top"}与统计📊
-	* 实业央企旗下[上市公司](#D2){:target="_top"}⇓与股票
+*	<sup>中宣部/国务院</sup>：[文化企业](#D3){:target="_top"} 🌻 3家
+	* 出版/广电/紫荆⇓
+*	<sup>国务院/各部局</sup>：[行政央企](#D4){:target="_top"} 👔 4家
+	* 邮政/铁路/烟草/北大荒⇓
+*	<sup>国务院/财政部</sup>：金融央企 🥯27家
+	* ⇒ <small>投资理财[金融圈](金融圈)（工行/中信/人保…）</small>
+*	<sup>国务院/国资委</sup>：实业央企⚙️98家　<small>本页</small>
+	* 国资委[央企名录](#D1){:target="_top"}（中核/电信/中粮…）⇓
+	* 📊[图例](#tuli){:target="_top"}与统计⇓
+	* 实业央企旗下[上市公司](#D2){:target="_top"}与股票⇓
 *	参考文献与[国资委网址](#D5){:target="_top"}
 *	[LSIP进度](#D6){:target="_top"}
 
@@ -139,6 +141,7 @@
 	<a href="http://cpac.chinapost.com.cn/">中国邮政广告传媒公司</a>、
 	<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
 	<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>	</small>
+
 *	中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京🚩　[网站群](#X2){:target="_top"}⇓，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家铁道局](https://www.nra.gov.cn)🚩
 	* [国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[新媒体](http://www.china-railway.com.cn/wnfw/jzlm/)矩阵
@@ -229,7 +232,7 @@
 	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
 
 
-<div id="D1" align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id="D1" align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
 
 国资委央企名录 ⚙️
@@ -857,7 +860,7 @@
 
 　国资委 [SASAC官网](http://www.sasac.gov.cn)：
 	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
-	[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html) / [2](http://www.sasac.gov.cn/n2588045/n27271785/)、
+	[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/) / [2](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)、
 	[国企改革](http://www.sasac.gov.cn/n2588030/n2588924/)  
 　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
 　State-owned Assets Supervision and Administration Commission of the State Council  
@@ -869,7 +872,7 @@
 列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
 主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=%23你们尽管想象我们负责实现%23&Refer=index)
 
-　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html)
+　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html)（31个省级行政区+新疆兵团）
 
 
 <div id='D6' align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
@@ -882,7 +885,7 @@
 		设计 LC ≈ 1264　= 98×4 + 436×2　（4为预估值）
 		 完成率 ≈ 　92.1%
 
-+	20250702： 页面段落重构。
++	20250703： 页面段落重构。
 +	20241022： 新增资环集团，编号#66。
 +	202312 　：国资委98-1家央企的网站群收录完成。v0.5.1~0.5.4
 +	202307~08：补充文化类与行政类央企7家与网站群。v0.4.7~v0.5.0
@@ -896,7 +899,7 @@
 ```
 	老生常谈© 2019-2025 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 V0.5.7	202507
+	央企股票全家福 v0.5.7	202507
 	https://Laosheng.top/fuwu/yangqi
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
