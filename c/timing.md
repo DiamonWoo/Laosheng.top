@@ -30,7 +30,10 @@
 <a title="人民日报七十年余全库搜索，2021年起限制访问" href="http://data.people.com.cn/rmrb">人民日报</a> <small>$1946~2020</small>
 
 　#<a href='https://www.marxists.org/chinese' title='中文马克思主义文库，公益网站'>马克思主义文库</a>
-、<a href='https://marxists.pages.dev/chinese/' title='中马库，镜像网站'>pages.dev</a>
+/ <a href='https://marxists.pages.dev/chinese/' title='中马库，镜像网站'>pages.dev</a>
+　<a href='https://www.maoxuan.fan/' title='《毛泽东选集》在线阅读与PDF下载'>毛选</a>粉丝
+、<a href='https://www.livchan.cn/maozedongxuanji/' title='五卷本'>禅网</a>提供
+、<a href='https://weiyinfu.cn/MyStatic/MaoZeDongAnthology/' title='带全文搜索'>韦印福</a>提供
 
 +	[《解放思想，实事求是，团结一致向前看》](https://fuwu.12371.cn/2012/06/11/ARTI1339401591746288.shtml)	邓小平1978年讲话 后于1983年七一发表于人民日报
 +	#老资料网	<https://www.laoziliao.net/rmrb/1983-07-01>	2021年底后访问困难
@@ -101,6 +104,7 @@
 *	<a href="http://www.mtime.com" title="MTime">时光</a>影评$
 <!-- http://film.mtime.com/search/movies/movies?suggestType=0&q=" + wen -->
 *	湖南卫视 <a href="https://www.mgtv.com/tv/" title="电视剧和电影">芒果TV</a>
+*	⠀中国经济<a title='CCTV-2精品栏目' href='https://tv.cctv.com/lm/zgjjdjt/videoset/'>大讲堂</a>
 
 <div id="4" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
