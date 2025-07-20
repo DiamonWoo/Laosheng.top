@@ -12,38 +12,55 @@
 
 　　中央企业多是大型集团，在全国乃至全球各地有子公司，有的拥有自己的新闻出版机构，有的子公司在沪深、海外上市。央企的主营业务涉及国计民生的方方面面，是中国经济高质量发展的中坚力量。了解**央企股**就是了解中国经济。收录工作接近完成，欢迎提出意见。网页数据密集，请善用浏览器页内搜索。
 
-<div align="right" id='tupu'>
+<div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>
 / 央企股</div>
 
-
-广义央企四大类 🧧 <sub>本页目录</sub>
---------------
-
-*	<sup>中宣部/国务院</sup>：[文化企业](#D3){:target="_top"} 🌻 3家
-	* 出版/广电/紫荆⇓
-*	<sup>国务院/各部局</sup>：[行政央企](#D4){:target="_top"} 👔 4家
-	* 邮政/铁路/烟草/北大荒⇓
-*	<sup>国务院/财政部</sup>：金融央企 🥯27家
-	* ⇒ <small>投资理财[金融圈](金融圈)（工行/中信/人保…）</small>
-*	<sup>国务院/国资委</sup>：实业央企⚙️98家　<small>本页</small>
-	* 国资委[央企名录](#D1){:target="_top"}（中核/电信/中粮…）⇓
-	* 📊[图例](#tuli){:target="_top"}与统计⇓
-	* 实业央企旗下[上市公司](#D2){:target="_top"}与股票⇓
-*	参考文献与[国资委网址](#D5){:target="_top"}
-*	[LSIP进度](#D6){:target="_top"}
-
 <h3>改革近况</h3>
 
+*	2025-07-19，中国雅江集团有限公司 成立，排名22位，网址待公布。（本页待更新）
 *	2024-10-18，中国资源循环集团[#66](#66){:target="_top"}新成立，中国绿发原董事长出任一把手。
 *	2023-11-23，华录集团[#93](#93){:target="_top"}并入中国电科[#8](#8){:target="_top"}，实业央企总数由98减为97家。
 *	2023-10-10，[二十届中央第二轮巡视](https://www.ccdi.gov.cn/toutiaon/202310/t20231021_301845.html)对26家中管企业、5家部委、国家铁路局/中铁集团 开展巡视。（标记🚩 31个，另有科技部/国防科工局不在本页收录范围）
 *	2023-06 　，中国电气装备集团、中国物流集团 网站开通。　
 *	2023-03-27，[二十届中央](https://www.ccdi.gov.cn/specialn/zyxsgz20/)第一轮巡视对中国电科/中国移动等30家中管企业党组开展常规巡视。（标记⛳30个，已于9月底完成反馈）
 *	2022-12-31，中国南水北调集团有限公司[#48](#48){:target="_top"}列入国资委履行出资人职责企业名单（直接监管）。
-*	2022-12-21，[中钢集团](http://www.sinosteel.com)整体划入⠀中国宝武[#35](#35){:target="_top"}，不再由国资委直接监管。
+*	2022-12-21，[中钢集团](http://www.sinosteel.com)不再由国资委直接监管，整体划入[#35](#35){:target="_top"}中国宝武。
 *	2021-01 　，对外文化集团整体划转至紫荆文化集团。
 *	2020-12-　，黑龙江省农垦总局 改制为 北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
+
+<h3 >国资委常用网址</h3>
+
+　国资委 [SASAC官网](http://www.sasac.gov.cn)：
+	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
+	[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/) / [2](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)、
+	[国企改革](http://www.sasac.gov.cn/n2588030/n2588924/)  
+　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
+　State-owned Assets Supervision and Administration Commission of the State Council  
+　专题：《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》  
+　国资委[新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
+	[新闻发布](http://www.sasac.gov.cn/n2588025/)；
+	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)  
+　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
+列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
+主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=%23你们尽管想象我们负责实现%23&Refer=index)
+
+　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html)（31个省级行政区+新疆兵团）
+
+<h3 id='tupu'>广义央企四大类 🧧 <sub>本页目录</sub></h3>
+
+*	<sup>中宣部/国务院</sup>：[文化企业](#D3){:target="_top"} 🌻 3家
+	* 出版/广电/紫荆 ⇓
+*	<sup>国务院/各部局</sup>：[行政央企](#D4){:target="_top"} 👔 4家
+	* 邮政/铁路/烟草/北大荒 ⇓
+*	<sup>国务院/财政部</sup>：金融央企 🥯27家
+	* ⇒ <small>投资理财[金融圈](金融圈)（工行/中信/人保…）</small>
+*	<sup>国务院/国资委</sup>：实业央企⚙️98家　<small>本页</small>
+	* 国资委[央企名录](#D1){:target="_top"}（中核/电信/中粮…）⇓
+	* 📊[图例](#tuli){:target="_top"}与统计 ⇓
+	* 实业央企旗下[上市公司](#D2){:target="_top"}与股票 ⇓
+*	参考文献与[国资委网址](#D5){:target="_top"}
+*	[LSIP进度](#D6){:target="_top"}
 
 
 <div id='D3' align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
@@ -121,7 +138,7 @@
 中央行政企业 👔 4家
 ------------
 
-*	[中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京🚩　[网站群](#X1){:target="_top"}⇓，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
+*	👔 [中国邮政集团](http://www.chinapost.com.cn)有限公司 POST 北京🚩　[网站群](#X1){:target="_top"}⇓，中国邮政报[📰](http://www.chinapostnews.com.cn/)，[三大业务](http://www.chinapost.com.cn/html1/category/181312/8279-1.htm)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家邮政局](https://www.spb.gov.cn)
 	* 控股公司与EMS：
 	<a href="http://www.psbc.com/cn">中国邮政储蓄银行</a>、
@@ -142,7 +159,7 @@
 	<a href="http://soft.chinapost.com.cn/">中邮信息科技（北京）有限公司</a>、
 	<a href="http://postsc.chinapost.com.cn/">中邮实业投资有限公司</a>	</small>
 
-*	中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京🚩　[网站群](#X2){:target="_top"}⇓，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
+*	👔 中国[国家铁路集团](http://www.china-railway.com.cn)有限公司 Railway 北京🚩　[网站群](#X2){:target="_top"}⇓，《[人民铁道](https://www.peoplerail.com/rail/)》报/[📰](https://szb.peoplerail.com/)
 	　有关部门：国务院/[交通运输部](https://www.mot.gov.cn) /[国家铁道局](https://www.nra.gov.cn)🚩
 	* [国铁客运12306](https://www.12306.cn)、　[国铁货运95306](http://www.95306.cn)、　[新媒体](http://www.china-railway.com.cn/wnfw/jzlm/)矩阵
 	* 铁路局集团公司（18个）：	哈尔滨局、
@@ -167,7 +184,7 @@
 	* 所属事业单位（3个）：	铁道党校、
 	[中国铁道博物馆](http://www.china-rail.org.cn)、铁道战备舟桥处。
 
-*	[中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群](#X3){:target="_top"}⇓，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
+*	👔 [中国烟草](http://www.tobacco.gov.cn)总公司 TOBACCO 北京　[网站群](#X3){:target="_top"}⇓，《[中国烟草](http://www.echinatobacco.com)》杂志/[学报](http://ycxb.tobacco.org.cn)
 	　有关部门：国务院/[工业和信息化部](https://www.miit.gov.cn)🚩 /[国家烟草专卖局](http://www.tobacco.gov.cn/)🚩
 	* 直属机构：
 　[南通醋纤](http://www.ncfcinfo.com)
@@ -228,7 +245,7 @@
 　[云南中烟工业](http://yngy.tobacco.com.cn)
 　[陕西中烟工业](https://sxgy.tobacco.com.cn)
 
-*	[北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群](https://www.chinabdh.com/GroupIndustry.html)⇗，wx：北大荒日报
+*	👔 [北大荒农垦集团](https://www.chinabdh.com)有限公司 BDH 哈尔滨　[网站群](https://www.chinabdh.com/GroupIndustry.html)⇗，wx：北大荒日报
 	　有关部门：国务院/[农业农村部](http://www.moa.gov.cn)
 
 
@@ -855,24 +872,6 @@
 * [大云网>电力新闻](http://www.sgcio.com/news/zh/109242.html)，2023-01-31：《98家央企及下属409家上市企业全名单 含电力能源上市企业》
 * [“半坡之木”百家号](https://baijiahao.baidu.com/s?id=1709310208808188285)，2021-08-29：《主板、中小板、创业板、科创板、新三板的股票代码规定及相互区别》
 * ["Morris.Zhang"知乎回答](https://www.zhihu.com/question/35010016)，2021/09 - 2022/03：《中概股、一级市场、二级市场、A股、B股、港股、创业板，分别什么意思啊？》
-
-<h3 >国资委官网</h3>
-
-　国资委 [SASAC官网](http://www.sasac.gov.cn)：
-	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
-	[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/) / [2](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)、
-	[国企改革](http://www.sasac.gov.cn/n2588030/n2588924/)  
-　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
-　State-owned Assets Supervision and Administration Commission of the State Council  
-　专题：《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》  
-　国资委[新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
-	[新闻发布](http://www.sasac.gov.cn/n2588025/)；
-	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)  
-　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
-列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
-主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=%23你们尽管想象我们负责实现%23&Refer=index)
-
-　32个省级[地方国资委](http://www.sasac.gov.cn/n4422011/n17627531/c17633273/content.html)（31个省级行政区+新疆兵团）
 
 
 <div id='D6' align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
