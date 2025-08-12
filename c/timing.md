@@ -34,6 +34,7 @@
 　<a href='https://www.maoxuan.fan/' title='《毛泽东选集》在线阅读与PDF下载'>毛选</a>粉丝
 、<a href='https://www.livchan.cn/maozedongxuanji/' title='五卷本'>禅网</a>提供
 、<a href='https://weiyinfu.cn/MyStatic/MaoZeDongAnthology/' title='带全文搜索'>韦印福</a>提供
+、旗帜网[习作共读](https://www.qizhiwang.org.cn/GB/433033/index.html)
 
 +	[《解放思想，实事求是，团结一致向前看》](https://fuwu.12371.cn/2012/06/11/ARTI1339401591746288.shtml)	邓小平1978年讲话 后于1983年七一发表于人民日报
 +	#老资料网	<https://www.laoziliao.net/rmrb/1983-07-01>	2021年底后访问困难
@@ -149,6 +150,9 @@
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 *	搜房网[业主论坛](https://bbs.fang.com)
 +	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
+
+⠀99<a href='http://99LB.net/' title='论坛大全'>论坛</a> /
+ hao<a href='http://hao123.com/shequ/' title='百度的导航站'>社区</a>
 
 <div id="6" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
