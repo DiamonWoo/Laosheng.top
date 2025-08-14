@@ -121,7 +121,7 @@
 
 *	浏览之器：Edge<a href="https://www.microsoft.com/zh-cn/edge/business" title="微软出品，与谷歌同源">商业版</a>、#<a href="https://brave.com/zh" title="js元老新作品">Brave</a>
 *	火狐安卓古典分支 Fennec，[v68.11.0](https://ftp.mozilla.org/pub/mobile/releases/68.11.0/android-aarch64/)，有查看页面源代码菜单；新分支叫 Fenix。
-*	[Pocket](https://getpocket.com/add/)	跨设备的网页共享工具，已被Firefox内置
+*	[Pocket](https://getpocket.com/add/)	跨设备的网页共享工具，2017年被Firefox收购，2025年被Firefox抛弃。
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
 
 *	$<a href="http://www.appchina.com/soft" title="2010年上线">应用汇</a>
@@ -146,7 +146,7 @@
 +	上海篱笆网 <https://www.libaclub.com/>	2002年创立，以装修论坛起家的上海本地生活论坛
 *	网易轻博客<a href="http://Lofter.com/view" title="网易轻博客">Lofter</a>
 *	华为<a href="https://xinsheng.huawei.com/cn/" title="华为集团心声社区">心声</a>
-	不允许非员工发帖。
+	只允许员工发帖。
 *	<a href="https://mvp.aliyun.com/ace" title="阿里开发者同城会">阿里云</a>
 *	搜房网[业主论坛](https://bbs.fang.com)
 +	Reddit <https://www.reddit.com/>	I read it，美国的社交新闻论坛，国内连接不稳定
@@ -248,14 +248,13 @@
 *	谷歌收购的导航站 <a title='' href='https://www.265.com'>265</a> 
 /	#<a href='https://scholar.google.com' title='论文与书籍检索'>谷歌学术</a>
 /	chrome#<a href='https://blog.google/products/chrome' title='Chrome Official Blog'>blog</a>
-
+*	国产磁盘分区<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>，支持数据恢复
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
 *	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
 *	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，
 	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
-*	国产磁盘分区<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>
-，	经典双栏文件管理器TC的安卓版本，在其瑞士论坛提供[下载](https://www.ghisler.ch/board/viewforum.php?f=22)
+*	Total Commander，经典双栏文件管理器TC提供免费[安卓版本](https://www.ghisler.ch/board/viewforum.php?f=22)
 
 *	[雷锋网](https://www.leiphone.com/)Ai，#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
