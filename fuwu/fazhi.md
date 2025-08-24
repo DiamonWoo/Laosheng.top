@@ -271,7 +271,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 321300 <b>[宿迁市](http://www.suqian.gov.cn "宿迁市人民政府")</b>⠀0527 ♾	　[人大](http://www.sqrdw.gov.cn)　[司法局](http://sfj.suqian.gov.cn)  - -　[公安局](http://gaj.suqian.gov.cn) [🛂](https://weibo.com/jssqga#宿迁警方) 苏N⠀[⚔️](http://sq.jsjc.gov.cn)⠀[⚖️](http://www.sqfy.gov.cn)　	[纪委监委](http://www.sqjw.gov.cn) <sub>[审查调查](http://www.sqjw.gov.cn/sqsjw/scdc1/scdc.shtml)</sub>　[宿迁长安网](http://sqca.suqian.gov.cn)  
 
 <h3 id="33">33 <a title="浙江省人民政府" href="http://www.zj.gov.cn">浙江</a> √⠀浙　<sub>　<a href="qianxian-gjf#33" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
-[浙江人大](https://www.zjrd.gov.cn/)：本届大会　代表名单　<sup>[地方法规](https://zcfg.zjrd.gov.cn/)</sup>　⚔️[人民检察院](http://www.zjjcy.gov.cn)　⚖️[高级人民法院](https://www.zjcourt.cn)　👥[省政协](https://www.zjzx.gov.cn)　[平安浙江网](http://www.pazjw.gov.cn)⠀[<i>法学会</i>](http://www.zjfxh.com)	  
+[浙江人大](https://www.zjrd.gov.cn/)：[本届大会](https://www.zjrd.gov.cn/dbdh/rdh/14j3rdh/)　代表名单　<sup>[地方法规](https://zcfg.zjrd.gov.cn/)</sup>　⚔️[人民检察院](http://www.zjjcy.gov.cn)　⚖️[高级人民法院](https://www.zjcourt.cn)　👥[省政协](https://www.zjzx.gov.cn)　[平安浙江网](http://www.pazjw.gov.cn)⠀[<i>法学会</i>](http://www.zjfxh.com)	  
 纪委监委：[巡视巡察](https://www.zjsjw.gov.cn/gongzuodongtai/xunshixuncha/)　[审查调查](https://www.zjsjw.gov.cn/quanweifabu/shenchadiaocha/)　<sub>wx：清廉浙江</sub>　[公安厅](https://gat.zj.gov.cn) 🛂<sub>[weibo](https://weibo.com/zhejianggongan#浙江公安)</sub>　[法律服务站](https://12348.sft.zj.gov.cn)　[监狱管理局](http://jyglj.zj.gov.cn)　[省级药监局](http://mpa.zj.gov.cn)　[审计厅](http://sjt.zj.gov.cn)
 
 330100 <b>[杭州市](http://www.hangzhou.gov.cn "杭州市人民政府")</b>F 0571 ♾	　[人大](http://www.hzrd.gov.cn)　[司法局](http://sf.hangzhou.gov.cn)  <sub>[律协](http://www.hzlawyer.net/)</sub>　[公安局](http://police.hangzhou.gov.cn) [🛂](https://weibo.com/hangzhoupolice#杭州公安) 浙A⠀[⚔️](http://www.hangzhou.jcy.gov.cn)⠀[⚖️](https://hzcourt.gov.cn)　	[纪委监委](https://www.hzlz.gov.cn) <sub>[审查调查](https://www.hzlz.gov.cn/list/394/1.html)</sub>　[平安杭州](http://www.pahz.gov.cn)　<sub>[法学会](http://www.hzsfxh.com)</sub>  
@@ -308,7 +308,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 341800 <b>[宣城市](http://www.xuancheng.gov.cn "宣城市人民政府")</b>⠀0563	　[人大](http://rd.xuancheng.gov.cn)　[司法局](https://sfj.xuancheng.gov.cn)  <sub>[律协](http://www.xclslawyer.cn/)</sub>　[公安局](http://gaj.xuancheng.gov.cn) [🛂](https://weibo.com/3039827240#宣城公安在线) 皖P⠀[⚔️](http://www.xuancheng.jcy.gov.cn)⠀[⚖️](http://ahxczy.ahcourt.gov.cn)　	[纪委监委](http://www.xcjjjc.gov.cn) <sub>[审查调查](http://www.xcjjjc.gov.cn/News/showList/44510/page_1.html)</sub>　[宣城长安网](http://www.xccaw.gov.cn)  
 
 <h3 id="35">35 <a title="福建省人民政府" href="https://www.fujian.gov.cn">福建</a> √⠀闽　<sub>　<a href="qianxian-gjf#35" title="去：县级公检法" target="gjfye">↘ⒼⒻⒿ</a></sub></h3>	
-福建人大：[本届大会](http://www.fjrd.gov.cn/cn/8)　[代表名单](http://www.fjrd.gov.cn/admin/dbcx.jsp)　<sup>[地方法规](http://www.fjrd.gov.cn/cn/16)</sup>　⚔️[人民检察院](https://www.fj.jcy.gov.cn)　⚖️[高级人民法院](https://fjfy.fjcourt.gov.cn)　👥[省政协](http://www.fjzx.gov.cn)　[福建长安网](http://www.pafj.net)⠀法学会	  
+福建人大：[本届大会](http://www.fjrd.gov.cn/cn/52)　[代表名单](http://www.fjrd.gov.cn/admin/dbcx.jsp)　<sup>[地方法规](http://120.35.29.173:8411/ "2025新版上线")</sup>　⚔️[人民检察院](https://www.fj.jcy.gov.cn)　⚖️[高级人民法院](https://fjfy.fjcourt.gov.cn)　👥[省政协](http://www.fjzx.gov.cn)　[福建长安网](http://www.pafj.net)⠀法学会	  
 纪委监委：[巡视巡察](https://www.fjcdi.gov.cn/cms/html/fjsjwjw/xsxc/)　[审查调查](https://www.fjcdi.gov.cn/cms/html/fjsjwjw/scdc/)　<sub>wx：福建纪检监察</sub>　[公安厅](https://Gat.fujian.gov.cn) 🛂<sub>[weibo](https://weibo.com/fjga#福建警方)</sub>　[法律服务站](http://fj.12348.gov.cn)　[监狱管理局](http://jyj.sft.fujian.gov.cn)　[省级药监局](https://yjj.scjgj.fujian.gov.cn)　[审计厅](http://sjt.fujian.gov.cn)
 
 350100 <b>[福州市](http://www.fuzhou.gov.cn "福州市人民政府")</b>⠀0591 ♾	　[人大](http://www.fzrd.gov.cn)　[司法局](http://sfj.fuzhou.gov.cn)  <sub>[律协](https://www.fzlawyers.net/)</sub>　[公安局](http://gaj.fuzhou.gov.cn) [🛂](https://weibo.com/fzga110#福州公安) 闽A/K⠀[⚔️](http://www.fuzhou.jcy.gov.cn)⠀[⚖️](https://fzszy.fjcourt.gov.cn)　	[纪委监委](https://jcj.fuzhou.gov.cn) <sub>[审查调查](http://jcj.fuzhou.gov.cn/zz/xxgk/ajjj/)</sub>　[福州长安网](http://fz.pafj.net)  
@@ -591,7 +591,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 611000 <b>[商洛市](http://www.shangluo.gov.cn "商洛市人民政府")</b>⠀0914	　[人大](http://www.slrd.gov.cn)　司法局  - -　[公安局](http://gaj.shangluo.gov.cn) [🛂](https://weibo.com/3516574547#商洛公安) 陕H⠀◇⠀[⚖️](http://slzy.jxfy.gov.cn)　	[纪委监委](http://shangluo.qinfeng.gov.cn) - -　政法委  
 
 <h3 id="62">62 <a title="甘肃省人民政府" href="http://www.gansu.gov.cn">甘肃</a>　甘/陇　<sub></sub></h3>	
-甘肃人大：本届大会[](http://www.gsrdw.gov.cn/html/rdxw/)　[代表名单](http://www.gsrdw.gov.cn/html/dbsjk/)　<sup>[地方法规](https://cmutils.pkulaw.com/gsweb/)</sup>　⚔️[人民检察院](http://www.jcy.gansu.gov.cn)　⚖️[高级人民法院](http://www.chinagscourt.gov.cn)　👥[省政协](http://www.gszx.gov.cn)　[甘肃政法网](http://www.gszfw.gov.cn)⠀[<i>法学会</i>](https://www.gsfxh.cn)	  
+[甘肃人大](http://www.gsrdw.gov.cn/)：本届大会　[代表名单](http://www.gsrdw.gov.cn/html/dbsjk/)　<sup>[地方法规](https://cmutils.pkulaw.com/gsweb/)</sup>　⚔️[人民检察院](http://www.jcy.gansu.gov.cn)　⚖️[高级人民法院](http://www.chinagscourt.gov.cn)　👥[省政协](http://www.gszx.gov.cn)　[甘肃政法网](http://www.gszfw.gov.cn)⠀[<i>法学会</i>](https://www.gsfxh.cn)	  
 纪委监委：[巡视巡察](http://www.gsjw.gov.cn/category/xsxc)　[审查调查](http://www.gsjw.gov.cn/category/jlsc)　<sub>wx：啄木鸟</sub>　[公安厅](http://gat.gansu.gov.cn) 🛂<sub>[weibo](https://weibo.com/gssgat#甘肃公安)</sub>　[法律服务站](http://gs.12348.gov.cn)　[监狱管理局](http://www.gansu.gov.cn/gsszf/c100095/202003/110879.shtml)　[省级药监局](http://yjj.gansu.gov.cn)　[审计厅](http://sjt.gansu.gov.cn)
 
 620100 <b>[兰州市](http://www.lanzhou.gov.cn "兰州市人民政府")</b>⠀0931	　[人大](http://www.lanzhourd.gov.cn)　司法局  - -　[公安局](http://gaj.lanzhou.gov.cn) [🛂](https://weibo.com/319178777#兰州公安) 甘A⠀◇⠀△　	[纪委监委](http://jiwjw.lanzhou.gov.cn) - -　政法委  
@@ -697,15 +697,10 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 
 <h3>编辑后记</h3>
 
+	20250824	山东、广东、甘肃三省人大网站已补充地市人大网址。福建省人大新版上线测试。
 	20230315	有6个省级人大网站没有给出省内地市人大的连接：山东、湖南、广东、西藏、宁夏、新疆；
 			黑龙江、甘肃两省虽然列出了地市人大，但网址缺失较多。
 
-<h4>技术标记图例(备用)</h4>
-
-+	ⓜ² 优化适配手机浏览器 📱🔹
-+	💬³ 开放网页留言功能 
-+	$　不支持https安全连接
-+	<del>🔸¹ 支持https安全连接 🔒Ⓢ</del>
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
 
@@ -715,7 +710,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 	老生常谈© 2019-2025 大萌　CC 3.0
 	GPL 3.0  可转发-可衍生-相同方式授权
 	https://laosheng.top/fuwu/fazhi
-	法治政府部门集 v0.9.12	202503
+	法治政府部门集 v1.0.0	202508
 ```
 
 
