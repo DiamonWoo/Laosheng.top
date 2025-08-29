@@ -90,7 +90,7 @@
 
 浏览器输入网址：[Laosheng.top](https://laosheng.top '老生常谈')，不需要下载任何App。<img src="./indexQR-Blue.png" align="left"> 部分手机浏览器可直接扫描二维码，取得网址。 
 
-在微信内“扫一扫”可能会弹出“非微信官方网页…”的提示，请点“<font color="green"><b>继续访问</b></font>”。
+如果在某些App内部访问本站报错，请使用Edge、Chrome、via等“<font color="green"><b>真正浏览器</b></font>”访问本站。
 
 “云媒体”系列和“排行榜”页面每一个链接都有批注(鼠标指针提示)，电脑浏览器可见，[帮助页](c/helpweb "老生常谈站点的浏览帮助")有截屏演示。
 
