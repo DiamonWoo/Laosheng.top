@@ -156,7 +156,7 @@
 * 中国邮政储蓄银行　📠 95580	[PSBC.com](http://www.psbc.com ) 怕是不存
 
 
-延申阅读
+拓展阅读
 --------
 
 *	github上‘路人甲’的项目：[行政区划数据](https://passer-by.com/data_location/)，提供区划历史查询、.json数据下载、js联动插件。
