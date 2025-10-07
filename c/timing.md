@@ -289,7 +289,9 @@
 	<a href="https://weibo.com/yaochen" title="联合国难民署中国亲善大使">姚晨</a>
 *	迪丽热巴 <https://weibo.com/u/1669879400>	联合国环境署名人伙伴
 *	　#<a href="https://instagram.com/7_luhan_m/?hl=zh-cn" title="鹿晗ins千万粉丝">Ins</a>
-*	驱动之家	快科技
+*	[驱动之家](https://drivers.mydrivers.com/) / 快科技
+*	#[Proton](https://protonMail.com/zh-Hans) 瑞士的加密邮箱服务
+
 
 <div align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -414,7 +416,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202505
+	提名网站与落榜记	　202510
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
