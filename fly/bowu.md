@@ -19,9 +19,10 @@
 
 <h3 id="1">最新开馆</h3>
 
-*	20240530，[中国科学家博物馆](https://www.mmcs.org.cn)向公众开放，由中国科协建设，位于北京市朝阳区。
+*	20240530，[科学家博物馆](https://www.mmcs.org.cn)向公众开放，由中国科协建设，位于北京市朝阳区，暂未定级。
 *	20231227，[北京大运河博物馆](https://www.canalmuseum.org.cn/)向公众开放，为首博的东馆，位于北京市通州区。
-*	20230915，中国考古博物馆正式向公众开放，隶属[中国历史研究院](http://hrczh.cass.cn/ywdt_135233/gg/202309/t20230913_5685374.shtml)，位于北京市朝阳区。
+*	20230915，中国考古博物馆正式向公众开放，隶属[中国历史研究院](http://hrczh.cass.cn/ywdt_135233/gg/202309/t20230913_5685374.shtml)，位于北京市朝阳区，暂未定级。
+*	20220205，[中国工艺美术馆](https://www.gmfyg.org.cn)新馆落成，加挂“中国非物质文化遗产馆”馆名，文旅部直属，暂未定级。
 
 <h3 id="2">数据来源有关部门</h3>
 
@@ -37,10 +38,10 @@
 	* 2015/11/15 (原文化部)文艺函〔2015〕1037号：关于公布[第二次全国重点美术馆](https://zwgk.mct.gov.cn/zfxxgkml/wysy/202012/t20201206_917836.html)评估结果的通知
 
 
-<h3 id="mulu">各省索引</h3>
-　[最新开馆](#1){:target="_top"}
+<h3 id="mulu">本页目录</h3>
+[最新开馆](#1){:target="_top"}
 / [数据来源](#2){:target="_top"}
-/ 图例与统计  
+/ 目录 / 图例与统计  
 　<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
 　<a href="#13" target="_top">13-河北</a> 冀
@@ -75,7 +76,7 @@
 　<a href="#6590" target="_top">6590-新疆兵团</a>
 　<a href="#71" target="_top">71-台湾</a>
 　<a href="#81" target="_top">81-香港</a>
-　<a href="#82" target="_top">82-澳门</a> <small>按身份证号前两位排序</small>
+　<a href="#82" target="_top">82-澳门</a> <small>按身份证号前两位排序</small>  
 　[延伸阅读](#5){:target="_top"}
 / 参考文献
 
@@ -813,11 +814,11 @@
 延伸阅读
 --------
 
-	* [博物中国](https://www.museumschina.cn/museums)，全国数字博物馆集群，收录博物馆网址约600个。
-	* 中国[非物质文化遗产](https://www.ihchina.cn/project.html)网，收录非遗超3000(子)项。
-	* 网友‘如影随形’的个人网站：[博物馆网址导航](http://120.25.237.190/bwg/)，收录博物馆名录超6000家。
-	* 国务院事业单位 总台央视 “[央博](https://yangbo.cctv.cn/)”数字文化艺术博物馆 20230121(除夕)上线
-	* [ICOM](https://icom.museum/en/)国际博物馆协会，设立 [5•18](https://cn.bing.com/search?q=5·18国际博物馆日&form=QBLH)国际博物馆日
+*	[博物中国](https://www.museumschina.cn/museums)，全国数字博物馆集群，收录博物馆网址约600个。
+*	中国[非物质文化遗产](https://www.ihchina.cn/project.html)网，收录非遗超3000(子)项。
+*	网友‘如影随形’的个人网站：[博物馆网址导航](http://120.25.237.190/bwg/)，收录博物馆名录超6000家。
+*	国务院事业单位 总台央视 “[央博](https://yangbo.cctv.cn/)”数字文化艺术博物馆 20230121(除夕)上线
+*	[ICOM](https://icom.museum/en/)国际博物馆协会，设立 [5•18](https://cn.bing.com/search?q=5·18国际博物馆日&form=QBLH)国际博物馆日
 
 <h3>参考文献</h3>
 
