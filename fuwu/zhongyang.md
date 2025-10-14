@@ -176,7 +176,7 @@
 　	📰[《中国妇女报》](http://paper.cnwomen.com.cn)
 	- 📠 12338 [妇女维权](https://www.women.org.cn/2024/01/10/99675249.html)公益服务热线
 	- 🙋直属高校（1所）：[中华女子学院](http://www.cwu.edu.cn )+【全国妇联干部培训学院】
-* [中国科协](https://cast.org.cn )	　 中国科学技术协会 CAST.org.cn
+* [中国科协](https://www.cast.org.cn)	　 中国科学技术协会 CAST.org.cn
 	- [科普中国](https://www.kepuchina.cn )
 	- [科技志愿服务](http://www.stvs.org.cn )
 * [中国侨联](http://www.chinaQL.org/)	　 中华全国归国华侨联合会
@@ -661,7 +661,7 @@
 
 * 🚒 应急管理部	　 [MEM.gov.cn](http://www.mem.gov.cn )	　 📰[《中国应急管理报》](http://paper.aqsc.cn)
 	- 📞 12350 事故举报电话 双号并行
-	- 国家防汛抗旱总指挥部……
+	- 国务院安全生产委员会、防汛抗旱、抗震救灾、防灾减灾救灾……
 	- [中国地震局](https://www.cea.gov.cn)	*不是国家局*　 [中国地震台网中心](https://www.cenc.ac.cn/)最新地震信息
 	- 【[国家矿山安全监察局](https://www.chinamine-safety.gov.cn)】	　 📰[《中国煤炭报》](http://paper.ccoalnews.com)
 	- 【[国家消防救援局](https://www.119.gov.cn)】 119.Gov.cn	　 2023年1月成立。
@@ -865,7 +865,7 @@ MCT，Ministry of Culture and Tourism
 * 📠 其他单位服务电话，包括国企/事业单位等 	 　*暂计15个*
 *  A ＋〖加挂B牌子〗， A ＋⋙【B】  A加挂B牌子，由某B承担职责
 *  A ／〖B〗 一块机构两块牌子， B &〖保留A牌子〗 <!-- ＋→→⇢⇨⋙ -->
-* 〖国务院部委管理的国家局〗
+* 国务院【部委管理的国家局】
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
 
