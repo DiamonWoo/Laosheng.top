@@ -18,8 +18,8 @@
 	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
 +	./[www.edu](www.edu){:target="_top"}　**世界大学名录**，中国承认学历的各国大学（收录中）
-	+ ./[usa.edu](usa.edu){:target="_top"}　美国大学半边天，大约1500所。
-	+ ./[eng.edu](eng.edu){:target="_top"}　英澳加新四国大学，都是英语系国度。
+	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。
+	+ ./[eng.edu](edu/eng.edu){:target="_top"}　英澳加新四国大学，都是英语系国度。
 	+ ./euro.edu　欧洲主要国家大学，法国、德国、意大利、西班牙……
 	+ ……　*中国的《高等院校三千所》收录在 【[服务](../fuwu/)】系列。*
 
