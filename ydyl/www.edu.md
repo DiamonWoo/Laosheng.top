@@ -62,7 +62,7 @@
 认证院校的国别分组
 ------------------
 
-### [usa.edu](usa.edu) 美国大学半边天 🏛️🗽
+### [usa.edu](edu/usa.edu) 美国大学半边天 🏛️🗽
 
 　　1546所认证院校，按各州分段。
 
@@ -73,7 +73,7 @@
 *	Institute，学院，研究院
 *	College，大学的统称，类似与中国的大学包括本科、大专、高职。
 
-### [eng.edu](eng.edu) 英系四国EDU 🏫💂‍♂
+### [eng.edu](edu/eng.edu) 英系四国EDU 🏫💂‍♂
 
 　　4国495所认证院校。
 
@@ -87,7 +87,7 @@
 
 <div id="23" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [euro.edu](euro.edu) 欧洲大学一锅粥 🏰🧙
+### [euro.edu](edu/euro.edu) 欧洲大学一锅粥 🏰🧙
 
 　　34国1648所认证院校，不包括英国及前苏联国家
 
@@ -132,7 +132,7 @@
 
 <div id="24" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [su.edu](su.edu) 前苏联15国 🛸👨‍🚀
+### [su.edu](edu/su.edu) 前苏联15国 🛸👨‍🚀
 
 　　15国926+1认证院校。
 
@@ -159,7 +159,7 @@
 *	乌克兰 [教育及科技部](https://mon.gov.ua/)
 /	[认证委员会](https://ak.gov.ua/)
 
-### [kkj.edu](kkj.edu) 朝韩日大学 ☯
+### [kkj.edu](edu/kkj.edu) 朝韩日大学 ☯
 
 　　3国1201所认证院校。
 
@@ -169,9 +169,9 @@
 
 <div id="26" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [asia.edu](asia.edu) 亚洲大学 🛕🤴
+### [asia.edu](edu/asia.edu) 亚洲大学 🛕🤴
 
-　　32+1国，1133所认证院校，不包括日本及前苏联国家，增加大洋洲国家 斐济。
+　　32+1国，1133所认证院校，不包括中国、朝、韩、日本及前苏联国家，增加大洋洲国家 斐济。
 
 		IN	印度	247
 		PH	菲律宾	157
@@ -209,7 +209,7 @@
 
 <div id="27" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [meifei.edu](meifei.edu) 美洲和非洲大学 🧑‍🤝‍🧑
+### [meifei.edu](edu/meifei.edu) 美洲和非洲大学 🧑‍🤝‍🧑
 
 　　美洲20国323所认证院校，不包括美国、加拿大，先北美洲后南美洲。
 
@@ -295,7 +295,7 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/www.edu
-	世界大学名录 v0.3.4	202506
+	世界大学名录 v0.3.5	202510
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
