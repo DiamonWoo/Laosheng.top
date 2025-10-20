@@ -2,7 +2,7 @@
 =================
 大萌　202510
 <base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/ydyl/jiaotong" />
+<link rel="canonical" href="https://Laosheng.top/ydyl/road" />
 
 		Want to Rich, Build Roads!  —— 中国民间谚语：要想富，先修路
 
@@ -17,7 +17,7 @@
 </div>
 
 
-陆海空班次查询 
+陆海空班次查询 🎫
 ---------------
 Land, Sea, Air
 
@@ -25,10 +25,11 @@ Land, Sea, Air
 *	🚢 中国远洋海运集团 / 中远海运科技：查询全球船舶位置：[船视宝](https://wechat.myvessel.cn)(限微信)
 *	✈[Flightera.net](https://www.flightera.net/zh/live_tracking) - 飞机实时航班追踪
 
-<div align="right" id="air">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
-全球航空展 
+<div align="right" id="3">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
+全球航空展 ✈
 ---------------
 Global Air Show
 
@@ -37,11 +38,11 @@ Global Air Show
 *	德国 柏林航空展览会 [ILA Berlin Air Show](https://www.ila-berlin.de/en) 双数年6月 舍纳菲尔德机场
 *	新加坡航展 [Singapore Airshow](https://www.singaporeairshow.com/) 双数年春节 樟宜机场
 *	中国 国际航空航天博览会 [China Air Show](https://www.airshow.com.cn/)📍 双数年11月 珠海航展中心
-*	中国 天津国际直升机博览会 [天津直博会](https://www.helicopter-china-expo.cn/)📍 单数年10月 滨海新区空港
+*	中国 [天津直博会](https://www.helicopter-china-expo.cn/)📍 China Helicopter EXPO 🚁直升机 单数年10月 滨海新区空港
 *	俄罗斯 莫斯科航展 [MAKS](https://aviasalon.com/) 双数年8月 似暂停
 
 
-<div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div align="right" id="5">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 区域性国际金融机构 💰
