@@ -1,28 +1,23 @@
-丝绸之路陆海空 💱 <sub>B&R Traffic</sub>
+🚄 丝绸之路陆海空 <sub>B&R Traffic</sub>
 =================
-大萌　202508
+大萌　202510
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaotong" />
 
 		Want to Rich, Build Roads!  —— 中国民间谚语：要想富，先修路
 
-　　陆地有高铁，海里有轮船，天上有飞机。本页收录中欧班列主要国家铁路公司、海上丝绸之路主要港口与航运公司、空中丝绸之路的航运公司与主要机场。
+　　陆地有高铁，海里有轮船，天上有飞机。本系列页面收录一带一路跨国交通陆海空相关网站。
 
-　　　writing……（学习、收集中）
+　　比如：中欧班列主要国家铁路公司、海上丝绸之路主要港口与航运公司、空中丝绸之路的航运公司与主要机场……
+
+　　writing……（学习、收集中）
 
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/陆海空
 </div>
 
-<h3>〖陆海空〗目录</h3>
 
-*	世界三大
-
-
-<div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-
-陆海空班次查询 💱
+陆海空班次查询 
 ---------------
 Land, Sea, Air
 
@@ -30,7 +25,23 @@ Land, Sea, Air
 *	🚢 中国远洋海运集团 / 中远海运科技：查询全球船舶位置：[船视宝](https://wechat.myvessel.cn)(限微信)
 *	✈[Flightera.net](https://www.flightera.net/zh/live_tracking) - 飞机实时航班追踪
 
-<div align="right" id="finance">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div align="right" id="air">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
+
+全球航空展 
+---------------
+Global Air Show
+
+*	法国 巴黎航展 [The Paris Air Show](https://www.siae.fr/en/) 单数年6月 布尔歇机场
+*	英国 范堡罗航展 [FarnBorough International Airshow](https://www.farnboroughairshow.com/) 双数年7月
+*	德国 柏林航空展览会 [ILA Berlin Air Show](https://www.ila-berlin.de/en) 双数年6月 舍纳菲尔德机场
+*	新加坡航展 [Singapore Airshow](https://www.singaporeairshow.com/) 双数年春节 樟宜机场
+*	中国 国际航空航天博览会 [China Air Show](https://www.airshow.com.cn/)📍 双数年11月 珠海航展中心
+*	中国 天津国际直升机博览会 [天津直博会](https://www.helicopter-china-expo.cn/)📍 单数年10月 滨海新区空港
+*	俄罗斯 莫斯科航展 [MAKS](https://aviasalon.com/) 双数年8月 似暂停
+
+
+<div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 区域性国际金融机构 💰
@@ -61,10 +72,9 @@ Regional international financial institutions
 ```
 	老生常谈 © 2019-2025 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	https://Laosheng.top/ydyl/jiaotong
-	丝绸之路陆海空	alpha	202508
+	https://Laosheng.top/ydyl/road
+	丝绸之路陆海空	Beta	202510
 ```
 
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+回到首页<a href=".." title="返回老生常谈首页"><img src="/indexQR-Blue.png" /></a>  
 https://Laosheng.top  
-
