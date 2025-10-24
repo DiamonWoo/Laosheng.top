@@ -1,6 +1,6 @@
 中国千县地名网 📑
 ================
-大萌　2021-2024，202503	<base target="_blank">
+大萌　2021-2024，202510	<base target="_blank">
 
 		这是英雄的祖国 / 是我生长的地方 /在这片古老的土地上 / 到处都有青春的力量。——1956年电影《上甘岭》插曲《我的祖国》
 
@@ -10,7 +10,7 @@
 
 　　**千县网**在2022年收录省级地名34+1个，地市级333+2个，县区级2830个，新疆兵团辖市12个，合计地名3212个。只有4个地方未能收录人民政府网址，分别是：福建省泉州市金门县，台湾省，海南省三沙市西沙区、南沙区。　如果你还有县级以上地名在本页找不到，那么这个地名可能不是行政区划，而是行政管理区，比如雄安新区。请到[千县网第二页](qianxian2)查询，该页收录各省的开发区网站。2025年，千县网将发布多个扩大版本。比如包括全国所有法院的 [政法集](../falv/zhengfa)，还有各县图书馆、工业遗产等，详细计划请看【服务】系列的目录页。
 
-<div id="mulu" align="right">
+<div id="0" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/ 千县网
 </div>
 
@@ -55,10 +55,11 @@
 <a href="#81" target="_top">81-香港</a>　
 <a href="#82" target="_top">82-澳门</a>　
 91-国外入籍身份证号
-　行政区划<a href="#bian" target="_top">变更史</a>
-　<a href="#LSIP" target="_top">LSIP收录进度</a>
+　行政区划<a href="#2" target="_top">变更史</a>
+　<a href="#3" target="_top">LSIP收录进度</a>
 　备选地图说明
-<small>返回索引请用浏览器‘后退’按钮</small>
+　<a href="#5" target="_top">生僻字读音</a>
+　<small>返回索引请用浏览器‘后退’按钮</small>
 
 <h3>图例</h3>
 
@@ -3664,7 +3665,7 @@
 659012 [白杨市／第九师](http://www.njs.gov.cn '2023年设立')0901⠀
 
 兵团14个师中尚有2个师(11/12)未完成‘师市合一’改革。
-<div align="right"><a href="#35个省级单位索引" target="_top">↑ Top</a></div>
+<div align="right"><a href="#0" target="_top">↑ Top</a></div>
 
 <h3 id="71">71 <a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
 710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
@@ -3688,7 +3689,8 @@
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
 路环：	圣方济各堂区  
 
-<div id="bian" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+<div id="2" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
 
 行政区划变更史
@@ -3718,7 +3720,7 @@
 		县改区	4	（开遍全国的沙县小吃发源地沙县，改为沙县区）
 		市改区	2
 
-<div id="LSIP" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="3" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
 
 LSIP收录进度
@@ -3738,6 +3740,8 @@ LSIP收录进度
 +	202204　已收录全国3212个县级以上地名和大部分网址。
 +	202105　已收录全国3213个县级以上行政区划代码与地名（省、地、县），区划数据截至2020年底。
 
+<div id="4" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
+
 <h3>备选地图介绍</h3>
 
 　　各省地图已选录完成，国内在线地图对手机浏览器用户友好的不多，而且阻碍策略随时变化。大萌从十余种在线地图中，选取能够兼顾：政区识别度较高、手机浏览器兼容性较好者，以官方地图为主，商用地图为辅。　各备选地图如下：
@@ -3753,6 +3757,16 @@ LSIP收录进度
 *	腾讯地图/搜狗地图
 *	360地图
 
+<div id="5" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
+
+<h3>参考文献</h3>
+
+　　地名中有少量生僻字，本段落收录部分参考文献，供读者掌握地名读音。页面也会逐渐收录在指针提示（电脑上可见）。
+
+*	2023-08-13，人民日报微博：[60个常被读错的地名](https://www.peopleapp.com/column/30035369585-500000422081)，有你的家乡吗？
+*	2022-12-14，知乎网友[欧琳的吟颂](https://www.zhihu.com/question/561014877)对问题‘中国都有哪些如亳州、兖州之类含有生僻字的地名？’的高赞回答。
+*	2016-12-15，中纪委网站/历史文化/【微也足道】[这些地名，您读对了吗](https://www.ccdi.gov.cn/lswhn/wenhua/wyzd/201612/t20161202_27766.html)？
+
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -3762,7 +3776,7 @@ LSIP收录进度
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.7.5	202504
+	中国千县地名网	v0.7.6	202510
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
