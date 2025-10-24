@@ -14,11 +14,23 @@
 ⏩老生常谈 /<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/ 千县网
 </div>
 
+<h3>最近变更</h3>
 
-35个省级单位索引
+　　20241227，新疆政府公布，新设立 和安县、和康县，均隶属和田地区。区划代码待定，本页等待吸收。
+
+<h3>数据来源有关部门 🔢</h3>
+
+*	国务院网站 /政策 /[互联网+](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)政务服务
+*	国务院[民政部](https://www.mca.gov.cn)网站 MCA
+	* 政务服务 /查询服务 /全国[行政区划信息](http://xzqh.mca.gov.cn/map)查询平台
+	 /县级以上行政[区划变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况
+	* 民政数据 /[行政区划代码](https://www.mca.gov.cn/n156/n186/)（历年完整数据）
+
+
+35个省级单位[索引](#0){:ID="0"}
 ----------------
 
-　图例　数据来源　
+　索引与图例　
 <a href="#11" target="_top">11-北京</a>　
 <a href="#12" target="_top">12-天津</a>　
 <a href="#13" target="_top">13-河北</a> 冀　
@@ -73,18 +85,6 @@
 	例如：河北省 130109 藁城区 批注‘藁 gǎo，草本植物名’。
 *	注2：部分政府网址收录的是其地方介绍页，或者网站地图页。
 	例如：北京市 110102 西城区。
-
-<h3>数据来源有关部门 🔢</h3>
-
-*	国务院网站 /政策 /[互联网+](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)政务服务
-*	国务院[民政部](https://www.mca.gov.cn)网站 MCA
-	* 政务服务 /查询服务 /全国[行政区划信息](http://xzqh.mca.gov.cn/map)查询平台
-	 /县级以上行政[区划变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况
-	* 民政数据 /[行政区划代码](https://www.mca.gov.cn/n156/n186/)（历年完整数据）
-
-<h3>最新变更</h3>
-
-　　20241227，新疆政府公布，新设立 和安县、和康县，均隶属和田地区。区划代码待定，本页等待吸收。
 
 
 <h3 id="11">11 <a href="http://www.beijing.gov.cn/renwen/bjgk/" title="110000 中华人民共和国首都">北京市</a>　京　010 ♾<sub>　<a href="https://beijing.tianditu.gov.cn/bzdt/img/homeimg/c6q2020_25w_1.jpg">标准地图</a></sub></h3>
@@ -3765,7 +3765,7 @@ LSIP收录进度
 
 *	2023-08-13，人民日报微博：[60个常被读错的地名](https://www.peopleapp.com/column/30035369585-500000422081)，有你的家乡吗？
 *	2022-12-14，知乎网友[欧琳的吟颂](https://www.zhihu.com/question/561014877)对问题‘中国都有哪些如亳州、兖州之类含有生僻字的地名？’的高赞回答。
-*	2016-12-15，中纪委网站/历史文化/【微也足道】[这些地名，您读对了吗](https://www.ccdi.gov.cn/lswhn/wenhua/wyzd/201612/t20161202_27766.html)？
+*	2016-12-15，中纪委网站 /历史文化 /【微也足道】[这些地名，您读对了吗](https://www.ccdi.gov.cn/lswhn/wenhua/wyzd/201612/t20161202_27766.html)？
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
