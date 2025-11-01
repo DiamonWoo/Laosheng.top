@@ -1,12 +1,12 @@
-🚄 丝绸之路陆海空 <sub>B&R Traffic</sub>
+🚄 丝绸之路陆海空 <sub>B&Road</sub>
 =================
-大萌　202510
+大萌　202511（草稿）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/road" />
 
-		Want to Rich, Build Roads!  —— 中国民间谚语：要想富，先修路
+		To get Rich，Build roads!  —— 中国民间谚语：要想富，先修路
 
-　　陆地有高铁，海里有轮船，天上有飞机。本系列页面收录一带一路跨国交通陆海空相关网站。
+　　陆地有高铁，海里有轮船，天上有飞机。本系列页面收录一带一路跨国交通(Traffic)陆海空相关网站。
 
 　　比如：中欧班列主要国家铁路公司、海上丝绸之路主要港口与航运公司、空中丝绸之路的航运公司与主要机场……
 
@@ -19,12 +19,19 @@
 
 陆海空班次查询 🎫
 ---------------
-Land, Sea, Air
+Land, Ship, Air
 
 *	🚄 [中欧班列](https://www.caexp.net/)集结中心——西安自贸港/集装箱[在途运踪](https://www.caexp.net/custom/queryTrace?containerNo=)
 *	🚢 中国远洋海运集团 / 中远海运科技：查询全球船舶位置：[船视宝](https://wechat.myvessel.cn)(限微信)
 *	✈[Flightera.net](https://www.flightera.net/zh/live_tracking) - 飞机实时航班追踪
 
+
+陆海空国际组织
+--------------
+
+*	？
+*	国际海事组织，国际船级社协会，中国船级社
+*	国际民航组织，中国航空杂志社
 
 
 <div align="right" id="3">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
@@ -34,11 +41,11 @@ Land, Sea, Air
 Global Air Show
 
 *	法国 巴黎航展 [The Paris Air Show](https://www.siae.fr/en/) 单数年6月 布尔歇机场
-*	英国 范堡罗航展 [FarnBorough International Airshow](https://www.farnboroughairshow.com/) 双数年7月
+*	英国 范堡罗航展 [FarnBorough](https://www.farnboroughairshow.com/) International Airshow 双数年7月
 *	德国 柏林航空展览会 [ILA Berlin Air Show](https://www.ila-berlin.de/en) 双数年6月 舍纳菲尔德机场
 *	新加坡航展 [Singapore Airshow](https://www.singaporeairshow.com/) 双数年春节 樟宜机场
 *	中国 国际航空航天博览会 [China Air Show](https://www.airshow.com.cn/)📍 双数年11月 珠海航展中心
-*	中国 [天津直博会](https://www.helicopter-china-expo.cn/)📍 China Helicopter EXPO 🚁直升机 单数年10月 滨海新区空港
+*	中国 [天津直博会](https://www.helicopter-china-expo.cn/)📍 China Helicopter EXPO 单数年10月 滨海新区空港 🚁直升机博览
 *	俄罗斯 莫斯科航展 [MAKS](https://aviasalon.com/) 双数年8月 似暂停
 
 
