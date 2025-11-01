@@ -29,9 +29,9 @@ Land, Ship, Air
 陆海空国际组织
 --------------
 
-*	？
-*	国际海事组织，国际船级社协会，中国船级社
-*	国际民航组织，中国航空杂志社
+*	国际铁路联盟 [UIC](https://uic.org/com/?page=websites)，中国[国家铁路局](https://www.nra.gov.cn)
+*	国际海事组织 [IMO](https://www.imo.org/zh)，国际船级社协会 [IACS](https://iacs.org.uk)，[中国船级社](https://www.ccs.org.cn/)
+*	国际民航组织 [ICAO](https://www.icao.int/)，[中国民航网](http://www.caacnews.com.cn/1/6/)
 
 
 <div align="right" id="3">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
@@ -81,7 +81,7 @@ Regional international financial institutions
 	老生常谈 © 2019-2025 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/road
-	丝绸之路陆海空	Beta	202510
+	丝绸之路陆海空 v0.3.0	202511
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="/indexQR-Blue.png" /></a>  
