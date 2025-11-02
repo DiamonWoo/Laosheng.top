@@ -17,7 +17,7 @@
 
 　　各州代码　1.[各州大学标记](#1){:target="_top"}　2.[未分州的大学](#2){:target="_top"}　3.[更多美国大学](#3){:target="_top"}　数据来源与参考
 
-<img src="ditu/usa-states.png" alt="USA 50 States" width="760" align="right" style="margin: 0px 20px 20px 0px;">
+<img src="../usa/usa-states.png" alt="USA 50 States" width="760" align="right" style="margin: 0px 20px 20px 0px;">
 
 *	University，大学，多指有博士学位的综合大学。本页收录 957个
 *	College，大学的统称，类似与中国的大学包括本科、大专、高职。本页收录 523个。
@@ -1688,8 +1688,7 @@ WY　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 　　虽然美国的高等教育权力分散，但法律规定一所大学需要经过‘政府批准’和‘机构认证’两个阶段，而且教育部需要提供全国的认证机构名单。如果遇到本页上找不到的美国大学，可以到美国教育部网站查找该校是否通过美方认证。
 
 *	美国教育部 [ED](https://www.ed.gov) Department of Education 
-	* #[DAPIP](https://ope.ed.gov/dapip/#/home) 查找高校（访问受限）
-
+	* OPE / #[DAPIP](https://ope.ed.gov/dapip/#/home) 高等教育办公室 / 查找高校（访问受限）
 
 <h3>院校信息变更</h3>
 
@@ -1714,7 +1713,7 @@ WY　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 *	2024-4-19，盘点名字相似度高达90%的美国大学！ - [国际教育联盟](https://www.jingsailian.com/news/735828.html)
 *	卡内基国际学生学会：美国高等教育[地区性认证机构](https://www.cisi-edu.org/regional-accreditation/)
 
-<div align="center"><img src="ditu/usa-uni.png" alt="University of USA" style="margin: 0px auto -20px;">
+<div align="center"><img src="usa-uni.png" alt="University of USA" style="margin: 0px auto -20px;">
 </div>
 
 
@@ -1733,6 +1732,5 @@ WY　	[怀俄明大学](http://www.uwyo.edu/)	　University of Wyoming
 <script> window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');</script>
-回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
+回到首页<a href=".." title="返回老生常谈首页"><img src="/indexQR-Blue.png" /></a>  
 https://Laosheng.top
-
