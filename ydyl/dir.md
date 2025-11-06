@@ -17,8 +17,8 @@
 	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
-+	./road　丝绸之路[海陆空](road)，跨国交通网址收集（准备中）
-	+ [Ship](road/ship) 海上丝绸之路、Land 现代丝绸之路、Air 空中丝绸之路
++	./road　丝绸之路[海陆空](road){:target="_top"}，跨国交通网址收集（准备中）
+	+ [Ship](road/ship){:target="_top"} 海上丝绸之路、Land 现代丝绸之路、Air 空中丝绸之路
 
 +	./www.edu　[世界大学名录](www.edu){:target="_top"}，中国承认学历的各国大学（收录中）
 	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。
