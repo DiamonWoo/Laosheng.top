@@ -17,10 +17,8 @@
 	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
-+	./road　丝绸之路[陆海空](road)（准备中）：陆海空班次查询……
-	+ Land 现代丝绸之路：[中欧班列](https://www.imsilkroad.com/news/silubanlie)⇗、中亚班列，集装箱国际铁路联运，各国铁路集团官网
-	+ Ship [海上丝绸之路](road/ship)：中国外贸[港口](road/港口)，国际海运基本港，各港务集团官网
-	+ Air 空中丝绸之路：国内[空港建设](http://www.cuaer.com/plus/list.php?tid=14)⇗，国际航空公司与主要机场官网
++	./road　丝绸之路[海陆空](road)，跨国交通网址收集（准备中）
+	+ [Ship](road/ship) 海上丝绸之路、Land 现代丝绸之路、Air 空中丝绸之路
 
 +	./www.edu　[世界大学名录](www.edu){:target="_top"}，中国承认学历的各国大学（收录中）
 	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。
@@ -245,7 +243,7 @@
 	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.4.4	202511
+	一带一路民间站 v3.4.5	202511
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
