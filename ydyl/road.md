@@ -1,4 +1,4 @@
-🚄 丝绸之路海陆空 <sub>B&Road</sub>
+🚄 丝绸之路海陆空 <sub>Road</sub>
 =================
 大萌　202511（草稿）
 <base target="_blank">
@@ -8,30 +8,29 @@
 
 　　陆地有高铁，海里有轮船，天上有飞机。本系列页面收录一带一路跨国交通(Traffic)陆海空相关网站。
 
-　　比如：中欧班列主要国家铁路公司、海上丝绸之路主要港口与航运公司、空中丝绸之路的航运公司与主要机场……
-
 　　writing……（学习、收集中）
+
++	Ship [海上丝绸之路](ship)
+
+　　世界船公司排行榜、世界船级社协会成员、全球十大集装箱码头、
+	中国外贸[港口](road/港口)，国际海运基本港，各港务集团官网
+
++	[Land](land) 现代丝绸之路：[中欧班列](https://www.imsilkroad.com/news/silubanlie)⇗、中亚班列，集装箱国际铁路联运，各国铁路集团官网
+
++	Air [空中丝绸之路](air)：国内[空港建设](http://www.cuaer.com/plus/list.php?tid=14)⇗，国际航空公司与主要机场官网
+
 
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/陆海空
 </div>
 
 
-海陆空目录
-----------
-
-+	Ship [海上丝绸之路](ship)：世界十大船公司、世界船级社协会成员、
-	中国外贸[港口](road/港口)，国际海运基本港，各港务集团官网
-+	[Land](land) 现代丝绸之路：[中欧班列](https://www.imsilkroad.com/news/silubanlie)⇗、中亚班列，集装箱国际铁路联运，各国铁路集团官网
-+	Air [空中丝绸之路](air)：国内[空港建设](http://www.cuaer.com/plus/list.php?tid=14)⇗，国际航空公司与主要机场官网
-
-
-陆海空班次查询 🎫
+海陆空班次查询 🎫
 ---------------
-Land, Ship, Air
+Ship, Land, Air
 
-*	🚄 [中欧班列](https://www.caexp.net/)集结中心——西安自贸港/集装箱[在途运踪](https://www.caexp.net/custom/queryTrace?containerNo=)
 *	🚢 中国远洋海运集团 / 中远海运科技：查询全球船舶位置：[船视宝](https://wechat.myvessel.cn)(限微信)
+*	🚄 [中欧班列](https://www.caexp.net/)集结中心——西安自贸港/集装箱[在途运踪](https://www.caexp.net/custom/queryTrace?containerNo=)
 *	✈[Flightera.net](https://www.flightera.net/zh/live_tracking) - 飞机实时航班追踪
 
 
@@ -42,20 +41,6 @@ Land, Ship, Air
 *	国际海事组织 [IMO](https://www.imo.org/zh)，国际船级社协会 [IACS](https://iacs.org.uk)，[中国船级社](https://www.ccs.org.cn/)
 *	国际民航组织 [ICAO](https://www.icao.int/)，[中国民航网](http://www.caacnews.com.cn/1/6/)
 
-
-<div align="right" id="3">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-全球航空展 ✈
----------------
-Global Air Show
-
-*	法国 巴黎航展 [The Paris Air Show](https://www.siae.fr/en/) 单数年6月 布尔歇机场
-*	英国 范堡罗航展 [FarnBorough](https://www.farnboroughairshow.com/) International Airshow 双数年7月
-*	德国 柏林航空展览会 [ILA Berlin Air Show](https://www.ila-berlin.de/en) 双数年6月 舍纳菲尔德机场
-*	新加坡航展 [Singapore Airshow](https://www.singaporeairshow.com/) 双数年春节 樟宜机场
-*	中国 国际航空航天博览会 [China Air Show](https://www.airshow.com.cn/)📍 双数年11月 珠海航展中心
-*	中国 [天津直博会](https://www.helicopter-china-expo.cn/)📍 China Helicopter EXPO 单数年10月 滨海新区空港 🚁直升机博览
-*	俄罗斯 莫斯科航展 [MAKS](https://aviasalon.com/) 双数年8月 似暂停
 
 
 <div align="right" id="5">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
