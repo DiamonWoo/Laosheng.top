@@ -1,7 +1,8 @@
-一带一路民间站 💃 B&R Folk Website
+一带一路民间站 💃 B&R
 =================
 大萌	2022-2025
 <base target="_blank">
+<meta name='description' content='一带一路民间站，the Belt and Road Folk Website'>
 <link rel="canonical" href="https://Laosheng.top/ydyl/dir" />
 
 		 国之交在于民相亲 ，民相亲在于心相通 —— 2017年北京，习近平
@@ -27,8 +28,8 @@
 
 +	看美国，地球上少数不参加B&R的国家之一
 	+ USA3　美国权力结构，三权分立的具体表现
-	+ USA50　[美国五十州](usa/USA50) 🇺🇸（新上线)　美国五十个州政府网站、各州特点。
-	+ USA1000　美国千县政府网（规划中）　美国约三千个县镇市政府网址。
+	+ USA50　[美国五十州](usa/USA50) 🇺🇸，美国五十个州政府网站、各州特点。（新上线)
+	+ USA1000　美国千县政府网，美国约三千个县镇市政府网址。（规划中）
 
 <div align="right">
 	⏩ 老生常谈
