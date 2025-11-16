@@ -16,17 +16,19 @@
 
 <h3>最近变更</h3>
 
++	20251107，重庆市行政区划调整，两江新区升级为行政区，撤销江北区、渝北区。区划代码待公布。
 +	20250425，民政部公布全国代码中包括：653228 和康县、653229 和安县。两县官网待公布。
-+	20241227，新疆政府公布，新设立 和康县、和安县，均隶属和田地区。区划代码待公布。
++	20241227，新疆政府公布，新设立 和康县、和安县，均隶属和田地区。
 +	20241110，民政部公布，三沙市西沙区、南沙区行政区划代码。本页已吸收。
 
 <h3>数据来源有关部门 🔢</h3>
 
-*	国务院网站 /政策 /[互联网+](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)政务服务
-*	国务院[民政部](https://www.mca.gov.cn)网站 MCA
+*	国务院网站 /政策 /<del>主题 /[互联网+](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)政务服务</del>
+	(2025年关闭)
+*	国务院[民政部](https://www.mca.gov.cn)网站 MCA.gov.cn
 	* 政务服务 /查询服务 /全国[行政区划信息](http://xzqh.mca.gov.cn/map)查询平台
-	/2024年以前县级以上[变更情况](http://xzqh.mca.gov.cn/description?dcpid=1)
-	* 民政数据 /统计数据 /近年县以上[行政区划代码](https://www.mca.gov.cn/n156/n2679/)
+	/[县级以上变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况(2024年前)
+	* 民政数据 /统计数据 /近年[行政区划代码](https://www.mca.gov.cn/n156/n2679/)
 	* 民政数据(旧版) /[2024年以前](https://www.mca.gov.cn/n156/n186/)行政区划代码
 
 
@@ -2561,14 +2563,14 @@
 500102 [涪陵区](http://www.fl.gov.cn )⠀
 500103 [渝中区](http://www.cqyz.gov.cn )⠀
 500104 [大渡口区](http://www.ddk.gov.cn )⠀
-500105 [江北区](http://www.cqjb.gov.cn '有同名区')⠀
+<del>500105 [江北区](http://www.cqjb.gov.cn '有同名区')</del>⠀
 500106 [沙坪坝区](http://www.cqspb.gov.cn/zjsq )⠀
 500107 [九龙坡区](http://www.cqjlp.gov.cn )⠀
 500108 [南岸区](http://www.cqna.gov.cn )⠀
 500109 [北碚区](https://www.beibei.gov.cn/zjbb '碚 bèi ')⠀
 500110 [綦江区](http://www.cqqj.gov.cn '綦 qí')⠀
 500111 [大足区](http://www.dazu.gov.cn )⠀
-500112 [渝北区](http://www.ybq.gov.cn )⠀
+<del>500112 [渝北区](http://www.ybq.gov.cn )</del>⠀
 500113 [巴南区](http://www.cqbn.gov.cn )⠀
 500114 [黔江区](https://www.qianjiang.gov.cn )⠀
 500115 [长寿区](http://www.cqcs.gov.cn )⠀
@@ -2595,6 +2597,7 @@
 500241 [秀山土家族苗族自治县](http://www.cqxs.gov.cn/xsxq_207/ )⠀
 500242 [酉阳土家族苗族自治县](http://www.youyang.gov.cn/zjyy/ '网站会吃掉www前缀')⠀
 500243 [彭水苗族土家族自治县](http://www.psx.gov.cn/zjps/ '旧域名ps.cq.gov.cn失效')⠀
+2025设立：两江新区⠀
 
 <h3 id="51">51 <a href="https://www.sc.gov.cn/10462/c106773/zjsc.shtml" title="510000 ">四川省</a>　川/蜀<sub>　<a href="https://map.baidu.com/search/四川省/@?querytype=s&wd=四川地图">baidu地图搜索</a></sub></h3>
 
@@ -3771,7 +3774,7 @@ LSIP收录进度
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.7.6	202510
+	中国千县地名网	v0.7.7	202511
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
