@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~202504
+大萌　202307~202511
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -84,12 +84,16 @@ Gold Market
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
 	 * 国家外汇局会每月公布[官方储备资产](https://www.safe.gov.cn/safe/tjsj1/)，包括外汇储备和黄金储备，比如[2025年](https://www.safe.gov.cn/safe/2025/0206/25744.html)的数据网页。
 *	香港[金银业贸易场](http://www.cgse.com.hk/)，报价单位多样，安士=盎司(oz)。
-*	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DGCX](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。  
-	疑问：详细价格在哪里？
+*	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DGCX](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。（疑问：具体价格在哪里？）  
 
-　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g) 　假设美元汇率7.0不变，可简化为：
+　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g)
 
-　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）　比如，某日伦敦金报价：2608美元/盎司，约等于 92美元/克，若按美元兑人民币7比1计，等于 644元/克；若按汇率7.2计，则等于662.4元/克。可见黄金在境内外存在价差。
+　　比如，某日伦敦金报价：4000美元/盎司，约等于 141.09美元/克，若按美元兑人民币7比1计，约等于 987元/克；若按汇率7.2计，约等于1015元/克。
+假设美元汇率在7.0~7.2波动，可简化为：
+
+　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
+
+　　如果观察国家储备，常用单位是“吨”或“万盎司”，1万盎司 = 0.2835 吨，1吨 = 3.5274 万盎司。
 
 看国际黄金价格的国内商业网站有：
 
@@ -98,7 +102,7 @@ Gold Market
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 *	[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍提供多币种多计量单位的黄金价格。该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
 
-　　上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，[民生银行](https://www.cmbc.com.cn/grkh/gjs/jcj/)积存金提供24小时交易。向访客公布黄金实时报价的银行有：  
+　　上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，有多家银行提供24小时积存金交易。向访客公布黄金实时报价的银行有：  
 　　[工商银行](https://www.icbc.com.cn/column/1438058327061184578.html)%、
 	[农业银行](https://ewealth.abchina.com/Gold/)、
 	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
@@ -409,7 +413,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2025 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.7	202504
+	环球金融交易所	v0.5.8	202511
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
