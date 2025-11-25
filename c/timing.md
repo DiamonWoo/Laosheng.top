@@ -255,7 +255,7 @@
 *	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，
 	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
-*	Total Commander，经典双栏文件管理器TC提供免费[安卓版本](https://www.ghisler.ch/board/viewforum.php?f=22)
+*	[TC](https://www.ghisler.com/)，Total Commander双栏[文件管理器](https://xbeta.info/tc/)提供免费[安卓版本](https://www.ghisler.com/androidapp.htm)
 
 *	[雷锋网](https://www.leiphone.com/)Ai，#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
@@ -416,7 +416,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202510
+	提名网站与落榜记	　202511
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
