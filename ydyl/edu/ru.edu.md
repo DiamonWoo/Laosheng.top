@@ -11,15 +11,15 @@
 	UA	乌克兰   	212		GE	格鲁吉亚	13
 	BY	白俄罗斯 	53 		AZ	阿塞拜疆	11
 	KZ	哈萨克斯坦	44 	
-	UZ	乌兹别克斯坦	28 		LT	立陶宛	
-	KG	吉尔吉斯斯坦	24 		EE	爱沙尼亚	
+	UZ	乌兹别克斯坦	28+1		LT	立陶宛	12
+	KG	吉尔吉斯斯坦	24 		EE	爱沙尼亚	8
 	TJ	塔吉克斯坦	14 		LV	拉脱维亚	8
 	TM	土库曼斯坦	3  		MD	摩尔多瓦	6
 
 <div id="mulu" align="right">
 ⏩老生常谈 
-/ <a href="./dir" target="_top">【一带一路】</a>
-/ <a href="./www.edu" target="_top">EDU</a>
+/ <a href="../dir" target="_top">【一带一路】</a>
+/ <a href="../www.edu" target="_top">EDU</a>
 / 前苏联大学
 </div>
 
@@ -908,4 +908,3 @@
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
-
