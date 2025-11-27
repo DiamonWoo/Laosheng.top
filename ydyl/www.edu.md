@@ -87,7 +87,7 @@
 
 <div id="23" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-### [su.edu](edu/su.edu) 前苏联15国 🛸👨‍🚀
+### [ru.edu](edu/ru.edu) 前苏联15国 🛸👨‍🚀
 
 　　15国926+1认证院校。
 
