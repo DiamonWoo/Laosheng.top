@@ -12,8 +12,8 @@
 
 <div id="mulu" align="right">
 ⏩老生常谈 
-/ <a href="./dir" target="_top">【一带一路】</a>
-/ <a href="./www.edu" target="_top">EDU</a>
+/ <a href="../dir" target="_top">【一带一路】</a>
+/ <a href="../www.edu" target="_top">EDU</a>
 / 亚洲大学
 </div>
 
@@ -720,4 +720,5 @@
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
+
 
