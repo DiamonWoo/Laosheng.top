@@ -6,7 +6,7 @@
 
 　　这143个国家在留学网上按照中文国名的拼音排序，用户想要找一个学校，首先要知道在哪个国家，点击国家的中文拼音首字母后，再逐个翻页遍历学校。网页上没有提供搜索功能，怎么才能查的更快呢？大萌想把这一百多个国家按相邻相近关系，归为七个页面，每个页面收录这一组国家的所有院校，提高搜索命中率，节约您的搜寻时间。
 
-　　本页将提供所有国家的名称索引，分为七组：美国、英澳新加4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。想找中国的大学、台港澳的大学，请到[*高校所*](../fuwu/yuanxiao '高等院校三千所')。
+　　本页将提供所有国家的名称索引，分为七组：美国、英澳新加4国、前苏联15国、欧洲34国、朝韩日3国、亚洲33国、美洲20+非洲33国。读者可以利用浏览器搜索功能查找国家在哪一个组（网页）。此外，大萌将逐渐收录著名院校的建校年份、所在城市、院校网址。工作正在进行，欢迎提出意见。想找中国的大学、台港澳的大学，请到[*高校所*](../fuwu/yuanxiao '高等院校三千所')页面。
 
 <div id="mulu" align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a> / EDU
@@ -16,7 +16,7 @@
 
 　有关部门
 　排行榜
-　国别分组：[美国](#2){:target="_top"}、英澳新加、[欧洲](#23){:target="_top"}、[前苏联](#24){:target="_top"}、朝韩日、[亚洲](#26){:target="_top"}、[美洲和非洲](#27){:target="_top"}
+　国别分组：[美国](#2){:target="_top"}、英澳新加、[前苏联](#23){:target="_top"}、[欧洲](#24){:target="_top"}、朝韩日、[亚洲](#26){:target="_top"}、[美洲和非洲](#27){:target="_top"}
 　鸣谢 [参考文献](#3){:target="_top"}
 
 ### 有关部门
@@ -87,6 +87,35 @@
 
 <div id="23" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
+### [su.edu](edu/su.edu) 前苏联15国 🛸👨‍🚀
+
+　　15国926+1认证院校。
+
+		RU	俄罗斯	473
+		UA	乌克兰	212
+		BY	白俄罗斯	53
+		KZ	哈萨克斯坦	44
+		UZ	乌兹别克斯坦	28+1
+		KG	吉尔吉斯斯坦	24
+		TJ	塔吉克斯坦	14
+		TM	土库曼斯坦	3
+
+		AM	亚美尼亚	17
+		GE	格鲁吉亚	13
+		AZ	阿塞拜疆	11
+
+		LT	立陶宛	12
+		EE	爱沙尼亚	8
+		LV	拉脱维亚	8
+		MD	摩尔多瓦	6
+
+*	俄罗斯联邦 [科学及高等教育部](https://www.minobrnauki.gov.ru/)
+/	[高校列表](https://www.minobrnauki.gov.ru/about/podvedomstvennye-organizatsii/)
+*	乌克兰 [教育及科技部](https://mon.gov.ua/)
+/	[认证委员会](https://ak.gov.ua/)
+
+<div id="24" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
 ### [euro.edu](edu/euro.edu) 欧洲大学一锅粥 🏰🧙
 
 　　34国1648所认证院校，不包括英国及前苏联国家
@@ -130,34 +159,6 @@
 *	德国 [联邦教育与研究部](https://www.bmbf.de/)🍴
 /	大学校长会议 / [德国高校搜索](https://www.hochschulkompass.de/hochschulen/hochschulsuche.html)
 
-<div id="24" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-### [su.edu](edu/su.edu) 前苏联15国 🛸👨‍🚀
-
-　　15国926+1认证院校。
-
-		RU	俄罗斯	473
-		UA	乌克兰	212
-		BY	白俄罗斯	53
-		KZ	哈萨克斯坦	44
-		UZ	乌兹别克斯坦	28+1
-		KG	吉尔吉斯斯坦	24
-		TJ	塔吉克斯坦	14
-		TM	土库曼斯坦	3
-
-		AM	亚美尼亚	17
-		GE	格鲁吉亚	13
-		AZ	阿塞拜疆	11
-
-		LT	立陶宛	12
-		EE	爱沙尼亚	8
-		LV	拉脱维亚	8
-		MD	摩尔多瓦	6
-
-*	俄罗斯联邦 [科学及高等教育部](https://www.minobrnauki.gov.ru/)
-/	[高校列表](https://www.minobrnauki.gov.ru/about/podvedomstvennye-organizatsii/)
-*	乌克兰 [教育及科技部](https://mon.gov.ua/)
-/	[认证委员会](https://ak.gov.ua/)
 
 ### [kkj.edu](edu/kkj.edu) 朝韩日大学 ☯
 
@@ -277,7 +278,7 @@
 鸣谢 💐
 -------
 
-　　世界大学系列页面的编写要较长时间才能完成，大萌需要了解各国的高等教育学制、规模、有关部门，主要参考了三个网站，在此表示感谢！如果读者有急用，可以到这三个网站自行了解：
+　　世界大学系列页面的编写，需要较长时间才能完成，因为学习基础知识的工作量比较大（各国的高等教育学制、规模、有关部门…）。大萌主要参考三个网站，如果读者有急用，可以直接到这三个网站自行了解：
 
 　　#[**维基百科**](https://zh.wikipedia.org/wiki/高等教育)相关条目、台湾地区教育部 #[**国际及两岸教育司**](https://depart.moe.edu.tw/ED2500/Content_List.aspx?n=62011D1866DE25AD)网站‘业务专区’。后者有很详尽的外国大学参考pdf文件，包含了各国的学制介绍和大学网址。还有辽宁的民间网站[**各国学校排名网**](https://www.university-list.net/chinese.htm)，有美加英澳新等多国大学网址列表。
 
@@ -295,7 +296,7 @@
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	https://Laosheng.top/ydyl/www.edu
-	世界大学名录 v0.3.5	202510
+	世界大学名录 v0.3.5	202511
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
