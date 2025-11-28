@@ -1,14 +1,31 @@
-空中丝绸之路 Air
+空中丝绸之路 Air ✈
 ============
 
 		空中丝绸之路节点
 
-　　
+　　（草稿）
 
 <div id="mulu" align="right">
 ⏩老生常谈 /【<a href="https://Laosheng.top/ydyl/dir" target="_top">一带一路</a>】
 / <a href="../road" target="_top">海陆空</a>
 </div>
+
+
+全球航空展 ✈
+---------------
+Global Air Show
+
+*	法国 巴黎航展 [The Paris Air Show](https://www.siae.fr/en/) 单数年6月 布尔歇机场
+*	英国 范堡罗航展 [FarnBorough](https://www.farnboroughairshow.com/) International Airshow 双数年7月
+*	德国 柏林航空展览会 [ILA Berlin Air Show](https://www.ila-berlin.de/en) 双数年6月 舍纳菲尔德机场
+*	新加坡航展 [Singapore Airshow](https://www.singaporeairshow.com/) 双数年春节 樟宜机场
+*	中国 国际航空航天博览会 [China Air Show](https://www.airshow.com.cn/)📍 双数年11月 珠海航展中心
+*	中国 [天津直博会](https://www.helicopter-china-expo.cn/)📍 China Helicopter EXPO 单数年10月 滨海新区空港 🚁直升机博览
+*	俄罗斯 莫斯科航展 [MAKS](https://aviasalon.com/) 双数年8月 似暂停
+
+
+
+<div align="right" id="2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 世界十大航空公司
@@ -28,10 +45,11 @@
 	9	爱尔兰	瑞安航空	607
 	10	德国	汉莎航空	514 
 
+
 ### 其他较大的航司：
 
-*	法国	法荷航集团	（包括法航，与荷兰合资）
-*	英国	国际航空集团	（包括英航，与西班牙合资）
+*	法国	法荷航集团	（法航与荷兰合资）
+*	英国	国际航空集团	（英航与西班牙合资）
 *	土耳其航空	
 *	阿联酋航空	
 *	印度	靛蓝航空	
@@ -42,6 +60,9 @@
 
 *	维基百科条目‘[世界十大航空公司](https://zh.wikipedia.org/wiki/世界十大航空公司)’，不同方式排名。
 *	全球企业动态@雪球：2025年全球最佳[航空公司100强榜单](https://xueqiu.com/6140821506/340471707)
+
+
+<div align="right" id="3">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 全球机场运力排行
@@ -64,22 +85,6 @@
 
 *	英国航空服务调查机构 SKYTRAX 公布“[2024全球最佳机场排名](https://www.sohu.com/a/781844412_415223)”（World's Top 100 Airports 2024）。
 *	国际航空数据提供商 OAG 公布“[2024年全球十大繁忙国际机场](https://finance.sina.com.cn/jjxw/2025-02-16/doc-ineksafm5960883.shtml)”，按运力（座位数）排名。
-
-
-<div align="right" id="3">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
-
-全球航空展 ✈
----------------
-Global Air Show
-
-*	法国 巴黎航展 [The Paris Air Show](https://www.siae.fr/en/) 单数年6月 布尔歇机场
-*	英国 范堡罗航展 [FarnBorough](https://www.farnboroughairshow.com/) International Airshow 双数年7月
-*	德国 柏林航空展览会 [ILA Berlin Air Show](https://www.ila-berlin.de/en) 双数年6月 舍纳菲尔德机场
-*	新加坡航展 [Singapore Airshow](https://www.singaporeairshow.com/) 双数年春节 樟宜机场
-*	中国 国际航空航天博览会 [China Air Show](https://www.airshow.com.cn/)📍 双数年11月 珠海航展中心
-*	中国 [天津直博会](https://www.helicopter-china-expo.cn/)📍 China Helicopter EXPO 单数年10月 滨海新区空港 🚁直升机博览
-*	俄罗斯 莫斯科航展 [MAKS](https://aviasalon.com/) 双数年8月 似暂停
-
 
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
