@@ -41,14 +41,14 @@
 全球治理倡议
 </b></p>
 
-<h3>简目 <sup>Dir</sup></h3>
+<h3 id="mulu">简目 <sup>Dir</sup></h3>
 
-*	国别数据 / 有关部门 / [外交热点](#news1){:target="_top"}
+*	国别计数 / 有关部门 / [外交热点](#3){:target="_top"}
 *	工具网站：[翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"} / [种子数据](#iso){:target="_top"}
 
 
-国别数据 Nations Data
----------------------
+国别计数 Country Count
+----------------------
 
 *	中方对外单向免签国迅速增加，本页正在收录……
 *	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
@@ -63,7 +63,7 @@
 一带一路有关部门 B&R Web from China
 ----------------
 
-*	<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a> / 习近平[外交思想和新时代](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")中国外交
+*	<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a> / 习近平外交思想和[新时代中国外交](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")
 	* <a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
 /	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
 /	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”
@@ -82,6 +82,8 @@
 	[浙江](https://zjydyl.zj.gov.cn)、
 	[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
 	[湖南](http://ydyl.hunan.gov.cn)
+
+<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 外交热点 Diplomatic hotspot
@@ -120,6 +122,8 @@
 *	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
 	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
 	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
+
+<div id="4" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 一带一路工具网站 Web Help B&R
@@ -233,6 +237,8 @@
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
 *	[哪些国家没参与一带一路倡议](https://cn.bing.com/search?q=哪些国家没参与一带一路倡议)？
+
+<div align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
