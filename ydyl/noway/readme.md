@@ -1,6 +1,8 @@
-无带无路
+没带没路
 --------
 no way
 
-Jap、Ind、Aus、Eng
+JPN、IND、AUS、GBR、KOR、  
+日、印、澳、英、韩
 
+PRK(KP)
