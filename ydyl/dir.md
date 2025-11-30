@@ -43,13 +43,12 @@
 
 <h3>简目 <sup>Dir</sup></h3>
 
-*	外交动态 / 巴以冲突 /美国大选
-*	[官方网址](#news1){:target="_top"} / [种子数据](#iso){:target="_top"} / 2022卡塔尔⚽
-*	工具网站 / [翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"} / 延申
+*	国别数据 / 有关部门 / [外交热点](#news1){:target="_top"}
+*	工具网站：[翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"} / [种子数据](#iso){:target="_top"}
 
 
-外交动态 Diplomatic Dynamics
----------------------------
+国别数据 Nations Data
+---------------------
 
 *	中方对外单向免签国迅速增加，本页正在收录……
 *	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
@@ -60,15 +59,33 @@
 *	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
 *	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
 
-<h3 id="news2">美国总统大选实时计票地图</h3>
 
-　　[凤凰新闻](https://ishare.ifeng.com/loc/usavote2024?)手机版、
-	<small>美国[有线电视新闻网CNN](https://edition.cnn.com)</small> /[专题页](https://edition.cnn.com/election/2024/results/president?)、
-	美联社[Ap News](https://apnews.com/) /%[详细页](https://apnews.com/projects/election-results-2024/)、
-	今日美国[USA TODAY](https://www.usaToday.com) /%[详细页](https://www.usaToday.com/elections/results/2024-11-05/president?)
+一带一路有关部门 B&R Web from China
+----------------
 
-　　<small>选举日11月5日起，几大美国新闻网站均在首页刊出实时计票地图，但详情页面在国内访问缓慢，疑似负载过重或主动拒绝国外访问
-。</small>
+*	<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a> / 习近平[外交思想和新时代](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")中国外交
+	* <a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
+/	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
+/	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”
+	* 外交部：<a title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交要闻</a>
+/	<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a>
+/	<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>领事保护热线
+	* 商务部：<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">统计数据</a>
+/	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
+/	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
+	* 海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线
+	* 国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
+*	<b>地方一带一路网站</b>：
+	陕西[](http://snydyl.shaanxi.gov.cn)？
+	[甘肃](https://ydyl.gansu.gov.cn/gsydyl/)、
+	[江苏](https://ydyl.jiangsu.gov.cn)、
+	[浙江](https://zjydyl.zj.gov.cn)、
+	[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
+	[湖南](http://ydyl.hunan.gov.cn)
+
+
+外交热点 Diplomatic hotspot
+--------
 
 <h3 id="news1">“巴以冲突”各方媒体 💥 CeaseFire !</h3>
 
@@ -88,54 +105,15 @@
 	伊斯兰合作[通讯社联盟](https://una-oic.org/zh-CN/News/palestinian/)巴勒斯坦专题📍 zh，
 	更多外媒请见：一带一路云媒体。
 
+<h3 id="news2">2024美国总统大选实时计票地图</h3>
 
-一带一路官方网址 B&R Web from China
------------------------------------
+　　[凤凰新闻](https://ishare.ifeng.com/loc/usavote2024?)手机版、
+	<small>美国[有线电视新闻网CNN](https://edition.cnn.com)</small> /[专题页](https://edition.cnn.com/election/2024/results/president?)、
+	美联社[Ap News](https://apnews.com/) /%[详细页](https://apnews.com/projects/election-results-2024/)、
+	今日美国[USA TODAY](https://www.usaToday.com) /%[详细页](https://www.usaToday.com/elections/results/2024-11-05/president?)
 
-　　习近平[外交思想和新时代](http://cn.chinaDiplomacy.org.cn "中国互联网新闻中心/中国国际问题研究院")中国外交：全球发展倡议、全球安全倡议、全球文明倡议
-
-<a title="中华人民共和国中央人民政府" href="http://www.gov.cn">中国政府</a>
-/	<a title="国务院发展和改革委员会" href="https://www.ndrc.gov.cn">发改委</a>
-/	<a href="https://www.yidaiyilu.gov.cn/yw.htm" title="一带一路 > 要闻">一带一路官网</a>🌞
-/	[中欧班列](https://www.crexpress.cn)官网：一带一路上飞驰的“钢铁驼队”
-
-　　外交部：<a title="首页>外交动态>重要新闻 " href="https://www.mfa.gov.cn/zyxw/">外交要闻</a>
-/	<a title="首页>国家和组织>国际和地区组织" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/">国际组织</a>
-/	<a title="+86-10-12308 全球领事保护与服务应急热线" href="http://cs.mfa.gov.cn">12308</a>领事保护热线
-
-　　商务部：<a title="商务部>公共服务资源平台，进出口统计数据" href="http://opendata.mofcom.gov.cn/front/data/?t=1">统计数据</a>
-/	<a title="中国自由贸易区服务网" href="http://fta.mofcom.gov.cn/">RCEP</a>
-/	<a title="+86-10-12335 中国外经贸企业服务网" href="http://12335.mofcom.gov.cn">12335</a>外经贸服务
-
-　　海关总署：<a title="互联网+海关，海关服务热线" href="http://online.customs.gov.cn/">12360</a>海关服务热线
-
-　　国家移民管理局：<a target="_blank" title="出入境与签证咨询" href="https://www.nia.gov.cn/Enquiry">12367</a>签证咨询热线……　更多中国政府<a title="中央有关部门集" href="../fuwu/zhongyang">有关部门</a>
-
-　　<b>地方一带一路网站</b>：
-	陕西[](http://snydyl.shaanxi.gov.cn)？
-	[甘肃](https://ydyl.gansu.gov.cn/gsydyl/)、
-	[江苏](https://ydyl.jiangsu.gov.cn)、
-	[浙江](https://zjydyl.zj.gov.cn)、
-	[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
-	[湖南](http://ydyl.hunan.gov.cn)
-
-<h3 id="iso">种子数据 🔠：ISO国别码</h3>
-
-　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
-
-　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、海关代码、互联网顶级域)的基础。
-
-　　ISO官网为国别代码提供五种格式：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他格式，可到[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网用2字母代码查询。
-
-　　中国建立了与ISO代码对应的推荐标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。国标官网未提供全文。
-
-　　ISO 1366国别代码目前收录249个国别，在249个国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在部分国际组织有驻外使团(不是使领馆)，收录在‘[国际组织四大类](united)’页面，在外交部网站可查阅更多的[中国驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
-
-🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[🧭](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏮](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🛡](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
-🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[🧭](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏮](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🛡](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
-
-*	💷/💶/💵	英镑/欧元/美元
-*	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
+　　<small>选举日11月5日起，几大美国新闻网站均在首页刊出实时计票地图，但详情页面在国内访问缓慢，疑似负载过重或主动拒绝国外访问
+。</small>
 
 <h3>2022卡塔尔世界杯 🇶🇦⚽</h3>
 
@@ -232,6 +210,24 @@
 </td></tr></tbody>
 </table><!-- embed?h=460&w=680&cp=47.65079497672418~16.79013254886261&lvl=5 -->
 
+<h3 id="iso">种子数据 🔠：ISO国别码</h3>
+
+　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
+
+　　[ISO](https://www.iso.org/popular-standards.html) 是一个旨在建立全球工商业国际标准的非政府组织，成立于1947年，总部在瑞士日内瓦，中文俗称：国际标准化组织。　ISO为国家和地区制定的编码标准叫做《[ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) 》，在主权国家认定上与[联合国](https://www.un.org/zh/about-us/member-states) 保持一致，得到了广泛采用，并成为很多其他标准(货币代码、海关代码、互联网顶级域)的基础。
+
+　　ISO官网为国别代码提供五种格式：英文短名、法文短名、2字母、3字母、3位数字，以中国为例：China、Chine (la)、CN、CHN、156。　本页只收录最常用的2字母代码，如果需要其他格式，可到[ISO国别代码](https://www.iso.org/obp/ui/#search/code/)官网用2字母代码查询。
+
+　　中国建立了与ISO代码对应的推荐标准，[目前已经历3个版本](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D7BB83D3A7E05397BE0A0AB82A)：GB/T 2659-1994，GB/T 2659-2000 世界各国和地区名称代码（已于2023年废止），GB/T 2659.1-2022 世界各国和地区及其行政区划名称代码 第1部分：国家和地区代码。国标官网未提供全文。
+
+　　ISO 1366国别代码目前收录249个国别，在249个国别代码之外，还有少量代码为特殊组织保留，如：EU=欧盟，SU=苏联，UN=联合国。中国在部分国际组织有驻外使团(不是使领馆)，收录在‘[国际组织四大类](united)’页面，在外交部网站可查阅更多的[中国驻外使团](https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/)。
+
+🇪🇺	⠀EU⠀	<b>	<a title="欧洲联盟" href="https://www.mfa.gov.cn/web/gjhdq_676201/gjhdqzz_681964/1206_679930/1206x0_679932/">欧盟</a>	European Union	</b>	⠀-	⠀[🧭](http://eu.mofcom.gov.cn "驻欧盟使团经济商务处")	⠀[🏮](http://eu.china-mission.gov.cn/ "中国驻欧盟使团")	⠀0032	<sup>总部：比利时布鲁塞尔（Brussels）</sup>	<sup>-7h</sup>	⠀[🛡](https://www.eeas.europa.eu/delegations/china_zh-hans "欧盟驻华代表团")⠀/	[wb](https://weibo.com/euinchina "欧盟在中国")	⠀[👥](https://www.eeas.europa.eu/_en "欧盟对外行动署")	⠀[🏢](https://commission.europa.eu/index_en "欧盟委员会")	⠀€<sup>[欧元](https://cn.bing.com/search?q=EUR兑CNY)</sup>	EUR  
+🇺🇳	⠀UN⠀	<b>	<a title="联合国" href="https://www.un.org/zh">联合国</a>	United Nations	</b>	⠀-	⠀[🧭](http://undg.mofcom.gov.cn/ "中国常驻联合国代表团发展处")	⠀[🏮](http://un.china-mission.gov.cn/ "中国常驻联合国代表团")	⠀001	<sup>总部：美国纽约（New York）</sup>	<sup>-13h</sup>	⠀[🛡](https://china.un.org/zh/ "联合国驻华工作团队")⠀/	[wb](https://weibo.com/un "联合国微博")	　[更多联合国微博](https://s.weibo.com/user?q=联合国&Refer=weibo_user)		⠀  
+
+*	💷/💶/💵	英镑/欧元/美元
+*	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
+
 <h3 id="yan">延申阅读</h3>
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
@@ -244,7 +240,7 @@
 	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.4.5	202511
+	一带一路民间站 v3.4.6	202512
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
