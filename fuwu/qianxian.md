@@ -1,6 +1,6 @@
 中国千县地名网 📑
 ================
-大萌　2021-2024，202510	<base target="_blank">
+大萌 © 2021-2025	<base target="_blank">
 
 		这是英雄的祖国 / 是我生长的地方 /在这片古老的土地上 / 到处都有青春的力量。——1956年电影《上甘岭》插曲《我的祖国》
 
@@ -8,7 +8,7 @@
 
 　　民政部几乎每年都会在网站公布全国的行政区划代码，国务院‘互联网+’小组公布了全国政府网址，大萌把这两方面的数据结合在一起，用“[大规模集成网页](https://diamonwoo.github.io/LSIP "LSIP")”形式做成‘中国千县地名网’，在一个网页上集中了全国三千多个省/市/县的地名，按行政区划代码🔢排序，并且链接到当地的政府网站🏢；每个省都配有地图链接，同时集成了 长途区号📠、车牌首字🚘，这下再查地方信息，就快了！
 
-　　**千县网**在2022年收录省级地名34+1个，地市级333+2个，县区级2830个，新疆兵团辖市12个，合计地名3212个。只有4个地方未能收录人民政府网址，分别是：福建省泉州市金门县，台湾省，海南省三沙市西沙区、南沙区。　如果你还有县级以上地名在本页找不到，那么这个地名可能不是行政区划，而是行政管理区，比如雄安新区。请到[千县网第二页](qianxian2)查询，该页收录各省的开发区网站。2025年，千县网将发布多个扩大版本。比如包括全国所有法院的 [政法集](../falv/zhengfa)，还有各县图书馆、工业遗产等，详细计划请看【服务】系列的目录页。
+　　**千县网**在2022年收录省级地名34+1个，地市级333+2个，县区级2830个，新疆兵团辖市12个，合计地名3212个，当年只有4个地方未能收录人民政府网址，分别是：海南省三沙市西沙区、南沙区，福建省泉州市金门县，台湾省。　如果你还有县级以上地名在本页找不到，那么这个地名可能不是行政区划，而是行政管理区，比如雄安新区。请到[千县网第二页](qianxian2)查询，该页收录各省的开发区网站。2025年，千县网将发布多个扩大版本。比如包括全国所有法院的 [政法集](../falv/zhengfa)，还有各县图书馆、工业遗产等，详细计划请看【服务】系列的目录页。
 
 <div align="right">
 ⏩老生常谈 /<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/ 千县网
@@ -2585,6 +2585,7 @@
 500154 [开州区](http://www.cqkz.gov.cn )⠀
 500155 [梁平区](http://www.cqlp.gov.cn )⠀
 500156 [武隆区](http://www.cqwl.gov.cn )⠀
+
 500229 [城口县](http://www.cqck.gov.cn )⠀
 500230 [丰都县](http://www.cqfd.gov.cn )⠀
 500231 [垫江县](http://www.cqsdj.gov.cn )⠀
@@ -2597,7 +2598,7 @@
 500241 [秀山土家族苗族自治县](http://www.cqxs.gov.cn/xsxq_207/ )⠀
 500242 [酉阳土家族苗族自治县](http://www.youyang.gov.cn/zjyy/ '网站会吃掉www前缀')⠀
 500243 [彭水苗族土家族自治县](http://www.psx.gov.cn/zjps/ '旧域名ps.cq.gov.cn失效')⠀
-2025设立：两江新区⠀
+2025年设立：两江新区⠀
 
 <h3 id="51">51 <a href="https://www.sc.gov.cn/10462/c106773/zjsc.shtml" title="510000 ">四川省</a>　川/蜀<sub>　<a href="https://map.baidu.com/search/四川省/@?querytype=s&wd=四川地图">baidu地图搜索</a></sub></h3>
 
@@ -3622,7 +3623,7 @@
 653225 [策勒县](http://www.xjcl.gov.cn )⠀
 653226 [于田县](http://www.xjyt.gov.cn )⠀
 653227 [民丰县](http://www.mfx.gov.cn )⠀
-2024设立：653228 和康县、653229 和安县
+2024年设立：653228 和康县、653229 和安县
 
 654000 <b>[伊犁州](http://www.xjyl.gov.cn/xjylz/wzdt/wzdt.shtml '事实上的副省级自治州')</b>　新F　0999　伊犁哈萨克自治州  
 654002 [伊宁市](http://www.yining.gov.cn )⠀
@@ -3670,17 +3671,40 @@
 659012 [白杨市／第九师](http://www.njs.gov.cn '2023年设立')0901⠀
 
 兵团14个师中尚有2个师(11/12)未完成‘师市合一’改革。
-<div align="right"><a href="#0" target="_top">↑ Top</a></div>
 
-<h3 id="71">71 <a href="http://www.gwytb.gov.cn" title="710000 台湾省 2018年台湾省政府被实质废除">台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
-710101 <b>[台北市](https://www.gov.taipei '预设区划代码,待定')</b>  
-台湾现在的行政区划主要根据以前中华民国相关法律规定，设为——  
-6个直辖市：台北市、新北市、桃园市、
-	<a title='台中市政府' href='https://www.taichung.gov.tw'>台中市</a>、
-	台南市、高雄市  
-3个省辖市：基隆市、新竹市、嘉义市  
-11个省辖县：宜兰县、新竹县、苗栗县、彰化县、南投县、云林县、嘉义县、屏东县、花莲县、台东县、
-	<a title='外婆的澎湖湾' href='https://www.penghu.gov.tw/'>澎湖县</a>。  
+<div align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
+
+<h3 id="71">71 <a title='710000 台湾省政府2018年被台当局实质废除'>台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
+2016年后，中华人民共和国出版的地图开始按照台湾区划现状，对应中国大陆的行政区划方式，划分如下：  
+
+6个地级市（"直辖市"）：
+710101 #[台北市](https://www.gov.taipei/ '预设区划代码,待定')、
+	#[新北市](https://www.ntpc.gov.tw/)、
+	#[桃园市](https://www.tycg.gov.tw/)、
+	#[台中市](https://www.taichung.gov.tw)、
+	#[台南市](https://www.tainan.gov.tw/)、
+	#[高雄市](https://www.kcg.gov.tw/)
+
+14个县/县级省辖市：
+	#[基隆市](https://www.klcg.gov.tw)、
+	#[新竹县](https://www.hsinchu.gov.tw/)、
+	#[新竹市](https://www.hccg.gov.tw/)、
+	#[宜兰县](https://www.e-land.gov.tw/)、
+	#[苗栗县](https://www.miaoli.gov.tw/)、
+	#[嘉义县](https://www.cyhg.gov.tw/)、
+	#[嘉义市](https://www.chiayi.gov.tw/)、
+	#[彰化县](https://www.chcg.gov.tw/)、
+	#[云林县](https://www.yunlin.gov.tw/)、
+	#[南投县](https://www.nantou.gov.tw/)、
+	#[花莲县](https://www.hl.gov.tw/)、
+	#[台东县](https://www.taitung.gov.tw/)、
+	#[屏东县](https://www.pthg.gov.tw/)、
+	#[澎湖县](https://www.penghu.gov.tw/ '外婆的澎湖湾')。  
+
+　参见：<a href="http://www.gwytb.gov.cn" title="中央台办/国务院台办">国台办</a>、
+	[陸委會](https://www.mac.gov.tw/)、
+	[E政府](https://www.gov.tw/CP_14#)、
+	[統計網](https://www.stat.gov.tw/cp.aspx?n=3677)
 
 <h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">天地图分享链</a></sub></h3>
 香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
@@ -3694,21 +3718,16 @@
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
 路环：	圣方济各堂区  
 
-
 <div id="2" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
 
 行政区划变更史
 --------------
 
-　　雄安新区有望获得独立的行政区划代码。
-
-<b>2023年</b>　有3处变更：新疆兵团第九师新成立白杨市，西藏两个县改市：错那县、米林县。本页已全部吸收。
-
-<b>2022年</b>　县级以上无变更。
-
-<b>2021年</b>　全国县以上区划有二十余次变更，本页已全部吸收。
-
+<b>2024年</b>　新疆政府公布，新设立 和康县、和安县，均隶属和田地区。  
+<b>2023年</b>　有3处变更：新疆兵团第九师新成立白杨市，西藏两个县改市：错那县、米林县。本页已全部吸收。  
+<b>2022年</b>　县级以上无变更。  
+<b>2021年</b>　全国县以上区划有二十余次变更，本页已全部吸收。  
 　　有4个因撤销而消失的地名： 福建三明市的 梅列区 350402，河南洛阳市的 吉利区 410306，浙江杭州市的 下城区 330103、江干区 330104。  
 　　有3个新设立的全新地名：  新疆兵团的新星市，浙江杭州的钱塘区、临平区。  
 　　还有4个区调整区划范围，名称不变，其中福建三明市的三元区，原区划代码350403更新。  
@@ -3728,7 +3747,8 @@ LSIP收录进度
 		收录LC = 3208	v0.7.0
 		完成率 = 99.9%
 
-+	202503　正在吸收2024年县以上行政区划变动。
++	202512　补全台湾省各市县政府#网址。
++	202504　已吸收2024年县以上行政区划变动。
 +	202403　已收录2023年县以上行政区划变动。
 +	202311　<中国千县政府网>更名为<中国千县地名网>，简称不变。
 +	202303　22日三亚市海棠区网站上线！为金门县、台湾省补充介绍网址，不计入LC。
@@ -3773,8 +3793,8 @@ LSIP收录进度
 ```
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
-	https://laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.7.7	202511
+	https://Laosheng.top/fuwu/qianxian
+	中国千县地名网	v0.7.8	202512
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
