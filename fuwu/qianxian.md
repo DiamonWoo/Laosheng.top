@@ -3670,15 +3670,15 @@
 659011 [新星市／第十三师](http://www.btnsss.gov.cn '2021年设立')0902⠀
 659012 [白杨市／第九师](http://www.njs.gov.cn '2023年设立')0901⠀
 
-兵团14个师中尚有2个师(11/12)未完成‘师市合一’改革。
+　　兵团14个师中尚有2个师(11/12)未完成‘师市合一’改革。
 
 <div align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
-<h3 id="71">71 <a title='710000 台湾省政府2018年被台当局实质废除'>台湾省</a>　台<sub>　00886　<a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
-2016年后，中华人民共和国出版的地图开始按照台湾区划现状，对应中国大陆的行政区划方式，划分如下：  
+<h3 id="71">71 <a title='710000 台湾省政府2018年被台当局实质废除'>台湾省</a>　台　00886　<sub><a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
+　　2016年后，中华人民共和国出版的地图开始按照台湾区划实况，对应中国大陆的行政级别，划分如下：  
 
 6个地级市（"直辖市"）：
-710101 #[台北市](https://www.gov.taipei/ '预设区划代码,待定')、
+	#[台北市](https://www.gov.taipei/ '预设区划代码,待定')、
 	#[新北市](https://www.ntpc.gov.tw/)、
 	#[桃园市](https://www.tycg.gov.tw/)、
 	#[台中市](https://www.taichung.gov.tw)、
@@ -3701,22 +3701,29 @@
 	#[屏东县](https://www.pthg.gov.tw/)、
 	#[澎湖县](https://www.penghu.gov.tw/ '外婆的澎湖湾')。  
 
-　参见：<a href="http://www.gwytb.gov.cn" title="中央台办/国务院台办">国台办</a>、
+　　参见：<a href="http://www.gwytb.gov.cn" title="中央台办/国务院台办">国台办</a>、
 	[陸委會](https://www.mac.gov.tw/)、
 	[E政府](https://www.gov.tw/CP_14#)、
-	[統計網](https://www.stat.gov.tw/cp.aspx?n=3677)
+	[統計網](https://www.stat.gov.tw/cp.aspx?n=3677)，
+	2025年12月，[福建发布政策](https://www.stnn.cc/c/2025-12-02/4019937.shtml '香港星岛新闻')：支持台胞在台湾开设沙县小吃。
 
 <h3 id="81">81 <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港特别行政区</a>　港　00852<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073C0R40I">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/5a295a20c00147ecb0de465fc4f48122">天地图分享链</a></sub></h3>
-香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
-香港岛：	中西区、湾仔区、东区、南区  
-九龙：  	油尖旺区、深水埗区、九龙城区、黄大仙区、观塘区  
-新界：  	荃湾区、屯门区、元朗区、北区、大埔区、西贡区、沙田区、葵青区、离岛区  
+　　香港各行政部门的区划并不统一，通常采用区议会的18个选区（俗称18区）。  
+香港岛：	中西区、东区、南区、湾仔区  
+九龙：  	九龙城区、油尖旺区、深水埗区、黄大仙区、观塘区  
+新界：  	大埔区、元朗区、屯门区、北区、西贡区、沙田区、荃湾区、葵青区、离岛区  
+
+　　参见：[香港中联办](http://locpg.gov.cn/)、
+	[民政事务总署](https://www.had.gov.hk/chs/18_districts/my_map.htm)
 
 <h3 id="82">82 <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门特别行政区</a>　澳　00853<sub>　<a href="https://m.amap.com/search/mapview/poiid=B073D0M5MC">amap移动分享码</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/fa2a18f071ad4ef5938d5deb1de47db9">天地图分享链</a></sub></h3>
-澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
-澳门半岛：	花地玛堂区、圣安多尼堂区（花王堂区）、大堂区（主教座堂堂区）、望德堂区、风顺堂区（圣老楞佐堂区）  
+　　澳门以天主教“堂区”为行政区划单位，现有七个堂区，后两个位于离岛。  
+澳门半岛：	大堂区（主教座堂堂区）、风顺堂区（圣老楞佐堂区）、花地玛堂区、圣安多尼堂区（花王堂区）、望德堂区  
 氹仔：	嘉模堂区	（氹读dàng，也作“凼”）  
 路环：	圣方济各堂区  
+
+　　参见：[澳门中联办](https://www.zlb.gov.cn/)、
+	[漫步澳门街](https://www.iam.gov.mo/macaostreets/zh_cn/freguesiaindex.html)
 
 <div id="2" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
