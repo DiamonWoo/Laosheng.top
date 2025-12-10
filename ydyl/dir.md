@@ -26,10 +26,9 @@
 	+  英澳新加4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。
 	+ *中国的《高等院校三千所》收录在 【[服务](../fuwu/)】系列。*
 
-+	看美国，地球上少数不参加B&R的国家之一
-	+ USA3　美国权力结构，三权分立的具体表现
++	./noway　没带没路，地球上少数不参加B&R的国家
 	+ USA50　[美国五十州](usa/USA50) 🇺🇸，美国五十个州政府网站、各州特点。（新上线)
-	+ USA1000　美国千县政府网，美国约三千个县镇市政府网址。（规划中）
+	+ 英、日、韩、印、澳……
 
 <div align="right">
 	⏩ 老生常谈
@@ -43,8 +42,7 @@
 
 <h3 id="mulu">简目 <sup>Dir</sup></h3>
 
-*	国别计数 / 有关部门 / [外交热点](#3){:target="_top"}
-*	工具网站：[翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"} / [种子数据](#iso){:target="_top"}
+　国别计数 / 有关部门 / [外交热点](#3){:target="_top"} / 工具网站：[翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"} / [ISO码](#iso){:target="_top"}
 
 
 国别计数 Country Count
@@ -232,7 +230,7 @@
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
-<h3 id="yan">延申阅读</h3>
+<h3 id="yan">延伸阅读</h3>
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
@@ -246,7 +244,7 @@
 	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.4.6	202512
+	一带一路民间站 v3.4.7	202512
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
