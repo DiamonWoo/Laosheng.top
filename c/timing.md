@@ -124,14 +124,15 @@
 *	[Pocket](https://getpocket.com/add/)	跨设备的网页共享工具，2017年被Firefox收购，2025年被Firefox抛弃。
 *	$<a href="http://www.53bk.com/site" title="全国电子报">广州阅速</a>
 
-*	$<a href="http://www.appchina.com/soft" title="2010年上线">应用汇</a>
+*	$<a href="http://www.appchina.com/soft" title="2010年上线">应用汇</a>、
+	<a href='https://coolapk.com/apk' title='隐藏的入口'>酷安</a>；
+	#<a href='https://apkpure.com/cn/app' title='提供历史版本apk'>apkPure</a>
 *	网页提供apk：<a href="https://shouji.baidu.com/soft" title="百度手机助手">百度</a>手机助手、
 	360[手机助手](https://zhushou.360.cn/soft/)
 *	不在网页提供apk安装包下载：
 	<a href="https://app.mi.com/category/5" title="无分类目录，请搜索">小米</a>、
 	魅族[Flyme](https://app.meizu.com/)应用市场、
 	阿里巴巴[pp助手](https://m.pp.cn/soft.html)
-*	翻应用[iapps.me](https://www.iapps.me/iapps)
 
 <div id="5" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -252,7 +253,7 @@
 *	国产磁盘分区<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>，支持数据恢复
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
 *	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
-*	<a title="自由免费的全能办公软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，
+*	<a title="开源软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，跨平台办公软件。
 	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
 *	[TC](https://www.ghisler.com/)，Total Commander双栏[文件管理器](https://xbeta.info/tc/)，提供免费[安卓版本](https://www.ghisler.ch/board/viewforum.php?f=22)
@@ -416,7 +417,7 @@
 	老生常谈© 2019-2025 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202511
+	提名网站与落榜记	　202512
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
