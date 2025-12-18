@@ -1,6 +1,6 @@
 地大物博看中国 🐉
 ==============
-大萌	© 202503-10
+大萌	© 202503-12
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/bowu" />
 
@@ -291,7 +291,7 @@
 　<sub>黄浦区</sub>🖼<a href='https://artmuseumonline.org' title='2010年上海世博会中国馆'>上海美术馆</a>💭<sub>（中华艺术宫）</sub>
   <div align='right'><a href='https://whlyj.sh.gov.cn/wbcg/'>场馆名录</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3 id='32'>江苏省　🐉 26　🔺 11　🖼1</h3>
-　<sub>南京市玄武区</sub><a href='https://www.njmuseum.com/'>南京博物馆</a><sub>（院）紫金山</sub>
+　<sub>南京市玄武区</sub><a href='https://www.njmuseum.com/'>南京博物院</a><sub>紫金山</sub>
 　<sub>南京市建邺区</sub><a href='https://www.19371213.com.cn/' title='侵华日军南京大屠杀遇难同胞纪念馆'>南京大屠杀馆</a>💭<sub>🔺</sub>
 　<sub>崇川区</sub><a href='http://www.ntmuseum.com/'>南通博物苑</a>
 　<sub>姑苏区</sub><a href='https://www.szmuseum.com'>苏州博物馆</a><sub>（苏州民俗博物馆）高新区西馆</sub>
