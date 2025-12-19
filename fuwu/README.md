@@ -25,7 +25,7 @@
 	+ 千县网工业版，[工业](工业遗产)旅游打卡地（筹）🏭
 	+ 千县网富饶版，各地品牌[农产品](农产品)（筹）🍏
 	+ 🌟 [烈士陵园](烈士陵园){:target="_top"}佑中华；国家定级[图书馆](图书馆){:target="_top"} 📚️
-	+ ‘千县公检法’页面并入《中国政法区划集》，请往本站【[法律](../falv){:target="_top"}】系列
+	+ ‘千县公检法’页面并入《全国法院一张网》，请往本站【[法律](../falv){:target="_top"}】系列
 	+ 
 
 +	国际组织四大类，🇺🇳联合国有关部门。收录在本站【[一带一路](../ydyl/dir)】系列
@@ -48,7 +48,7 @@
 	[新华网](https://www.news.cn/politics/2025lh/)专题、
 	[总台央视](https://news.cctv.com/special/2025lianghui/)
 
-### 省级政府<sup>35个</sup>
+### 省级政府 <sup>35个</sup>
 　　
 <a title="政府网站" href="https://www.beijing.gov.cn/">11-北京</a>　
 <a title="政府网站" href="https://www.tj.gov.cn/sq/">12-天津</a>　
@@ -85,7 +85,7 @@
 <a title="政府网站" href="http://www.gwytb.gov.cn/">71-台湾</a>　
 <a title="政府网站" href="https://www.gov.hk/sc/about/abouthk/facts.htm">81-香港</a>　
 <a title="政府网站" href="https://www.gov.mo/zh-hant/content/city-info/">82-澳门</a>　
-91-国外入籍身份证号　 [全国政府网站](https://zfwzxx.www.gov.cn/)基本信息数据库
+91-国外入籍身份证号
 
 ### 央企服务
 
@@ -165,9 +165,12 @@
 
 <h3>参考文献</h3>
 
+*	国务院网站 /政策 /<del>主题 /[互联网+](https://www.gov.cn/zhengce/zhuti/jjhlw_zwfw/)政务服务</del>（2025年关闭）
+*	国务院网站 /[政府网站找错](https://zfwzzc.www.gov.cn/check_web/errorInfo/search) 曝光台
 *	《求是》杂志2021年第六期：[为人民服务：贯穿百年党史的红线](http://www.qstheory.cn/dukan/qs/2021-03/16/c_1127209334.htm)，记者 闫玉清。
 *	《人民日报》：习近平2016年4月19日[在网络安全和信息化工作座谈会上的讲话](http://politics.people.com.cn/n1/2016/0426/c1024-28303544.html)。
 
+<div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
