@@ -1,4 +1,4 @@
-全国法院一张网 🧩 <sup></sup>
+全国法院一张网 🧩 <sup>中国政法区划集</sup>
 =================
 大萌　2022-2025	<base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/falv/zhengfa" />
@@ -4040,44 +4040,44 @@
 659009 [**第十四师 昆玉市**](https://www.btdsss.gov.cn ' 驻地：和田市') +[经开区](https://www.btdsss.gov.cn/tczx/jjkfq/)　0903　[🛂️](https://www.btdsss.gov.cn/xwzx/zwdt/bmdt/gaj/)　-　[⚖️](http://btd14szy.btcourt.gov.cn)  
  和田垦区   -⠀-⠀[Ⓕ](http://htkqfy.btcourt.gov.cn)⠀
 
-<div align='right' id='71'>.<a href='#mulu' target='_top'>Top</a>↑</div>
-### 71 [台湾省](http://www.gwytb.gov.cn '人民政府网'){:id='71'}　台　+886　[🛂️](https://www.npa.gov.tw/ '公安厅/局')　[⚔️](https://www.tps.moj.gov.tw '省级检察院')　[⚖️](https://www.judicial.gov.tw/tw/cp-1898-119101-8a7a0-1.html '高级法院')
+<div align='right' id='71'>LaoSheng<a href='#mulu' target='_top'>.Top</a>↑</div>
+### 71 台湾省　台　+886　[🛂️](https://www.npa.gov.tw/ '公安厅/局')　[⚔️](https://www.tps.moj.gov.tw '省级检察院')　[⚖️](https://www.judicial.gov.tw/tw/cp-1898-119101-8a7a0-1.html '高级法院')　[国台办](http://www.gwytb.gov.cn '人民政府网')
 
  **台湾高等法院** 　　-　-　[⚖️](https://tph.judicial.gov.tw/)  
- [台北市](https://www.gov.taipei ' 民国直辖市') -⠀-⠀-⠀
- [新北市](https://www.ntpc.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
- 士林地院   [Ⓕ](https://sld.judicial.gov.tw/)⠀
- [桃园市](https://www.tycg.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
- [基隆市](https://www.klcg.gov.tw/ ' 县级市') -⠀-⠀-⠀
- [新竹市](https://www.hccg.gov.tw/ ' 县级市') -⠀-⠀-⠀
- [新竹县](https://www.hsinchu.gov.tw/) -⠀-⠀-⠀
- [宜兰县](https://www.e-land.gov.tw/) -⠀-⠀-⠀
+ #[台北市](https://www.gov.taipei ' 民国直辖市') -⠀-⠀-⠀
+ #[新北市](https://www.ntpc.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
+ 士林地院  [Ⓕ](https://sld.judicial.gov.tw/)⠀
+ #[桃园市](https://www.tycg.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
+ #[基隆市](https://www.klcg.gov.tw/ ' 县级市') -⠀-⠀-⠀
+ #[新竹市](https://www.hccg.gov.tw/ ' 县级市') -⠀-⠀-⠀
+ #[新竹县](https://www.hsinchu.gov.tw/) -⠀-⠀-⠀
+ #[宜兰县](https://www.e-land.gov.tw/) -⠀-⠀-⠀
 
  **台中高院** 　　-　-　[⚖️](https://tch.judicial.gov.tw/)  
- [台中市](https://www.taichung.gov.tw ' 民国直辖市') -⠀-⠀-⠀
- [苗栗县](https://www.miaoli.gov.tw/) -⠀-⠀-⠀
- [南投县](https://www.nantou.gov.tw/) -⠀-⠀-⠀
- [彰化县](http://www.chcg.gov.tw/) -⠀-⠀-⠀
+ #[台中市](https://www.taichung.gov.tw ' 民国直辖市') -⠀-⠀-⠀
+ #[苗栗县](https://www.miaoli.gov.tw/) -⠀-⠀-⠀
+ #[南投县](https://www.nantou.gov.tw/) -⠀-⠀-⠀
+ #[彰化县](http://www.chcg.gov.tw/) -⠀-⠀-⠀
 
  **台南高院** 　　-　-　[⚖️](https://tnh.judicial.gov.tw/)  
  [台南市](https://www.tainan.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
- [云林县](https://www.yunlin.gov.tw/) -⠀-⠀-⠀
- [嘉义县](https://www.cyhg.gov.tw/) -⠀-⠀-⠀
- [嘉义市](https://www.chiayi.gov.tw/ ' 县级市') -⠀-⠀-⠀
+ #[云林县](https://www.yunlin.gov.tw/) -⠀-⠀-⠀
+ #[嘉义县](https://www.cyhg.gov.tw/) -⠀-⠀-⠀
+ #[嘉义市](https://www.chiayi.gov.tw/ ' 县级市') -⠀-⠀-⠀
 
  **高雄高分院** 　　-　-　[⚖️](https://ksh.judicial.gov.tw/)  
- [高雄市](https://www.kcg.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
+ #[高雄市](https://www.kcg.gov.tw/ ' 民国直辖市') -⠀-⠀-⠀
  桥头地院   [Ⓕ](https://ctd.judicial.gov.tw/)⠀
- [屏东县](https://www.pthg.gov.tw/) -⠀-⠀-⠀
- [澎湖县](https://www.penghu.gov.tw) -⠀-⠀-⠀
+ #[屏东县](https://www.pthg.gov.tw/) -⠀-⠀-⠀
+ #[澎湖县](https://www.penghu.gov.tw) -⠀-⠀-⠀
 
  **花莲高分院** 　　-　-　[⚖️](https://hlh.judicial.gov.tw/)  
- [花莲县](https://www.hl.gov.tw/) -⠀-⠀-⠀
- [台东县](http://www.taitung.gov.tw/) -⠀-⠀-⠀
+ #[花莲县](https://www.hl.gov.tw/) -⠀-⠀-⠀
+ #[台东县](http://www.taitung.gov.tw/) -⠀-⠀-⠀
 
  **金门高分院** 　　-　-　[⚖️](https://kmh.judicial.gov.tw/)  
- [金门县](https://www.kinmen.gov.tw/ ' 民国福建省') -⠀-⠀-⠀
- [连江县](https://www.matsu.gov.tw/ ' 民国福建省') -⠀-⠀-⠀
+ #[金门县](https://www.kinmen.gov.tw/ ' 民国福建省') -⠀-⠀-⠀
+ #[连江县](https://www.matsu.gov.tw/ ' 民国福建省') -⠀-⠀-⠀
 
 <div align='right' id='81'>.<a href='#mulu' target='_top'>Top</a>↑</div>
 ### 81 [香港特别行政区](https://www.gov.hk/sc/about/abouthk/facts.htm '人民政府网'){:id='81'}　港　+852 ♾　[🛂️](https://www.police.gov.hk/#警香港务处 '公安厅/局')　[⚔️](https://www.doj.gov.hk/ '省级检察院')　[⚖️](https://www.judiciary.hk/zh_cn/about_us/courtchart.html '高级法院')
@@ -4106,12 +4106,14 @@ LSIP收录进度
 		收录LC = 3340 + 2391 = 5731
 		完成率 = 83.39%
 
-+	202512　中国政法区划集 更名为‘全国法院一张网’。
++	202512　‘中国政法区划集’移动为：/falv/fawang 全国法院一张网。
 +	202504　开场白介绍千县网第二页，计算LC。
 +	202502　‘中国政法区划集’上线，/falv/zhengfa
 +	202411　暂停数据更新，重新设计
 +	202303　‘中国千县公检法’上线，/fuwu/qianxian-gjf
 +	202209　‘法治政府有关部门’上线，/fuwu/fazhi
+
+<div align="right" id="jindu">.<a href="#" target="_top">Top</a>↑</div>
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.Top/c/author)，谢谢！🙇
 
