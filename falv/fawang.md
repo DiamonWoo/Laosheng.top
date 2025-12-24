@@ -3,7 +3,7 @@
 大萌　2022-2025	<base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/falv/zhengfa" />
 
-		研究解决制约政法工作的体制性机制性问题——201701 中央政法工作会议 习近平
+		天网恢恢，疏而不失 — 《道德经》第七十三章
 
 　　根据“[人民法院组织法](http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-10/26/content_2064483.htm)”第二章，在县级以上**行政区划**单位设立人民法院。也就是说，所有市、县、区都会有法院；‘在省、自治区内按地区设立的中级人民法院’和‘市辖区人民法院’使得部分**行政管理区**有自己的法院；此外还有跨地区的铁路、海事等专门法院。
 
@@ -16,8 +16,7 @@
 		(不含港澳台)					互联网	 3
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】</a>
-/ 政法集
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】</a> / 法网
 </div>
 <h3 id="mulu">35个省级单位索引</h3>
 
@@ -58,7 +57,7 @@
 　<a href="#81" target="_top">81-香港</a>
 　<a href="#81" target="_top">82-澳门</a>
 　91-国外入籍身份证号
-　<a href="#jindu" target="_top">LSIP进度</a>
+　<a href="#jindu" target="_top">LSIP进度</a>　参考文献
 
 
 图例与符号
@@ -4113,6 +4112,11 @@ LSIP收录进度
 +	202303　‘中国千县公检法’上线，/fuwu/qianxian-gjf
 +	202209　‘法治政府有关部门’上线，/fuwu/fazhi
 
+### 参考文献
+
+*	201601，中央政法工作会议22日在京召开。习近平强调，要支持政法机关依法履行职责，积极研究解决[制约政法工作的体制性机制性问题](https://www.spp.gov.cn//tt/201601/t20160123_111557.shtml)，为全面做好政法工作创造条件。
+*	201311，全国法院司法公开工作推进会27日在深圳市召开。最高人民法院 院长周强指出，[以公开促公正，以公开树公信](https://www.court.gov.cn/zixun/xiangqing/5852.html)。
+
 <div align="right" id="jindu">.<a href="#" target="_top">Top</a>↑</div>
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.Top/c/author)，谢谢！🙇
@@ -4121,7 +4125,7 @@ LSIP收录进度
 	老生常谈© 2019-2025 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://laosheng.top/falv/fawang
-	中国法院一张网 v0.4.5	202512
+	全国法院一张网 v0.4.6	202512
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
