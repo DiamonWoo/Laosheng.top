@@ -291,13 +291,13 @@
 　<sub>黄浦区</sub>🖼<a href='https://artmuseumonline.org' title='2010年上海世博会中国馆'>上海美术馆</a>💭<sub>（中华艺术宫）</sub>
   <div align='right'><a href='https://whlyj.sh.gov.cn/wbcg/'>场馆名录</a>　<a target='_top' href='#mulu'>.Top</a>↑</div>
 <h3 id='32'>江苏省　🐉 26　🔺 11　🖼1</h3>
-　<sub>南京市玄武区</sub><a href='https://www.njmuseum.com/'>南京博物院</a><sub>紫金山</sub>
+　<sub>南京市玄武区</sub><a href='https://www.njmuseum.com/'>南京博物院</a><sub>紫金山南麓，1933年建立</sub>
 　<sub>南京市建邺区</sub><a href='https://www.19371213.com.cn/' title='侵华日军南京大屠杀遇难同胞纪念馆'>南京大屠杀馆</a>💭<sub>🔺</sub>
 　<sub>崇川区</sub><a href='http://www.ntmuseum.com/'>南通博物苑</a>
 　<sub>姑苏区</sub><a href='https://www.szmuseum.com'>苏州博物馆</a><sub>（苏州民俗博物馆）高新区西馆</sub>
 　<sub>广陵区</sub><a href='https://www.yzmuseum.com'>扬州博物馆</a><sub>中国雕版印刷博物馆</sub>
 　<sub>新北区</sub><a href='https://www.czmuseum.cn/'>常州博物馆</a><sub>良渚玉器</sub>
-　<sub>秦淮区</sub><a href='https://njmuseumadmin.com/'>南京市博物总馆</a>
+　<sub>秦淮区</sub><a href='https://njmuseumadmin.com/'>南京市博物总馆</a><sub>市博等七家：太平天国历史博物馆、江宁织造博物馆、渡江胜利纪念馆</sub>
 　<sub>南京市秦淮区</sub><a href='https://www.njiemuseum.com'>中国科举博物馆</a>
 　<sub>南京市雨花台区</sub><a href='https://yht.nanjing.gov.cn'>雨花台烈士纪念馆</a><sub>🔺</sub>
 　<sub>梁溪区</sub><a href='http://www.wxmuseum.com' title='网站版式故障？'>无锡博物院</a>💭<sub>？</sub>
