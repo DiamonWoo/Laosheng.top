@@ -1,4 +1,4 @@
-老生常谈²⁰²⁵ 🐍
+老生常谈²⁰²⁶ 🐍
 ========
 <link rel="canonical" href="https://Laosheng.top" />
 
@@ -15,7 +15,7 @@
   + /falv/fahai　☸️ [法海求索](falv/fahai)，检索文本、观摩庭审、高校进修，政法类期刊名录。
   + /falv/duben　📚 [大萌法律读本](falv/duben)，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
   + /falv/duben1　[读本1](falv/duben1)，八部大法：民法典、刑法全文、行政诉讼法等
-  + /falv/zhengfa　中国政法区划集，全国法院一张网 (2025新上线)
+  + /falv/fawang　全国法院一张网，中国政法区划集 (2025新上线)
 
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
@@ -107,8 +107,8 @@
 ![谋智开发者网络](yan/thanks4MDN.png)
 ![W3C北航总部](yan/thanks4W3C.png)
 
-	老生常谈© 2019~2025 大萌	知识共享
+	老生常谈© 2019~2026 大萌	知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	202509	v3.4.6	https://Laosheng.top
+	202601 v3.4.6	https://Laosheng.top
 
 🎁🎅🛍💎🎀🥳💐🍸🍹🍺🍻🥂🍷🥃☕🍵🥣🍝🍜 🍇🍉🍰🧀🥧₂₀₂₅
