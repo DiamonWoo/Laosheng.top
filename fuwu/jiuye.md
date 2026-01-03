@@ -10,7 +10,7 @@
 
 　　需要指出，职位信息发布在网站上是有版权的，几乎所有招聘网站下方都标注了‘版权所有’或‘禁止转载’。就业网站之间有竞争关系，这造成了不同网站上的职位信息不一样（另一方面存在一稿多投的情况）。于是大萌想到了收录全国各地就业网址于一页的想法，方便求职者和 HR(人力资源从业者) 快速选择网站。求职者也要注意保护自己的个人信息。
 
-　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接。　如果您知道较好的地方民办招聘网站，[欢迎推介](#can){:target="_top"}。
+　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接。　如果您知道较好的地方民办招聘网站，[欢迎推介](#ti){:target="_top"}。
 
 <div id="mulu" align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu/" target="_top">【服务】</a>
@@ -548,22 +548,25 @@
 <div id="fang" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-<h2>全国性租房找房网站 🏠</h2>
+全国性租房找房网站 🏠
+------------------
+按上线时间排序
 
-*	2018年天津，[贝壳找房](https://www.ke.com/city/)	各地中介品牌入驻，类似于天猫
+*	2025年上海，[咕咕找房](https://www.gu-gu.com/index/city/index) 房东直租直售
+*	2018年天津，[贝壳找房](https://ke.com/city/)	各地中介品牌入驻，类似于天猫
 	* 2001年，北京[链家](https://www.lianjia.com/city/)	自营房源
 *	2014年北京，[房天下](https://zu.fang.com/cities.aspx)
 	* 1999年，北京搜房
-*	2008年北京，新浪[乐居](https://leju.com/)购房
+*	2008年北京，新浪[乐居](https://m.Leju.com/set_city.html)购房
 *	2007年上海，[安居客](https://www.anjuke.com/sy-city.html)/集客家	类似于淘宝模式
-*	2005年北京，[58同城](https://zf.58.com/)租房买房
-*	2025年上海，[咕咕找房](https://www.gu-gu.com/index/city/index) 房东直租
+*	2005年北京，[58同城](https://m.58.com/city.html)租房买房
+
 
 　　还有一些区域性房产租售网站：
-	[365淘房](https://www.house365.com/)长三角+华中地区、
 	[乐有家](https://leyoujia.com/)珠三角+长沙、
+	[我爱我家](https://5i5j.com/)京津沪+苏锡常等、
+	%m[365淘房](https://www.house365.com/about/contactus.php)皖京津/江浙/西安、
 	[中原地产](https://www.centaline.com.cn/)新房为主、
-	[我爱我家]()京津沪+苏锡常等、
 	[21世纪不动产](https://www.c21.com.cn/)国内+国外
 ……
 
@@ -588,7 +591,7 @@
 
 　　**编辑说明**：有少数地方的‘人社局’没有链接，是因为当地人社局没有独立网站（二级域名或二级目录），以黑龙江和新疆为代表。这种情况会给地名附加链接，指向市政府网站中有关人社局相关内容（就业创业）的网址。
 
-<div align="right"><a href="#" target="_top">↑ Top</a></div>
+<div id="ti" align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
 
