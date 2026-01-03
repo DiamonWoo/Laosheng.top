@@ -1,6 +1,6 @@
 各地人才就业网 👔 <sup>积极工作站稳岗</sup>
 =================
-大萌 202403~04，202504
+大萌 202403-202601
 <base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/fuwu/jiuye" />
 
@@ -10,7 +10,7 @@
 
 　　需要指出，职位信息发布在网站上是有版权的，几乎所有招聘网站下方都标注了‘版权所有’或‘禁止转载’。就业网站之间有竞争关系，这造成了不同网站上的职位信息不一样（另一方面存在一稿多投的情况）。于是大萌想到了收录全国各地就业网址于一页的想法，方便求职者和 HR(人力资源从业者) 快速选择网站。求职者也要注意保护自己的个人信息。
 
-　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接，欢迎租房网站与本人联系。　如果您知道较好的地方民办招聘网站，<a href="https://xoyondo.com/mb/yY8PqZMjKUgdcpn">欢迎推介</a>。
+　　**就业网**计划收录：省市两级的人社局等部门网址、地级市公共就业服务平台、国家级新区人才网，预计将成为中等规模[集成网页](https://diamonwoo.github.io/LSIP)。未来还将提供各地房租搜索链接。　如果您知道较好的地方民办招聘网站，[欢迎推介](#can){:target="_top"}。
 
 <div id="mulu" align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu/" target="_top">【服务】</a>
@@ -19,6 +19,7 @@
 
 <h3>'就业网'目录</h3>
 　<a target='_top' href='#guo'><b>国家就业有关部门</b></a>  
+　<b>全国性</b><a target='_top' href='#min'>民办招聘网</a>  
 　各省就业网站
 ：<a href="#11" target="_top">11-北京</a>
 　<a href="#12" target="_top">12-天津</a>
@@ -53,7 +54,7 @@
 　<a href="#65" target="_top">65-新疆</a>
 　<a href="#6590" target="_top"><small>6590-新疆兵团</small></a>
 　各省按身份证号前两位排序▽  
-　<b>全国性</b><a target='_top' href='#min'>民办招聘网</a>  
+　<b>全国性</b><a target='_top' href='#fang'>租房找房网站</a>  
 　<a target='_top' href='#can'>参考文献</a> / 鸣谢
 
 <h3>‘就业网’收录进度</h3>
@@ -66,7 +67,7 @@
 +	✅ 32个省级公共就业服务平台/毕业生就业网 　	v0.3.0
 
 
-<h2 id='guo'>国家就业有关部门 👔</h2>
+<h2 id='guo'>国家就业有关部门</h2>
 
 [人社部](http://www.mohrss.gov.cn) MOHRSS 人力资源和社会保障部
 
@@ -79,9 +80,27 @@
 [教育部](http://www.moe.gov.cn) MOE
 *	教育部/学生服务与素质发展中心：国家[大学生就业服务](https://job.ncss.cn/student/24365)平台，含各省毕业生就业网（本页已收录）。
 
+<div id="min" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-各省就业网站 👔
+<h2>全国性民办招聘网 👔</h2>
+按起源年份排序
+
+*	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
+*	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
+*	2006年北京，[英才网联](https://www.800hr.com/) 800HR.com 分行业人才招聘
+*	2006年深圳，[一览英才网](https://www.job1001.com/) Job1001 工业细分招聘
+*	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:退市)
+	* 下属网站：[赶集直招](https://www.ganji.com/chosecity/)
+	、[新华英才](https://www.ChinaHR.com/job) （原中华英才网被美资收购）
+*	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
+*	1999年上海，[前程无忧](https://www.51job.com/bo/service.php) 51job (Nasdaq:JOBS)
+	* 下属网站：[应届生](https://www.yingjiesheng.com/deadline/)
+	、[拉勾招聘](https://www.lagou.com/gongsi/) IT类
+*	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
+
+
+各省就业网站
 ------------
 
 <h3 id='11'>11 北京　<sub><a href='https://rsj.beijing.gov.cn'>人社局</a>　<a href='https://zjw.beijing.gov.cn'>住建委</a>　<a href='https://mzj.beijing.gov.cn'>民政局</a>　<a href='https://fgw.beijing.gov.cn'>发改委</a></sub></h3>
@@ -526,26 +545,27 @@
 <h3 id="82">82 澳门特别行政区　+853</h3>
 粤Z　澳门　+853　毕业生就业　零工市场　澳门[人才发展委员会](https://www.cdqq.gov.mo/zh-hant/)　<small>7个堂区</small>  
 
+<div id="fang" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-<div id="min" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
+<h2>全国性租房找房网站 🏠</h2>
 
-<h2>全国性民办招聘网 👔</h2>
-按起源年份排序
+*	2018年天津，[贝壳找房](https://www.ke.com/city/)	各地中介品牌入驻，类似于天猫
+	* 2001年，北京[链家](https://www.lianjia.com/city/)	自营房源
+*	2014年北京，[房天下](https://zu.fang.com/cities.aspx)
+	* 1999年，北京搜房
+*	2008年北京，新浪[乐居](https://leju.com/)购房
+*	2007年上海，[安居客](https://www.anjuke.com/sy-city.html)/集客家	类似于淘宝模式
+*	2005年北京，[58同城](https://zf.58.com/)租房买房
+*	2025年上海，[咕咕找房](https://www.gu-gu.com/index/city/index) 房东直租
 
-*	2014年北京，[Boss直聘](https://about.zhipin.com/) zhipin (NASDAQ:BZ / 2076.HK)
-*	2011年天津，[猎聘](https://www.liepin.com/citylist/) Liepin (6100.HK)
-*	2006年北京，[英才网联](https://www.800hr.com/) 800HR.com 分行业人才招聘
-*	2006年深圳，[一览英才网](https://www.job1001.com/) Job1001 工业细分招聘
-*	2005年北京，[58同城](https://www.58.com/changecity.html?catepath=job.shtml) 58.com (Nasdaq:退市)
-	* 下属网站：[赶集直招](https://www.ganji.com/chosecity/)
-	、[新华英才](https://www.ChinaHR.com/job) （原中华英才网被美资收购）
-*	2003年加州，#[领英](https://www.linkedin.cn/) Linkedin 微软旗下 (NYSE：LNKD)
-*	1999年上海，[前程无忧](https://www.51job.com/bo/service.php) 51job (Nasdaq:JOBS)
-	* 下属网站：[应届生](https://www.yingjiesheng.com/deadline/)
-	、[拉勾招聘](https://www.lagou.com/gongsi/) IT类
-*	1997年北京，[智联招聘](https://special.zhaopin.com/sh/2009/aboutus/law.html) zhaopin (NYSE:ZPIN)
-
+　　还有一些区域性房产租售网站：
+	[365淘房](https://www.house365.com/)长三角+华中地区、
+	[乐有家](https://leyoujia.com/)珠三角+长沙、
+	[中原地产](https://www.centaline.com.cn/)新房为主、
+	[我爱我家]()京津沪+苏锡常等、
+	[21世纪不动产](https://www.c21.com.cn/)国内+国外
+……
 
 <div id="can" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -574,10 +594,10 @@
 
 
 ```
-	老生常谈© 2019-2025 大萌  知识共享许可
+	老生常谈© 2019-2026 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	各地人才就业网 V0.4.1	202504
-	https://laosheng.top/fuwu/jiuye
+	各地人才就业网 V0.4.2	202601
+	https://Laosheng.top/fuwu/jiuye
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
