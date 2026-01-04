@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓²⁰²⁵ <sup>助力考生选大学</sup>
 ================
-大萌	　202305-202507（已对齐6月27日教育部名单）
+大萌	　202305-202601（已对齐20250627教育部名单）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学名录 中国大学网址全集'>
 <meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。点击校名直达官网，页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
@@ -19,9 +19,10 @@
 
 <h3>数据来源有关部门</h3>
 
-*	教育部[全国高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/){:rel="noreferrer"}，分普通与成人两大类，提供大学名单模糊搜索。每年高考后更新。
+*	教育部-公告[公示](http://www.moe.gov.cn/jyb_xxgk/s5743/s5745/){:rel="noreferrer"}：拟同意[设置本科高等学校](https://www.bbtnews.com.cn/2026/0104/580587.shtml)的公示
 *	教育部[年度高等学校设置审批/备案](http://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_spbajg/){:rel="noreferrer"}结果，
 学校更名、升级、转设、撤销等。看似当月更新。
+*	教育部[全国高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/){:rel="noreferrer"}，分普通与成人两大类，提供大学名单模糊搜索。每年高考后更新。
 *	教育部指定"阳光高考"网站的[专业库](https://gaokao.chsi.com.cn/zyk/zybk/){:rel="noreferrer"}，可搜索开设某个专业的所有高校。更新频率不明。
 
 
@@ -31,7 +32,7 @@
 *	[各省普通高校 🧳](#D2){:target="_top"}　**2919**所　<small>其中本科1365所</small>
 	* **部属本科高校** 115所🥇 = ❗[中管高校](#D1){:target="_top"}31所+❕部本84所
 	* 省属本科高校 818所🥈　<small>也有一本</small>
-	* 　　民办本科 432所⠀¥　<small>省教育厅主管</small> <sup>含13所境外合作</sup>$
+	* 　　民办本科 432所⠀¥　<small>省教育厅主管 (含13所境外合作$)</small>
 	* <small>专科院校(高职)1554所 = ❕部属4所+ 省属1133所+ ¥ 民办417所 (含3所境外合作 $)</small>
 *	[港澳普通高校](#D3){:target="_top"} 32所　<small>部分参与高招</small>🔖  
 　以上合计 2995所，2025年6月27日数据
@@ -572,19 +573,16 @@
 
 　　有很多读者留言或来信，指出院校的链接错误，这对于人工核对的<高校所>非常及时。感谢以下网友：
 
-*	xoyondo留言板网友：
-		东软学子、夸夸你、山科学子、Anonymous、Syril、zut、梦夏、njitt、恒生；
-*	E-Mail来信网友：mjcaoo；
-*	github网友：[imlufeng](https://github.com/imlufeng)
-
-	还有一些网友没留下称呼。大萌今后将努力继续更新。
+*	xoyondo留言板网友：东软学子、夸夸你、山科学子、Anonymous、Syril、zut、梦夏、njitt、恒生。
+*	E-Mail来信网友：mjcaoo 。
+*	github网友：[imlufeng](https://github.com/imlufeng)。　还有一些网友没留下称呼。大萌今后将努力继续更新。
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
 
 ```
-	老生常谈© 2019-2025 大萌	知识共享许可
+	老生常谈© 2019-2026 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
 	高等院校三千所	Version 1.3.4	202511
 	https://Laosheng.top/fuwu/yuanxiao
