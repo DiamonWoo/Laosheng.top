@@ -41,7 +41,7 @@
 　专题：《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》  
 　国资委[新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
 	[新闻发布](http://www.sasac.gov.cn/n2588025/)；
-	[信息公开](http://www.sasac.gov.cn/n2588035/)  
+	[信息公开](http://xxgk.sasac.gov.cn/gdnps/pc/index.jsp)  
 　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
 列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
 主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=%23你们尽管想象我们负责实现%23&Refer=index)
