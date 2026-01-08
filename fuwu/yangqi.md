@@ -1,6 +1,6 @@
 央企股票全家福 🧧 <sub>国计民生胆气足</sub>
 ================
-大萌	　202302-202508（正在修订）
+大萌	　202302-202601（待修订）
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fuwu/yangqi" />
 
@@ -18,30 +18,30 @@
 
 <h3>改革近况</h3>
 
-*	2025-07-29，组建中国[长安汽车](http://www.sasac.gov.cn/n2588045/n27271785/n27271802/c34089441/content.html)集团，排名73位。
-*	2025-07-19，中国雅江集团[成立](http://www.sasac.gov.cn/n2588035/c34016456/content.html)，排名22位，网址待公布。（本页待更新）
-*	2024-10-18，中国资源循环集团[#66](#66)+1{:target="_top"}新成立，中国绿发原董事长出任[一把手](https://news.qq.com/rain/a/20241019A06RIR00)。
-*	2023-11-23，华录集团[#93](#93){:target="_top"}并入中国电科[#8](#8){:target="_top"}，实业央企总数由98减为97家。
-*	2023-10-10，[二十届中央第二轮巡视](https://www.ccdi.gov.cn/toutiaon/202310/t20231021_301845.html)对26家中管企业、5家部委、国家铁路局/中铁集团 开展巡视。（标记🚩 31个，另有科技部/国防科工局不在本页收录范围）
-*	2023-06 　，中国电气装备集团、中国物流集团 网站开通。　
-*	2023-03-27，[二十届中央](https://www.ccdi.gov.cn/specialn/zyxsgz20/)第一轮巡视对中国电科/中国移动等30家中管企业党组开展常规巡视。（标记⛳30个，已于9月底完成反馈）
-*	2022-12-31，中国南水北调集团有限公司[#48](#48){:target="_top"}列入国资委履行出资人职责企业名单（直接监管）。
-*	2022-12-21，[中钢集团](http://www.sinosteel.com)不再由国资委直接监管，整体划入[#35](#35){:target="_top"}中国宝武。
-*	2021-01 　，对外文化集团整体划转至紫荆文化集团。
-*	2020-12-　，黑龙江省农垦总局 改制为 北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
+*	2026-01-08　中石化[#12](#12){:target="_top"}与中航油[#88](#85){:target="_top"}实施重组。（二者官网待更新）
+*	2025-07-29　组建中国[长安汽车](http://www.sasac.gov.cn/n2588045/n27271785/n27271802/c34089441/content.html)集团，排名73位。
+*	2025-07-19　中国雅江集团[成立](http://www.sasac.gov.cn/n2588035/c34016456/content.html)，排名22位，网址待公布。（本页待更新）
+*	2024-10-18　中国资源循环集团[#66](#66){:target="_top"}+1新成立，中国绿发原董事长出任[一把手](https://news.qq.com/rain/a/20241019A06RIR00)。
+*	2023-11-23　华录集团[#93](#93){:target="_top"}并入中国电科[#8](#8){:target="_top"}，实业央企总数由98减为97家。
+*	2023-10-10　[二十届中央第二轮巡视](https://www.ccdi.gov.cn/toutiaon/202310/t20231021_301845.html)对26家中管企业、5家部委、国家铁路局/中铁集团 开展巡视。（标记🚩 31个，另有科技部/国防科工局不在本页收录范围）
+*	2023-06 　　中国电气装备集团、中国物流集团 网站开通。　
+*	2023-03-27　[二十届中央](https://www.ccdi.gov.cn/specialn/zyxsgz20/)第一轮巡视对中国电科/中国移动等30家中管企业党组开展常规巡视。（标记⛳30个，已于9月底完成反馈）
+*	2022-12-31　中国南水北调集团有限公司[#48](#48){:target="_top"}列入国资委履行出资人职责企业名单（直接监管）。
+*	2022-12-21　[中钢集团](http://www.sinosteel.com)不再由国资委直接监管，整体划入[#35](#35){:target="_top"}中国宝武。
+*	2021-01 　　对外文化集团整体划转至紫荆文化集团。
+*	2020-12-　　黑龙江省农垦总局 改制为 北大荒农垦集团有限公司，财政部代表国务院履行出资人职责。
 
 <h3 >国资委常用网址</h3>
 
 　国资委 [SASAC官网](http://www.sasac.gov.cn)：
 	[机构概况](http://www.sasac.gov.cn/n2588020/index.html)、
-	[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/) / [2](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)、
-	[国企改革](http://www.sasac.gov.cn/n2588030/n2588924/)  
+	[央企名录](http://www.sasac.gov.cn/n2588045/n27271785/) / [2](http://www.sasac.gov.cn/n2588045/n27271785/n27271792/c14159097/content.html)  
 　国有资产监督管理委员会（正部级），为国务院直属特设机构，其党委履行党中央规定的职责。  
 　State-owned Assets Supervision and Administration Commission of the State Council  
 　专题：《[国企改革三年行动方案](http://www.sasac.gov.cn/n4470048/n13461446/n15390485/)（2020—2022年）》  
 　国资委[新闻中心](http://www.sasac.gov.cn/n2588020/n2877938/n2879597/)：
 	[新闻发布](http://www.sasac.gov.cn/n2588025/)；
-	[信息公开](http://xxgk.sasac.gov.cn:8080/gdnps/pc/index.jsp)  
+	[信息公开](http://www.sasac.gov.cn/n2588035/)  
 　官方微博：[国资小新](https://weibo.com/guozixiaoxin) 微博粉丝超500万，
 列举的[央企微博](https://weibo.com/2752396553/Mr2B1DujG)，
 主持的话题：[#你们尽管想象我们负责实现#](https://s.weibo.com/weibo?q=%23你们尽管想象我们负责实现%23&Refer=index)
@@ -893,9 +893,9 @@
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈© 2019-2025 大萌	知识共享许可
+	老生常谈© 2019-2026 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 v0.5.8	202508
+	央企股票全家福 v0.5.9	202601
 	https://Laosheng.top/fuwu/yangqi
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
