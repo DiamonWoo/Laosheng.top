@@ -21,7 +21,7 @@
 *	2026-01-08　中石化[#12](#12){:target="_top"}与中航油[#88](#85){:target="_top"}实施重组。（二者官网待更新）
 *	2025-07-29　从[#8](#8){:target="_top"}兵器装备集团 划转组建中国[长安汽车](http://xxgk.sasac.gov.cn/gdnps/pc/content.jsp?id=34089441)集团，排名[#73](#70){:target="_top"}位。
 *	2025-07-19　中国雅江集团[成立](http://www.sasac.gov.cn/n2588035/c34016456/content.html)，排名22位，网址待公布。（本页待更新）
-*	2024-10-18　中国资源循环集团[#67](#67){:target="_top"}新成立，中国绿发原董事长出任[一把手](https://news.qq.com/rain/a/20241019A06RIR00)。
+*	2024-10-18　中国资源循环集团[成立](http://www.sasac.gov.cn/n2588035/c31913785/content.html)，排名67位，中国绿发原董事长出任[一把手](https://news.qq.com/rain/a/20241019A06RIR00)。
 *	2023-11-23　华录集团[#93]并入中国电科[#8](#8){:target="_top"}，实业央企总数由98减为97家。
 *	2023-10-10　[二十届中央第二轮巡视](https://www.ccdi.gov.cn/toutiaon/202310/t20231021_301845.html)对26家中管企业、5家部委、国家铁路局/中铁集团 开展巡视。（标记🚩 31个，另有科技部/国防科工局不在本页收录范围）
 *	2023-06 　　中国电气装备集团[#97](#95){:target="_top"}、中国物流集团[#98] 网站开通。　
@@ -52,18 +52,14 @@
 
 　　改革近况、国资委网址
 
-*	<sup>中宣部/国务院</sup>：[文化企业](#D3){:target="_top"} 🌻 3家
-	* 出版/广电/紫荆 ⇓
-*	<sup>国务院/各部局</sup>：[行政央企](#D4){:target="_top"} 👔 4家
-	* 邮政/铁路/烟草/北大荒 ⇓
-*	<sup>国务院/财政部</sup>：金融央企 🥯27家
-	* ⇒ <small>投资理财[金融圈](金融圈)（工行/中信/人保…）</small>
-*	<sup>国务院/国资委</sup>：实业央企⚙️98+2家　<small>本页</small>
+*	<sup>中宣部/国务院</sup>：🌻 [文化企业](#D3){:target="_top"} 3家 ⇓：出版/广电/紫荆
+*	<sup>国务院/各部局</sup>：👔 [行政央企](#D4){:target="_top"} 4家 ⇓：邮政/铁路/烟草/北大荒
+*	<sup>国务院/财政部</sup>：🥯2 金融央企 7家 ⇒ <small>投资理财[金融圈](金融圈)（工行/中信/人保…）</small>
+*	<sup>国务院/国资委</sup>：⚙️实业央企 98+2家　<small>本页</small>
 	* 国资委[央企名录](#D1){:target="_top"}（中核/电信/中粮…）⇓
 	* 📊[图例](#tuli){:target="_top"}与统计 ⇓
 	* 实业央企旗下[上市公司](#D2){:target="_top"}与股票 ⇓
 *	[LSIP进度](#D5){:target="_top"}与参考文献
-
 
 <div id='D3' align="right"><a href="#tupu" target="_top">⇑ Top</a></div>
 
@@ -330,7 +326,7 @@
 65⠀🧲	[中国有色集团](http://www.cnmc.com.cn){:id="64"} 	⠀CNMM <small>[网站群](http://www.cnmc.com.cn/cnmc/wzq/A002017Gone1.html)	⠀北京  	⠀[<b>3</b>家上市▼](#G64){:target="_top"}	⠀中国有色矿业集团有限公司 	⠀- -	</small>  
 66⠀🧲	[中国稀土集团](https://www.regcc.cn){:id="65"} 	⠀CREG - - - <small>	⠀赣州市  	⠀[<b>1</b>家上市▽](#G65){:target="_top"}	⠀中国稀土集团有限公司 	⠀- -	⠀页底找[成员单位](https://www.regcc.cn/zgxtjt/zzjg/introduce.shtml)</small>  
 
-67⠀♻️	[中国资环](http://www.crrg.com.cn) 	CRRG [新成立](http://www.sasac.gov.cn/n2588035/c31913785/content.html){:id="66"}！- - - <small>	⠀天津市  	⠀中国资源循环集团有限公司 	⠀本页暂缓吸收。- -	</small>   
+67⠀♻️	[中国资环](http://www.crrg.com.cn) 	CRRG <small>[网站群](http://www.crrg.com.cn/crrg/zhpt/index.html)	⠀天津市  	⠀中国资源循环集团有限公司 	⠀- -	</small>   
 68⠀🧲	[有研集团](http://www.grinm.com){:id="66"} 	⠀GRINM - - - <small>	⠀北京  	⠀[<b>3</b>家上市▼](#G66){:target="_top"}	⠀中国有研科技集团有限公司 	⠀- -	⠀有色金属研究总院，[基地分布](https://www.grinm.com/2600.html)，[研究生院](https://www.grinm.com/1417.html)</small>  
 69⠀🏭	[矿冶集团](http://www.bgrimm.com){:id="67"} 	⠀BGRIMM <small>[网站群](http://www.bgrimm.com/wzq/)	⠀北京  	⠀[<b>2</b>家上市▽](#G67){:target="_top"}	⠀矿冶科技集团有限公司 	⠀- -	</small>  
 70⠀💡	[中智集团](http://www.ciic.com.cn){:id="68"} 	⠀CIIC <small>[网站群](http://www.ciic.com.cn/ciic/zzlj44/index.html)	⠀北京  	⠀[<b>0</b>家上市▼](#G68){:target="_top"}	⠀中国国际技术智力合作集团有限公司 	⠀[wb](https://weibo.com/n/中智集团)	</small>  
