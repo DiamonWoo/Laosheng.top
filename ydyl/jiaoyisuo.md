@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307~202511
+大萌　202307~202601
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -142,7 +142,7 @@ Stock Exchange Top25 2021
 　[南非证券交易所](https://www.jse.co.za)🍴、
 　[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴、
 　[新加坡交易所](https://www.sgx.com/zh-hans/)📍 SGX
-	/ 2016年收购 波罗的海交易所、
+	/ 2016年收购 [波罗的海](https://www.balticexchange.com/)交易所(干散货指数)、
 　俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)、
 　[泰国证券交易所](https://www.set.or.th/en/home)🍴、
 　印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴、
@@ -410,10 +410,10 @@ USA Gov financial authorities
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈 © 2019-2025 大萌  知识共享
+	老生常谈 © 2019-2026 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.8	202511
+	环球金融交易所	v0.5.9	202601
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
