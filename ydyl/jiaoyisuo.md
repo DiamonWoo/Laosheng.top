@@ -365,17 +365,17 @@ USA Gov financial authorities
 	运输部、能源部、教育部、退伍军人事务部、国土安全部。
 	* 独立行政机构（CIA/**美联储**/国家航天局……）
 
-**国务部** [State](https://www.state.gov/)（类似外交部），现任国务卿：布林肯。
+**国务部** [State](https://www.state.gov/)（类似外交部），现任国务卿：卢比奥。
 
-**财政部** [Treasury](https://home.treasury.gov/)，现任部长：耶伦♀。公布国债收益率。
+**财政部** [Treasury](https://home.treasury.gov/)，现任部长：贝森特（Scott Bessent）。公布国债收益率。
 
-**商务部** [Commerce](https://www.commerce.gov/)，现任部长：雷蒙多♀。
+**商务部** [Commerce](https://www.commerce.gov/)，现任部长：霍华德·卢特尼克（Howard Lutnick）。
 
 **劳工部** [Labor](https://www.dol.gov/)，发布CPI（消费者物价指数）。
 
 **美联储** [Federal Reserve](https://www.FederalReserve.gov/ 'Fed 联邦储备系统') ，美国中央银行，制定货币政策，管理利率基准。
 
-　　美国宪法允许各州保持一定的独立性，各州政府网站请见 *[美国五十州](USA50)*。
+　　美国宪法允许各州保持一定的独立性，各州政府网站请见 *[美国五十州](noway/USA50)*。
 
 <div align="right" id="can">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
