@@ -1,6 +1,6 @@
 提名网站与落榜记
 ===============
-大萌 2020~2025<base target="_blank">
+大萌 2020~2026<base target="_blank">
 
 		逆水行舟，不进则退
 
@@ -106,6 +106,7 @@
 <!-- http://film.mtime.com/search/movies/movies?suggestType=0&q=" + wen -->
 *	湖南卫视 <a href="https://www.mgtv.com/tv/" title="电视剧和电影">芒果TV</a>
 *	⠀中国经济<a title='CCTV-2精品栏目' href='https://tv.cctv.com/lm/zgjjdjt/videoset/'>大讲堂</a>
+*	《<a title='每周六晚播出，中国青年心中的榜样' href='https://tv.cctv.com/lm/kjl/#&Type=0'>开讲了</a>》
 
 <div id="4" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
@@ -414,10 +415,10 @@
 
 
 
-	老生常谈© 2019-2025 大萌	　知识共享许可
+	老生常谈© 2019-2026 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202512
+	提名网站与落榜记	　202602
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
