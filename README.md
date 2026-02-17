@@ -1,4 +1,4 @@
-老生常谈²⁰²⁶
+老生常谈²⁰²⁶🦄
 ========
 <link rel="canonical" href="https://Laosheng.top" />
 
@@ -109,6 +109,6 @@
 
 	老生常谈© 2019~2026 大萌	知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	202601 v3.4.6	https://Laosheng.top
+	202602 v3.4.6	https://Laosheng.top
 
 🎁🎅🛍💎🎀🥳💐🍸🍹🍺🍻🥂🍷🥃☕🍵🥣🍝🍜 🍇🍉🍰🧀🥧₂₀₂₅
