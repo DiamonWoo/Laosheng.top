@@ -1,0 +1,39 @@
+/* Laosheng.top 老生常谈 */
+/* 排行榜页面使用 */
+
+body	 {	background: 	#F5F5DC ; 	/* v1.9.9 #EEEECC ; Cornsilk #FFF8DC OldLace #FDF5E6 */
+/* Beige #F5F5DC	LightYellow #FFFFE0	LemonChiffon #FFFACD	LightGoldenRodYellow #FAFAD2 Linen #FAF0E6 */
+		line-height: 1.75;
+		margin: auto; 			/*	margin-left:1em; 	margin-right: 1em;	*/
+							/* 	2%; 稳定值:4%; 与div的width 联动		*/
+	}
+img	{ vertical-align: middle;  }		/* 解决图像偏高的问题 bottom*/
+div.kuai {	float: left; 
+		margin:1em; 		/* 上一个值 1% margin-top: -0.5%; */
+		width:  462px ; 		/* 稳定值 452px */	/*480px 25% width: auto; min-width: 360px;*/
+		max-height:100%;		/* 尝试解决X浏览器折行问题。min-height:1px; */
+	/*	height: auto;		该句将使max无效，原始bug。 218px; auto */
+}
+
+div#bao {	height: 468px; 	
+		line-height: 1.8; 	/* 此处行高仅对Fx有效 */
+		background-image: url('LaoshengMap.png'); background-position: -270px -108px; 
+		/*, no-repeat, -90*/
+		margin-left:0.5em; margin-right: 1em;
+	}
+div.you {	text-align: right; }
+div#top {	margin-bottom:-3%; }		/* div#tuli */
+
+	h2 {	margin-top:1%; line-height: 1.2; }	/* 1.2 {width: 36%; margin-top: -1%; }*/
+	h3 {	margin-bottom: 2%}
+  p.you 	{text-align: right; }
+/*   br 	{margin: 0.5% auto; }*/ 
+
+
+/* 
+选择器的各种语法
+	HTML中： <p id="red">这个段落是红色。</p>
+CSS中用#指向ID：#Hong {color:red;}
+	HTML中： <h1 class="center">   This heading will be center-aligned   </h1>
+CSS中用.指向类：.center {text-align: center} 
+*/
