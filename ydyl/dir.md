@@ -1,6 +1,6 @@
 一带一路民间站 💃 B&R
 =================
-大萌	2022-2025
+大萌	2022-2026
 <base target="_blank">
 <meta name='description' content='一带一路民间站，the Belt and Road Folk Website'>
 <link rel="canonical" href="https://Laosheng.top/ydyl/dir" />
@@ -25,8 +25,10 @@
 	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。
 	+ 英澳新加4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。 *中国大学收录在 【[服务](../fuwu/)】系列。*
 
++	./USA　美国概况
+	+ 50 States　[美国五十州](50states.html) 🇺🇸，美国五十个州政府网站、各州特点。（新上线)
+
 +	./noway　没带没路，地球上少数不参加B&R的国家
-	+ USA50　[美国五十州](noway/USA50) 🇺🇸，美国五十个州政府网站、各州特点。（新上线)
 	+ 英、日、韩、印、澳……
 
 <div align="right">
@@ -240,10 +242,10 @@
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈© 2019~2025	Copyright by 大萌
+	老生常谈© 2019~2026	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.4.7	202512
+	一带一路民间站 v3.4.8	202602
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
