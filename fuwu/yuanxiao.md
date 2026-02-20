@@ -599,7 +599,7 @@
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
+　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/a/author">提出宝贵意见</a>，谢谢！🙇
 
 ```
 	老生常谈© 2019-2026 大萌	知识共享许可
@@ -617,3 +617,4 @@
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top  
+
