@@ -3794,9 +3794,9 @@ LSIP收录进度
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.Top/c/author)，谢谢！🙇
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.Top/a/author)，谢谢！🙇
 
-```
+```a
 	老生常谈 © 2019-2025 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/qianxian
@@ -3811,3 +3811,4 @@ LSIP收录进度
 </script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
+
