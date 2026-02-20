@@ -18,17 +18,17 @@
 	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
-+	./road　丝绸之路[海陆空](road){:target="_top"}，跨国交通网址收集（准备中）
++	./road/　丝绸之路[海陆空](road){:target="_top"}，跨国交通网址收集（准备中）
 	+ [Ship](road/ship){:target="_top"} 海上丝绸之路、Land 现代丝绸之路、Air 空中丝绸之路
 
-+	./www.edu　[世界大学名录](www.edu){:target="_top"}，中国承认学历的各国大学（收录中）
-	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。
-	+ 英澳新加4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。 *中国大学收录在 【[服务](../fuwu/)】系列。*
++	./www.edu/　[世界大学名录](www.edu){:target="_top"}，中国承认学历的各国大学（收录中）
+	+ 英澳新加4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。
+	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。 *中国大学收录在 【[服务](../fuwu/)】系列。*
 
-+	./USA　美国概况
-	+ 50 States　[美国五十州](50states.html) 🇺🇸，美国五十个州政府网站、各州特点。（新上线)
++	./USA/　美国概况
+	+ 50 States　[美国五十州](USA/50states.html) 🇺🇸，美国五十个州政府网站、各州特点。（新上线)
 
-+	./noway　没带没路，地球上少数不参加B&R的国家
++	./noway/　没带没路，地球上少数不参加B&R的国家
 	+ 英、日、韩、印、澳……
 
 <div align="right">
@@ -239,7 +239,7 @@
 
 <div align="right">Laosheng<a href="#" target="_top">.Top</a>↑</div>
 
-　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/a/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
 	老生常谈© 2019~2026	Copyright by 大萌
