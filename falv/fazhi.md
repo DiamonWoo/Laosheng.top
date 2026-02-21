@@ -1,6 +1,6 @@
 法治政府部门集 🏢 <sub>奉公守法人心齐</sub>
 ==================
-GPL3.0　大萌　2022-2025	<base target="_blank">
+GPL3.0　大萌　2022-2026	<base target="_blank">
 
 		到2025年，政府行为全面纳入法治轨道——《法治政府建设实施纲要(2021－2025年)》
 
@@ -11,7 +11,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 　　收录工作正在进行，由于个人能力有限，大萌欢迎读者制作改进版本。本页面特意采用了允许改编的GPL 3.0版权许可证（和Linux内核许可证相同，与知识共享的BY-SA协议兼容），欢迎<a href="https://laosheng.top/c/author">提出意见</a>。
 
 <div align="right">
-⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【有关部门】</a>/法门集</div>
+⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top">【法律】</a>/法门集</div>
 
 
 <h2>中央法治部门</h2>
@@ -654,7 +654,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 
 <h3 id="6590">6590 <a title="新疆生产建设兵团" href="http://www.xjbt.gov.cn">新疆兵团</a>　　　<sub>非行政区划的省级单位，不设人大与政协</sub></h3>	
 ⚔️[兵团检察院](http://jcy.xjbt.gov.cn)　⚖️[兵团人民法院](http://btfy.btcourt.gov.cn)(高法)　 　[新疆生产建设兵团政法综治网](http://zfw.xjbt.gov.cn)　[法学会](http://zfw.xjbt.gov.cn)　	  
-纪委监委：[巡视巡察](http://btjw.xjbt.gov.cn/xxgk/xsxc/)　[审查调查](http://btjw.xjbt.gov.cn/xxgk/scdc/)　　　[法律服务站](http://bt.12348.gov.cn)　[公安局](http://btgaj.xjbt.gov.cn) <sub>weibo</sub>　[监狱管理局](http://jygl.xjbt.gov.cn)　药监局　审计厅  
+纪委监委：[巡视巡察](http://btjw.xjbt.gov.cn/xxgk/xsxc/)　[审查调查](http://btjw.xjbt.gov.cn/xxgk/scdc/)　　　[法律服务站](http://bt.12348.gov.cn)　🛂[公安局](http://btgaj.xjbt.gov.cn) <sub>weibo</sub>　[监狱管理局](http://jygl.xjbt.gov.cn)　药监局　审计厅  
 
 659001 <a href="http://www.shz.gov.cn/mlsc/topic.html" title="电信区号0993独立">石河子市／第八师</a>⠀
 659002 <a href="http://www.ale.gov.cn">阿拉尔市／第一师</a>⠀
@@ -676,7 +676,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 <a title='710000 台湾省政府2018年被台当局实质废除'>台湾省</a>
 　+886　<sub>革命尚未成功</sub></h3>
 全国人大[台湾代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/twdbtmd14/)　　[台灣法學會](http://www.taiwanlawsociety.org.tw)
-　　[臺灣高等法院](https://tph.judicial.gov.tw/)　　  
+　　台湾内政部#[警政署](https://www.npa.gov.tw/)🛂　 ⚔️台湾#[高等检察署](https://www.tph.moj.gov.tw/)　⚖️#[臺灣高等法院](https://tph.judicial.gov.tw/)　　  
 <a href="http://www.gwytb.gov.cn" title="中央台办/国务院台办">国台办</a>
 
 710100 <b>台北市</b>　02♾  
@@ -685,7 +685,7 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
  <a href="https://www.gov.hk/sc/about/abouthk/facts.htm" title="810000 香港特别行政区 ">香港</a>
 　+852♾　<sub>1997年回归祖国</sub></h3>
 
-全国人大[香港代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/xgdbtmd14/)　　[香港立法会](https://www.legco.gov.hk/)　	[律政司](https://www.doj.gov.hk/)　	[香港法院](https://www.judiciary.hk/)  
+全国人大[香港代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/xgdbtmd14/)　　[香港立法会](https://www.legco.gov.hk/)　	⚔️[律政司](https://www.doj.gov.hk/)(检控方)　	⚖️[香港法院](https://www.judiciary.hk/)  
 [香港廉政公署](https://www.icac.org.hk/) 　	[香港政府](https://www.gov.hk/) 　	[香港警务处](https://www.police.gov.hk/) 🛂<sub>[weibo](https://weibo.com/hongkongpoliceforce#香港警察)</sub>　[香港惩教署](https://www.csd.gov.hk)　  
   
 
@@ -693,8 +693,8 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
  <a href="https://www.gov.mo/zh-hant/content/city-info/" title="820000 澳门特别行政区 缺少概况内容">澳门</a>
 　+853♾　<sub>1999年回归祖国</sub></h3>
 
-全国人大[澳门代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/amdbtmd14/)　　[澳门立法会](https://www.al.gov.mo/)　	[检察院](https://www.mp.gov.mo/)　	[澳门法院](https://www.court.gov.mo/)  
-[澳门廉政公署](https://www.ccac.org.mo/) 　[澳门政府](https://www.gov.mo/) 　	[澳门警察总局](http://www.spu.gov.mo/) <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
+全国人大[澳门代表名单](http://www.npc.gov.cn/npc/c191/dbmd/dbmd14/amdbtmd14/)　　[澳门立法会](https://www.al.gov.mo/)　	⚔️[检察院](https://www.mp.gov.mo/)　	⚖️[澳门法院](https://www.court.gov.mo/)  
+[澳门廉政公署](https://www.ccac.org.mo/) 　[澳门政府](https://www.gov.mo/) 　	[澳门警察总局](http://www.spu.gov.mo/)🛂 <sub>wx：MacaoSPU</sub>　[懲教管理局](http://www.epm.gov.mo)　  
 
 
 <h3>编辑后记</h3>
@@ -706,13 +706,13 @@ GPL3.0　大萌　2022-2025	<base target="_blank">
 
 <div align="right"><a href="#" target="_self">↑Top</a></div>
 
-　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
+　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/a/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈© 2019-2025 大萌　CC 3.0
+	老生常谈© 2019-2026 大萌　CC 3.0
 	GPL 3.0  可转发-可衍生-相同方式授权
-	https://laosheng.top/fuwu/fazhi
-	法治政府部门集 v1.0.0	202508
+	https://Laosheng.top/falv/fazhi
+	法治政府部门集 v1.0.0	202602
 ```
 
 
