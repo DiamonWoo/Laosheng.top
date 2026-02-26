@@ -1,6 +1,6 @@
 大萌望海楼 🗼 <sup>学法数字报</sup>
 =================
-大萌	2019-2025
+大萌	2019-2026
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/falv/" />
 
@@ -9,7 +9,7 @@
 **/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在这里探讨检索法条的门径，制作高质量法律文本，列举政法类高校资源，和大家一起学法、用法。详细内容如下：
 
 +	./fahai　☸️ [法海求索](fahai){:target="_top"}，找到法条、到庭旁听，进高校深造；政法类期刊列表
-	+ ./[index2](./index2){:target="_top"}　现行有效的《中国法律简目》。因‘国法库’做得越来越好，本项目暂停。
+	+ ./[jianmu](./jianmu){:target="_top"}　现行有效的《中国法律简目》。因‘国法库’做得越来越好，本项目重启。
 	+ ./duben　🕮 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
 	+ [读本1](duben1){:target="_top"} 📕 八部大法：　立法、监察、诉讼法、行政、刑法、民法典。（待更新）
 	+ [读本2](duben2){:target="_top"} 📗 常用法：　治安、传染病、噪声防治……
@@ -172,13 +172,13 @@
 <!-- + [自己打官司要做什么准备？]() （准备中）-->
 
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/c/author)🙇 Comments Welcome
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/a/author)🙇 Comments Welcome
 
 ```
-	老生常谈© 2019~2025	Copyright by 大萌
+	老生常谈© 2019~2026	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.2.3	202512
+	大萌望海楼 v3.2.3	202602
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
