@@ -1,4 +1,4 @@
-大萌望海楼 🗼 <sup>法海泛舟</sup>
+大萌望海楼 🗼 <sub>法海泛舟</sub>
 =================
 大萌	2019-2026
 <base target="_blank">
@@ -40,10 +40,10 @@
 --------------
 
 *	🀄️ 总台[央视‘法治’相关栏目](https://tv.cctv.com/lm/index.shtml?#datapd=datafl=法治)：今日说法、小区大事、律师来了、庭审现场……
-	[CCTV-12直播](https://tv.cctv.com/live/cctv12)📺 社会与法治频道
-*	🀄️[法治日报](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)	/《[法治周末](http://www.legalweekly.cn/)》
-	，国务院/[司法部](https://www.moj.gov.cn)主管，[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报
-*	🀄️[中国纪检监察报](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
+	[CCTV-12直播](https://tv.cctv.com/live/cctv12)📺 社会与法频道
+*	🀄️ [法治日报](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm) 📰⠀ [法治网](http://www.legaldaily.com.cn)	/《[法治周末](http://www.legalweekly.cn/)》
+	，[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报，国务院/[司法部](https://www.moj.gov.cn)主管
+*	🀄️ [中国纪检监察报](https://jjjcb.ccdi.gov.cn/epaper/) 📰⠀ CCDI[官网](https://www.ccdi.gov.cn)
 	/《[中国纪检监察杂志](http://zgjjjc.ccdi.gov.cn/)》
 
 　　*更多法治云媒体请见：[法海求索](fahai)。*
@@ -54,7 +54,7 @@
 
 　　我国现行有效的(全国性)**法律** 大约三百部，由[全国人大及其常委会](http://www.npc.gov.cn "中国人大网")制定，由国家主席签发，通常会授权[新华网](http://www.xinhuanet.com)公布，各大党报转载。根据这些法律，[最高法](http://www.court.gov.cn)、[最高检](https://www.spp.gov.cn)(两高)会出台相应的 **司法解释**，[国务院](http://www.gov.cn)(依据宪法授权)会出台相应的*规定/条例/办法/实施细则*，合称为 **行政法规**；司法解释与行政法规目前都超过六百件。 *大萌提示，以上 国家法律法规 小计一千五百件。*
 
-　　根据2015年修改的《立法法》，各省级行政区及较大的市可以进行地方立法，或者依照法律与行政法规制定具体规定，合称为**地方性法规**，仅对本地区有效。 *大萌提示，目前全国的 地方性法规 合计近一万五千件。*　　《立法法》中还授权[国务院内各部/委/署](/fuwu "有关部门在这里")，可对法律与行政法规的执行制定*部门规章*；并确定了以上各种法规的效力，排序如下：
+　　根据2015年修改的《立法法》，各省级行政区及较大的市可以进行地方立法，或者依照法律与行政法规制定具体规定，合称为**地方性法规**，仅对本地区有效。 *大萌提示，目前全国的 地方性法规 合计近一万五千件。*　　《立法法》中还授权国务院内各部/委/署，可对法律与行政法规的执行制定*部门规章*；并确定了以上各种法规的效力，排序如下：
 
 	宪法 > 法律/立法解释/司法解释 > 行政法规 > 部门规章/地方性法规 > 地方政府规章
 
@@ -65,7 +65,7 @@
 	- 新华通讯社 　 	[新华网2020全国两会专题](http://www.xinhuanet.com/politics/2020lh )
 	- 吉林省法学会 　 	[我国现行法律目录](http://www.jlfxhw.com/flml/index.jhtml )
 
-*各省市的 人大/政府/公检法网站请见【有关部门】系列的[《法门集》](../fuwu/fazhi)页面*
+*各省市的 人大/政府/公检法网站请见[法门集](./fazhi)页面*
 
 
 依法治国时间表 🔔
@@ -98,7 +98,7 @@
 　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
 
 *	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
-*	《[中国法律快查手册](https://lawrefbook.github.io/)》　[RanKKI@github](https://github.com/RanKKI/LawRefBook)
+*	《<del>[中国法律快查手册](https://lawrefbook.github.io/)</del>》　[RanKKI@github](https://github.com/RanKKI/LawRefBook) 维护中？
 
 <h3>快问快答 💬</h3>
 
@@ -116,6 +116,7 @@
 
 <!-- + [自己打官司要做什么准备？]() （准备中）-->
 
+<div id="0" align="right"><a href="#" target="_top">Top</a>↑</div>
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.top/a/author)🙇 Comments Welcome
 
