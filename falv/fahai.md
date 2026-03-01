@@ -1,6 +1,6 @@
-法海求索 ☸️
+法海求索 ☸️<sup>学法数字报</sup>
 =============
-大萌	2020-2025
+大萌	2020-2026
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/falv/fahai" />
 
@@ -18,14 +18,15 @@
 
 　1 文本演变
 　2 [法条检索](#2){:target="_top"}
-　3 [庭审观摩](#3){:target="_top"}
-　4 [法考](#4){:target="_top"}
-　5 政法类高校:
-	[法学院](#5.1){:target="_top"}
-/	[政法院校](#5.2){:target="_top"}
-/	[公安警校](#5.3){:target="_top"}
-　6 [政法类期刊](#6){:target="_top"}
-　参考[文献](#7){:target="_top"}
+　3 [法治云](#3){:target="_top"}
+　4 [庭审观摩](#4){:target="_top"}
+　5 [法考](#5){:target="_top"}
+　6 政法类高校:
+	[法学院](#6.1){:target="_top"}
+/	[政法院校](#6.2){:target="_top"}
+/	[公安警校](#6.3){:target="_top"}
+　7 [政法类期刊](#7){:target="_top"}
+　参考[文献](#8){:target="_top"}
 
 
 1、法律文本的演变 💿
@@ -80,8 +81,75 @@
 
 <div id="3" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
+3、法治社会云媒体 ☀️
+-----------------
 
-3、庭审观摩 👨‍⚖️
+　　云媒体是既有的学法、普法平台，充分利用这些平台，加快法治社会建设。
+
+*	🀄️ CCTV-1  央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 📺 每日中午12.35首播
+*	🀄️ CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)📺
+*	开设法治频道的省台📺：
+	[黑龙江](https://www.hljtv.com/live/folder424/)、
+	[河南](https://static.hntv.tv/kds/#/)、
+	[山西](https://www.sxrtv.com/tv/) <sub>需要手动选台</sub>
+*	[]()📰 🗞️官网[]()
+*	国务院/[司法部](https://www.moj.gov.cn)：（[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报）
+	🀄️[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)
+	/《[法治周末](http://www.legalweekly.cn/)》
+*	国务院/[公安部](https://www.mps.gov.cn)：
+	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)
+	/ [影视剧](https://media.cpd.com.cn)🎞
+*	[最高检](https://www.spp.gov.cn)：
+	《[检察日报](http://newspaper.jcrb.com)》📰 [正义网](https://www.jcrb.com)、
+*	[最高法](https://www.court.gov.cn)：
+	《[人民法院报](https://www.rmfyb.com/)》📰 [中国法院网](https://www.chinacourt.org/)
+*	[中国法学会](https://www.chinalaw.org.cn/)：
+	《[民主与法制](http://e.mzyfz.com/paper/index_2331.html)时报》📰 [官网](http://www.mzyfz.com)
+	/ [法学创新网](http://www.fxcxw.org.cn)
+*	中华全国律师协会：[中国律师网](https://www.acla.org.cn)
+	《中国律师》杂志
+*	中国社会科学院/[法学研究所](http://www.cass.cn/zuzhijigou/)
+	--中国法学网/[学术刊物](http://iolaw.cssn.cn)
+*	🀄️[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
+
+<h3>📑 地方法治报 29-1家（数字为刊号）：</h3>
+
+　11-0102	<del>法制晚报</del>	/北京青年报社
+　12-0005	天津政法报	
+　13-0079	**[河北法治报](https://szbz.hbfzb.com/)**📰 [官网](https://www.hbfzb.com)	
+　14-0070	[山西法治报](http://epaper.sxrb.com/index_sxfzb.shtml)📰 [官网](https://www.sxfzb.com)	
+　15-0025	[内蒙古法制报](http://www.nmgfzb.cn/xpaper)📰 	
+　21-0105	[辽宁法治报](https://epaper.lnd.com.cn/fzbindex.html)📰 [wb](https://weibo.com/lnfzb)		
+　22-0021	北方法制报[官网](http://www.bffzb.com/)/吉林日报	
+　23-0021	黑龙江法制报	
+
+　31-0011	**[上海法治报](http://www.shfzb.com.cn/shfzb/paperindex.htm)**📰 	
+　32-0135	[江苏法治报](http://jsfzb.xhby.net/)📰 	
+　33-0118	[浙江法治报](https://zjfzb.zjol.com.cn/paperindex.htm)📰 	
+　34-0079	[安徽法治报](https://szb.ahnews.com.cn/fzb/pc/layout)📰 	
+　35-0071	福建法治报 [海峡法治在线](http://www.hxfzzx.com/)	
+　36-0064	**[新法治报](https://www.xepaper.com/xfzb/paperindex.htm)**📰 [官网](http://www.jxlaw.com.cn)/江西日报社	
+　37-0010	[山东法制报](http://paper.dzwww.com/sdfzb/)📰 [官网](https://sdgonggao.cn/)？	
+　41-0113	[河南法治报](https://newpaper.dahe.cn/jrab/paperindex.htm)📰 	
+　43-0068	[湖南法治报](https://epaper.voc.com.cn/fzzb/paperindex.htm)📰 [官网](http://www.efaw.cn)	
+　45-0023	[广西法治日报](http://ipaper.pagx.cn/)📰 	
+　46-0034	[法治时报](http://szb.hnfazhi.com/)📰 /海南日报	
+
+　50-0035	[重庆法治报](https://szb.cqfzb.net/)📰 [官网](https://www.cqfzb.net)	
+　51-0133	[四川法治报](https://dzb.scfzbs.com/)📰 [官网](https://www.scfzbs.com)	
+　52-0042	[贵州法治报](https://szb.fzshb.cn/)📰 [官网](https://www.fzshb.cn/)	
+　53-0053	[云南法制报](https://www.ynfzb.cn/Column.aspx?ColId=353)^📰 	
+　54-0013	[西藏法制报](https://e.xzxw.com/fzb/)📰 	
+　61-0073	**[西部法治报](https://esb.xbfzb.com/paperindex.htm)**📰 /陕西日报社	
+　62-0078	[甘肃法治报](https://szb.gansudaily.com.cn/gsfzb)📰 	
+　63-0029	[青海法治报](https://www.qhfzb.com/epaper/pc/layout/)📰 [官网](https://www.qhfzb.com)	
+　64-0020	[宁夏法治报](https://szb.nxrb.cn/nxfzb/)📰 	
+　65-0086	[新疆法治报](https://www.xjfzb.com/fzb/)^📰 	
+
+<div id="4" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
+
+4、庭审观摩 👨‍⚖️
 -----------
 
 　　纸上得来终觉浅，不妨开庭去旁听。法院大部分案件是公开审理，允许大家进入法庭旁听，依据是《人民法院法庭规则》第九条：公开的庭审活动，公民都可以旁听。一般来说，您只需要携带身份证，接受安全检查，提前15分钟进入法庭。现场不能录音录像，手机需要静音，少数情况有更严格的要求。
@@ -103,7 +171,7 @@
 <div id="4" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
-4、国家法考 ⚖
+5、国家法考 ⚖
 -----------
 
 　　从2018年开始，国家司法考试改称为‘国家统一法律职业资格考试’，由司法部[国家司法考试中心](https://www.moj.gov.cn/jgsz/jgszzsdw/zsdwgjsfkszx/)组织实施。如果你想当律师，或者考上公务员，要担任法官、检察官、公证员、法律顾问、仲裁员（法律类）及政府部门中从事行政处罚决定审核、行政复议、行政裁决的人员必须通过法律职业资格考试。
@@ -111,14 +179,14 @@
 　　中华全国律师协会：[中国律师网](https://www.acla.org.cn)
 
 
-5、政法类高等院校 👨‍🎓
+6、政法类高等院校 👨‍🎓
 -----------------
 
 　　在【[望海楼](..)】目录页，大萌列举了各地法治报，这些都是面向社会大众的普法云媒体。如果你想要更深入的学习，可以到培养法律专业人士的高等院校寻找资源。
 从教育学科的角度，‘法学’是一级学科，其下有‘法学’、‘政治学’、‘公安学’、‘社会学’、‘民族学’、‘马克思主义理论’等多个二级学科类。
 其中公安类专业在高考录取时通常享有提前录取权。
 
-<div id="5.1" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div id="6.1" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>❗中管高校法学院（25所/31）</h3>
 
@@ -159,7 +227,7 @@
 　30 重庆大学[法学院](https://law.cqu.edu.cn/)　[学术成果](https://law.cqu.edu.cn/xsjj1/xscg.htm)  
 　31 兰州大学[法学院](https://laws.lzu.edu.cn/)　[机构知识库](https://ir.lzu.edu.cn/handle/262010/126822)
 
-<div id="5.2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div id="6.2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>⚖️ 政法类专业院校（学报/校报）</h3>
 
@@ -198,7 +266,7 @@
 　[海南政法职业学院](http://www.hnplc.com)
 </small>
 
-<div id="5.3" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div id="6.3" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3>🛂 全国公安/司法警校</h3>
 
@@ -269,10 +337,10 @@
 
 　　除第一所为部属本科院校，其余均为专科院校，由各省司法厅主管。
 
-<div id="6" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div id="7" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
-6、政法类《期刊》
+7、政法类《期刊》
 ----------------
 
 　　在[国家新闻出版署](https://www.nppa.gov.cn/bsfw/cyjghcpcx/qkan/)网站查询政法类（刊号分类为/D）期刊，不完全收录计182种。刊号前两位是省级行政区划代码。
@@ -462,25 +530,25 @@
 |		|	65-1276/D	|《法治人生》/维吾尔文/哈萨克文
 |		|	65-1299/D	|《新疆警察学院学报》/维吾尔文
 
-<div id="7" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+<div id="8" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
 参考文献
 --------
 
 *	20231018 [高等教育数字局](https://baijiahao.baidu.com/s?id=1780099160978148202)在百家号的文章：全国51所公安和司法警官高校名单公布
-*	20238015 中国法学会的[法网导航](http://www.fxcxw.org.cn/html/114/index_206.html)网页提供全国近300所高校的法学院网址，个别网址失效。
+*	20238015 中国法学会的‘[法网导航](http://www.fxcxw.org.cn/html/114/index_206.html)’页提供全国近300所高校的法学院网址，个别网址失效。
 *	20230627 中国教育在线：[五院四系是哪些学校？](https://m.eol.cn/gaokao/202306/t20230627_2447990.shtml)
 *	‘[武书连](https://www.wurank.net/ZYRankList.html)’的法学学科排名，请在页面左侧选择‘法学’分类。
 *	201706 上海政法学院转载：[法学十五大核心期刊](https://www.shupl.edu.cn/kyc/2017/0330/c2882a75592/page.htm)（已在期刊表格中标记粗体）
 
-　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/c/author)🙇 Comments Welcome
+　　节约您的搜寻时间，欢迎[提出宝贵意见](https://laosheng.top/a/author)🙇 Comments Welcome
 
 ```
-	老生常谈 © 2019~2025 大萌  知识共享
+	老生常谈 © 2019~2026 大萌  知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
 	https://Laosheng.top/falv/fahai
-	法海求索	v0.7.1	202501
+	法海求索	v0.7.2	202603
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
