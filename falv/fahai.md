@@ -86,31 +86,33 @@
 
 　　云媒体是既有的学法、普法平台，充分利用这些平台，加快法治社会建设。
 
-*	🀄️ CCTV-1  央视一套 ☼ [《今日说法》栏目](https://tv.cctv.com/lm/jrsf ) 📺 每日中午12.35首播
-*	🀄️ CCTV-12 央视[社会与法治频道](https://tv.cctv.com/live/cctv12)📺
+*	🀄️ 总台[央视‘法治’相关栏目](https://tv.cctv.com/lm/index.shtml?#datapd=&datafl=法治&dataszm=)：今日说法（每日中午12.35首播）、法律讲堂、小区大事……
+	[CCTV-12直播](https://tv.cctv.com/live/cctv12)📺 社会与法频道
 *	开设法治频道的省台📺：
-	[黑龙江](https://www.hljtv.com/live/folder424/)、
-	[河南](https://static.hntv.tv/kds/#/)、
-	[山西](https://www.sxrtv.com/tv/) <sub>需要手动选台</sub>
-*	[]()📰 🗞️官网[]()
-*	国务院/[司法部](https://www.moj.gov.cn)：（[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报）
-	🀄️[《法治日报》](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 [法治网](http://www.legaldaily.com.cn)
+	[黑龙江](https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang/)、
+	[河南](https://static.hntv.tv/kds/#/) <sub>需选台</sub>、
+	[山西](https://www.sxrtv.com/tv/) <sub>需选台</sub>
+
+*	国务院/[司法部](https://www.moj.gov.cn)：
+	🀄️[法治日报](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm)📰 
+	（[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报）
+	[法治网](http://www.legaldaily.com.cn)
 	/《[法治周末](http://www.legalweekly.cn/)》
 *	国务院/[公安部](https://www.mps.gov.cn)：
-	《[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)》📰 [中国警察网](https://www.cpd.com.cn)
+	[人民公安报](https://epaper.cpd.com.cn/szb/wwwcpd_9/dzb_16465/rmga/)📰 [中国警察网](https://www.cpd.com.cn)
 	/ [影视剧](https://media.cpd.com.cn)🎞
 *	[最高检](https://www.spp.gov.cn)：
-	《[检察日报](http://newspaper.jcrb.com)》📰 [正义网](https://www.jcrb.com)、
+	[检察日报](http://newspaper.jcrb.com)📰 [正义网](https://www.jcrb.com)、
 *	[最高法](https://www.court.gov.cn)：
-	《[人民法院报](https://www.rmfyb.com/)》📰 [中国法院网](https://www.chinacourt.org/)
+	[人民法院报](https://www.rmfyb.com/)📰 [中国法院网](https://www.chinacourt.org/)
+*	中华全国律师协会：[中国律师网](https://www.acla.org.cn)	《中国律师》杂志
 *	[中国法学会](https://www.chinalaw.org.cn/)：
-	《[民主与法制](http://e.mzyfz.com/paper/index_2331.html)时报》📰 [官网](http://www.mzyfz.com)
+	[民主与法制时报](http://e.mzyfz.com/paper/index_2331.html)📰 [官网](http://www.mzyfz.com)
 	/ [法学创新网](http://www.fxcxw.org.cn)
-*	中华全国律师协会：[中国律师网](https://www.acla.org.cn)
-	《中国律师》杂志
 *	中国社会科学院/[法学研究所](http://www.cass.cn/zuzhijigou/)
 	--中国法学网/[学术刊物](http://iolaw.cssn.cn)
-*	🀄️[《中国纪检监察报》](https://jjjcb.ccdi.gov.cn/epaper/)📰 [官网](https://www.ccdi.gov.cn)
+*	🀄️[中国纪检监察报](https://jjjcb.ccdi.gov.cn/epaper/)📰 [CCDI官网](https://www.ccdi.gov.cn)
+	/《[中国纪检监察杂志](http://zgjjjc.ccdi.gov.cn/)》
 
 <h3>📑 地方法治报 29-1家（数字为刊号）：</h3>
 
