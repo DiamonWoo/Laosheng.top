@@ -1,4 +1,4 @@
-大萌望海楼 🗼 <sub>法海泛舟</sub>
+大萌望海楼 🗼 <sub>法之海</sub>
 =================
 大萌	2019-2026
 <base target="_blank">
@@ -36,14 +36,14 @@
 
 ### 中央法治云媒体 ☀️
 
-*	🀄️ 总台[央视‘法治’相关栏目](https://tv.cctv.com/lm/index.shtml?#datapd=&datafl=法治&dataszm=)：今日说法、小区大事、律师来了、庭审现场……
+*	🀄️ 总台[央视‘法治’相关栏目](https://tv.cctv.com/lm/index.shtml?#datapd=&datafl=法治&dataszm=)：今日说法、法律讲堂、小区大事……
 	[CCTV-12直播](https://tv.cctv.com/live/cctv12)📺 社会与法频道
 *	🀄️ [法治日报](http://epaper.legaldaily.com.cn/fzrb/content/PaperIndex.htm) 📰⠀ [法治网](http://www.legaldaily.com.cn)	/《[法治周末](http://www.legalweekly.cn/)》
 	，[政法委](http://www.chinaPeace.gov.cn "中国长安网")机关报，国务院/[司法部](https://www.moj.gov.cn)主管
 *	🀄️ [中国纪检监察报](https://jjjcb.ccdi.gov.cn/epaper/) 📰⠀ CCDI[官网](https://www.ccdi.gov.cn)
 	/《[中国纪检监察杂志](http://zgjjjc.ccdi.gov.cn/)》
 
-　　*更多法治云媒体请见：[法海求索](fahai)。*
+　　*更多法治云媒体请见：[法海求索](fahai)，更多【[云媒体](../fly/dir)】*
 
 
 中国法律体系概览 ♎
@@ -57,12 +57,7 @@
 
 　　另外大萌还观察到，在生产技术要求的《国家标准》中，有**强制性标准**的存在。2017年的《标准化法》确定了国标(GB)的法律效力，目前强制性国标超两千项。　　[大萌望海楼](https://Laosheng.top/falv)首先将对重点法律制作《大萌法律读本》，可供下载到本地学习或在线浏览；然后对约三百部法律进行归类、并附加全文网址，制作一份《中国法律简目》。
 
-* 学习参考网站
-	- 中国人大网 　 	[如何建设权威有效的国家法律法规数据库](http://www.npc.gov.cn/npc/c30834/201906/3104caba7bc9498da69d6864b7e19132.shtml)
-	- 新华通讯社 　 	[新华网2020全国两会专题](http://www.xinhuanet.com/politics/2020lh )
-	- 吉林省法学会 　 	[我国现行法律目录](http://www.jlfxhw.com/flml/index.jhtml )
-
-*各省市的 人大/政府/公检法网站请见[法门集](./fazhi)页面*
+　　*各省市的 人大/政府/公检法网站请见[法门集](./fazhi)页面*
 
 ### 依法治国时间表 🔔
 
@@ -81,21 +76,27 @@
 -	[市场经济必然是法治经济](http://zjrb.zjol.com.cn/html/2006-05/12/content_95276.htm "时任省委书记习近平发文")——哲欣(习近平)，2006年5月12日《浙江日报》头版“之江新语”专栏。
 
 
-专题导游
+参考网站
 --------
+
+-	中国人大网：	[如何建设权威有效的国家法律法规数据库](http://www.npc.gov.cn/npc/c30834/201906/3104caba7bc9498da69d6864b7e19132.shtml)
+-	新华通讯社：	[新华网2020全国两会专题](http://www.xinhuanet.com/politics/2020lh )
+-	吉林省法学会：	现行法律目录[2025年6月名称版](http://www.jlfxhw.com/flml/index.jhtml )、[源流版](http://www.jlfxhw.com/flml/2482.jhtml)
+
+### 专题导游
 
 +	“法律面前人人平等”这句话有法律依据吗？
 +	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}（待更新，有2023修正案）
 *	知识产权的相关法律和有关部门
 
-<h3>延伸阅读</h3>
+### 延伸阅读
 
 　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
 
 *	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
 *	《<del>[中国法律快查手册](https://lawrefbook.github.io/)</del>》　[RanKKI@github](https://github.com/RanKKI/LawRefBook) 维护中？
 
-<h3>快问快答 💬</h3>
+### 快问快答 💬
 
 * 问：普通人要学多少法律知识？  
   答：认识法律体系，通读核心法律，掌握检索途径。  ~~了解现有法治环境，做出合理预期。~~
@@ -119,7 +120,7 @@
 	老生常谈© 2019~2026	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.2.4	202602
+	大萌望海楼 v3.2.4	202603
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
