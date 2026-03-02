@@ -259,7 +259,9 @@
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
 *	[TC](https://www.ghisler.com/)，Total Commander双栏[文件管理器](https://xbeta.info/tc/)，提供免费[安卓版本](https://www.ghisler.ch/board/viewforum.php?f=22)
 
-*	[雷锋网](https://www.leiphone.com/)Ai，#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
+*	<a href='https://sspai.com' title='高效工作，品质生活'>少数派</a>、
+	[雷锋网](https://www.leiphone.com/)Ai，
+*	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
 *	[ipip](https://www.ipip.net/ip.html)；	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国；
@@ -418,7 +420,7 @@
 	老生常谈© 2019-2026 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202602
+	提名网站与落榜记	　202603
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
