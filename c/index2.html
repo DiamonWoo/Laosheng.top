@@ -97,9 +97,9 @@
 <input type='Radio' name='sou' value='6'>
 	<a href='https://www.qiuwenbaike.cn/' title='中方立场的维基百科202206分支'>求闻</a>百科
 <input type='Radio' name='sou' value='7'>
-	俄<a href='https://Yandex.com' title='俄罗斯搜索，新时代全面战略协作伙伴'>Yandex</a>
+	俄 <a href='https://Yandex.com' title='俄罗斯搜索，新时代全面战略协作伙伴'>Yandex</a>
 <input type='Radio' name='sou' value='8'>
-	<a title='搜索词作为网址打开，wx内转发时能有标题。'>Wx网址</a>	<!-- href=''  -->
+	<a title='新华社的中国搜索，只搜索法定媒体内容' href='https://www.chinaso.com/'>新闻搜</a>	<!-- href=''  -->
 </small>
 <!--  disabled='disabled' -->
 <br>
@@ -280,14 +280,14 @@
 
 <h2>3 影视搜<a title='更多的影视资源' href='./timing#3'>新知</a> 🎬</h2><!-- 影视节目单 -->
 　<input type='Radio' name='sou' value='9'> <!-- title='单选一个视频网站，点击按钮开搜' -->
-	<a href='https://tv.cctv.com/live/' title='CCTV网直播'>CCTV</a>央视
+	<a href='https://tv.cctv.com/live/' title='CCTV网直播'>CCTV</a><small>央视</small>
 <input type='Radio' name='sou' value='10'>
-	<a href='https://www.1905.com/cctv6/live/' title='CCTV-6直播'>1905</a><small>电影网
-	<a href='https://vip.1905.com/list/' title='1905电影库，💲部分免费'>片库</a></small>
+	<a href='https://www.1905.com/cctv6/live/' title='CCTV-6直播'>1905</a><small>
+	电影<a href='https://vip.1905.com/list/' title='1905电影库，💲部分免费'>网</a></small>
 <input type='Radio' name='sou' value='11'>
 	<a href='https://movie.douban.com/' title='豆瓣影视剧' rel='noreferrer'>豆瓣</a><small>影评%</small>
 <input type='Radio' name='sou' value='12'>
-	<small><a href='https://www.theMovieDB.org/' title='TMDB 影视数据库'>TMDB</a></small>
+	<small>美</small> <a href='https://imdb.com' title='美国的互联网电影资料库，搜中文片名要用拼音'>IMDb</a>
 <br>
 <input type='Radio' name='sou' value='13'>
 	<a href='https://search.bilibili.com/' title='B站弹幕视频搜索'>Bili站</a>
@@ -300,20 +300,20 @@
  <input type='Radio' name='sou' value='16'><small>
 	优酷<a href='https://list.youku.com/category/show/' title='电视剧片库'>追剧</a>
 <input type='Radio' name='sou' value='17'>
-	<a href='https://tv.sohu.com/drama/us/' title='国内第一家引进美国连续剧版权'>搜狐美剧</a></small>
+	<a title='搜索词作为网址打开，wx内转发时能有标题。'>Wx网址</a></small>
 	<!-- $<a href='http://top.le.com/' title='乐视排行榜'>Le乐视</a> -->
 <br>　<small>
 	<a href='https://www.acfun.cn/search' title='ACFun弹幕视频网 搜索'>A站</a>
 ⠀	<a href='https://www.kuaishou.com/brilliant' title='手机短视频热榜'>快手</a>
 ⠀	d<a href='https://www.douyin.com/channel/300203' title='抖音知识频道'>抖音</a>
 	#<a href='https://www.tiktok.com/explore' title='抖音海外版'>TikTok</a>
-　	<a title='美团猫眼票房'>猫眼票房</a>
-　🎞	<a title='🎞️老生常谈电影节' href='../fly/dianying.html'>电影节</a>　
+　	<a href='https://tv.sohu.com/drama/us/' title='国内第一家引进美国连续剧版权'>搜狐美剧</a>
+　💐	<a title='🎞️每个月都有的电影节，百花奖历年获奖名单' href='../fly/dianying.html'>电影节</a>　
 <button type='submit' name='s2' title='前面输入的关键词，在视频站中再搜一下' onclick='souyixia();' 
 	 style='background-color: rgb(165,206,252) ' ;><b>再</b> 搜一下
 </button>
 <br>
-<a href='https://imdb.com' title='互联网电影资料库'>IMDb</a>
+<a href='https://www.theMovieDB.org/' title='类似于IMDb的另一个影视数据库'>TMDB</a>
 　%<a href='https://www.rottentomatoes.com' title='烂番茄影评网，挑浏览器'>🍅</a>
 　💲<a href='https://hulu.com/' title='美国收费影视直播站，Disney+NBC投资'>Hulu</a>
 　%<a href='https://hboasia.com/HBO/zh-cn' title='HBO电视网亚洲站，美国时代华纳旗下'>HBO</a>
@@ -725,20 +725,21 @@ d☁️ 手机上需模拟桌面模式
 	if (go[6].checked)	window.open('https://www.qiuwenbaike.cn/index.php?search=' + wen);
 //	if (go[6].checked)	window.open('https://www.zhihu.com/search?type=content&q=' + wen); 对访客显示空白
 	if (go[7].checked)	window.open('https://yandex.com/search/?text=' + wen);	//俄
-	if (go[8].checked)	{if (!wen.startsWith('http')) wen='http://'+wen; 
-					window.open(wen);} //原网址
+	if (go[8].checked)	window.open('https://www.chinaso.com/newssearch/all/allResults?q=' + wen);
 	// 9 空缺行吗？不行。
 	if (go[9].checked)	window.open('https://search.cctv.com/search.php?qtext=' + wen);
 	if (go[10].checked)	window.open('https://vip.1905.com/Search?q=' + wen);
 	if (go[11].checked)	window.open('https://www.douban.com/search?cat=1002&q=' + wen,'noreferrer=yes');
 			//	window.open('https://cn.bing.com/search?q=豆瓣 ' + wen ,'noreferrer=yes');
-	if (go[12].checked)	window.open('https://www.themoviedb.org/search?query=' + wen);
+	if (go[12].checked)	window.open('https://www.imdb.com/find/?ref_=hm_nv_srb_sm&q=' + wen);
 				//	window.open('https://open.163.com/newview/search/' + wen);
 	if (go[13].checked)	window.open('https://search.bilibili.com/all?keyword=' + wen);
 	if (go[14].checked)	window.open('https://so.iqiyi.com/so/q_' + wen);
 	if (go[15].checked)	window.open('https://v.qq.com/x/search/?q=' + wen);
 	if (go[16].checked)	window.open('https://so.youku.com/search_video/q_' + wen);
-	if (go[17].checked)	window.open('https://so.tv.sohu.com/mts?box=1&wd=' + wen);
+	if (go[17].checked)	{if (!wen.startsWith('http')) wen='http://'+wen; 
+					window.open(wen);} //原网址
+
 	//window.open('http://so.le.com/s?wd=' + wen);
 	//window.open('https://www.douyin.com/search/' + wen);
 	//window.open('https://www.acfun.cn/search?keyword=' + wen);
@@ -749,7 +750,6 @@ d☁️ 手机上需模拟桌面模式
 	//window.open('https://search.naver.com/search.naver?query=' + wen); //韩
 //	if (go[7].checked)	window.open('https://www.nona.de/?q=' + wen);		//德
 //	if (go[8].checked)	window.open('https://www.qwant.com/?q=' + wen).focus();	//法
-
     }
 </script>
 <pre>老生常谈© 2019-2026	Copyright by 大萌
