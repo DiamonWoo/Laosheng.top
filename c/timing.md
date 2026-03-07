@@ -104,6 +104,7 @@
 *	i<a href="https://www.ixigua.com/" title="抖音旗下免费视频网">西瓜</a>
 *	<a href="http://www.mtime.com" title="MTime">时光</a>影评$
 <!-- http://film.mtime.com/search/movies/movies?suggestType=0&q=" + wen -->
+*	<a title='美团猫眼票房'>猫眼票房</a>
 *	湖南卫视 <a href="https://www.mgtv.com/tv/" title="电视剧和电影">芒果TV</a>
 *	⠀中国经济<a title='CCTV-2精品栏目' href='https://tv.cctv.com/lm/zgjjdjt/videoset/'>大讲堂</a>
 *	《<a title='每周六晚播出，中国青年心中的榜样' href='https://tv.cctv.com/lm/kjl/#&Type=0'>开讲了</a>》
