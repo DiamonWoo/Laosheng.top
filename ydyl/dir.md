@@ -87,11 +87,12 @@
 外交热点 Diplomatic hotspot
 --------
 
-### 2026 伊以战争 🇮🇷
+### 2026伊以战争 🇮🇷 🚀
 
 * 🇮🇷 伊朗：国家广电（IRIB.ir）
+	国际频道 [Press TV](https://www.PressTV.ir/Live)直播🍴、
 	国际部新媒体 [今日帕尔斯](https://parstoday.ir/zh "20多种语言有中文")📍、
-	阿拉姆新闻网 [视频直播](https://www.alalam.ir/live)；  
+	阿拉姆新闻网 [直播](https://www.alalam.ir/live)；  
 国家通讯社（IRNA.ir）[youtue账号](https://www.youtube.com/channel/UCuvkxHgz58YMq5rM7_BgOCA)被美国终止。
 	[IranPress](https://iranPress.com)的[X账号](https://x.com/ArabicIranPress)被美国冻结。
 	伊朗[努尔新闻网](https://NourNews.ir/Zh/)📍 zh。
