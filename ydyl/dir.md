@@ -9,13 +9,12 @@
 
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵 the Belt and Road = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road。
 
-+	./dir　　　　本目录页。 	./[dir2](dir2)　工具页，在线翻译和地图网站
++	./dir　　　本目录页。　　./[dir2](dir2)　工具页，在线翻译和地图网站
 +	./united　🌐 [**国际组织四大类**](united.html)，世界语言前十位：ISO、奥委会、教科文、世卫WHO、上合组织……（推荐）
 +	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （配地图）
 +	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（学习中）
 
 +	./index　🌞 [**一带一路云媒体**](index.html)　世界各国免费收看的报纸/电视/通讯社；收录习主席发表署名文章的海外报纸56家。（默认页）
-	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
 +	./road/　丝绸之路[陆海空](road){:target="_top"}，跨国交通网址收集中… CarCarCar　新能源中国车（规划中）
@@ -52,11 +51,13 @@
 	国际频道 [Press TV](https://www.PressTV.ir/Live)直播🍴（.com域名被美国司法部没收）、
 	国际部 [今日帕尔斯](https://parstoday.ir/zh "20多种语言有中文")📍、
 	阿拉姆新闻网 [直播](https://www.alalam.ir/live)；  
-国家通讯社（IRNA.ir）[youtue账号](https://www.youtube.com/channel/UCuvkxHgz58YMq5rM7_BgOCA)被美国终止。
+伊朗国家通讯社（IRNA.ir）[youtue账号](https://www.youtube.com/channel/UCuvkxHgz58YMq5rM7_BgOCA)被美国终止。
 	[IranPress](https://iranPress.com)的[X账号](https://x.com/ArabicIranPress)被美国冻结。
-	伊朗[努尔新闻网](https://NourNews.ir/Zh/)📍 zh。
-<!-- [国家通讯社](https://zh.irna.ir/)📍 zh -->
-* 
+	伊朗[努尔新闻网](https://NourNews.ir/Zh/)📍 zh。<!-- [国家通讯社](https://zh.irna.ir/)📍 zh -->  
+伊朗驻华大使馆[微博](https://weibo.com/u/2312751365)
+
+* 🇺🇸 美国驻华大使馆[微博](https://weibo.com/u/1743951792)、
+	美国有线电视新闻网：[CNN](https://edition.cnn.com/)
 
 ### “巴以冲突”各方媒体 💥 CeaseFire !
 
@@ -74,7 +75,7 @@
 	伊斯兰合作[通讯社联盟](https://una-oic.org/zh-CN/News/palestinian/)巴勒斯坦专题📍 zh，
 	更多外媒请见：一带一路云媒体。
 
-<h3 id="news2">2024美国总统大选实时计票地图</h3>
+### 2024美国总统大选实时计票地图
 
 　　[凤凰新闻](https://ishare.ifeng.com/loc/usavote2024?)手机版、
 	<small>美国[有线电视新闻网CNN](https://edition.cnn.com)</small> /[专题页](https://edition.cnn.com/election/2024/results/president?)、
@@ -84,7 +85,7 @@
 　　<small>选举日11月5日起，几大美国新闻网站均在首页刊出实时计票地图，但详情页面在国内访问缓慢，疑似负载过重或主动拒绝国外访问
 。</small>
 
-<h3>2022卡塔尔世界杯 🇶🇦⚽</h3>
+### 2022卡塔尔世界杯 🇶🇦⚽
 
 *	上抖音看世界杯： ~~[douyin.com/fifaworldcup](https://www.douyin.com/fifaworldcup "已结束")~~，浏览器直接观看，手机浏览器请模拟桌面模式。  
 	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
@@ -106,6 +107,8 @@
 <h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
 
 　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#fanyi)
+
+　　想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 
 <h3 id="ditu">一带一路地图网站 🗺</h3>
 
@@ -137,6 +140,17 @@
 	[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
 	[湖南](http://ydyl.hunan.gov.cn)
 
+### 国别计数 Country Count
+
+*	中方对外单向免签国迅速增加，本页正在收录……
+*	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
+*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
+*	加入一带一路国家数为：152个。近期签署合作文件的国家有：2023年11月(中东)约旦、7月(高加索)格鲁吉亚……
+*	与中国建交国家数为：183个。近期建交/复交国家有：2024年1月(太平洋岛国)瑙鲁、2023年3月(中美洲)洪都拉斯……
+*	2023-10-18	第三届[“一带一路”国际合作高峰论坛](http://www.beltandroadforum.org)开幕，联合国和150多个国家的贵宾到京。
+*	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
+*	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
+
 
 <h3 id="iso">种子数据 🔠：ISO国别码</h3>
 
@@ -156,16 +170,6 @@
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
-### 国别计数 Country Count
-
-*	中方对外单向免签国迅速增加，本页正在收录……
-*	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
-*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
-*	加入一带一路国家数为：152个。近期签署合作文件的国家有：2023年11月(中东)约旦、7月(高加索)格鲁吉亚……
-*	与中国建交国家数为：183个。近期建交/复交国家有：2024年1月(太平洋岛国)瑙鲁、2023年3月(中美洲)洪都拉斯……
-*	2023-10-18	第三届[“一带一路”国际合作高峰论坛](http://www.beltandroadforum.org)开幕，联合国和150多个国家的贵宾到京。
-*	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
-*	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
 
 <h3 id="yan">延伸阅读</h3>
 
