@@ -9,7 +9,7 @@
 
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵 the Belt and Road = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road。
 
-+	./dir　　　　本目录页
++	./dir　　　　本目录页。 	./[dir2](dir2)　工具页，在线翻译和地图网站
 +	./united　🌐 [**国际组织四大类**](united.html)，世界语言前十位：ISO、奥委会、教科文、世卫WHO、上合组织……（推荐）
 +	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （配地图）
 +	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（学习中）
@@ -18,11 +18,10 @@
 	+ 想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 	+ ⭕ ‘[人类命运共同体](union_of_human_fate){:target="_top"}’有更简洁的翻译吗？
 
-+	./road/　丝绸之路[海陆空](road){:target="_top"}，跨国交通网址收集（准备中）
++	./road/　丝绸之路[陆海空](road){:target="_top"}，跨国交通网址收集中… CarCarCar　新能源中国车（规划中）
 	+ [Ship](road/ship){:target="_top"} 海上丝绸之路、Land 现代丝绸之路、Air 空中丝绸之路
 
 +	./www.edu/　[世界大学名录](www.edu){:target="_top"}，中国承认学历的各国大学（收录中）
-	+ 英澳新加4国、欧洲34国、前苏联15国、朝韩日3国、亚洲33国、美洲20国和非洲33国。
 	+ ./[usa.edu](edu/usa.edu){:target="_top"}　美国大学半边天，大约1500所。 *中国大学收录在 【[服务](../fuwu/)】系列。*
 
 +	./USA/　美国概况
@@ -41,11 +40,7 @@
 全球治理倡议
 </b></p>
 
-<h3 id="mulu">简目 <sup>Dir</sup></h3>
-
-　[外交热点](#3){:target="_top"} / 有关部门 / 国别计数 / [ISO码](#iso){:target="_top"}
-
-<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+**简目**：　外交热点 / [有关部门](#3){:target="_top"} / 国别计数 / [ISO码](#iso){:target="_top"}
 
 
 外交热点 Diplomatic hotspot
@@ -95,7 +90,7 @@
 	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
 	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
 
-<div id="4" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 一带一路工具网站 Web Help B&R
@@ -115,6 +110,8 @@
 <h3 id="ditu">一带一路地图网站 🗺</h3>
 
 　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#ditu)
+
+<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
 一带一路有关部门 B&R Web from China
