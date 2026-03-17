@@ -7,27 +7,29 @@
 
 		 语言是天然的国境线 —— 佚名
 
-**/ydyl/**dir2	　这里是民间网站‘老生常谈’的【一带一路】工具网页，收录在线地图和翻译网站，帮大家找到全世界。
+**/ydyl/**dir2	　这里是民间网站‘老生常谈’的【一带一路】工具网页，收录[翻译网站](#fanyi){:target="_top"}和[在线地图](#ditu){:target="_top"}，帮大家找到全世界。
 
 <div align="right">
 	⏩ 老生常谈
-/	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>工具站
+/	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>
+/	工具站
 </div>
 
-<h3 id="mulu">简目</h3>
+### B&R常用词汇：
 
-　工具网站：[翻译](#fanyi){:target="_top"} / [地图](#ditu){:target="_top"}
-
-
-常用词汇：  
 　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
 　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
 　　ASR = Air Silk Road = 空中丝绸之路  
 　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
 　　电视直播：Live TV　/　数字报：E-Paper …
 
+　　想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
 
-<h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
+<div id="fanyi" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+
+
+YDYL民间翻译网站 🎧
+----------------
 
 * 国际站点：
 　谷歌翻译#<a title="Google翻译全球站，202208关闭中国站" href="https://translate.google.com">.com</a>、
@@ -56,7 +58,7 @@
 　　文学网<a href="https://cd.hwxnet.com" title="">汉语词典</a>……
 　标记百分号% 指网站有一些兼容性问题，这个情况是会变化的。比如，‘有道翻译’曾经不支持古典火狐浏览器，现在已经能够正常使用；而‘爱词霸’则相反，降低了兼容性。
 
-<h4>能翻译网页的浏览器</h4>
+<h3>能翻译网页的浏览器</h3>
 
 　　【网页翻译】是指一种浏览器‘内核级’功能，把网页显示的原始文字替换成机器翻译后的文字。这就像是一瞬间把网页变成了另一个语言的版本，能极大地加快浏览陌生语言网页的速度。
 
@@ -67,10 +69,10 @@
 * 腾讯 QQ浏览器	曾经只能翻译三种语言：英、日、韩；语种应在增加（微信内置浏览器类似）。
 
 
-<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="ditu" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
-
-<h3 id="ditu">一带一路地图网站 🗺</h3>
+一带一路地图网站 🗺
+----------------
 
 * 国内站点：　<sup>自然资源部</sup>
 	<a title="国家地理信息公共服务平台" href="https://map.tianditu.gov.cn/">天地图</a>
