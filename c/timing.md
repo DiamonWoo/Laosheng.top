@@ -194,7 +194,7 @@
 网络书店：
 
 *	当当书店 	<http://book.dangdang.com> 曾经第一的网上书店，<del>至今不提供</del>2023年才默认安全连接。
-*	京东书店 	<https://book.jd.com> 　	蔚蓝书店 	<https://www.wl.cn> 
+*	京东书店 	<https://book.jd.com> 　	蔚蓝书店 	<https://www.welan.com> 
 *	亚马逊书店	2019年下半年停止国内实体书销售
 *	中国图书网	<http://www.bookschina.com>  2折买尾货　	北京北新网 　	浙江博库 　	
 *	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
