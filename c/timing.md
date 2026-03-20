@@ -188,12 +188,10 @@
 <div id="7" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
-7、科研学习
+7、科研学习，网上书店
 ------------
 
 　　中宣部信息中心：[国家出版发行信息](https://book.cppinfo.cn)公共服务平台，正规出版书籍的书目和摘要
-
-网络书店：
 
 *	当当网图书	[dangdang](https://book.dangdang.com) 曾经第一的网上书店，2023年才默认安全连接。
 *	中图网	[booksChina](https://www.booksChina.com/)
@@ -201,12 +199,12 @@
 *	博库网	[BookUU](https://www.bookuu.com/)浙江
 　	蔚蓝书店	[WeLan](https://www.weLan.com)
 *	京东书店 	[JD](https://book.jd.com)
-　	亚马逊书店	2019年下半年停止国内实体书销售
+　	亚马逊书店	[Amazon](https://www.amazon.com/?language=zh_CN) 2019年秋停止大陆实体书销售
 
-　　<a title='2018年起施行，文化旅游部刊登' href='https://www.mct.gov.cn/whzx/bnsj/ggwhs/201801/t20180131_831090.htm' >公共图书馆法</a>
-　	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
-　	<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
-	读书网	[DuShu](https://www.dushu.com)
+　　	中国[十大图书馆](https://baike.sogou.com/v143179817.htm) 搜狗百科提供
+　<a title='2018年起施行，文化旅游部刊登' href='https://www.mct.gov.cn/whzx/bnsj/ggwhs/201801/t20180131_831090.htm' >公共图书馆法</a>
+　	豆瓣读书	[Douban](https://book.douban.com "悠久的书评社区")
+　	读书网	[DuShu](https://www.dushu.com)
 
 *	美国<a href='https://loc.gov/about' title='全球最大馆藏三千万册'>国会图书馆</a>
 　	<a href='https://www.gutenberg.org/browse/languages/zh' title='提供版权过期书籍的电子版，亦作古腾堡'>古登堡</a>公有领域书籍的电子版
@@ -219,9 +217,9 @@
 	[汉语国学](https://www.hanyuguoxue.com) 查字词、查成语（广东）
 　	可可诗词 	<https://www.kekeshici.com>
 
-　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
-　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>、
-　　笨笨地写日记☆ 
+　	%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录
+　	github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>、
+　	笨笨地写日记☆
 
 <div id="8" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
