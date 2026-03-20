@@ -191,29 +191,33 @@
 7、科研学习
 ------------
 
+　　中宣部信息中心：[国家出版发行信息](https://book.cppinfo.cn)公共服务平台，正规出版书籍的书目和摘要
+
 网络书店：
 
-*	当当书店 	<http://book.dangdang.com> 曾经第一的网上书店，<del>至今不提供</del>2023年才默认安全连接。
-*	京东书店 	<https://book.jd.com> 　	蔚蓝书店 <https://www.welan.com> 
-*	亚马逊书店	2019年下半年停止国内实体书销售 　	中图网 <https://www.bookschina.com/>
-*	中图网 <http://www.bookschina.com> 2折买尾货　	北京北新网 　	浙江博库 <https://www.bookuu.com>
-*	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
+*	当当网图书	[dangdang](https://book.dangdang.com) 曾经第一的网上书店，2023年才默认安全连接。
+*	中图网	[booksChina](https://www.booksChina.com/)
+　	新华书店	[XHSD](https://www.xhsd.com/)
+*	博库网	[BookUU](https://www.bookuu.com/)浙江
+　	蔚蓝书店	[WeLan](https://www.weLan.com)
+*	京东书店 	[JD](https://book.jd.com)
+　	亚马逊书店	2019年下半年停止国内实体书销售
 
-　　<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
-　<a title='2018年起施行，文化旅游部刊登' href='https://www.mct.gov.cn/whzx/bnsj/ggwhs/201801/t20180131_831090.htm' >公共图书馆法</a>
-　<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
-　	<a title='北京故宫博物院' href='https://www.dpm.org.cn/'>故宫</a>
+　　<a title='2018年起施行，文化旅游部刊登' href='https://www.mct.gov.cn/whzx/bnsj/ggwhs/201801/t20180131_831090.htm' >公共图书馆法</a>
+　	中国十大图书馆	https://baike.sogou.com/v143179817.htm 搜狗百科提供
+　	<a href="https://book.douban.com/" title="悠久的书评社区">豆瓣读书</a>
+	读书网	[DuShu](https://www.dushu.com)
 
 *	美国<a href='https://loc.gov/about' title='全球最大馆藏三千万册'>国会图书馆</a>
-*	<a href='https://www.gutenberg.org/browse/languages/zh' title='提供版权过期书籍的电子版，亦作古腾堡'>古登堡</a>公有领域书籍的电子版
+　	<a href='https://www.gutenberg.org/browse/languages/zh' title='提供版权过期书籍的电子版，亦作古腾堡'>古登堡</a>公有领域书籍的电子版
 *	维基学院 <https://zh.wikiversity.org>	维基百科提供的原创性内容平台
 *	[维普期刊](https://qikan.cqvip.com/Qikan/Journal/JournalGuid?)各国[开放获取](https://qikan.cqvip.com/Qikan/Journal/OaIndex?)
-*	CNKI知网[外文总库](https://scholar.cnki.net/)全球学术搜索
+　	CNKI知网[外文总库](https://scholar.cnki.net/)全球学术搜索
 *	<a title="诗文名句朗诵与赏析" href="https://www.GuShiWen.org">古诗文</a> 广告增多且强推App、
 	%<a href="https://www.zdic.net/" title="查字词，查古文，近期广告增加">汉典</a> 202408因手机广告下榜
-*	可可诗词 	<https://www.kekeshici.com>
 *	<a title="中华古诗词，广东搜韵网" href="https://sou-yun.cn/">搜韵</a>、
 	[汉语国学](https://www.hanyuguoxue.com) 查字词、查成语（广东）
+　	可可诗词 	<https://www.kekeshici.com>
 
 　%<a href="https://www.icve.com.cn" title="高教出版社-职业教育数字化学习中心">智慧职教</a>，2023要求登录  
 　github<a href="https://github.com/lib-pku/libpku" title="北大学子分享，感谢贵校">北大课程</a>、
@@ -262,6 +266,7 @@
 
 *	<a href='https://sspai.com' title='高效工作，品质生活'>少数派</a>、
 	[雷锋网](https://www.leiphone.com/)Ai，
+　	<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
 *	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
 *	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
@@ -303,6 +308,11 @@
 
 落榜记
 ======
+
+2026/3/21	#第七段
+
+*	发现网上书店 北新网 已经消失。
+
 
 2025/5/11	#第九段  
 *	境外[看ip](https://WhatisMyipAddress.com)的某站因名字太长且要验证人机下榜。
@@ -417,13 +427,14 @@
 *	西祠胡同 手机端网页强制下载apk（疑似秘制浏览器），去除链接 xici.net。（后删除）
 
 
-
+```
 	老生常谈© 2019-2026 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记	　202603
+	提名网站与落榜记　v3.0.5	202603
+```
 
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top
-🌍🌏🌎
+[]()
