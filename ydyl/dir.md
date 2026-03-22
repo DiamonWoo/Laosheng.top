@@ -34,12 +34,12 @@
 /	<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>民间站
 </div>
 
-<p align="center"><b>
+<p id='0' align="center"><b>
 全球发展倡议、全球安全倡议、全球文明倡议<br>
 全球治理倡议
 </b></p>
 
-**简目**：　外交热点 / [有关部门](#3){:target="_top"} / 国别计数 / [ISO码](#iso){:target="_top"}
+　　简目：外交热点 / [有关部门](#2){:target="_top"}/<sub>国别计数</sub> / [ISO码](#3){:target="_top"}/<sub>工具网站</sub>
 
 
 外交热点 Diplomatic hotspot
@@ -55,7 +55,6 @@
 	[IranPress](https://iranPress.com)的[X账号](https://x.com/ArabicIranPress)被美国冻结。
 	伊朗[努尔新闻网](https://NourNews.ir/Zh/)📍 zh。<!-- [国家通讯社](https://zh.irna.ir/)📍 zh -->  
 伊朗驻华大使馆[微博](https://weibo.com/u/2312751365)
-
 * 🇺🇸 美国驻华大使馆[微博](https://weibo.com/u/1743951792)、
 	美国有线电视新闻网：[CNN](https://edition.cnn.com/)
 
@@ -91,30 +90,7 @@
 	此外提供赛事转播权的渠道还有：[CCTV-1](https://worldcup.cctv.com/2022/schedule/)，有线电视的CCTV-5、CCTV-16，手机客户端‘央视频’。  
 	本届世界杯32支参赛球队中，有一支不属于主权国家：[威尔士队](https://worldcup.cctv.com/2022/team/44907/)，旗帜是绿色地面上一条红色飞龙，已止步16强。其属于英国的威尔士公国（另外一支英国球队是英格兰），ISO没有为其分配代码。
 
-<div id="2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
-
-
-一带一路工具网站 Web Help B&R
------------------------------
-
-常用词汇：  
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　ASR = Air Silk Road = 空中丝绸之路  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
-　　电视直播：Live TV　/　数字报：E-Paper …
-
-<h3 id="fanyi">YDYL民间翻译网站 🎧</h3>
-
-　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#fanyi)
-
-　　想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
-
-<h3 id="ditu">一带一路地图网站 🗺</h3>
-
-　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#ditu)
-
-<div id="3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
+<div id="2" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
 
 一带一路有关部门 B&R Web from China
@@ -151,8 +127,11 @@
 *	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
 *	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
 
+<div id="3" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
-<h3 id="iso">种子数据 🔠：ISO国别码</h3>
+
+种子数据 🔠：ISO国别码
+-----------
 
 　　ISO的国别代码是本站【一带一路】系列的种子数据，简介如下。
 
@@ -171,7 +150,27 @@
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
 
-<h3 id="yan">延伸阅读</h3>
+### 一带一路工具网站 Web Help B&R
+
+常用词汇：  
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　ASR = Air Silk Road = 空中丝绸之路  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+　　电视直播：Live TV　/　数字报：E-Paper …
+
+<h4 id="fanyi">YDYL民间翻译网站 🎧</h4>
+
+　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#fanyi)
+
+　　想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
+
+<h4 id="ditu">一带一路地图网站 🗺</h4>
+
+　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#ditu)
+
+
+<h3 id="4">延伸阅读</h3>
 
 *	[国别知识测验](https://www.britannica.com/quiz/the-country-quiz)，英文，由大英百科全书网站提供。
 *	共建“一带一路”十周年：央视大型纪录片《[通向繁荣之路](https://tv.cctv.com/2023/10/11/VIDABA90n4Thf3toZtgIdOEX231011.shtml)》、新华社大型政论片《[大道无垠](http://www.news.cn/world/2023-10/17/c_1129920043.htm)》/[地址2](https://www.yidaiyilu.gov.cn/p/0PP33VVV.html)
