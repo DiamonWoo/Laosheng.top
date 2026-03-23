@@ -1,6 +1,6 @@
 地大物博看中国 🐉
 ==============
-大萌	© 202503-12
+大萌	© 202503-202603
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/fly/bowu" />
 
@@ -16,7 +16,6 @@
 ⏩老生常谈 / <a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>
 / 博物馆</div>
 
-
 <h3 id="1">最新开馆</h3>
 
 *	20250530，中国人民大学[家书博物馆](http://jiashu.ruc.edu.cn/)网站上线，2016年揭牌，暂未定级。
@@ -25,12 +24,14 @@
 *	20231227，[北京大运河博物馆](https://www.canalmuseum.org.cn/)向公众开放，为首博的东馆，位于北京市通州区。
 *	20230915，中国考古博物馆正式向公众开放，隶属[中国历史研究院](http://hrczh.cass.cn/zgkgbwg/)，位于北京市朝阳区，暂未定级。
 *	20220205，[中国工艺美术馆](https://www.gmfyg.org.cn)新馆落成，加挂“中国非物质文化遗产馆”馆名，文旅部直属，暂未定级。
+*	2020年3月，国家中医药管理局 主管[国家中医药博物馆](https://www.nmtcm.cn/)成立，未入文物局名录？
+	北京[事业发展基金会](https://www.nmtcmdf.cn)
 
 <h3 id="2">数据来源有关部门</h3>
 
 *	国务院 [文旅部](https://www.mct.gov.cn/) 代管/主管：
-	* 国家文物局：[公共信息服务](http://www.ncha.gov.cn/col/col2262/ '世遗、历史文化名城') / 全国[博物馆名录](http://www.ncha.gov.cn/col/col2267/ '2021年度')、[年度报告](http://nb.ncha.gov.cn/museum.html? '2023年度')信息，公布第1批、第2批国家一级博物馆名录。
-	* 中国博物馆协会：[定级评估](https://www.chinamuseum.org.cn/cma/newLists.html?id=19)，公布第3批、第4批、第5批国家一级博物馆名录
+	* 国家文物局：公布第1批、第2批国家一级博物馆名录。[公共信息服务](http://www.ncha.gov.cn/col/col2262/ '世遗、历史文化名城') / 全国[博物馆名录](http://www.ncha.gov.cn/col/col2267/ '2021年度')、全国[博物馆备案信息](http://nb.ncha.gov.cn/museum.html? '2023年度')年度报告
+	* 中国博物馆协会：公布第3批、第4批、第5批……国家一级博物馆名录，[定级评估工作](https://www.chinamuseum.org.cn/cma/newLists.html?id=19)
 *	国务院 [发改委](https://www.ndrc.gov.cn) / 文旅部 等14部委 
 	* 发改委：[发改社会〔2016〕2662号](https://www.ndrc.gov.cn/xxgk/zcfb/tz/201612/t20161230_962839.html)，关于印发全国红色旅游经典景区名录的通知
 	* 文旅部：[红色旅游经典景区](https://www.mct.gov.cn/tourism/#/list?drid=4)名录查询。
@@ -38,7 +39,6 @@
 *	国务院 (原)文化部（2018年后并入文旅部）
 	* 文艺发〔2011〕1号：关于公布[首批国家重点美术馆](https://zwgk.mct.gov.cn/zfxxgkml/wysy/202012/t20201205_916290.html)名单的通知
 	* 文艺函〔2015〕1037号：关于公布[第二次全国重点美术馆](https://zwgk.mct.gov.cn/zfxxgkml/wysy/202012/t20201206_917836.html)评估结果的通知
-
 
 <h3 id="mulu">本页目录</h3>
 [最新开馆](#1){:target="_top"}
@@ -833,14 +833,14 @@
 
 <div align="right"><a href="#" target="_top">.Top</a>↑</div>
 
-　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
+　　节约您的搜寻时间，老生常谈。 网页正在制作，欢迎<a href="https://laosheng.top/a/author">提出宝贵意见</a>，谢谢！🙇
 
 
 ```
-	老生常谈© 2019-2025 大萌  知识共享许可
+	老生常谈© 2019-2026 大萌  知识共享许可
 	CC BY-NC-ND 3.0 　可转载-非演绎-非营利
-	https://laosheng.top/fuwu/bowu
-	地大物博看中国 v0.4.8	202510
+	https://laosheng.top/fly/bowu
+	地大物博看中国 v0.5.0	202603
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
