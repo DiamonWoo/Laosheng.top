@@ -26,11 +26,11 @@
 
 *	国务院[民政部](https://www.mca.gov.cn)网站 MCA.gov.cn
 	* 政务服务 /查询服务 /全国[行政区划信息](http://xzqh.mca.gov.cn/map)查询平台
-	/[县级以上变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况(至2023年)
+	/[县级以上变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况（至2023年）
 	* 国家地名信息库 / [行政区划代码](https://dmfw.mca.gov.cn/XzqhVersionPublish.html)分省查询
-<!--	* 民政数据 /统计数据 /近年[行政区划代码](https://www.mca.gov.cn/n156/n2679/) 栏目已删除-->
-	* 民政数据 /[行政区划代码](https://www.mca.gov.cn/n156/n186/)至2023年，已停止更新
-*	国务院网站 /政府网站找错 /全国<del>[政府网站信息](https://zfwzxx.www.gov.cn/)数据库</del>
+	* 民政数据 /[行政区划代码](https://www.mca.gov.cn/n156/n186/)（至2023年，已停止更新）
+<!--	* 民政数据 /统计数据 /近年[行政区划代码](https://www.mca.gov.cn/n156/n2679/) 栏目已删除 -->
+*	国务院网站 /政府网站找错 /全国[政府网站信息](https://zfwzxx.www.gov.cn/)数据库（似关闭？）
 
 <h2 id='0'>35个省级单位索引</h2>
 
@@ -2585,6 +2585,7 @@
 500154 [开州区](http://www.cqkz.gov.cn )⠀
 500155 [梁平区](http://www.cqlp.gov.cn )⠀
 500156 [武隆区](http://www.cqwl.gov.cn )⠀
+500157 [两江新区](https://www.ljxq.gov.cn/) 2025年设立⠀
 
 500229 [城口县](http://www.cqck.gov.cn )⠀
 500230 [丰都县](http://www.cqfd.gov.cn )⠀
@@ -2598,7 +2599,6 @@
 500241 [秀山土家族苗族自治县](http://www.cqxs.gov.cn/xsxq_207/ )⠀
 500242 [酉阳土家族苗族自治县](http://www.youyang.gov.cn/zjyy/ '网站会吃掉www前缀')⠀
 500243 [彭水苗族土家族自治县](http://www.psx.gov.cn/zjps/ '旧域名ps.cq.gov.cn失效')⠀
-2025年设立：两江新区⠀500157
 
 <h3 id="51">51 <a href="https://www.sc.gov.cn/10462/c106773/zjsc.shtml" title="510000 ">四川省</a>　川/蜀<sub>　<a href="https://map.baidu.com/search/四川省/@?querytype=s&wd=四川地图">baidu地图搜索</a></sub></h3>
 
