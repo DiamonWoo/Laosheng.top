@@ -1,6 +1,6 @@
 中国千县地名网 📑
 ================
-大萌 © 2021-2025	<base target="_blank">
+大萌 © 2021-2026	<base target="_blank">
 
 		这是英雄的祖国 / 是我生长的地方 /在这片古老的土地上 / 到处都有青春的力量。——1956年电影《上甘岭》插曲《我的祖国》
 
@@ -16,20 +16,21 @@
 
 <h3>最近变更</h3>
 
-+	20251107，重庆市行政区划调整，两江新区升级为行政区，撤销江北区、渝北区。区划代码待公布。
++	20260326，新疆政府公布，设立岑岭县，由喀什地区管辖，人民政府驻新华镇。区划代码暂未公布。
++	20251107，重庆市行政区划调整，两江新区升级为行政区（区划代码后公布），撤销江北区、渝北区。
 +	20250425，民政部公布全国代码中包括：653228 和康县、653229 和安县。两县官网待公布。
 +	20241227，新疆政府公布，新设立 和康县、和安县，均隶属和田地区。
 +	20241110，民政部公布，三沙市西沙区、南沙区行政区划代码。本页已吸收。
 
 <h3>数据来源有关部门 🔢</h3>
 
-*	国务院网站 /政府网站找错 /全国[政府网站信息](https://zfwzxx.www.gov.cn/)数据库
 *	国务院[民政部](https://www.mca.gov.cn)网站 MCA.gov.cn
 	* 政务服务 /查询服务 /全国[行政区划信息](http://xzqh.mca.gov.cn/map)查询平台
-	/[县级以上变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况(2024年前)
-	* 民政数据 /统计数据 /近年[行政区划代码](https://www.mca.gov.cn/n156/n2679/)
-	* 民政数据(旧版) /[2024年以前](https://www.mca.gov.cn/n156/n186/)行政区划代码
-
+	/[县级以上变更](http://xzqh.mca.gov.cn/description?dcpid=1)情况(至2023年)
+	* 国家地名信息库 / [行政区划代码](https://dmfw.mca.gov.cn/XzqhVersionPublish.html)分省查询
+<!--	* 民政数据 /统计数据 /近年[行政区划代码](https://www.mca.gov.cn/n156/n2679/) 栏目已删除-->
+	* 民政数据 /[行政区划代码](https://www.mca.gov.cn/n156/n186/)至2023年，已停止更新
+*	国务院网站 /政府网站找错 /全国<del>[政府网站信息](https://zfwzxx.www.gov.cn/)数据库</del>
 
 <h2 id='0'>35个省级单位索引</h2>
 
@@ -2597,7 +2598,7 @@
 500241 [秀山土家族苗族自治县](http://www.cqxs.gov.cn/xsxq_207/ )⠀
 500242 [酉阳土家族苗族自治县](http://www.youyang.gov.cn/zjyy/ '网站会吃掉www前缀')⠀
 500243 [彭水苗族土家族自治县](http://www.psx.gov.cn/zjps/ '旧域名ps.cq.gov.cn失效')⠀
-2025年设立：两江新区⠀
+2025年设立：两江新区⠀500157
 
 <h3 id="51">51 <a href="https://www.sc.gov.cn/10462/c106773/zjsc.shtml" title="510000 ">四川省</a>　川/蜀<sub>　<a href="https://map.baidu.com/search/四川省/@?querytype=s&wd=四川地图">baidu地图搜索</a></sub></h3>
 
@@ -3676,12 +3677,12 @@
 <h3 id="71">71 <a title='710000 台湾省政府2018年被台当局实质废除'>台湾省</a>　台　00886　<sub><a href="https://map.baidu.com/search/台湾省/@?querytype=s&wd=台湾地图">baidu地图搜索</a>　d<a title="限桌面模式访问" href="https://map.tianditu.gov.cn/share/768973bc97e24765af47051b1058cdc4">天地图分享链</a></sub></h3>
 　　2016年后，中华人民共和国出版的地图开始按照台湾区划实况，对应中国大陆的行政级别，划分如下：  
 
-6个地级市（"直辖市"）：
+6个地级市（台当局称"直辖市"）：
 	#[台北市](https://www.gov.taipei/ '预设区划代码,待定')、
 	#[新北市](https://www.ntpc.gov.tw/)、
 	#[桃园市](https://www.tycg.gov.tw/)、
 	#[台中市](https://www.taichung.gov.tw)、
-	#[台南市](https://www.tainan.gov.tw/)、
+	[台南市](https://www.tainan.gov.tw/) @@、
 	#[高雄市](https://www.kcg.gov.tw/)
 
 14个县/县级省辖市：
@@ -3796,11 +3797,11 @@ LSIP收录进度
 
 　　节约您的搜寻时间，欢迎[提出宝贵意见](https://Laosheng.Top/a/author)，谢谢！🙇
 
-```a
-	老生常谈 © 2019-2025 大萌 知识共享 3.0
+```
+	老生常谈 © 2019-2026 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/qianxian
-	中国千县地名网	v0.7.8	202512
+	中国千县地名网	v0.7.9	202603
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -3811,4 +3812,3 @@ LSIP收录进度
 </script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top
-
