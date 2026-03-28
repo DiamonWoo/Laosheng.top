@@ -100,7 +100,6 @@
 -------------
 
 *	<a href="https://TVsou.com/epg/weishi/" title="地方卫视节目表，搜视网提供">搜视</a>
-*	《<a href="https://tv.cctv.com/lm/kjl/" title="中国青年电视公开课，央视名牌栏目">开讲了</a>》
 *	i<a href="https://www.ixigua.com/" title="抖音旗下免费视频网">西瓜</a>
 *	<a href="http://www.mtime.com" title="MTime">时光</a>影评$
 <!-- http://film.mtime.com/search/movies/movies?suggestType=0&q=" + wen -->
@@ -257,11 +256,12 @@
 *	国产磁盘分区<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>，支持数据恢复
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
 *	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
-*	<a title="开源软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，跨平台办公软件。
-	外国的<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
+*	外国在线<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
+*	<a title="开源软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，跨平台开源办公软件
+	，[历史版本](https://downloadarchive.documentfoundation.org/libreoffice/old/)下载
+	，腾讯镜像站提供[便携版](https://mirrors.cloud.tencent.com/libreoffice/libreoffice/portable/)。
 *	 <a title="虚拟机软件" href="https://filehippo.com/zh/download_virtualbox/3.1.2.56127/">VBox</a>VirtualBox在Sun公司的最后一个版本，2009年3.1.2
 *	[TC](https://www.ghisler.com/)，Total Commander双栏[文件管理器](https://xbeta.info/tc/)，提供免费[安卓版本](https://www.ghisler.ch/board/viewforum.php?f=22)
-
 *	<a href='https://sspai.com' title='高效工作，品质生活'>少数派</a>、
 	[雷锋网](https://www.leiphone.com/)Ai，
 　	<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
