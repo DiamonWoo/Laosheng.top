@@ -1,4 +1,4 @@
-高等院校三千所 👨‍🎓 <sup>助力考生选大学</sup>
+高等院校三千所 👨‍🎓<sup>助力考生选大学</sup>
 ================
 大萌	　202305-202601（已对齐202506教育部名单，等待202606）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
@@ -305,7 +305,7 @@
 　<a  href='http://www.gxu.edu.cn'>广西大学</a> ✌️南宁市　<a  href='http://www.gxmu.edu.cn'>广西医科大学</a> 南宁市　<a  href='http://www.gxtcmu.edu.cn'>广西中医药大学</a> 🌱南宁市　<a  href='http://www.nnnu.edu.cn'>南宁师范大学</a>　<a  href='http://www.gxau.edu.cn'>广西艺术学院</a> 南宁市　<a  href='http://www.gxmzu.edu.cn'>广西民族大学</a> 南宁市　<a  href='http://www.gxufe.edu.cn'>广西财经学院</a> 南宁市　<a title='终于启用 .edu.cn' href='http://www.gxjcxy.com'>广西警察学院</a> 🛂南宁市　<a  href='http://www.gxnzd.edu.cn/xxgk/xxgk.htm'>广西农业职业技术大学</a> 南宁市　<a  href='http://www.gxvnu.edu.cn'>广西职业师范学院</a> 南宁市　<a  href='http://www.nncvt.edu.cn'>南宁职业技术大学</a>   <i>学院2024升级</i>　¥ <a title='nnxy.cn 可跳转' href='http://unn.edu.cn'>南宁学院</a>　¥ 广西民族大学<a title='旧域名停用：xshxy.gxun.edu.cn' href='http://www.xshxy.cn'>相思湖学院</a> 南宁市　¥ 南宁师范大学<a  href='http://www.gxsy.edu.cn'>师园学院</a>　¥ 广西中医药大学<a title='Science' href='http://www.gxzyxysy.com'>赛恩斯新医药学院</a> 🌱南宁市　¥ <a title='会吃掉www' href='http://gxufl.edu.cn'>广西外国语学院</a> 南宁市　<a  href='http://www.gxust.edu.cn'>广西科技大学</a> 柳州市　<a  href='http://www.lzzy.edu.cn'>柳州职业技术大学</a>   <i>学院2024升级，+柳钢职大+纺织中专+机工学校</i>　¥ <a  href='http://www.lzhit.edu.cn'>柳州工学院</a>　<a  href='http://www.gliet.edu.cn'>桂林电子科技大学</a>　<a  href='http://www.glut.edu.cn'>桂林理工大学</a>　<a  href='http://www.glmc.edu.cn'>桂林医科大学</a>   <i>2025更名</i>　<a  href='http://www.gxnu.edu.cn'>广西师范大学</a> 桂林市　<a  href='http://www.guat.edu.cn'>桂林航天工业学院</a>　<a  href='http://www.gltu.edu.cn'>桂林旅游学院</a>　<a  href='http://www.glnc.edu.cn'>桂林师范学院</a>   <i>师专2025升本</i>　¥ <a title='gxljcollege.cn' href='http://www.glc.edu.cn'>桂林学院</a>   <i>原广西师大漓江学院</i>　¥ <a  href='http://www.guit.edu.cn'>桂林信息科技学院</a>　¥ <a title='www.bwgl.net.cn' href='http://www.bwgl.cn'>南宁理工学院</a> 桂林市  <i>桂林理工博文管理学院2021年转设</i>　<a  href='http://www.gxuwz.edu.cn'>梧州学院</a>　¥ <a  href='http://www.sszss.com'>北海艺术设计学院</a>　¥ 北京航空航天大学<a title='位于北海市的北航学院' href='http://bhc.buaa.edu.cn'>北海学院</a> 北海市  <i>北航的新生学院</i>　<a  href='http://www.bbgu.edu.cn'>北部湾大学</a> 钦州市　<a  href='http://www.ylu.edu.cn'>玉林师范学院</a>　<a  href='http://www.ymun.edu.cn'>右江民族医学院</a> 百色市　<a  href='http://www.bsuc.edu.cn'>百色学院</a>　<a title='曾经网站维护' href='http://www.hzxy.edu.cn'>贺州学院</a>　<a  href='http://www.hcnu.edu.cn'>河池学院</a>　<a  href='http://www.gxstnu.edu.cn'>广西科技师范学院</a> 来宾市　<a  href='http://www.gxnun.edu.cn'>广西民族师范学院</a> 崇左市  <i>夜间维护</i>　¥ <a  href='http://www.gxcvuedu.com'>广西城市职业大学</a> 崇左市 	<br>  
 高职大专48所（15 ¥）：<small>　南宁市 <a  href='http://www.gxcme.edu.cn'>广西机电职业技术学院</a>　南宁市 <a  href='http://www.gxtznn.com'>广西体育高等专科学校</a> 🏃　南宁市 <a  href='http://www.gxsdxy.cn'>广西水利电力职业技术学院</a>　南宁市 <a  href='http://www.gxzjy.edu.cn'>广西职业技术学院</a>　南宁市 <a  href='http://www.gxjzy.com'>广西交通职业技术学院</a>　南宁市 <a  href='http://www.gxgy.edu.cn'>广西工业职业技术学院</a>　南宁市 <a title='www.gxibvc.net' href='http://www.gxibvc.edu.cn'>广西国际商务职业技术学院</a>　南宁市 <a  href='http://www.gxjsxy.cn'>广西建设职业技术学院</a>　南宁市 <a title='曾经http连接会跳转到登录页' href='http://www.gxjmxy.edu.cn'>广西经贸职业技术学院</a>　南宁市 <a  href='http://www.gxgsxy.com'>广西工商职业技术学院</a>　南宁市 <a title='另有域名.com' href='http://www.gxdlxy.edu.cn'>广西电力职业技术学院</a>　南宁市 <a  href='http://www.gxyesf.edu.cn'>广西幼儿师范高等专科学校</a>　南宁市 <a  href='http://www.gxwzy.edu.cn'>广西卫生职业技术学院</a>　南宁市 <a title='广西银行学校' href='http://www.gxjrxy.com'>广西金融职业技术学院</a>　南宁市 <a  href='http://www.gxaqzy.cn'>广西安全工程职业技术学院</a>　南宁市 <a title='头条搜索' href='http://www.gxzzzy.cn'>广西制造工程职业技术学院</a>　南宁市 <a title='广西开放大学' href='http://www.gxuie.cn'>广西信息职业技术学院</a>　南宁市 <a title='广西市场监督管理局主办' href='http://zlgc.gxgsxx.net'>广西质量工程职业技术学院</a>   <i>2023新校</i>　南宁市 ¥ <a  href='http://www.gxart.cn'>广西演艺职业学院</a> 💃　南宁市 ¥ <a  href='http://www.gxevc.com'>广西经济职业学院</a>　柳州市 <a  href='http://www.gxstzy.cn'>广西生态工程职业技术学院</a>　 <a title='旧域名停用：lztdzy.com' href='http://www.ltzy.edu.cn'>柳州铁道职业技术学院</a>　 <a  href='http://www.lcvc.edu.cn'>柳州城市职业学院</a>　柳州市 <a  href='http://www.gxgj.com'>广西智能制造职业技术学院</a>   <i>机电技师学院2024改建</i>　 ¥ <a  href='http://www.glhic.com'>桂林生命与健康职业技术学院</a>　 ¥ <a  href='http://www.glsszyxy.com'>桂林山水职业学院</a>　 ¥ <a  href='https://www.glcie.edu.cn'>桂林信息工程职业学院</a>   <i>2023新校</i>　 <a  href='http://www.wzzyedu.com'>梧州职业学院</a>　 ¥ <a title='www.wuzmc.edu.cn' href='http://www.gxwzyz.com'>梧州医学高等专科学校</a>　 <a  href='http://www.bhzyxy.net'>北海职业学院</a>　 ¥ <a title='%Fx' href='http://www.bhkyxy.com'>北海康养职业学院</a>　 <a  href='https://www.fcgzy.edu.cn'>防城港职业技术学院</a>　 <a  href='http://www.qzyz.edu.cn'>钦州幼儿师范高等专科学校</a>　钦州市 ¥ <a title='www.tic-gx.com' href='http://www.gxtic.edu.cn'>广西英华国际职业学院</a>　贵港市 <a  href='http://www.gxlvtc.edu.cn/xsgg/xxjj.htm'>广西物流职业技术学院</a>　 <a title='ylgzy.cn' href='http://www.ylzy.edu.cn'>玉林职业技术学院</a>   <i>2024新校，高铁新城</i>　玉林市 ¥ <a  href='http://www.yczyxy-edu.cn'>玉柴职业技术学院</a>   <i>🔩玉柴动力</i>　 <a  href='http://www.bszy.edu.cn'>百色职业学院</a>　百色市 ¥ <a  href='http://www.gxgcedu.com'>广西工程职业学院</a>　百色市 ¥ <a  href='http://www.peixianedu.cn'>广西培贤国际职业学院</a>　河池市 <a  href='http://www.gxxd.net.cn'>广西现代职业技术学院</a>　来宾市 ¥ <a  href='http://www.gxltu.edu.cn/ltgk/xyjj.html'>广西蓝天航空职业学院</a>　崇左市 <a  href='http://www.gxnrvtc.edu.cn'>广西自然资源职业技术学院</a>　崇左市 <a  href='http://www.gxngy.cn'>广西农业工程职业技术学院</a>　 <a  href='http://www.gxczyesf.com'>崇左幼儿师范高等专科学校</a>　崇左市 ¥ <a title='www.gxlgxy.com' href='http://www.gxlgxy.edu.cn'>广西理工职业技术学院</a>　崇左市 ¥ <a  href='http://www.gxkjzy.com'>广西科技职业学院</a>　崇左市 ¥ <a  >广西中远职业学院</a>  4145014546 <i>似停招，广西教育厅官网查不到</i></small>　　<a href="#mulu" target="_top" title="回各省索引">▲</a>  
 <h3 id='46'>海南　<small>28所高校：0🥇 6🥈 5 ¥</small></h3>
-　<sup>境外合作</sup>$ <a title='德国比勒费尔德应用科学与艺术大学（HSBI）' href='http://www.hsbi.de'>海南比勒费尔德应用科学大学</a> 陵水黎族自治县  <i>德国HSBI大学在海南自贸港，2023新本科</i>　<a  href='http://www.hainanu.edu.cn'>海南大学</a> ✌️海口市  <i>+华南热带农业大学</i>　<a  href='http://www.hainnu.edu.cn'>海南师范大学</a> 海口市　<a title='www.hainmc.edu.cn' href='http://www.muhn.edu.cn'>海南医科大学</a> 海口市  <i>医学院2024升级</i>　<a  href='http://www.qtnu.edu.cn'>琼台师范学院</a> 海口市　<a  href='http://hnpczs.hnplc.com'>海南警察学院</a> 🛂海口市  <i>2025新校，未见年度审批</i>　¥ <a  href='http://www.hkc.edu.cn'>海口经济学院</a>   <i>网关限制？</i>　¥ <a  href='http://www.hnkjedu.cn'>海南科技职业大学</a> 海口市　<a  href='http://www.hntou.edu.cn'>海南热带海洋学院</a> 三亚市　<sup>境外合作</sup>$ <a  >海南洛桑旅游大学</a> 三亚市 4146014948 <i>[瑞士EHL](https://www.eol.cn/news/dongtai/202506/t20250621_2676140.shtml)2025新校，未见年度审批</i>　¥ <a  href='http://www.sanyau.edu.cn'>三亚学院</a>  	<br>  
+　<sup>境外合作</sup>$ <a title='德国比勒费尔德应用科学与艺术大学（HSBI）' href='http://www.hsbi.de'>海南比勒费尔德应用科学大学</a> 陵水黎族自治县  <i>德国HSBI大学在海南自贸港，2023新本科</i>　<a  href='http://www.hainanu.edu.cn'>海南大学</a> ✌️海口市  <i>+华南热带农业大学</i>　<a  href='http://www.hainnu.edu.cn'>海南师范大学</a> 海口市　<a title='www.hainmc.edu.cn' href='http://www.muhn.edu.cn'>海南医科大学</a> 海口市  <i>医学院2024升级</i>　<a  href='http://www.qtnu.edu.cn'>琼台师范学院</a> 海口市　<a  href='http://www.hipolice.edu.cn'>海南警察学院</a> 🛂海口市  <i>2025新校，未见年度审批</i>　¥ <a  href='http://www.hkc.edu.cn'>海口经济学院</a>   <i>网关限制？</i>　¥ <a  href='http://www.hnkjedu.cn'>海南科技职业大学</a> 海口市　<a  href='http://www.hntou.edu.cn'>海南热带海洋学院</a> 三亚市　<sup>境外合作</sup>$ <a  >海南洛桑旅游大学</a> 三亚市 4146014948 <i>[瑞士EHL](https://www.eol.cn/news/dongtai/202506/t20250621_2676140.shtml)2025新校，未见年度审批</i>　¥ <a  href='http://www.sanyau.edu.cn'>三亚学院</a>  	<br>  
 高职大专17所（8 ¥）：<small>　琼海市 <a  href='http://www.hncst.edu.cn'>海南软件职业技术学院</a>　文昌市 <a title='www.hnflvc.com' href='http://www.hncfs.edu.cn'>海南外国语职业学院</a>　海口市 <a  href='http://www.hcvt.cn'>海南职业技术学院</a>　海口市 <a title='夜间维护？' href='http://www.hnplc.com'>海南政法职业学院</a> ⚖️　海口市 <a title='修正域名' href='http://www.hceb.edu.cn'>海南经贸职业技术学院</a>　海口市 <a  href='http://www.hnstx.com'>海南体育职业技术学院</a> 🏃　海口市 <a  href='http://www.hnhvc.edu.cn'>海南卫生健康职业学院</a>　 <a  href='http://www.hkvts.cn'>海口旅游职业学院</a>   <i>学校2024升级</i>　海口市 <a  href='http://www.hnart-edu.cn'>海南艺术职业学院</a> 💃  <i>省芭蕾舞蹈学校2024改建</i>　海口市 ¥ <a  href='http://www.hntbc.edu.cn'>海南工商职业学院</a>　海口市 ¥ <a  href='http://www.hainhmc.edu.cn'>海南健康管理职业技术学院</a>　 ¥ <a  href='http://www.sycsxy.cn'>三亚城市职业学院</a>　 ¥ <a  href='http://www.hnasatc.edu.cn'>三亚航空旅游职业学院</a>　 ¥ <a  href='http://www.ucsanya.com'>三亚理工职业学院</a>　 ¥ <a title='%挑网络' href='http://www.his.edu.cn'>三亚中瑞酒店管理职业学院</a>　 ¥ <a title='syhuli.hainbz.cn/syhuli_pc/' href='http://www.syicn.cn'>三亚护理职业学院</a>   <i>2024新校，育才生态区</i>　儋州市 ¥ <a title='民办营利性，www.nsr-edu.cn' href='http://www.hinsrc.edu.cn'>海南东方新丝路职业学院</a>   <i>名模摇篮2024创建，东方市</i></small>　　<a href="#mulu" target="_top" title="回各省索引">▲</a>  
 <h3 id='50'>重庆　<small>75所高校：2🥇 18🥈 9 ¥</small></h3>
 　❗<a title='教育部' href='http://www.cqu.edu.cn'><b>重庆大学</b></a> 沙坪坝区  <i></i>　<sup>教育部</sup>❕<a  href='http://www.swu.edu.cn'><b>西南大学</b></a> ✌️北碚区  <i>+西南师大+西南农大</i>　<a title='曾经连接超时' href='http://www.sanxiau.edu.cn'>重庆三峡学院</a> 万州区　<a  href='http://www.yznu.cn'>长江师范学院</a> 涪陵区　<a  href='http://www.cqmu.edu.cn'>重庆医科大学</a> 渝中区　<a  href='http://www.cqnu.edu.cn'>重庆师范大学</a> 沙坪坝区　<a title='网站支持22种外语！' href='http://www.sisu.edu.cn'>四川外国语大学</a> 沙坪坝区　<a  href='http://www.swupl.edu.cn'>西南政法大学</a> ⚖️沙坪坝区　<a  href='http://www.scfai.edu.cn'>四川美术学院</a> 🎨沙坪坝区　<a title='旧域名失效：www.cqust.cn' href='http://www.cqust.edu.cn'>重庆科技大学</a> ⚙沙坪坝区  <i>三桶油，202312学院升级</i>　<a  href='http://www.cqpc.edu.cn'>重庆警察学院</a> 🛂沙坪坝区　<a title='重庆电子工程职业学院' href='http://www.cqcet.edu.cn'>重庆电子科技职业大学</a> 沙坪坝区  <i>学院2024升级</i>　<a  href='http://www.cqupt.edu.cn'>重庆邮电大学</a> 南岸区　<a  href='http://www.cqjtu.edu.cn'>重庆交通大学</a> 南岸区　<a  href='http://www.ctbu.edu.cn'>重庆工商大学</a> 南岸区　<a  href='http://www.cque.edu.cn'>重庆第二师范学院</a> 南岸区　<a title='旧域名放弃www.cqipc.net' href='http://www.cqipc.edu.cn'>重庆工业职业技术大学</a> 渝北区  <i>学院2025升本</i>　¥ <a  href='http://www.cqifs.edu.cn'>重庆外语外事学院</a> 渝北区　<a  href='http://www.cqut.edu.cn'>重庆理工大学</a> 巴南区/渝北区　¥ <a  href='http://www.cqie.edu.cn'>重庆工程学院</a> 巴南区　¥ <a  href='http://www.cfec.edu.cn'>重庆财经学院</a> 巴南区　¥ <a  href='http://www.cqrk.edu.cn'>重庆人文科技学院</a> 合川区  <i>西南师大行知育才学院2013年转设</i>　¥ <a  href='http://www.ccibe.edu.cn'>重庆对外经贸学院</a> 合川区　¥ 重庆工商大学<a  href='http://www.paisi.edu.cn'>派斯学院</a> 合川区　¥ <a title='号称民办第一？' href='http://www.cqyti.com/ytgk/xxjj.htm'>重庆移通学院</a> 合川区　<a title='曾经网站504错误' href='http://www.cqwu.edu.cn'>重庆文理学院</a> 永川区　¥ <a  href='http://cqucc.cqu.edu.cn'>重庆城市科技学院</a> 永川区　<a  href='http://www.cqctcm.edu.cn'>重庆中医药学院</a> 🌱璧山区  <i>2023新本科</i>　¥ <a  href='http://www.cqvtu.edu.cn'>重庆机电职业技术大学</a> 璧山区 	<br>  
@@ -485,22 +485,22 @@
 
 　　2026年1月4日，官网公示拟设立本科院校名单15所，其中新增天津职业大学等9所，升级湖南理工学院等6所。
 
-	设立天津职业大学	天津	公办
-	设立南昌科技职业大学	江西	民办
-	设立滨州职业技术大学	山东	公办
-	设立日照职业技术大学	山东	公办
-	设立河南工业职业技术大学	河南	公办
-	设立贵州工商职业大学	贵州	民办
-	设立昆明冶金职业大学	云南	公办
-	设立河南信息科技学院	河南	公办
-	设立网络空间安全学院	湖北	公办
+		设立 天津职业大学 	天津	公办
+		设立 南昌科技职业大学	江西	民办
+		设立 滨州职业技术大学	山东	公办
+		设立 日照职业技术大学	山东	公办
+		设立 河南工业职业技术大学	河南	公办
+		设立 贵州工商职业大学	贵州	民办
+		设立 昆明冶金职业大学	云南	公办
+		设立 河南信息科技学院	河南	公办
+		设立 网络空间安全学院	湖北	公办
 
-	华北科技学院、防灾科技学院 更名 应急管理大学	河北	公办
-	淮阴工学院 更名 淮安大学	江苏	公办
-	皖南医学院 更名 皖南医科大学	安徽	公办
-	安徽科技学院 更名 安徽科技工程大学	安徽	公办
-	滨州医学院 更名 山东医药大学	山东	公办
-	湖南理工学院 更名 湖南理工大学	湖南	公办
+		华北科技学院、防灾科技学院 更名 应急管理大学	河北	公办
+		淮阴工学院 更名 淮安大学    	江苏	公办
+		皖南医学院 更名 皖南医科大学	安徽	公办
+		安徽科技学院 更名 安徽科技工程大学	安徽	公办
+		滨州医学院 更名 山东医药大学	山东	公办
+		湖南理工学院 更名 湖南理工大学	湖南	公办
 
 <h4 >2025年高考季</h4>
 　　2025年6月27日官网公布《全国高等学校名单》，有10所本科院校未在年度审批中出现，本页已吸收。  
@@ -582,7 +582,7 @@
 〖后记〗
 -------
 
-　　在做这个网页的过程中，大萌有一个感觉，其实存在一种普通人可判断的大学排名依据——大学Web网站的水平。名牌大学的网站都做得很好。网站内容的及时、设计的美观、功能的丰富、运行的稳定，都反映了一所大学的实力。
+　　在做这个网页的过程中，大萌有一个感觉，其实存在一种普通人可判断的大学水平依据——大学Web网站的质量。名牌大学的网站都做得很好。网站内容的及时、设计的美观、功能的丰富、运行的稳定，都反映了一所大学的实力。
 
 　　有一多半的高校开设了计算机相关专业（信息、软工、网络、数据等），如果网站连https安全连接都没有提供，或者连手机端适配都做不好，那这些学科的水平到底怎么样呢。  
 　　还有的学校宣称自己和海外高校签订合作协议，但是学校网站不提供外文版本，整个首页找不到一个English，那这种是什么形式的‘合作’呢。从网站看出院校的水平，你还有什么方法？欢迎留言。
@@ -595,7 +595,7 @@
 
 *	xoyondo留言板网友：东软学子、夸夸你、山科学子、Anonymous、Syril、zut、梦夏、njitt、恒生。
 *	E-Mail来信网友：mjcaoo 。
-*	github网友：[imlufeng](https://github.com/imlufeng)。　还有一些网友没留下称呼。大萌今后将努力继续更新。
+*	github网友：[imlufeng](https://github.com/imlufeng)。还有一些读者没留下称呼。　大萌今后将努力继续更新。
 
 <div align="right"><a href="#" target="_top">↑ Top</a></div>
 
@@ -617,4 +617,3 @@
 回到首页
 <a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 点击二维码，“在浏览器打开” https://Laosheng.top  
-
