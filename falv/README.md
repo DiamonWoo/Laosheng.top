@@ -94,25 +94,22 @@
 <!-- + [自己打官司要做什么准备？]() （准备中）-->
 
 
-参考网站
+参考文献
 --------
 
 -	中国人大网：	[如何建设权威有效的国家法律法规数据库](http://www.npc.gov.cn/npc/c30834/201906/3104caba7bc9498da69d6864b7e19132.shtml)
 -	新华通讯社：	[新华网2020全国两会专题](http://www.xinhuanet.com/politics/2020lh )
--	吉林省法学会：	现行法律目录[2025年6月名称版](http://www.jlfxhw.com/flml/index.jhtml )、[源流版](http://www.jlfxhw.com/flml/2482.jhtml)
+-	个人网站
+	- [法言法语](http://www.fayanfayu.wiki/)：一位程序员通过法考后制作的中国法律法规手册，适合桌面浏览。
+	- github上[risshun](https://github.com/risshun/Chinese_Laws)维护的基本法律，提供md各版本。
+	- github上[RanKKI](https://github.com/RanKKI/LawRefBook)维护的法律快查手册，适合ios。
+
 
 ### 专题导游
 
 +	“法律面前人人平等”这句话有法律依据吗？
 +	《刑法》全文终于有官方版本了！[大萌读本](https://laosheng.top/falv/duben/2020-xingfa.txt){:target="_top"}（待更新，有2023修正案）
-*	知识产权的相关法律和有关部门
-
-### 延伸阅读
-
-　　在Github上有一些收录中国法律文本的项目，和‘大萌法律读本’一样，也提供.md格式文本，供参考。
-
-*	《劳动法》与《劳动合同法》　[risshun@github](https://github.com/risshun/Chinese_Laws)
-*	《<del>[中国法律快查手册](https://lawrefbook.github.io/)</del>》　[RanKKI@github](https://github.com/RanKKI/LawRefBook) 维护中？
+*	知识产权的相关法律和有关部门（准备中）
 
 <div id="0" align="right"><a href="#" target="_top">Top</a>↑</div>
 
@@ -122,7 +119,7 @@
 	老生常谈© 2019~2026	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.2.4	202603
+	大萌望海楼 v3.2.5	202604
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
