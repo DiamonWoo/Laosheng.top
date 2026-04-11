@@ -1,6 +1,6 @@
-中国法律简目
-============
-大萌　202604（正在更新）	<base target="_blank" rel="noreferrer">
+中国法律简目 📋️
+==============
+大萌　© 202604	<base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/falv/jianmu" />
 
 		熟读唐诗三百首，不会作诗也会吟。—— (清)孙洙/蘅塘退士
@@ -122,7 +122,7 @@
 --------
 即将生效+有效 = 314件，在国法库的‘法律’(309件)基础上增加宪法、(刑法)修正案、监察法规、若干的“有关问题的决定”。
 
-　　四大类别之内还分了小类，同一小类的法律按施行日排序；文件名后面是该文本文件大小的KB值，点击文件名可打开法律全文（即将发布）。
+　　四大类别之内还分了小类，同一小类的法律按施行日排序；文件名后面是txt文件大小的KB值，点击文件名可打开法律全文。
 
 ### 立国护国类
 60件  
@@ -519,7 +519,9 @@
 
 ### 最新公布
 
+*	2026-03-12 全国人大通过：生态环境法典、国家发展规划法、民族团结进步促进法。
 *	2026-01-20 国家监委公布《[监察工作信息公开条例](https://www.ccdi.gov.cn/toutiaon/202601/t20260119_470784.html)》
+
 
 ### 工作计划
 
@@ -537,8 +539,14 @@
 	老生常谈© 2019-2026 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://Laosheng.top/falv/jianmu
-	中国法律简目 v0.3.6	202604
+	中国法律简目 v0.3.7	202604
 ```
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179794713-1"></script>
+<script>  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'UA-179794713-1');
+</script>
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
 https://Laosheng.top  
