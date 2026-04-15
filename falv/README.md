@@ -9,7 +9,7 @@
 **/falv/**	　这里是民间网站‘老生常谈’的【法律】系列网页，大萌在这里探讨检索法条的门径，制作高质量法律文本，列举政法类高校资源，和大家一起学法、用法。详细内容如下：
 
 +	./fahai　☸️ [法海求索](fahai){:target="_top"}，找到法条、到庭旁听，进高校深造；政法类期刊列表
-	+ ./[jianmu](./jianmu){:target="_top"}　现行有效的《中国法律简目》。因‘国法库’做得越来越好，本项目重启。
+	+ ./jianmu　📋️ 现行有效的《[中国法律简目](./jianmu){:target="_top"}》。一个页面浓缩全部法律名称，2026新上线！
 	+ ./duben　🕮 [大萌法律读本](duben){:target="_top"}，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
 	+ [读本1](duben1){:target="_top"} 📕 八部大法：　立法、监察、诉讼法、行政、刑法、民法典。（待更新）
 	+ [读本2](duben2){:target="_top"} 📗 常用法：　治安、传染病、噪声防治……
@@ -32,7 +32,7 @@
 *	【[高法库](https://www.chinacourt.org/law.shtml)】 　最高法主管中国法院网提供
 *	【[北法库](https://www.pkulaw.com/law)】 　源于北京大学法律系的北大法宝网提供
 
-　　另有 [行政法规库](http://www.gov.cn/zhengce/xzfgk/) 和 [党纪法规库](https://www.ccdi.gov.cn/fgk/index)
+　　另有 国务院[行政法规库](http://www.gov.cn/zhengce/xzfgk/) 和 中纪委[党纪法规库](https://www.ccdi.gov.cn/fgk/index)。　（提问：哪个库中能查到2022年发布的《信访工作条例》？）
 
 ### 中央法治云媒体 ☀️
 
@@ -119,7 +119,7 @@
 	老生常谈© 2019~2026	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/falv
-	大萌望海楼 v3.2.5	202604
+	大萌望海楼 v3.2.6	202604
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
