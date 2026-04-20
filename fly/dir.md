@@ -23,8 +23,8 @@
 	+ ./shaonian　[少年](shaonian){:target="_top"}学习报刊亭 🌝，面向少年儿童的报纸、期刊列表，欢迎向邮局订阅。
 	+ ☀️ 法治社会云媒体，收录在【[法律](../falv/ "望海楼")】系列的目录页。　学法云媒体，各省**法治报**
 	+ 文博旅游类：
-	+ ./dianying　💐 大众电影百花奖，[老生常谈**电影节**](dianying)📽，每个月都有的电影节。戛纳、奥斯卡、天坛奖…… （创作中）
-	+ ./bowu　[地大物博看中国](bowu){:target="_top"} 🐉 —— 收录：国家一级**博物馆** + 🔺红色旅游经典景区。物华天宝、人杰地灵
+	+ ./dianying　💐 大众电影百花奖，[老生常谈**电影节**](dianying)📽。每个月都有的电影节。戛纳、奥斯卡、天坛奖…… （创作中）
+	+ ./bowu　[地大物博看中国](bowu){:target="_top"} 🐉，国家一级**博物馆**、美术馆、🔺红色旅游经典景区。物华天宝、人杰地灵
 	+ 国家一级图书馆、工业旅游打卡地…请见本站【[服务](../fuwu/)】系列
 
 <div align="right">
@@ -36,8 +36,8 @@
 官方速览网址
 ------------
 
-*	📰 新华社[中国搜索](https://paper.chinaso.com)：中央大报、各省日报头版；
-	中国记协：[今日头版](http://paper.zgjx.cn/)、昨日头版
+*	📰 新华社[中国搜索]：中央大报、[各省日报头版](https://paper.chinaso.com)；
+	中国记协：<del>[今日头版](http://paper.zgjx.cn/)</del>、昨日头版
 *	📺 总台央视频网站：CCTV-13[新闻频道](https://www.yangshipin.cn/tv/home?pid=600001811)、各省卫视直播；
 	[CGTN](https://www.cgtn.com/tv) 环球电视直播
 
@@ -108,7 +108,7 @@
 	国家新闻出版署：<a title="查报纸名称，一次查一个" href="https://www.nppa.gov.cn/bsfw/cyjghcpcx/bzbs/" target="_blank">报纸查询</a>　　
 	国家广电总局 <a href="http://www.nrta.gov.cn/col/col69/" title="地方播出频道及教育频道" target="_blank">播出机构名录</a>
 	<!-- 地级以上广电名录（2020年） http://www.nrta.gov.cn/art/2021/1/11/art_113_54717.html -->
-<li>技术服务商公开（不及时）</li>
+<li>技术服务商公开（不稳定）</li>
 	pdf数字报技术：　广州速阅、<a href="http://www.aheading.com/Customer" target="_blank">杭州前方</a>、闻道报网……　<br>
 	电视直播云媒体技术：　广电云、开普云、轻快云　……
 <li>地毯式搜索（自力更生）</li>
@@ -162,7 +162,7 @@ Ideal Software Form of Cloud Media
 	老生常谈© 2019~2025	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/fly/dir
-	全球免费云媒体 v3.2.5	202504
+	全球免费云媒体 v3.2.5	202604
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
