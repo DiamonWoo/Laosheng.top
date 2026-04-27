@@ -266,28 +266,31 @@
 	[雷锋网](https://www.leiphone.com/)Ai，
 　	<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
 *	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
-*	旧的whois服务 <https://internic.net/whois.html>、
+*	旧的[whois服务](https://internic.net/whois.html)、
 	$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>、
-	法国<a href='https://gandi.net/zh-hans/domain/tld' title='法国域名商Gandi提供'>域名大全</a>
-*	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
-*	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a>、
-	[ipip](https://www.ipip.net/ip.html)、
-	[站长之家](https://ip.tool.chinaz.com/)的ip查询等工具；
-*	从境外看ip的网站：
+	法国Gandi<a href='https://gandi.net/zh-hans/domain/tld' title='法国域名商提供'>域名大全</a>
+*	中科大[测速网站](https://test.ustc.edu.cn)，分IPv4和IPv6两种；
+	<a href='https://www.SpeedTest.cn/' title='测试宽带质量'>测速</a>网
+*	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a>；
+	从境外看ip的网站：
 	[ipLocation](https://ipLocation.com)、
 	[WhatsMyip](https://www.WhatsMyip.org)、
 	check-[host](https://check-host.net/ip-info)
-*	免费的[ip地理库](https://lite.ip2Location.com/zh_cn/)、[纯真ip](https://cz88.net/about)
-*	ChinaZ.com ，[爱站](https://www.aizhan.com/) 粤，<!-- ping.cn 被转到ChinaZ.com -->
-	<a href='https://www.speedtest.cn/' title='测试宽带质量'>试带宽</a>，
+*	免费的[ip地理库](https://lite.ip2Location.com/zh_cn/)、
+	[纯真ip](https://cz88.net/about)<!-- <https://www.ipip.net/ip.html> -->
+*	中国站长之家[ChinaZ](https://www.chinaz.com/) / [查ip](https://ip.tool.chinaz.com/)等工具；
+	[爱站](https://www.aizhan.com/) 粤，<!-- ping.cn 被转到ChinaZ.com -->
 	<a href='https://www.51dns.com/wangzhanjiance' title='网站什么情况？'>51dns</a>
 *	[ITDog](https://www.itdog.cn/http/) 蜀、
-	$[17测](http://17ce.com/) 沪、[测吧](https://www.ce8.com/http) 豫；
-	[VSping](https://www.vsping.com/)、
-	[TCPtest](https://www.tcptest.cn/http)、
+	[VSping](https://www.vsping.com/) 川、
+	[TCPtest](https://www.tcptest.cn/http) 川、
+	$[17测](http://17ce.com/) 沪、
+	[测吧](https://www.ce8.com/http) 豫；
 	[AntPing](https://antping.com/web) 琼；
-*	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
-	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
+*	老外抠抠嗖嗖的测试
+	[PingDom](https://tools.pingdom.com/) 🇸🇪，
+	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
+	[WebPageTest](https://www.webpagetest.org/)
 *	在线写网页[codePen](https://codepen.io/pen/)、
 	在线沙盒IDE[codeSandBox](https://codesandbox.io/new?utm_source=landingpage)、
 	国产在线IDE[AnyCodes](https://anyCodes.cn/editor)、
@@ -436,7 +439,7 @@
 	老生常谈© 2019-2026 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记　v3.0.5	202603
+	提名网站与落榜记　v3.0.8	202604
 ```
 
 回到首页
