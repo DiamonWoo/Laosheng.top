@@ -255,8 +255,8 @@
 /	chrome#<a href='https://blog.google/products/chrome' title='Chrome Official Blog'>blog</a>
 *	国产磁盘分区<a href="http://DiskGenius.cn/" title="国产精品，磁盘精灵">DiskGenius</a>，支持数据恢复
 *	[铜豌豆Linux](https://www.atzLinux.com)是基于Debian的Linux中文开源操作系统。
-*	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体
-*	外国在线<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
+*	黄煜臣[字体树](https://mp.weixin.qq.com/s/H_jrZJIHwNCSyUncVpyXUQ)发布：[江西拙楷](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg)免费字体。
+	外国在线<a href='https://www.onlineocr.net/zh_hans/' title='免费在线图像文字识别'>OCR</a>，支持汉字
 *	<a title="开源软件" href="https://zh-cn.libreoffice.org/download/libreoffice/">LibreOffice</a>，跨平台开源办公软件
 	，[历史版本](https://downloadarchive.documentfoundation.org/libreoffice/old/)下载
 	，腾讯镜像站提供[便携版](https://mirrors.cloud.tencent.com/libreoffice/libreoffice/portable/)。
@@ -266,19 +266,26 @@
 	[雷锋网](https://www.leiphone.com/)Ai，
 　	<a title="奇趣网站收藏家" href="https://fuun.fun">奇趣</a>网站收藏家、
 *	#v2ex.com	202104被限制地区访问；	[看雪论坛](https://bbs.kanxue.com)
-*	[whois](https://lookup.icann.org/zh)官网升级，旧域：https://internic.net/whois.html ，$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>
+*	旧的whois服务 <https://internic.net/whois.html>、
+	$<a href="http://www.nic.top" title="新一代国际顶级域名后缀.Top">.Top</a>、
+	法国<a href='https://gandi.net/zh-hans/domain/tld' title='法国域名商Gandi提供'>域名大全</a>
 *	中科大[测速网站](https://test.ustc.edu.cn)　	免费开源，线测速，提供国内版和全球版
-*	[ipip](https://www.ipip.net/ip.html)；	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a> 4月发现将部分中国ip识别为美国；
+*	<a href="https://www.ip.cn" title="查看ip地址归属地">IP.cn</a>、
+	[ipip](https://www.ipip.net/ip.html)、
 	[站长之家](https://ip.tool.chinaz.com/)的ip查询等工具；
-*	从境外看ip的网站：[ipLocation](https://ipLocation.com)、
-	[ip2Location](https://www.ip2Location.com)、
-	[WhatisMyipA](https://WhatisMyipAddress.com/)、
-	[ipinfo](https://ipinfo.io/what-is-my-ip)
-
-*	[ITDog](https://www.itdog.cn/http/) 蜀，[VSping](https://www.vsping.com/)，[TCPtest](https://www.tcptest.cn/http)；
-	[AntPing](https://antping.com/web) 琼；[17测](http://17ce.com/) 沪；[测吧](https://www.ce8.com/http) 豫；
-	[拔测](https://www.boce.com/hijack/) 闽，51[DNS](https://www.dns.com/wangzhanjiance)；
-*	ChinaZ.com ，[爱站](https://www.aizhan.com/) 粤，
+*	从境外看ip的网站：
+	[ipLocation](https://ipLocation.com)、
+	[WhatsMyip](https://www.WhatsMyip.org)、
+	check-[host](https://check-host.net/ip-info)
+*	免费的[ip地理库](https://lite.ip2Location.com/zh_cn/)、[纯真ip](https://cz88.net/about)
+*	ChinaZ.com ，[爱站](https://www.aizhan.com/) 粤，<!-- ping.cn 被转到ChinaZ.com -->
+	<a href='https://www.speedtest.cn/' title='测试宽带质量'>试带宽</a>，
+	<a href='https://www.51dns.com/wangzhanjiance' title='网站什么情况？'>51dns</a>
+*	[ITDog](https://www.itdog.cn/http/) 蜀、
+	$[17测](http://17ce.com/) 沪、[测吧](https://www.ce8.com/http) 豫；
+	[VSping](https://www.vsping.com/)、
+	[TCPtest](https://www.tcptest.cn/http)、
+	[AntPing](https://antping.com/web) 琼；
 *	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)，[PingDom](https://tools.pingdom.com/) 🇸🇪，
 *	在线写网页[codePen](https://codepen.io/pen/)、
