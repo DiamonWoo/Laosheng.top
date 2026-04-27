@@ -285,9 +285,10 @@
 	[VSping](https://www.vsping.com/) 川、
 	[TCPtest](https://www.tcptest.cn/http) 川、
 	$[17测](http://17ce.com/) 沪、
+	[拔测](https://www.boce.com/hijack/)查拦截 闽、
 	[测吧](https://www.ce8.com/http) 豫；
 	[AntPing](https://antping.com/web) 琼；
-*	老外抠抠嗖嗖的测试
+*	老外的测试站：
 	[PingDom](https://tools.pingdom.com/) 🇸🇪，
 	[gtmeTriX](https://gtmetrix.com/) Cloudflare，
 	[WebPageTest](https://www.webpagetest.org/)
@@ -316,6 +317,10 @@
 
 落榜记
 ======
+
+2026/4/28	#第九段
+*	观察网站全球排名的<a href='https://www.SimilarWeb.com/zh/top-websites/' title='观察网站的全球排行'>Similar</a>，还没获得提名就限制了访客查询。
+
 
 2026/3/21	#第七段
 
