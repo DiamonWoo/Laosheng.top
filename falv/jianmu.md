@@ -100,7 +100,7 @@
 <div id="4" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 
-生效法律
+生效法律 + <sub>行政法规</sub>
 --------
 即将生效+有效 = 314件，在国法库的‘法律’(309件)基础上增加宪法、(刑法)修正案、监察法规、若干的“有关问题的决定”。
 
@@ -182,58 +182,58 @@
 
 <small>国类行政法规：
 
-<small>　	法规规章备案审查条例	☆
-<small>　	行政法规制定程序条例	★
+<small>　	[法规规章备案审查条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=法规规章备案审查条例ZVING1)　☆ 
+　	[行政法规制定程序条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政法规制定程序条例ZVING1)　★ 
 
-<small>　	对外使用国徽图案的办法	
+<small>　	[对外使用国徽图案的办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=对外使用国徽图案的办法ZVING1)　 
 
-<small>　	地名管理条例	区划
-　	行政区划管理条例	★
-　	宗教事务条例	？
-　	集会游行示威法实施条例	
-　	地方政府机构设置和编制管理条例	☆
-　	实施《民族区域自治法》若干规定	
-　	行政区域界线管理条例	
-　	国务院行政机构设置和编制管理条例	
-　	城市民族工作条例	
-　	民族乡行政工作条例	
-　	行政区域边界争议处理条例	
-　	政务院关于中央人民政府发表公报的办法	
+<small>　	[地名管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=地名管理条例ZVING1)　区划 
+　	[行政区划管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政区划管理条例ZVING1)　★ 
+　	[宗教事务条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=宗教事务条例ZVING1)　？ 
+　	[集会游行示威法实施条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=集会游行示威法实施条例ZVING1)　 
+　	[地方政府机构设置和编制管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=地方政府机构设置和编制管理条例ZVING1)　☆ 
+　	[实施《民族区域自治法》若干规定](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=实施《民族区域自治法》若干规定ZVING1)　 
+　	[行政区域界线管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政区域界线管理条例ZVING1)　 
+　	[国务院行政机构设置和编制管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=国务院行政机构设置和编制管理条例ZVING1)　 
+　	[城市民族工作条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=城市民族工作条例ZVING1)　 
+　	[民族乡行政工作条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=民族乡行政工作条例ZVING1)　 
+　	[行政区域边界争议处理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政区域边界争议处理条例ZVING1)　 
+　	[政务院关于中央人民政府发表公报的办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=政务院关于中央人民政府发表公报的办法ZVING1)　 
 
-<small>　	中国公民往来台湾地区管理办法	☆
-　	香港同时升挂使用国旗区旗的规定	
+<small>　	[中国公民往来台湾地区管理办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=中国公民往来台湾地区管理办法ZVING1)　☆ 
+　	[香港同时升挂使用国旗区旗的规定](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=香港同时升挂使用国旗区旗的规定ZVING1)　 
 
-<small>　	军用土地管理条例	
-　	重要军工设施保护条例	
-　	解放军实施《药品管理法》办法	
-　	烈士褒扬条例	
-　	军人抚恤优待条例	
-　	退役军人安置条例	民
-　	中国人民解放军文职人员条例	
-　	军用饮食供应站供水站管理办法	民
-　	民用运力国防动员条例	
-　	军工关键设备设施管理条例	
-　	国防交通条例	81
-　	解放军现役士兵服役条例	81
-　	军服管理条例	军装
-　	现役军人和武警身份证申领发放办法	民
-　	军队参加抢险救灾条例	81
-　	国防专利条例	版权
-　	军事设施保护法实施办法	
-　	国防计量监督管理条例	
-　	武器装备研制系统工作条例	
-　	军用标准化管理办法	
+<small>　	[军用土地管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军用土地管理条例ZVING1)　 
+　	[重要军工设施保护条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=重要军工设施保护条例ZVING1)　 
+　	[解放军实施《药品管理法》办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=解放军实施《药品管理法》办法ZVING1)　 
+　	[烈士褒扬条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=烈士褒扬条例ZVING1)　 
+　	[军人抚恤优待条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军人抚恤优待条例ZVING1)　 
+　	[退役军人安置条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=退役军人安置条例ZVING1)　民 
+　	[中国人民解放军文职人员条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=中国人民解放军文职人员条例ZVING1)　 
+　	[军用饮食供应站供水站管理办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军用饮食供应站供水站管理办法ZVING1)　民 
+　	[民用运力国防动员条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=民用运力国防动员条例ZVING1)　 
+　	[军工关键设备设施管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军工关键设备设施管理条例ZVING1)　 
+　	[国防交通条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=国防交通条例ZVING1)　81 
+　	[解放军现役士兵服役条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=解放军现役士兵服役条例ZVING1)　81 
+　	[军服管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军服管理条例ZVING1)　军装 
+　	[现役军人和武警身份证申领发放办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=现役军人和武警身份证申领发放办法ZVING1)　民 
+　	[军队参加抢险救灾条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军队参加抢险救灾条例ZVING1)　81 
+　	[国防专利条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=国防专利条例ZVING1)　版权 
+　	[军事设施保护法实施办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军事设施保护法实施办法ZVING1)　 
+　	[国防计量监督管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=国防计量监督管理条例ZVING1)　 
+　	[武器装备研制系统工作条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=武器装备研制系统工作条例ZVING1)　 
+　	[军用标准化管理办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=军用标准化管理办法ZVING1)　 
 
-　<small>	领事机构中国籍雇员管理条例	民
-　	外国人入境出境管理条例	
-　	保守国家秘密法实施条例	
-　	领事保护与协助条例	
-　	缔结条约管理办法	
-　	海关总署关于外国使馆进出境物品的规定	
-　	外国常驻新闻机构和记者采访条例	？
-　	境内外国人宗教活动管理规定	
-　	国境河流外国籍船舶管理办法	
-　	外国籍非军用船舶通过琼州海峡管理规则	
+<small>　	[领事机构中国籍雇员管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=领事机构中国籍雇员管理条例ZVING1)　民 
+　	[外国人入境出境管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=外国人入境出境管理条例ZVING1)　 
+　	[保守国家秘密法实施条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=保守国家秘密法实施条例ZVING1)　 
+　	[领事保护与协助条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=领事保护与协助条例ZVING1)　 
+　	[缔结条约管理办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=缔结条约管理办法ZVING1)　 
+　	[海关总署关于外国使馆进出境物品的规定](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=海关总署关于外国使馆进出境物品的规定ZVING1)　 
+　	[外国常驻新闻机构和记者采访条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=外国常驻新闻机构和记者采访条例ZVING1)　？ 
+　	[境内外国人宗教活动管理规定](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=境内外国人宗教活动管理规定ZVING1)　 
+　	[国境河流外国籍船舶管理办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=国境河流外国籍船舶管理办法ZVING1)　 
+　	[外国籍非军用船舶通过琼州海峡管理规则](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=外国籍非军用船舶通过琼州海峡管理规则ZVING1)　 
 
 <div id="4.2" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -279,16 +279,16 @@
 　	2005-03-14	　4 KB　	[反分裂国家法](flk.npc/反分裂国家法_20050314.txt)	　<i>国安</i>	  
 　	2000-12-28	　21 KB　	[引渡法](flk.npc/中华人民共和国引渡法_20001228.txt)		  
 
-<small>察类行政法规：
+察类行政法规：<small>
 
-<small>　	公共安全视频图像信息系统管理条例	监控
+　	公共安全视频图像信息系统管理条例	监控
 　	行政执法机关移送涉嫌犯罪案件的规定	
 　	拘留所条例	行政
 　	国家赔偿费用管理条例	
 　	大型群众性活动安全管理条例	
 　	治安保卫委员会暂行组织条例	？
 
-<small>　	戒毒条例	
+　	戒毒条例	
 　	公安机关督察条例	☏ 12389
 　	武警部队实行警官警衔制度的具体办法	
 　	公安机关组织管理条例	
@@ -299,8 +299,8 @@
 　	看守所条例	刑事
 　	公安部对部分刀具实行管制的暂行规定	
 
-<small>　	反间谍法实施细则	
-</small>
+　	反间谍法实施细则	</small>
+
 <div id="4.3" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
 ### 民法民生类
@@ -411,15 +411,15 @@
 　	2009-08-27	　7 KB　	[归侨侨眷权益保护法](flk.npc/中华人民共和国归侨侨眷权益保护法_20090827.txt)		  
 　	2007-01-01	　9 KB　	[护照法](flk.npc/中华人民共和国护照法_20060429.txt)		  
 
-<small>民类行政法规：
+民类行政法规：<small>
 
-<small>　	消费者权益保护法实施条例	☆
+　	消费者权益保护法实施条例	☆
 　	化妆品监督管理条例	
 　	食品安全法实施条例	
 　	在线政务服务的若干规定	☏ 12345
 　	加强食品安全监督管理的特别规定	☆
 
-<small>　	住房租赁条例	
+　	住房租赁条例	
 　	公共场所卫生管理条例	
 　	不动产登记暂行条例	
 　	废旧金属收购业治安管理办法	
@@ -443,7 +443,7 @@
 　	村庄和集镇规划建设管理条例	
 　	开展全民义务植树运动的实施办法	☆
 
-<small>　	快递暂行条例	
+　	快递暂行条例	
 　	全国年节及纪念日放假办法	☆
 　	城市公共交通条例	
 　	旅馆业治安管理办法	
@@ -471,12 +471,12 @@
 　	价格管理条例	315
 　	关于外国人在我国旅行管理的规定	？
 
-<small>　	法规汇编编辑出版管理规定	☆
+　	法规汇编编辑出版管理规定	☆
 　	诉讼费用交纳办法	☆
 　	法律援助条例	
 　	人民调解委员会组织条例	
 
-<small>　	殡葬管理条例	
+　	殡葬管理条例	
 　	婚姻登记条例	☆
 　	未成年人网络保护条例	
 　	社会保险经办条例	
@@ -493,7 +493,7 @@
 　	国有企业富余职工安置规定	下岗？
 　	高级专家离休退休若干问题的暂行规定	
 
-<small>　	药品管理法实施条例	
+　	药品管理法实施条例	
 　	生物医学新技术临床管理条例	
 　	医疗器械监督管理条例	
 　	放射性药品管理办法	
@@ -520,7 +520,7 @@
 　	医疗用毒性药品管理办法	察
 　	尘肺病防治条例	
 
-<small>　	全民阅读促进条例	
+　	全民阅读促进条例	
 　	教学成果奖励条例	
 　	水下文物保护管理条例	
 　	民办教育促进法实施条例	
@@ -545,7 +545,7 @@
 　	幼儿园管理条例	☆
 　	全国中小学勤工俭学暂行工作条例	
 
-<small>　	互联网上网服务营业场所管理条例	网吧
+　	互联网上网服务营业场所管理条例	网吧
 　	出版管理条例	版权
 　	印刷业管理条例	版权
 　	广播电视管理条例	
@@ -572,17 +572,17 @@
 　	高级专家退休问题的补充规定	
 　	加强对外合作出版管理的暂行规定	？
 
-<small>　	外国民用航空器飞行管理规则	
+　	外国民用航空器飞行管理规则	
 　	民用航空运输不定期飞行管理暂行规定	
 　	征兵工作条例	
 　	民兵工作条例	
 　	民兵武器装备管理条例	
 　	军民合用机场使用管理的若干暂行规定	
 
-<small>　	外国人在华收养子女登记办法	
+　	外国人在华收养子女登记办法	
 　	中国公民出国旅游管理办法	
 　	归侨侨眷权益保护法实施办法	
-　	公民因私往来港澳的暂行管理办法	☆
+　	公民因私往来港澳的暂行管理办法	☆</small>
 
 <div id="4.4" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
@@ -735,9 +735,9 @@
 　	2003-02-28	　6 KB　	[海关关衔条例](flk.npc/中华人民共和国海关关衔条例_20030228.txt)		  
 　	2000-07-01	　37 KB　	[海事诉讼特别程序法](flk.npc/中华人民共和国海事诉讼特别程序法_19991225.txt)		  
 
-<small>生类行政法规：
+生类行政法规：<small>
 
-<small>　	供水条例	
+　	供水条例	
 　	生态环境监测条例	
 　	农村公路条例	
 　	古树名木保护条例	☆
@@ -772,7 +772,7 @@
 　	生产安全事故报告和调查处理条例	☆
 　	测绘成果管理条例	版权
 
-<small>　	全国农业普查条例	
+　	全国农业普查条例	
 　	植物新品种保护条例	
 　	农药管理条例	
 　	生猪屠宰管理条例	
@@ -803,7 +803,7 @@
 　	城市节约用水管理规定	
 　	水产资源繁殖保护条例	
 
-<small>　	有毒物品作业场所劳动保护条例	
+　	有毒物品作业场所劳动保护条例	
 　	病原微生物实验室生物安全管理条例	
 　	音像制品管理条例	版权
 　	稀土管理条例	
@@ -872,7 +872,7 @@
 　	非机动船舶海上安全航行暂行规则	
 　	打捞沉船管理办法	
 
-<small>　	增值税法实施条例	
+　	增值税法实施条例	
 　	互联网平台企业涉税信息报送规定	？
 　	实施《公司法》注册资本登记的规定	
 　	企业信息公示暂行条例	
@@ -906,7 +906,7 @@
 　	工商行政管理所条例	☆
 　	禁止向企业摊派暂行条例	
 
-<small>　	商事调解条例	
+　	商事调解条例	
 　	行政执法监督条例	
 　	公平竞争审查条例	
 　	对外劳务合作管理条例	
@@ -923,7 +923,7 @@
 　	工人考核条例	
 　	关于工资总额组成的规定	
 
-<small>　	社会团体登记管理条例	？
+　	社会团体登记管理条例	？
 　	政务数据共享条例	
 　	印铸刻字业暂行管理规则	公章
 　	国有企业管理人员处分条例	
@@ -964,7 +964,7 @@
 　	机关工作人员福利费掌管使用的暂行规定	
 　	机关工作人员退休计算年限的暂行规定	
 
-<small>　	自然保护区条例	
+　	自然保护区条例	
 　	森林草原防灭火条例	
 　	密云水库水源保护条例	
 　	蓄滞洪区运用补偿办法	
@@ -1001,7 +1001,7 @@
 　	野生药材资源保护管理条例	
 　	森林和野生动物类型自然保护区管理办法	
 
-<small>　	保障中小企业款项支付条例	
+　	保障中小企业款项支付条例	
 　	互联网信息服务管理办法	App
 　	企业所得税法实施条例	
 　	国家自然科学基金条例	 
@@ -1032,7 +1032,7 @@
 　	保护通信线路的规定	
 　	科学技术档案工作条例	
 
-<small>　	规范中介机构为发行股票提供服务的规定	
+　	规范中介机构为发行股票提供服务的规定	
 　	经营者集中申报标准的规定	并购
 　	中国人民银行货币政策委员会条例	
 　	非银行支付机构监督管理条例	
@@ -1074,7 +1074,7 @@
 　	国家货币出入境管理办法	
 　	查检邮件中夹带外币暂行处理办法	察
 
-<small>　	反外国不当域外管辖条例	注意日期排序
+　	反外国不当域外管辖条例	注意日期排序
 　	国际海运条例	
 　	实施《反外国制裁法》的规定	
 　	涉外知识产权纠纷处理的规定	
@@ -1132,7 +1132,7 @@
 　	管理外国企业常驻代表机构的暂行规定	
 　	对外国籍船舶管理规则	
 　	保护海底电缆规定	
-　	鼓励投资开发海南岛的规定	？
+　	鼓励投资开发海南岛的规定	？</small>
 
 <div id="5" align="right">Laosheng<a href="#mulu" target="_top">.Top</a>↑</div>
 
