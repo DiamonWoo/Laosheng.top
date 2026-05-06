@@ -10,7 +10,7 @@
 
 　　当你对一个财经媒体名字迷糊时，如果能有一篇媒体名录速查就好了，可以马上明白这家媒体的身份。大萌编写的这份“中文[财经云](https://Laosheng.top/fly/caijing)媒体”，就想解决这个问题。本页按媒体的主管单位收录财经类媒体网址，大致分为：**中央直管、部委主管、地方主管**。在一条条的财经新闻背后，是一行行的实业生产，本页同时收录全国性的**行业数字报**。
 
-　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *[金融圈](../fuwu/金融圈) 和 [环球金](../ydyl/jiaoyisuo)*。
+　　“财经云”突出标记：数字报📰 与 电视直播📺，更多[图例](#tuli){:target="_top"}请见页面底部。读者也可以把“财经云”这个网页当作阅读财经新闻的起点，时间有限，只看重点。寻找地方金融机构与国际金融交易所，请见 *金融圈 和 [环球金](../ydyl/jiaoyisuo)*。
 
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/fly/dir" target="_top">【云媒体】</a>/财经云</div>
@@ -22,7 +22,7 @@
 /	[手机版](https://wap.eastmoney.com/kuaixun/index.html)
 *	上海[财联社](https://www.cls.cn/telegraph)电报
 *	广州[金十数据](https://www.jin10.com)
-	<sup>财经<a href='https://rili.jin10.com'>日历</a></sup>、
+	<sup>此时<a title='刷新非常快的连续现货价格' href='https://www.jin10.com/market/index.html#/marketChart?symbol=XAUUSD.GOODS'>金价</a></sup>、
 *	香港[富威FXWe](https://www.fxwe.com/live)交易社区
 
 备选：　浙江[同花顺](https://news.10jqka.com.cn/realtimenews.html)
@@ -78,7 +78,8 @@
   *	©《[财经国家](http://paper.news.cn/bkdy/cjgj.htm)周刊》 瞭望[智库](https://www.lwinst.com/)
 * 中央广播电视[总台](https://www.cctv.com/gyys/)：  
 	* 总台央视 财经频道[CCTV-2央视频](https://www.yangshipin.cn/tv/home?pid=600001800)直播 📺，
-	  《[经济信息联播](https://tv.cctv.com/lm/jjxxll)》栏目点播
+	每日《[经济信息联播](https://tv.cctv.com/lm/jjxxll)》栏目、
+	每周日《[中国经济大讲堂](https://tv.cctv.com/lm/zgjjdjt/)》栏目。
 	* 总台央广 [财经频道](https://finance.cnr.cn)经济之声广播 📻
 * 光明日报社：[光明财经](https://economy.gmw.cn)网
 * 经济日报社：
@@ -142,7 +143,7 @@
 * 中国社科院[工业经济研究所](http://gjs.cass.cn)：
 	[中国经营报](http://dianzibao.cb.com.cn/)📰 [官网](http://news.cb.com.cn)
 
-**几个全国性热门报刊**
+**非部委的全国性财经报刊**
 
 *	央企 🌻 紫荆文化集团：
 	[中国基金报](https://www.chnfund.com/epaper)📰 [官网](https://www.chnfund.com)
@@ -241,9 +242,7 @@
 
 全国行业数字报 👷‍
 --------------
-收录全国性行业报纸，已在上方🀄和🏢收录的不再给链接。（正在重构）
-
-[]()📰 🗞️官网[]()
+收录全国性行业报纸，已在上方🀄和🏢收录的不再给链接。（等待重构）
 
 　🀄 中国纺织报	
 　🀄 <del>中国服饰报</del>	
@@ -317,6 +316,7 @@
 /	[21世纪药店](https://21cnyd.menet.com.cn/)📰 [米内网](https://www.menet.com.cn/home/about)
 
 将以行业新闻网142家理事单位为基础，正在收录：
+[]()📰 🗞️官网[]()
 
 　	新华通讯社新媒体中心	新华社
 　	中国搜索信息科技股份	Web
@@ -615,10 +615,10 @@
 　　节约您的搜寻时间，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出宝贵意见</a>！🙇 Comments Welcome
 
 ```
-	老生常谈 © 2019-2025 大萌  知识共享
+	老生常谈 © 2019-2026 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/fly/caijing
-	中文财经云媒体 v0.5.1	202504
+	中文财经云媒体 v0.5.1	202605
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
