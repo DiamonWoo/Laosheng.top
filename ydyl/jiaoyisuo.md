@@ -16,7 +16,8 @@
 	新浪[行情中心](https://gu.sina.cn/#/world)-环球、
 	东方财富-[行情中心](https://wap.eastmoney.com/quote/global.html)、
 	微软[MSN财经](https://www.msn.cn/zh-cn/money/markets)-市场、
-	24小时[金十数据](https://www.jin10.com/)
+	24小时[金十数据](https://www.jin10.com/)、
+	全球市场[节假日](https://cn.investing.com/holiday-calendar/ '英为财情提供')
 
 <div align="right" id="mulu">
 ⏩老生常谈/<a href="https://Laosheng.top/ydyl/dir" target="_top">【一带一路】</a>/环球金
@@ -80,7 +81,7 @@ Gold Market
 	COMEX隶属#[CME group](https://www.cmegroup.com)，俗称‘芝商所’，在北京的有分站点‘斯迈易’，提供简要的[黄金期货行情](https://www.cmegroup.cn/gold/)📍。
 	 * 美国黄金储备哪里看？
 *	**英国伦敦现货市场**，由[伦敦金银市场协会](https://www.lbma.org.uk/cn/)📍(LBMA)提供[伦敦金](https://www.lbma.org.uk/cn/prices-and-data#/)价，报价单位：美元/盎司
-*	中国市场📍（SGE & SHFE）：
+*	中国上海黄金市场📍（SGE & SHFE）：
 	 * [上海黄金交易所](https://www.sge.com.cn/)，SGE。提供**上海金基准价**、[行情走势](https://www.sge.com.cn/sjzx/mrhq)、黄金场内交易型基金(ETF)净值，报价单位：人民币元/克。
 	 * 上海期货交易所，SHFE，在贵金属分类可以看到 [黄金(Au年月/克)](https://www.shfe.com.cn/products/futures/metal/ferrousandpreciousmetal/au_f/)的期货报价，另有 银(Ag)、铜(Cu)产品。
 	 * 国家外汇局会每月公布[官方储备资产](https://www.safe.gov.cn/safe/tjsj1/)，包括外汇储备和黄金储备，比如[2025年](https://www.safe.gov.cn/safe/2025/0206/25744.html)的数据网页。
@@ -342,6 +343,7 @@ Systemically Important Banks (G-SIBs)
 -----------------
 Regional international financial institutions
 
+*	ECB [欧洲中央银行](https://www.ecb.europa.eu/) 欧洲央行公布[欧元汇率](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/)
 *	EIB [欧洲投资银行](https://www.eib.org/) European lnvestment Bank
 *	EBRD 欧洲[复兴开发银行](https://www.ebrd.com/) European Bank for Reconstruction and Development
 *	ADB [亚洲开发](https://www.adb.org)银行 Asian Development Bank
@@ -414,7 +416,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2026 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.9	202601
+	环球金融交易所	v0.5.9	202605
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
