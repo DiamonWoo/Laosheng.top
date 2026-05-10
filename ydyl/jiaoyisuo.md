@@ -101,6 +101,7 @@ Gold Market
 
 *	[新浪黄金](https://wap.cj.sina.cn/metal.html)手机版、[桌面版](https://finance.sina.com.cn/nmetal/)内容繁多
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
+*	金十数据提供美元计价的[黄金现货即时曲线](https://www.jin10.com/market/index.html#/marketChart?symbol=XAUUSD.GOODS)，首次打开较慢。
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 *	[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍提供多币种多计量单位的黄金价格。该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
 
