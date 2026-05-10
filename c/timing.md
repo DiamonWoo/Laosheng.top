@@ -226,6 +226,9 @@
 8、财务自求 🍩
 ------------
 
+/ <a href='https://www.chinawealth.com.cn/' title='中国理财网，查所有合法理财产品'>理财</a>、
+/ <a href='https://yield.chinabond.com.cn/cbweb-mn/indices/single_index_query?locale=zh_CN' title=''>中债</a>
+
 *	<a href="https://zhihe.com/main/information/1" title="法律新媒体">智合</a>；
 	<del>[天涯法治论坛](http://bbs.tianya.cn/list-law-1.shtml)</del>
 *	钛媒体 <https://www.tmtpost.com >	科技投资与产业服务新媒体，网页较为笨重。
@@ -444,7 +447,7 @@
 	老生常谈© 2019-2026 大萌	　知识共享许可
 	CC-BY-NC-ND-3.0 可转载-需署名-非衍生-非营利
 	https://Laosheng.top/c/timing
-	提名网站与落榜记　v3.0.8	202604
+	提名网站与落榜记　v3.0.9	202605
 ```
 
 回到首页
