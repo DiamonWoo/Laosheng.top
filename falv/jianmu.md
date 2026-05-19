@@ -37,6 +37,7 @@
 
 ### 最新公布
 
+*	2026-05-15 国务院公布修订后的《行政法规制定程序条例》，政法库待更新。
 *	2026-04-30 常委会表决通过新修订的[监狱法](http://www.npc.gov.cn/npc/c2/c30834/202604/t20260430_454309.html)、
 [社会救助法](http://www.npc.gov.cn/npc/c2/c30834/202604/t20260430_454303.html)，国法库约在5月8日收录。本页已吸收。
 *	2026-04-29 《行政复议法实施条例》公布，本页已吸收。
@@ -185,7 +186,7 @@
 　	1980-09-10	　3 KB　	[国籍法](flk.npc/中华人民共和国国籍法_19800910.txt)	　<i>☆ 民</i>	  
 
 <small>国类行政法规 47件：<br>  
-　2024 [法规规章备案审查条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=法规规章备案审查条例ZVING1)⠀☆ 　2017 [行政法规制定程序条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政法规制定程序条例ZVING1)⠀★	<br><br>
+　2026 [行政法规制定程序条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政法规制定程序条例ZVING1)⠀★ 2001年公布，两次修订 　2024 [法规规章备案审查条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=法规规章备案审查条例ZVING1)⠀☆	<br><br>
 　2025 [对外使用国徽图案的办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=对外使用国徽图案的办法ZVING1)⠀	<br><br>
 　2022 [地名管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=地名管理条例ZVING1)⠀区划 　2018 [行政区划管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政区划管理条例ZVING1)⠀★ 　2017 [宗教事务条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=宗教事务条例ZVING1)⠀？ 　2011 [集会游行示威法实施条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=集会游行示威法实施条例ZVING1)⠀ 　2007 [地方政府机构设置和编制管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=地方政府机构设置和编制管理条例ZVING1)⠀☆ 　2005 [实施《民族区域自治法》若干规定](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=实施《民族区域自治法》若干规定ZVING1)⠀ 　2002 [行政区域界线管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政区域界线管理条例ZVING1)⠀ 　1997 [国务院行政机构设置和编制管理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=国务院行政机构设置和编制管理条例ZVING1)⠀ 　1993 [城市民族工作条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=城市民族工作条例ZVING1)⠀ 　1993 [民族乡行政工作条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=民族乡行政工作条例ZVING1)⠀ 　1989 [行政区域边界争议处理条例](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=行政区域边界争议处理条例ZVING1)⠀ 　1950 [政务院关于中央人民政府发表公报的办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=政务院关于中央人民政府发表公报的办法ZVING1)⠀	<br><br>
 　2015 [中国公民往来台湾地区管理办法](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=中国公民往来台湾地区管理办法ZVING1)⠀☆ 　1997 [香港同时升挂使用国旗区旗的规定](https://xzfg.moj.gov.cn/SearchTitleFront?QueryAll=香港同时升挂使用国旗区旗的规定ZVING1)⠀	<br><br>
