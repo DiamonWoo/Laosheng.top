@@ -64,6 +64,15 @@
 *	<del>天涯社区搜</del>	<https://search.tianya.cn/>
 *	360<a href="https://st.so.com/" title="360识图">识图</a> 已停服。
 
+几个百科：
+
+　　广州[小时百科](https://wuli.wiki/online/)数理化、
+	上海[会计百科](https://baike.kuaiji.com/)、
+	[A+医学](https://www.a-hospital.com/)百科、
+	[医学百科](https://www.wiki8.cn/)
+
+　　另外还有一些游戏爱好者百科：英雄联盟、我的世界、名侦探柯南、哆啦A梦、哈利波特……
+
 <div id="2" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
