@@ -63,10 +63,12 @@
 　　老生常谈网站诞生于新冠疫情初期，由作者大萌于2020年发布。网站不嵌广告、不发红包，努力保持阅读舒适度，争取在尊重知识产权方面做出表率。　请各方读者转发与评论，对大萌[依法鼓励](https://Laosheng.top/a/author "联系作者")！在这个被App割裂的互联网，让我们重新发现万维网（WWW）的价值。
 
 
-更多[老生常谈…](c/)a
+更多[老生常谈…](c/)
 -------------
 
-+ 建站[小笔记](b/blog "建站心得")
++ 建站[小笔记](broad/blog.txt "建站心得")
++ 2026 04 <中国法律简目>重启，收录全部有效法律和行政法规名称。
+
 + 2025 05 一带一路系列新增 中方认证**美国大学名录**。
 + 2025 04 云媒体系列新增 国家一级[博物馆]网站导航。
 + 2025 03 服务系列新增**工业遗产**、国家定级**图书馆**、**烈士陵园** 等多个名录。
@@ -103,12 +105,12 @@
 
 　　感谢Github为“老生常谈”提供网站托管与markdown文档编译；感谢谋智开发者网络(MDN)提供web技术文档；感谢W3C北航总部提供w3school早期教程。 LaoSheng.top 网站努力建设中！  
 
-![感谢Github支持本站](yan/thanks4github.png)<!-- http://loucypher.github.io/images/octocat.png -->
-![谋智开发者网络](yan/thanks4MDN.png)
-![W3C北航总部](yan/thanks4W3C.png)
+![感谢Github支持本站](a/thanks4github.png)<!-- http://loucypher.github.io/images/octocat.png -->
+![谋智开发者网络](a/thanks4MDN.png)
+![W3C北航总部](a/thanks4W3C.png)
 
 	老生常谈© 2019~2026 大萌	知识共享
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	202602 v3.4.7	https://Laosheng.top
+	202605 v3.4.7	https://Laosheng.top
 
 🎁🎅🛍💎🎀🥳💐🍸🍹🍺🍻🥂🍷🥃☕🍵🥣🍝🍜 🍇🍉🍰🧀🥧₂₀₂₅
