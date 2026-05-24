@@ -27,7 +27,7 @@
 ```
 	老生常谈 © 2019-2026 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
-	https://Laosheng.top/yan/
+	https://Laosheng.top/a/yan
 	老生常谈衍生项目 v0.3.1	 202603
 ```
 
