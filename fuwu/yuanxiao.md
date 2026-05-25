@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓<sup>助力考生选大学</sup>
 ================
-大萌	　202305-202601（已对齐202506教育部名单，等待202606）
+大萌	　202305-202603（正在吸收2026数据）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学名录 中国大学网址全集'>
 <meta name="description" content="<高校所>网页收录中国大学网址全集，包含完整的中国大学名录，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。点击校名直达官网，页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
@@ -19,7 +19,9 @@
 
 <h3>数据来源有关部门</h3>
 
-*	教育部-公告[公示](http://www.moe.gov.cn/jyb_xxgk/s5743/s5745/){:rel="noreferrer"}：拟同意[设置本科高等学校](https://www.bbtnews.com.cn/2026/0104/580587.shtml)的公示（2026-1-4）
+*	教育部-公告[公示](http://www.moe.gov.cn/jyb_xxgk/s5743/s5745/){:rel="noreferrer"}：拟同意设置本科高等学校的公示
+	[2026-1-4](https://www.bbtnews.com.cn/2026/0104/580587.shtml)、
+	[2026-5-21](https://www.eol.cn/news/yaowen/202605/t20260522_2736595.shtml)
 *	教育部[年度高等学校设置审批/备案](http://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_spbajg/){:rel="noreferrer"}结果，
 学校更名、升级、转设、撤销等。看似当月更新。
 *	教育部[全国高等学校名单查询](https://hudong.moe.gov.cn/qggxmd/){:rel="noreferrer"}，分普通与成人两大类，提供大学名单模糊搜索。每年高考后更新。
@@ -604,7 +606,7 @@
 ```
 	老生常谈© 2019-2026 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 1.3.5	202601
+	高等院校三千所	Version 1.3.6	202603
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
