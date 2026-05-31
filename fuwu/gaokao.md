@@ -29,13 +29,11 @@
 +	民间[大学排行榜](#pai){:target="_top"}
 +	[台湾普通高校](#tw){:target="_top"}网站 🏫
 +	[成人高校](#cj){:target="_top"}名单 🌃
-+	参考文献 
++	[参考文献](#wen){:target="_top"}
 
-<div align="right" id='shu'>
+<div align="right" id='new'>
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/新高考
 </div>
-
-<div align="right" id="new"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
 2026院校变更数据
@@ -699,7 +697,7 @@
 *	202404数据较2023年减少2所：<del>江西经济管理干部学院 4236051285、福建对外经济贸易职业技术学院 4135013771</del>
 *	20230619教育部名单较2022年减少2所：<del>山西省吕梁市教育学院 4214050197、四川科技职工大学 4251050081</del>。
 
-<div align="right" id="ck"><a href="#mulu" target="_top">↑ Top</a></div>
+<div align="right" id="can"><a href="#mulu" target="_top">↑ Top</a></div>
 
 
 参考文献
@@ -709,7 +707,6 @@
 *	20240612　大皖新闻发布于腾讯网：[安徽高考考生志愿网上填报办法](https://new.qq.com/rain/a/20240612A03IVH00)公布，此文件在省考试院官网没有找到。
 *	20240624　四川省教育考试院发布：2024年普通高校[在川招生专业及名额](https://plan.sceea.cn/lkjh.html)介绍，图片版
 *	2023 电视剧《[人生之路](https://movie.douban.com/subject/35597525/)》
-
 
 　　节约您的搜寻时间，欢迎<a href="https://laosheng.top/c/author">提出宝贵意见</a>，谢谢！🙇
 
@@ -728,5 +725,4 @@ https://Laosheng.top
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());  gtag('config', 'UA-179794713-1');
 </script>
-
 🥉🏫🔢🧳 🔠📎
