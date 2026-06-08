@@ -35,26 +35,30 @@
 *	⬜ 高考后MOE公布的院校完整名单　	拭目以待
 
 
-<h2 id='tupu'>中国大学总目⠀<sub>高校层级/本页目录</sub></h2>
+<h2 id='tupu'>中国大学总目<sub>⠀高校层级/本页目录</sub></h2>
 
-*	 [军事高等院校](#D81){:target="_top"} 44所　<small>部分参与高招</small>⭐
-*	⇓[各省普通高校 🧳](#D2){:target="_top"} **2919**所　<small>其中本科1365所</small>
-	* **部属本科高校** 115所🥇 = ❗[中管高校](#D1){:target="_top"}31所+❕部本84所
+*	⇓[军事高等院校](#D81){:target="_top"} 44所　<small>部分参与高招</small>⭐
+*	⇓[各省普通高校](#D2){:target="_top"} 🧳 **2919**所　<small>其中本科1365所</small>
+	* **部属本科高校** 115所🥇  
+	　　= ❗[中管高校](#D1){:target="_top"} 31所⇓  
+	　　+ ❕部管高校 84所
 	* 省属本科高校 818所🥈　<small>也有一本</small>
 	* 　　民办本科 432所⠀¥　<small>省教育厅主管 (含13所境外合作$)</small>
-	* <small>专科院校(高职)1554所 = ❕部属4所+ 省属1133所+ ¥ 民办417所 (含3所境外合作 $)</small>
-*	 [港澳普通高校](#D3){:target="_top"} 32所　<small>部分参与高招</small>🔖  
+	* <small>专科院校/高职1554所  
+	　　= ❕部属 4所+ 省属1133所  
+	　　+ ¥ 民办417所 (含3所境外合作 $)</small>
+*	⇓[港澳普通高校](#D3){:target="_top"} 32所　<small>部分参与高招</small>🔖  
 　以上合计 2995所，20250627数据，即将更新
 *	台湾普通高校，148所，收录于本站[gaokao](gaokao#tw)页
 *	成人高等院校，248所，收录于本站[gaokao](gaokao#D4)页 <sup>高升专/专升本/高升本</sup>
-*	<small>党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)</small>
-*	<small>宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)</small>
-*	<small>技师学院，约500所，人社部主管的职业教育机构，本页不收录。</small>
 *	[院校标记](#D4){:target="_top"}与问答：什么是✌️211、✊985？什么是国防七子？  
 	　　[什么是https](#D43){:target="_top"}？怎么学校网站打不开？
 *	[改革近况](#D5){:target="_top"} /完整名单/LSIP进度；
 	[后记](#D6){:target="_top"}/鸣谢
 	* 老生常谈网/高等院校三千所 Laosheng.top
+*	<small>党校/行政学院，48所，少数学历等同普通高校，本页不收录。[外链](https://www.ccps.gov.cn/)</small>
+*	<small>宗教院校，近100所，学历只在宗教体系内有效，本页不收录。[外链](https://www.sara.gov.cn/resource/common/zjjcxxcxxt/)</small>
+*	<small>技师学院，约500所，人社部主管的职业教育机构，本页不收录。</small>
 
 <div align="right" id="D81"><a href="#tupu" target="_top">↑ Top</a></div>
 
