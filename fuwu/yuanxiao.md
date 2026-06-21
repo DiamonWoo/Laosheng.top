@@ -92,7 +92,7 @@
 </tr><tr>
 	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/S9eWcwTQa7-Yp5I7J_FgFg">2026招生</a>wx，+重庆通信</small></td>
 	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/st6lMn0kVoNEURYLhVCF9A">2026招生</a>wx</small></td>
-	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/U_jR64mSq8OVjFVTNXe8jQ">2026招生</a>wx，有<a href="https://weibo.com/5193807838">微博</a></small></td>
+	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/U_jR64mSq8OVjFVTNXe8jQ">2026招生</a>，有<a href="https://weibo.com/5193807838">微博</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
 	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/7SHpVSwreLkQHc7JwCVkZQ">2026招生</a>wx，第三军医</small></td>
 	<td>	<a title="曾经限制校外访问" href="https://www.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small><a title="2026年招生计划，微信号" href="https://mp.weixin.qq.com/s/yk9VcsYSMlCmKArI0b2XVA">2026</a>，第二军医</small></td>
@@ -134,7 +134,7 @@
 	<td>	<b>火箭军指挥学院</b>	<sub>武汉市</sub>⠀<small>原二炮</small>　　<font color="gold">▅</font></td>
 	<td>	<b>武警指挥学院</b>	<sub>天津市</sub>⠀<small></small>　　<font color="green"><b>☰</b></font></td>
 </tr><tr>
-	<td>	<a title="招生网" href="https://www.epgc.mil.cn/"><b>火箭军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/ZcwOLpwnr2JzVCucc76vOg">2026招生</a>wx，有<a title="火大青春" href="https://weibo.com/6977918761">微博</a></small></td>
+	<td>	<a title="招生网" href="https://www.epgc.mil.cn/"><b>火箭军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/ZcwOLpwnr2JzVCucc76vOg">2026</a>，有<a title="火大青春" href="https://weibo.com/6977918761">微博</a></small></td>
 	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/U26mxwtXaEhWY4ECiE3AXA">2026招生</a>wx</small></td>
 </tr><tr>
 	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
@@ -185,7 +185,7 @@
 19 <sup>教育部</sup>❗ <b>[武汉大学](http://www.whu.edu.cn '招生办与图书馆网站夜间关闭')</b>	 WHU 湖北 <sub>武汉市</sub>⠀	[院系页](http://www.whu.edu.cn/jgsz/yxsz.htm)⠀	[机构页](http://www.whu.edu.cn/jgsz/znbm.htm)⠀<small>	[招生办](https://aoff.whu.edu.cn/) /	[图书馆](https://www.lib.whu.edu.cn/) /	[校园网](https://nic.whu.edu.cn/)	⠀+湖北医科大+武汉测绘科技+武汉水利电力。[弘毅学堂](https://hyxt.whu.edu.cn/)</small>  
 20 <sup>教育部</sup>❗ <b>[中山大学](http://www.sysu.edu.cn '台湾也有一个：nsysu.edu.tw')</b>	 SYSU 广东 <sub>广州市</sub>⠀	[院系页](http://www.sysu.edu.cn/yxsz.htm)⠀	[机构页](http://www.sysu.edu.cn/xxg/fwjg.htm)⠀<small>	[招生办](https://admission.sysu.edu.cn/) /	[图书馆](https://library.sysu.edu.cn/) /	[校园网](https://inc.sysu.edu.cn/)	⠀+中山医科大。[附属第七医院](http://www.sysush.com/)（深圳）、[孙逸仙](http://www.gzsys.org.cn/)纪念医院</small>  
 21 <sup>教育部</sup>❗ <b>[西北农林科技大学](http://www.nwsuaf.edu.cn)</b>	 nwsuaf 陕西 <sub>咸阳市</sub>⠀	[院系页](http://www.nwsuaf.edu.cn/xxdw/xybs/)⠀	[机构页](http://www.nwsuaf.edu.cn/xxdw/dqxzjg/)⠀<small>	[招生办](https://zhshw.nwsuaf.edu.cn/) /	[图书馆](https://lib.nwafu.edu.cn/) /	[校园网](https://nic.nwafu.edu.cn/)	⠀+水土保持所+西北水利所/植物所+陕西农科院/林科院。[秦岭研究院](https://qinling.nwafu.edu.cn/)、中国[旱区节水农业研究院](https://wsa.nwafu.edu.cn/)</small>
-　<small>老生常谈网站：中管高校</small>  
+　<small>老生常谈网：中管高校</small>  
 22 <sup>教育部</sup>❗ <b>[吉林大学](http://www.jlu.edu.cn)</b>	 JLU 吉林 <sub>长春市</sub>⠀	[院系页](http://www.jlu.edu.cn/jgsz/yxsz.htm)⠀	[机构页](http://www.jlu.edu.cn/jgsz/gl_fwyywjg.htm)⠀<small>	[招生办](https://zsb.jlu.edu.cn/) /	[图书馆](http://lib.jlu.edu.cn/) /	[校园网](https://nic.jlu.edu.cn/)	⠀+工大+军需大+长春邮电+东北地质+白求恩医科大。黄大年</small>  
 23 <sup>教育部</sup>❗ <b>[华中科技大学](http://www.hust.edu.cn)</b>	 HUST 湖北 <sub>武汉市</sub>⠀	[院系页](http://www.hust.edu.cn/yxsz.htm)⠀	[机构页](http://www.hust.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](https://zsb.hust.edu.cn/) /	[图书馆](http://www.lib.hust.edu.cn/) /	[校园网](https://ncc.hust.edu.cn/)	⠀+同济医科大+武汉城建。[同济医学院](http://www.tjmu.edu.cn/yxyxg/fsyy.htm)/金银潭医院</small>  
 24 <sup>教育部</sup>❗ <b>[山东大学](http://www.sdu.edu.cn)</b>	 SDU 山东 <sub>济南市</sub>⠀	[院系页](http://www.sdu.edu.cn/zzjg/xysz.htm)⠀	[机构页](http://www.sdu.edu.cn/zzjg/glfw.htm)⠀<small>	[招生办](https://www.bkzs.sdu.edu.cn/) /	[图书馆](https://library.sdu.edu.cn/) /	[校园网](https://iais.sdu.edu.cn/)	⠀+山东工大+山东医科大。[齐鲁医学院](https://www.qlyxb.sdu.edu.cn/xwzsy/xygk/zzjg.htm)、[科研网站群](https://www.sdu.edu.cn/jgsz/kyjg.htm)</small>  
@@ -202,7 +202,7 @@
 
 各省普通高等院校 🧳
 ----------------
-2025MOE数据+2026院校变更数据。
+20260618教育部发布数据
 
 <h3 id="mulu">各省高校索引</h3>
 
@@ -243,8 +243,7 @@
 
 　　各省按区划代码顺序(身份证号前2位)排列，每个省的高校分两个段落(办学层次)，**先本科，后专科**；同一段落内**先部属，后省属**；省属院校中，**先公办、后民办**。
 
-　　以上层次都相同的院校，按**所在地**(市)的行政区划代码(身份证号前4位)排序(少数例外)。将来考虑精确到所在区(县)排序(身份证号前6位)。
-
+　　以上层次都相同的院校，按**所在地**(市)的行政区划代码(身份证号前4位)排序(少数例外)。将来考虑精确到所在区(县)排序(身份证号前6位)。  
 　　<small>上面所有条件都相同的院校，暂时按照‘学校标识码’排序。该码可在教育部官网查询(数据来源第3项)，比如：北京工商大学	4111010011、首都师范大学	4111010028。*学校标识码看起来像是学校在教育部登记的先后顺序。* 只有当一所学校没有发现有效网址，本页才会显示 学校标识码，比如：¥ 天津师范大学 津沽学院 4112013896 (2018年起停招)。
 </small>
 
@@ -530,8 +529,8 @@
 
 <h3 >高校所LSIP进度</h3>
 
-*	202606，已对齐0618官方数据，已完成统计，正在复查全国院校网址……
-*	202606，已经吸收2026院校更新数据99所，更新中管高校分页，为近年20余所新校补充网址。
+*	202606，已对齐0618官方数据，已完成统计，已更新军校2026招生计划，正在复查全国院校网址……
+*	202606，已经吸收2026院校更新数据99所，已检查中管高校分页，为近年20余所新校补充网址。
 *	202507，收到读者imlufeng、梦夏 留言，修订若干江西、河北院校网址。复查高职大专网址。
 *	202506，官网27日公布新的《全国高等学校名单》，本页已吸收！
 *	202506，官网24日公开一批本科院校变更，本页已吸收！
