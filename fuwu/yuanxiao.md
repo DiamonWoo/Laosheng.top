@@ -37,7 +37,7 @@
 
 <h2 id='tupu'>中国大学总目<sub><small>⠀高校层级/本页目录</small></sub></h2>
 
-*	⇓[军事高等院校](#D81){:target="_top"} 44所　⭐<small>近半参与高招</small>
+*	⇓[军事高等院校](#D81){:target="_top"} 44所　⭐<small>半数高考招生</small>
 *	⇓[各省普通高校](#D2){:target="_top"}🧳 **2952**所⠀<small>本科1412所</small><img align='right' title='老生常谈网/高校所' src='daxue-qr.png' alt='二维码'>
 	* **部属本科高校** 114所🥇 =  
 	　 ⇓[中管高校](#D1){:target="_top"}❗ 31所  
@@ -67,18 +67,18 @@
 ------------
 
 　　44所，部分面向高考招生，标记⭐，多为**本科提前录取批次**；少数军校只面向社会招收研究生，不参与高招。2025年面向高考招生的军校减为22所。
-　[2025年招生计划](https://www.gk100.com/read_813045.htm)公布！/军网[原文](http://www.81.mil.cn/jx_208569/16390866.html)。
-<del>[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
+　2026年招生计划已发布，详见下方。
+<del>[2025招生计划](https://www.gk100.com/read_813045.htm)公布！/军网[原文](http://www.81.mil.cn/jx_208569/16390866.html)、[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
-　　多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。多数军校没有公开网站。
+　　多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。只有少数军校开设公开网站。
 　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
-<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/HUqfqNJFU0MYA6U6jLflaA">2026招生</a>wx，有[微博](https://weibo.com/7127745503)</small>，原哈军工+长沙炮兵/工程兵/政治学院  
-<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队，[2026招生](https://mp.weixin.qq.com/s/vGxPv_Vj62WjTVXjFp9I0Q)wx</small>  
-<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队，有[微博](https://weibo.com/7737280149)、[微信号](https://mp.weixin.qq.com/s/7rDX9tr_irK4Qa_2tWwv9w)wx</small>  
-<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[2026招生](https://mp.weixin.qq.com/s/Lzz0tDe7sk2IC4RfDxZRGQ)wx</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，[2026招生](https://mp.weixin.qq.com/s/pQyr2BPCUMB9Ak731DjMOQ)wx，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)</small>  
+<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/HUqfqNJFU0MYA6U6jLflaA">2026招生</a>wx，原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
+<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>[2026招生](https://mp.weixin.qq.com/s/vGxPv_Vj62WjTVXjFp9I0Q)wx，原战略支援部队</small>  
+<sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>[2026招生](https://mp.weixin.qq.com/s/S870AE15WMlNRrBn9fwEfQ)wx，原战略支援部队，有[微博](https://weibo.com/7737280149)</small>  
+<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>[2026招生](https://mp.weixin.qq.com/s/Lzz0tDe7sk2IC4RfDxZRGQ)wx，2025组建</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>[2026招生](https://mp.weixin.qq.com/s/pQyr2BPCUMB9Ak731DjMOQ)wx，2025组建，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">	<!-- overflow-x: hidden 右侧显示不全 -->
@@ -90,17 +90,18 @@
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;　<font color="skyblue">▅</font></td>
 </tr><tr>
-	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+重庆通信，<a href="https://mp.weixin.qq.com/s/S9eWcwTQa7-Yp5I7J_FgFg">2026招生</a>wx</small></td>
+	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/S9eWcwTQa7-Yp5I7J_FgFg">2026招生</a>wx，+重庆通信</small></td>
 	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/st6lMn0kVoNEURYLhVCF9A">2026招生</a>wx</small></td>
-	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>微博<a href="https://weibo.com/5193807838">印象空工大</a></small></td>
+	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/U_jR64mSq8OVjFVTNXe8jQ">2026招生</a>wx，有<a href="https://weibo.com/5193807838">微博</a></small></td>
+https://mp.weixin.qq.com/s/U_jR64mSq8OVjFVTNXe8jQ
 </tr><tr bgcolor="#CCCCCC">
-	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>第三军医，<a href="https://mp.weixin.qq.com/s/7SHpVSwreLkQHc7JwCVkZQ">2026招生</a>wx</small></td>
-	<td>	<a title="曾经限制校外访问" href="https://www.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医</small></td>
-	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://mp.weixin.qq.com/s/XsAc49qepJ_SzElX1Y27jg">2026wx</a></small></td>
+	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/7SHpVSwreLkQHc7JwCVkZQ">2026招生</a>wx，第三军医</small></td>
+	<td>	<a title="曾经限制校外访问" href="https://www.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/yk9VcsYSMlCmKArI0b2XVA">2026招生</a>wx，第二军医</small></td>
+	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/XsAc49qepJ_SzElX1Y27jg">2026招生</a>wx，第四军医</small></td>
 </tr><tr>
-	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，<a href="https://mp.weixin.qq.com/s/vEkOTO-wXA2v601WvHUilw">2025招生</a>wx</small></td>
-	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/Qa2Hdb61cMTnudI0KcrRLg">2025招生</a>wx</small></td>
-	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx</small></td>
+	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/TnfiSVBOSa9xfJdWg4e4ag">2026招生</a>wx，2025组建</small></td>
+	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/Wjl9rzgbI1HH_K4k_ZyJwg">2026招生</a>wx</small></td>
+	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/3i5oYwVwUhE5QRYywHi9Qg">2026招生</a>wx</small></td>
 </tr><tr>
 	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/hBNW0VZEAU4NLeLTWne3IA">低空利剑</a>wx</small>　🚁☁☁🪂</td>
 	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small>　<a href="http://hjzf.mil.cn">海军招飞网</a></small></td>
