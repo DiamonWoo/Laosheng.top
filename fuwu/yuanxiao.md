@@ -46,7 +46,7 @@
 	　 + 民办本科 439所  ¥　<small> (厅属，含13所$境外合作)</small>
 	* <small>专科院校/高职 1540所  
 	　　　=**部属** ❕ 4所 + 省属1114所  
-	　　　+民办 ¥ 422所 (厅属，含3所$境外合作)</small>
+	　　　+民办 ¥ 422所 (厅属, 含3所$境外合作)</small>
 *	⇓[港澳普通高校](#D3){:target="_top"} 32所　🔖<small>多半参与高招</small>  
 　以上合计 **3028**所，2026官方数据
 *	台湾普通高校 148所，收录于本站[gaokao](gaokao#tw)页
@@ -149,7 +149,7 @@
 	<td align="center"><small><small>高等院校三千所</small></small></td>
 	<td>	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
-	<td align="center"><small>老生常谈网站</small></td>
+	<td align="center"><small>老生常谈网</small></td>
 	<td>	武警士官学校	<sub>杭州市</sub>⠀<small></small></td>
 </tr>
 </table>
