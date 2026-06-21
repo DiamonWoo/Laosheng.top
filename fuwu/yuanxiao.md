@@ -90,21 +90,21 @@
 	<td>	<b>海军指挥学院</b>	<sub>南京市</sub>⠀&nbsp;&nbsp;&nbsp;&nbsp;　<font color="blue"><b>☰</b></font></td>
 	<td>	<b>空军指挥学院</b>	<sub>北京市</sub>⠀<small></small>&nbsp;&nbsp;　<font color="skyblue">▅</font></td>
 </tr><tr>
-	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+重庆通信，微信<a href="https://mp.weixin.qq.com/s/-LKZm7SRy_SS4F6zuR8vWQ">陆工大</a></small></td>
-	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small>微信<a href="https://mp.weixin.qq.com/s/c0qrWnjxh-s3jrBQ_b8z-g">海工大</a></small></td>
+	<td>	<a href="https://www.aeu.edu.cn"><b>陆军工程大学</b></a>	⭐<sub>南京市</sub>⠀<small>+重庆通信，<a href="https://mp.weixin.qq.com/s/S9eWcwTQa7-Yp5I7J_FgFg">2026招生</a>wx</small></td>
+	<td>	<a href="https://www.nue.edu.cn/"><b>海军工程大学</b></a>	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/st6lMn0kVoNEURYLhVCF9A">2026招生</a>wx</small></td>
 	<td>	<a href="https://www.afeu.edu.cn"><b>空军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small>微博<a href="https://weibo.com/5193807838">印象空工大</a></small></td>
 </tr><tr bgcolor="#CCCCCC">
-	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>原第三军医大，<a href="https://zs.tmmu.edu.cn/zsjy/">招生网</a></small></td>
-	<td>	<a title="www.官网禁校外访问 400"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医，</small><a href="http://ao.smmu.edu.cn/">招生网</a></td>
-	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://www.fmmu.edu.cn/zhaosheng/">本科招生</a></small></td>
+	<td>	<a href="https://www.tmmu.edu.cn"><b>陆军军医大学</b></a>	⭐<sub>重庆市</sub>⠀<small>第三军医，<a href="https://mp.weixin.qq.com/s/7SHpVSwreLkQHc7JwCVkZQ">2026招生</a>wx</small></td>
+	<td>	<a title="曾经限制校外访问" href="https://www.smmu.edu.cn/"><b>海军军医大学</b></a>	⭐✌️<sub>上海市</sub>⠀<small>第二军医</small></td>
+	<td>	<a href="https://www.fmmu.edu.cn"><b>空军军医大学</b></a>	⭐✌️<sub>西安市</sub>⠀<small>第四军医，<a href="https://mp.weixin.qq.com/s/XsAc49qepJ_SzElX1Y27jg">2026wx</a></small></td>
 </tr><tr>
 	<td>	<b>陆军兵种大学</b>	⭐<sub>合肥市</sub>⠀<small>2025组建，<a href="https://mp.weixin.qq.com/s/vEkOTO-wXA2v601WvHUilw">2025招生</a>wx</small></td>
 	<td>	海军大连舰艇学院	⭐<sub>大连市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/Qa2Hdb61cMTnudI0KcrRLg">2025招生</a>wx</small></td>
-	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx 预警空天</small></td>
+	<td>	空军预警学院	⭐<sub>武汉市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/PsSIjcbkd_gRuoTxO6Ad5w">2025招生</a>wx</small></td>
 </tr><tr>
 	<td bgcolor="SkyBlue">	陆军航空兵学院	<sub>北京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/hBNW0VZEAU4NLeLTWne3IA">低空利剑</a>wx</small>　🚁☁☁🪂</td>
-	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/04/content_7748184.htm">军网介绍</a>　<a href="http://hjzf.mil.cn">海军招飞网</a></small></td>
-	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small><a href="http://www.81.cn/kj/2015-08/06/content_6617753.htm">军网介绍</a>　<a href="https://www.kjzfw.mil.cn">空军招飞网</a></small></td>
+	<td bgcolor="SkyBlue">	海军航空大学	⭐<sub>烟台市</sub>⠀<small>　<a href="http://hjzf.mil.cn">海军招飞网</a></small></td>
+	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small>　<a href="https://www.kjzfw.mil.cn">空军招飞网</a></small></td>
 </tr><tr>
 	<td>	陆军步兵学院	⭐<sub>南昌市</sub>⠀<small>☭ 红军学校，<a href="https://mp.weixin.qq.com/s/WQTSZGaAmz-9SHy3aMIPzA">2025招生</a>wx</small></td>
 	<td>	<a href="https://www.qtxy.mil.cn">海军潜艇学院</a>	⭐<sub>青岛市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/6ssJhCV49L19C62y_KvdCw">2025招生</a>wx 中国潜院</small></td>
@@ -143,7 +143,7 @@
 	<td align="right">　🚀　</td>
 	<td>	武警特种警察学院	<sub>北京市</sub>⠀<small><a href="http://www.81.cn/jwzl/2017-06/08/content_7748187.htm">军网介绍</a></small></td>
 </tr><tr>
-	<td align="center"><small>中国军校2025</small></td>
+	<td align="center"><small>中国军校2026</small></td>
 	<td>	武警海警学院	<sub>宁波市</sub>⠀<small><a href="https://www.81.cn/jx_208569/10162455.html">军网介绍</a>，<a href="https://mp.weixin.qq.com/s/-UYNWfqJWTKlqEqtmmgSRg">联合培养</a></small></td>
 </tr><tr>
 	<td align="center"><small><small>高等院校三千所</small></small></td>
