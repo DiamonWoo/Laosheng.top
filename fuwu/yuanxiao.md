@@ -74,11 +74,11 @@
 　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
-<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small>有[微博](https://weibo.com/7127745503)、微信号</small>，原哈军工+长沙炮兵/工程兵/政治学院，[本科招生](https://www.nudt.edu.cn/bkzs/)edu  
-<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队，[2025招生](https://mp.weixin.qq.com/s/6ZDTg559GZAZpXXwJXZ0Ug)wx</small>  
+<sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/HUqfqNJFU0MYA6U6jLflaA">2026招生</a>wx，有[微博](https://weibo.com/7127745503)</small>，原哈军工+长沙炮兵/工程兵/政治学院  
+<sup>军委四兵种</sup>❕	军事航天部队**航天工程大学**	⭐<sub>北京市</sub>⠀<small>原战略支援部队，[2026招生](https://mp.weixin.qq.com/s/vGxPv_Vj62WjTVXjFp9I0Q)wx</small>  
 <sup>军委四兵种</sup>❕	网络空间部队**信息工程大学**	⭐<sub>郑州市</sub>⠀<small>原战略支援部队，有[微博](https://weibo.com/7737280149)、[微信号](https://mp.weixin.qq.com/s/7rDX9tr_irK4Qa_2tWwv9w)wx</small>  
-<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[2025招生](http://www.81.cn/yw_208727/16389819.html)81</small>  
-<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，[央广介绍](https://military.cnr.cn/jq/20250530/t20250530_527190152.shtml)，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)，[2025招生](https://mp.weixin.qq.com/s/Z4ZN032Mn-j7hF9YB9Wo7Q)wx</small>  
+<sup>军委四兵种</sup>❕	信息支援部队**工程大学**	⭐<sub>武汉市</sub>⠀<small>2025组建，[2026招生](https://mp.weixin.qq.com/s/Lzz0tDe7sk2IC4RfDxZRGQ)wx</small>  
+<sup>军委四兵种</sup>❕	联勤保障部队**工程大学**	⭐<sub>重庆市</sub>⠀<small>2025组建，[2026招生](https://mp.weixin.qq.com/s/pQyr2BPCUMB9Ak731DjMOQ)wx，原陆军勤务/交通学院，有[微博](https://weibo.com/u/5889886937)</small>  
 <sup>军委四兵种</sup>❕	联勤保障部队[**解放军医学院**](https://www.301hospital.com.cn)	<sub>北京市</sub>⠀<small>301总医院</small>  
 
 <div style="width:100%; white-space: nowrap; overflow-x: auto;">	<!-- overflow-x: hidden 右侧显示不全 -->
@@ -107,7 +107,7 @@
 	<td bgcolor="SkyBlue">	空军航空大学	⭐<sub>长春市</sub>⠀<small>　<a href="https://www.kjzfw.mil.cn">空军招飞网</a></small></td>
 </tr><tr>
 	<td>	陆军步兵学院	⭐<sub>南昌市</sub>⠀<small>☭ 红军学校，<a href="https://mp.weixin.qq.com/s/WQTSZGaAmz-9SHy3aMIPzA">2025招生</a>wx</small></td>
-	<td>	<a href="https://www.qtxy.mil.cn">海军潜艇学院</a>	⭐<sub>青岛市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/6ssJhCV49L19C62y_KvdCw">2025招生</a>wx 中国潜院</small></td>
+	<td>	<a href="https://www.qtxy.mil.cn">海军潜艇学院</a>	⭐<sub>青岛市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/6ssJhCV49L19C62y_KvdCw">2025招生</a>wx</small></td>
 	<td>	空军哈尔滨飞行学院	<sub>哈尔滨市</sub>⠀<small><a href="https://weibo.com/hafeiyuan">哈飞院</a>wb</small></td>
 </tr><tr>	<!-- tr bgcolor="#CCFFFF" 背景色无效，被模板覆盖 -->
 	<td>	陆军防化学院	⭐<sub>北京市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/Ha4N9TSsk5BSpjApNs-28Q">2025招生</a>wx</small></td>
