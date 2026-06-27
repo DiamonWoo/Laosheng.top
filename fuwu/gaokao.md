@@ -25,7 +25,7 @@
 +	民间[大学排行榜](#pai){:target="_top"}
 +	[台湾普通高校](#tw){:target="_top"}网站 🏫
 +	[成人高校](#cj){:target="_top"}名单 🌃
-+	[参考文献](#wen){:target="_top"}
++	[参考文献](#can){:target="_top"}
 
 <div align="right" id='new'>
 ⏩老生常谈/<a href="https://Laosheng.top/fuwu" target="_top">【服务】</a>/新高考
@@ -640,6 +640,7 @@
 参考文献
 --------
 
+*	20260613　[高考100网站](https://www.gk100.com/read_14418866.htm)：2026军校招生简章（22所，微信号）
 *	20260606　地图看世界：[2026年各省高考试卷大盘点](https://news.qq.com/rain/a/20260606A01U0200)，不止5套试卷。
 *	20240607　[中国教育在线](https://gaokao.eol.cn/news/202406/t20240607_2615074.shtml)：全国乙卷没了，2024年高考各省份试卷类型是什么？
 *	20240612　大皖新闻发布于腾讯网：[安徽高考考生志愿网上填报办法](https://new.qq.com/rain/a/20240612A03IVH00)公布，此文件在省考试院官网没有找到。
