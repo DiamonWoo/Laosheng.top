@@ -87,7 +87,7 @@
 <a title="政府网站" href="https://www.gov.mo/zh-hant/content/city-info/">82-澳门</a>　
 91-国外入籍身份证号
 
-### 央企服务
+### 常用央企服务
 
 * 国家邮政　	[EMS](https://www.ems.com.cn)：📠 11183
 * 国家铁路　	国铁客运 📠 [12306](https://www.12306.cn)、　国铁货运 📠 95306
@@ -103,12 +103,6 @@
 　	<small>物联网：144、148、172，虚拟号：165、170(3/5/6)</small>
 * 中国广电 📠 [10099](https://www.10099.com.cn )网上营业厅  
 　号码段：<b>192(5G)</b>，2022年夏季开放，2023停止邮箱服务
-* 中国工商银行　📠 95588 	[ICBC.com.cn](https://www.icbc.com.cn )　爱存不存[]()
-* 中国建设银行　📠 95533 	[CCB.com](http://www.ccb.com )　	存存吧
-* 中国农业银行　📠 95599 	[ABChina.com](http://www.abchina.com )　Agricultural Bank of China
-* 中国银行　📠 95566	[BOC.cn](https://www.boc.cn ) Bank Of China
-* 交通银行　📠 95559	[BankComm.com](https://www.bankcomm.com ) Bank of CommuniCations
-* 中国邮政储蓄银行　📠 95580	[PSBC.com](http://www.psbc.com ) 怕是不存
 
 
 行政区划介绍
@@ -178,7 +172,7 @@
 	老生常谈 © 2019-2026 大萌 知识共享 3.0
 	CC BY-NC-ND 	可转载-需署名-非营利
 	https://Laosheng.top/fuwu/
-	有关部门服务网	v1.7.3	202605
+	有关部门服务网	v1.7.4	202607
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
