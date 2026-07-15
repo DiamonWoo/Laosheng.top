@@ -69,7 +69,7 @@
 　　广州[小时百科](https://wuli.wiki/online/)数理化、
 	上海[会计百科](https://baike.kuaiji.com/)、
 	[A+医学](https://www.a-hospital.com/)百科、
-	[医学百科](https://www.wiki8.cn/)
+	北京[医学百科](https://www.wiki8.cn/)
 
 　　另外还有一些游戏爱好者百科：[我的世界](https://www.mcmod.cn/)、
 	[名侦探柯南](https://www.conanpedia.com/)、
@@ -172,8 +172,9 @@
 <div id="6" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
-6、体育医疗保健
+6、十大网上药店
 ------------
+(收录中…)
 
 *	健客药店	<https://www.jianke.com/help/about.html>	买正品药上健客
 *	1药网 	<https://www.111.com.cn/cmsPage/2015012602/>	合法网上药店
@@ -199,10 +200,9 @@
 <div id="7" align="right">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 
-7、科研学习，网上书店
+7、十大网上书店
 ------------
-
-　　中宣部信息中心：[国家出版发行信息](https://book.cppinfo.cn)公共服务平台，正规出版书籍的书目和摘要
+(收录中…)
 
 *	当当网图书	[dangdang](https://book.dangdang.com) 曾经第一的网上书店，2023年才默认安全连接。
 *	中图网	[booksChina](https://www.booksChina.com/)
@@ -211,6 +211,8 @@
 　	蔚蓝书店	[WeLan](https://www.weLan.com)
 *	京东书店 	[JD](https://book.jd.com)
 　	亚马逊书店	[Amazon](https://www.amazon.com/?language=zh_CN) 2019年秋停止大陆实体书销售
+
+　　中宣部信息中心：[国家出版发行信息](https://book.cppinfo.cn)公共服务平台，正规出版书籍的书目和摘要
 
 　　	中国[十大图书馆](https://baike.sogou.com/v143179817.htm) 搜狗百科提供
 　<a title='2018年起施行，文化旅游部刊登' href='https://www.mct.gov.cn/whzx/bnsj/ggwhs/201801/t20180131_831090.htm' >公共图书馆法</a>
