@@ -9,7 +9,8 @@
 
 **/ydyl/**	　这里是民间网站‘老生常谈’的【一带一路】系列网页，收录国际组织、各国政府、国家级媒体的官方网址，帮大家找到全世界。　一带一路民间站，山不转啊水来转 🎵 the Belt and Road = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road。
 
-+	./dir　　　本目录页。　　./[dir2](dir2)　工具页，在线翻译和地图网站
++	./dir　　　本目录页。
++	./[dir2](dir2)　工具页，在线翻译和地图网站
 +	./united　🌐 [**国际组织四大类**](united.html)，世界语言前十位：ISO、奥委会、教科文、世卫WHO、上合组织……（推荐）
 +	./nations　🗺 [外交国别速查表](nations){:target="_top"}，ISO国别代码、一带一路签约、各国驻华使馆、政府官网、货币汇率查询…… （配地图）
 +	./jiaoyisuo 💱 [环球金融交易所](jiaoyisuo){:target="_top"}　Global Financial Exchange（学习中）
@@ -39,7 +40,7 @@
 全球治理倡议
 </b></p>
 
-　　简目：外交热点 / [有关部门](#2){:target="_top"}/<sub>国别计数</sub> / [ISO码](#3){:target="_top"}/<sub>工具网站</sub>
+简目：外交热点 / [有关部门](#2){:target="_top"}/<sub>工具网站</sub> / [ISO码](#3){:target="_top"}/<sub>国别计数</sub>
 
 
 外交热点 Diplomatic hotspot
@@ -116,16 +117,24 @@
 	[安徽](https://fzggw.ah.gov.cn/ywdt/ztzl/ahsydylzhfwpt/)、
 	[湖南](http://ydyl.hunan.gov.cn)
 
-### 国别计数 Country Count
+### 一带一路工具网站 Web Help B&R
 
-*	中方对外单向免签国迅速增加，本页正在收录……
-*	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
-*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
-*	加入一带一路国家数为：152个。近期签署合作文件的国家有：2023年11月(中东)约旦、7月(高加索)格鲁吉亚……
-*	与中国建交国家数为：183个。近期建交/复交国家有：2024年1月(太平洋岛国)瑙鲁、2023年3月(中美洲)洪都拉斯……
-*	2023-10-18	第三届[“一带一路”国际合作高峰论坛](http://www.beltandroadforum.org)开幕，联合国和150多个国家的贵宾到京。
-*	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
-*	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
+常用词汇：  
+　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
+　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
+　　ASR = Air Silk Road = 空中丝绸之路  
+　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
+　　电视直播：Live TV　/　数字报：E-Paper …
+
+<h4 id="fanyi">YDYL民间翻译网站 🎧</h4>
+
+　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#fanyi)
+
+　　想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
+
+<h4 id="ditu">一带一路地图网站 🗺</h4>
+
+　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#ditu)
 
 <div id="3" align="right">Laosheng<a href="#0" target="_top">.Top</a>↑</div>
 
@@ -149,26 +158,16 @@
 *	💷/💶/💵	英镑/欧元/美元
 *	🇬🇧 /🇪🇺 /🇺🇸	英国/欧盟/美国
 
+### 国别计数 Country Count
 
-### 一带一路工具网站 Web Help B&R
-
-常用词汇：  
-　　B&R  = the Belt and Road = 一带一路 = YiDaiYiLu = **YDYL**  
-　　丝绸之路经济带和21世纪海上丝绸之路 = the Silk Road Economic Belt and the 21st-Century Maritime Silk Road  
-　　ASR = Air Silk Road = 空中丝绸之路  
-　　AIIB = Asian Infrastructure Investment Bank = 亚洲基础设施投资银行（亚投行）  
-　　电视直播：Live TV　/　数字报：E-Paper …
-
-<h4 id="fanyi">YDYL民间翻译网站 🎧</h4>
-
-　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#fanyi)
-
-　　想学外语？看“中央外宣云媒体”，官方媒体提供中/英/法/西/阿/俄等多语种新闻，收录在本站【[云媒体](../fly/dir)】系列。
-
-<h4 id="ditu">一带一路地图网站 🗺</h4>
-
-　　本段落已转移到新页面：[dir2](https://Laosheng.top/ydyl/dir2#ditu)
-
+*	中方对外单向免签国迅速增加，本页正在收录……
+*	对中国公民**普通护照**免签的国家：49个（互免+单免）。近期对中免签的国家有：2024年5月 古巴，4月 格鲁吉亚，1月 泰国、新加坡……
+*	亚投行[AIIB](https://www.aiib.org/en/about-aiib/governance/board-governors/)正式成员国：93个。近期加入国家有：2023年12月(西非)多哥、11月 南非、9月(西非)利比里亚……
+*	加入一带一路国家数为：152个。近期签署合作文件的国家有：2023年11月(中东)约旦、7月(高加索)格鲁吉亚……
+*	与中国建交国家数为：183个。近期建交/复交国家有：2024年1月(太平洋岛国)瑙鲁、2023年3月(中美洲)洪都拉斯……
+*	2023-10-18	第三届[“一带一路”国际合作高峰论坛](http://www.beltandroadforum.org)开幕，联合国和150多个国家的贵宾到京。
+*	2022-02-04	北京冬奥会开幕，参赛代表团(NOC)91个，其中85个为联合国会员国，还有6个地区代表队，分别是：中国香港、中华台北；太平洋岛屿：萨摩亚(美属)；加勒比海岛屿：波多黎各(美属)、维尔京群岛(英属美属)；科索沃(尚未加入联合国，原为欧洲塞尔维亚的一部分)。奥运五环代表五大洲。　　<sub>北京冬奥会开幕式上入场运动员的准确人数是多少？</sub>
+*	2022-01-01	RCEP 生效，世界最大自由贸易经济体系！
 
 <h3 id="4">延伸阅读</h3>
 
@@ -184,7 +183,7 @@
 	老生常谈© 2019~2026	Copyright by 大萌
 	CC-BY-NC-ND-3.0	可转发-需署名-非演绎-非营利
 	https://Laosheng.top/ydyl/dir
-	一带一路民间站 v3.5.0	202603
+	一带一路民间站 v3.5.1	202607
 ```
 
 回到首页<a href=".." title="返回老生常谈首页"><img src="../indexQR-Blue.png" /></a>  
