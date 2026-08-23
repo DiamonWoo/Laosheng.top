@@ -1,6 +1,6 @@
 中国法律简目 <sup>2026</sup>📋️ <sub>行政法规清单</sub>
 ==============
-大萌　© 202604-07	<base target="_blank" rel="noreferrer">
+大萌　© 202604-08	<base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/falv/jianmu" />
 
 		熟读唐诗三百首，不会作诗也会吟。——《唐诗三百首》序，(清)孙洙
@@ -427,7 +427,7 @@
 　	2010-04-01	　15 KB　	[可再生能源法](flk.npc/中华人民共和国可再生能源法_20091226.txt)		  
 　	2009-08-27	　14 KB　	[矿山安全法](flk.npc/中华人民共和国矿山安全法_20090827.txt)		  
 
-　	2027-01-01	　-- 新　	[注册会计师法](https://docs.maoyanqing.com/auditing/cpal/2026.html)		  
+　	2027-01-01	　21 KB　	[注册会计师法](https://docs.maoyanqing.com/auditing/cpal/2026.html)	<i>新修正</i>	  
 　	2026-01-01	　14 KB　	[增值税法](flk.npc/中华人民共和国增值税法_20241225.txt)	　<i>☆</i>	  
 　	2025-10-15	　18 KB　	[反不正当竞争法](flk.npc/中华人民共和国反不正当竞争法_20250627.txt)	　<i>版权</i>	  
 　	2025-05-20	　29 KB　	[民营经济促进法](flk.npc/中华人民共和国民营经济促进法_20250430.txt)		  
@@ -478,7 +478,7 @@
 　	2009-05-01	　38 KB　	[防震减灾法](flk.npc/中华人民共和国防震减灾法_20081227.txt)		  
 　	2002-01-01	　17 KB　	[海域使用管理法](flk.npc/中华人民共和国海域使用管理法_20011027.txt)		  
 
-　	2027-01-01	　-- 新　	[商标法](https://www.cnipa.gov.cn/art/2026/6/26/art_95_206942.html)	　<i>版权</i>	  
+　	2027-01-01	　42 KB　	[商标法](https://www.cnipa.gov.cn/art/2026/6/26/art_95_206942.html)	　<i>版权，新修正</i>	  
 　	2026-01-01	　33 KB　	[网络安全法](flk.npc/中华人民共和国网络安全法_20251028.txt)	　<i>察 ☆ 六个月</i>	  
 　	2022-01-01	　48 KB　	[科学技术进步法](flk.npc/中华人民共和国科学技术进步法_20211224.txt)		  
 　	2021-09-01	　17 KB　	[数据安全法](flk.npc/中华人民共和国数据安全法_20210610.txt)		  
@@ -607,7 +607,7 @@
 	老生常谈© 2019-2026 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://Laosheng.top/falv/jianmu
-	中国法律简目 v0.4.5	202607
+	中国法律简目 v0.4.6	202608
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
