@@ -30,7 +30,7 @@
 *	【[国法库](https://flk.npc.gov.cn/)】：全国人大常委会办公厅维护的‘国家法律法规数据库’，
 	收录：**宪法、监察法规、法律、行政法规**、地方法规、司法解释
 *	〖[政法库](https://xzfg.moj.gov.cn/)〗：司法部维护的‘国家行政法规库’，收录**行政法规**中现行有效部分。
-*	⠀司法解释：最高法/中国法院网/法律文库/[司法解释](https://www.chinacourt.cn/law/more/law_type_id/MzAwM0AFAA.shtml)
+*	⠀司法解释：最高法/权威发布/[司法解释](https://www.court.gov.cn/fabu/gengduo/16.html)
 	、最高检/法律规章/[司法解释](https://www.spp.gov.cn/flfg/sfjs/)
 
 　　本页不收录地方法规，暂不收录司法解释，有这些需求的请访问上方来源网站。本页也不收录党内法规，比如2022年发布的《[信访工作条例](https://www.gjxfj.gov.cn/2022-04/08/c_1310549186.htm)》，有这方面需求的请到[中纪委](https://www.ccdi.gov.cn/fgk/index)官网“党纪法规”或[中组部](https://www.12371.cn/special/dnfg/search/)官网“党章党规”栏目搜寻。
@@ -590,14 +590,20 @@
 *	吉林省法学会：现行法律目录 <del>[2025年6月名称版](http://www.jlfxhw.com/flml/2482.jhtml)、[源流版](http://www.jlfxhw.com/flml/2475.jhtml)</del>
 *	本页面由 大规模集成网页 <a title='Laosheng.top 衍生项目' href='https://diamonwoo.github.io/LSIP'>LSIP</a> 提供理论支持。
 
-
 ### 工作计划
 
 *	✅ 收录600余件有效行政法规（202605完成）
+*	🟦 提供纯文本格式的全库压缩包下载，方便在本地进行法律全库检索
 *	🟦 考虑是否收录司法解释的计数。
 *	🟦 为重点法律增加或更新markdown格式的‘大萌法律读本’
-*	🟦 提供纯文本格式的全库压缩包下载，方便在本地进行法律全库检索
 *	🟦 提供自选目录的压缩包下载
+
+### 司法解释的数量
+
+　　司法解释主要由最高法发布，也有最高检发布或二者联合发布，二者的官网上有专门栏目公布。但是，有效的司法解释总数是多少？在国法库收录司法解释之前，没有权威数字。司法解释也是有修订版本的，如果没有准确的总数，不能够保证收录到有效司法解释的全集。读者可以比较二者官网与下面这个网址的数量。
+
+*	/中国法院网/法律文库/[司法解释](https://www.chinacourt.cn/law/more/law_type_id/MzAwM0AFAA.shtml)
+
 
 <div align="right" id="jindu">.<a href="#" target="_top">Top</a>↑</div>
 
@@ -607,7 +613,7 @@
 	老生常谈© 2019-2026 大萌 知识共享3.0
 	CC BY-NC-ND	可转载-需署名-非营利
 	https://Laosheng.top/falv/jianmu
-	中国法律简目 v0.4.6	202608
+	中国法律简目 v0.4.7	202608
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
