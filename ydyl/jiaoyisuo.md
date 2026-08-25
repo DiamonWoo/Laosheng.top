@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307~202601
+大萌　202307~202608
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -88,14 +88,15 @@ Gold Market
 *	香港[金银业贸易场](http://www.cgse.com.hk/)，报价单位多样，安士=盎司(oz)。
 *	阿联酋迪拜衍生品市场，由[DMCC](https://dmcc.ae/zh/)📍（迪拜多种商品交易中心）旗下的[DGCX](https://www.dgcx.ae)（迪拜黄金及商品交易所）提供以期货为主的黄金交易。（疑问：具体价格在哪里？）  
 
-　　请注意单位换算。 1 盎司(oz) = 28.3495231克 ≈ 28.35 克(g)
+　　〖请注意单位换算〗，如果观察国家储备，常用单位是“万盎司”或“吨”
 
-　　比如，某日伦敦金报价：4000美元/盎司，约等于 141.09美元/克，若按美元兑人民币7比1计，约等于 987元/克；若按汇率7.2计，约等于1015元/克。
-假设美元汇率在7.0~7.2波动，可简化为：
+	1 盎司(oz)=31.1034768克 ≈ 31.1克(g)，1万盎司=0.311吨，1吨 = 3.215万盎司，1公斤=32.15盎司
 
-　　每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
+　　〖请注意交易时间〗，Github网友制作了一份很直观的[全球黄金交易时间表](https://mister-ryder.github.io/gold-markets-time/gold.html)，并且提供了单位换算。
 
-　　如果观察国家储备，常用单位是“吨”或“万盎司”，1万盎司 = 0.2835 吨，1吨 = 3.5274 万盎司。
+　　比如，某日伦敦金报价：4600美元/盎司，约等于 147.9美元/克，若按美元兑人民币6.72计，约等于 994元/克；若按汇率6.5计，约等于961元/克。可简化为：
+
+	每盎司美元报价 ÷ 4.63 ≈ 人民币每克金价。（31.1/6.72=4.628）
 
 看国际黄金价格的国内商业网站有：
 
@@ -105,7 +106,9 @@ Gold Market
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 *	[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍提供多币种多计量单位的黄金价格。该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
 
-　　上金所[交易时间](https://www.sge.com.cn/xwzx/newscenter_mtbd/5145684)长达19.5小时，有多家银行提供24小时积存金交易。向访客公布黄金实时报价的银行有：  
+　　有多家银行提供24小时积存金交易。Github
+https://mister-ryder.github.io/gold-markets-time/gold.html
+向访客公布黄金实时报价的银行有：  
 　　[工商银行](https://www.icbc.com.cn/column/1438058327061184578.html)%、
 	[农业银行](https://ewealth.abchina.com/Gold/)、
 	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
@@ -417,7 +420,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2026 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://Laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.5.9	202605
+	环球金融交易所	v0.6.0	202608
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
