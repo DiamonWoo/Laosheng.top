@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球黄金交易时间表</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  /* ===== DARK THEME ===== */
+  :root, [data-theme="dark"] {
+    --gold-bright: #FFD700;
+    --gold-mid: #DAA520;
+    --gold-dark: #B8860B;
+    --bg-deep: #0A0A0F;
+    --bg-card: #111118;
+    --bg-card-hover: #18181F;
+    --text-primary: #F0EDE6;
+    --text-secondary: #8A8A9A;
+    --text-dim: #55556A;
+    --red-market: #E74C3C;
+    --green-market: #2ECC71;
+    --border-subtle: rgba(255,215,0,0.08);
+    --tick-color: rgba(255,255,255,0.08);
+    --tick-strong: rgba(255,255,255,0.2);
+    --row-border: rgba(255,255,255,0.02);
+    --tooltip-bg: #222;
+    --session-bg: rgba(255,255,255,0.02);
+    --session-active-bg: rgba(255,215,0,0.06);
+    --session-active-border: rgba(255,215,0,0.1);
+    --card-open-border: rgba(46,204,113,0.25);
+    --card-open-glow: rgba(46,204,113,0.04);
+    --badge-open-bg: rgba(46,204,113,0.12);
+    --badge-open-border: rgba(46,204,113,0.25);
+    --badge-closed-bg: rgba(138,138,154,0.08);
+    --badge-closed-border: rgba(138,138,154,0.15);
+    --toggle-bg: rgba(255,255,255,0.06);
+    --toggle-hover: rgba(255,255,255,0.1);
+    --overlay1: rgba(218,165,32,0.03);
+    --overlay2: rgba(218,165,32,0.02);
+    --overlay3: rgba(52,152,219,0.02);
+  }
+
+  /* ===== LIGHT THEME ===== */
+  [data-theme="light"] {
+    --gold-bright: #B8860B;
+    --gold-mid: #996515;
+    --gold-dark: #7A5210;
+    --bg-deep: #F4F1EC;
+    --bg-card: #FFFFFF;
+    --bg-card-hover: #F9F7F3;
+    --text-primary: #1A1A2E;
+    --text-secondary: #6B6B80;
+    --text-dim: #9A9AB0;
+    --red-market: #D63031;
+    --green-market: #00B894;
+    --border-subtle: rgba(0,0,0,0.08);
+    --tick-color: rgba(0,0,0,0.06);
+    --tick-strong: rgba(0,0,0,0.18);
+    --row-border: rgba(0,0,0,0.04);
+    --tooltip-bg: #1A1A2E;
+    --session-bg: rgba(0,0,0,0.02);
+    --session-active-bg: rgba(184,134,11,0.08);
+    --session-active-border: rgba(184,134,11,0.18);
+    --card-open-border: rgba(0,184,148,0.3);
+    --card-open-glow: rgba(0,184,148,0.05);
+    --badge-open-bg: rgba(0,184,148,0.1);
+    --badge-open-border: rgba(0,184,148,0.25);
+    --badge-closed-bg: rgba(0,0,0,0.04);
+    --badge-closed-border: rgba(0,0,0,0.08);
+    --toggle-bg: rgba(0,0,0,0.05);
+    --toggle-hover: rgba(0,0,0,0.1);
+    --overlay1: rgba(218,165,32,0.04);
+    --overlay2: rgba(218,165,32,0.02);
+    --overlay3: rgba(52,152,219,0.02);
+  }
+
+  body {
+    background: var(--bg-deep);
+    color: var(--text-primary);
+    font-family: 'Noto Sans SC', sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+    transition: background 0.4s, color 0.4s;
+  }
+  body::before {
+    content: ''; position: fixed; inset: 0;
+    background:
+      radial-gradient(ellipse at 20% 50%, var(--overlay1) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 20%, var(--overlay2) 0%, transparent 40%),
+      radial-gradient(ellipse at 50% 80%, var(--overlay3) 0%, transparent 40%);
+    pointer-events: none; z-index: 0;
+  }
+
+  .container { max-width: 1100px; margin: 0 auto; padding: 30px 20px; position: relative; z-index: 1; }
+
+  /* Theme Toggle */
+  .theme-toggle {
+    position: fixed; top: 18px; right: 18px; z-index: 100;
+    display: flex; align-items: center; gap: 8px;
+    background: var(--toggle-bg); border: 1px solid var(--border-subtle);
+    border-radius: 40px; padding: 6px 14px; cursor: pointer;
+    transition: all 0.3s; backdrop-filter: blur(10px);
+  }
+  .theme-toggle:hover { background: var(--toggle-hover); }
+  .theme-toggle .icon { font-size: 1rem; }
+  .theme-toggle .lbl { font-size: 0.7rem; color: var(--text-secondary); letter-spacing: 1px; font-weight: 500; }
+
+  /* Header */
+  .header { text-align: center; margin-bottom: 36px; }
+  .header-icon { font-size: 32px; margin-bottom: 8px; display: inline-block; animation: float 3s ease-in-out infinite; }
+  @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+  .header h1 {
+    font-family: 'Playfair Display', serif; font-size: 2.2rem; font-weight: 900;
+    background: linear-gradient(135deg, var(--gold-bright), var(--gold-mid), var(--gold-bright));
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent; letter-spacing: 2px; margin-bottom: 6px;
+  }
+  .header .subtitle { font-size: 0.85rem; color: var(--text-secondary); font-weight: 300; letter-spacing: 4px; text-transform: uppercase; }
+
+  /* Clock */
+  .clock-bar {
+    display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;
+    margin-bottom: 32px; padding: 16px 24px;
+    background: var(--bg-card); border: 1px solid var(--border-subtle); border-radius: 12px; transition: background 0.4s;
+  }
+  .clock-time { font-family: 'JetBrains Mono', monospace; font-size: 2rem; font-weight: 500; color: var(--gold-bright); }
+  .clock-label { font-size: 0.8rem; color: var(--text-secondary); letter-spacing: 1px; }
+  .live-dot { width:8px;height:8px;border-radius:50%;background:var(--green-market);animation:pulse 2s ease-in-out infinite;display:inline-block;margin-right:6px; }
+  @keyframes pulse { 0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(46,204,113,.4)} 50%{opacity:.6;box-shadow:0 0 0 6px rgba(46,204,113,0)} }
+  .active-count { font-size: 0.85rem; color: var(--text-secondary); }
+  .active-count strong { color: var(--green-market); font-weight: 700; }
+
+  /* Timeline */
+  .timeline-section { margin-bottom: 36px; }
+  .section-title { font-size: .75rem; color: var(--text-dim); letter-spacing: 3px; text-transform: uppercase; margin-bottom: 14px; padding-left: 4px; }
+  .timeline-wrapper {
+    background: var(--bg-card); border: 1px solid var(--border-subtle);
+    border-radius: 14px; padding: 20px; overflow-x: auto; transition: background 0.4s;
+  }
+  .timeline-canvas { min-width: 720px; position: relative; }
+
+  /* ===== NEW: Ruler with tick marks ===== */
+  .ruler-row { display: flex; align-items: flex-start; }
+  .ruler-spacer { width: 110px; min-width: 110px; flex-shrink: 0; }
+  .ruler-track { flex: 1; position: relative; height: 26px; }
+
+  .ruler-tick {
+    position: absolute; top: 0;
+    display: flex; flex-direction: column; align-items: center;
+    transform: translateX(-50%);
+  }
+  .ruler-tick .t-line { width: 1px; height: 10px; background: var(--tick-strong); }
+  .ruler-tick .t-num {
+    font-family: 'JetBrains Mono', monospace; font-size: 0.6rem;
+    color: var(--text-dim); margin-top: 2px; line-height: 1; user-select: none;
+  }
+  .ruler-tick.major .t-line { height: 10px; }
+  .ruler-tick.major .t-num { color: var(--text-secondary); font-weight: 500; }
+
+  .ruler-subtick {
+    position: absolute; top: 0; width: 1px; height: 5px;
+    background: var(--tick-color); transform: translateX(-50%);
+  }
+
+  /* Bottom border under ruler */
+  .ruler-border {
+    display: flex; align-items: flex-start;
+  }
+  .ruler-border-spacer { width: 110px; min-width: 110px; flex-shrink: 0; }
+  .ruler-border-line { flex: 1; height: 1px; background: var(--tick-strong); opacity: 0.5; }
+
+  /* Market rows */
+  .rows-container { position: relative; }
+  .market-row { display: flex; align-items: center; padding: 5px 0; border-bottom: 1px solid var(--row-border); position: relative; }
+  .market-row:last-child { border-bottom: none; }
+  .market-name { width:110px;min-width:110px;font-size:.78rem;font-weight:500;color:var(--text-primary);padding-right:10px;display:flex;align-items:center;gap:6px; }
+  .market-name .flag { font-size: 1rem; line-height: 1; }
+  .market-name .status-dot { width:6px;height:6px;border-radius:50%;flex-shrink:0; }
+  .market-name .status-dot.open { background:var(--green-market);box-shadow:0 0 6px rgba(46,204,113,.5); }
+  .market-name .status-dot.closed { background:var(--text-dim); }
+
+  .bar-track { flex: 1; height: 26px; position: relative; border-radius: 4px; z-index: 1; }
+  .bar-segment { position:absolute;top:2px;height:22px;border-radius:4px;opacity:.85;transition:opacity .2s;cursor:default; }
+  .bar-segment:hover { opacity: 1; z-index: 2; }
+  .bar-segment .tooltip {
+    display:none;position:absolute;bottom:100%;left:50%;transform:translateX(-50%);
+    background:var(--tooltip-bg);color:#fff;padding:4px 10px;border-radius:6px;
+    font-size:.72rem;white-space:nowrap;margin-bottom:4px;
+    font-family:'JetBrains Mono',monospace;border:1px solid var(--gold-dark);z-index:10;
+  }
+  .bar-segment:hover .tooltip { display: block; }
+  .bar-segment.active-now { animation: barGlow 2s ease-in-out infinite; }
+  @keyframes barGlow { 0%,100%{box-shadow:0 0 4px rgba(255,215,0,.2)} 50%{box-shadow:0 0 12px rgba(255,215,0,.5)} }
+
+  /* Grid lines through market rows */
+  .grid-line-v {
+    position: absolute; top: 0; bottom: 0; width: 1px;
+    background: var(--tick-color); pointer-events: none; z-index: 0;
+  }
+
+  /* Now line */
+  .now-line { position:absolute;top:0;bottom:0;width:2px;background:var(--red-market);z-index:5;pointer-events:none; }
+  .now-line::before { content:'▼';position:absolute;top:-14px;left:50%;transform:translateX(-50%);font-size:9px;color:var(--red-market); }
+  .now-line::after { content:'现在';position:absolute;bottom:-16px;left:50%;transform:translateX(-50%);font-size:.6rem;color:var(--red-market);font-weight:500;white-space:nowrap; }
+
+  /* Colors */
+  .color-sydney{background:linear-gradient(90deg,#1abc9c,#16a085)}
+  .color-tokyo{background:linear-gradient(90deg,#e74c3c,#c0392b)}
+  .color-shanghai{background:linear-gradient(90deg,#e67e22,#d35400)}
+  .color-hongkong{background:linear-gradient(90deg,#f39c12,#e67e22)}
+  .color-singapore{background:linear-gradient(90deg,#9b59b6,#8e44ad)}
+  .color-zurich{background:linear-gradient(90deg,#2ecc71,#27ae60)}
+  .color-london{background:linear-gradient(90deg,#3498db,#2980b9)}
+  .color-newyork{background:linear-gradient(90deg,#e74c3c,#9b59b6)}
+
+  /* Cards */
+  .cards-grid { display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;margin-bottom:32px; }
+  .market-card {
+    background:var(--bg-card);border:1px solid var(--border-subtle);
+    border-radius:12px;padding:18px;transition:all .3s;position:relative;overflow:hidden;
+  }
+  .market-card::before { content:'';position:absolute;top:0;left:0;right:0;height:3px;opacity:.7; }
+  .market-card:hover { background:var(--bg-card-hover);border-color:rgba(255,215,0,.15);transform:translateY(-2px); }
+  .market-card.is-open { border-color:var(--card-open-border); }
+  .market-card.is-open::after { content:'';position:absolute;inset:0;background:radial-gradient(ellipse at top,var(--card-open-glow),transparent 70%);pointer-events:none; }
+
+  .card-header { display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px; }
+  .card-market-name { font-size:.95rem;font-weight:700;display:flex;align-items:center;gap:8px; }
+  .card-market-name .flag { font-size: 1.3rem; }
+  .card-status-badge { font-size:.65rem;padding:2px 8px;border-radius:20px;font-weight:500;letter-spacing:1px; }
+  .card-status-badge.open { background:var(--badge-open-bg);color:var(--green-market);border:1px solid var(--badge-open-border); }
+  .card-status-badge.closed { background:var(--badge-closed-bg);color:var(--text-dim);border:1px solid var(--badge-closed-border); }
+  .card-exchange { font-size:.72rem;color:var(--text-secondary);margin-bottom:10px; }
+  .card-session {
+    display:flex;justify-content:space-between;align-items:center;
+    font-family:'JetBrains Mono',monospace;font-size:.75rem;
+    padding:4px 8px;border-radius:6px;background:var(--session-bg);margin-bottom:4px;
+  }
+  .card-session .session-label { color:var(--text-secondary);font-family:'Noto Sans SC',sans-serif;font-size:.7rem; }
+  .card-session .session-time { color:var(--text-primary); }
+  .card-session.is-active { background:var(--session-active-bg);border:1px solid var(--session-active-border); }
+  .card-session.is-active .session-time { color:var(--gold-bright); }
+  .card-next-info { margin-top:8px;font-size:.7rem;color:var(--text-dim);font-style:italic; }
+
+  .legend { display:flex;gap:16px;flex-wrap:wrap;justify-content:center;margin-top:10px;padding-top:12px;border-top:1px solid var(--row-border); }
+  .legend-item { display:flex;align-items:center;gap:6px;font-size:.7rem;color:var(--text-secondary); }
+  .legend-dot { width:10px;height:10px;border-radius:3px; }
+
+  .footer-note { text-align:center;margin-top:28px;font-size:.7rem;color:var(--text-dim);line-height:1.7; }
+
+  /* ===== Price Conversion Section ===== */
+  .conv-section { margin-bottom: 32px; }
+
+  .conv-header {
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 10px; margin-bottom: 14px;
+  }
+
+  .conv-rate-info {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    font-size: .75rem; color: var(--text-secondary);
+  }
+  .conv-rate-info .rate-val {
+    font-family: 'JetBrains Mono', monospace;
+    color: var(--gold-bright); font-weight: 500; font-size: .85rem;
+  }
+  .conv-rate-info .rate-time { color: var(--text-dim); font-size: .68rem; }
+  .conv-rate-info .rate-status {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: .65rem; padding: 2px 8px; border-radius: 12px;
+    background: var(--badge-open-bg); color: var(--green-market);
+    border: 1px solid var(--badge-open-border);
+  }
+  .conv-rate-info .rate-status.error {
+    background: rgba(231,76,60,.1); color: var(--red-market);
+    border-color: rgba(231,76,60,.25);
+  }
+
+  .conv-note {
+    font-size: .65rem; color: var(--text-dim);
+    text-align: right; font-style: italic;
+  }
+
+  .conv-grid-wrapper {
+    background: var(--bg-card); border: 1px solid var(--border-subtle);
+    border-radius: 14px; padding: 20px; overflow-x: auto; transition: background .4s;
+  }
+
+  .conv-table {
+    width: auto; margin: 0 auto; border-collapse: separate; border-spacing: 0;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .conv-table thead th {
+    font-size: .68rem; color: var(--text-dim); font-weight: 500;
+    letter-spacing: 2px;
+    padding: 8px 16px; text-align: center;
+    border-bottom: 1px solid var(--tick-strong);
+    font-family: 'Noto Sans SC', sans-serif;
+    position: sticky; top: 0; background: var(--bg-card);
+  }
+
+  .conv-table tbody tr { transition: background .2s; }
+  .conv-table tbody tr:hover { background: var(--session-active-bg); }
+
+  .conv-table tbody td {
+    padding: 8px 16px; font-size: .85rem;
+    border-bottom: 1px solid var(--row-border);
+    text-align: center; color: var(--text-primary);
+    white-space: nowrap;
+  }
+  .conv-table tbody td:first-child {
+    font-weight: 500;
+    color: var(--gold-bright);
+    text-align: right; padding-right: 12px;
+  }
+  .conv-table tbody td.arrow-cell {
+    padding: 8px 4px; color: var(--text-dim); font-size: .75rem;
+  }
+  .conv-table tbody td:last-child {
+    text-align: left; padding-left: 12px;
+  }
+
+  .conv-table .cny-gram {
+    font-weight: 700; font-size: .9rem;
+    color: var(--text-primary);
+  }
+
+  .conv-table tbody tr.highlight-row {
+    background: var(--session-active-bg);
+  }
+  .conv-table tbody tr.highlight-row td:first-child {
+    position: relative;
+  }
+  .conv-table tbody tr.highlight-row td:first-child::before {
+    content: ''; position: absolute; left: 4px; top: 20%; bottom: 20%;
+    width: 3px; border-radius: 2px;
+    background: var(--gold-bright);
+  }
+
+  .conv-loading {
+    text-align: center; padding: 40px; color: var(--text-dim); font-size: .85rem;
+  }
+  .conv-loading .spinner {
+    display: inline-block; width: 18px; height: 18px;
+    border: 2px solid var(--tick-color); border-top-color: var(--gold-bright);
+    border-radius: 50%; animation: spin .8s linear infinite;
+    vertical-align: middle; margin-right: 8px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .refresh-btn {
+    background: none; border: 1px solid var(--border-subtle);
+    color: var(--text-secondary); font-size: .68rem;
+    padding: 3px 10px; border-radius: 16px; cursor: pointer;
+    transition: all .2s; font-family: 'Noto Sans SC', sans-serif;
+  }
+  .refresh-btn:hover { border-color: var(--gold-dark); color: var(--gold-bright); }
+
+  @media (max-width:600px) {
+    .header h1{font-size:1.5rem} .clock-time{font-size:1.5rem}
+    .market-name,.ruler-spacer,.ruler-border-spacer{width:80px;min-width:80px;font-size:.7rem}
+    .market-name .flag{font-size:.85rem} .cards-grid{grid-template-columns:1fr}
+    .theme-toggle{top:10px;right:10px;padding:5px 10px} .theme-toggle .lbl{display:none}
+  }
+</style>
+</head>
+<body>
+
+<div class="theme-toggle" onclick="toggleTheme()">
+  <span class="icon" id="themeIcon">🌙</span>
+  <span class="lbl" id="themeLbl">深色</span>
+</div>
+
+<div class="container">
+  <div class="header">
+    <div class="header-icon">🥇</div>
+    <h1>GLOBAL GOLD MARKETS</h1>
+    <div class="subtitle">全球主要黄金交易时间 · 北京时间</div>
+  </div>
+
+  <div class="clock-bar">
+    <div>
+      <div class="clock-label">北京时间 (UTC+8)</div>
+      <div class="clock-time" id="liveClock">--:--:--</div>
+    </div>
+    <div class="active-count">
+      <span class="live-dot"></span>当前开盘：<strong id="activeCount">0</strong> 个市场
+    </div>
+  </div>
+
+  <div class="timeline-section">
+    <div class="section-title">◆ 24小时交易时间轴</div>
+    <div class="timeline-wrapper">
+      <div class="timeline-canvas" id="timelineCanvas"></div>
+    </div>
+  </div>
+
+  <div class="section-title">◆ 各市场详情</div>
+  <div class="cards-grid" id="cardsGrid"></div>
+
+  <div class="conv-section">
+    <div class="conv-header">
+      <div class="section-title" style="margin-bottom:0">◆ 国际金价 → 人民币换算</div>
+      <div class="conv-rate-info">
+        <span>USD/CNY：<span class="rate-val" id="rateVal">--</span></span>
+        <span class="rate-status" id="rateStatus"><span class="spinner" style="width:10px;height:10px;border-width:1.5px;margin-right:4px"></span>获取中</span>
+        <button class="refresh-btn" onclick="customRateActive=false;fetchRate(false)">↻ 刷新汇率</button>
+        <span style="color:var(--text-dim);font-size:.65rem">|</span>
+        <span style="font-size:.68rem;color:var(--text-dim)">自定义：</span>
+        <input type="number" id="customRate" step="0.01" min="5" max="10" placeholder="如 6.90"
+          style="width:70px;background:var(--session-bg);border:1px solid var(--border-subtle);
+          color:var(--text-primary);padding:2px 6px;border-radius:8px;font-size:.75rem;
+          font-family:'JetBrains Mono',monospace;outline:none;"
+          onchange="applyCustomRate()" onkeydown="if(event.key==='Enter')applyCustomRate()">
+        <button class="refresh-btn" onclick="applyCustomRate()">应用</button>
+      </div>
+    </div>
+    <div class="conv-note">公式：人民币/克 = (美元/盎司 × 汇率) ÷ 31.1035 &nbsp;|&nbsp; 优先从国家外汇管理局获取当日中间价（每工作日更新一次）</div>
+    <div class="conv-grid-wrapper">
+      <div id="convTableContainer"></div>
+    </div>
+  </div>
+
+  <div class="footer-note">
+    数据基于各交易所公布的常规交易时间（北京时间 UTC+8）<br>
+    实际交易时间可能因节假日、夏令时调整而变化 · 页面每秒自动刷新
+  </div>
+</div>
+
+<script>
+function toggleTheme() {
+  const h = document.documentElement;
+  const dark = h.getAttribute('data-theme') === 'dark';
+  h.setAttribute('data-theme', dark ? 'light' : 'dark');
+  document.getElementById('themeIcon').textContent = dark ? '🌙' : '☀️';
+  document.getElementById('themeLbl').textContent = dark ? '深色' : '浅色';
+}
+
+const MARKETS = [
+  {id:'sydney',name:'悉尼',flag:'🇦🇺',exchange:'ASX · 澳大利亚证券交易所',color:'color-sydney',sessions:[{label:'交易时段',start:6,end:14}]},
+  {id:'tokyo',name:'东京',flag:'🇯🇵',exchange:'TOCOM · 东京商品交易所',color:'color-tokyo',sessions:[{label:'日盘',start:8,end:14},{label:'夜盘',start:16.5,end:22}]},
+  {id:'shanghai',name:'上海',flag:'🇨🇳',exchange:'SGE/SHFE · 上海金交所/期货交易所',color:'color-shanghai',sessions:[{label:'早盘',start:9,end:11.5},{label:'午盘',start:13.5,end:15.5},{label:'夜盘',start:21,end:26.5}]},
+  {id:'hongkong',name:'香港',flag:'🇭🇰',exchange:'CGSE · 金银业贸易场',color:'color-hongkong',sessions:[{label:'上午',start:9,end:12.5},{label:'下午',start:13.5,end:17}]},
+  {id:'singapore',name:'新加坡',flag:'🇸🇬',exchange:'SGX · 新加坡交易所',color:'color-singapore',sessions:[{label:'交易时段',start:8.25,end:18.25}]},
+  {id:'zurich',name:'苏黎世',flag:'🇨🇭',exchange:'ZGE · 苏黎世黄金市场',color:'color-zurich',sessions:[{label:'交易时段',start:15,end:23}]},
+  {id:'london',name:'伦敦',flag:'🇬🇧',exchange:'LBMA · 伦敦金银市场协会',color:'color-london',sessions:[{label:'交易时段',start:16,end:24.5}]},
+  {id:'newyork',name:'纽约',flag:'🇺🇸',exchange:'COMEX · 纽约商品交易所',color:'color-newyork',sessions:[{label:'电子盘',start:6,end:5.25,is24:true},{label:'主力盘',start:21.5,end:26.25}]}
+];
+
+function getNowHours() {
+  const now = new Date();
+  const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+  const bj = new Date(utc + 8 * 3600000);
+  return {
+    hours: bj.getHours() + bj.getMinutes()/60 + bj.getSeconds()/3600,
+    timeStr: bj.toLocaleTimeString('zh-CN',{hour12:false,hour:'2-digit',minute:'2-digit',second:'2-digit'})
+  };
+}
+
+function isInSession(s, h) {
+  if (s.is24) return true;
+  if (s.end > 24) return h >= s.start || h < (s.end - 24);
+  return h >= s.start && h < s.end;
+}
+function isOpen(m, h) { return m.sessions.some(s => isInSession(s, h)); }
+function fmt(h) { const w=((h%24)+24)%24; return `${String(Math.floor(w)).padStart(2,'0')}:${String(Math.round((w-Math.floor(w))*60)).padStart(2,'0')}`; }
+
+function buildTimeline() {
+  const C = document.getElementById('timelineCanvas');
+  C.innerHTML = '';
+
+  // === Ruler row ===
+  const rr = document.createElement('div');
+  rr.className = 'ruler-row';
+  const sp = document.createElement('div');
+  sp.className = 'ruler-spacer';
+  rr.appendChild(sp);
+  const rt = document.createElement('div');
+  rt.className = 'ruler-track';
+
+  // Major ticks at each hour boundary 0-24
+  const majors = [0, 3, 6, 9, 12, 15, 18, 21];
+  for (let i = 0; i <= 24; i++) {
+    const pct = i / 24 * 100;
+    const tick = document.createElement('div');
+    tick.className = 'ruler-tick' + (majors.includes(i) ? ' major' : '');
+    tick.style.left = pct + '%';
+    const line = document.createElement('div');
+    line.className = 't-line';
+    tick.appendChild(line);
+    if (i < 24) {
+      const num = document.createElement('div');
+      num.className = 't-num';
+      num.textContent = String(i).padStart(2, '0');
+      tick.appendChild(num);
+    }
+    rt.appendChild(tick);
+  }
+  // Sub-ticks at half hours
+  for (let i = 0; i < 24; i++) {
+    const sub = document.createElement('div');
+    sub.className = 'ruler-subtick';
+    sub.style.left = ((i + 0.5) / 24 * 100) + '%';
+    rt.appendChild(sub);
+  }
+  rr.appendChild(rt);
+  C.appendChild(rr);
+
+  // === Ruler bottom border ===
+  const rb = document.createElement('div');
+  rb.className = 'ruler-border';
+  const rbs = document.createElement('div');
+  rbs.className = 'ruler-border-spacer';
+  rb.appendChild(rbs);
+  const rbl = document.createElement('div');
+  rbl.className = 'ruler-border-line';
+  rb.appendChild(rbl);
+  C.appendChild(rb);
+
+  // === Market rows ===
+  const rc = document.createElement('div');
+  rc.className = 'rows-container';
+  rc.id = 'rowsContainer';
+
+  MARKETS.forEach(m => {
+    const row = document.createElement('div');
+    row.className = 'market-row';
+    const nm = document.createElement('div');
+    nm.className = 'market-name';
+    const dot = document.createElement('span');
+    dot.className = 'status-dot'; dot.dataset.market = m.id;
+    const fl = document.createElement('span');
+    fl.className = 'flag'; fl.textContent = m.flag;
+    nm.appendChild(dot); nm.appendChild(fl);
+    nm.appendChild(document.createTextNode(m.name));
+    row.appendChild(nm);
+
+    const track = document.createElement('div');
+    track.className = 'bar-track';
+
+    m.sessions.forEach(sess => {
+      if (sess.is24) {
+        const seg = document.createElement('div');
+        seg.className = `bar-segment ${m.color}`;
+        seg.style.cssText = 'left:0%;width:100%;opacity:0.35';
+        seg.innerHTML = `<div class="tooltip">${m.name} ${sess.label}: 几乎24小时</div>`;
+        seg.dataset.market = m.id; seg.dataset.session = sess.label;
+        track.appendChild(seg); return;
+      }
+      let s = sess.start, e = sess.end;
+      if (e > 24) {
+        [[ s, 24 ], [ 0, e-24 ]].forEach(([a,b]) => {
+          const seg = document.createElement('div');
+          seg.className = `bar-segment ${m.color}`;
+          seg.dataset.market = m.id; seg.dataset.session = sess.label;
+          seg.style.left = (a/24*100)+'%'; seg.style.width = ((b-a)/24*100)+'%';
+          seg.innerHTML = `<div class="tooltip">${m.name} ${sess.label}: ${fmt(s)}-${fmt(e)} (跨日)</div>`;
+          track.appendChild(seg);
+        });
+      } else {
+        const seg = document.createElement('div');
+        seg.className = `bar-segment ${m.color}`;
+        seg.dataset.market = m.id; seg.dataset.session = sess.label;
+        seg.style.left = (s/24*100)+'%'; seg.style.width = ((e-s)/24*100)+'%';
+        seg.innerHTML = `<div class="tooltip">${m.name} ${sess.label}: ${fmt(s)}-${fmt(e)}</div>`;
+        track.appendChild(seg);
+      }
+    });
+    row.appendChild(track);
+    rc.appendChild(row);
+  });
+
+  // Now line
+  const nl = document.createElement('div');
+  nl.className = 'now-line'; nl.id = 'nowLine';
+  rc.appendChild(nl);
+
+  C.appendChild(rc);
+
+  // Grid lines
+  buildGrid();
+
+  // Legend
+  const leg = document.createElement('div');
+  leg.className = 'legend';
+  MARKETS.forEach(m => {
+    const it = document.createElement('div');
+    it.className = 'legend-item';
+    const d = document.createElement('div');
+    d.className = `legend-dot ${m.color}`;
+    it.appendChild(d);
+    it.appendChild(document.createTextNode(`${m.flag} ${m.name}`));
+    leg.appendChild(it);
+  });
+  C.appendChild(leg);
+}
+
+function buildGrid() {
+  // Remove old grid lines
+  document.querySelectorAll('.grid-line-v').forEach(el => el.remove());
+  const rc = document.getElementById('rowsContainer');
+  const nm = document.querySelector('.market-name');
+  if (!rc || !nm) return;
+  const nw = nm.offsetWidth, tw = rc.offsetWidth - nw;
+  for (let i = 0; i <= 24; i += 6) {
+    const gl = document.createElement('div');
+    gl.className = 'grid-line-v';
+    gl.style.left = (nw + (i/24)*tw) + 'px';
+    rc.appendChild(gl);
+  }
+}
+
+function buildCards() {
+  const grid = document.getElementById('cardsGrid');
+  grid.innerHTML = '';
+  const gm = {
+    'color-sydney':'linear-gradient(90deg,#1abc9c,#16a085)','color-tokyo':'linear-gradient(90deg,#e74c3c,#c0392b)',
+    'color-shanghai':'linear-gradient(90deg,#e67e22,#d35400)','color-hongkong':'linear-gradient(90deg,#f39c12,#e67e22)',
+    'color-singapore':'linear-gradient(90deg,#9b59b6,#8e44ad)','color-zurich':'linear-gradient(90deg,#2ecc71,#27ae60)',
+    'color-london':'linear-gradient(90deg,#3498db,#2980b9)','color-newyork':'linear-gradient(90deg,#e74c3c,#9b59b6)',
+  };
+  MARKETS.forEach(m => {
+    const c = document.createElement('div');
+    c.className = 'market-card'; c.id = `card-${m.id}`;
+    c.innerHTML = `
+      <style>.market-card#card-${m.id}::before{background:${gm[m.color]}}</style>
+      <div class="card-header">
+        <div class="card-market-name"><span class="flag">${m.flag}</span>${m.name}</div>
+        <span class="card-status-badge" data-card-status="${m.id}">--</span>
+      </div>
+      <div class="card-exchange">${m.exchange}</div>
+      <div class="card-sessions" id="sessions-${m.id}"></div>
+      <div class="card-next-info" id="next-${m.id}"></div>`;
+    grid.appendChild(c);
+  });
+}
+
+function update() {
+  const {hours:nowH, timeStr} = getNowHours();
+  document.getElementById('liveClock').textContent = timeStr;
+  let ac = 0;
+
+  const nm = document.querySelector('.market-name');
+  const nl = document.getElementById('nowLine');
+  if (nl && nm) {
+    const rc = document.getElementById('rowsContainer');
+    const nw = nm.offsetWidth, tw = rc.offsetWidth - nw;
+    nl.style.left = (nw + (nowH/24)*tw) + 'px';
+  }
+
+  document.querySelectorAll('.bar-segment').forEach(s => s.classList.remove('active-now'));
+
+  MARKETS.forEach(m => {
+    const op = isOpen(m, nowH);
+    if (op) ac++;
+    document.querySelectorAll(`.status-dot[data-market="${m.id}"]`).forEach(d => d.className = `status-dot ${op?'open':'closed'}`);
+    if (op) {
+      document.querySelectorAll(`.bar-segment[data-market="${m.id}"]`).forEach(seg => {
+        const ss = m.sessions.find(s => s.label === seg.dataset.session);
+        if (ss && isInSession(ss, nowH)) seg.classList.add('active-now');
+      });
+    }
+    const card = document.getElementById(`card-${m.id}`);
+    if (card) card.classList.toggle('is-open', op);
+    const badge = document.querySelector(`[data-card-status="${m.id}"]`);
+    if (badge) { badge.className = `card-status-badge ${op?'open':'closed'}`; badge.textContent = op?'交易中':'已休市'; }
+
+    const sc = document.getElementById(`sessions-${m.id}`);
+    if (sc) {
+      sc.innerHTML = m.sessions.filter(s=>!s.is24).map(s => {
+        const a = isInSession(s, nowH);
+        const ed = s.end>24 ? fmt(s.end)+'⁺¹' : fmt(s.end);
+        return `<div class="card-session ${a?'is-active':''}"><span class="session-label">${s.label} ${a?'●':''}</span><span class="session-time">${fmt(s.start)} - ${ed}</span></div>`;
+      }).join('');
+      if (m.sessions.some(s=>s.is24))
+        sc.innerHTML += `<div class="card-session is-active"><span class="session-label">电子盘 ●</span><span class="session-time">≈ 24小时</span></div>`;
+    }
+
+    const ne = document.getElementById(`next-${m.id}`);
+    if (ne) {
+      if (!op) {
+        const ns = m.sessions.filter(s=>!s.is24).find(s=>s.start>nowH);
+        if (ns) { const d=ns.start-nowH,hh=Math.floor(d),mm=Math.round((d-hh)*60); ne.textContent=`距开盘约 ${hh>0?hh+'时':''}${mm}分`; }
+        else ne.textContent='明日开盘';
+      } else ne.textContent='';
+    }
+  });
+  document.getElementById('activeCount').textContent = ac;
+}
+
+buildTimeline();
+buildCards();
+update();
+setInterval(update, 1000);
+window.addEventListener('resize', () => { buildGrid(); update(); });
+
+// ===== Price Conversion =====
+const TROY_OZ_GRAMS = 31.1035;
+const PRICES_USD = [];
+for (let p = 5400; p >= 3800; p -= 100) PRICES_USD.push(p);
+
+// 立即使用外管局中间价渲染表格，不等待网络
+let currentRate = 6.9041; // 国家外汇管理局 2026-03-23 中间价
+let rateTimestamp = null;
+let customRateActive = false;
+let rateSource = '外管局中间价';
+
+// 立即渲染，零等待
+document.getElementById('rateVal').textContent = currentRate.toFixed(4);
+document.getElementById('rateStatus').textContent = '◎ 默认中间价';
+document.getElementById('rateStatus').className = 'rate-status';
+
+function applyCustomRate() {
+  const input = document.getElementById('customRate');
+  const val = parseFloat(input.value);
+  if (!val || val < 5 || val > 10) { input.style.borderColor = 'var(--red-market)'; return; }
+  input.style.borderColor = 'var(--border-subtle)';
+  currentRate = val;
+  customRateActive = true;
+  rateTimestamp = new Date();
+  rateSource = '手动输入';
+  document.getElementById('rateVal').textContent = val.toFixed(4);
+  const statusEl = document.getElementById('rateStatus');
+  statusEl.className = 'rate-status';
+  statusEl.textContent = '✎ 手动';
+  statusEl.style.background = 'rgba(52,152,219,.1)';
+  statusEl.style.color = '#3498db';
+  statusEl.style.borderColor = 'rgba(52,152,219,.25)';
+  renderConvTable();
+}
+
+async function fetchRate(silent = false) {
+  const statusEl = document.getElementById('rateStatus');
+  const rateEl = document.getElementById('rateVal');
+  if (customRateActive) return;
+
+  if (!silent) {
+    statusEl.className = 'rate-status';
+    statusEl.innerHTML = '<span class="spinner" style="width:10px;height:10px;border-width:1.5px;margin-right:4px"></span>获取中';
+  }
+
+  // === 1. 优先：国家外汇管理局中间价（通过 CORS 代理） ===
+  const safeUrl = 'https://www.safe.gov.cn/AppStructured/hlw/RMBQuery.do';
+  const proxies = [
+    url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+    url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+    url => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
+  ];
+
+  for (const makeProxy of proxies) {
+    try {
+      const res = await fetch(makeProxy(safeUrl), { signal: AbortSignal.timeout(8000) });
+      if (!res.ok) continue;
+      const html = await res.text();
+      // 从HTML表格中提取最新一行的美元汇率 (格式如 690.41)
+      // 尝试多种匹配模式，兼容不同HTML格式
+      let raw = null, dateStr = null;
+      const patterns = [
+        // <td>2026-03-23</td> <td>690.41</td>
+        />(20\d{2}-\d{2}-\d{2})<\/td>\s*<td[^>]*>\s*([\d.]+)\s*<\/td>/,
+        // 有时有换行或空格
+        />(20\d{2}-\d{2}-\d{2})<\/td>[^<]*<td[^>]*>([\d.]+)/,
+        // 更宽松
+        /(20\d{2}-\d{2}-\d{2})[\s\S]{0,50}?(\d{3}\.\d{1,4})/,
+      ];
+      for (const pat of patterns) {
+        const m = html.match(pat);
+        if (m) { dateStr = m[1]; raw = parseFloat(m[2]); break; }
+      }
+      if (raw) {
+        // 外管局格式：690.41 表示 100美元=690.41人民币，即 1美元=6.9041
+        const rate = raw > 100 ? raw / 100 : raw;
+        if (rate > 5 && rate < 10) {
+          const changed = Math.abs(rate - currentRate) > 0.0001;
+          currentRate = rate;
+          rateTimestamp = new Date();
+          rateSource = `国家外汇管理局 ${dateStr || ''}`;
+          rateEl.textContent = rate.toFixed(4);
+          statusEl.className = 'rate-status';
+          statusEl.innerHTML = `✓ 外管局中间价${dateStr ? ' (' + dateStr + ')' : ''}`;
+          if (changed) renderConvTable();
+          return;
+        }
+      }
+    } catch (e) { continue; }
+  }
+
+  // === 2. 备选：免费汇率 JSON API ===
+  const apis = [
+    { name: 'er-api',       url: 'https://open.er-api.com/v6/latest/USD',       parse: d => d.rates?.CNY },
+    { name: 'exchangerate',  url: 'https://api.exchangerate-api.com/v4/latest/USD', parse: d => d.rates?.CNY },
+    { name: 'currency-api',  url: 'https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json', parse: d => d.usd?.cny },
+    { name: 'currency-cf',   url: 'https://latest.currency-api.pages.dev/v1/currencies/usd.json', parse: d => d.usd?.cny },
+    { name: 'floatrates',    url: 'https://www.floatrates.com/daily/usd.json', parse: d => d.cny?.rate },
+  ];
+
+  for (const api of apis) {
+    try {
+      const res = await fetch(api.url, { signal: AbortSignal.timeout(6000) });
+      if (!res.ok) continue;
+      const data = await res.json();
+      const rate = api.parse(data);
+      if (rate && rate > 5 && rate < 10) {
+        const changed = Math.abs(rate - currentRate) > 0.0001;
+        currentRate = rate;
+        rateTimestamp = new Date();
+        rateSource = api.name;
+        rateEl.textContent = rate.toFixed(4);
+        statusEl.className = 'rate-status';
+        statusEl.textContent = '✓ 实时';
+        if (changed) renderConvTable();
+        return;
+      }
+    } catch (e) { continue; }
+  }
+
+  // === 3. 全部失败：保留当前汇率不变 ===
+  if (!silent) {
+    statusEl.className = 'rate-status error';
+    statusEl.textContent = '⚠ 更新失败，使用当前值';
+  }
+}
+
+function renderConvTable() {
+  if (!currentRate) return;
+  const container = document.getElementById('convTableContainer');
+  const rate = currentRate;
+
+  let html = `<table class="conv-table">
+    <thead><tr>
+      <th>美元/盎司</th>
+      <th></th>
+      <th>≈ 人民币/克</th>
+    </tr></thead><tbody>`;
+
+  PRICES_USD.forEach(usd => {
+    const cnyGram = (usd * rate) / TROY_OZ_GRAMS;
+    const hl = usd % 500 === 0 ? ' class="highlight-row"' : '';
+    html += `<tr${hl}>
+      <td>$${usd.toLocaleString()}</td>
+      <td class="arrow-cell">→</td>
+      <td class="cny-gram">¥${cnyGram.toFixed(2)}</td>
+    </tr>`;
+  });
+
+  html += '</tbody></table>';
+
+  const tsInfo = rateTimestamp
+    ? `汇率更新于 ${rateTimestamp.toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'})} · ${rateSource}`
+    : `默认汇率 ${currentRate.toFixed(4)}（外管局中间价），后台自动更新中`;
+  html += `<div style="text-align:right;font-size:.62rem;color:var(--text-dim);margin-top:8px;padding-right:4px;">${tsInfo}</div>`;
+
+  container.innerHTML = html;
+}
+
+// 立即渲染表格（零等待），后台静默刷新汇率
+renderConvTable();
+fetchRate(true); // silent=true, 不显示加载动画
+setInterval(() => fetchRate(true), 4 * 60 * 60 * 1000);
+</script>
+</body>
+</html>
