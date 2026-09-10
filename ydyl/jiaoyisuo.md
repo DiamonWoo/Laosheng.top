@@ -94,7 +94,7 @@ Gold Market
 
 　　〖请注意交易时间〗，Github网友制作了一份很直观的[全球黄金交易时间表](https://mister-ryder.github.io/gold-markets-time/gold.html)，并且提供了单位换算。
 
-　　比如，某日伦敦金报价：4600美元/盎司，约等于 147.9美元/克，若按美元兑人民币6.72计，约等于 994元/克；若按汇率6.5计，约等于961元/克。可简化为：
+　　比如，某日伦敦金报价：4600美元/盎司，约等于 147.9美元/克，按美元兑人民币6.72计，约等于 994元/克；若按汇率6.5计，约等于961元/克。可简化为：
 
 	每盎司美元报价 ÷ 4.63 ≈ 人民币每克金价。（31.1/6.72=4.628）
 
@@ -106,12 +106,10 @@ Gold Market
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
 *	[世界黄金协会](https://china.gold.org/goldhub/data/gold-prices)📍提供多币种多计量单位的黄金价格。该会总部在伦敦，在上海、北京有[办事处](https://china.gold.org/our-offices)。
 
-　　有多家银行提供24小时积存金交易。Github
-https://mister-ryder.github.io/gold-markets-time/gold.html
-向访客公布黄金实时报价的银行有：  
+　　有多家银行提供24小时积存金交易。向访客公布黄金实时报价的银行有：  
 　　[工商银行](https://www.icbc.com.cn/column/1438058327061184578.html)%、
 	[农业银行](https://ewealth.abchina.com/Gold/)、
-	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml)、
+	[建设银行](http://gold2.ccb.com/chn/home/gold_new/cpjs/index.shtml) / [2](https://gold.ccb.com/chn/home/gold_new/hqzs/index.shtml?)、
 	[交通银行](https://www.bankcomm.com/BankCommSite/shtml/jyjr/cn/7158/7165/7178/list.shtml?channelId=7158) / [小屏](https://m.bankcomm.com/wap/shtml/wap/cn/15539/15678/15679/list.shtml?channelId=15539)、
 	招商银行[小屏版](https://m.cmbchina.com/goldrate.html)、
 	[恒生银行](https://www.hangSeng.com/zh-cn/personal/rates/)……  
