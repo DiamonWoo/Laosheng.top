@@ -1,6 +1,6 @@
 中国法律简目 <sup>2026</sup>📋️ <sub>行政法规清单</sub>
 ==============
-大萌　© 202604-08	<base target="_blank" rel="noreferrer">
+大萌　© 202604-09	<base target="_blank" rel="noreferrer">
 <link rel="canonical" href="https://Laosheng.top/falv/jianmu" />
 
 		熟读唐诗三百首，不会作诗也会吟。——《唐诗三百首》序，(清)孙洙
@@ -38,7 +38,7 @@
 
 ### 最新公布
 
-*	2026-09-11 李强签署[国务院令](https://www.gov.cn/yaowen/liebiao/202609/content_7080742.htm)公布《市场监督管理所条例》。（本页待吸收）
+*	2026-09-　 李强签署[国务院令](https://www.gov.cn/yaowen/liebiao/202609/content_7080742.htm)公布《市场监督管理所条例》和修订后的《[电力安全事故](https://www.gov.cn/zhengce/content/202609/content_7080188.htm)应急处置和调查处理条例》。（本页待吸收）
 *	2026-08-28 [常委会](http://www.npc.gov.cn/npc/c2/c183/)修订：律师法、农业法、国防动员法；通过新法：医疗保障法、耕地保护和质量提升法。（本页待吸收）
 *	2026-08-08 国务院[第843号令](https://www.gov.cn/gongbao/2026/issue_12946/202608/content_7079364.html)根据《生态环境法典》废止3部法规、修改12部法规条款。（本页待吸收）
 *	2026-06-30 [国务院公布](https://www.gov.cn/zhengce/content/202606/content_7073788.htm)《退役军人就业创业促进条例》。
