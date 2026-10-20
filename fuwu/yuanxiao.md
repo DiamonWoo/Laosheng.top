@@ -71,7 +71,7 @@
 <del>[2025招生计划](https://www.gk100.com/read_813045.htm)/军网[原文](http://www.81.mil.cn/jx_208569/16390866.html)、[2024招生计划](http://www.81.cn/jx_208569/16315658.html)，[2023年计划](http://www.81.cn/jx_208569/16229889.html)</del>。
 
 　　多数军校有多个校区在不同省份，本段只收录校本部所在地，故军事院校不列入下方‘各省普通高校’段落。只有少数军校开设公开网站。
-　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
+　全军有正军级(及以上)院校21所，**校名**标记为粗体；其余大学/学院为副军级，士官学校(军士学院)为师级。各军种院校计：陆军9所、海军8所、空军10所、火箭军3所、武警部队7所。
 
 <sup>中央军委</sup>❗	**国防大学**	<sub>北京市</sub>⠀<small>副战区级，含原军艺。</small><img src="pic/junqi-50.png" />  
 <sup>中央军委</sup>❗	[**国防科技大学**](https://www.nudt.edu.cn)	⭐✊<sub>长沙市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/HUqfqNJFU0MYA6U6jLflaA">2026招生</a>wx，原哈军工+长沙炮兵/工程兵/政治学院，有[微博](https://weibo.com/7127745503)</small>  
@@ -123,8 +123,8 @@
 	<td>	空军勤务学院	<sub>徐州市</sub>⠀<small></small></td>
 </tr><tr>
 	<td align="right"><small>手机用户请左右滑动表格</small></td>
-	<td>	海军士官学校 <sub>蚌埠市</sub>⠀<small></small></td>
-	<td>	空军通信士官学校	<sub>大连市</sub>⠀<small></small></td>
+	<td>	海军军士学院 <sub>蚌埠市</sub>⠀<small>士官学校2026改名</small></td>
+	<td>	空军通信军士学院	<sub>大连市</sub>⠀<small>士官学校2026改名</small></td>
 </tr>
 </table>
 
@@ -137,7 +137,7 @@
 	<td>	<a title="招生网" href="https://www.epgc.mil.cn/"><b>火箭军工程大学</b></a>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/ZcwOLpwnr2JzVCucc76vOg">2026</a>，有<a title="火大青春" href="https://weibo.com/6977918761">微博</a></small></td>
 	<td>	<b>武警工程大学</b>	⭐<sub>西安市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/U26mxwtXaEhWY4ECiE3AXA">2026招生</a>wx</small></td>
 </tr><tr>
-	<td>	火箭军士官学校	<sub>潍坊市</sub>⠀<small></small></td>
+	<td>	火箭军军士学院	<sub>潍坊市</sub>⠀<small>士官学校2026改名</small></td>
 	<td>	武警警官学院	⭐<sub>成都市</sub>⠀<small><a href="https://mp.weixin.qq.com/s/K6S0_vmmtZsOevbAFojRvA">2026招生</a>wx</small></td>
 </tr><tr>
 	<td align="right">　🚀　</td>
@@ -150,7 +150,7 @@
 	<td>	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
 	<td align="center"><small>老生常谈网</small></td>
-	<td>	武警士官学校	<sub>杭州市</sub>⠀<small></small></td>
+	<td>	武警警士学院	<sub>杭州市</sub>⠀<small>士官学校2026改名</small></td>
 </tr>
 </table>
 </div>
