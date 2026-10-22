@@ -18,6 +18,7 @@
 
 <h3>改革近况</h3>
 
+*	2026-10-20　新组建央企[国家数据集团](https://www.cnii.com.cn/rmydb/202610/t20261021_765418.html)，排名第28位，央企总数重回100。本页待更新。
 *	2026-01-08　中石化[#12](#12){:target="_top"}与中航油[#88](#85){:target="_top"}实施重组，央企总数减为99（二者官网待更新）。
 *	2025-07-29　从[#8](#8){:target="_top"}兵器装备集团 划转组建中国[长安汽车](http://xxgk.sasac.gov.cn/gdnps/pc/content.jsp?id=34089441)集团[#73](#70){:target="_top"}位，央企总数增为100。
 *	2025-07-19　中国雅江集团[成立](http://www.sasac.gov.cn/n2588035/c34016456/content.html)，排名22位，网址待公布。（本页待更新）
@@ -894,7 +895,7 @@
 ```
 	老生常谈© 2019-2026 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎
-	央企股票全家福 v0.6.0	202609
+	央企股票全家福 v0.6.0	202610
 	https://Laosheng.top/fuwu/yangqi
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
