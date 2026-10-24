@@ -18,8 +18,8 @@
 
 <h3>改革近况</h3>
 
-*	2026-10-20　新组建央企$[国家数据集团](http://www.cndg.com/home)，排名第28位，央企总数重回100。本页待更新。
-*	2026-01-08　中石化[#12](#12){:target="_top"}与中航油[#88](#85){:target="_top"}实施重组，央企总数减为99（二者官网待更新）。
+*	2026-10-20　新组建央企[国家数据集团](https://www.thepaper.cn/newsDetail_forward_34291927)，排名第28位，央企总数重回100。本页待更新。
+*	2026-01-08　中航油[#88](#85){:target="_top"}[并入中石化](http://www.sinopecgroup.com/group/000/000/069/69912.shtml)[#12](#12){:target="_top"}，央企总数减为99。
 *	2025-07-29　从[#8](#8){:target="_top"}兵器装备集团 划转组建中国[长安汽车](http://xxgk.sasac.gov.cn/gdnps/pc/content.jsp?id=34089441)集团[#73](#70){:target="_top"}位，央企总数增为100。
 *	2025-07-19　中国雅江集团[成立](http://www.sasac.gov.cn/n2588035/c34016456/content.html)，排名22位，网址待公布。（本页待更新）
 *	2024-10-18　中国资源循环集团[成立](http://www.sasac.gov.cn/n2588035/c31913785/content.html)，排名67位，中国绿发原董事长出任[一把手](https://news.qq.com/rain/a/20241019A06RIR00)。
@@ -254,7 +254,7 @@
 
 国资委央企名录 ⚙️
 ----------------
-实业央企计98+2家，截至2025年8月。
+实业央企计100家，截至2026年10月。
 
 　按国资委官网排序，点击 上市公司数▽/▼，跳转到页面下方 上市公司名单。
 
@@ -271,7 +271,7 @@
 9⠀🚀	[中国航发](https://www.aecc.cn){:id="9"} 	⠀AECC <small>[网站群](https://www.aecc.cn/sxgk/qyjbsx/)	⠀北京 ⛳ 	⠀[<b>3</b>家上市▽](#G9){:target="_top"}	⠀中国航空发动机集团有限公司 	⠀- -	⠀下辖27家直属单位、3家主板上市公司</small>  
 10⠀💰	[中国融通集团](https://www.crtamg.com.cn){:id="10"} 	⠀CRTC <small>[网站群](https://www.crtamg.com.cn/ywly/zykf/)	⠀北京 ⛳ 	⠀[<b>0</b>家上市▼](#G10){:target="_top"}	⠀中国融通资产管理集团有限公司 	⠀- -	⠀👥军委剥离的商业资产，[组织架构](https://www.crtamg.com.cn/gyrt/zzjg/)</small>  
 11⠀⛽	[中国石油](http://www.cnpc.com.cn){:id="11"} 	⠀CNPC <small>[网站群](http://www.cnpc.com.cn/cnpc/sywq/sywq_index.shtml)	⠀北京 ⛳ 	⠀[<b>4</b>家上市▽](#G11){:target="_top"}	⠀中国石油天然气集团有限公司 	⠀[wb](https://weibo.com/n/中国石油)	⠀✆ 956100，[国际油价](http://oilinfo.cnpc.com.cn/ypxx/gjyj/gjyj.shtml)，[中国石油报](http://news.cnpc.com.cn)/[📰](http://news.cnpc.com.cn/epaper/zgsyb/)</small>  
-12⠀⛽	[中国石化](http://www.sinopecgroup.com){:id="12"} 	⠀SINOPEC <small>[网站群](http://www.sinopecgroup.com/group/gywm/wzq.shtml)	⠀北京 ⛳ 	⠀[<b>8</b>家上市▼](#G12){:target="_top"}	⠀中国石油化工集团有限公司 	⠀[wb](https://weibo.com/n/中国石化)	⠀✆ 95388，[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)</small>  
+12⠀⛽	[中国石化](http://www.sinopecgroup.com){:id="12"} 	⠀SINOPEC <small>[网站群](http://www.sinopecgroup.com/group/zgshwzq/)	⠀北京 ⛳ 	⠀[<b>8</b>家上市▼](#G12){:target="_top"}	⠀中国石油化工集团有限公司 	⠀[wb](https://weibo.com/n/中国石化)	⠀✆ 95388，[中国石化报](http://www.sinopecnews.com.cn/)/[📰](http://enews.sinopecnews.com.cn/zgshb/)</small>  
 13⠀⛽	[中国海油](https://www.cnooc.com.cn){:id="13"} 	⠀CNOOC <small>[网站群](https://www.cnooc.com.cn/col/col641/)	⠀北京 ⛳ 	⠀[<b>5</b>家上市▽](#G13){:target="_top"}	⠀中国海洋石油集团有限公司 	⠀[wb](https://weibo.com/n/图说海油)	⠀[中海油出版物](https://www.cnooc.com.cn/col/col50901/)；[海油螺号](https://weibo.com/cnoocnews)</small>  
 14⠀🗜️	[国家管网集团](https://www.pipechina.com.cn){:id="14"} 	⠀PipeChina - - - <small>	⠀北京 ⛳ 	⠀[<b>0</b>家上市▼](#G14){:target="_top"}	⠀国家石油天然气管网集团有限公司 	⠀- -	⠀[集团要闻](https://www.pipechina.com.cn/xwdt/jtyw.html)，微博：[北方管道](https://weibo.com/6079188491)、[东部储运](https://weibo.com/gdcyxwzx)</small>  
 15⠀⚡	[国家电网](http://www.sgcc.com.cn){:id="15"} 	⠀State Grid <small>[网站群](http://www.sgcc.com.cn/html/sgcc/col2022121211/column_2022121211_1.shtml)	⠀北京 ⛳ 	⠀[<b>7</b>家上市▽](#G15){:target="_top"}	⠀国家电网有限公司 	⠀[wb](https://weibo.com/n/国家电网?电网头条)	⠀[英大传媒](http://www.indaa.com.cn)：国家电网报/[📰](https://epaper.sgcctop.com/)/[wb](https://weibo.com/stategridnews)</small>  
@@ -281,13 +281,13 @@
 19⠀⚡	[中国华电](https://www.chd.com.cn){:id="19"} 	⠀CHD <small>[网站群](https://www.chd.com.cn/site/2/list/e18ba97580df4ab797156323badeeb3a_1.html)	⠀北京 ⛳ 	⠀[<b>6</b>家上市▽](#G19){:target="_top"}	⠀中国华电集团有限公司 	⠀[wb](https://weibo.com/n/中国华电)	⠀[新闻中心](https://www.chd.com.cn/site/2/list/5b05a07f75a0401fa659a2e2959c4916_1.html)</small>  
 20⠀☢️	[国家电投](http://www.spic.com.cn){:id="20"} 	⠀SPIC <small>[网站群](http://www.spic.com.cn/2021/tzzgx/zgdl/)	⠀北京 ⛳ 	⠀[<b>7</b>家上市▼](#G20){:target="_top"}	⠀国家电力投资集团有限公司 	⠀[wb](https://weibo.com/n/国家电投)	⠀中国电力发展史[数字博物馆](https://muse.spic.com.cn)</small>  
 21⠀🌊	[中国三峡集团](https://www.ctg.com.cn){:id="21"} 	⠀CTG <small>[网站群](https://www.ctg.com.cn/sxjt/jtwzq61/)	⠀武汉市 ⛳ 	⠀[<b>3</b>家上市▽](#G21){:target="_top"}	⠀中国长江三峡集团有限公司 	⠀[wb](https://weibo.com/n/中国三峡集团)	⠀[三峡出版传媒集团](https://media.ctg.com.cn)</small>  
-22 🌊	中国雅江集团 	<small>官网暂未公开</small>
-
+22 🌊	中国雅江集团 	<small>官网暂未公开，已组建[超10家公司](https://news.bjx.com.cn/html/20251119/1470706.shtml)	⠀西藏林芝市</small>
 23⠀🔥	[国家能源集团](https://www.ceic.com){:id="22"} 	⠀CHN ENERGY <small>[网站群](https://www.ceic.com/gjnyjtww/chnywtx/chnywtx.shtml)	⠀北京 ⛳ 	⠀[<b>8</b>家上市▼](#G22){:target="_top"}	⠀国家能源投资集团有限责任公司 	⠀[wb](https://weibo.com/n/国家能源集团之声)	⠀《[清洁能源](https://www.ceic.com/gjnyjtww/chnqkzz/chnqkzz.shtml)》，国能[电商平台](https://www.e-chnenergy.com/)</small>  
 24⠀📶	[中国电信](http://www.chinatelecom.com.cn){:id="23"} 	⠀ChinaTelecom <small>[网站群](http://www.chinatelecom.com.cn/corp/zzjgcs/)	⠀北京 ⛳ 	⠀[<b>3</b>家上市▽](#G23){:target="_top"}	⠀中国电信集团有限公司 	⠀[wb](https://weibo.com/n/中国电信)	⠀✆ 10000 [网上营业厅](http://www.189.cn)</small>  
 25⠀📶	[中国联通](http://www.chinaunicom.com.cn){:id="24"} 	⠀ChinaUnicom <small>[网站群](http://www.chinaunicom.com.cn/contact/)	⠀北京 ⛳ 	⠀[<b>1</b>家上市▼](#G24){:target="_top"}	⠀中国联合网络通信集团有限公司 	⠀[wb](https://weibo.com/n/中国联通)	⠀✆ 10010 [网上营业厅](https://www.10010.com/)、《[邮电通信技术](http://ydsjjs.paperopen.com)》</small>  
 26⠀📶	[中国移动](https://www.10086.cn/aboutus/){:id="25"} 	⠀ChinaMobile <small>[网站群](https://www.10086.cn/aboutus/../web_notice/contact/)	⠀北京 ⛳ 	⠀[<b>1</b>家上市▽](#G25){:target="_top"}	⠀中国移动通信集团有限公司 	⠀[wb](https://weibo.com/n/中国移动)	⠀✆ 10086 [网上营业厅](https://www.10086.cn/)、[关联公司](https://www.10086.cn/zzxx/)</small>  
 27⠀🛰	中国星网	⠀　　 - - - <small>	⠀雄安新区 ⛳ 	⠀[<b>0</b>家上市▼](#G26){:target="_top"}	⠀中国卫星网络集团有限公司 	⠀- -	⠀暂未发现官网。对标SpaceX星链</small>  
+28+🔢	$[国家数据](http://www.cndg.com/home) 	⠀CNDG <small>⠀雄安新区 ⠀国家数据集团有限公司</small>  
 28⠀✡	[中国电子](https://www.cec.com.cn){:id="27"} 	⠀CEC - - - <small>	⠀深圳市 ⛳ 	⠀[<b>12</b>家上市▽](#G27){:target="_top"}	⠀中国电子信息产业集团有限公司 	⠀[wb](https://weibo.com/n/CEC中国电子)	⠀[集团新闻](https://www.cec.com.cn/集团新闻)，19家上市公司？687家成员企业</small>  
 29⠀🚚	[中国一汽](https://www.faw.com.cn){:id="28"} 	⠀FAW <small>[网站群](https://www.faw.com.cn/fawcn/373692/hxwz/index.html)	⠀长春市 🚩 	⠀[<b>3</b>家上市▼](#G28){:target="_top"}	⠀中国第一汽车集团有限公司 	⠀[wb](https://weibo.com/n/中国一汽)	⠀[新闻中心](http://www.faw.com.cn/fawcn/373694/373706/index.html)，解放/东风/红旗</small>  
 30⠀🚚	[东风公司](https://www.dfmc.com.cn){:id="29"} 	⠀DFM <small>[网站群](https://www.dfmc.com.cn/zoujindf/links.html)	⠀武汉市 🚩 	⠀[<b>4</b>家上市▽](#G29){:target="_top"}	⠀东风汽车集团有限公司 	⠀[wb](https://weibo.com/n/东风汽车)	⠀[新闻中心](https://www.dfmc.com.cn/news/qiyexinwen.html)</small>  
@@ -350,7 +350,9 @@
 85⠀🔥	[中煤地质总局](https://www.ccgc.cn){:id="82"} 	⠀CCGC - - - <small>	⠀北京  	⠀[<b>0</b>家上市▼](#G82){:target="_top"}	⠀中国煤炭地质总局 	⠀[wb](https://weibo.com/n/中国煤炭地质总局)	⠀中煤地质报[📰](http://digital.zmdxw.com)</small>  
 86⠀　	[新兴际华集团](http://www.xxcig.com){:id="83"} 	⠀XXCIG <small>[网站群](http://www.xxcig.com/web/jtwq/index.shtml)	⠀北京  	⠀[<b>2</b>家上市▽](#G83){:target="_top"}	⠀新兴际华集团有限公司 	⠀[wb](https://weibo.com/n/新兴际华集团)	⠀👥原属军委总后，铸管、军需、应急</small>  
 87⠀📶	[中国航信](http://www.travelsky.cn){:id="84"} 	⠀TravelSky <small>[网站群](http://www.travelsky.cn/publish/main/357/index.html)	⠀北京  	⠀[<b>1</b>家上市▼](#G84){:target="_top"}	⠀中国民航信息集团有限公司 	⠀[wb](https://weibo.com/n/中国航信工会)	⠀[航旅纵横](https://www.umetrip.com/)App，航班实时信息</small>  
+<del>
 88⠀✈️	[中国航油](https://www.cnaf.com){:id="85"} 	⠀CNAF - - - <small>	⠀北京  	⠀[<b>1</b>家上市▽](#G85){:target="_top"}	⠀中国航空油料集团有限公司 	⠀[wb](https://weibo.com/n/中国航油)	⠀世界500强，[成员企业](https://www.cnaf.com/PORTAL_LNG_RLS_XWGJ.getFormList.do?LM_CODE=CNAF_GY_CYQY&LM_CONTENT_TYPE=0)</small>  
+</del>
 89⠀✈️	[中国航材](https://www.casc.com.cn){:id="86"} 	⠀CAS - - - <small>	⠀北京  	⠀[<b>0</b>家上市▼](#G86){:target="_top"}	⠀中国航空器材集团有限公司 	⠀- -	⠀[所属企业](https://www.casc.com.cn/cas/?cat=54)/成员企业，wb停留在2018年</small>  
 90⠀⚡	[中国电建](https://www.powerchina.cn){:id="87"} 	⠀Power China <small>[网站群](https://www.powerchina.cn/col/col7688/)	⠀北京  	⠀[<b>2</b>家上市▽](#G87){:target="_top"}	⠀中国电力建设集团有限公司 	⠀[wb](https://weibo.com/n/电建微言)	⠀世界500强，新微博[中国电建](https://weibo.com/7784996775)</small>  
 91⠀⛑️	[中国能建](https://www.ceec.net.cn){:id="88"} 	⠀Energy China <small>[网站群](https://www.ceec.net.cn/col/col52771/)	⠀北京  	⠀[<b>1</b>家上市▼](#G88){:target="_top"}	⠀中国能源建设集团有限公司 	⠀[wb](https://weibo.com/n/中国能建)	⠀世界500强，[葛洲坝集团](http://www.cggc.ceec.net.cn)，《[中国能源建设](https://www.ceec.net.cn/col/col52793/)》</small>  
