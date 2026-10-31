@@ -163,7 +163,7 @@
 
 　　在114所中央部委直属的普通高校中有31所‘中管高校’（标记❗），书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》。
 所有中管高校均为985和双一流建设高校，网站表现出较高水准，域名与网页路径稳定，这里列出他们的主要页面。
-各校按十九届中央巡视公告排序，2026年10月[二十届中央第八轮巡视](https://www.ccdi.gov.cn/toutiaon/202610/t20261026_518805.html)公告顺序保持不变：
+各校按2021年5月[十九届中央](https://www.ccdi.gov.cn/special/19zyxsgz/)第七轮巡视公告排序，2026年10月[二十届中央第八轮巡视](https://www.ccdi.gov.cn/toutiaon/202610/t20261026_518805.html)公告顺序保持不变：
 
 1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn '五四运动')</b>	 Peking 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](http://www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](https://ocac.pku.edu.cn/)	⠀+北京医科大。[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
 2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn '庚子赔款')</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](http://www.tsinghua.edu.cn/zsjy.htm) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)	⠀+中央工艺美院。[五道口金融](https://www.pbcsf.tsinghua.edu.cn/)、[长庚医院](http://www.btch.edu.cn/)、[CERNET](https://www.cernet.edu.cn/)核心</small>  
