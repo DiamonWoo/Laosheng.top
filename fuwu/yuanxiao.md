@@ -1,6 +1,6 @@
 高等院校三千所 👨‍🎓<sup>助力考生选大学</sup>
 ================
-大萌	　202305-202606（0618官方数据）
+大萌	　202305-202610（0618官方数据）
 <base target="_blank"><link rel="canonical" href="https://Laosheng.top/fuwu/yuanxiao" />
 <meta name='keywords' content='中国大学总目 高校网站导航'>
 <meta name="description" content="{高校所}网页收录完整的中国大学名录 和 大学网址，每年更新。按照 军校/部本/省本/专科 给大专院校分层，按照学校所在城市代码排序，形成 中国高校层级图谱。点击校名直达官网，页面标记 中管/985/211/民办 等院校属性，视觉设计精细，全国大学一目了然。">
@@ -38,7 +38,7 @@
 <h2 id='tupu'>中国大学总目<sub><small>⠀高校层级/本页目录</small></sub></h2>
 
 *	⇓[军事高等院校](#D81){:target="_top"} 44所　⭐<small>半数高考招生</small>
-*	⇓[各省普通高校](#D2){:target="_top"}🧳 **2952**所⠀<small>本科1412所</small><img align='right' title='老生常谈网/高校所' src='daxue-qr.png' alt='二维码'>
+*	⇓[普通高等院校](#D2){:target="_top"}🧳 **2952**所⠀<small>本科1412所，分省排列</small><img align='right' title='老生常谈网/高校所' src='daxue-qr.png' alt='二维码'>
 	* **部属本科高校** 114所🥇 =  
 	　 ⇓[中管高校](#D1){:target="_top"}❗ 31所  
 	　+ 部管高校❕ 84所
@@ -124,7 +124,7 @@
 </tr><tr>
 	<td align="right"><small>手机用户请左右滑动表格</small></td>
 	<td>	海军军士学院 <sub>蚌埠市</sub>⠀<small>士官学校2026改名</small></td>
-	<td>	空军通信军士学院	<sub>大连市</sub>⠀<small>士官学校2026改名</small></td>
+	<td>	空军通信军士学院	<sub>大连市</sub>⠀<small>原士官学校</small></td>
 </tr>
 </table>
 
@@ -150,7 +150,7 @@
 	<td>	武警后勤学院	<sub>天津市</sub>⠀<small></small></td>
 </tr><tr>
 	<td align="center"><small>老生常谈网</small></td>
-	<td>	武警警士学院	<sub>杭州市</sub>⠀<small>士官学校2026改名</small></td>
+	<td>	武警警士学院	<sub>杭州市</sub>⠀<small>士官学校2026秋改名</small></td>
 </tr>
 </table>
 </div>
@@ -162,7 +162,8 @@
 ------------
 
 　　在114所中央部委直属的普通高校中有31所‘中管高校’（标记❗），书记/校长为副部级干部，列入《中共中央管理的干部职务名称表》。
-所有中管高校均为985和双一流建设高校，网站表现出较高水准，域名与网页路径稳定，这里列出他们的主要页面。各校按十九届中央巡视公告排序：
+所有中管高校均为985和双一流建设高校，网站表现出较高水准，域名与网页路径稳定，这里列出他们的主要页面。
+各校按十九届中央巡视公告排序，2026年10月[二十届中央第八轮巡视](https://www.ccdi.gov.cn/toutiaon/202610/t20261026_518805.html)公告顺序保持不变：
 
 1 <sup>教育部</sup>❗ <b>[北京大学](http://www.pku.edu.cn '五四运动')</b>	 Peking 北京 <sub>海淀区</sub>⠀	[院系页](http://www.pku.edu.cn/department.html)⠀	[机构页](http://www.pku.edu.cn/group.html)⠀<small>	[招生办](http://www.pku.edu.cn/recruit.html) /	[图书馆](https://www.lib.pku.edu.cn/) /	[校园网](https://ocac.pku.edu.cn/)	⠀+北京医科大。[未名BBS](https://bbs.pku.edu.cn/)，北大[第六医院](https://www.pkuh6.cn/)</small>  
 2 <sup>教育部</sup>❗ <b>[清华大学](http://www.tsinghua.edu.cn '庚子赔款')</b>	 Tsinghua 北京 <sub>海淀区</sub>⠀	[院系页](http://www.tsinghua.edu.cn/yxsz.htm)⠀	[机构页](http://www.tsinghua.edu.cn/xxgk/zzjg.htm)⠀<small>	[招生办](http://www.tsinghua.edu.cn/zsjy.htm) /	[图书馆](https://lib.tsinghua.edu.cn/) /	[校园网](https://www.itc.tsinghua.edu.cn/)	⠀+中央工艺美院。[五道口金融](https://www.pbcsf.tsinghua.edu.cn/)、[长庚医院](http://www.btch.edu.cn/)、[CERNET](https://www.cernet.edu.cn/)核心</small>  
@@ -585,7 +586,7 @@
 ```
 	老生常谈© 2019-2026 大萌	知识共享许可
 	CC-BY-NC-ND-3.0	可转载-原署名-非演绎-非营利
-	高等院校三千所	Version 1.4.7	202610
+	高等院校三千所	Version 1.4.8	202610
 	https://Laosheng.top/fuwu/yuanxiao
 ```
 
