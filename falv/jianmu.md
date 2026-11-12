@@ -38,6 +38,7 @@
 
 ### 最新公布
 
+*	2026-11-09 李强签署国务院令，公布《[中医药传统知识](https://www.gov.cn/zhengce/content/202611/content_7085591.htm)保护条例》，本页待吸收。
 *	2026-10-26 李强签署[国务院令](https://www.gov.cn/yaowen/liebiao/202610/content_7084285.htm)公布《事业单位登记管理条例》，原2004年的暂行条例废止。本页待吸收。
 *	2026-09-　 李强签署[国务院令](https://www.gov.cn/yaowen/liebiao/202609/content_7080742.htm)公布《市场监督管理所条例》和修订后的《[电力安全事故](https://www.gov.cn/zhengce/content/202609/content_7080188.htm)应急处置和调查处理条例》、《[审计法实施条例](https://www.gov.cn/zhengce/content/202609/content_7081972.htm)》。（本页待吸收）
 *	2026-08-28 [常委会](http://www.npc.gov.cn/npc/c2/c183/)修订：律师法、农业法、国防动员法；通过新法：医疗保障法、耕地保护和质量提升法。（本页待吸收）
